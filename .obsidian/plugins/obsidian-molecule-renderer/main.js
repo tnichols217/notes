@@ -162,9 +162,14 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
           console.log(req);
           let MolecularFormula = req.PropertyTable.Properties[0].MolecularFormula;
           let CID = req.PropertyTable.Properties[0].CID;
-          let iframe = el.createEl("iframe");
+          let container = el.createDiv();
+          container.style.width = "100%";
+          container.style.paddingTop = "100%";
+          let iframe = container.createEl("iframe");
           iframe.src = "https://embed.molview.org/v1/?mode=balls&cid=" + CID;
-          el.createEl("p").innerText = MolecularFormula;
+          iframe.style.width = "100%";
+          iframe.style.height = "100%";
+          container.createEl("p").innerText = MolecularFormula;
         }
       }));
     });
