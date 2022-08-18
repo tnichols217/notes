@@ -117,28 +117,39 @@ var DEFAULT_SETTINGS = {
   a: { value: "a", name: "a", desc: "a" }
 };
 var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
+  getMolecule(src) {
+    return __async(this, null, function* () {
+      return JSON.parse(yield (0, import_obsidian2.request)({ url: "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/" + src + "/property/IsomericSMILES/JSON" }));
+    });
+  }
+  moleculeNotFound(src, el) {
+    return __async(this, null, function* () {
+      let heading = el.createEl("h1");
+      heading.innerText = "Chemical Not found";
+      heading = el.createEl("h2");
+      heading.innerText = "Similar Chemicals include:";
+      let suggestions = JSON.parse(yield (0, import_obsidian2.request)({ url: "https://pubchem.ncbi.nlm.nih.gov/rest/autocomplete/compound/" + src })).dictionary_terms.compound;
+      let list = el.createEl("ol");
+      for (let i of suggestions) {
+        let item = list.createEl("li");
+        item.innerText = i.toLowerCase();
+      }
+    });
+  }
   onload() {
     return __async(this, null, function* () {
       yield this.loadSettings();
       this.addSettingTab(new ObsidianMoleculeRendererSettings(this.app, this));
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK, (src, el, ctx) => __async(this, null, function* () {
-        let req = JSON.parse(yield (0, import_obsidian2.request)({ url: "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/" + src + "/property/IsomericSMILES/JSON" }));
+        let req = yield this.getMolecule(src);
         if ("Fault" in req) {
-          let heading = el.createEl("h1");
-          heading.innerText = "Chemical Not found";
-          heading = el.createEl("h2");
-          heading.innerText = "Similar Chemicals include:";
-          let suggestions = JSON.parse(yield (0, import_obsidian2.request)({ url: "https://pubchem.ncbi.nlm.nih.gov/rest/autocomplete/compound/" + src })).dictionary_terms.compound;
-          let list = el.createEl("ol");
-          for (let i of suggestions) {
-            let item = list.createEl("li");
-            item.innerText = i.toLowerCase();
-          }
+          this.moleculeNotFound(src, el);
         } else {
           let MolecularFormula = req.PropertyTable.Properties[0].MolecularFormula;
           let CID = req.PropertyTable.Properties[0].CID;
           let img = el.createEl("img");
           img.src = "https://pubchem.ncbi.nlm.nih.gov/image/imagefly.cgi?cid=" + CID + "&width=500&height=500";
+          el.createEl("p", MolecularFormula);
         }
       }));
     });
