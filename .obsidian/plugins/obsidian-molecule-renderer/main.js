@@ -119,7 +119,7 @@ var DEFAULT_SETTINGS = {
 var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
   getMolecule(src) {
     return __async(this, null, function* () {
-      return JSON.parse(yield (0, import_obsidian2.request)({ url: "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/" + src + "/property/IsomericSMILES/JSON" }));
+      return JSON.parse(yield (0, import_obsidian2.request)({ url: "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/" + src + "/property/MolecularFormula/JSON" }));
     });
   }
   moleculeNotFound(src, el) {
@@ -145,6 +145,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
         if ("Fault" in req) {
           this.moleculeNotFound(src, el);
         } else {
+          console.log(req);
           let MolecularFormula = req.PropertyTable.Properties[0].MolecularFormula;
           let CID = req.PropertyTable.Properties[0].CID;
           let img = el.createEl("img");
