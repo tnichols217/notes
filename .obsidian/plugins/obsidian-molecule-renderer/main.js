@@ -149,7 +149,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
           let CID = req.PropertyTable.Properties[0].CID;
           let img = el.createEl("img");
           img.src = "https://pubchem.ncbi.nlm.nih.gov/image/imagefly.cgi?cid=" + CID + "&width=500&height=500";
-          el.createEl("p", MolecularFormula);
+          el.createEl("p").innerText = MolecularFormula;
         }
       }));
     });
