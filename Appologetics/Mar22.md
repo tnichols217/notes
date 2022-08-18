@@ -1,0 +1,34 @@
+- Rabbi wolby says that the Exodus never happened
+- Egyptian Periods
+	- Old
+	- Middle
+	- New (Ramses)
+- Rameses Exodus Theory
+- He never thought he'd be caught up in a story like this  
+- What he found might shock and surprise me  
+- Exodus imprtant powerful narrative  
+- Rabbi Wolby said Exodus didn't happen the way the Bible told it  
+- He really can't tell you, doesn't know, and doesn't care  
+- Timothy Mahoney went on a far journey  
+- Family of shephards, sons of Jacob, go out of Egypt and conquer promised land.  
+- Old Kingdom, Middle Kingdom, then New Kingdom in Egypt. All great periods ended in suffering and fall  
+- Ramses II is New Period  
+- The father back you go in time, the bigger the BC number  
+- Stuff is in Luxor, Egypt  
+- No solid evidence in Luxor for Bible's Sammites and Caininites and city  
+- Bietak and Austrian team digging South of city.  
+- 25-30,0000 dead people  
+- These people may be early Israelites  
+- 1200BC onwards is Canaan, too early for this people  
+- Might not have been Ramses 2 in Exodus  
+- Opinions don't define things  
+- Exodus starts before Egypt, with Abraham  
+- God makes Covenant with him to free his people from Egypt  
+- Arrival, multiplication, slavery, judgement, exodus, conquest  
+- Joseph sold to Egypt as slave, rises to power  
+- Agnostic guy sees evidence for exodus  
+- Middle kingdom istead of new  
+- Happened in Avares, what became Ramses  
+- Semites ot this place live then leave, basically exodus.  
+- Big house with 12 graves and pillars, like Jacob's place  
+- One grave/tomb had pyramid like king, seems to be that one kid Joseph I think  

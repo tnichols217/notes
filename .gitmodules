@@ -1,0 +1,3 @@
+[submodule "Private"]
+	path = Private
+	url = https://github.com/tnichols217/private-notes.git

@@ -1,0 +1,9 @@
+- Neo darwinism is when many small changes will eventually make different species good at different things
+- The flagellum is a highly complicated biological machine
+- No one has proof or idea of how this mutation could have evolved
+- The flagellum has irreducible complexity, it could have not evolved from something as without anything, it wouldnt have worked at all
+- Intelligent design books are often misrepresented and make people think that they dont make sense, altho it does offer a good point
+- The amount of change you need to have between an old structure and a new structure is such a big leap that it cannot happen all in one jump
+- It would have taken several coordinated DNA mutations at the same time for things like this to happen
+- The probability that those such mutations would have happened at the same time, and so often to produce so many useful species, would be such a low chance that it would have taken literally forever
+- 

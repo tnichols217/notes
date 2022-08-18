@@ -1,0 +1,10 @@
+- Male reproduction system for evolution of whales is a big problem
+- 100 mill years to produce a pair of mutations that are compatible
+- only 9 mill was availiable to evolve the whale, but multiple big changes where each change is 100 mill
+- The kinds of big changes need to be coordinated mutations - mutations together ot produce a trait
+- mutation rate, effective population size, rate of reporduction, fixation time
+- all mutations are random, one genome has billions of base pairs
+- To achieve two coordinated mutations, it takes much longer than the life of the entire earth
+- 6.48 billion years after new calculations
+- waiting problem
+- 

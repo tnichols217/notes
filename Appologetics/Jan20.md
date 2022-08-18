@@ -1,0 +1,7 @@
+- Darwin's theory is that everything is connected
+- Over a long time species will evolve into different species, including humans
+- Fossils disagreed with his theory, as there was no smooth transition, but he said maybe even older fossils will show his theory (precambrian layer)
+- All the species were very distince, and there was no smooth transition found
+- his excuse was that there was an incomplete record of fossils
+- Cambrian explosion, two minutes in the day, all live as we know it appeared
+- Precamrian organisms were very fragile and softbodied

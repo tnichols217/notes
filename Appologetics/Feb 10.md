@@ -1,0 +1,4 @@
+- Coding DNA is portions of DNA that code for protein (1-2%)
+- "junk DNA" was used as evidence of being part of a random process
+- The coding DNA is like the parts of a building, the non-coding helps build the building
+- 

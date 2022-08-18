@@ -1,0 +1,8 @@
+- We were not created immortal
+- Tree of life keeps them alive
+- Eating from the tree of knowledge of good and evil restricted them from eating of the tree of life, meaning they will die
+- dust = mortality
+- tsela = rib or side
+- tardema = deep sleep
+- side might have just been a revelation and not an actual surgical procedure
+- 

@@ -1,0 +1,6 @@
+- naturalism vs inteligent design
+- science was resistent to biblical beliefs (beginning of the universe)
+- bible isnt necessarily literal in what it says
+- When the bible said that jesus is the door, he is the door in a way, but not literally
+- There are some things that people take too literally and it is not what the bible means
+- 

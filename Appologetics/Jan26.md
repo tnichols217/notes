@@ -1,0 +1,7 @@
+- Scientists used to think that a single mutation could produce a new trait that natural selection could act on
+- Now we know that is naive and simplistic
+- What we earn is that its better at selective optimization of small changes
+- If every move in the right direction is rewarded and it can move across a continuum, then it works for small things like that
+- If a gene is completely broken, it cannot continue to ascend the gradient of functionality
+- Moving along a continuum is completely different than creating a brand new function
+- 

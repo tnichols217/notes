@@ -1,0 +1,106 @@
+{
+  "userAdmonitions": {
+    "def": {
+      "type": "def",
+      "color": "0, 179, 255",
+      "icon": {
+        "name": "newspaper",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Defintion",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "para": {
+      "type": "para",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "align-justify",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": null,
+      "injectColor": false,
+      "noTitle": true
+    },
+    "source": {
+      "type": "source",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "align-justify",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": true
+    },
+    "discuss": {
+      "type": "discuss",
+      "color": "140, 52, 173",
+      "icon": {
+        "name": "wave-square",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Discuss",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "consider": {
+      "type": "consider",
+      "color": "216, 170, 44",
+      "icon": {
+        "name": "think-peaks",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Consider",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "explain": {
+      "type": "explain",
+      "color": "85, 213, 68",
+      "icon": {
+        "name": "explosive-materials",
+        "type": "rpg"
+      },
+      "command": false,
+      "title": "Explain",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    }
+  },
+  "syntaxHighlight": true,
+  "copyButton": true,
+  "version": "9.0.3",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": true,
+  "msDocConverted": true,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.6d7b0b",
+  "syncLinks": false,
+  "enableMarkdownProcessor": false,
+  "allowMSSyntax": true,
+  "livePreviewMS": true
+}

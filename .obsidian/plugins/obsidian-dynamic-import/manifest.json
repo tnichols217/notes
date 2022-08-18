@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-external-embed",
+	"name": "Obsidian External Embed",
+	"version": "1.1.2",
+	"minAppVersion": "0.12.0",
+	"description": "Allows you to Import other MD files into your notes, and improves iframes",
+	"author": "Trevor Nichols",
+	"authorUrl": "https://github.com/tnichols217/",
+	"isDesktopOnly": false
+}

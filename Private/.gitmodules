@@ -1,0 +1,3 @@
+[submodule "duo"]
+	path = duo
+	url = https://github.com/tnichols217/duo

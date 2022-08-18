@@ -1,0 +1,17 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#4d34bc",
+      "directory": "Private/duo/calendar/his"
+    },
+    {
+      "type": "local",
+      "color": "#9b3692",
+      "directory": "Private/duo/calendar/her"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false,
+  "firstDay": 0
+}

@@ -1,0 +1,23 @@
+- False Consciousness
+	- State of mind supporting dominace and oppression (internalized)
+	- Internalized Oppression
+		- When you are being oppressed but you have false consciousness
+- Critical Consciousness
+	- AKA being woke
+		- Now kinda used to ridicule people
+	- Opposite of false consciousness
+	- Kinda like religious enlightenment
+	- Have a mind that is set free
+	- Requires you to be an activist
+- If you are woke, you see the world, if not you are brainwashed
+	- according to critical theory
+- Goes against free speech and foundations of society
+	- They think that it is in place to continue oppression
+	- Want to start a revolution
+- You either have to be siding with oppression or be against it
+- Critical Theory is structured such that it is impossible to meet its demands
+- Interest convergence
+	- The only reason rich people would give away stuff is for their own good
+	- Anti racism
+		- Have to be racist or antiracist
+		- If you are antiracist, its to preserve your own dominance

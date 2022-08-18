@@ -1,0 +1,8 @@
+{
+  "allowInet": true,
+  "allowInline": true,
+  "allowOnload": true,
+  "recursionDepth": 20,
+  "useCacheForFiles": false,
+  "cacheRefreshTime": 30000
+}

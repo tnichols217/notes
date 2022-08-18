@@ -1,0 +1,32 @@
+- Murray wrote **The madness of Crowds**
+	- We have lost our minds
+	- Collective madness come over the world
+- Confusing or alarming things
+	- Jobs
+	- Please everyone
+	- Subculture / bubbles cut off from reality
+	- Polarization
+	- Everything is political
+	- Using accusations to torpedo other people
+- Social justice movement is on of the most powerful phycho-social forces in the world
+	- Either really aware of it
+	- Or very normalized
+	- Whats advertized on the box is not actually whats inside the box
+- Evergreen state college case
+- Critical theory
+	- Its a complete worldview
+	- Started as a modification of marxism
+		- Marx focused on classes
+		- Later applies to gender, race, etc
+	- There are oppressors and oppressed groups
+	- Systemic in nature
+		- Built into language
+			- Ideas
+			- Concepts
+			- Tradtitions
+			- Values
+			- Norms
+			- Institutions
+	- Truths are social and political in nature
+	- Everything is about power games
+	- 

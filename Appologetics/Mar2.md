@@ -1,0 +1,10 @@
+- Science is a big place in our world
+- Because of our materialism, we define existence materially
+- ANE = ancient near east
+- Creation stories start with a precreation state
+- tohu vavohu - formless and empty
+- water and darkness = chaos / non-existant
+- the beginning was lacking order and purpose
+- bara = create/give meaning
+- asa = make
+- 
