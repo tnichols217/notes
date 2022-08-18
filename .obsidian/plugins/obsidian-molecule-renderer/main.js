@@ -113,6 +113,7 @@ function saveSettings(obj, DEFAULT_SETTINGS2) {
 // main.ts
 var NAME = "Obsidian Molecule Renderer";
 var CODEBLOCK = "molecule";
+var CODEBLOCK3D = "molecule3d";
 var DEFAULT_SETTINGS = {
   a: { value: "a", name: "a", desc: "a" }
 };
@@ -150,6 +151,19 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
           let CID = req.PropertyTable.Properties[0].CID;
           let img = el.createEl("img");
           img.src = "https://pubchem.ncbi.nlm.nih.gov/image/imagefly.cgi?cid=" + CID + "&width=500&height=500";
+          el.createEl("p").innerText = MolecularFormula;
+        }
+      }));
+      this.registerMarkdownCodeBlockProcessor(CODEBLOCK3D, (src, el, ctx) => __async(this, null, function* () {
+        let req = yield this.getMolecule(src);
+        if ("Fault" in req) {
+          this.moleculeNotFound(src, el);
+        } else {
+          console.log(req);
+          let MolecularFormula = req.PropertyTable.Properties[0].MolecularFormula;
+          let CID = req.PropertyTable.Properties[0].CID;
+          let iframe = el.createEl("iframe");
+          iframe.src = "https://embed.molview.org/v1/?mode=balls&cid=" + CID;
           el.createEl("p").innerText = MolecularFormula;
         }
       }));
