@@ -235,6 +235,10 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > **Starch**
 > Plants use starch to store energy (monomers are glucose)
 > Starch tends to be not as branched
+> ***
+> 
+> **Glycogen**
+> 
 
 ### Lipids
 
