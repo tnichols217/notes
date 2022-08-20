@@ -51,6 +51,11 @@
 | **Nucleic Acid**  | Nucleotides     | Polyneucleotides | Phosphodiester Linkages |
 
 ### Carbohydrates
+There are three kinds of carbohydrates
+- [[#Monosaccharides]]
+- [[#Disaccharides]]
+- [[#Polysaccharides]]
+
 Carbs are sugars and polymers of sugars
 They provide quick energy and also serve as structural support
 
