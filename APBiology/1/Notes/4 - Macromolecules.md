@@ -68,7 +68,8 @@ They provide quick energy and also serve as structural support
 > ````
 > ***
 > 
-> ****
+> **Aldoses**
+> A Monosaccharide containing a Carbonyl group at the end of the carbon 
 
 ##### Characteristics of a monosaccharide
 ###### Contains a Carbonyl group ($C=O$)
