@@ -1,6 +1,6 @@
 # Properties of Water
 ````col
-```molecule3d
+```molecule
 water
 ```
 **Water** ($H_2O$) Forms a V shaped molecule with the $H$ ends having a partial positive charge and the $O$ ends having a partial negative charge.
