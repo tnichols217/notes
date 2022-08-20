@@ -30,6 +30,14 @@
 > - Literally means **water** (hydro) **separation** (lysis).
 > - One chain receives a $H$ and the other receives an $OH$ (Splitting the added water)
 
+## Classification of Macromolecules
+- Carbohydrates
+	- Monomers
+	- 
+- Lipids
+- Proteins
+- Nucleic Acids
+
 ## The Four Macromolecules
 1. [[#Carbohydrates]]
 2. [[#Lipids]]
