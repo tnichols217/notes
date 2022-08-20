@@ -30,6 +30,11 @@
 > - Literally means **water** (hydro) **separation** (lysis).
 > - One chain receives a $H$ and the other receives an $OH$ (Splitting the added water)
 
+## The four macromolecules
+1. [[#Carbohydrates]]
+2. [[#Lipids]]
+3. 
+
 |                   | **Carbon** | **Hydrogen** | **Oxygen** | **Nitrogen** | **Phosphorus** | **Sulfur** |
 | ----------------- | ---------- | ------------ | ---------- | ------------ | -------------- | ---------- |
 | **Carbohydrates** | Always     | Always       | Always     | Never        | Never          | Never      |
