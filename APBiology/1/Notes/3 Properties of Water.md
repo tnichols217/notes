@@ -154,7 +154,7 @@ Since Water is strongly partially charged with and can Hydrogen Bond, it can eas
 
 ## Acidity
 Occasionally, two molecules of water may accidentally exchange a hydrogen ion, making one Hydronium and one Hydroxide
-Hydronium is commonly abbreviated from $O$
+Hydronium is commonly abbreviated from $H_3O^+$ to $H^+$
 `````col
 ````col-md
 ### Hydroxide ($OH^-$)
