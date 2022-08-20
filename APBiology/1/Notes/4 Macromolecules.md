@@ -2,10 +2,11 @@
 ## Polymers vs Monomers
 > [!def]
 > **Macromolecules**
-> Large structures consisting of one or momade of Polymers
-
-> [!def]
-> **Polymers** are made of a chain of Monomers
+> Large structures consisting of one or more Polymer
+> ***
+> 
+> **Polymers**
+> Formed by chains of Monomers
 >> [!def]
 >> **Dehydration**: The binding of multiple monomers to form a polymer by removing extra $H_2O$.
 >> One monomer loses a $H$ and the other loses an $OH$
