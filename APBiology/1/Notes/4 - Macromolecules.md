@@ -248,7 +248,7 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 
 ##### The difference between $\alpha$ Glucose and $\beta$ Glucose
 $\alpha$ Glucose will always bond on the same side, while $\beta$ Glucose will bond in alternating patterns.
-A similar thing is found for proteins, if bonded like an $\alpha$ then it will form $\alpha$ helicies, while $\beta$
+A similar thing is found for proteins, if bonded like an $\alpha$ then it will form $\alpha$ helices, while $\beta$ bonding will form $\beta$ pleats.
 
 
 ### Lipids
