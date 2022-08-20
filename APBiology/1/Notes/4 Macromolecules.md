@@ -1,7 +1,8 @@
 # Macromolecules
 ## Polymers vs Monomers
 > [!def]
-> Macromolecules are made of Polymers
+> **Macromolecules**
+> Large structures consisting of one or momade of Polymers
 
 > [!def]
 > **Polymers** are made of a chain of Monomers
