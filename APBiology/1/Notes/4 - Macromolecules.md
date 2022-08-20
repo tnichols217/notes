@@ -154,10 +154,6 @@ Dihydroxyacetone
 `````
 ```````
 ```````col-md
-```````
-```````col-md
-```````
-````````
 **Pentoses (Five carbon)**
 `````col
 ````col-md
@@ -173,6 +169,8 @@ Ribulose
 ```
 ````
 `````
+```````
+```````col-md
 **Hexoses (Thee carbon)**
 `````col
 ````col-md
@@ -188,6 +186,8 @@ Fructose
 ```
 ````
 `````
+```````
+````````
 
 #### Disaccharides
 > [!def]
