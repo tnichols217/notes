@@ -193,6 +193,10 @@ Fructose
 > [!def]
 > **Disaccharides**
 > Are "**double sugars**", simply two monosaccharides bonded together.
+> ***
+> 
+> **Glycosidic Linkage**
+> A covalent bond formed by linking two molecules of 
 
 #### Polysaccharides
 
