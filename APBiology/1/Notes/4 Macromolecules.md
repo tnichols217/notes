@@ -26,9 +26,9 @@
 >***
 >
 > **Hydrolysis**
-> The **separation** of a polymer into its monomers by adding $H_2O$
-> Literally means **water** (hydro) **separation** (lysis).
-> One chain receives a $H$ and the other receives an $OH$ (Splitting the added water)
+> - The **separation** of a polymer into its monomers by adding $H_2O$
+> - Literally means **water** (hydro) **separation** (lysis).
+> - One chain receives a $H$ and the other receives an $OH$ (Splitting the added water)
 
 |                   | **Carbon** | **Hydrogen** | **Oxygen** | **Nitrogen** | **Phosphorus** | **Sulfur** |
 | ----------------- | ---------- | ------------ | ---------- | ------------ | -------------- | ---------- |
