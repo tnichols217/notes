@@ -10,13 +10,13 @@
 > ***
 > 
 > **Dehydration**
-> The binding of multiple monomers to form a polymer by removing extra $H_2O$.
+> The **binding** of multiple monomers to form a polymer by **removing** extra $H_2O$.
 > One monomer loses a $H$ and the other loses an $OH$
 >***
 >
 > **Hydrolysis**
-> The separation of a polymer into its monomers by adding $H_2O$
-> Literally means water (hydro) separation (lysis).
+> The **separation** of a polymer into its monomers by adding $H_2O$
+> Literally means **water** (hydro) **separation** (lysis).
 > One chain receives a $H$ and the other receives an $OH$ (Splitting the added water)
 
 |                   | **Carbon** | **Hydrogen** | **Oxygen** | **Nitrogen** | **Phosphorus** | **Sulfur** |
