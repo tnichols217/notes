@@ -30,10 +30,11 @@
 > - Literally means **water** (hydro) **separation** (lysis).
 > - One chain receives a $H$ and the other receives an $OH$ (Splitting the added water)
 
-## The four macromolecules
+## The Four Macromolecules
 1. [[#Carbohydrates]]
 2. [[#Lipids]]
-3. 
+3. [[#Proteins]]
+4. [[#Nucleic Acids]]
 
 |                   | **Carbon** | **Hydrogen** | **Oxygen** | **Nitrogen** | **Phosphorus** | **Sulfur** |
 | ----------------- | ---------- | ------------ | ---------- | ------------ | -------------- | ---------- |
@@ -49,11 +50,11 @@
 | **Proteins**      | Amino Acids     | Polypeptides     | Peptide Bonds           |
 | **Nucleic Acid**  | Nucleotides     | Polyneucleotides | Phosphodiester Linkages |
 
-## Carbohydrates
+### Carbohydrates
 Carbs are sugars and polymers of sugars
 They provide quick energy and also serve as structural support
 
-### Monosaccharides
+#### Monosaccharides
 >[!def]
 > **Monosaccharides**
 > Literally means "**single sugar**"
@@ -66,23 +67,23 @@ They provide quick energy and also serve as structural support
 > **D-Glucose** ($C_6H_{12}O_6$), one of the most basic Monomers in real life.
 > ````
 
-### Disaccharides
+#### Disaccharides
 > [!def]
 > **Disaccharides**
 > Are 
 
-### Polysaccharides
+#### Polysaccharides
 
-## Lipids
+### Lipids
 
-## Proteins
+### Proteins
 > [!def]
 > **Protein**
 > Proteins are made of one or more Polypeptides
 > Polypeptides are polymers of Amino Acids (monomers)
 > Amino Acids are the Monomer of Proteins.
 
-### Amino Acids
+#### Amino Acids
 ![[Pasted image 20220818132618.png]]
 
-## Nucleic Acids
+### Nucleic Acids
