@@ -135,6 +135,8 @@ The Oxygen will normally be bonded to the Carbon Skeleton
 ````
 `````
 ###### Has a Carbon Skeleton ranging from 3 to 7 Carbons long
+````````col
+````````
 **Trioses (Thee carbon)**
 `````col
 ````col-md
