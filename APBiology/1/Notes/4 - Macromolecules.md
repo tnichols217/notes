@@ -77,6 +77,15 @@ They provide quick energy and also serve as structural support
 > ***
 > 
 > **Trioses**
+> A Monosaccharide containing a 3 Carbon long skeleton
+> ***
+> 
+> **Pentoses**
+> A Monosaccharide containing a 3 Carbon long skeleton
+> ***
+> 
+> **Trioses**
+> A Monosaccharide containing a 3 Carbon long skeleton
 
 ##### Characteristics of a monosaccharide
 ###### Contains a Carbonyl group ($C=O$)
