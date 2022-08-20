@@ -41,10 +41,10 @@
 	- Disaccharides
 	- Polysaccharides
 	  
-		|        | Triose | Tetrose | Pentose | Hexose | Heptose |
-		| ------ | ------ | ------- | ------- | ------ | ------- |
-		| Aldose | ✔      | ✔       | ✔       | ✔      | ✔       |
-		| Ketose | ✔      | ✔       | ✔       | ✔      | ✔       |
+		|        | No Branching | Some Branching | Extensive Branching | Hexose | Heptose |
+		| ------ | ------------ | -------------- | ------- | ------ | ------- |
+		| Aldose | ✔            | ✔              | ✔       | ✔      | ✔       |
+		| Ketose | ✔            | ✔              | ✔       | ✔      | ✔       |
 - Lipids
 - Proteins
 - Nucleic Acids
