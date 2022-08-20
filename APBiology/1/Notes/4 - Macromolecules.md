@@ -47,7 +47,7 @@
 		| $\beta$ bonding  | ✔            | ✔              | ✔                   |
 - [[#Lipids]]
 - [[#Proteins]]
-- Nucleic Acids
+- [[#Nucleic Acids]]
 
 ## The Four Macromolecules
 1. [[#Carbohydrates]]
