@@ -249,7 +249,7 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > ***
 > 
 > **Chitin**
-> - 
+> - Insects use Chitin as an exoskeleton due to its strong 
 
 ##### The difference between $\alpha$ Glucose and $\beta$ Glucose
 $\alpha$ Glucose will always bond on the same side, while $\beta$ Glucose will bond in alternating patterns.
