@@ -22,6 +22,7 @@
 > The **binding** of multiple monomers to form a polymer by **removing** extra $H_2O$.
 > Dehydration is a type of condensation reaction, one where the small molecule being removed is specifically water.
 > One monomer loses a $H$ and the other loses an $OH$
+> Literally means "**To remove** (de-) **wa**"
 >***
 >
 > **Hydrolysis**
