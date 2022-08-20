@@ -137,18 +137,19 @@ Ribose
 ```
 ````
 ````col-md
-**ibulose** (Ketose)
+**Ribulose** (Ketose)
 ```molecule3d
 Ribulose
 ```
 ````
 `````
-**Trioses (Thee carbon)**
+**Hexoses (Thee carbon)**
 `````col
 ````col-md
-**Glyceraldehyde** (Alsdose)
+**Glucose
+ ** (Alsdose)
 ```molecule3d
-Glyceraldehyde
+Glucose
 ```
 ````
 ````col-md
