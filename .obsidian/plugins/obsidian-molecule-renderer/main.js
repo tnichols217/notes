@@ -149,7 +149,9 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
           console.log(req);
           let CID = req.PropertyTable.Properties[0].CID;
           let img = el.createEl("img");
-          img.src = "https://pubchem.ncbi.nlm.nih.gov/image/imagefly.cgi?cid=" + CID + "&width=500&height=500";
+          img.style.width = "100%";
+          let size = window.getComputedStyle(img).width;
+          img.src = "https://pubchem.ncbi.nlm.nih.gov/image/imagefly.cgi?cid=" + CID + "&width=" + size + "&height=" + size;
         }
       }));
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK3D, (src, el, ctx) => __async(this, null, function* () {
