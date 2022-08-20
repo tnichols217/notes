@@ -243,6 +243,8 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > ***
 > 
 > **Cellulose**
+> Plants use cellulose as a building material to provide structure in the cell wall (monomers are $\alpha$ glucose)
+> Starch tends to be not as branched
 
 ### Lipids
 
