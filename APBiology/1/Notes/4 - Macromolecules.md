@@ -32,8 +32,10 @@
 
 ## Classification of Macromolecules
 - Carbohydrates
-	- Monomers
-	- 
+	- Monosaccharides
+|||
+	- Disaccharides
+	- Polysaccharides
 - Lipids
 - Proteins
 - Nucleic Acids
