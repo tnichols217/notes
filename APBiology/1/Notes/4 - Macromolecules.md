@@ -68,23 +68,23 @@ They provide quick energy and also serve as structural support
 > ````
 > ***
 > 
-> **Aldoses**
+> **Aldose**
 > A Monosaccharide containing a Carbonyl group at the end of the carbon skeleton
 > ***
 > 
-> **Ketoses**
+> **Ketose**
 > A Monosaccharide containing a Carbonyl group within carbon skeleton
 > ***
 > 
-> **Trioses**
+> **Triose**
 > A Monosaccharide containing a 3 Carbon long skeleton
 > ***
 > 
-> **Pentoses**
+> **Pentose**
 > A Monosaccharide containing a 3 Carbon long skeleton
 > ***
 > 
-> **Trioses**
+> **Triose**
 > A Monosaccharide containing a 3 Carbon long skeleton
 
 ##### Characteristics of a monosaccharide
