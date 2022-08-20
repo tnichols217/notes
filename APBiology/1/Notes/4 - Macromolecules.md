@@ -232,7 +232,8 @@ Disaccharides are normally used as a **mean to transport energy** within an orga
 
 #### Polysaccharides
 Polysaccharides are normally characterized by two things
-- 
+- $\alpha$ or $\beta$ bonding
+- Amount of branching
 
 > [!def]
 > **Polysaccharides**
