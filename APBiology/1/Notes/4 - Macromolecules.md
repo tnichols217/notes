@@ -229,6 +229,8 @@ Disaccharides are normally used as a mean to transport energy within an organism
 > **Polysaccharides**
 > Are long chains of monosaccharides linked with glycosydic bonds
 
+Polysac
+
 ### Lipids
 
 ### Proteins
