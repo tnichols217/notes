@@ -136,7 +136,7 @@ The Oxygen will normally be bonded to the Carbon Skeleton
 `````
 ###### Has a Carbon Skeleton ranging from 3 to 7 Carbons long
 ````````col
-````````
+```````col-md
 **Trioses (Thee carbon)**
 `````col
 ````col-md
@@ -152,6 +152,12 @@ Dihydroxyacetone
 ```
 ````
 `````
+```````
+```````col-md
+```````
+```````col-md
+```````
+````````
 **Pentoses (Five carbon)**
 `````col
 ````col-md
