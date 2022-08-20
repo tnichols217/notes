@@ -68,7 +68,7 @@ They provide quick energy and also serve as structural support
 > ````
 
 ##### Characteristics of a monosaccharide
-
+###### Contains a Carbonyl group ($C=O$)
 
 #### Disaccharides
 > [!def]
