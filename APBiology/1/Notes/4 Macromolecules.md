@@ -6,7 +6,7 @@
 > ***
 > 
 > **Polymers**
-> Formed by chains of Monomer
+> Formed by chains of Monomers
 > ***
 > 
 > **Dehydration**
