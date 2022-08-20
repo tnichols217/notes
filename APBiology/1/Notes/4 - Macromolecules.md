@@ -84,7 +84,7 @@ hydroxide
 **A hydroxyl group**
 The Oxygen will normally be bonded to the Carbon Backbone
 ````
-###### Has a 
+###### Has a Carbon Skeleton ranging from 3 to 7 Carbons long
 
 #### Disaccharides
 > [!def]
