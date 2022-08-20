@@ -128,8 +128,17 @@ Methanone
 **A carbonyl group**
 The Carbon will be bonded to two other atoms
 ````
+`````
+`````col-md
+````col
+```molecule3d
+hydroxide
+```
+**A hydroxyl group**
+The Oxygen will normally be bonded to the Carbon Skeleton
 ````
 `````
+``````
 ###### Contains multiple Hydroxyl groups ($-\ OH$)
 ````col
 ```molecule3d
