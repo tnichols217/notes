@@ -215,14 +215,12 @@ Disaccharides are normally used as a mean to transport energy within an organism
 > ````col-md
 > **Sucrose**
 > ```molecule3d
-> surcrose
+> sucrose
 > ```
 > ```molecule
-> surcrose
+> sucrose
 > ```
-> surcrose is a disaccharide of two glucose molecules
-> ````
-> ````col-md
+> Surcrose is a disaccharide of a glucose and fructose molecule
 > ````
 > `````
 
