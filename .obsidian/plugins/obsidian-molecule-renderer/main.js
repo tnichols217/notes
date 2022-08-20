@@ -150,7 +150,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
           let CID = req.PropertyTable.Properties[0].CID;
           let img = el.createEl("img");
           img.style.width = "100%";
-          console.log(window.getComputedStyle(el).width.toString());
+          console.log(window.getComputedStyle(el).width);
           let size = parseInt(window.getComputedStyle(el).width);
           img.src = "https://pubchem.ncbi.nlm.nih.gov/image/imagefly.cgi?cid=" + CID + "&width=" + size + "&height=" + size;
         }
