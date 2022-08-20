@@ -33,10 +33,11 @@
 ## Classification of Macromolecules
 - Carbohydrates
 	- Monosaccharides
-|        | Triose | Tetrose | Pentose | Hexose | Heptose |
-| ------ | ------ | ------- | ------- | ------ | ------- |
-| Aldose |        |         |         |        |         |
-| Ketose |        |         |         |        |         |
+	  
+		|        | Triose | Tetrose | Pentose | Hexose | Heptose |
+		| ------ | ------ | ------- | ------- | ------ | ------- |
+		| Aldose |        |         |         |        |         |
+		| Ketose |        |         |         |        |         |
 	- Disaccharides
 	- Polysaccharides
 - Lipids
