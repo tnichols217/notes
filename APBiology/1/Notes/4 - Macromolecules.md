@@ -256,7 +256,10 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > ```molecule3d
 > N-[(2R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide
 > ```
-> The chitin monomer has a similar structure to glucose except it contains a nitro
+> The chitin monomer has a similar structure to glucose except it contains a nitrogen attachment on the carbon backbone
+> ```molecule3d
+> gluc
+> ```
 > ````
 
 ##### The difference between $\alpha$ Glucose and $\beta$ Glucose
