@@ -83,8 +83,12 @@ They provide quick energy and also serve as structural support
 > ````
 > ***
 > 
+> ````col
+> ```col-md
 > **Triose**
 > A Monosaccharide containing a 3 Carbon long skeleton
+> ```
+> ````
 > ***
 > 
 > **Tetrose**
