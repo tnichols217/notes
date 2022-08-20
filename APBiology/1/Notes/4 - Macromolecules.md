@@ -92,7 +92,7 @@ They provide quick energy and also serve as structural support
 > A Monosaccharide containing a 6 Carbon long skeleton
 > ***
 > 
-> **Triose**
+> **Heptose**
 > A Monosaccharide containing a 3 Carbon long skeleton
 
 ##### Characteristics of a monosaccharide
