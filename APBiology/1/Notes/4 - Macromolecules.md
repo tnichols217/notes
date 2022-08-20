@@ -33,7 +33,8 @@
 ## Classification of Macromolecules
 - Carbohydrates
 	- Monosaccharides
-|||
+|     | Triose | Tetrose | Pentose | 
+| --- | ------ | ------- | ------- |
 	- Disaccharides
 	- Polysaccharides
 - Lipids
