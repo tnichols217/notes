@@ -239,6 +239,7 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > 
 > **Glycogen**
 > - Humans store glycogen in muscles to provide energy when needed.
+> - Is made from **$\alpha$ glucose**
 > - It is extensively branched so that it can be easily broken down when necessary.
 > ***
 > 
@@ -249,7 +250,7 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > ***
 > 
 > **Chitin**
-> - Insects use Chitin as an exoskeleton due to its strong 
+> - Insects use Chitin as an exoskeleton due to its strong structure.
 
 ##### The difference between $\alpha$ Glucose and $\beta$ Glucose
 $\alpha$ Glucose will always bond on the same side, while $\beta$ Glucose will bond in alternating patterns.
