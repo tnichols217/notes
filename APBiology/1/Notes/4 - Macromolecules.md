@@ -210,6 +210,17 @@ Disaccharides are normally used as a mean to transport energy within an organism
 > ```molecule
 > maltose
 > ```
+> Maltose is a disaccharide of two glucose molecules
+> ````
+> ````col-md
+> **Sucrose**
+> ```molecule3d
+> surcrose
+> ```
+> ```molecule
+> surcrose
+> ```
+> surcrose is a disaccharide of two glucose molecules
 > ````
 > ````col-md
 > ````
