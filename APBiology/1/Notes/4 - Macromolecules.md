@@ -60,6 +60,7 @@ Carbs are sugars and polymers of sugars
 They provide quick energy and also serve as structural support
 
 #### Monosaccharides
+Monosaccharides are normally charache
 >[!def]
 > **Monosaccharides**
 > Literally means "**single sugar**"
