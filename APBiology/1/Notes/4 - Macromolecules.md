@@ -77,6 +77,13 @@ Methanone
 The Carbon will be bonded to two other atoms
 ````
 ###### Contains multiple Hydroxyl groups ($-\ OH$)
+````col
+```molecule3d
+Hydroxyl
+```
+**A carbonyl group**
+The Carbon will be bonded to two other atoms
+````
 
 #### Disaccharides
 > [!def]
