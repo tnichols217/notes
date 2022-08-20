@@ -41,10 +41,10 @@
 	- Disaccharides
 	- Polysaccharides
 	  
-		|        | No Branching | Some Branching | Extensive Branching | Hexose | Heptose |
-		| ------ | ------------ | -------------- | ------- | ------ | ------- |
-		| Aldose | ✔            | ✔              | ✔       | ✔      | ✔       |
-		| Ketose | ✔            | ✔              | ✔       | ✔      | ✔       |
+		|                  | No Branching | Some Branching | Extensive Branching |
+		| ---------------- | ------------ | -------------- | ------------------- |
+		| $\alpha$ bonding | ✔            | ✔              | ✔                   |
+		| $\beta$ bonding  | ✔            | ✔              | ✔                   |
 - Lipids
 - Proteins
 - Nucleic Acids
