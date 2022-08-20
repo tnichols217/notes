@@ -254,7 +254,7 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > - Uses **$\beta$ chitin** as its monomer, making it hard to digest as well
 > ````col
 > ```molecule3d
-> chitin
+> N-[(2R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide
 > ```
 > ````
 
