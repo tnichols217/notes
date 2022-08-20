@@ -75,6 +75,7 @@ They provide quick energy and also serve as structural support
 > 
 > **Ketose**
 > A Monosaccharide containing a Carbonyl group within carbon skeleton
+> ![[Pasted image 20220820230822.png]]
 > ***
 > 
 > **Triose**
