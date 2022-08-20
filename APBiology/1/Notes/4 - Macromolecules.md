@@ -246,6 +246,10 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > - Plants use cellulose as a building material to provide structure in the cell wall (monomers are **$\beta$ glucose**)
 > - Cellulose is never branched
 > - Is hard to digest and most animals cannot break down cellulose to produce usable energy.
+> ***
+> 
+> **Chitin**
+> - 
 
 ##### The difference between $\alpha$ Glucose and $\beta$ Glucose
 $\alpha$ Glucose will always bond on the same side, while $\beta$ Glucose will bond in alternating patterns.
