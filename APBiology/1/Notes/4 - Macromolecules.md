@@ -85,34 +85,36 @@ They provide quick energy and also serve as structural support
 > 
 > ````col
 > ```col-md
+> flexGrow=2
+> ===
 > **Triose**
 > A Monosaccharide containing a 3 Carbon long skeleton
 > ```
 > ```col-md
+> flexGrow=2
+> ===
 > **Tetrose**
 > A Monosaccharide containing a 4 Carbon long skeleton
 > ```
 > ```col-md
+> flexGrow=2
+> ===
 > **Pentose**
 > A Monosaccharide containing a 5 Carbon long skeleton
 > ```
 > ```col-md
+> flexGrow=2
+> ===
 > **Hexose**
 > A Monosaccharide containing a 6 Carbon long skeleton
 > ```
 > ```col-md
+> flexGrow=2
+> ===
 > **Heptose**
 > A Monosaccharide containing a 7 Carbon long skeleton
 > ```
 > ````
-> ***
-> 
-> ***
-> 
-> ***
-> 
-> ***
-> 
 
 ##### Characteristics of a monosaccharide
 ###### Contains a Carbonyl group ($C=O$)
