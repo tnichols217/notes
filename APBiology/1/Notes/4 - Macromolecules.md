@@ -146,16 +146,15 @@ Ribulose
 **Hexoses (Thee carbon)**
 `````col
 ````col-md
-**Glucose
- ** (Alsdose)
+**Glucose** (Alsdose)
 ```molecule3d
 Glucose
 ```
 ````
 ````col-md
-**Dihydroxyacetone** (Ketose)
+**Fructose** (Ketose)
 ```molecule3d
-Dihydroxyacetone
+Fructose
 ```
 ````
 `````
