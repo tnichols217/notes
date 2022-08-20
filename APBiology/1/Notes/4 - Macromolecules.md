@@ -231,6 +231,9 @@ Disaccharides are normally used as a **mean to transport energy** within an orga
 > `````
 
 #### Polysaccharides
+Polysaccharides are normally characterized by two things
+- 
+
 > [!def]
 > **Polysaccharides**
 > Are long chains of monosaccharides linked with glycosydic bonds
