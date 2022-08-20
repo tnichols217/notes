@@ -36,8 +36,8 @@
 	  
 		|        | Triose | Tetrose | Pentose | Hexose | Heptose |
 		| ------ | ------ | ------- | ------- | ------ | ------- |
-		| Aldose |        |         |         |        |         |
-		| Ketose |        |         |         |        |         |
+		| Aldose | ✔      | ✔       | ✔       |        |         |
+		| Ketose | ✔      | ✔       | ✔        |        |         |
 	- Disaccharides
 	- Polysaccharides
 - Lipids
