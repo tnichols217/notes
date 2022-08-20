@@ -85,7 +85,11 @@ They provide quick energy and also serve as structural support
 > ***
 > 
 > **Pentose**
-> A Monosaccharide containing a 3 Carbon long skeleton
+> A Monosaccharide containing a 5 Carbon long skeleton
+> ***
+> 
+> **Hexose**
+> A Monosaccharide containing a 6 Carbon long skeleton
 > ***
 > 
 > **Triose**
