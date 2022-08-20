@@ -9,6 +9,11 @@
 > Formed by chains of Monomers
 > ***
 > 
+> **Monomers**
+> Building blocks of Polymers
+> Some have functions of their own
+> ***
+> 
 > **Dehydration**
 > The **binding** of multiple monomers to form a polymer by **removing** extra $H_2O$.
 > One monomer loses a $H$ and the other loses an $OH$
