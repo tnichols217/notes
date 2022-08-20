@@ -31,22 +31,22 @@
 > - One chain receives a $H$ and the other receives an $OH$ (Splitting the added water)
 
 ## Classification of Macromolecules
-- Carbohydrates
-	- Monosaccharides
+- [[#Carbohydrates]]
+	- [[#Monosaccharides]]
 	  
 		|        | Triose | Tetrose | Pentose | Hexose | Heptose |
 		| ------ | ------ | ------- | ------- | ------ | ------- |
 		| Aldose | ✔      | ✔       | ✔       | ✔      | ✔       |
 		| Ketose | ✔      | ✔       | ✔       | ✔      | ✔       |
-	- Disaccharides
-	- Polysaccharides
+	- [[#Disaccharides]]
+	- [[#Polysaccharides]]
 	  
 		|                  | No Branching | Some Branching | Extensive Branching |
 		| ---------------- | ------------ | -------------- | ------------------- |
 		| $\alpha$ bonding | ✔            | ✔              | ✔                   |
 		| $\beta$ bonding  | ✔            | ✔              | ✔                   |
-- Lipids
-- Proteins
+- [[#Lipids]]
+- [[#Proteins]]
 - Nucleic Acids
 
 ## The Four Macromolecules
