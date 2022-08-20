@@ -128,6 +128,36 @@ Dihydroxyacetone
 ```
 ````
 `````
+**Pentoses (Five carbon)**
+`````col
+````col-md
+**Ribose** (Alsdose)
+```molecule3d
+Ribose
+```
+````
+````col-md
+**Dihydroxyacetone** (Ketose)
+```molecule3d
+Dihydroxyacetone
+```
+````
+`````
+**Trioses (Thee carbon)**
+`````col
+````col-md
+**Glyceraldehyde** (Alsdose)
+```molecule3d
+Glyceraldehyde
+```
+````
+````col-md
+**Dihydroxyacetone** (Ketose)
+```molecule3d
+Dihydroxyacetone
+```
+````
+`````
 
 #### Disaccharides
 > [!def]
