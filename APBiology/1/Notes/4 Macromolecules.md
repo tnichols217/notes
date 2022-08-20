@@ -13,6 +13,8 @@
 > Building blocks of Polymers
 > Some have functions of their own
 > ***
+> **Condensation Reaction**
+> The binding of two subst
 > 
 > **Dehydration**
 > The **binding** of multiple monomers to form a polymer by **removing** extra $H_2O$.
