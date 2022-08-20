@@ -79,10 +79,10 @@ The Carbon will be bonded to two other atoms
 ###### Contains multiple Hydroxyl groups ($-\ OH$)
 ````col
 ```molecule3d
-Hydroxyl
+hydroxide
 ```
-**A carbonyl group**
-The Carbon will be bonded to two other atoms
+**A hydroxyl group**
+The Oxygen will normally be bonded to two other atoms
 ````
 
 #### Disaccharides
