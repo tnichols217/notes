@@ -137,9 +137,9 @@ Ribose
 ```
 ````
 ````col-md
-**Dihydroxyacetone** (Ketose)
+**ibulose** (Ketose)
 ```molecule3d
-Dihydroxyacetone
+Ribulose
 ```
 ````
 `````
