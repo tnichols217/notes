@@ -236,7 +236,7 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > ````col-md
 > **Starch**
 > ```molecule3d
-> starch
+> amylose
 > ```
 > ```molecule
 > maltose
