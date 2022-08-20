@@ -118,10 +118,9 @@ They provide quick energy and also serve as structural support
 
 ##### Characteristics of a monosaccharide
 ###### Contains certain groups of atoms
-`````col
-````col-md
-
-###### Contains a Carbonyl group ($C=O$)
+``````col
+`````col-md
+**Carbonyl group ($C=O$)**
 ````col
 ```molecule3d
 Methanone
