@@ -233,7 +233,7 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 
 > [!example] 
 > **Starch**
-> Plants use starch to store energy (monomers are glucose)
+> Plants use starch to store energy (monomers are $\alpha$ glucose)
 > Starch tends to be not as branched
 > ***
 > 
