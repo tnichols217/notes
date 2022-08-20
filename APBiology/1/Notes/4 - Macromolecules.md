@@ -60,7 +60,7 @@ Carbs are sugars and polymers of sugars
 They provide quick energy and also serve as structural support
 
 #### Monosaccharides
-Monosaccharides are normally charachterized by the amount of Carbons in the backbone and where the carbonyl group is located
+Monosaccharides are normally charachterized by the amount of Carbons in the backbone and where the carbonyl group ($C=O$) is located
 >[!def]
 > **Monosaccharides**
 > Literally means "**single sugar**"
