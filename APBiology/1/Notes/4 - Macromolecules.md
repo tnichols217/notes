@@ -74,7 +74,9 @@ They provide quick energy and also serve as structural support
 > 
 > **Ketoses**
 > A Monosaccharide containing a Carbonyl group within carbon skeleton
+> ***
 > 
+> **Trioses**
 
 ##### Characteristics of a monosaccharide
 ###### Contains a Carbonyl group ($C=O$)
