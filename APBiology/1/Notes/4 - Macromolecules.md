@@ -232,7 +232,8 @@ Disaccharides are normally used as a **mean to transport energy** within an orga
 Polysaccharides are normally used to **store energy** and serve as **building material** for organism (like cellulose in a cell wall)
 
 > [!example] 
-> 
+> **Starch**
+> Plants use starch to store energy (monomers are glucose)
 
 ### Lipids
 
