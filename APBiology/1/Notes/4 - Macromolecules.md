@@ -246,7 +246,7 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > Plants use cellulose as a building material to provide structure in the cell wall (monomers are **$\beta$ glucose**)
 > Cellulose is never branched
 
-
+##### The difference between $\alpha$ Glucose and $\beta$ Glucose
 
 ### Lipids
 
