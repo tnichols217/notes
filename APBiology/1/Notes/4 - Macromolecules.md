@@ -132,7 +132,6 @@ The Carbon will be bonded to two other atoms
 hydroxide
 ```
 The Oxygen will normally be bonded to the Carbon Skeleton
-```
 ````
 `````
 ###### Has a Carbon Skeleton ranging from 3 to 7 Carbons long
