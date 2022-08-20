@@ -13,11 +13,14 @@
 > Building blocks of Polymers
 > Some have functions of their own
 > ***
+> 
 > **Condensation Reaction**
-> The binding of two subst
+> The binding of two substances by removing a small molecule.
+> ***
 > 
 > **Dehydration**
 > The **binding** of multiple monomers to form a polymer by **removing** extra $H_2O$.
+> Dehydration is a type
 > One monomer loses a $H$ and the other loses an $OH$
 >***
 >
