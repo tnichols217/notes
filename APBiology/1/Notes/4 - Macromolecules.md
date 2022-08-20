@@ -66,6 +66,9 @@ They provide quick energy and also serve as structural support
 > ```
 > **D-Glucose** ($C_6H_{12}O_6$), one of the most basic Monomers in real life.
 > ````
+> ***
+> 
+> ****
 
 ##### Characteristics of a monosaccharide
 ###### Contains a Carbonyl group ($C=O$)
