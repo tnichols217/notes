@@ -88,6 +88,9 @@ The Oxygen will normally be bonded to the Carbon Skeleton
 ```molecule3d
 Glyceraldehyde
 ```
+```molecule3d
+Glyceraldehyde
+```
 
 #### Disaccharides
 > [!def]
