@@ -84,6 +84,7 @@ hydroxide
 **A hydroxyl group**
 The Oxygen will normally be bonded to the Carbon Backbone
 ````
+###### Has a 
 
 #### Disaccharides
 > [!def]
