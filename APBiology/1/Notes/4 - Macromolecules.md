@@ -116,7 +116,7 @@ The Oxygen will normally be bonded to the Carbon Skeleton
 **Trioses (Thee carbon)**
 `````col
 ````col-md
-**Glyceraldehyde**
+**Glyceraldehyde** (Alsdose)
 ```molecule3d
 Glyceraldehyde
 ```
