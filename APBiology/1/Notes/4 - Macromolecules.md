@@ -93,7 +93,7 @@ They provide quick energy and also serve as structural support
 > ***
 > 
 > **Heptose**
-> A Monosaccharide containing a 3 Carbon long skeleton
+> A Monosaccharide containing a 7 Carbon long skeleton
 
 ##### Characteristics of a monosaccharide
 ###### Contains a Carbonyl group ($C=O$)
