@@ -204,6 +204,9 @@ Disaccharides are normally used as a mean to transport energy within an organism
 > `````col
 > ````col-md
 > **Maltose**
+> ```molecule3d
+> maltose
+> ```
 > ````
 > ````col-md
 > ````
