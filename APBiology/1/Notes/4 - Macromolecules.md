@@ -82,7 +82,7 @@ The Carbon will be bonded to two other atoms
 hydroxide
 ```
 **A hydroxyl group**
-The Oxygen will normally be bonded to two other atoms
+The Oxygen will normally be bonded to the Carbon Backbone
 ````
 
 #### Disaccharides
