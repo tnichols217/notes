@@ -198,7 +198,9 @@ Fructose
 > **Glycosidic Linkage**
 > A covalent bond formed between two monosaccharides by dehydration.
 
-Disaccharides are normally used as a mean to transport energy within an organism, 
+Disaccharides are normally used as a mean to transport energy within an organism.
+
+> [!exampl]
 
 #### Polysaccharides
 
