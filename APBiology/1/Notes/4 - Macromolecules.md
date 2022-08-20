@@ -36,10 +36,15 @@
 	  
 		|        | Triose | Tetrose | Pentose | Hexose | Heptose |
 		| ------ | ------ | ------- | ------- | ------ | ------- |
-		| Aldose | ✔      | ✔       | ✔       |        |         |
-		| Ketose | ✔      | ✔       | ✔        |        |         |
+		| Aldose | ✔      | ✔       | ✔       | ✔      | ✔       |
+		| Ketose | ✔      | ✔       | ✔       | ✔      | ✔       |
 	- Disaccharides
 	- Polysaccharides
+	  
+		|        | Triose | Tetrose | Pentose | Hexose | Heptose |
+		| ------ | ------ | ------- | ------- | ------ | ------- |
+		| Aldose | ✔      | ✔       | ✔       | ✔      | ✔       |
+		| Ketose | ✔      | ✔       | ✔       | ✔      | ✔       |
 - Lipids
 - Proteins
 - Nucleic Acids
