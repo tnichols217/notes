@@ -201,9 +201,13 @@ Fructose
 Disaccharides are normally used as a mean to transport energy within an organism.
 
 > [!example]
-> ````col
-> a
+> `````col
+> ````col-md
+> **Maltose**
 > ````
+> ````col-md
+> ````
+> `````
 
 #### Polysaccharides
 
