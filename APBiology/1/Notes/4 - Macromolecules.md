@@ -225,6 +225,8 @@ Disaccharides are normally used as a mean to transport energy within an organism
 > `````
 
 #### Polysaccharides
+> [!def]
+> 
 
 ### Lipids
 
