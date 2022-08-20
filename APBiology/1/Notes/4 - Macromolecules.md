@@ -198,7 +198,7 @@ Fructose
 > **Glycosidic Linkage**
 > A covalent bond formed between two monosaccharides by dehydration.
 
-Disaccharides are normally used as a mean to transport energy within an organism.
+Disaccharides are normally used as a **mean to transport energy** within an organism.
 
 > [!example]
 > `````col
@@ -229,7 +229,7 @@ Disaccharides are normally used as a mean to transport energy within an organism
 > **Polysaccharides**
 > Are long chains of monosaccharides linked with glycosydic bonds
 
-Polysaccharides are normally used to store energy and serve as building material for organism
+Polysaccharides are normally used to **store energy** and serve as **building material** for organism (like cellulose in a cell wall)
 
 ### Lipids
 
