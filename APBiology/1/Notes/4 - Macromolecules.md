@@ -70,6 +70,7 @@ They provide quick energy and also serve as structural support
 > 
 > **Aldose**
 > A Monosaccharide containing a Carbonyl group at the end of the carbon skeleton
+> ![https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Family_tree_aldoses.svg/1920px-Family_tree_aldoses.svg.png]
 > ***
 > 
 > **Ketose**
