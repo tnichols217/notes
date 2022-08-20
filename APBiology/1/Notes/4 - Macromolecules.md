@@ -196,7 +196,7 @@ Fructose
 > ***
 > 
 > **Glycosidic Linkage**
-> A covalent bond formed by linking two molecules of 
+> A covalent bond formed between two monosaccharides by dehydration
 
 #### Polysaccharides
 
