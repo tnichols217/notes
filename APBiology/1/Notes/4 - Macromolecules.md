@@ -238,7 +238,7 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > ***
 > 
 > **Glycogen**
-> 
+> Humans store glycogen in muscles to provide energy when needed
 
 ### Lipids
 
