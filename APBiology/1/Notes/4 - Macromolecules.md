@@ -120,8 +120,7 @@ They provide quick energy and also serve as structural support
 ###### Contains certain groups of atoms
 ``````col
 `````col-md
-**Carbonyl group ($C=O$)**
-````col
+**A Carbonyl group ($C=O$)**
 ```molecule3d
 Methanone
 ```
@@ -130,6 +129,7 @@ The Carbon will be bonded to two other atoms
 ````
 `````
 `````col-md
+**Multiple Hydroxyl groups ($-\ OH$)**
 ````col
 ```molecule3d
 hydroxide
@@ -139,14 +139,6 @@ The Oxygen will normally be bonded to the Carbon Skeleton
 ````
 `````
 ``````
-###### Contains multiple Hydroxyl groups ($-\ OH$)
-````col
-```molecule3d
-hydroxide
-```
-**A hydroxyl group**
-The Oxygen will normally be bonded to the Carbon Skeleton
-````
 ###### Has a Carbon Skeleton ranging from 3 to 7 Carbons long
 **Trioses (Thee carbon)**
 `````col
