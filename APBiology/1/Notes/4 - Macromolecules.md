@@ -232,28 +232,6 @@ Disaccharides are normally used as a **mean to transport energy** within an orga
 Polysaccharides are normally used to **store energy** and serve as **building material** for organism (like cellulose in a cell wall)
 
 > [!example] 
-> `````col
-> ````col-md
-> **Starch**
-> ```molecule3d
-> amylose
-> ```
-> ```molecule
-> maltose
-> ```
-> Maltose is a disaccharide of two glucose molecules
-> ````
-> ````col-md
-> **Sucrose**
-> ```molecule3d
-> sucrose
-> ```
-> ```molecule
-> sucrose
-> ```
-> Surcrose is a disaccharide of a glucose and fructose molecule
-> ````
-> `````
 > 
 
 ### Lipids
