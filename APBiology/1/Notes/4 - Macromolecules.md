@@ -118,27 +118,23 @@ They provide quick energy and also serve as structural support
 
 ##### Characteristics of a monosaccharide
 ###### Contains certain groups of atoms
-``````col
-`````col-md
+`````col
+````col-md
 **A Carbonyl group ($C=O$)**
 ```molecule3d
 Methanone
 ```
-**A carbonyl group**
 The Carbon will be bonded to two other atoms
 ````
-`````
-`````col-md
+````col-md
 **Multiple Hydroxyl groups ($-\ OH$)**
-````col
 ```molecule3d
 hydroxide
 ```
-**A hydroxyl group**
 The Oxygen will normally be bonded to the Carbon Skeleton
+```
 ````
 `````
-``````
 ###### Has a Carbon Skeleton ranging from 3 to 7 Carbons long
 **Trioses (Thee carbon)**
 `````col
