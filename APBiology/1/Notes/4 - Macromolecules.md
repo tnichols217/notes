@@ -192,7 +192,7 @@ Fructose
 #### Disaccharides
 > [!def]
 > **Disaccharides**
-> Are "**double sugars**", simply two monosaccharides bonded together.
+> Are "**double sugars**", simply two monosaccharides glycosidically linked together.
 > ***
 > 
 > **Glycosidic Linkage**
