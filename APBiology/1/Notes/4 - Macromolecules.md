@@ -80,6 +80,10 @@ They provide quick energy and also serve as structural support
 > A Monosaccharide containing a 3 Carbon long skeleton
 > ***
 > 
+> **Tetrose**
+> A Monosaccharide containing a 4 Carbon long skeleton
+> ***
+> 
 > **Pentose**
 > A Monosaccharide containing a 3 Carbon long skeleton
 > ***
