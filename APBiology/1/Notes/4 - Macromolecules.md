@@ -247,7 +247,8 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > Cellulose is never branched
 
 ##### The difference between $\alpha$ Glucose and $\beta$ Glucose
-$\alpha$ Glucos
+$\alpha$ Glucose will always bond on the same side, while $\beta$ Glucose will bond in alternating patterns.
+A similar thing 
 
 
 ### Lipids
