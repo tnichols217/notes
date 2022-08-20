@@ -70,7 +70,7 @@ They provide quick energy and also serve as structural support
 #### Disaccharides
 > [!def]
 > **Disaccharides**
-> Are 
+> Are "**double sugars**", simply two monosaccharides bonded together.
 
 #### Polysaccharides
 
