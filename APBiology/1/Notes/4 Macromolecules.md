@@ -35,7 +35,7 @@
 
 ## Carbohydrates
 Carbs are sugars and polymers of sugars
-
+They provide quick energy and also serve as stuctural support
 
 ### Monosaccharides
 >[!def]
