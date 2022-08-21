@@ -118,10 +118,15 @@ var DEFAULT_SETTINGS = {
   a: { value: "a", name: "a", desc: "a" }
 };
 var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
+  request(url) {
+    return __async(this, null, function* () {
+      return url in this.pugrestCache ? this.pugrestCache.get(url) : this.pugrestCache.set(url, yield (0, import_obsidian2.request)({ url, throw: false })).get(url);
+    });
+  }
   getMolecule(src) {
     return __async(this, null, function* () {
       let reqStr = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/" + src + "/property/MolecularFormula/JSON";
-      return JSON.parse((yield (0, import_obsidian2.request)({ url: reqStr }).catch((err) => {
+      return JSON.parse((yield this.request(reqStr).catch((err) => {
         console.error(err);
         console.log(src);
         console.log(reqStr);
@@ -135,7 +140,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
       heading = el.createEl("h2");
       heading.innerText = "Similar Chemicals include:";
       console.log(src);
-      let suggestions = JSON.parse(yield (0, import_obsidian2.request)({ url: "https://pubchem.ncbi.nlm.nih.gov/rest/autocomplete/compound/" + src })).dictionary_terms.compound;
+      let suggestions = JSON.parse(yield this.request("https://pubchem.ncbi.nlm.nih.gov/rest/autocomplete/compound/" + src)).dictionary_terms.compound;
       let list = el.createEl("ol");
       for (let i of suggestions) {
         let item = list.createEl("li");
@@ -147,6 +152,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
     return __async(this, null, function* () {
       yield this.loadSettings();
       this.addSettingTab(new ObsidianMoleculeRendererSettings(this.app, this));
+      this.pugrestCache = new Map();
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK, (src, el, ctx) => __async(this, null, function* () {
         let req = yield this.getMolecule(src);
         if ("Fault" in req) {
@@ -180,6 +186,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
     });
   }
   onunload() {
+    this.pugrestCache = {};
   }
   loadSettings() {
     return __async(this, null, function* () {
