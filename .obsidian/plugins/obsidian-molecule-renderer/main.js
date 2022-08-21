@@ -120,7 +120,8 @@ var DEFAULT_SETTINGS = {
 var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
   request(url) {
     return __async(this, null, function* () {
-      return new Promise((resolve, reject) => __async(this, null, function* () {
+      let prom = new Promise((resolve, reject) => __async(this, null, function* () {
+        yield this.requestStack[this.requestStack.length - 1];
         if (url in this.pugrestCache) {
           resolve(this.pugrestCache.get(url));
         } else {
@@ -133,6 +134,8 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
           }
         }
       }));
+      this.requestStack.push(prom);
+      return prom;
     });
   }
   getMolecule(src) {
