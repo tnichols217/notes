@@ -118,6 +118,10 @@ var DEFAULT_SETTINGS = {
   a: { value: "a", name: "a", desc: "a" }
 };
 var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
+  constructor() {
+    super(...arguments);
+    this.requestStack = [];
+  }
   request(url) {
     return __async(this, null, function* () {
       let prom = new Promise((resolve, reject) => __async(this, null, function* () {
