@@ -120,7 +120,19 @@ var DEFAULT_SETTINGS = {
 var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
   request(url) {
     return __async(this, null, function* () {
-      return url in this.pugrestCache ? this.pugrestCache.get(url) : this.pugrestCache.set(url, yield (0, import_obsidian2.request)({ url, throw: false })).get(url);
+      return new Promise((resolve, reject) => __async(this, null, function* () {
+        if (url in this.pugrestCache) {
+          resolve(this.pugrestCache.get(url));
+        } else {
+          let resp = yield (0, import_obsidian2.requestUrl)({ url, throw: false });
+          if (resp.status == 200) {
+            this.pugrestCache.set(url, resp.text);
+            resolve(resp.text);
+          } else {
+            reject(resp);
+          }
+        }
+      }));
     });
   }
   getMolecule(src) {
@@ -148,6 +160,11 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
       }
     });
   }
+  servBusy(el) {
+    return __async(this, null, function* () {
+      el.createEl("h1").innerText = "Server Busy!";
+    });
+  }
   onload() {
     return __async(this, null, function* () {
       yield this.loadSettings();
@@ -156,7 +173,10 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK, (src, el, ctx) => __async(this, null, function* () {
         let req = yield this.getMolecule(src);
         if ("Fault" in req) {
-          this.moleculeNotFound(src, el);
+          if ("PUGREST.ServerBusy" in req.Fault) {
+          } else if ("PUGREST.NotFound" in req.Fault) {
+            this.moleculeNotFound(src, el);
+          }
         } else {
           let CID = req.PropertyTable.Properties[0].CID;
           let img = el.createEl("img");
@@ -167,7 +187,10 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
         src = src.trim();
         let req = yield this.getMolecule(src);
         if ("Fault" in req) {
-          this.moleculeNotFound(src, el);
+          if ("PUGREST.ServerBusy" in req.Fault) {
+          } else if ("PUGREST.NotFound" in req.Fault) {
+            this.moleculeNotFound(src, el);
+          }
         } else {
           let CID = req.PropertyTable.Properties[0].CID;
           let container = el.createDiv();
