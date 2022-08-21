@@ -120,9 +120,11 @@ var DEFAULT_SETTINGS = {
 var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
   getMolecule(src) {
     return __async(this, null, function* () {
-      return JSON.parse((yield (0, import_obsidian2.request)({ url: "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/" + src + "/property/MolecularFormula/JSON" }).catch((err) => {
+      let reqStr = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/" + src + "/property/MolecularFormula/JSON";
+      return JSON.parse((yield (0, import_obsidian2.request)({ url: reqStr }).catch((err) => {
         console.error(err);
         console.log(src);
+        console.log(reqStr);
       })) || "");
     });
   }
