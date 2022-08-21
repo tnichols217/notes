@@ -154,10 +154,12 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
       }));
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK3D, (src, el, ctx) => __async(this, null, function* () {
         let req = yield this.getMolecule(src);
+        console.log(req);
         if ("Fault" in req) {
           this.moleculeNotFound(src, el);
         } else {
           let CID = req.PropertyTable.Properties[0].CID;
+          console.log(CID);
           let container = el.createDiv();
           container.style.width = "100%";
           container.style.paddingTop = "100%";
