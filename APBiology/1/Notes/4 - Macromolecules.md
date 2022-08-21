@@ -173,7 +173,7 @@ Glyceraldehyde
 ````col-md
 **Dihydroxyacetone** (Ketose)
 ```molecule3d
-Dihydroxyacetonee
+Dihydroxyacetone
 ```
 ````
 `````
