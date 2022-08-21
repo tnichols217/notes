@@ -158,6 +158,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
         }
       }));
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK3D, (src, el, ctx) => __async(this, null, function* () {
+        src = src.trim();
         let req = yield this.getMolecule(src);
         if ("Fault" in req) {
           this.moleculeNotFound(src, el);
