@@ -126,9 +126,10 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
     return __async(this, null, function* () {
       let prom = new Promise((resolve, reject) => __async(this, null, function* () {
         if (url in this.pugrestCache) {
+          console.log("Cache hit", this.pugrestCache.get(url));
           resolve(this.pugrestCache.get(url));
         } else {
-          if (this.requestStack.length > 0) {
+          if (this.requestStack.length > 1) {
             yield this.requestStack.shift();
           }
           (0, import_obsidian2.requestUrl)({ url, throw: false }).then((resp) => {
@@ -136,7 +137,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
               this.pugrestCache.set(url, resp.text);
               setTimeout(resolve, 200, resp.text);
             } else {
-              reject(resp);
+              setTimeout(reject, 200, resp);
             }
           }).catch((err) => {
             reject();
