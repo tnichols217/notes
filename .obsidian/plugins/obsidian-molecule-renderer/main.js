@@ -125,9 +125,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
   request(url) {
     return __async(this, null, function* () {
       let prom = new Promise((resolve, reject) => __async(this, null, function* () {
-        console.log(this.pugrestCache.keys());
         if (this.pugrestCache.has(url)) {
-          console.log("Cache hit", this.pugrestCache.get(url));
           resolve(this.pugrestCache.get(url));
         } else {
           if (this.requestStack.length > 1) {
