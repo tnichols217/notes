@@ -528,7 +528,11 @@ Are used for:
 
 #### Amino Acids
 Can be categorised as:
-1. Nonpolar ()
+1. Nonpolar (hydrophobic)
+2. Polar (hydrophilic)
+3. Electrically Charged (hydrophilic)
+	1. Acidic
+	2. Basic
 
 Consists of:
 1. Amino Group ($-\text{NH}_2$)
