@@ -363,7 +363,9 @@ Unsaturated Fats' Fatty Acids contain "kinks" in them from cis-double bonding in
 
 
 ##### Saturated Fats
-Saturated Fats' Fatty Acids are completely straight and are called **Hydrogen saturated**, because each carbon in the skeleton is bonded to two Hydrogens as well as two Carbons, disallowing any double bonding from happening in the skeleton (which cause kinks)
+Saturated Fats' Fatty Acids are completely straight and are called **Hydrogen saturated**, because each carbon in the skeleton is bonded to two Hydrogens as well as two Carbons, disallowing any double bonding from happening in the skeleton (which cause kinks).
+
+
 
 #### Phospholipids
 
