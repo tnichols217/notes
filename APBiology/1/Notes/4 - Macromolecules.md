@@ -405,7 +405,10 @@ Saturated fats have also been linked to negative health side effects, especially
 
 > [!example]
 > ````col
-> 
+> ```molecule3d
+> Tristearin
+> ```
+> **Trist**
 > ````
 
 #### Phospholipids
