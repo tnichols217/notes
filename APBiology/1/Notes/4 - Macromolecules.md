@@ -46,6 +46,9 @@
 		| $\alpha$ bonding | ✔            | ✔              | ✔                   |
 		| $\beta$ bonding  | ✔            | ✔              | ✔                   |
 - [[#Lipids]]
+	- [[#Fats]]
+	- [[#Phospholipids]]
+	- [[#Steroids]]
 - [[#Proteins]]
 - [[#Nucleic Acids]]
 
@@ -298,9 +301,9 @@ A similar thing is found for proteins, if bonded like an $\alpha$ then it will f
 
 ### Lipids
 There are three kinds of Lipids
-1. Fats
-2. Phospholipids
-3. Steroids
+1. [[#Fats]]
+2. [[#Phospholipids]]
+3. [[#Steroids]]
 
 > [!def]
 > **Lipids**
@@ -309,6 +312,8 @@ There are three kinds of Lipids
 > - Contains a lot of Hydrocarbons ($\text{C}-\text{H}$)
 
 #### Fats
+> [!def]
+> ****
 
 #### Phospholipids
 
