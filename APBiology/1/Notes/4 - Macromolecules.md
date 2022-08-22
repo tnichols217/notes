@@ -434,13 +434,13 @@ Composed of:
 4. Occasionally a hydrophilic molecule
 
 > [!example]
+> **Dioleoyl phosphatidylethanolamine**
+> An example phospholipid that has two bent tails and a hydrophobic head
 > ````col
 > ```molecule3d
 > Dioleoyl phosphatidylethanolamine
 > ```
 > ```col-md
-> **Dioleoyl phosphatidylethanolamine**
-> An example phospholipid that has two bent tails and a hydrophobic head
 > ![[Pasted image 20220822225335.png]]
 > ```
 > ````
