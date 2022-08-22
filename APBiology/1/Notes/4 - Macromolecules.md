@@ -552,7 +552,7 @@ The R chain is what differentiates the different Amino acids, as the rest of the
 > ```col-md
 > **Glycine**
 > The most basic Amino Acid, with its side chain consisting of only a single Hydrogen atom.
-> Notice the amino group, carboxyl group, and $\alpha$ carbon.
+> Notice the amino group ($-\text{NH}_2$), carboxyl group, and $\alpha$ carbon.
 > ```
 > ````
 
