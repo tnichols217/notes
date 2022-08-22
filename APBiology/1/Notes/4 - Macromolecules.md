@@ -481,7 +481,7 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 > ```
 > ```col-md
 > **Gonane**
-> The simplest steroid consisting of onl
+> The simplest steroid consisting of only three rings of cyclohexane followed by one ring of 
 > ```
 > ````
 
