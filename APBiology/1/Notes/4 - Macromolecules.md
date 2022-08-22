@@ -326,7 +326,8 @@ There are three kinds of Lipids
 
 #### Fats
 Fats are used for:
-- **Storing energy**: Organisms store large amounts of energy in the hydrocarbon chains of fats. Fats contain twice the amount of energy for the same weight as compared to Phospholipids. Simultaneously
+- **Storing energy**: Organisms store large amounts of energy in the hydrocarbon chains of fats. Fats contain twice the amount of energy for the same weight as compared to Phospholipids.
+- **Insulation**: Fats provide insulation from heat or cold as well as protection to fi
 
 There are two kinds of Fats
 1. [[#Unsaturated Fats]]
