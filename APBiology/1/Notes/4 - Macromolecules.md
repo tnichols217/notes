@@ -357,6 +357,10 @@ There are two kinds of Fats
 ##### Unsaturated Fats
 Unsaturated Fats' Fatty Acids contain "kinks" in them from double bonding in the carbon skeleton, disallowing them to pack closely, leading them to be liquid at room temperature.
 
+> [!def]
+> **Kink**
+> 
+
 
 ##### Saturated Fats
 Saturated Fats' Fatty Acids are completely straight and are called **Hydrogen saturated**, because each carbon in the skeleton is bonded to two Hydrogens as well as two Carbons, disallowing any double bonding from happening in the skeleton (which cause kinks)
