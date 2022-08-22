@@ -411,7 +411,9 @@ Phospholipids are similar to Fats as they are also made of **glycerol and three 
 
 Composed of:
 1. Glycerol
-2. Two 
+2. Two Hydrophobic fatty acids tails
+3. Phosphate group
+4. Occasionally a hydrophilic 
 
 
 #### Steroids
