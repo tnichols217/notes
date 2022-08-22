@@ -549,6 +549,9 @@ The R chain is what differentiates the different Amino acids, as the rest of the
 > ```molecule3d
 > Glycine
 > ```
+> ```col-md
+> **Glycine**
+> ```
 > ````
 
 ![[Pasted image 20220818132618.png]]
