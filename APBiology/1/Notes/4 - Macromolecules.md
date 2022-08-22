@@ -438,6 +438,11 @@ Composed of:
 > ```molecule3d
 > Dioleoyl phosphatidylethanolamine
 > ```
+> ```col-md
+> flexGrow=0.5
+> ===
+> 
+> ```
 > ````
 
 ![[Pasted image 20220822225335.png]]
