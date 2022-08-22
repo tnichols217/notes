@@ -355,7 +355,7 @@ There are two kinds of Fats
 > ````
 
 ##### Unsaturated Fats
-Unsaturated Fats' Fatty Acids contain "kinkk"
+Unsaturated Fats' Fatty Acids contain "kinks" in them, disallowing them to pack closely, leading them to be liquid at room temperature.
 
 
 ##### Saturated Fats
