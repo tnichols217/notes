@@ -408,6 +408,7 @@ Are used for:
 1. Making up the cell membrane
 
 Phospholipids are similar to Fats as they are also made of **glycerol and three connecting molecules**, connected by **Ester Linkages**
+When Phospholipids are put in water, they will self assemble into a bilayer 
 
 Composed of:
 1. Glycerol
