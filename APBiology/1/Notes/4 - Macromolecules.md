@@ -322,6 +322,8 @@ There are three kinds of Lipids
 > - The bonding will look similar to **$\text{O}-\text{C}-\text{OH}$** where the central carbon will be bonded to something else, often a carbon backbone
 
 #### Fats
+There are two kinds of Fats
+1. 
 > [!def]
 > **Fats**
 > - A large molecule formed by a dehydration reaction between **Glycerol** and **Fatty Acids**
@@ -349,6 +351,10 @@ There are three kinds of Lipids
 > **Glycerol**
 > Contains three Hydroxyl groups (OH) to ester link with the fatty acids
 > ````
+
+##### Unsaturated Fats
+
+##### Saturated Fats
 
 #### Phospholipids
 
