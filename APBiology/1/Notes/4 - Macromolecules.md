@@ -409,12 +409,14 @@ Saturated fats have also been linked to negative health side effects, especially
 > Tristearin
 > ```
 > ```col-md
-> **< Tristearin**
+> **Tristearin**
 > A saturated fat made of three **Stearic acid** fatty acids.
 > 
-> **Stearic acid >**
+> **Stearic acid =>**
 > ```
 > ````
+
+
 
 #### Phospholipids
 Are used for:
