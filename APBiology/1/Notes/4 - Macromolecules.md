@@ -509,6 +509,7 @@ Are used for:
 
 > [!def]
 > **Protein**
+> Proteins are the pri
 > Proteins are made of one or more Polypeptides
 > ***
 > 
