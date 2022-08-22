@@ -359,7 +359,7 @@ Unsaturated Fats' Fatty Acids contain "kinks" in them from cis-double bonding in
 
 > [!def]
 > **Cis-double bonding**
-> Happens when a couble bond 
+> Happens when on a chain of 
 
 
 ##### Saturated Fats
