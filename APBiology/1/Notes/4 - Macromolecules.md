@@ -418,7 +418,7 @@ Composed of:
 
 > [!def]
 > **Phospholipid Bilayer**
-> 
+> A membrane made
 
 #### Steroids
 
