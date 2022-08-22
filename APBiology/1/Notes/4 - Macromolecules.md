@@ -517,7 +517,8 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 
 #### Amino Acids
 Consists of:
-1. Amino Group ($-\text{NH}_2_$)
+1. Amino Group ($-\text{NH}_2$)
+2. Carboxyl Group ($$)
 ![[Pasted image 20220818132618.png]]
 
 ### Nucleic Acids
