@@ -348,6 +348,7 @@ There are three kinds of Lipids
 > glycerol
 > ```
 > **Glycerol**
+> Contains three Hydroxyl groups (OF) to ester link with the fatty acids
 > ````
 
 #### Phospholipids
