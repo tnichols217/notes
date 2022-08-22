@@ -439,9 +439,8 @@ Composed of:
 > Dioleoyl phosphatidylethanolamine
 > ```
 > ```col-md
-> flexGrow=0.5
-> ===
-> 
+> **Dioleoyl phosphatidylethanolamine**
+> A 
 > ```
 > ````
 
