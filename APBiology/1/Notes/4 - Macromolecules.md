@@ -318,7 +318,8 @@ There are three kinds of Lipids
 > ***
 > 
 > **Carboxyl group ($\text{COOH}$)**
-> A group of atoms which is a combination of 
+> - A group of atoms which is a combination of a **carbonyl group ($\text{C}-\text{O}$)** and a **hydroxyl group ($\text{OH}$)**
+> - The bonding will look similar to **$\text{O}-\text{C}-\text{OH}$** where the central carbon will be bonded to something else, often a carbon backbone
 
 #### Fats
 > [!def]
