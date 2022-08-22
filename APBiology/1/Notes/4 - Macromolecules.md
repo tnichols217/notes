@@ -404,7 +404,8 @@ Saturated fats have also been linked to negative health side effects, especially
 > This allows the fatty acid to be straight as there is no double bonding.
 
 #### Phospholipids
-
+Are used for:
+1. Making up the cell ma
 
 
 #### Steroids
