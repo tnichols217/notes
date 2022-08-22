@@ -383,10 +383,7 @@ Unsaturated Fats may also contain **trans-double bonding**, classifying these fa
 > 
 > **Trans Fats**
 > Saturated Fats of which their Fatty Acids contain trans-double bonding, which may allow them to be straight and unbent.
-> Trans Fats have also been linked to coronary heart disease due to blockage of 
-
-###### Trans Fats
-Trans fats' Fatty acids contain trans-double bonding, which has been linked to coronary heart disease.
+> Trans Fats have also been linked to coronary heart disease due to blockage of blood vessels
 
 ##### Saturated Fats
 Saturated Fats' Fatty Acids are completely straight and are called **Hydrogen saturated**, because each carbon in the skeleton is bonded to two Hydrogens as well as two Carbons, disallowing any double bonding from happening in the skeleton (which cause kinks).
