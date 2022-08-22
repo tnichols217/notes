@@ -135,7 +135,8 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
           let resp = yield (0, import_obsidian2.requestUrl)({ url, throw: false });
           if (resp.status == 200) {
             this.pugrestCache.set(url, resp.text);
-            setTimeout(resolve, 200, resp.text);
+            yield new Promise((res) => setTimeout(res, 200));
+            resolve(resp.text);
           } else {
             reject(resp);
           }
