@@ -335,6 +335,8 @@ There are three kinds of Lipids
 > ```molecule3d
 > palmitic acid
 > ```
+> **Palimitic Acid**
+> A common fatty acid th
 > ````
 
 ````col
