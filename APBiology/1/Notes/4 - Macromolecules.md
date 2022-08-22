@@ -509,7 +509,7 @@ Are used for:
 
 > [!def]
 > **Protein**
-> Proteins are the pri
+> Proteins are the primary macromolecule and consist for more than half of the dry mass of an organism
 > Proteins are made of one or more Polypeptides
 > ***
 > 
