@@ -413,7 +413,7 @@ Composed of:
 1. Glycerol
 2. Two Hydrophobic fatty acids tails
 3. Phosphate group
-4. Occasionally a hydrophilic 
+4. Occasionally a hydrophilic molecule
 
 
 #### Steroids
