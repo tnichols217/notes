@@ -560,6 +560,6 @@ The R chain is what differentiates the different Amino acids, as the rest of the
 > ````
 
 ##### Polar Amino Acids
-Can be 
+Can be recognised by having a side chain that ends with a **hydroxyl group**, 
 
 ### Nucleic Acids
