@@ -312,7 +312,7 @@ There are three kinds of Lipids
 > - Contains a lot of Hydrocarbons ($\text{C}-\text{H}$)
 > ***
 > 
-> **Esther Linkages**
+> **Ester Linkages**
 > A bond between a **Hydroxyl group** and a **Carboxyl group**
 > Formed by a dehydration reaction
 > ***
@@ -342,7 +342,7 @@ There are three kinds of Lipids
 > ***
 > **Glycerol**
 > An alcohol that holds together all the fatty acids to form fats.
-> Glycerol contains the hydroxyl group (OH) that the Fat
+> Glycerol contains the hydroxyl group (OH) that the Fatty acids can ester link to.
 > ````col
 > ```molecule3d
 > glycerol
