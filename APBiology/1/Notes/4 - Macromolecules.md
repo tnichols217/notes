@@ -316,8 +316,17 @@ There are three kinds of Lipids
 > **Fats**
 > A large molecule formed by a dehydration reaction between **Glycerol** and **Fatty Acids**
 > ***
-> 
-> 
+
+````col
+```molecule3d
+glucose
+```
+**Glycerol**
+````
+
+```molecule3d
+glucose
+```
 
 #### Phospholipids
 
