@@ -355,6 +355,8 @@ There are two kinds of Fats
 > ````
 
 ##### Unsaturated Fats
+Unsaturated Fats' Fatty Acids contain "kinkk"
+
 
 ##### Saturated Fats
 
