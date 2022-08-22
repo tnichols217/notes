@@ -519,6 +519,8 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 Consists of:
 1. Amino Group ($-\text{NH}_2$)
 2. Carboxyl Group ($>\text{C}=\text{O}$)
+3. $\alpha$ Carbon ($\text{C}$)
+4. Hydrogen ($$)
 ![[Pasted image 20220818132618.png]]
 
 ### Nucleic Acids
