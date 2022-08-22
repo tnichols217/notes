@@ -567,16 +567,14 @@ Cysteine is only classified as Polar because the sulfyhydryl group is only weakl
 > [!example]
 > ````col
 > ```molecule3d
-> Glycine
+> Cysteine
 > ```
 > ```col-md
-> **Cysteine
-**
-> The most basic Amino Acid, with its side chain consisting of only a single Hydrogen atom.
-> Notice the amino group ($-\text{NH}_2$), carboxyl group ($-\text{COOH}$), and $\alpha$ carbon.
+> **Cysteine**
+> A (weaklyPolar Amino acid
 > ```
 > ```molecule
-> Glycine
+> Cysteine
 > ```
 > ````
 
