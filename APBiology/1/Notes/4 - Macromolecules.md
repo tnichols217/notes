@@ -312,7 +312,8 @@ There are three kinds of Lipids
 > - Contains a lot of Hydrocarbons ($\text{C}-\text{H}$)
 > ***
 > 
-> ****
+> **Esther Linkages**
+> A bond between 
 
 #### Fats
 > [!def]
