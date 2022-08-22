@@ -418,7 +418,7 @@ Composed of:
 
 > [!def]
 > **Phospholipid Bilayer**
-> A membrane made of two layers of phospholipids where the hydrophobic heads are pointing to the surface of the layer and the hy
+> A membrane made of two layers of phospholipids where the hydrophobic heads are pointing to the surface of the layer and the hydrophobic tails are facing each other on the interior of the layer.
 
 #### Steroids
 
