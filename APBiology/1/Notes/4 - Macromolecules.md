@@ -500,7 +500,10 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 > [!def]
 > **Protein**
 > Proteins are made of one or more Polypeptides
-> Polypeptides are polymers of Amino Acids (monomers)
+> ***
+> 
+> **Polypeptides**
+> Polymers (chains) of Amino Acids
 > Amino Acids are the Monomer of Proteins.
 
 #### Amino Acids
