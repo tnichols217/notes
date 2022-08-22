@@ -448,7 +448,7 @@ Composed of:
 > [!def]
 > **Phospholipid Bilayer**
 > A membrane made of **two layers of phospholipids** where the hydrophobic heads are pointing to the surface of the layer and the hydrophobic tails are facing each other on the interior of the layer.
-> Looks something like o=|=o where the arrows are the heads and the dash is the tails.
+> Looks something like o=|=o where the **o** are the heads and the **=** are the tails.
 > ![[Pasted image 20220822225306.png]]
 
 #### Steroids
