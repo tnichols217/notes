@@ -381,7 +381,8 @@ Unsaturated Fats may also contain **trans-double bonding**, classifying these fa
 > - Since the extra bonds are on opposite sides, they balance out and this double bond **does not cause bending** of the molecule.
 > ***
 > 
-> **Tran**
+> **Trans Fats**
+> Saturated Fats that 
 
 ###### Trans Fats
 Trans
