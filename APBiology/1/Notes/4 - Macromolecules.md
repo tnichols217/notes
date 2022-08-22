@@ -285,9 +285,9 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > ```molecule
 > N-[(2R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide
 > ```
-> The chitin monomer has a similar structure to glucose except it contains a nitrogen attachment on the carbon backbone
+> The chitin monomer has a similar structure to cellulose except it contains a nitrogen attachment on the carbon backbone
 > ```molecule
-> glucose
+> cellulose
 > ```
 > ````
 
