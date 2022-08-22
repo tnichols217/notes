@@ -316,7 +316,7 @@ There are three kinds of Lipids
 > ***
 > 
 > **Ester Linkages**
-> A bond between a **Hydroxyl group** and a **Carboxyl group**
+> A bond between a **Hydroxyl group ($\text{OH}$)** and a **Carboxyl group**
 > Formed by a dehydration reaction
 > ***
 > 
