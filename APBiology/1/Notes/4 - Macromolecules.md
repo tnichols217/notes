@@ -545,7 +545,11 @@ The $\alpha$ Carbon is bonded to all the amino group, carboxyl group, R chain, a
 The R chain is what differentiates the different Amino acids, as the rest of the molecule is exactly the same.
 
 > [!example]
-> 
+> ````col
+> ```molecule3d
+> Glycine
+> ```
+> ````
 
 ![[Pasted image 20220818132618.png]]
 
