@@ -479,6 +479,10 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 > ```molecule3d
 > Gonane
 > ```
+> ```col-md
+> **Gonane**
+> The simplest steroid consisting of onl
+> ```
 > ````
 
 ### Proteins
