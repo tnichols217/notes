@@ -513,7 +513,7 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 > 
 > **Peptide Bonding**
 > - A bond between each Amino Acid formed through dehydration synthesis
-> - Bonds the Nitrogen in the Amino group to the Carbon in the 
+> - Bonds the Nitrogen in the **Amino group** to the Carbon in the **Carboxyl group**
 
 #### Amino Acids
 ![[Pasted image 20220818132618.png]]
