@@ -356,12 +356,12 @@ There are two kinds of Fats
 > ***
 > 
 > **Unsaturated Fats**
-> - Fats that contain unsaturated fats contain double bonds.
+> - Fats that contain unsaturated fatty acids, which contain double bonds.
 > - Often **Liquid** at room temperature due to not being able to pack closely together.
 > ***
 > 
 > **Saturated Fats**
-> - Fats of which their Fatty Acids do not contain double bonds and are perfectly straight.
+> - Fats of which all their Fatty Acids are saturated and do not contain double bonds and are perfectly straight.
 > - Often **Solid** at room temperature due to being space efficient.
 
 ##### Unsaturated Fats
