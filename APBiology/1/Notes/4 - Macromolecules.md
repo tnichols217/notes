@@ -417,7 +417,7 @@ Composed of:
 4. Occasionally a hydrophilic molecule
 
 > [!def]
-> **Bilayer**
+> **Phospholipid Bilayer**
 > 
 
 #### Steroids
