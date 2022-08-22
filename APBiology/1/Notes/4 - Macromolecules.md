@@ -409,7 +409,7 @@ Saturated fats have also been linked to negative health side effects, especially
 > Tristearin
 > ```
 > **Tristearin**
-> A 
+> A saturated fat made of three 
 > ````
 
 #### Phospholipids
