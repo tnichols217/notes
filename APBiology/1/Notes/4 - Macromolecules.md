@@ -523,7 +523,7 @@ Consists of:
 4. Hydrogen ($\text{H}$)
 5. **R group**, also called the **side chain**
 
-The $\alpha$ Carbon is bonded to all the 
+The $\alpha$ Carbon is bonded to all the amino group, carboxyl group, R chain, and one hydrogen.
 
 ![[Pasted image 20220818132618.png]]
 
