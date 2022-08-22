@@ -1,4 +1,4 @@
-fc# Macromolecules
+# Macromolecules
 ## Polymers vs Monomers
 > [!def]
 > **Macromolecules**
@@ -326,6 +326,7 @@ There are three kinds of Lipids
 > **Fats**
 > - A large molecule formed by a dehydration reaction between **Glycerol** and **Fatty Acids**
 > - There will always be one glycerol and **three** fatty acids
+> - Are sometimes called **Triglycerides** or **Triglycerols** because of the three fatty acids
 > ***
 > 
 > **Fatty Acids**
