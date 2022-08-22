@@ -391,7 +391,7 @@ Unsaturated Fats may also contain **trans-double bonding**, classifying these fa
 ##### Saturated Fats
 Saturated Fats' Fatty Acids are completely straight and are called **Hydrogen saturated**, because each carbon in the skeleton is bonded to two Hydrogens as well as two Carbons, disallowing any double bonding from happening in the skeleton (which cause kinks).
 
-
+Saturated fats have also been linked to negative 
 
 #### Phospholipids
 
