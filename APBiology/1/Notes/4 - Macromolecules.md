@@ -81,7 +81,7 @@ There are three kinds of carbohydrates
 - [[#Disaccharides]]
 - [[#Polysaccharides]]
 
-Carbs are sugars and polymers of sugars
+Carbs are sugars (mono and di) and polymers of sugars (poly)
 They provide quick energy and also serve as structural support
 
 #### Monosaccharides
