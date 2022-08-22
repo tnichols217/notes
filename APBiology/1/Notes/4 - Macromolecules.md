@@ -562,6 +562,6 @@ The R chain is what differentiates the different Amino acids, as the rest of the
 ##### Polar Amino Acids
 Can be recognised by having a side chain that ends with a **hydroxyl group ($-\text{OH}$)**, **Amino group ($-\text{NH}_2$)**, or **Sulfhydryl group ($-\text{SH}$)**
 
-S
+Cysteine is only classified as Polar because the sulfyhydryl group is only weakly polar
 
 ### Nucleic Acids
