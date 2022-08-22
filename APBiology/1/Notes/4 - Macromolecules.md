@@ -497,6 +497,8 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 > ````
 
 ### Proteins
+Are used for:
+
 > [!def]
 > **Protein**
 > Proteins are made of one or more Polypeptides
@@ -524,7 +526,7 @@ Consists of:
 5. **R group**, also called the **side chain**
 
 The $\alpha$ Carbon is bonded to all the amino group, carboxyl group, R chain, and one hydrogen.
-The R chain is what differentiates the different Amino acids
+The R chain is what differentiates the different Amino acids, as the rest of the molecule is exactly the same.
 
 ![[Pasted image 20220818132618.png]]
 
