@@ -398,9 +398,9 @@ Saturated Fats' Fatty Acids are completely straight and are called **Hydrogen sa
 Saturated fats have also been linked to negative health side effects, especially with causing issues of blood flow.
 
 > [!def]
-> **Hydrogen saturated**
+> **Hydrogen saturated fatty acid**
 > Where every Carbon on a fatty acid's Carbon skeleton is bonded to two Hydrogens, as well as the two neighbouring carbons.
-> This allows 
+> This allows the fatty acid to be straight as there is no double bonding.
 
 #### Phospholipids
 
