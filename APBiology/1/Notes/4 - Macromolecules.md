@@ -336,7 +336,8 @@ There are three kinds of Lipids
 > palmitic acid
 > ```
 > **Palimitic Acid**
-> A common fatty acid th
+> A common fatty acid that is bonded with glycerol to form a fat.
+> Notice the Carboxyl (COOH))on the end
 > ````
 
 ````col
