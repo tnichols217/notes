@@ -282,11 +282,11 @@ Polysaccharides are normally used to **store energy** and serve as **building ma
 > - Insects use Chitin as an exoskeleton due to its strong structure.
 > - Uses **$\beta$ chitin** as its monomer, making it hard to digest as well
 > ````col
-> ```molecule3d
+> ```molecule
 > N-[(2R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide
 > ```
 > The chitin monomer has a similar structure to glucose except it contains a nitrogen attachment on the carbon backbone
-> ```molecule3d
+> ```molecule
 > glucose
 > ```
 > ````
