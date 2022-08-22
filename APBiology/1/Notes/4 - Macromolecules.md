@@ -452,6 +452,7 @@ Composed of:
 > ![[Pasted image 20220822225306.png]]
 
 #### Steroids
+Lipids that are characterised b
 
 ### Proteins
 > [!def]
