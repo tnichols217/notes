@@ -339,13 +339,14 @@ There are three kinds of Lipids
 > A common fatty acid that is bonded with glycerol to form a fat.
 > Notice the Carboxyl (COOH) on the end
 > ````
-
-````col
-```molecule3d
-glycerol
-```
-**Glycerol**
-````
+> ***
+> 
+> ````col
+> ```molecule3d
+> glycerol
+> ```
+> **Glycerol**
+> ````
 
 #### Phospholipids
 
