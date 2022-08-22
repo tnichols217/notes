@@ -327,7 +327,7 @@ There are three kinds of Lipids
 #### Fats
 Fats are used for:
 - **Storing energy**: Organisms store large amounts of energy in the hydrocarbon chains of fats. Fats contain twice the amount of energy for the same weight as compared to Phospholipids.
-- **Insulation**: Fats provide insulation from heat or cold as well as protection to fi
+- **Insulation**: Fats provide insulation from heat or cold as well as protection to vitals in the body.
 
 There are two kinds of Fats
 1. [[#Unsaturated Fats]]
@@ -396,6 +396,10 @@ Unsaturated Fats may also contain **trans-double bonding**, classifying these fa
 Saturated Fats' Fatty Acids are completely straight and are called **Hydrogen saturated**, because each carbon in the skeleton is bonded to two Hydrogens as well as two Carbons, disallowing any double bonding from happening in the skeleton (which cause kinks).
 
 Saturated fats have also been linked to negative health side effects, especially with causing issues of blood flow.
+
+> [!def]
+> **Hydrogen saturated**
+> Where a fat
 
 #### Phospholipids
 
