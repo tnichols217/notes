@@ -408,7 +408,7 @@ Are used for:
 1. Making up the cell membrane
 
 Phospholipids are similar to Fats as they are also made of **glycerol and three connecting molecules**, connected by **Ester Linkages**
-When Phospholipids are put in water, they will self assemble into a bilayer because of the uneven polarity of the molecules.
+When Phospholipids are put in water, they will self assemble into a **bilayer** because of the uneven polarity of the molecules.
 
 Composed of:
 1. Glycerol
@@ -416,6 +416,9 @@ Composed of:
 3. Phosphate group
 4. Occasionally a hydrophilic molecule
 
+> [!def]
+> **Bilayer**
+> 
 
 #### Steroids
 
