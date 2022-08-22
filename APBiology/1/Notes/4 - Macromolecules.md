@@ -564,4 +564,20 @@ Can be recognised by having a side chain that ends with a **hydroxyl group ($-\t
 
 Cysteine is only classified as Polar because the sulfyhydryl group is only weakly polar
 
+> [!example]
+> ````col
+> ```molecule3d
+> Glycine
+> ```
+> ```col-md
+> **Cysteine
+**
+> The most basic Amino Acid, with its side chain consisting of only a single Hydrogen atom.
+> Notice the amino group ($-\text{NH}_2$), carboxyl group ($-\text{COOH}$), and $\alpha$ carbon.
+> ```
+> ```molecule
+> Glycine
+> ```
+> ````
+
 ### Nucleic Acids
