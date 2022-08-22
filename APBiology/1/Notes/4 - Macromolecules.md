@@ -407,7 +407,7 @@ Saturated fats have also been linked to negative health side effects, especially
 Are used for:
 1. Making up the cell membrane
 
-Phosp
+Phospholipids are similar to Fats as they are also made of glycerol and three connecting molecule, connected by **Ester Linkages**
 
 Composed of:
 1. Glycerol
