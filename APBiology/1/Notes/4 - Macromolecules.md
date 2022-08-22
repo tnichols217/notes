@@ -516,7 +516,8 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 > - Bonds the Nitrogen in the **Amino group** to the Carbon in the **Carboxyl group**
 
 #### Amino Acids
-Consists 
+Consists of:
+1. Amino Group ($-\text{NH}_2_$)
 ![[Pasted image 20220818132618.png]]
 
 ### Nucleic Acids
