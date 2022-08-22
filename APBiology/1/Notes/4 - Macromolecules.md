@@ -297,7 +297,22 @@ A similar thing is found for proteins, if bonded like an $\alpha$ then it will f
 
 
 ### Lipids
-- Very diverse group of Macromole
+There are three kinds of Lipids
+1. Fats
+2. Phospholipids
+3. Steroids
+
+> [!def]
+> **Lipids**
+> - Are a group of macromolecules defined by being hydrophobic
+> - Are very diverse
+> - Contains a lot of Hydrocarbons ($\text{C}-\text{H}$)
+
+#### Fats
+
+#### Phospholipids
+
+#### Steroids
 
 ### Proteins
 > [!def]
