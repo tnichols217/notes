@@ -335,6 +335,7 @@ There are two kinds of Fats
 > 
 > **Fatty Acids**
 > A carbon skeleton usually **16-18** carbons long ending with a carboxyl group
+> These are often referred to as 
 > ````col
 > ```molecule3d
 > palmitic acid
