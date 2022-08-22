@@ -474,6 +474,9 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 >> ```
 >> ````
 
+> [!example]
+> 
+
 ### Proteins
 > [!def]
 > **Protein**
