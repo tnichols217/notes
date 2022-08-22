@@ -361,11 +361,13 @@ There are two kinds of Fats
 > ***
 > 
 > **Saturated Fats**
-> - Fats of which their Fatty Acids do not contain double bonds and are perfectly.
+> - Fats of which their Fatty Acids do not contain double bonds and are perfectly straight.
 > - Often **Solid** at room temperature due to being space efficient.
 
 ##### Unsaturated Fats
-Unsaturated Fats' Fatty Acids often contain "kinks" in them from cis-double bonding in the carbon skeleton, disallowing them to pack closely, leading them to be liquid at room temperature.
+Unsaturated Fats' Fatty Acids often contain "kinks" in them from **cis-double bonding** in the carbon skeleton, disallowing them to pack closely, leading them to be liquid at room temperature.
+
+Unsaturated Fats may also contain **trans-double bonding**
 
 > [!def]
 > **Cis-double bonding**
