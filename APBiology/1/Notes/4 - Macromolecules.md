@@ -407,7 +407,8 @@ Saturated fats have also been linked to negative health side effects, especially
 Are used for:
 1. Making up the cell membrane
 
-
+Composed of:
+1. Glycerol
 
 
 #### Steroids
