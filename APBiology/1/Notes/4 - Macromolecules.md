@@ -435,6 +435,9 @@ Composed of:
 
 > [!example]
 > ````col
+> ```molecule3d
+> Dioleoyl phosphatidylethanolamine
+> ```
 > ````
 
 ![[Pasted image 20220822225335.png]]
