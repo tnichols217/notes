@@ -399,7 +399,7 @@ Saturated fats have also been linked to negative health side effects, especially
 
 > [!def]
 > **Hydrogen saturated**
-> Where a fat
+> Where every Carbon on a fatty acid's Carbon skeleton contains 
 
 #### Phospholipids
 
