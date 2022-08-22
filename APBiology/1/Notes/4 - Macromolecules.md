@@ -441,10 +441,9 @@ Composed of:
 > ```col-md
 > **Dioleoyl phosphatidylethanolamine**
 > An example phospholipid that has two bent tails and a hydrophobic head
+> ![[Pasted image 20220822225335.png]]
 > ```
 > ````
-
-![[Pasted image 20220822225335.png]]
 
 > [!def]
 > **Phospholipid Bilayer**
