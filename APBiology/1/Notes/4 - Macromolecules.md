@@ -338,6 +338,7 @@ There are two kinds of Fats
 > - A large molecule formed by a dehydration reaction between **Glycerol** and **Fatty Acids**
 > - There will always be one glycerol and **three** fatty acids
 > - Are sometimes called **Triglycerides** or **Triglycerols** because of the three fatty acids
+> - Are Completely nonpolar and hydrophobic
 > ***
 > 
 > **Fatty Acids**
