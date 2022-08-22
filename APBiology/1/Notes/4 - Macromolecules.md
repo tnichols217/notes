@@ -313,12 +313,28 @@ There are three kinds of Lipids
 > ***
 > 
 > **Esther Linkages**
-> A bond between 
+> A bond between a **Hydroxyl group** and a **Carboxyl group**
+> Formed by a dehydration reaction
+
+#### Hydroxyl groups and Carboxyl groups
+`````col
+````col-md
+```molecule3d
+hydroxide
+```
+````
+````col-md
+```molecule3d
+carboxylic acid
+```
+````
+`````
 
 #### Fats
 > [!def]
 > **Fats**
-> A large molecule formed by a dehydration reaction between **Glycerol** and **Fatty Acids**
+> - A large molecule formed by a dehydration reaction between **Glycerol** and **Fatty Acids**
+> - There will always be one glycerol and **three** fatty acids
 > ***
 
 ````col
