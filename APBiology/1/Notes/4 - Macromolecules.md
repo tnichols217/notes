@@ -559,5 +559,7 @@ The R chain is what differentiates the different Amino acids, as the rest of the
 > ```
 > ````
 
-##### 
+##### Polar Amino Acids
+Can be 
+
 ### Nucleic Acids
