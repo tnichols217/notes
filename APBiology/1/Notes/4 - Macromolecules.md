@@ -310,6 +310,9 @@ There are three kinds of Lipids
 > - Are a group of macromolecules defined by being hydrophobic
 > - Are very diverse
 > - Contains a lot of Hydrocarbons ($\text{C}-\text{H}$)
+> ***
+> 
+> ****
 
 #### Fats
 > [!def]
@@ -323,10 +326,6 @@ glycerol
 ```
 **Glycerol**
 ````
-
-```molecule3d
-maltose
-```
 
 #### Phospholipids
 
