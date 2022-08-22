@@ -559,6 +559,5 @@ The R chain is what differentiates the different Amino acids, as the rest of the
 > ```
 > ````
 
-![[Pasted image 20220818132618.png]]
-
+##### 
 ### Nucleic Acids
