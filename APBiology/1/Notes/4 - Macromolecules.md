@@ -383,6 +383,7 @@ Unsaturated Fats may also contain **trans-double bonding**, classifying these fa
 > 
 > **Trans Fats**
 > Saturated Fats of which their Fatty Acids contain trans-double bonding, which may allow them to be straight and unbent.
+> Trans Fats have also been linked to coronary heart disease due to blockage of 
 
 ###### Trans Fats
 Trans fats' Fatty acids contain trans-double bonding, which has been linked to coronary heart disease.
