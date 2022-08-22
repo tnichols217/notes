@@ -341,7 +341,8 @@ There are three kinds of Lipids
 > ````
 > ***
 > **Glycerol**
-> An alcohol that holds together all the fatty acids to form 
+> An alcohol that holds together all the fatty acids to form fats.
+> Glycerol contains 
 > ````col
 > ```molecule3d
 > glycerol
