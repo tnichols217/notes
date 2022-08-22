@@ -325,6 +325,8 @@ There are three kinds of Lipids
 > - The bonding will look similar to **$\text{O}-\text{C}-\text{OH}$** where the central carbon will be bonded to something else, often a carbon backbone
 
 #### Fats
+Fats are a way for organisms to st
+
 There are two kinds of Fats
 1. [[#Unsaturated Fats]]
 2. [[#Saturated Fats]]
