@@ -323,7 +323,9 @@ There are three kinds of Lipids
 
 #### Fats
 There are two kinds of Fats
-1. 
+1. [[#Unsaturated Fats]]
+2. [[#Saturated Fats]]
+
 > [!def]
 > **Fats**
 > - A large molecule formed by a dehydration reaction between **Glycerol** and **Fatty Acids**
