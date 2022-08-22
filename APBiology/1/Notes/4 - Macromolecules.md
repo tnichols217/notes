@@ -297,6 +297,7 @@ A similar thing is found for proteins, if bonded like an $\alpha$ then it will f
 
 
 ### Lipids
+- Very diverse group of Macromole
 
 ### Proteins
 > [!def]
