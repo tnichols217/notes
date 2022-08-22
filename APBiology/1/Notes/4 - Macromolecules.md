@@ -408,6 +408,8 @@ Saturated fats have also been linked to negative health side effects, especially
 > ```molecule3d
 > Tristearin
 > ```
+> ```col-md
+> ```
 > **< Tristearin**
 > A saturated fat made of three **Stearic acid** fatty acids.
 > ````
