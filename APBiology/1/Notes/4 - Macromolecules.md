@@ -452,7 +452,7 @@ Composed of:
 > ![[Pasted image 20220822225306.png]]
 
 #### Steroids
-Lipids that are characterised b
+Lipids that are characterised by their four fused rings: three six atom rings then a five atom ring. 
 
 ### Proteins
 > [!def]
