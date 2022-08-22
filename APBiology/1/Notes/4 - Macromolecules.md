@@ -415,6 +415,7 @@ Composed of:
 2. Two Hydrophobic fatty acids tails
 3. Phosphate group
 4. Occasionally a hydrophilic molecule
+![[Pasted image 20220822225335.png]]
 
 > [!def]
 > **Phospholipid Bilayer**
