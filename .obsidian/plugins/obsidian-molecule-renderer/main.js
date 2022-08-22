@@ -131,14 +131,16 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
           if (this.requestStack.length > 0) {
             yield this.requestStack.shift();
           }
-          let resp = yield (0, import_obsidian2.requestUrl)({ url, throw: false });
-          if (resp.status == 200) {
-            this.pugrestCache.set(url, resp.text);
-            setTimeout(resolve, 200, resp.text);
-          } else {
-            setTimeout(resolve, 500);
-            reject(resp);
-          }
+          (0, import_obsidian2.requestUrl)({ url, throw: false }).then((resp) => {
+            if (resp.status == 200) {
+              this.pugrestCache.set(url, resp.text);
+              setTimeout(resolve, 200, resp.text);
+            } else {
+              reject(resp);
+            }
+          }).catch((err) => {
+            reject();
+          });
         }
       }));
       this.requestStack.push(prom);
