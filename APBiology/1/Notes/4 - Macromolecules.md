@@ -536,7 +536,7 @@ Can be categorised as:
 
 Consists of:
 1. Amino Group ($-\text{NH}_2$)
-2. Carboxyl Group ($>\text{C}=\text{O}$)
+2. Carboxyl Group ($>\text{COOH}$)
 3. $\alpha$ Carbon ($\text{C}$)
 4. Hydrogen ($\text{H}$)
 5. **R group**, also called the **side chain**
