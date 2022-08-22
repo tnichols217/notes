@@ -524,6 +524,7 @@ Consists of:
 5. **R group**, also called the **side chain**
 
 The $\alpha$ Carbon is bonded to all the amino group, carboxyl group, R chain, and one hydrogen.
+The R chain is what differentiates the different Amino acids
 
 ![[Pasted image 20220818132618.png]]
 
