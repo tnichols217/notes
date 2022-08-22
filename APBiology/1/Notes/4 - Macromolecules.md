@@ -342,13 +342,12 @@ There are three kinds of Lipids
 > ***
 > **Glycerol**
 > An alcohol that holds together all the fatty acids to form fats.
-> Glycerol contains the hydroxyl group (OH) that the Fatty acids can ester link to.
 > ````col
 > ```molecule3d
 > glycerol
 > ```
 > **Glycerol**
-> Contains three Hydroxyl groups (OF) to ester link with the fatty acids
+> Contains three Hydroxyl groups (OH) to ester link with the fatty acids
 > ````
 
 #### Phospholipids
