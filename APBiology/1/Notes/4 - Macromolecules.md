@@ -325,7 +325,8 @@ There are three kinds of Lipids
 > - The bonding will look similar to **$\text{O}-\text{C}-\text{OH}$** where the central carbon will be bonded to something else, often a carbon backbone
 
 #### Fats
-- Storing energy: Fats are a way for organisms to store large amounts of energy (in the hydrocarbon chains). Fats contain twice the amount of energy for the same weight as compared to Phospholipids. Simultaneously
+Fats are used for:
+- **Storing energy**: Organisms store large amounts of energy in the hydrocarbon chains of fats. Fats contain twice the amount of energy for the same weight as compared to Phospholipids. Simultaneously
 
 There are two kinds of Fats
 1. [[#Unsaturated Fats]]
