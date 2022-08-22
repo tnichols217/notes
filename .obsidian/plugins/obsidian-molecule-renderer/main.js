@@ -125,10 +125,13 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
   request(url) {
     return __async(this, null, function* () {
       let prom = new Promise((resolve, reject) => __async(this, null, function* () {
-        yield this.requestStack[this.requestStack.length - 1];
         if (url in this.pugrestCache) {
           resolve(this.pugrestCache.get(url));
         } else {
+          console.log(this.requestStack);
+          if (this.requestStack.length > 0) {
+            yield this.requestStack.shift();
+          }
           let resp = yield (0, import_obsidian2.requestUrl)({ url, throw: false });
           if (resp.status == 200) {
             this.pugrestCache.set(url, resp.text);
