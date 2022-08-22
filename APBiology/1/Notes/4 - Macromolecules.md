@@ -379,8 +379,12 @@ Unsaturated Fats may also contain **trans-double bonding**, classifying these fa
 > **Trans-double bonding**
 > - Happens when two Carbons are double bonded and the remaining bonds are on **opposite sides** of the molecule.
 > - Since the extra bonds are on opposite sides, they balance out and this double bond **does not cause bending** of the molecule.
+> ***
+> 
+> **Tran**
 
 ###### Trans Fats
+Trans
 
 ##### Saturated Fats
 Saturated Fats' Fatty Acids are completely straight and are called **Hydrogen saturated**, because each carbon in the skeleton is bonded to two Hydrogens as well as two Carbons, disallowing any double bonding from happening in the skeleton (which cause kinks).
