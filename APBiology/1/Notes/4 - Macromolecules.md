@@ -340,7 +340,8 @@ There are three kinds of Lipids
 > Notice the Carboxyl (COOH) on the end
 > ````
 > ***
-> 
+> **Glycerol**
+> An alcohol that holds together all the fatty acids to form 
 > ````col
 > ```molecule3d
 > glycerol
