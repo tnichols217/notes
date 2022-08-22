@@ -502,7 +502,10 @@ Are used for:
 2. Storage
 3. Defence
 4. Transport
-5. 
+5. Hormones
+6. Receptors
+7. Motor / Movement
+8. Structure
 
 > [!def]
 > **Protein**
