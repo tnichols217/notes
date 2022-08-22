@@ -433,6 +433,10 @@ Composed of:
 3. Phosphate group
 4. Occasionally a hydrophilic molecule
 
+> [!example]
+> ````col
+> ````
+
 ![[Pasted image 20220822225335.png]]
 
 > [!def]
