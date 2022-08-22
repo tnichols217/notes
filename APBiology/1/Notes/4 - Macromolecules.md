@@ -353,7 +353,7 @@ There are two kinds of Fats
 > Notice the Carboxyl (COOH) on the end
 > ````
 > ***
-> **Glycerol**
+> **Glycerol ($C_3H_8O_3$)**
 > An alcohol that holds together all the fatty acids to form fats.
 > ````col
 > ```molecule3d
