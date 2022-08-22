@@ -382,7 +382,7 @@ Unsaturated Fats may also contain **trans-double bonding**, classifying these fa
 > ***
 > 
 > **Trans Fats**
-> Saturated Fats of which their Fatty Acids contain trans-doubl
+> Saturated Fats of which their Fatty Acids contain trans-double bonding 
 
 ###### Trans Fats
 Trans
