@@ -492,8 +492,7 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 > ```
 > ```col-md
 > **Cholesterol**
-> The simplest steroid consisting of only three rings of cyclohexane followed by one ring of cyclopentane.
-> Gonane has no attached fatty acid or functional group
+> A very important steroid of which many other important ones are made from.
 > ```
 > ````
 
