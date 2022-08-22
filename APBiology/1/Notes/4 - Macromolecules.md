@@ -527,6 +527,9 @@ Are used for:
 > - Bonds the Nitrogen in the **Amino group** to the Carbon in the **Carboxyl group**
 
 #### Amino Acids
+Can be categorised as:
+1. Nonpolar ()
+
 Consists of:
 1. Amino Group ($-\text{NH}_2$)
 2. Carboxyl Group ($>\text{C}=\text{O}$)
