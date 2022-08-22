@@ -367,7 +367,7 @@ There are two kinds of Fats
 ##### Unsaturated Fats
 Unsaturated Fats' Fatty Acids often contain "kinks" in them from **cis-double bonding** in the carbon skeleton, disallowing them to pack closely, leading them to be liquid at room temperature.
 
-Unsaturated Fats may also contain **trans-double bonding**
+Unsaturated Fats may also contain **trans-double bonding**, classifying these fats as **trans fats**.
 
 > [!def]
 > **Cis-double bonding**
