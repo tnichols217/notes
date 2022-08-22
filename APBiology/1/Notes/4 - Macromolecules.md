@@ -458,6 +458,12 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 > [!def]
 > **Fused Rings**
 > Rings of atoms that share a side.
+>> [!example]
+>> ````col
+>> ```molecule3d
+>> Decahydronaphthalene
+>> ```
+>> ````
 
 ### Proteins
 > [!def]
