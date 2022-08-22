@@ -475,7 +475,11 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 >> ````
 
 > [!example]
-> 
+> ````col
+> ```molecule3d
+> Gonane
+> ```
+> ````
 
 ### Proteins
 > [!def]
