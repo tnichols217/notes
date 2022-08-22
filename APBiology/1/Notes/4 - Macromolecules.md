@@ -47,6 +47,9 @@
 		| $\beta$ bonding  | ✔            | ✔              | ✔                   |
 - [[#Lipids]]
 	- [[#Fats]]
+		- [[#Unsaturated Fats]]
+			- Trans Fats
+		- [[#Saturated Fats]]
 	- [[#Phospholipids]]
 	- [[#Steroids]]
 - [[#Proteins]]
