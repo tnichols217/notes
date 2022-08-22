@@ -327,6 +327,9 @@ There are three kinds of Lipids
 > - A large molecule formed by a dehydration reaction between **Glycerol** and **Fatty Acids**
 > - There will always be one glycerol and **three** fatty acids
 > ***
+> 
+> **Fatty Acids**
+> 
 
 ````col
 ```molecule3d
