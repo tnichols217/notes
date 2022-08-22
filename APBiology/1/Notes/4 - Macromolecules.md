@@ -319,13 +319,13 @@ There are three kinds of Lipids
 
 ````col
 ```molecule3d
-glucose
+glycerol
 ```
 **Glycerol**
 ````
 
 ```molecule3d
-glucose
+maltose
 ```
 
 #### Phospholipids
