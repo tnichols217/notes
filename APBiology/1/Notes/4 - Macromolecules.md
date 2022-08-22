@@ -347,6 +347,9 @@ glycerol
 ```molecule3d
 hydroxide
 ```
+```molecule3d
+glucose
+```
 
 #### Phospholipids
 

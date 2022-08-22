@@ -128,16 +128,15 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
         if (url in this.pugrestCache) {
           resolve(this.pugrestCache.get(url));
         } else {
-          console.log(this.requestStack);
           if (this.requestStack.length > 0) {
             yield this.requestStack.shift();
           }
           let resp = yield (0, import_obsidian2.requestUrl)({ url, throw: false });
           if (resp.status == 200) {
             this.pugrestCache.set(url, resp.text);
-            yield new Promise((res) => setTimeout(res, 200));
-            resolve(resp.text);
+            setTimeout(resolve, 200, resp.text);
           } else {
+            setTimeout(resolve, 500);
             reject(resp);
           }
         }
@@ -162,7 +161,6 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
       heading.innerText = "Chemical Not found";
       heading = el.createEl("h2");
       heading.innerText = "Similar Chemicals include:";
-      console.log(src);
       let suggestions = JSON.parse(yield this.request("https://pubchem.ncbi.nlm.nih.gov/rest/autocomplete/compound/" + src)).dictionary_terms.compound;
       let list = el.createEl("ol");
       for (let i of suggestions) {
