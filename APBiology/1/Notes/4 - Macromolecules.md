@@ -522,6 +522,9 @@ Consists of:
 3. $\alpha$ Carbon ($\text{C}$)
 4. Hydrogen ($\text{H}$)
 5. **R group**, also called the **side chain**
+
+The $\alpha$ Carbon is bonded to all the 
+
 ![[Pasted image 20220818132618.png]]
 
 ### Nucleic Acids
