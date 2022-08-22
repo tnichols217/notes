@@ -440,7 +440,7 @@ Composed of:
 > ```
 > ```col-md
 > **Dioleoyl phosphatidylethanolamine**
-> A 
+> An example phospholipid that has two bent tails and a hydrophobic head
 > ```
 > ````
 
