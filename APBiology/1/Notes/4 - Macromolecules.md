@@ -413,7 +413,10 @@ Saturated fats have also been linked to negative health side effects, especially
 > A saturated fat made of three **Stearic acid** fatty acids.
 > 
 > **Stearic acid ->**
-> A saturated fatty acid
+> A saturated fatty acid with a 18C backbone
+> ```
+> ```molecule3d
+> Stearic acid
 > ```
 > ````
 
