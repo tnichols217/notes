@@ -498,6 +498,11 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 
 ### Proteins
 Are used for:
+1. Being Enzymes
+2. Storage
+3. Defence
+4. Transport
+5. 
 
 > [!def]
 > **Protein**
