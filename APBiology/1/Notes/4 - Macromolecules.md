@@ -329,7 +329,12 @@ There are three kinds of Lipids
 > ***
 > 
 > **Fatty Acids**
-> 
+> A carbon skeleton usually **16-18** carbons long ending with a carboxyl group
+> ````col
+> ```molecule3d
+> palmitic acid
+> ```
+> ````
 
 ````col
 ```molecule3d
