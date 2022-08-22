@@ -464,12 +464,12 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 >> Decahydronaphthalene
 >> ```
 >> ```col-md
->> ```
 >> **<- Decahydronaphthalene**
 >> A molecule consisting of two fused cyclohexane rings
 >> 
 >> **Cyclohexane ->**
->> 
+>> A molecule consisting of only a ring of 6 carbons and attaching hydrogens
+>> ```
 >> ````
 
 ### Proteins
