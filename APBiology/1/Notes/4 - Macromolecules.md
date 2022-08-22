@@ -536,7 +536,7 @@ Can be categorised as:
 
 Consists of:
 1. Amino Group ($-\text{NH}_2$)
-2. Carboxyl Group ($>\text{COOH}$)
+2. Carboxyl Group ($-\text{COOH}$)
 3. $\alpha$ Carbon ($\text{C}$)
 4. Hydrogen ($\text{H}$)
 5. **R group**, also called the **side chain**
@@ -552,7 +552,7 @@ The R chain is what differentiates the different Amino acids, as the rest of the
 > ```col-md
 > **Glycine**
 > The most basic Amino Acid, with its side chain consisting of only a single Hydrogen atom.
-> Notice the amino group ($-\text{NH}_2$), carboxyl group ($>\text{C}=\text{O}$), and $\alpha$ carbon.
+> Notice the amino group ($-\text{NH}_2$), carboxyl group ($-\text{COOH}$), and $\alpha$ carbon.
 > ```
 > ````
 
