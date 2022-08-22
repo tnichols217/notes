@@ -572,7 +572,6 @@ Cysteine is only classified as Polar because the sulfyhydryl group is only weakl
 > ```col-md
 > **Cysteine**
 > A (weakly) Polar Amino acid with the chain ending in a sulfhydryl group
-> It is also know as the stop codon.
 > ```
 > ```molecule
 > Cysteine
