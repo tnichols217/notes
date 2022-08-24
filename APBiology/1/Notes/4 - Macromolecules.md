@@ -639,7 +639,7 @@ Can be recognised by having a positively charged tip of the side chain by having
 > ````
 
 #### Polypeptides
-Are chains of amino acids, bonded through Peptide Bonding from the **N-terminus** to the **C-terminus**
+Are chains of amino acids, bonded through **Peptide Bonding** from the **N-terminus** to the **C-terminus**
 
 > [!def]
 > **N-terminus**
@@ -649,5 +649,19 @@ Are chains of amino acids, bonded through Peptide Bonding from the **N-terminus*
 > **C-terminus**
 > The side of a polypeptide chain (or amino acid) that ends in the **Carboxyl group ($-\text{COOH}$**)
 
+#### Structures in a Protein
+##### Primary Structure
+- Primary Structures are defined as a linear string of amino acids, which make up polypeptide chains.
+- Bonded by Peptide Bonding
+
+```molecule
+Transthyretin-IN-1
+```
+
+##### Secondary Structure
+
+##### Tertiary Structure
+
+##### Quaternary Structure
 
 ### Nucleic Acids
