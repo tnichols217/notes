@@ -579,6 +579,6 @@ Cysteine is only classified as Polar because the sulfyhydryl group is only weakl
 > ````
 
 ##### Nonpolar Amino Acids
-
+Can be recognised by having a non-charged nonpolar tip of the side chain
 
 ### Nucleic Acids
