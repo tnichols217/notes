@@ -734,4 +734,6 @@ Nucleic Acids are made up of **nucleotides** (the monomer), this makes Nucleic A
 Are made up of three parts:
 1. Five carbon sugar (pentose)
 2. Nitrogenous base
-3. One to three phosphate groups (one when its polymerize)
+3. One to three phosphate groups (one when its polymerised and three before)
+
+##### Pentoses
