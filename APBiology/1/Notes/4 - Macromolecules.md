@@ -701,3 +701,5 @@ There are two kinds of Nucleic Acids
 - DNA is just the instructions for what to do, it doesn't actually do it
 
 #### RNA
+- RNA is an intermediary step to produce proteins from DNA
+- The process to create proteins looks something similar to
