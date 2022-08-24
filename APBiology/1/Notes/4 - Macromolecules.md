@@ -779,7 +779,12 @@ There are two kinds of Nitrogenous Bases:
 
 ###### Pyrimidines
 - Pyrimidines are constructed out of a single six-sided ring
-- Smaller than Purin
+- Smaller than Purines
+
+Includes 
+1. Cytosine (C)
+2. Thymine (T, for DNA)
+3. 
 
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
