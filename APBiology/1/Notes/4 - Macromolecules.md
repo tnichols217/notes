@@ -797,8 +797,8 @@ Curiously, when two nitrogenous bases are paired, the amount of oxygen will add 
 
 Includes 
 1. Cytosine (C), pairs with Guanine
-2. Thymine (T, for DNA), pairs with Adenine
-3. Uracil (U, for RNA), pairs with Adenine
+2. Thymine (T, for DNA), pairs with Adenine by two Hydrogen Bonds
+3. Uracil (U, for RNA), pairs with Adenine  b
 
 > [!example]
 > `````col
