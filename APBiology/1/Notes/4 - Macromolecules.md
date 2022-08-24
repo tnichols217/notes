@@ -740,4 +740,7 @@ Are made up of three parts:
 > [!def]
 > **Nucleoside**
 > The combination of the pentose and nitrogenous base in a nucleotide
-> This exclused the phosphate group from the 
+> This excludes the phosphate group
+
+##### Phosphate group
+The phosphate group in a nucleotide 
