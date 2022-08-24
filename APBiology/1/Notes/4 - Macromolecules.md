@@ -755,6 +755,7 @@ The pentose of a nucleotide can either be
 > beta-D-2-Deoxyribose
 > ```
 > Notice how the structure is missing a singular Oxygen atom
+> This is why it is called de-oxy-ribose (Ribose missing Oxygen)
 > ````
 > ````col-md
 > **Ribose**
