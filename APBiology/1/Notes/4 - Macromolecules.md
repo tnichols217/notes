@@ -695,7 +695,7 @@ There are two kinds of Nucleic Acids
 1. DNA (Deoxyribonucleic Acid)
 2. RNA (Ribonucleic Acid)
 
-Nucleic Acids are made up of nucleotides (the monomer)
+Nucleic Acids are made up of **nucleotides** (the monomer), this makes Nucleic Acids polynucleotides
 
 #### DNA
 - DNA stores all the information for life
@@ -732,4 +732,5 @@ Nucleic Acids are made up of nucleotides (the monomer)
 
 #### Nucleotides
 Are made up of three parts:
-1. 
+1. Five carbon sugar (pentose)
+2. 
