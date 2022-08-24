@@ -695,6 +695,8 @@ There are two kinds of Nucleic Acids
 1. DNA (Deoxyribonucleic Acid)
 2. RNA (Ribonucleic Acid)
 
+Nucleic Acids
+
 #### DNA
 - DNA stores all the information for life
 - This is what is inherited from parents
@@ -709,7 +711,7 @@ There are two kinds of Nucleic Acids
 	- rRNA (ribosomal RNA)
 	- tRNA (transfer RNA)
 
-
+![[Pasted image 20220824205024.png]]
 
 ##### mRNA
 - mRNA's function is to **hold a copy of DNA** and take it out of the nucleus to be used
