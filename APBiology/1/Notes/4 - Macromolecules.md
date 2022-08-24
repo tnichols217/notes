@@ -784,7 +784,11 @@ There are two kinds of Nitrogenous Bases:
 Includes 
 1. Cytosine (C)
 2. Thymine (T, for DNA)
-3. 
+3. Uracil (U, for RNA)
+
+> [!example]
+> ````col
+> ````
 
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
