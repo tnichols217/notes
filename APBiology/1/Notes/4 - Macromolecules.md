@@ -754,8 +754,10 @@ The pentose of a nucleotide can either be
 > ```molecule
 > beta-D-2-Deoxyribose
 > ```
+> Notice how the structure is missing a singular Oxygen atom
 > ````
 > ````col-md
+> **Ribose**
 > ```molecule
 > D-ribofuranose
 > ```
