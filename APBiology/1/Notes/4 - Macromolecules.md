@@ -659,9 +659,18 @@ Are chains of amino acids, bonded through **Peptide Bonding** from the **N-termi
 - These structures are formed by the hydrogen bonding from one part of the chain to another. This happens because some parts of the chain is positive, negative, hydrophilic, or hydrophobic.
 
 ###### $\alpha$ Helices
-Helices are spirals on the polyp
+Helices are spirals on the polypeptide chain formed by Hydrogen bonds formed with itself every four amino acids or so 
+![[Pasted image 20220824100341.png]]
 
 ###### $\beta$ pleated sheets
+Pleated sheets are formed when multiple **$\beta$ strands** are bonded next to each other, forming a wide pleated sheet.
+These $\beta$ strands are on different parts of the polypeptide chain, but still bond to each other due to charges.
+
+> [!def]
+> **$\beta$ strands**
+> An individual string of the polypeptide chain that is part of a $\beta$ sheet.
+> Multiple strands are hydrogen bonded parallel to each other to form a singular sheet.
+
 
 ##### Tertiary Structure
 
