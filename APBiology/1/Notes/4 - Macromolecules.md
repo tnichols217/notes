@@ -777,7 +777,7 @@ There are two kinds of Nitrogenous Bases:
 1. Pyrimidines
 2. Purines
 
-Curiousl
+Curiously, when two nitrogenous bases are paired, the amount of oxygen will add up to two atoms.
 
 ###### Pyrimidines
 - Pyrimidines are constructed out of a single six-sided ring
