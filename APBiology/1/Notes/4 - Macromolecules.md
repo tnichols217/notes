@@ -739,4 +739,5 @@ Are made up of three parts:
 ##### Nucleosides
 > [!def]
 > **Nucleoside**
-> The combination of the pentose and nit
+> The combination of the pentose and nitrogenous base in a nucleotide
+> This exclused the phosphate group from the 
