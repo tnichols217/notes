@@ -752,7 +752,7 @@ The pentose of a nucleotide can either be
 > ````col-md
 > **Deoxyribose**
 > ```molecule
-> Deoxyribose
+> beta-D-2-Deoxyribose
 > ```
 > ````
 > ````col-md
