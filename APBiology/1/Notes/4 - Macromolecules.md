@@ -743,6 +743,10 @@ Are made up of three parts:
 > This excludes the phosphate group
 
 ###### Pentose
+The pentose of a nucleo
+
+###### Nitrogenous Base
+
 
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
