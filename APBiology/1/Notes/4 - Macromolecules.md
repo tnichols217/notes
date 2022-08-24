@@ -793,21 +793,21 @@ Includes
 > ```molecule3d
 > Cytosine
 > ```
-> Contains **three** Nitrogen Atoms
+> Contains **four** Carbon Atoms
 > ````
 > ````col-md
 > **Thymine**
 > ```molecule3d
 > Thymine
 > ```
-> Contains **two** Nitrogen Atoms
+> Contains **five** Carbon Atoms
 > ````
 > ````col-md
 > **Uracil**
 > ```molecule3d
 > Uracil
 > ```
-> Contains **two** Nitrogen Atoms
+> Contains **two** Carbon Atoms
 > ````
 > `````
 
