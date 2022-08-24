@@ -773,7 +773,11 @@ The pentose of a nucleotide can either be
 - The Nitrogenous base is the part of each Nucleotide that can differ
 - The sequence of Nitrogenous bases are what actually store the information in the DNA and RNA.
 
-There are two kinds of Nitrogenous Ba
+There are two kinds of Nitrogenous Bases:
+1. Pyrimidines
+2. Purines
+
+**Pyrimidines**
 
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
