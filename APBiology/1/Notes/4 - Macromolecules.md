@@ -685,7 +685,9 @@ These $\beta$ strands are on different parts of the polypeptide chain, but still
 > [!def]
 > **DIsulfide Bridge**
 > An attraction between two sulphur atoms part of a sulfyhydryl groups ($-\text{SH}$)
+> This kind of bonding only happens to the amino acid Cysteine
 
 ##### Quaternary Structure
+-
 
 ### Nucleic Acids
