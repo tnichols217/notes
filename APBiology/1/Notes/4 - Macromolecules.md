@@ -782,7 +782,7 @@ There are two kinds of Nitrogenous Bases:
 - Smaller than Purines
 
 Includes 
-1. Cytosine (C)
+1. Cytosine (C), pairs with Guanine
 2. Thymine (T, for DNA)
 3. Uracil (U, for RNA)
 
