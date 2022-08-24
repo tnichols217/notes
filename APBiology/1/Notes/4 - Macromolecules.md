@@ -796,9 +796,9 @@ Curiously, when two nitrogenous bases are paired, the amount of oxygen will add 
 - Smaller than Purines
 
 Includes 
-1. Cytosine (C), pairs with Guanine
+1. Cytosine (C), pairs with Guanine by three Hydrogen Bonds
 2. Thymine (T, for DNA), pairs with Adenine by two Hydrogen Bonds
-3. Uracil (U, for RNA), pairs with Adenine  b
+3. Uracil (U, for RNA), pairs with Adenine by two Hydrogen Bonds
 
 > [!example]
 > `````col
@@ -830,8 +830,8 @@ Includes
 - Larger than Pyrimidines
 
 Includes 
-1. Adenine (A), pairs with Thymine and Uracil
-2. Guanine (G), pairs with Cytosine
+1. Adenine (A), pairs with Thymine and Uracil by two Hydrogen Bonds
+2. Guanine (G), pairs with Cytosine by three Hydrogen Bonds
 
 > [!example]
 > `````col
