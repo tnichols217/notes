@@ -507,6 +507,8 @@ Are used for:
 7. Motor / Movement
 8. Structure
 
+The
+
 > [!def]
 > **Protein**
 > Proteins are the primary macromolecule and consist for more than half of the dry mass of an organism
@@ -597,9 +599,39 @@ Can be recognised by having a non-charged nonpolar tip of the side chain
 
 ##### Electrically Charged Amino Acids
 ###### Acidic (Negative)
+Can be recognised by having a negatively charged tip of the side chain by lacking additional Hydrogen bonds.
 
+> [!example]
+> ````col
+> ```molecule3d
+> Aspartic acid
+> ```
+> ```col-md
+> **Aspartic acid**
+> A negatively charged amino acid
+> Notice how the tip has a negatively charged Oxygen due to missing an additional Hydrogen
+> ```
+> ```molecule
+> Aspartic acid
+> ```
+> ````
 
 ###### Basic (Positive)
+Can be recognised by having a positively charged tip of the side chain by having additional Hydrogen bonds.
 
+> [!example]
+> ````col
+> ```molecule3d
+> Histidine
+> ```
+> ```col-md
+> **Histidine**
+> A positively charged amino acid
+> Notice how the tip has a Nitrogen with additional bonds to Hydrogen, making it a positively charged molecule.
+> ```
+> ```molecule
+> Histidine
+> ```
+> ````
 
 ### Nucleic Acids
