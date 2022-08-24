@@ -709,6 +709,8 @@ There are two kinds of Nucleic Acids
 	- rRNA (ribosomal RNA)
 	- tRNA (transfer RNA)
 
+
+
 ##### mRNA
 - mRNA's function is to **hold a copy of DNA** and take it out of the nucleus to be used
 
