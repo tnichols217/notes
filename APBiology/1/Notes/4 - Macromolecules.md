@@ -713,4 +713,5 @@ There are two kinds of Nucleic Acids
 - mRNA's function is to hold a copy of DNA and take it out of the nucleus to be used
 
 ##### rRNA
-- rRNA 
+- rRNA forms the proteins inscribed on the mRNA
+- It reads the mRNA and finds the corre
