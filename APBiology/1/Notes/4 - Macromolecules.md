@@ -683,7 +683,7 @@ These $\beta$ strands are on different parts of the polypeptide chain, but still
 
 > [!def]
 > **DIsulfide Bridge**
-> An attraction between two 
+> An attraction between two sulphur atoms
 
 ##### Quaternary Structure
 
