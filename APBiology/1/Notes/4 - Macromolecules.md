@@ -581,4 +581,25 @@ Cysteine is only classified as Polar because the sulfyhydryl group is only weakl
 ##### Nonpolar Amino Acids
 Can be recognised by having a non-charged nonpolar tip of the side chain
 
+> [!example]
+> ````col
+> ```molecule3d
+> Phenylalanine
+> ```
+> ```col-md
+> **Phenylalanine**
+> A nonpolar amino acid
+> ```
+> ```molecule
+> Phenylalanine
+> ```
+> ````
+
+##### Electrically Charged Amino Acids
+###### Acidic (Negative)
+
+
+###### Basic (Positive)
+
+
 ### Nucleic Acids
