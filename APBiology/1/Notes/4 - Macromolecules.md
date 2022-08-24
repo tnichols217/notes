@@ -655,7 +655,13 @@ Are chains of amino acids, bonded through **Peptide Bonding** from the **N-termi
 - Bonded by Peptide Bonding
 
 ##### Secondary Structure
-- Parts of the polypeptide chain that "folds" into 
+- Parts of the polypeptide chain that "folds" into either **$\alpha$ helices** or **$\beta$ pleated sheets**
+- These structures are formed by the hydrogen bonding from one part of the chain to another. This happens because some parts of the chain is positive, negative, hydrophilic, or hydrophobic.
+
+###### $\alpha$ Helices
+Helices are spirals on the polyp
+
+###### $\beta$ pleated sheets
 
 ##### Tertiary Structure
 
