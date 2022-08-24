@@ -695,7 +695,7 @@ There are two kinds of Nucleic Acids
 1. DNA (Deoxyribonucleic Acid)
 2. RNA (Ribonucleic Acid)
 
-Nucleic Acids are made up of **nucleotides** (the monomer), this makes Nucleic Acids polynucleotides, with bonds to each other called **phosphodie**
+Nucleic Acids are made up of **nucleotides** (the monomer), this makes Nucleic Acids polynucleotides, with bonds to each other called **phosphodiester linkages**
 
 #### DNA
 - DNA stores all the information for life
@@ -743,4 +743,4 @@ Are made up of three parts:
 > This excludes the phosphate group
 
 ##### Phosphate group
-The phosphate group in a nucleotide holds each 
+The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
