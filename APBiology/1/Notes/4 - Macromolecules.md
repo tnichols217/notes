@@ -777,6 +777,8 @@ There are two kinds of Nitrogenous Bases:
 1. Pyrimidines
 2. Purines
 
+Curiousl
+
 ###### Pyrimidines
 - Pyrimidines are constructed out of a single six-sided ring
 - Smaller than Purines
@@ -793,14 +795,14 @@ Includes
 > ```molecule3d
 > Cytosine
 > ```
-> Contains **one** Oxygen Atoms
+> Contains **one** Oxygen Atom
 > ````
 > ````col-md
 > **Thymine**
 > ```molecule3d
 > Thymine
 > ```
-> Contains **five** Oxygen Atoms
+> Contains **two** Oxygen Atoms
 > ````
 > ````col-md
 > **Uracil**
@@ -826,14 +828,14 @@ Includes
 > ```molecule3d
 > Adenine
 > ```
-> Contains **five** Nitrogen Atoms
+> Contains **zero** Oxygen Atoms
 > ````
 > ````col-md
 > **Guanine**
 > ```molecule3d
 > Guanine
 > ```
-> Contains **two** Nitrogen Atoms
+> Contains **one** Oxygen Atoms
 > ````
 > `````
 
