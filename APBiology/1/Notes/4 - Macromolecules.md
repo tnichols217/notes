@@ -676,10 +676,11 @@ These $\beta$ strands are on different parts of the polypeptide chain, but still
 
 ##### Tertiary Structure
 - Tertiary Structures are the overall shape of a polypeptide
-- These structures can happen for three reasons
+- These structures can happen for four reasons
 	1. Hydrophobic Interactions
 	2. Hydrogen bonding
-	3. DIsulfide Bridges
+	3. Ionic Bonding (from electrically charged amino acids)
+	4. DIsulfide Bridges
 
 > [!def]
 > **DIsulfide Bridge**
