@@ -743,4 +743,4 @@ Are made up of three parts:
 > This excludes the phosphate group
 
 ##### Phosphate group
-The phosphate group in a nucleotide 
+The phosphate group in a nucleotide holds each 
