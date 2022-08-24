@@ -744,7 +744,7 @@ Are made up of three parts:
 > The combination of the pentose and nitrogenous base in a nucleotide
 > This excludes the phosphate group
 
-###### Pentose
+##### Pentose
 The pentose holds the Nitrogenous base to the Phosphate group
 The pentose of a nucleotide can either be
 1. Deoxyribose (for DNA)
@@ -769,7 +769,7 @@ The pentose of a nucleotide can either be
 > ````
 > `````
 
-###### Nitrogenous Base
+##### Nitrogenous Base
 - The Nitrogenous base is the part of each Nucleotide that can differ
 - The sequence of Nitrogenous bases are what actually store the information in the DNA and RNA.
 
@@ -777,7 +777,8 @@ There are two kinds of Nitrogenous Bases:
 1. Pyrimidines
 2. Purines
 
-**Pyrimidines**
+###### Pyrimidines
+Pyrimidines are constr
 
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
