@@ -789,14 +789,24 @@ Includes
 > [!example]
 > `````col
 > ````col-md
+> **Cytosine**
 > ```molecule3d
 > Cytosine
 > ```
+> Contains three Nitogen Atoms
 > ````
-> ```col-md
-> **Cytosine**
-> A Pyrimidine that is used in both RNA and DNA
+> ````col-md
+> **Thymine**
+> ```molecule3d
+> Thymine
 > ```
+> ````
+> ````col-md
+> **Uracil**
+> ```molecule3d
+> Uracil
+> ```
+> ````
 > `````
 
 ###### Purines
