@@ -748,7 +748,14 @@ The pentose of a nucleotide can either be
 2. Ribose (for RNA)
 
 > [!example]
-> 
+> ````col
+> ```molecule3d
+> Deoxyribose
+> ```
+> ```molecule3d
+> Ribose
+> ```
+> ````
 
 ###### Nitrogenous Base
 
