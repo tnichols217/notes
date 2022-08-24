@@ -736,6 +736,8 @@ Are made up of three parts:
 2. Nitrogenous base
 3. One to three phosphate groups (one when its polymerised and three before)
 
+![[Pasted image 20220824211535.png]]
+
 ##### Nucleosides
 > [!def]
 > **Nucleoside**
