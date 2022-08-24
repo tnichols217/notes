@@ -757,7 +757,7 @@ The pentose of a nucleotide can either be
 > ````
 > ````col-md
 > ```molecule
-> Ribose
+> D-ribofuranose
 > ```
 > ````
 > `````
