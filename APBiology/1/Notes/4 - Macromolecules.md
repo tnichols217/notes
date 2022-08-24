@@ -694,3 +694,4 @@ These $\beta$ strands are on different parts of the polypeptide chain, but still
 There are two kinds of Nucleic Acids
 1. DNA (Deoxyribonucleic Acid)
 2. RNA (Ribonucleic Acid)
+
