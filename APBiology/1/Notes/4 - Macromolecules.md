@@ -788,6 +788,10 @@ Includes
 
 > [!example]
 > ````col
+> ```col-md
+> **Cytosine**
+> A Pyrimidine that is used in both RNA and DNA
+> ```
 > ````
 
 ##### Phosphate group
