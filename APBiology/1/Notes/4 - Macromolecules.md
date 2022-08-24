@@ -621,7 +621,7 @@ Can be recognised by having a negatively charged tip of the side chain by lackin
 > ````
 
 ###### Basic (Positive)
-Can be recognised by having a positively charged tip of the side chain by having additional Hydrogen bonds.
+Can be recognised by having a positively charged tip of the side chain by having additional Hydrogen bonds.ttps://duckduckgo.com/?t=ffab&q=sparknotes&ia=web
 
 > [!example]
 > ````col
@@ -643,10 +643,11 @@ Are chains of amino acids, bonded through Peptide Bonding from the **N-terminus*
 
 > [!def]
 > **N-terminus**
-> The side of a polypeptide chain (or amino acid) that ends in the **Amino group**
+> The side of a polypeptide chain (or amino acid) that ends in the **Amino group ($-\text{NH}_2$)**
 > ***
 > 
-> **C-termi**
+> **C-terminus**
+> The side of a polypeptide chain (or amino acid) that ends in the **Carboxyl group ($-\text{COOH}$**)
 
 
 ### Nucleic Acids
