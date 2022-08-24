@@ -705,7 +705,8 @@ Nucleic Acids are made up of nucleotides (the monomer)
 
 > [!def]
 > **Anti-parallel**
-> 
+> Two strands of DNA running beside each other but facing different directions
+> Imagine two pencils next to each other but one points up and one points
 
 #### RNA
 - RNA is an intermediary step to produce proteins from DNA
