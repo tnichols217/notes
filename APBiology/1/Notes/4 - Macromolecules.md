@@ -743,6 +743,7 @@ Are made up of three parts:
 > This excludes the phosphate group
 
 ###### Pentose
+The pentose hold
 The pentose of a nucleotide can either be
 1. Deoxyribose (for DNA)
 2. Ribose (for RNA)
@@ -762,9 +763,11 @@ The pentose of a nucleotide can either be
 > ```molecule
 > D-ribofuranose
 > ```
-> \* It may appear that there are extra Hydrogens in this image, but the Hydrogen
+> \* It may appear that there are extra Hydrogens in this image, but the Hydrogens are just being abbreviated in the other image, they are still there
 > ````
 > `````
+
+
 
 ###### Nitrogenous Base
 
