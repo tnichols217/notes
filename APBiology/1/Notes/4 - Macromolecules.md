@@ -736,4 +736,7 @@ Are made up of three parts:
 2. Nitrogenous base
 3. One to three phosphate groups (one when its polymerised and three before)
 
-##### Pentoses
+##### Nucleosides
+> [!def]
+> **Nucleoside**
+> The combination of the pentose and nit
