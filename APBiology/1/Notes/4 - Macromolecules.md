@@ -743,7 +743,11 @@ Are made up of three parts:
 > This excludes the phosphate group
 
 ###### Pentose
-The pentose of a nucleo
+The pentose of a nucleotide can either be
+1. Deoxyribose (for DNA)
+2. Ribose (for RNA)
+
+
 
 ###### Nitrogenous Base
 
