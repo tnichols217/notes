@@ -762,6 +762,7 @@ The pentose of a nucleotide can either be
 > ```molecule
 > D-ribofuranose
 > ```
+> \* It may appear that there are extra Hydrogens in this image, but the Hydrogen
 > ````
 > `````
 
