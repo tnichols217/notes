@@ -793,19 +793,21 @@ Includes
 > ```molecule3d
 > Cytosine
 > ```
-> Contains three Nitogen Atoms
+> Contains **three** Nitrogen Atoms
 > ````
 > ````col-md
 > **Thymine**
 > ```molecule3d
 > Thymine
 > ```
+> Contains **two** Nitrogen Atoms
 > ````
 > ````col-md
 > **Uracil**
 > ```molecule3d
 > Uracil
 > ```
+> Contains **two** Nitrogen Atoms
 > ````
 > `````
 
@@ -816,6 +818,31 @@ Includes
 Includes 
 1. Adenine (A)
 2. Guanine (G)
+
+> [!example]
+> `````col
+> ````col-md
+> **Adenine**
+> ```molecule3d
+> Adenine
+> ```
+> Contains **three** Nitrogen Atoms
+> ````
+> ````col-md
+> **Thymine**
+> ```molecule3d
+> Thymine
+> ```
+> Contains **two** Nitrogen Atoms
+> ````
+> ````col-md
+> **Uracil**
+> ```molecule3d
+> Uracil
+> ```
+> Contains **two** Nitrogen Atoms
+> ````
+> `````
 
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
