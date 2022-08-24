@@ -710,12 +710,13 @@ There are two kinds of Nucleic Acids
 	- tRNA (transfer RNA)
 
 ##### mRNA
-- mRNA's function is to hold a copy of DNA and take it out of the nucleus to be used
+- mRNA's function is to **hold a copy of DNA** and take it out of the nucleus to be used
 
 ##### rRNA
-- rRNA forms the proteins inscribed on the mRNA
+- rRNA **forms the proteins** inscribed on the mRNA
 - It reads the mRNA and connects the correct Amino Acids together to form proteins
 
 ##### tRNA
-- tRNA brings the correct Amino Acids associated with the genetic sequence to the rRNA
-- each tRNA matches its speci
+- tRNA **brings the correct Amino Acids** associated with the genetic sequence to the rRNA
+- each tRNA matches its specific three nucleotide code to a specific amino acid
+
