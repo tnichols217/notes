@@ -714,4 +714,7 @@ There are two kinds of Nucleic Acids
 
 ##### rRNA
 - rRNA forms the proteins inscribed on the mRNA
-- It reads the mRNA and finds the corre
+- It reads the mRNA and connects the correct Amino Acids together to form proteins
+
+##### tRNA
+- tRNA brings the corre
