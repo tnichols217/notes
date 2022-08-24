@@ -798,7 +798,12 @@ Includes
 > ````
 
 ###### Purines
-- Purines are constructed out of a 
+- Purines are constructed out of a side sided ring fused to a five sided ring
+- Larger than Pyrimidines
+
+Includes 
+1. Adenine (A)
+2. Guanine ()
 
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
