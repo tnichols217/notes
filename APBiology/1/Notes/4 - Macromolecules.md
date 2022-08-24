@@ -695,3 +695,6 @@ There are two kinds of Nucleic Acids
 1. DNA (Deoxyribonucleic Acid)
 2. RNA (Ribonucleic Acid)
 
+#### DNA
+- DNA stores all the information for life
+- This is what is inherited from parents
