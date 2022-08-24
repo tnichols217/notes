@@ -654,11 +654,8 @@ Are chains of amino acids, bonded through **Peptide Bonding** from the **N-termi
 - Primary Structures are defined as a linear string of amino acids, which make up polypeptide chains.
 - Bonded by Peptide Bonding
 
-```molecule
-Transthyretin-IN-1
-```
-
 ##### Secondary Structure
+- Parts of the polypeptide chain that "folds" into 
 
 ##### Tertiary Structure
 
