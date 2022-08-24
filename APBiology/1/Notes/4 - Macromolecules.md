@@ -733,7 +733,7 @@ Nucleic Acids are made up of **nucleotides** (the monomer), this makes Nucleic A
 #### Nucleotides
 Are made up of three parts:
 1. Five carbon sugar (pentose)
-2. Nitrogenous base
+2. Nitrogenous base (The part that can change)
 3. One to three phosphate groups (one when its polymerised and three before)
 
 ![[Pasted image 20220824211535.png]]
@@ -771,6 +771,7 @@ The pentose of a nucleotide can either be
 
 ###### Nitrogenous Base
 The Nitrogenous base is the part of each Nucleotide that can differ
+The sequence of Nitrogenous bases are wh
 
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
