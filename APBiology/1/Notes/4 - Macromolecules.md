@@ -695,7 +695,7 @@ There are two kinds of Nucleic Acids
 1. DNA (Deoxyribonucleic Acid)
 2. RNA (Ribonucleic Acid)
 
-Nucleic Acids
+Nucleic Acids are made up of nucleotides (the monomer)
 
 #### DNA
 - DNA stores all the information for life
@@ -724,3 +724,4 @@ Nucleic Acids
 - tRNA **brings the correct Amino Acids** associated with the genetic sequence to the rRNA
 - each tRNA matches its specific three nucleotide code to a specific amino acid
 
+#### Nucleotides
