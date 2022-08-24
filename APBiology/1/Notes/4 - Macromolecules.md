@@ -53,6 +53,12 @@
 	- [[#Phospholipids]]
 	- [[#Steroids]]
 - [[#Proteins]]
+	- [[#Amino Acids]]
+		- [[#Polar Amino Acids]]
+		- [[#Nonpolar Amino Acids]]
+		- [[#Electrically Charged Amino Acids]]
+			- [[#Acidic Negative]]
+			- [[#Basic Positive]]
 - [[#Nucleic Acids]]
 
 ## The Four Macromolecules
@@ -507,8 +513,6 @@ Are used for:
 7. Motor / Movement
 8. Structure
 
-The
-
 > [!def]
 > **Protein**
 > Proteins are the primary macromolecule and consist for more than half of the dry mass of an organism
@@ -533,8 +537,8 @@ Can be categorised as:
 1. Nonpolar (hydrophobic)
 2. Polar (hydrophilic)
 3. Electrically Charged (hydrophilic)
-	1. Acidic
-	2. Basic
+	1. Acidic (Negative)
+	2. Basic (Positive)
 
 Consists of:
 1. Amino Group ($-\text{NH}_2$)
@@ -633,5 +637,16 @@ Can be recognised by having a positively charged tip of the side chain by having
 > Histidine
 > ```
 > ````
+
+#### Polypeptides
+Are chains of amino acids, bonded through Peptide Bonding from the **N-terminus** to the **C-terminus**
+
+> [!def]
+> **N-terminus**
+> The side of a polypeptide chain (or amino acid) that ends in the **Amino group**
+> ***
+> 
+> **C-termi**
+
 
 ### Nucleic Acids
