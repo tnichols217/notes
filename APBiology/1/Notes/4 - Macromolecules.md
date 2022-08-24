@@ -787,15 +787,17 @@ Includes
 3. Uracil (U, for RNA), pairs with Adenine
 
 > [!example]
-> ````col
+> `````col
+> ````col-md
 > ```molecule3d
 > Cytosine
 > ```
+> ````
 > ```col-md
 > **Cytosine**
 > A Pyrimidine that is used in both RNA and DNA
 > ```
-> ````
+> `````
 
 ###### Purines
 - Purines are constructed out of a side sided ring fused to a five sided ring
@@ -803,7 +805,7 @@ Includes
 
 Includes 
 1. Adenine (A)
-2. Guanine ()
+2. Guanine (G)
 
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
