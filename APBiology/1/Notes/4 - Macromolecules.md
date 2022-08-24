@@ -688,6 +688,6 @@ These $\beta$ strands are on different parts of the polypeptide chain, but still
 > This kind of bonding only happens to the amino acid Cysteine
 
 ##### Quaternary Structure
--
+- Some proteins are made of multiple polypeptide chains, so quaternary structures are simply the shape that forms as a result of these polypeptide chains com
 
 ### Nucleic Acids
