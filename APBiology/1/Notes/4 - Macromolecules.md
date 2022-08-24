@@ -788,6 +788,9 @@ Includes
 
 > [!example]
 > ````col
+> ```molecule3d
+> Cytosine
+> ```
 > ```col-md
 > **Cytosine**
 > A Pyrimidine that is used in both RNA and DNA
