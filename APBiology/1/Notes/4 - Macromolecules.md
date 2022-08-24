@@ -818,8 +818,8 @@ Includes
 - Larger than Pyrimidines
 
 Includes 
-1. Adenine (A)
-2. Guanine (G)
+1. Adenine (A), pairs with Thymine and Uracil
+2. Guanine (G), pairs with Cytosine
 
 > [!example]
 > `````col
