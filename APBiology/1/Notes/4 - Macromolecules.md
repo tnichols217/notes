@@ -717,4 +717,5 @@ There are two kinds of Nucleic Acids
 - It reads the mRNA and connects the correct Amino Acids together to form proteins
 
 ##### tRNA
-- tRNA brings the corre
+- tRNA brings the correct Amino Acids associated with the genetic sequence to the rRNA
+- each tRNA matches its speci
