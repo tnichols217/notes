@@ -742,9 +742,11 @@ Are made up of three parts:
 > The combination of the pentose and nitrogenous base in a nucleotide
 > This excludes the phosphate group
 
+###### Pentose
+
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
 
 The phosphate group is often represented as (${-\text{OPO}_3}^{2-}$)
 
-One of the 
+One of the three Oxygens in the phosphate groups are bound to the Nucleoside
