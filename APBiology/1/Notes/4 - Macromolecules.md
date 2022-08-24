@@ -826,19 +826,12 @@ Includes
 > ```molecule3d
 > Adenine
 > ```
-> Contains **three** Nitrogen Atoms
+> Contains **five** Nitrogen Atoms
 > ````
 > ````col-md
-> **Thymine**
+> **Guanine**
 > ```molecule3d
-> Thymine
-> ```
-> Contains **two** Nitrogen Atoms
-> ````
-> ````col-md
-> **Uracil**
-> ```molecule3d
-> Uracil
+> Guanine
 > ```
 > Contains **two** Nitrogen Atoms
 > ````
