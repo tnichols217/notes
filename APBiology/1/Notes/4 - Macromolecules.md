@@ -701,6 +701,11 @@ Nucleic Acids are made up of nucleotides (the monomer)
 - DNA stores all the information for life
 - This is what is inherited from parents
 - DNA is just the instructions for what to do, it doesn't actually do it
+- Forms a double helix and is anti-parallel
+
+> [!def]
+> **Anti-parallel**
+> 
 
 #### RNA
 - RNA is an intermediary step to produce proteins from DNA
