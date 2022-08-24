@@ -691,3 +691,6 @@ These $\beta$ strands are on different parts of the polypeptide chain, but still
 - Some proteins are made of multiple polypeptide chains, so quaternary structures are simply the shape that forms as a result of these polypeptide chains interacting with each other.
 
 ### Nucleic Acids
+There are two kinds of Nucleic Acids
+1. DNA (Deoxyribonucleic Acid)
+2. RNA (Ribonucleic Acid)
