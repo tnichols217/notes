@@ -769,10 +769,8 @@ The pentose of a nucleotide can either be
 > ````
 > `````
 
-
-
 ###### Nitrogenous Base
-
+The Nitrogenous base is the part of each Nucleotide that can differ
 
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
