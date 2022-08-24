@@ -1,6 +1,6 @@
 # Properties of Water
 ````col
-```molecule3d
+```molecule
 water
 ```
 **Water** ($H_2O$) Forms a V shaped molecule with the $H$ ends having a partial positive charge and the $O$ ends having a partial negative charge.
@@ -127,7 +127,7 @@ Since Water is strongly partially charged with and can Hydrogen Bond, it can eas
 >> Since **Cotton** is hydrophilic, as it is made of large chains of cellulose, it can easily bond with water.
 >> This allows cotton to easily absorb water, making it good towels. Since Cellulose is a large molecule, it does not get dissolved by water and can maintain its structure.
 >> ````col
->> ```molecule3d
+>> ```molecule
 >> D-Glucose
 >> ```
 >> ```col-md
@@ -144,7 +144,7 @@ Since Water is strongly partially charged with and can Hydrogen Bond, it can eas
 >> Kitchen oil repels water because it is non-polar and doesn't have charges.
 >> This makes oil stick to oil and repel water when they are forcefully mixed.
 >> ````col
->> ```molecule3d
+>> ```molecule
 >> Palmitic acid
 >> ```
 >> ```col-md
@@ -158,19 +158,19 @@ Hydronium is commonly abbreviated from $H_3O^+$ to $H^+$
 `````col
 ````col-md
 ### Hydroxide ($OH^-$)
-```molecule3d
+```molecule
 hydroxide
 ```
 ````
 ````col-md
 ### Water ($H_2O$)
-```molecule3d
+```molecule
 water
 ```
 ````
 ````col-md
 ### Hydronium ($H^+$)
-```molecule3d
+```molecule
 hydronium
 ```
 ````
@@ -294,14 +294,14 @@ Buffers can absorb hydrogen ions when the pH is too low (acidic) and also releas
 > `````col
 > ````col-md
 > #### Carbonic acid ($H_2CO_3$)
-> ```molecule3d
+> ```molecule
 > carbonic acid
 > ```
 > When the solution is too basic, Carbonic Acid can release a Hydrogen ion to increase the Acidity by turning into Bicarbonate.
 > ````
 > ````col-md
 > #### Bicarbonate ($HCO_3^-$)
-> ```molecule3d
+> ```molecule
 > bicarbonate
 > ```
 > When the solution is too acidic, Bicarbonate can bond with a Hydrogen ion to decrease the acidity by turning into Carbonic Acid.
