@@ -666,6 +666,8 @@ Helices are spirals on the polypeptide chain formed by Hydrogen bonds formed wit
 Pleated sheets are formed when multiple **$\beta$ strands** are bonded next to each other, forming a wide pleated sheet.
 These $\beta$ strands are on different parts of the polypeptide chain, but still bond to each other due to charges.
 
+![[Pasted image 20220824100739.png]]
+
 > [!def]
 > **$\beta$ strands**
 > An individual string of the polypeptide chain that is part of a $\beta$ sheet.
