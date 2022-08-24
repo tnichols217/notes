@@ -69,7 +69,8 @@
 		- [[#Nucleosides]]
 			- [[#Pentose]]
 			- [[#Nitrogenous Base]]
-				- [[#]]
+				- [[#Pyrimidines]]
+				- [[#Purines]]
 		- [[#Phosphate group]]
 
 ## The Four Macromolecules
@@ -109,7 +110,7 @@ Monosaccharides are normally charachterized by the amount of Carbons in the back
 > It is the **monomer** of disaccharides and polysacchrides
 > Usually are found multiples of $CH_2O$
 > ````col
-> ```molecule3d
+> ```molecule
 > D-Glucose
 > ```
 > **D-Glucose** ($C_6H_{12}O_6$), one of the most basic Monomers in real life.
@@ -169,14 +170,14 @@ Monosaccharides are normally charachterized by the amount of Carbons in the back
 `````col
 ````col-md
 **A Carbonyl group ($C=O$)**
-```molecule3d
+```molecule
 Methanone
 ```
 The Carbon will be bonded to two other atoms
 ````
 ````col-md
 **Multiple Hydroxyl groups ($-\ OH$)**
-```molecule3d
+```molecule
 hydroxide
 ```
 The Oxygen will normally be bonded to the Carbon Skeleton
@@ -189,13 +190,13 @@ The Oxygen will normally be bonded to the Carbon Skeleton
 `````col
 ````col-md
 **Glyceraldehyde** (Alsdose)
-```molecule3d
+```molecule
 Glyceraldehyde
 ```
 ````
 ````col-md
 **Dihydroxyacetone** (Ketose)
-```molecule3d
+```molecule
 Dihydroxyacetone
 ```
 ````
@@ -206,13 +207,13 @@ Dihydroxyacetone
 `````col
 ````col-md
 **Ribose** (Alsdose)
-```molecule3d
+```molecule
 Ribose
 ```
 ````
 ````col-md
 **Ribulose** (Ketose)
-```molecule3d
+```molecule
 Ribulose
 ```
 ````
@@ -223,13 +224,13 @@ Ribulose
 `````col
 ````col-md
 **Glucose** (Alsdose)
-```molecule3d
+```molecule
 Glucose
 ```
 ````
 ````col-md
 **Fructose** (Ketose)
-```molecule3d
+```molecule
 Fructose
 ```
 ````
@@ -252,7 +253,7 @@ Disaccharides are normally used as a **mean to transport energy** within an orga
 > `````col
 > ````col-md
 > **Maltose**
-> ```molecule3d
+> ```molecule
 > maltose
 > ```
 > ```molecule
@@ -262,7 +263,7 @@ Disaccharides are normally used as a **mean to transport energy** within an orga
 > ````
 > ````col-md
 > **Sucrose**
-> ```molecule3d
+> ```molecule
 > sucrose
 > ```
 > ```molecule
@@ -362,7 +363,7 @@ There are two kinds of Fats
 > A carbon skeleton usually **16-18** carbons long ending with a carboxyl group
 > These are often referred to as the "tails" of the Fat
 > ````col
-> ```molecule3d
+> ```molecule
 > palmitic acid
 > ```
 > **Palimitic Acid**
@@ -373,7 +374,7 @@ There are two kinds of Fats
 > **Glycerol ($C_3H_8O_3$)**
 > An alcohol that holds together all the fatty acids to form fats.
 > ````col
-> ```molecule3d
+> ```molecule
 > glycerol
 > ```
 > **Glycerol**
@@ -422,7 +423,7 @@ Saturated fats have also been linked to negative health side effects, especially
 
 > [!example]
 > ````col
-> ```molecule3d
+> ```molecule
 > Tristearin
 > ```
 > ```col-md
@@ -432,7 +433,7 @@ Saturated fats have also been linked to negative health side effects, especially
 > **Stearic acid ->**
 > A saturated fatty acid with a 18C backbone
 > ```
-> ```molecule3d
+> ```molecule
 > Stearic acid
 > ```
 > ````
@@ -454,7 +455,7 @@ Composed of:
 > **Dioleoyl phosphatidylethanolamine**
 > An example phospholipid that has two bent tails and a hydrophobic head
 > ````col
-> ```molecule3d
+> ```molecule
 > Dioleoyl phosphatidylethanolamine
 > ```
 > ```col-md
@@ -477,7 +478,7 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 > Rings of atoms that share a side.
 >> [!example]
 >> ````col
->> ```molecule3d
+>> ```molecule
 >> Decahydronaphthalene
 >> ```
 >> **Decahydronaphthalene**
@@ -486,14 +487,14 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 >> ````col
 >> **Cyclohexane**
 >> A molecule consisting of only a ring of 6 carbons and attaching hydrogen
->> ```molecule3d
+>> ```molecule
 >> Cyclohexane
 >> ```
 >> ````
 
 > [!example]
 > ````col
-> ```molecule3d
+> ```molecule
 > Gonane
 > ```
 > ```col-md
@@ -504,7 +505,7 @@ Lipids that are characterised by their **four fused rings**: three six atom ring
 > ````
 > ***
 > ````col
-> ```molecule3d
+> ```molecule
 > Cholesterol
 > ```
 > ```col-md
@@ -563,7 +564,7 @@ The R chain is what differentiates the different Amino acids, as the rest of the
 
 > [!example]
 > ````col
-> ```molecule3d
+> ```molecule
 > Glycine
 > ```
 > ```col-md
@@ -583,7 +584,7 @@ Cysteine is only classified as Polar because the sulfyhydryl group is only weakl
 
 > [!example]
 > ````col
-> ```molecule3d
+> ```molecule
 > Cysteine
 > ```
 > ```col-md
@@ -600,7 +601,7 @@ Can be recognised by having a non-charged nonpolar tip of the side chain
 
 > [!example]
 > ````col
-> ```molecule3d
+> ```molecule
 > Phenylalanine
 > ```
 > ```col-md
@@ -618,7 +619,7 @@ Can be recognised by having a negatively charged tip of the side chain by lackin
 
 > [!example]
 > ````col
-> ```molecule3d
+> ```molecule
 > Aspartic acid
 > ```
 > ```col-md
@@ -636,7 +637,7 @@ Can be recognised by having a positively charged tip of the side chain by having
 
 > [!example]
 > ````col
-> ```molecule3d
+> ```molecule
 > Histidine
 > ```
 > ```col-md
@@ -803,21 +804,21 @@ Includes
 > `````col
 > ````col-md
 > **Cytosine**
-> ```molecule3d
+> ```molecule
 > Cytosine
 > ```
 > Contains **one** Oxygen Atom
 > ````
 > ````col-md
 > **Thymine**
-> ```molecule3d
+> ```molecule
 > Thymine
 > ```
 > Contains **two** Oxygen Atoms
 > ````
 > ````col-md
 > **Uracil**
-> ```molecule3d
+> ```molecule
 > Uracil
 > ```
 > Contains **two** Oxygen Atoms
@@ -836,14 +837,14 @@ Includes
 > `````col
 > ````col-md
 > **Adenine**
-> ```molecule3d
+> ```molecule
 > Adenine
 > ```
 > Contains **zero** Oxygen Atoms
 > ````
 > ````col-md
 > **Guanine**
-> ```molecule3d
+> ```molecule
 > Guanine
 > ```
 > Contains **one** Oxygen Atoms
