@@ -675,7 +675,7 @@ These $\beta$ strands are on different parts of the polypeptide chain, but still
 
 
 ##### Tertiary Structure
-
+Tertiary Structures are the overall shape of a polypeptide
 
 ##### Quaternary Structure
 
