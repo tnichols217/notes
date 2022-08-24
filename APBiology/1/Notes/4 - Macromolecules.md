@@ -745,4 +745,6 @@ Are made up of three parts:
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
 
-The phosphate group is often represented as ($-\text{OPO}_3^2$)
+The phosphate group is often represented as (${-\text{OPO}_3}^{2-}$)
+
+One of the 
