@@ -783,8 +783,8 @@ There are two kinds of Nitrogenous Bases:
 
 Includes 
 1. Cytosine (C), pairs with Guanine
-2. Thymine (T, for DNA)
-3. Uracil (U, for RNA)
+2. Thymine (T, for DNA), pairs with Adenine
+3. Uracil (U, for RNA), pairs with Adenine
 
 > [!example]
 > ````col
@@ -796,6 +796,9 @@ Includes
 > A Pyrimidine that is used in both RNA and DNA
 > ```
 > ````
+
+###### Purines
+- Purines are constructed out of a 
 
 ##### Phosphate group
 The phosphate group in a nucleotide holds each nucleotide to each other, this is like the backbone of Nucleic Acids
