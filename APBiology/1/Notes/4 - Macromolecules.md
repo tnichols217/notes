@@ -67,7 +67,10 @@
 		- [[#tRNA]]
 	- [[#Nucleotides]]
 		- [[#Nucleosides]]
-		- [[#P]]
+			- [[#Pentose]]
+			- [[#Nitrogenous Base]]
+				- [[#]]
+		- [[#Phosphate group]]
 
 ## The Four Macromolecules
 1. [[#Carbohydrates]]
