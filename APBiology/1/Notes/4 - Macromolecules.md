@@ -704,3 +704,7 @@ There are two kinds of Nucleic Acids
 - RNA is an intermediary step to produce proteins from DNA
 - The process to create proteins looks something similar to:
 	- **DNA -> RNA -> Proteins**
+- There are three kinds of RNA
+	- mRNA (messenger RNA)
+	- rRNA (ribosomal RNA)
+	- tRNA
