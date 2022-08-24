@@ -675,7 +675,10 @@ These $\beta$ strands are on different parts of the polypeptide chain, but still
 
 
 ##### Tertiary Structure
-Tertiary Structures are the overall shape of a polypeptide
+- Tertiary Structures are the overall shape of a polypeptide
+- These structures can happen for three reasons
+	1. Hydrophobic Interactions
+	2. Hydrogen
 
 ##### Quaternary Structure
 
