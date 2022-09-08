@@ -1,4 +1,4 @@
-Results:
+# Cell s
 
 | Cube Size | Surface Area | Volume    | SA:V | Sketch |
 | --------- | ------------ | --------- | ---- | ------ |
