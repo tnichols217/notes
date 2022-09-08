@@ -14,7 +14,7 @@ Results:
 | ------------------- | ------------ | ------------------- | ------------- |
 | Cube                | $6w^2$       | $w^3$               | $\frac{6}{w}$ |
 | Sphere              | $\pi w^2$    | $\frac{\pi w^3}{6}$ | $\frac{6}{w}$ |
-| Cylindrical (h=2w)  |              |                     |               |
+| Cylindrical (h=2w)  | $\$             |                     |               |
 | Square Prism (h=2w) |              |                     |               |
 
 4. The 
