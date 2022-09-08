@@ -15,6 +15,6 @@ Results:
 | Cube                | $6w^2$       | $w^3$       | $6/\sqrt[3]{V}$        |
 | Sphere              | $\pi w^2$    | $\pi w^3/6$ | $6/{\sqrt[3]{6V/\pi}}$ |
 | Cylindrical (h=4w)  | $5\pi w^2$   | $\pi w^3$   | $5/\sqrt[3]{V/\pi}$                  |
-| Square Prism (h=4w) | $18w^2$      | $4w^3$      | $4.5/w$                |
+| Square Prism (h=4w) | $18w^2$      | $4w^3$      | $4.5/\sqrt[3]{V/4}$                |
 
 4. The 
