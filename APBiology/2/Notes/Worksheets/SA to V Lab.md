@@ -10,7 +10,7 @@ Results:
 2. A larger SA:V ratio is better because it allows speedier diffusion of materials within the cell
 3. Different Shapes:
 
-| Shape               | Surface Area | Volume              | SA:V    |
+| Shape               | Surface Area | Volume              | SA:V(V) |
 | ------------------- | ------------ | ------------------- | ------- |
 | Cube                | $6w^2$       | $w^3$               | $6/w$   |
 | Sphere              | $\pi w^2$    | $\frac{\pi w^3}{6}$ | $6/w$   |
