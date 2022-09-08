@@ -7,9 +7,9 @@ According to BYJU's https://byjus.com/biology/ribosomes/, "Ribosomes are ... the
 ## Phamplet
 - good design
 - well organized
-- not to have long paragraphs of information
-- relate the structure of the organelle to its function
-- why your organelle is important for survival of the organism
+- no long paragraphs
+- relate structure to function
+- why is you organelle important for survival of the organism
 - detailed about the jobs it performs
 - quotes from doctors or other experts
 - find dramatic pictures and examples
