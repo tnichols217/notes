@@ -5,8 +5,8 @@ According to BYJU's https://byjus.com/biology/ribosomes/, "Ribosomes are ... the
 - assembles amino acids to form proteins
 
 ## Phamplet
-- catchy graphics and details as to the structure and function of the organelle
-- well organized and easy for the voter to follow
+- good design
+- well organized
 - not to have long paragraphs of information
 - relate the structure of the organelle to its function
 - why your organelle is important for survival of the organism
