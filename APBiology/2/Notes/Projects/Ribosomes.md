@@ -3,4 +3,5 @@ According to BYJU's https://byjus.com/biology/ribosomes/, "Ribosomes are ... the
 
 - found in both the Rough ER and the nuclear envelope
 - assembles amino acids to form proteins
-- 
+
+## P
