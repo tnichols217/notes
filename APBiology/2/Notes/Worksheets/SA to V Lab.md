@@ -15,6 +15,6 @@ Results:
 | Cube                | $6w^2$       | $w^3$               | $6/w$ |
 | Sphere              | $\pi w^2$    | $\frac{\pi w^3}{6}$ | $6/w$ |
 | Cylindrical (h=4w)  | $5\pi w^2$   | $\pi w^3$           | $5/w$ |
-| Square Prism (h=4w) | $18w^2$      | $$                    |       |
+| Square Prism (h=4w) | $18w^2$      | $4w^2$              | $4.5/w$      |
 
 4. The 
