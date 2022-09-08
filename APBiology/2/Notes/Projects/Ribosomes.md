@@ -9,8 +9,8 @@ According to BYJU's https://byjus.com/biology/ribosomes/, "Ribosomes are ... the
 - well organized
 - no long paragraphs
 - relate structure to function
-- why is you organelle important for survival of the organism
-- detailed about the jobs it performs
+- why is you organelle important for survival of the organism, ecosystem, world
+- details about the jobs it performs
 - quotes from doctors or other experts
-- find dramatic pictures and examples
-- make campaign promises – what will you guarantee life will be like with your organelle as the most important?
+- dramatic pictures and examples
+- campaign promises – what will you guarantee life will be like with your organelle as the most important
