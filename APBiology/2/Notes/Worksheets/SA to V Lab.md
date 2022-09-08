@@ -1,4 +1,4 @@
-# Cell s
+# Cell size surface area to volume lab
 
 | Cube Size | Surface Area | Volume    | SA:V | Sketch |
 | --------- | ------------ | --------- | ---- | ------ |
