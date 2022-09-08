@@ -12,4 +12,5 @@ According to BYJU's https://byjus.com/biology/ribosomes/, "Ribosomes are ... the
 - why your organelle is important for survival of the organism
 - detailed about the jobs it performs
 - quotes from doctors or other experts
-- can you find dramatic pictures and examples? Can you explain what life would be like without your organelle? Can you make campaign promises – what will you guarantee life will be like with your organelle as the most important?
+- find dramatic pictures and examples
+- make campaign promises – what will you guarantee life will be like with your organelle as the most important?
