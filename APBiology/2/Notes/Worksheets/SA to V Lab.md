@@ -17,4 +17,4 @@ Results:
 | Cylindrical (h=4w)  | $5\pi w^2$   | $\pi w^3$   | $7.323V^{-3}$ |
 | Square Prism (h=4w) | $18w^2$      | $4w^3$      | $7.143V^{-3}$ |
 
-4. The Cylinder has the best 
+4. The Cylinder has the best shape because it has the best surface area to volume ratio with respect to volume at $7.323V^{-3}$
