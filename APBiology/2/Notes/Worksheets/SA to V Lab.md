@@ -13,7 +13,7 @@ Results:
 | Shape               | Surface Area | Volume      | SA:V(V)                |
 | ------------------- | ------------ | ----------- | ---------------------- |
 | Cube                | $6w^2$       | $w^3$       | $6V^{-3}$              |
-| Sphere              | $\pi w^2$    | $\pi w^3/6$ | $4.V^{-3}/{\sqrt[3]{6/\pi}}$ |
+| Sphere              | $\pi w^2$    | $\pi w^3/6$ | $4.836V^{-3}$ |
 | Cylindrical (h=4w)  | $5\pi w^2$   | $\pi w^3$   | $5/\sqrt[3]{V/\pi}$    |
 | Square Prism (h=4w) | $18w^2$      | $4w^3$      | $4.5/\sqrt[3]{V/4}$    |
 
