@@ -7,4 +7,8 @@
 | Blue     | 6.9           | 22.7                            | 15.8              | 127.5                                       | 104.8               | 20.3                     | -2.4            | -15.18987342  |     |
 | Purple   | 6.9           | 22.9                            | 16.0              | 129.0                                       | 106.1               | 19.4                     | -3.5            | -21.875       |     |
 
-Change from le
+Change from least to most:
+1. Red
+2. Purple
+3. Blue
+4. 
