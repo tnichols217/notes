@@ -11,4 +11,7 @@ Change from least to most:
 1. Red
 2. Purple
 3. Blue
-4. 
+4. Yellow
+5. Orange
+6. Green
+
