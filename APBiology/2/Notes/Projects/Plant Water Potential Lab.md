@@ -28,6 +28,7 @@ See how different concentrations of a liquid effects the process of osmosis by m
 ### Raw Data
 
 Bowl Mass: 6.9g
+Plant Tissue: Carrot
 
 | Solution | Sucrose Solution Concentration | Initial Mass (bowl + plant) (g) | Mass of plant (g) | Mass with Sucrose (bowl + plant + solution) | Mass of Sucrose (g) | Mass after diffusion (g) | Mass Difference | % change      |
 | -------- | ------------------------------ | ------------------------------- | ----------------- | ------------------------------------------- | ------------------- | ------------------------ | --------------- | ------------- |
