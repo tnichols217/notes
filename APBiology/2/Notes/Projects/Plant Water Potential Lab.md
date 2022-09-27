@@ -21,8 +21,8 @@ See how different concentrations of a liquid effects the process of osmosis by m
 6. 24 hours passed
 7. The mass of the plant tissue after it has submerged for sufficient time was remeasured
 8. The percentage change in the mass of the plant tissue was calculated
-9. Compare the concentrations with the percent change in mass
-10. Draw conclusions
+9. The concentrations with the percent change in mass were calculated
+10. Conclusions were drawn
 
 ## Data
 ### Raw Data
