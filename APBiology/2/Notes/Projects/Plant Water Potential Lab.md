@@ -48,3 +48,6 @@ Change from least mass change to most mass change:
 As the concentration of the solution increases, it can be seen that the mass difference decreases. At 0 mol concentration, the mass can be seen to increase, but at 1 mol, the mass can be seen to decrease the most of out all the solutions in the test.
 
 As the concentration of the solution increases, it decreases it water potential, making it more likely that it would be hypertonic in comparison to the insides of the plant tissue, pulling water out of the plant tissue. If the concentration is 0, then it increases its water potential, making it more likely to be hypotonic in comparison to the plant tissue, pushing water into the plant tissue. Since we can assume that the water potential of the plant tissue is constant due to it being the same plant, and same part of the plant, we can conclude that the change in mass can be attributed to the difference in concentration of the sucrose solution.
+
+## Conclusions
+We conclude hat as you increase the solution concentration 
