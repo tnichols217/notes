@@ -29,14 +29,14 @@ See how different concentrations of a liquid effects the process of osmosis by m
 
 Bowl Mass: 6.9g
 
-| Solution | Sucrose Solution Concentration  | Initial Mass (bowl + plant) (g) | Mass of plant (g) | Mass with Sucrose (bowl + plant + solution) | Mass of Sucrose (g) | Mass after diffusion (g) | Mass Difference | % change      |
+| Solution | Sucrose Solution Concentration | Initial Mass (bowl + plant) (g) | Mass of plant (g) | Mass with Sucrose (bowl + plant + solution) | Mass of Sucrose (g) | Mass after diffusion (g) | Mass Difference | % change      |
 | -------- | ------------------------------ | ------------------------------- | ----------------- | ------------------------------------------- | ------------------- | ------------------------ | --------------- | ------------- |
-| Red      | 1 mol                          | 6.9           | 20.9                            | 14.0              | 131.1                                       | 110.2               | 18.1                     | -2.8            | -20           |
-| Orange   | 0.2 mol                        | 6.9           | 23.5                            | 16.6              | 122.4                                       | 98.9                | 23.7                     | 0.2             | 1.204819277   |
-| Yellow   | 0.4 mol                        | 6.9           | 20.5                            | 13.6              | 123.8                                       | 103.3               | 20.4                     | -0.1            | -0.7352941176 |
-| Green    | 0 mol                          | 6.9           | 22.6                            | 15.7              | 121.1                                       | 98.5                | 23.9                     | 1.3             | 8.280254777   |
-| Blue     | 0.6 mol                        | 6.9           | 22.7                            | 15.8              | 127.5                                       | 104.8               | 20.3                     | -2.4            | -15.18987342  |
-| Purple   | 0.8 mol                        | 6.9           | 22.9                            | 16.0              | 129.0                                       | 106.1               | 19.4                     | -3.5            | -21.875       |
+| Red      | 1 mol                          | 20.9                            | 14.0              | 131.1                                       | 110.2               | 18.1                     | -2.8            | -20           |
+| Orange   | 0.2 mol                        | 23.5                            | 16.6              | 122.4                                       | 98.9                | 23.7                     | 0.2             | 1.204819277   |
+| Yellow   | 0.4 mol                        | 20.5                            | 13.6              | 123.8                                       | 103.3               | 20.4                     | -0.1            | -0.7352941176 |
+| Green    | 0 mol                          | 22.6                            | 15.7              | 121.1                                       | 98.5                | 23.9                     | 1.3             | 8.280254777   |
+| Blue     | 0.6 mol                        | 22.7                            | 15.8              | 127.5                                       | 104.8               | 20.3                     | -2.4            | -15.18987342  |
+| Purple   | 0.8 mol                        | 22.9                            | 16.0              | 129.0                                       | 106.1               | 19.4                     | -3.5            | -21.875       |
 
 Change from least mass change to most mass change:
 1. Red (1 mol)
