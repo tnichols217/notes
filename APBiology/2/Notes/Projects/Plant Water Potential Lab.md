@@ -27,8 +27,10 @@ See how different concentrations of a liquid effects the process of osmosis by m
 ## Data
 ### Raw Data
 
-| Solution | Sucrose Solution Concentration | Bowl Mass (g) | Initial Mass (bowl + plant) (g) | Mass of plant (g) | Mass with Sucrose (bowl + plant + solution) | Mass of Sucrose (g) | Mass after diffusion (g) | Mass Difference | % change      |
-| -------- | ------------------------------ | ------------- | ------------------------------- | ----------------- | ------------------------------------------- | ------------------- | ------------------------ | --------------- | ------------- |
+Bowl Mass: 6.9g
+
+| Solution | Sucrose Solution Concentration  | Initial Mass (bowl + plant) (g) | Mass of plant (g) | Mass with Sucrose (bowl + plant + solution) | Mass of Sucrose (g) | Mass after diffusion (g) | Mass Difference | % change      |
+| -------- | ------------------------------ | ------------------------------- | ----------------- | ------------------------------------------- | ------------------- | ------------------------ | --------------- | ------------- |
 | Red      | 1 mol                          | 6.9           | 20.9                            | 14.0              | 131.1                                       | 110.2               | 18.1                     | -2.8            | -20           |
 | Orange   | 0.2 mol                        | 6.9           | 23.5                            | 16.6              | 122.4                                       | 98.9                | 23.7                     | 0.2             | 1.204819277   |
 | Yellow   | 0.4 mol                        | 6.9           | 20.5                            | 13.6              | 123.8                                       | 103.3               | 20.4                     | -0.1            | -0.7352941176 |
