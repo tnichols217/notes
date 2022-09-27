@@ -1,17 +1,50 @@
-| Solution | Bowl Mass (g) | Initial Mass (bowl + plant) (g) | Mass of plant (g) | Mass with Sucrose (bowl + plant + solution) | Mass of Sucrose (g) | Mass after diffusion (g) | Mass Difference | % change      |     |
-| -------- | ------------- | ------------------------------- | ----------------- | ------------------------------------------- | ------------------- | ------------------------ | --------------- | ------------- | --- |
-| Red      | 6.9           | 20.9                            | 14.0              | 131.1                                       | 110.2               | 18.1                     | -2.8            | -20           |     |
-| Orange   | 6.9           | 23.5                            | 16.6              | 122.4                                       | 98.9                | 23.7                     | 0.2             | 1.204819277   |     |
-| Yellow   | 6.9           | 20.5                            | 13.6              | 123.8                                       | 103.3               | 20.4                     | -0.1            | -0.7352941176 |     |
-| Green    | 6.9           | 22.6                            | 15.7              | 121.1                                       | 98.5                | 23.9                     | 1.3             | 8.280254777   |     |
-| Blue     | 6.9           | 22.7                            | 15.8              | 127.5                                       | 104.8               | 20.3                     | -2.4            | -15.18987342  |     |
-| Purple   | 6.9           | 22.9                            | 16.0              | 129.0                                       | 106.1               | 19.4                     | -3.5            | -21.875       |     |
+# Water Potential Lab
+## Objective
+See how different concentrations of a liquid effects the process of osmosis by measuring the amount of water moved in or out of some plant tissue over time.
 
-Change from least to most:
-1. Red
-2. Purple
-3. Blue
-4. Yellow
-5. Orange
-6. Green
+## Materials
+- Carrots / Potatoes (plant tissue), equally cubed
+- 6 glycosidic solutions with differing concentrations
 
+### Tools
+- Scale
+- Knive / Scapel
+- Chopping board
+- Storage containers
+
+## Procedure
+1. Prepare the plant tissue by cubing it into equal sized cubes
+2. Equally divide the cubes into containers
+3. Measure the weight of the plant tissue of each container
+4. Measure out an equal sufficient amount of glycosidic solution into each container, with differing concentrations for each container
+5. Note down which container has which concentration
+6. Wait 24h
+7. Remeasure the mass of the plant tissue after it has submerged for sufficient time
+8. Calculate the percentage change in the mass of the plant tissue
+9. Compare the concentrations with the percent change in mass
+10. Draw conclusions
+
+## Data
+### Raw Data
+
+| Solution | Sucrose Solution Concentration | Bowl Mass (g) | Initial Mass (bowl + plant) (g) | Mass of plant (g) | Mass with Sucrose (bowl + plant + solution) | Mass of Sucrose (g) | Mass after diffusion (g) | Mass Difference | % change      |
+| -------- | ------------------------------ | ------------- | ------------------------------- | ----------------- | ------------------------------------------- | ------------------- | ------------------------ | --------------- | ------------- |
+| Red      | 1 mol                          | 6.9           | 20.9                            | 14.0              | 131.1                                       | 110.2               | 18.1                     | -2.8            | -20           |
+| Orange   | 0.2 mol                        | 6.9           | 23.5                            | 16.6              | 122.4                                       | 98.9                | 23.7                     | 0.2             | 1.204819277   |
+| Yellow   | 0.4 mol                        | 6.9           | 20.5                            | 13.6              | 123.8                                       | 103.3               | 20.4                     | -0.1            | -0.7352941176 |
+| Green    | 0 mol                          | 6.9           | 22.6                            | 15.7              | 121.1                                       | 98.5                | 23.9                     | 1.3             | 8.280254777   |
+| Blue     | 0.6 mol                        | 6.9           | 22.7                            | 15.8              | 127.5                                       | 104.8               | 20.3                     | -2.4            | -15.18987342  |
+| Purple   | 0.8 mol                        | 6.9           | 22.9                            | 16.0              | 129.0                                       | 106.1               | 19.4                     | -3.5            | -21.875       |
+
+Change from least mass change to most mass change:
+1. Red (1 mol)
+2. Purple (0.8 mol)
+3. Blue (0.6 mol)
+4. Yellow (0.4 mol)
+5. Orange (0.2 mol)
+6. Green (0 mol)
+
+### Analysis
+As the concentration of the solution increases, it can be seen that the mass difference decreases. At 0 mol concentration, the mass can be seen to increase, but at 1 mol, the mass can be seen to decrease the most of out all the solutions in the test.
+
+As the concentration of the solution increases, it decreases it water p
