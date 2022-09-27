@@ -16,8 +16,8 @@ See how different concentrations of a liquid effects the process of osmosis by m
 1. The plant tissue was prepared by cubing it into equal sized cubes
 2. The cubes were equally divided into containers
 3. The weight of the plant tissue of each container was measured
-4. Measure out an equal sufficient amount of glycosidic solution into each container, with differing concentrations for each container
-5. Note down which container has which concentration
+4. an equal sufficient amount of glycosidic solution into each container was measured out, with differing concentrations for each container
+5. Each container's concentration was noted down
 6. Wait 24h
 7. Remeasure the mass of the plant tissue after it has submerged for sufficient time
 8. Calculate the percentage change in the mass of the plant tissue
