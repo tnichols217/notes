@@ -13,8 +13,8 @@ See how different concentrations of a liquid effects the process of osmosis by m
 - Storage containers
 
 ## Procedure
-1. Prepare the plant tissue by cubing it into equal sized cubes
-2. Equally divide the cubes into containers
+1. The plant tissue was prepared by cubing it into equal sized cubes
+2. The cubes were equally divided into containers
 3. Measure the weight of the plant tissue of each container
 4. Measure out an equal sufficient amount of glycosidic solution into each container, with differing concentrations for each container
 5. Note down which container has which concentration
