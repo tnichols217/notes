@@ -11,4 +11,10 @@
 	3. Barcode
 	4. Location
 - Variables
+	1. Key
+	2. Value
 - Locations
+	1. Trsx ID
+	2. Time
+	3. UUID
+	4. Location
