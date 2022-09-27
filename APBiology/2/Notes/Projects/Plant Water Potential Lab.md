@@ -47,4 +47,4 @@ Change from least mass change to most mass change:
 ### Analysis
 As the concentration of the solution increases, it can be seen that the mass difference decreases. At 0 mol concentration, the mass can be seen to increase, but at 1 mol, the mass can be seen to decrease the most of out all the solutions in the test.
 
-As the concentration of the solution increases, it decreases it water potential, making it more likely 
+As the concentration of the solution increases, it decreases it water potential, making it more likely that 
