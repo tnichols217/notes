@@ -47,5 +47,7 @@ console.log(msg)
 ```````
 
 > ```col
-> aa
+> Column 1
+> 
+> Column 2
 > ```
