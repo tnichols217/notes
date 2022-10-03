@@ -12,4 +12,5 @@
 6. It becomes denatured and malshaped
 7. 8, because it is the highest reaction rate
 8. 1.5, because it is its peak reaction rate
-9. No, since the pH levels are vastly different, the overall sh
+9. No, since the pH levels are vastly different, the overall shape of the protein will also be vastly different
+10. 
