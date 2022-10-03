@@ -8,4 +8,5 @@
    | ---------- | ------- |
    | **Lipase** | **8**   |
 4. No Lipase, but maximum Pepsin
-5. No Pepsin, but ma
+5. No Pepsin, but maximum Lipase
+6. It becomes denatured and mal
