@@ -17,4 +17,5 @@
 11. Decreases its effectivity as Pepsin works best at lower pH levels, and at 6-7 there is very little effectivity
 12. 12
 	1. Amylase is most effective at 40 degrees, and decreases when moved away from 40 degrees
-	2. More concentratio
+	2. More enzyme concentration leads to more r.r. in a linear manner
+	3. More substrate concentration leads to higher re
