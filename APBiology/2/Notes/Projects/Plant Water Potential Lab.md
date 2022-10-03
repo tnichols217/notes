@@ -47,6 +47,8 @@ Change from least mass change to most mass change:
 5. Orange (0.2 mol)
 6. Green (0 mol)
 
+![[Pasted image 20221003131321.png]]
+
 ### Analysis
 As the concentration of the solution increases, it can be seen that the mass difference decreases. At 0 mol concentration, the mass can be seen to increase, but at 1 mol, the mass can be seen to decrease the most of out all the solutions in the test.
 
