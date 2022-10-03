@@ -21,5 +21,5 @@
 	3. More substrate concentration leads to higher reaction in a logarithmic pattern
 13. 13
 	1. 40 degrees
-	2. In order for it to function well, you'll need to maintain homeostasis at this temperature to maximise e
+	2. In order for it to function well, you'll need to maintain homeostasis at this temperature to maximise effectivity, too high and itll damage the enzyme, too little and the molecules will move too slowly
 14. 
