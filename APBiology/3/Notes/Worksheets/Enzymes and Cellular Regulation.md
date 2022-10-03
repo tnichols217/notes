@@ -3,6 +3,8 @@
 	1. The stomach
 	2. Small Intestine
 3. 3
-   | Pepsin |     |
+   
+   | Pepsin | 1.5 |
    | ------ | --- |
+   |        |     |
 5. 
