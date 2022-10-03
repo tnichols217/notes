@@ -193,7 +193,6 @@ hydronium
 > 
 > ````col
 > ```col-md
-> # 1
 > *0*
 > *Acidic*
 > *$[H^+] > [OH^-]$*
