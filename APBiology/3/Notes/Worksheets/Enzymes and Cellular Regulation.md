@@ -23,4 +23,5 @@
 	1. 40 degrees
 	2. In order for it to function well, you'll need to maintain homeostasis at this temperature to maximise effectivity, too high and itll damage the enzyme, too little and the molecules will move too slowly
 14. The molecules move slower, so they interact with the enzymes less frequently, slowing down the reaction
-15. Since his temperature is closer to the peak rate of reaction for amylase,
+15. Since his temperature is closer to the peak rate of reaction for amylase, he will digest carbs faster since the carbs are interacting with the amylase more often due to the faster speeds of the molecules.
+16. 
