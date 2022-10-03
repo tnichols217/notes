@@ -27,3 +27,5 @@
 16. 16
 	1. Linearly increasing, directly related
 	2. More enzyme means more faster
+17. 17
+	1. 
