@@ -78,7 +78,7 @@
   
 - How do structure and function of subcellular components and their interactions provide essential cellular processes? 
   
-  
+  They all rely on each other to 
   
 - How do cells maintain dynamic homeostasis by the movement of molecules across membranes?
 
