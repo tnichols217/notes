@@ -250,4 +250,5 @@ More surface area => more cilia => more effectivity
 
 ## BR: Endomembrane System
 
-1. 
+1. It keeps the inside of the golgi apparatus clean, only containing the necessary items
+2. 
