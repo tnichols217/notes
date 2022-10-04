@@ -145,7 +145,11 @@
 ## BR: Cell Surface Area-Volume Ratio and Cell Size
 
 ````col
+```col-md
+flexGrow=0.2
+===
 ### Question
+```
 
 ### What do I see
 
@@ -153,7 +157,9 @@
 ````
 ````col
 ```col-md
-#### 1
+flexGrow=0.2
+===
+1
 ```
 ```col-md
 Decreasing, inversely related graph between length of a side of a cube and its SA:V ratio
@@ -164,7 +170,7 @@ The larger a cube is, the lower its SA:V ratio is
 ````
 ````col
 ```col-md
-#### 2
+2
 ```
 ```col-md
 Exponential 
