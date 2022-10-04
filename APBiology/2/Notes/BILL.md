@@ -74,7 +74,7 @@
   
 - How do cells create and maintain internal environments that are different from their external environments? 
   
-  
+  Membranes and selective diffusion. Through passive diffusion, 
   
 - How do structure and function of subcellular components and their interactions provide essential cellular processes? 
 - How do cells maintain dynamic homeostasis by the movement of molecules across membranes?
