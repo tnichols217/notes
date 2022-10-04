@@ -178,7 +178,20 @@ flexGrow=0.4
 Exponential, increasing relationship between surface area and volume of a cube
 ```
 ```col-md
-The larger a cube is, the lower its SA:V ratio is
+Volume increases faster than surface area as an object gets larger
+```
+````
+````col
+```col-md
+flexGrow=0.4
+===
+3
+```
+```col-md
+Exponential, increasing relationship between surface area and volume of a cube
+```
+```col-md
+Volume increases faster than surface area as an object gets larger
 ```
 ````
 
