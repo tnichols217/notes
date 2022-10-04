@@ -153,10 +153,21 @@
 ````
 ````col
 ```col-md
-1
+#### 1
 ```
 ```col-md
 Decreasing, inversely related graph between length of a side of a cube and its SA:V ratio
+```
+```col-md
+The larger a cube is, the lower its SA:V ratio is
+```
+````
+````col
+```col-md
+#### 2
+```
+```col-md
+Exponential 
 ```
 ```col-md
 The larger a cube is, the lower its SA:V ratio is
