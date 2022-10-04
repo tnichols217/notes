@@ -156,9 +156,10 @@
 1
 ```
 ```col-md
-Decreasing, inversely related graph between length of a 
+Decreasing, inversely related graph between length of a side of a cube and its SA:V ratio
 ```
 ```col-md
+The larger a cube is, the lower its SA:V ratio is
 ```
 ````
 
