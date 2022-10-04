@@ -144,7 +144,8 @@
 
 ## BR: Cell Surface Area-Volume Ratio and Cell Size
 
-1. 
+1. Longer a cube side is, the less ratio it has
+2. 
 
 ## Investigation: Limits on Cell Size
 
