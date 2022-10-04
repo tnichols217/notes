@@ -156,9 +156,8 @@
 	> **3**
         
 2.  **Calculate** the surface area and volume of a cubic epithelial cell with sides of 8 micrometers. Then, **illustrate** the relationship between cell size (x axis) and surface area/volume ratio (y axis) on a graph.
+	
+	| SA      | Area    |
+	| ------- | ------- |
+	| 384 nm2 | 512 nm3 |
 
-	> [!def] Answer
-
-| SA      | Area    |
-| ------- | ------- |
-| 384 nm2 | 512 nm3 | 
