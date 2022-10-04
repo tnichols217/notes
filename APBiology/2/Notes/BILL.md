@@ -271,3 +271,6 @@ More surface area => more cilia => more effectivity
 12. None, In, Out; Normal, Turgid, Flaccid
 
 ## BR: Water Potential Practice Problems
+1. D
+2. Pressure
+3. 
