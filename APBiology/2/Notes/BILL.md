@@ -188,10 +188,10 @@ flexGrow=0.4
 3
 ```
 ```col-md
-Exponential, increasing relationship between surface area and volume of a cube
+As you increase the cube size, more sides of the mini-cubes are covered up
 ```
 ```col-md
-Volume increases faster than surface area as an object gets larger
+The larger it is, the more mini-cu
 ```
 ````
 
