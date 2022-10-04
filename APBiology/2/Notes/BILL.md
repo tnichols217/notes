@@ -144,8 +144,10 @@
 
 ## BR: Cell Surface Area-Volume Ratio and Cell Size
 
-1. Longer a cube side is, the less ratio it has
-2. 
+| Question | What do I see | What does it mean |
+| -------- | ------------- | ----------------- |
+| 1
+2|               |                   |
 
 ## Investigation: Limits on Cell Size
 
@@ -184,4 +186,5 @@
 	| SA      | Area    |
 	| ------- | ------- |
 	| 384 nm2 | 512 nm3 |
-	|![[Pasted image 20221004213406.png]]
+	
+	![[Pasted image 20221004213406.png]]
