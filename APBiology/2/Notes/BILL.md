@@ -248,4 +248,3 @@ More surface area => more cilia => more effectivity
 	
 	![[Pasted image 20221004213406.png]]
 
-## BR: Cell parts card sort
