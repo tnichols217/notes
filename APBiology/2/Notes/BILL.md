@@ -153,8 +153,10 @@
 ````
 ````col
 ```col-md
+1
 ```
 ```col-md
+Decreasing, inversely related graph between length of a 
 ```
 ```col-md
 ```
