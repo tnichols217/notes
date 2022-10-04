@@ -273,4 +273,5 @@ More surface area => more cilia => more effectivity
 ## BR: Water Potential Practice Problems
 1. D
 2. Pressure
-3. 
+
+## Investigation: Osmosis Lab
