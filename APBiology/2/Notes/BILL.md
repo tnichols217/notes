@@ -267,4 +267,4 @@ More surface area => more cilia => more effectivity
 8. Left, Hypo
 9. Right
 10. -
-11. 
+11. Out, In, None;
