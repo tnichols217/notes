@@ -144,8 +144,13 @@
 
 ## BR: Cell Surface Area-Volume Ratio and Cell Size
 
-```col
-```
+````col
+### Question
+
+### What do I see
+
+
+````
 
 ## Investigation: Limits on Cell Size
 
