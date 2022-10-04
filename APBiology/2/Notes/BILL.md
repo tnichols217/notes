@@ -162,3 +162,4 @@
 	| 384 nm2 | 512 nm3 |
 	![[Pasted image 20221004212815.png]]
 
+## Investigation: Limits on Cell Size
