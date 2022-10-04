@@ -149,7 +149,15 @@
 
 ### What do I see
 
-
+### What does it mean
+````
+````col
+```col-md
+```
+```col-md
+```
+```col-md
+```
 ````
 
 ## Investigation: Limits on Cell Size
