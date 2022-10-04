@@ -77,5 +77,8 @@
   Membranes and selective diffusion. Through passive diffusion, facilitated diffusion, and active diffusion, a cell can control what goes in and out of it.
   
 - How do structure and function of subcellular components and their interactions provide essential cellular processes? 
+  
+  
+  
 - How do cells maintain dynamic homeostasis by the movement of molecules across membranes?
 
