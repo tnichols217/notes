@@ -1,4 +1,30 @@
 # Traffic Light
-| Term | Pre | Post |
-| ---- | --- | ---- |
-|      |     |      |
+| Term         | Pre | Post |
+| ------------ | --- | ---- |
+| aero-        | 3   | 3    |
+| an-          | 3   | 3    |
+| chlor-       | 3   | 3    |
+| -elle        | 3   | 3    |
+| hapl-        | 3   | 3    |
+| homo-        | 3   | 3    |
+| re-          | 3   | 3    |
+| -sis         | 3   | 3    |
+| zyg-         | 3   | 3    |
+| hyper-       | 3   | 3    |
+| hypo-        | 3   | 3    |
+| endo-        | 3   | 3    |
+| exo-         | 3   | 3    |
+| osmo-        | 3   | 3    |
+| Prokaryotes  | 3   | 3    |
+| Eukaryotes   | 3   | 3    |
+| Diffusion    | 3   | 3    |
+| Osmosis      | 3   | 3    |
+| Aquaporin    | 3   | 3    |
+| Hypotonic    | 3   | 3    |
+| Hypertonic   | 3   | 3    |
+| Isotonic     | 3   | 3    |
+| Endocytosis  | 3   | 3    |
+| Exocytosis   | 3   | 3    |
+| Phospholipid | 3   | 3    |
+| Amphipathic  | 3   | 3    |
+
