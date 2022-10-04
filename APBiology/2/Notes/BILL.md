@@ -152,6 +152,10 @@
     -  Cells must maximize their surface area to volume ratio in order to maintain homeostasis.
     -  Cells must minimize their surface area exposure to the extracellular matrix in order to retain cytosol.
 	
-	3
+	> [!Def] Answer
+	> **3**
         
 2.  **Calculate** the surface area and volume of a cubic epithelial cell with sides of 8 micrometers. Then, **illustrate** the relationship between cell size (x axis) and surface area/volume ratio (y axis) on a graph.
+
+	> [!def] Answer
+	> 
