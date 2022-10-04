@@ -148,13 +148,13 @@
 
 1.  Which of these statements accurately reflects the relationship between cell size and surface area?
     
-    1.  Larger cells are most efficient at transporting materials across the membrane since their surface area is increased.
+    -  Larger cells are most efficient at transporting materials across the membrane since their surface area is increased.
         
-    2.  Smaller cells must have more phospholipids per area in order to adequately transport materials into the cell.
+    -  Smaller cells must have more phospholipids per area in order to adequately transport materials into the cell.
         
-    3.  Cells must maximize their surface area to volume ratio in order to maintain homeostasis.
+    -  Cells must maximize their surface area to volume ratio in order to maintain homeostasis.
         
-    4.  Cells must minimize their surface area exposure to the extracellular matrix in order to retain cytosol.
-
+    -  Cells must minimize their surface area exposure to the extracellular matrix in order to retain cytosol.
+	2
         
 2.  **Calculate** the surface area and volume of a cubic epithelial cell with sides of 8 micrometers. Then, **illustrate** the relationship between cell size (x axis) and surface area/volume ratio (y axis) on a graph.
