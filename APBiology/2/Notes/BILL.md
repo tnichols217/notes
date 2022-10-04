@@ -201,10 +201,10 @@ flexGrow=0.4
 4
 ```
 ```col-md
-Cilia is on the suf
+Cilia is on the surface of the cell
 ```
 ```col-md
-The larger it is, the more mini-cube covered sides there are, meaning the overall large-cube surface area is significantly less than that of small-cubes
+More surface area => more cilia
 ```
 ````
 
