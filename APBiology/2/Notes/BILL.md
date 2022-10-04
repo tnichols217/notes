@@ -82,4 +82,4 @@
   
 - How do cells maintain dynamic homeostasis by the movement of molecules across membranes?
   
-  It can pump out excess and let in more if necessary by controlling 
+  It can pump out excess and let in more if necessary by controlling the diffusion through facilitated diffusion and 
