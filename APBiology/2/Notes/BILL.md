@@ -257,3 +257,4 @@ More surface area => more cilia => more effectivity
 ![[Pasted image 20221004220050.png]]
 
 ## BR: Tonicity Practice Problem
+1. 
