@@ -194,6 +194,19 @@ As you increase the cube size, more sides of the mini-cubes are covered up
 The larger it is, the more mini-cube covered sides there are, meaning the overall large-cube surface area is significantly less than that of small-cubes
 ```
 ````
+````col
+```col-md
+flexGrow=0.4
+===
+4
+```
+```col-md
+Cilia is on the suf
+```
+```col-md
+The larger it is, the more mini-cube covered sides there are, meaning the overall large-cube surface area is significantly less than that of small-cubes
+```
+````
 
 ## Investigation: Limits on Cell Size
 
