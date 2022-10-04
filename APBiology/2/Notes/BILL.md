@@ -204,7 +204,7 @@ flexGrow=0.4
 Cilia is on the surface of the cell
 ```
 ```col-md
-More surface area => more cilia
+More surface area => more cilia => more effectivity
 ```
 ````
 
@@ -247,3 +247,5 @@ More surface area => more cilia
 	| 384 nm2 | 512 nm3 |
 	
 	![[Pasted image 20221004213406.png]]
+
+## Activi
