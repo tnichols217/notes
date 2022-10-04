@@ -146,7 +146,7 @@
 
 ````col
 ```col-md
-flexGrow=0.2
+flexGrow=0.4
 ===
 ### Question
 ```
@@ -157,7 +157,7 @@ flexGrow=0.2
 ````
 ````col
 ```col-md
-flexGrow=0.2
+flexGrow=0.4
 ===
 1
 ```
@@ -170,10 +170,12 @@ The larger a cube is, the lower its SA:V ratio is
 ````
 ````col
 ```col-md
+flexGrow=0.4
+===
 2
 ```
 ```col-md
-Exponential 
+Exponential, increasing relationship between surface area and volume of a cube
 ```
 ```col-md
 The larger a cube is, the lower its SA:V ratio is
