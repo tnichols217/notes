@@ -334,4 +334,4 @@ As the concentration of the solution increases, it decreases it water potential,
 We conclude that as you increase the solution concentration surrounding plant tissue, more water will be sucked out of the plant tissue as the solution becomes more hypertonic, decreasing its water potential. As the water potential decreases, it steepens the water potential gradient, pulling more water out of the tissue.
 
 ## BR: Endosymbiosis and Compartmentalization
-1. 1, 5, 2, 
+1. 3, 5, 2, 
