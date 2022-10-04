@@ -260,4 +260,5 @@ More surface area => more cilia => more effectivity
 1. B
 2. Iso, Hypo, Hyper
 3. B
-4. 
+4. D
+5. 
