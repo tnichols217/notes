@@ -257,6 +257,6 @@ More surface area => more cilia => more effectivity
 ![[Pasted image 20221004220050.png]]
 
 ## BR: Tonicity Practice Problem
-1. A
-2. Iso, Hyper, Hypo
+1. B
+2. Iso, Hypo, Hypo
 3. 
