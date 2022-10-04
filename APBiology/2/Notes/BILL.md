@@ -142,3 +142,18 @@
 	5. Small Spheres
 18. They are unicellular, so all the functions of the organism needs to be carried out by the singular cell. Multicellular organisms may have multiple jobs for different cells, meaning each cell can be more specialised, allowing them to be smaller and more efficient.
 
+## BR: Cell Surface Area-Volume Ratio and Cell Size
+
+**Bellringer: Cell Size and Surface Area**
+
+1.  Which of these statements accurately reflects the relationship between cell size and surface area?
+    
+    1.  Larger cells are most efficient at transporting materials across the membrane since their surface area is increased.
+        
+    2.  Smaller cells must have more phospholipids per area in order to adequately transport materials into the cell.
+        
+    3.  Cells must maximize their surface area to volume ratio in order to maintain homeostasis.
+        
+    4.  Cells must minimize their surface area exposure to the extracellular matrix in order to retain cytosol.
+        
+2.  **Calculate** the surface area and volume of a cubic epithelial cell with sides of 8 micrometers. Then, **illustrate** the relationship between cell size (x axis) and surface area/volume ratio (y axis) on a graph.
