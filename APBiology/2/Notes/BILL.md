@@ -264,4 +264,7 @@ More surface area => more cilia => more effectivity
 5. B
 6. E
 7. Right, Hypertonic
-8. 
+8. Left, Hypo
+9. Right
+10. -
+11. 
