@@ -268,4 +268,4 @@ More surface area => more cilia => more effectivity
 9. Right
 10. -
 11. Out, In, None
-12. None, In, Out; 
+12. None, In, Out; Normal, Turgid, Flaccid
