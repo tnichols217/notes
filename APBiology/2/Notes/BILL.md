@@ -253,4 +253,7 @@ More surface area => more cilia => more effectivity
 1. It keeps the inside of the golgi apparatus clean, only containing the necessary items
 2. More flaps and folds leads to higher surface area, but cells cannot hold strong to each other in this shape
 
+## Cell Transport
 ![[Pasted image 20221004220050.png]]
+
+## BR: Tonicity Practice Problem
