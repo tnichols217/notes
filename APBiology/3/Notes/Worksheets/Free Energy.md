@@ -17,4 +17,6 @@
 	2. Decreasing
 	3. Increasing
 7. 1, 1, 1, 1, 2, 2, 2, 1
-8. Yes, Increasing -> Reactants, Decreasing -> 
+8. Yes, Increasing -> Reactants, Decreasing -> Products
+9. 9
+	1. 
