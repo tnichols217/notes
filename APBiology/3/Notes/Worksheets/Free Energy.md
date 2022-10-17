@@ -23,4 +23,5 @@
 	2. Decreasing
 	3. Decreasing
 	4. Increasing
-10. Yes most of the time, but it a
+10. Yes most of the time, but it also depends on temperature for cooling and heating
+11. 
