@@ -24,4 +24,5 @@
 	3. Decreasing
 	4. Increasing
 10. Yes most of the time, but it also depends on temperature for cooling and heating
-11. 
+11. It heats up
+12. 
