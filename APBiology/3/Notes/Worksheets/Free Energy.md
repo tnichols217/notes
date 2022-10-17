@@ -23,4 +23,4 @@
 	2. Decreasing
 	3. Decreasing
 	4. Increasing
-10. 
+10. Yes most of the time, but it a
