@@ -35,4 +35,4 @@
 	1. -
 	2. +
 	3. because $\Delta H$ is negative and subtracting a positive $T\Delta S$ will always result in a negative (Exergonic)
-16. $|$
+16. $\Delta H > 0$, and $$
