@@ -9,7 +9,7 @@ Freedom of Speech is highly regarded out of the several idealistic freedoms valu
 ![[Pasted image 20221017224019.png]]
 A hypermajority of people do not believe social media is an accurate description of real life. Additionally, often with greater freedom of speech comes more false information. Algorithms may be able to bias for the "truth", but biasing for what is "true" and censoring what is "false" is a clear violation of freedom of speech.
 
-Do you believe that algorithms - designed not for equal representation of ideas, but to interest the viewer - are a violation of freedom of speech, and how does the desire to want to be entertained stack up against the right of freedom of speech? With complete freedom of speech, how will the combat of "false" information be implemented, if at all?
+Do you believe that algorithms - designed not for equal representation of ideas, but to interest the viewer - are a violation of freedom of speech, and how does the desire to want to be entertained stack up against the right of freedom of speech on a so? With complete freedom of speech, how will the combat of "false" information be implemented, if at all?
 
 ## Immigration
 
