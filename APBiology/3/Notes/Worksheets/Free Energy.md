@@ -34,4 +34,4 @@
 15. 15
 	1. -
 	2. +
-	3. 
+	3. because $\Delta H$ is negative and subtracting a positive $T\Delta S$ wil
