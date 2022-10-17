@@ -28,4 +28,5 @@
 12. Decreasing
 13. Increasing
 14. 14
-	1. 
+	1. A, B, C, D
+	2. 
