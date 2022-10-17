@@ -6,8 +6,7 @@ Do you think that the benefits of democracy outweigh the costs of transitioning 
 
 ## Freedom of Speech
 Freedom of Speech is highly regarded out of the several idealistic freedoms valued in the west. Freedom of Speech is often debated widely in the context of modern social media platforms using algorithms to recommend, but also hide certain content. According to a pew research study conducted in 2018:
-![[Pasted image 20221017224019.png]]![[Pasted image 20221017224029.png]]
-
+![[Pasted image 20221017224019.png]]![[Pasted image 20221017224118.png]]
 
 
 ## Immigration
