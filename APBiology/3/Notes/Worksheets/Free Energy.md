@@ -27,4 +27,5 @@
 11. It heats up
 12. Decreasing
 13. Increasing
-14. 
+14. 14
+	1. 
