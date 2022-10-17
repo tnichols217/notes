@@ -10,4 +10,5 @@
 3. No, water -> ice above $0\degree C$ 
 4. 4
 	1. $\Delta S$
-	2. 
+	2. +
+5. 
