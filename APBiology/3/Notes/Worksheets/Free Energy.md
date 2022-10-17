@@ -38,4 +38,5 @@
 16. $\Delta H > 0$ and $\Delta S < 0$ so $\Delta H - T\Delta S > 0$, meaning it is Endergonic (non-spontaneous)
 17. Because even if $\Delta H = 0$, $T\Delta S > 0$, making $\Delta G < 0$ 
 18. 18
-	1. 
+	1. Decreasing
+	2. 
