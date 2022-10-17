@@ -16,4 +16,4 @@
 	1. Increasing
 	2. Decreasing
 	3. Increasing
-7. 
+7. 1, 1, 1, 
