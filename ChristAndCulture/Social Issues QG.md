@@ -7,7 +7,7 @@ Do you think that the benefits of democracy outweigh the costs of transitioning 
 ## Freedom of Speech
 Freedom of Speech is highly regarded out of the several idealistic freedoms valued in the west. Freedom of Speech is often debated widely in the context of modern social media platforms using algorithms to recommend, but also hide certain content. According to a pew research study conducted in 2018:
 ![[Pasted image 20221017224019.png]]
-A hypermajority of people do not believe social media is an accurate description of real life. Do you believe that algorithms - designed not for equal representation of ideas, but to interest the viewer - are a violation of freedom of speech? Additionally, often with greater freedom of speech comes more false information. Algorithms may be able to bias for the "truth", but definining wha
+A hypermajority of people do not believe social media is an accurate description of real life. Do you believe that algorithms - designed not for equal representation of ideas, but to interest the viewer - are a violation of freedom of speech? Additionally, often with greater freedom of speech comes more false information. Algorithms may be able to bias for the "truth", but defining what is "true" and censoring what is "false" 
 
 
 ## Immigration
