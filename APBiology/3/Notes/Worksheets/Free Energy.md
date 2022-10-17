@@ -29,4 +29,5 @@
 13. Increasing
 14. 14
 	1. A, B, C, D
-	2. 
+	2. H, below $60\degree C$
+	3. 
