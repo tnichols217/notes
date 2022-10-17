@@ -11,4 +11,6 @@
 4. 4
 	1. $\Delta S$
 	2. +
-5. 
+5. No, they aren't correlated
+6. 6
+	1. 
