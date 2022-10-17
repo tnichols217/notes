@@ -34,4 +34,5 @@
 15. 15
 	1. -
 	2. +
-	3. because $\Delta H$ is negative and subtracting a positive $T\Delta S$ wil
+	3. because $\Delta H$ is negative and subtracting a positive $T\Delta S$ will always result in a negative (Exergonic)
+	4. 
