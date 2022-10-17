@@ -1,6 +1,6 @@
 # Social Issues
 ## Forms of Government
-In 2008, Nepal abolished its Monarchy and switched to a Democratic system, but this change took over 9 years and was after much turmoil and disrest. 
+In 2008, Nepal abolished its Monarchy and switched to a Democratic system, but this change took over 9 years and was after much turmoil and disrest. This trend can be seen around the world as well, showing a large shift from other forms of gove
 ![[Pasted image 20221017221728.png]]
 ## Freedom of Speech
 
