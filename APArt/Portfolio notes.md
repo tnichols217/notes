@@ -28,8 +28,14 @@ You’ll create a body of work that demonstrates:
 
 You’ll have to document in writing:
 
--   the questions that guided your sustained investigation
--   how your sustained investigation shows evidence of **practice, experimentation, and revision** guided by your questions
+-   the questions that guided your sustained investigation **(600 words)**
+-   how your sustained investigation shows evidence of **practice, experimentation, and revision** guided by your questions **(600 words)**
+
+**Note:** Your responses to the prompts are evaluated along with the images you submit:
+
+-   The most successful responses in relation to the assessment criteria used here are clearly related to the images of work submitted, directly and completely address the prompts, and provide further evidence of inquiry-based sustained investigation through practice, experimentation, and revision.
+-   You must identify all pre-existing work(s) in the Written Evidence portion of your portfolio. Review the [Artistic Integrity Agreement](https://apstudents.collegeboard.org/art-design-program/ap-art-design-portfolio-policies) for more information. 
+-   Although responses are not evaluated for spelling, grammar, or punctuation, you should make sure your responses are written clearly (e.g., don’t use extreme text speak or eliminate spaces between words).
 
 Description:
 
@@ -49,8 +55,8 @@ You’ll choose works that demonstrate:
 For each work, you’ll have to describe in writing:
 
 -   your ideas
--   the materials you used
--   the processes you used
+-   the materials you used **(100 characters)**
+-   the processes you used **(100 characters)**
 
 Works may come from the Sustained Investigation section, but they do not have to. They may be a group of related works, unrelated works, or a combination of related and unrelated works.
 
