@@ -35,4 +35,4 @@
 	1. -
 	2. +
 	3. because $\Delta H$ is negative and subtracting a positive $T\Delta S$ will always result in a negative (Exergonic)
-16. $\Delta H > 0$ and $\Delta S < 0$ so $\Delta H$
+16. $\Delta H > 0$ and $\Delta S < 0$ so $\Delta H - T\Delta S > 0$, meaning it is End
