@@ -13,4 +13,5 @@
 	2. +
 5. No, they aren't correlated
 6. 6
-	1. 
+	1. Increasing
+	2. Decreasing
