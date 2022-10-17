@@ -39,4 +39,5 @@
 17. Because even if $\Delta H = 0$, $T\Delta S > 0$, making $\Delta G < 0$ 
 18. 18
 	1. Decreasing
-	2. 
+	2. Increasing above 0, decreasing below 0
+	3. 
