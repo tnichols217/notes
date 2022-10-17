@@ -32,4 +32,6 @@
 	2. H, below $60\degree C$
 	3. G, below $0\degree C$
 15. 15
-	1. 
+	1. -
+	2. +
+	3. 
