@@ -15,3 +15,5 @@
 6. 6
 	1. Increasing
 	2. Decreasing
+	3. Increasing
+7. 
