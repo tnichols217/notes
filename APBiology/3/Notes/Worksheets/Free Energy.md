@@ -26,5 +26,5 @@
 10. Yes most of the time, but it also depends on temperature for cooling and heating
 11. It heats up
 12. Decreasing
-13. It cools down
+13. Increasing
 14. 
