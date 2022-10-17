@@ -13,6 +13,7 @@ Do you believe that algorithms - designed not for equal representation of ideas,
 
 ## Immigration
 
+
 ## Political Correctness
 
 ## Racism
