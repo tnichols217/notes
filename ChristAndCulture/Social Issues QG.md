@@ -6,6 +6,8 @@ Do you think that the benefits of democracy outweigh the costs of transitioning 
 
 ## Freedom of Speech
 
+
+
 ## Immigration
 
 ## Political Correctness
