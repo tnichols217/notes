@@ -17,3 +17,4 @@
 	2. Decreasing
 	3. Increasing
 7. 1, 1, 1, 1, 2, 2, 2, 1
+8. 
