@@ -20,4 +20,7 @@
 8. Yes, Increasing -> Reactants, Decreasing -> Products
 9. 9
 	1. Increasing
-	2. 
+	2. Decreasing
+	3. Decreasing
+	4. Increasing
+10. 
