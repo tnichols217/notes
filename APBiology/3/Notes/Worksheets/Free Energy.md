@@ -7,4 +7,7 @@
 	1. Endothermic
 	2. Endothermic
 	3. Endothermic
-3. No, water -> ice above $0\degrees C$ 
+3. No, water -> ice above $0\degree C$ 
+4. 4
+	1. $\Delta S$
+	2. 
