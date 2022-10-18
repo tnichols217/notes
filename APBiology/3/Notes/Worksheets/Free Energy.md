@@ -46,4 +46,5 @@
 	1. The fire, because it produces heat
 	2. The water because it absorbs the energy
 20. 20
-	1. 
+	1. The breaking of Glucose
+	2. Production of ATP
