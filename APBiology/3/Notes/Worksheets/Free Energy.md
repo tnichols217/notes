@@ -42,4 +42,5 @@
 	2. Increasing
 	3. System
 19. 19
-	1. Exergonic for fire, 
+	1. Exergonic for both
+	2. 
