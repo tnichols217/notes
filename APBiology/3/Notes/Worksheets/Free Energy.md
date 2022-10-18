@@ -1,5 +1,5 @@
 # Free Energy
-1. 1
+1. 1d
 	1. Exothermic and Endothermic
 	2. $\Delta H$
 	3. -
@@ -41,4 +41,5 @@
 	1. Decreasing
 	2. Increasing
 	3. System
-19. 
+19. 19
+	1. 
