@@ -12,7 +12,7 @@ A hypermajority of people do not believe social media is an accurate description
 Do you believe that algorithms - designed not for equal representation of ideas, but to interest the viewer - are a violation of freedom of speech, and how does the desire to want to be entertained stack up against the right of freedom of speech on a societal level? With complete freedom of speech, how will the combat of "false" information be implemented, if at all?
 
 ## Immigration
-On May 1, 2020 Malaysia stopped accepting boats carrying Rohingyan refugees into Malaysia. These people are undocumented and cannot travel far, much less legally. Many locals believe that these immigrants cause problems to our economy and cultEven with refugee agreements which many countries have signed, how do you think countries should handle the case of undocumented immigration of refugees?
+On May 1, 2020 Malaysia stopped accepting boats carrying Rohingyan refugees into Malaysia. These people are undocumented and cannot travel far, much less legally. Many locals believe that these immigrants cause problems to our economy and culture. Even with refugee agreements which many countries have signed, how do you think countries should handle the case of undocumented immigration of refugees?
 
 ## Political Correctness
 
