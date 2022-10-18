@@ -41,3 +41,4 @@
 	1. Decreasing
 	2. Increasing
 	3. System
+19. 
