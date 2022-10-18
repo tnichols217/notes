@@ -18,4 +18,4 @@ On May 1, 2020 Malaysia stopped accepting boats carrying Rohingyan refugees into
 On the spectrum of "snowflakes" to "thick-skinned", political correctness aims to form a concrete manner for people to respect the "snowflakes". Assuming that over time, the "judgement line" of political correctness has gotten stricter, how far too far for being respectful of people? Is it okay to expect people to be thick-skinned to a certain point?
 
 ## Racism
-
+"The Civil Rights Act of 1964 made it illegal to discriminate against students and college applicants on the basis of race or gender" (FindLaw). 
