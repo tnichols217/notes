@@ -22,22 +22,45 @@
         ]
       },
       {
-        "id": "2c55cf6c3088a26e",
-        "type": "tabs",
+        "id": "6f6b56bb59e17fdf",
+        "type": "split",
         "children": [
           {
-            "id": "8f20fd064abe4c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/3/Notes/Worksheets/Free Energy.md",
-                "mode": "source",
-                "source": false
+            "id": "2c55cf6c3088a26e",
+            "type": "tabs",
+            "dimension": 52.96296296296297,
+            "children": [
+              {
+                "id": "8f20fd064abe4c97",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "APBiology/3/Documents/Teams/2 Free Energy-S.pdf"
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "40774ee20a15b0c4",
+            "type": "tabs",
+            "dimension": 47.03703703703704,
+            "children": [
+              {
+                "id": "b2dcafc57955fe40",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "APBiology/3/Documents/Teams/2 Free Energy-S.pdf"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -103,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/Worksheets/Free Energy.md",
+                "file": "APBiology/3/Documents/Teams/2 Free Energy-S.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/Worksheets/Free Energy.md"
+                "file": "APBiology/3/Documents/Teams/2 Free Energy-S.pdf"
               }
             }
           },
@@ -143,8 +166,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4a525f6e31ce8430",
+  "active": "8f20fd064abe4c97",
   "lastOpenFiles": [
+    "APBiology/3/Notes/Worksheets/Free Energy.md",
     "ChristAndCulture/Social Issues QG.md",
     "Untitled.md",
     "README.md",
@@ -153,7 +177,6 @@
     "Untitled 3.md",
     "APArt/Sustained Investigation.md",
     "APArt/Portfolio notes.md",
-    "APArt/Piece Descriptions.md",
-    "APBiology/3/Documents/Teams/2 Free Energy-S.pdf"
+    "APArt/Piece Descriptions.md"
   ]
 }
