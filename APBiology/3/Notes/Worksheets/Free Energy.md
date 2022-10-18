@@ -49,4 +49,4 @@
 	2. Production of ATP, it uses energy to make bonds
 21. No, exothermic releases heat, but exergonic releases energy, but not heat
 22. 22
-	1. 
+	1. Entropy will continue to in
