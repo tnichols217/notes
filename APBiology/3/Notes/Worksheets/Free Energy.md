@@ -38,7 +38,6 @@
 17. $\Delta H > 0$ and $\Delta S < 0$ so $\Delta H - T\Delta S > 0$, meaning it is Endergonic (non-spontaneous)
  Issues QG17. Because even if $\Delta H = 0$, $T\Delta S > 0$, making $\Delta G < 0$ 
 18. 18
-18. 
 	1. Decreasing
 	2. Increasing
 	3. System
@@ -46,5 +45,6 @@
 	1. The fire, because it produces heat
 	2. The water because it absorbs the energy
 20. 20
-	1. The breaking of Glucose
-	2. Production of ATP
+	1. The breaking of Glucose, it breaks bonds, making energy
+	2. Production of ATP, it uses energy to make bonds
+21. 
