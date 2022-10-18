@@ -49,4 +49,6 @@
 	2. Production of ATP, it uses energy to make bonds
 21. No, exothermic releases heat, but exergonic releases energy, but not heat
 22. 22
-	1. Entropy will continue to in
+	1. Entropy will continue to increase and more energy will be neeeded
+	2. The sun.
+23. 
