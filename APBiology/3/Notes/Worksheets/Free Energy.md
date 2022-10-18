@@ -47,4 +47,6 @@
 20. 20
 	1. The breaking of Glucose, it breaks bonds, making energy
 	2. Production of ATP, it uses energy to make bonds
-21. No, exothermic releases heat, but exergonic re
+21. No, exothermic releases heat, but exergonic releases energy, but not heat
+22. 22
+	1. 
