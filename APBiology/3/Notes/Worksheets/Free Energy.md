@@ -51,4 +51,4 @@
 22. 22
 	1. Entropy will continue to increase and more energy will be neeeded
 	2. The sun.
-23. 
+23. No, spontaneous means that it increases the total entropy in the universe. If it doesnt, then its not spontaneous. 
