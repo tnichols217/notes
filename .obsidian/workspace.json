@@ -13,54 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/3/Notes/Worksheets/Free Energy.md",
+                "file": "ChristAndCulture/Social Issues QG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "6f6b56bb59e17fdf",
-        "type": "split",
-        "children": [
-          {
-            "id": "2c55cf6c3088a26e",
-            "type": "tabs",
-            "dimension": 52.96296296296296,
-            "children": [
-              {
-                "id": "8f20fd064abe4c97",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "APBiology/3/Documents/Teams/2 Free Energy-S.pdf"
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "40774ee20a15b0c4",
-            "type": "tabs",
-            "dimension": 47.03703703703704,
-            "children": [
-              {
-                "id": "b2dcafc57955fe40",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "APBiology/3/Documents/Teams/2 Free Energy-S.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -126,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/Worksheets/Free Energy.md",
+                "file": "ChristAndCulture/Social Issues QG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/Worksheets/Free Energy.md"
+                "file": "ChristAndCulture/Social Issues QG.md"
               }
             }
           },
@@ -168,8 +127,8 @@
   },
   "active": "4a525f6e31ce8430",
   "lastOpenFiles": [
-    "APBiology/3/Documents/Teams/2 Free Energy-S.pdf",
     "APBiology/3/Notes/Worksheets/Free Energy.md",
+    "APBiology/3/Documents/Teams/2 Free Energy-S.pdf",
     "ChristAndCulture/Social Issues QG.md",
     "Untitled.md",
     "README.md",
