@@ -37,12 +37,12 @@
 	3. because $\Delta H$ is negative and subtracting a positive $T\Delta S$ will always result in a negative (Exergonic)
 16. $\Delta H > 0$ and $\Delta S < 0$ so $\Delta H - T\Delta S > 0$, meaning it is Endergonic (non-spontaneous)
  Issues QG17. Because even if $\Delta H = 0$, $T\Delta S > 0$, making $\Delta G < 0$ 
-
-17. 18
+17. 
+18. 18
 	1. Decreasing
 	2. Increasing
 	3. System
-18. 19
+19. 19
 	1. The fire, because it produces heat
 	2. The water because it absorbs the energy
-19. 
+20. 
