@@ -15,7 +15,7 @@ Do you believe that algorithms - designed not for equal representation of ideas,
 On May 1, 2020 Malaysia stopped accepting boats carrying Rohingyan refugees into Malaysia. These people are undocumented and cannot travel far, much less legally. Many locals believe that these immigrants cause problems to our economy and culture. Even with refugee agreements which many countries have signed, how do you think countries should handle the case of undocumented immigration of refugees?
 
 ## Political Correctness
-Assuming that the "judgement line" of political correctness has gotten stricter over the years
+On the spectrum of "snowflakes" to "thick-skinned", poli
 
 ## Racism
 
