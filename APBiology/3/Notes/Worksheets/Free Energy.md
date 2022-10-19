@@ -75,7 +75,7 @@
 10. 10
 	1. Cellular processes
 	2. Formation of glucose or fats
-11. Photosynthesis
+11. Respiration
 12. 12
 	1. Forming ATP through phosphorelation
 	2. Spending ATP to make ADP
