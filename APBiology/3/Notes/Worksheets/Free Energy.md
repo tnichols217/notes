@@ -68,4 +68,5 @@
 	1. Exothermic, it releases energy
 	2. Its the breaking of water that releases energy
 8. 8
-	1. ADP
+	1. ADP + Phosphate group + Energy => ATP + Water
+	2. It adds the phosphate group back 
