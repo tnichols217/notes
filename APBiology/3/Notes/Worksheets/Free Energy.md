@@ -77,4 +77,6 @@
 	2. Formation of glucose or fats
 11. Photosynthesis
 12. 12
-	1. 
+	1. Forming ATP through phosphorelation
+	2. Spending ATP to make ADP
+	3. Saving ATP
