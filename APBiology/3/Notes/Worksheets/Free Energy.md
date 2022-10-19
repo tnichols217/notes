@@ -71,4 +71,6 @@
 	1. ADP + Phosphate group + Energy => ATP + Water
 	2. It adds the phosphate group back to the ADP
 	3. Endergonic, it absorbs energy
-9. Left: Phosphorylation
+9. Left: Phosphorylation, Right: Hydrolysis
+10. 10
+	1. Cellular processes
