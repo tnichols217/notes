@@ -66,4 +66,6 @@
 	2. ATP, it has more bonds
 7. 7
 	1. Exothermic, it releases energy
-	2. 
+	2. Its the breaking of water that releases energy
+8. 8
+	1. ADP
