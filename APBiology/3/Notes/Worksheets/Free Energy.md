@@ -54,3 +54,4 @@
 23. No, spontaneous means that it increases the total entropy in the universe. If it doesnt, then its not spontaneous. 
 
 # ATP
+1. 
