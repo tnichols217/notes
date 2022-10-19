@@ -63,5 +63,7 @@
 5. Hydro = water, lysis = break / cut, it breaks the $H_2O$ into $OH$ and $O$
 6. 6
 	1. Net output, as it breaks bonds
+	2. ATP, it has more bonds
+7. 7
+	1. Exothermic, it releases energy
 	2. 
-7. 
