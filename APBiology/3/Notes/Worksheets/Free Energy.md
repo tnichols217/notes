@@ -74,4 +74,5 @@
 9. Left: Phosphorylation, Right: Hydrolysis
 10. 10
 	1. Cellular processes
-	2. 
+	2. Formation of glucose or fats
+11. 
