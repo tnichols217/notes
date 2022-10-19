@@ -56,4 +56,5 @@
 # ATP
 1. In order of left to right: Adenine, ribose sugar, phosphate group
 2. 2
-	1. There are three phosphate grouops
+	1. There are three phosphate groups
+	2. Take away the third phosphate group
