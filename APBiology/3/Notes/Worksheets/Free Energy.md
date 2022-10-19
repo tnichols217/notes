@@ -82,4 +82,4 @@
 	3. Saving ATP (energy) for later
 13. $\text{Adenosine}-\text{Nitrogenous Base}-\text{Phosphate Group}$
 14. Exergonic, it releases energy
-15. 
+15. It prevents the body from producing new ATP through electron transfe so that it would break down sugars to produce energy
