@@ -13,33 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChristAndCulture/Social Issues QG.md",
+                "file": "APBiology/3/Notes/Worksheets/Free Energy.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "1a82862e481c90dc"
+            }
           }
         ]
       },
       {
-        "id": "6e00800a8734daad",
-        "type": "tabs",
+        "id": "a90484ddfb48ae10",
+        "type": "split",
         "children": [
           {
-            "id": "824b01cdc91c0a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChristAndCulture/Social Issues QG.md",
-                "mode": "preview",
-                "source": false
+            "id": "6e00800a8734daad",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "824b01cdc91c0a8f",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "APBiology/3/Documents/Teams/7 ATP-The Free Energy Carrier-S.pdf"
+                  }
+                }
               }
-            },
-            "group": "1a82862e481c90dc"
+            ]
+          },
+          {
+            "id": "3d6f4b3790a84206",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cabf22e88af4ad1d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "APBiology/3/Documents/Teams/7 ATP-The Free Energy Carrier-S.pdf"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -105,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChristAndCulture/Social Issues QG.md",
+                "file": "APBiology/3/Notes/Worksheets/Free Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChristAndCulture/Social Issues QG.md"
+                "file": "APBiology/3/Notes/Worksheets/Free Energy.md"
               }
             }
           },
@@ -147,15 +166,15 @@
   },
   "active": "4a525f6e31ce8430",
   "lastOpenFiles": [
-    "APBiology/3/Notes/Worksheets/Free Energy.md",
+    "APBiology/3/Documents/Teams/7 ATP-The Free Energy Carrier-S.pdf",
     "APBiology/3/Documents/Teams/2 Free Energy-S.pdf",
+    "APBiology/3/Notes/Worksheets/Free Energy.md",
     "ChristAndCulture/Social Issues QG.md",
     "ChristAndCulture/attachments/Pasted image 20221017224029.png",
     "ChristAndCulture/attachments/Pasted image 20221017224118.png",
     "ChristAndCulture/attachments/socialMediaReflectSociety.png",
     "ChristAndCulture/attachments/globalTrendsInGovernance.png",
     "Pasted.md",
-    "Untitled.md",
-    "README.md"
+    "Untitled.md"
   ]
 }
