@@ -81,4 +81,5 @@
 	2. Spending ATP to make ADP
 	3. Saving ATP (energy) for later
 13. $\text{Adenosine}-\text{Nitrogenous Base}-\text{Phosphate Group}$
-14. 
+14. Exergonic, it releases energy
+15. 
