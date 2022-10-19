@@ -6,7 +6,6 @@
       {
         "id": "edc36a810cc74985",
         "type": "tabs",
-        "dimension": 42.00507614213198,
         "children": [
           {
             "id": "4a525f6e31ce8430",
@@ -17,23 +16,6 @@
                 "file": "APBiology/3/Notes/Worksheets/Free Energy.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3d6f4b3790a84206",
-        "type": "tabs",
-        "dimension": 57.99492385786802,
-        "children": [
-          {
-            "id": "cabf22e88af4ad1d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APBiology/3/Documents/Teams/7 ATP-The Free Energy Carrier-S.pdf"
               }
             }
           }
