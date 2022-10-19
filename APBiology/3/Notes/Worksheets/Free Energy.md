@@ -58,4 +58,5 @@
 2. 2
 	1. There are three phosphate groups
 	2. Take away the third phosphate group
-3. ATP + $H_2O$
+3. ATP + $H_2O$ => ADP + Phosphate group
+4. Split into $OH$ and $O$
