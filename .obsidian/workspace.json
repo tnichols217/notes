@@ -6,6 +6,7 @@
       {
         "id": "edc36a810cc74985",
         "type": "tabs",
+        "dimension": 42.00507614213198,
         "children": [
           {
             "id": "4a525f6e31ce8430",
@@ -22,43 +23,21 @@
         ]
       },
       {
-        "id": "a90484ddfb48ae10",
-        "type": "split",
+        "id": "3d6f4b3790a84206",
+        "type": "tabs",
+        "dimension": 57.99492385786802,
         "children": [
           {
-            "id": "6e00800a8734daad",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "824b01cdc91c0a8f",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "APBiology/3/Documents/Teams/7 ATP-The Free Energy Carrier-S.pdf"
-                  }
-                }
+            "id": "cabf22e88af4ad1d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "APBiology/3/Documents/Teams/7 ATP-The Free Energy Carrier-S.pdf"
               }
-            ]
-          },
-          {
-            "id": "3d6f4b3790a84206",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cabf22e88af4ad1d",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "APBiology/3/Documents/Teams/7 ATP-The Free Energy Carrier-S.pdf"
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
