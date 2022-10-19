@@ -69,4 +69,5 @@
 	2. Its the breaking of water that releases energy
 8. 8
 	1. ADP + Phosphate group + Energy => ATP + Water
-	2. It adds the phosphate group back 
+	2. It adds the phosphate group back to the ADP
+	3. Endergonic, it absorb
