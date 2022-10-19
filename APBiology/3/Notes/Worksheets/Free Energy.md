@@ -61,4 +61,7 @@
 3. ATP + $H_2O$ => ADP + Phosphate group
 4. Split into $OH$ and $O$
 5. Hydro = water, lysis = break / cut, it breaks the $H_2O$ into $OH$ and $O$
-6. 
+6. 6
+	1. Net output, as it breaks bonds
+	2. 
+7. 
