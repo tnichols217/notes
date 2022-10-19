@@ -60,3 +60,4 @@
 	2. Take away the third phosphate group
 3. ATP + $H_2O$ => ADP + Phosphate group
 4. Split into $OH$ and $O$
+5. Hydro = water, lysis = break / cut
