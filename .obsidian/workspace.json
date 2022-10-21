@@ -57,6 +57,22 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "c9995921a0332f2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93ae3738b755f4d3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "APBiology/3/Documents/Teams/11 Photosynthesis-S.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,6 +180,8 @@
   },
   "active": "04b770a8f24c4ad2",
   "lastOpenFiles": [
+    "APBiology/3/Documents/Teams/11 Photosynthesis-S.pdf",
+    "APBiology/3/Notes/BILL/Photosynthesis POGIL.md",
     "APBiology/3/Notes/BILL/Photosynthetic Activity BR.md",
     "APBiology/3/Notes/Worksheets/Pho.md",
     "Private/college/colleges.md",
@@ -171,8 +189,6 @@
     "APBiology/3/Notes/BILL/Photosynthesis Bell Ringer.md",
     "APBiology/3/Notes/Worksheets/Free Energy.md",
     "APBiology/3/Documents/Teams/7 ATP-The Free Energy Carrier-S.pdf",
-    "APBiology/3/Documents/Teams/2 Free Energy-S.pdf",
-    "ChristAndCulture/Social Issues QG.md",
-    "ChristAndCulture/attachments/Pasted image 20221017224029.png"
+    "APBiology/3/Documents/Teams/2 Free Energy-S.pdf"
   ]
 }
