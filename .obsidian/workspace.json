@@ -57,22 +57,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "c9995921a0332f2f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "93ae3738b755f4d3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APBiology/3/Documents/Teams/11 Photosynthesis-S.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
