@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f01fdf9f070c1470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/college/Expenses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/colleges.md",
+                "file": "Private/college/Expenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/colleges.md"
+                "file": "Private/college/Expenses.md"
               }
             }
           },
@@ -162,13 +174,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "04b770a8f24c4ad2",
+  "active": "f01fdf9f070c1470",
   "lastOpenFiles": [
+    "Private/college/colleges.md",
     "APBiology/3/Notes/BILL/Photosynthesis POGIL.md",
     "APBiology/3/Documents/Teams/11 Photosynthesis-S.pdf",
     "APBiology/3/Notes/BILL/Photosynthetic Activity BR.md",
     "APBiology/3/Notes/Worksheets/Pho.md",
-    "Private/college/colleges.md",
     "Private/college readiness.md",
     "APBiology/3/Notes/BILL/Photosynthesis Bell Ringer.md",
     "APBiology/3/Notes/Worksheets/Free Energy.md",
