@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f01fdf9f070c1470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/Expenses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd0d8e82936155df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/Additional Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/Additional Questions.md",
+                "file": "Private/college/colleges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/Additional Questions.md"
+                "file": "Private/college/colleges.md"
               }
             }
           },
@@ -150,11 +125,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dd0d8e82936155df",
+  "active": "04b770a8f24c4ad2",
   "lastOpenFiles": [
+    "Private/college/Expenses.md",
     "Private/college/Additional Questions.md",
     "Private/college/colleges.md",
-    "Private/college/Expenses.md",
     "APBiology/3/Notes/BILL/Photosynthesis POGIL.md",
     "APBiology/3/Documents/Teams/11 Photosynthesis-S.pdf",
     "APBiology/3/Notes/BILL/Photosynthetic Activity BR.md",
