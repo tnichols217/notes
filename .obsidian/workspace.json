@@ -30,17 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a74d813a15973818",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Private/college/Additional Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Private/college/Additional Questions.md"
+              }
             }
           },
           {
@@ -143,7 +138,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a74d813a15973818",
+  "active": "6bfebf48777385bb",
   "lastOpenFiles": [
     "Private/college/Additional Questions.md",
     "Private/college/colleges.md",
