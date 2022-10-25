@@ -144,13 +144,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "dd0d8e82936155df",
+  "active": "b4bffee2f3ac84d0",
   "lastOpenFiles": [
     "Private/college/colleges.md",
     "Private/college/Additional Questions.md",
