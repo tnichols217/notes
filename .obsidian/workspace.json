@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d84b3472262f476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/college/Additional Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/duo/build your own adventure/files/1.md",
+                "file": "Private/college/Additional Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/duo/build your own adventure/files/1.md"
+                "file": "Private/college/Additional Questions.md"
               }
             }
           },
@@ -125,8 +138,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b67808c7c498bc42",
+  "active": "6d84b3472262f476",
   "lastOpenFiles": [
+    "Private/duo/build your own adventure/files/1.md",
     "Private/duo/build your own adventure/Start here.md",
     "Private/clock.md",
     "Private/README.md",
@@ -135,7 +149,6 @@
     "Private/college/Additional Questions.md",
     "Private/college/colleges.md",
     "Private/college/Expenses.md",
-    "APBiology/3/Notes/BILL/Photosynthesis POGIL.md",
-    "APBiology/3/Documents/Teams/11 Photosynthesis-S.pdf"
+    "APBiology/3/Notes/BILL/Photosynthesis POGIL.md"
   ]
 }
