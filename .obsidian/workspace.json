@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Ch8/Cellular Respiration.md",
+                "file": "Biology/Ch8/Photosynthesis.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Ch8/Cellular Respiration.md",
+                "file": "Biology/Ch8/Photosynthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Ch8/Cellular Respiration.md"
+                "file": "Biology/Ch8/Photosynthesis.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "fe8f1b5cede0ed20",
   "lastOpenFiles": [
+    "Biology/Ch8/Index.md",
+    "Biology/Ch8/Energy.md",
+    "Biology/Ch8/Chemical Formulas.md",
+    "Biology/Ch8/Cellular Respiration.md",
     "APBiology/2/Notes/6 - The Cell.md",
     "APBiology/2/Notes/7 - Membranes in the Cell.md",
     "APBiology/3/Notes/BILL/Photosynthesis Chalk Talk.md",
     "Private/college/Additional Questions.md",
     "Private/college/Colleges.md",
-    "Private/duo/build your own adventure/files/1.md",
-    "Private/duo/build your own adventure/Start here.md",
-    "Private/clock.md",
-    "Private/README.md",
-    "Private/college readiness.md"
+    "Private/duo/build your own adventure/files/1.md"
   ]
 }
