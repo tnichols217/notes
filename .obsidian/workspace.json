@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/3/Notes/BILL/Photosynthesis Practice FRQ.md",
-                "mode": "source",
+                "file": "Biology/Ch8/Photosynthesis.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/BILL/Photosynthesis Practice FRQ.md",
+                "file": "Biology/Ch8/Photosynthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/BILL/Photosynthesis Practice FRQ.md"
+                "file": "Biology/Ch8/Photosynthesis.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "7af67721b54b15cf",
   "lastOpenFiles": [
-    "Private/college/Additional Questions.md",
-    "Private/college/Colleges.md",
     "Biology/Ch8/Cellular Respiration.md",
     "Biology/Ch8/Photosynthesis.md",
+    "APBiology/3/Notes/BILL/Photosynthesis Practice FRQ.md",
+    "Private/college/Additional Questions.md",
+    "Private/college/Colleges.md",
     "Biology/Ch8/Index.md",
     "Biology/Ch8/Energy.md",
     "Biology/Ch8/Chemical Formulas.md",
     "APBiology/2/Notes/6 - The Cell.md",
-    "APBiology/2/Notes/7 - Membranes in the Cell.md",
-    "APBiology/3/Notes/BILL/Photosynthesis Chalk Talk.md"
+    "APBiology/2/Notes/7 - Membranes in the Cell.md"
   ]
 }
