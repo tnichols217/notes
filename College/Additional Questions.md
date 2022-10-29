@@ -170,8 +170,7 @@
 	🟨
 
 
-- [ ] a
-- v
+
 
 
 # Brown University
