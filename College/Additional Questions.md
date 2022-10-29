@@ -88,7 +88,7 @@
 5. What brings you joy?* (50 words)
 
 > [!para]
-> Being able to serve and benefit other people brings me joy. For example, when I went on a mission trip to Perak to the natives to help teach them English and coding, it brought me joy because I felt like I made a difference and bettered other people.
+> Being able to serve and benefit other people brings me joy. For example, when I went on a mission trip to Perak to the indigenous to help teach them English and coding, it brought me joy because I felt like I made a difference and bettered other people.
 
 6. What song represents the soundtrack of your life at this moment?* (50 words)
 
