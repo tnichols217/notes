@@ -117,7 +117,7 @@
 3. A hallmark of the Columbia experience is being able to learn and thrive in an equitable and inclusive community with a wide range of perspectives. Tell us about an aspect of your own perspective, viewpoint or lived experience that is important to you, and describe how it has shaped the way you would learn from and contribute to Columbia’s diverse and collaborative community. (200 words)
 
 > [!para]
-> Being able to serve others is a really important part of my life. Recently I got to go on a mission trip to the natives in Perak. Whilst I was serving there, teaching English and some basic coding, I learned that the people there were happy with whatever you gave them. Getting to know them and see how they live and how they view the world deeply impacted my own perspective. They taught me how important a community is to living not only a satisfying but also an effective life. They've taught me how important it is for me myself to contribute to the community in a beneficial manner. Columbia's community around Computer Science will have a similar impact on me, one that will challenge what I already believe in a positive environment. I too, will bring an encouraging nature and positive lookout, knowing how important it is for a community to thrive.
+> Being able to serve others is a really important part of my life. Recently I got to go on a mission trip to the indigenous in Perak. Whilst I was serving there, teaching English and some basic coding, I learned that the people there were happy with whatever you gave them. Getting to know them and see how they live and how they view the world deeply impacted my own perspective. They taught me how important a community is to living not only a satisfying but also an effective life. They've taught me how important it is for me myself to contribute to the community in a beneficial manner. Columbia's community around Computer Science will have a similar impact on me, one that will challenge what I already believe in a positive environment. I too, will bring an encouraging nature and positive lookout, knowing how important it is for a community to thrive.
 
 4. Why are you interested in attending Columbia University? We encourage you to consider the aspect(s) that you find unique and compelling about Columbia. (200 words)
   
@@ -131,7 +131,7 @@
 6. In Columbia’s admissions process, we value who you are as a unique individual, distinct from your goals and achievements. In the last words of this writing supplement, we would like you to reflect on a source of happiness. Help us get to know you further by describing the first thing that comes to mind when you consider what simply brings you joy. (35 words)
 
 > [!para]
-> Building others up brings me joy. Whether it be teaching natives how to code or writing study guides for my fellow AP Biology classmates, being able to help and serve others makes me happy.
+> Building others up brings me joy. Whether it be teaching the indigenous how to code or writing study guides for my fellow AP Biology classmates, being able to help and serve others makes me happy.
 
 # Duke University
 ## QB Supplement
