@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04b770a8f24c4ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/Colleges.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96df6107c1c3a8b1",
+            "id": "24b668d1f7e77635",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "24b668d1f7e77635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/Colleges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7af67721b54b15cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Ch8/Photosynthesis.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66c6572cace7c28c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/3/Notes/BILL/Photosynthesis Practice FRQ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe8f1b5cede0ed20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Ch8/Cellular Respiration.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/Colleges.md",
+                "file": "College/Additional Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/Colleges.md"
+                "file": "College/Additional Questions.md"
               }
             }
           },
@@ -187,11 +126,11 @@
   },
   "active": "24b668d1f7e77635",
   "lastOpenFiles": [
+    "College/Colleges.md",
     "College/Additional Questions.md",
     "College/Additional Questions.pdf",
     "Private/college/Expenses.md",
     "Private/college/QB Essay 1 Brainstorm.md",
-    "Private/college/Colleges.md",
     "Biology/Ch8/Cellular Respiration.md",
     "APBiology/3/Notes/BILL/Photosynthesis Practice FRQ.md",
     "Biology/Ch8/Photosynthesis.md",
