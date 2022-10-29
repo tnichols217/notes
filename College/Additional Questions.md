@@ -66,7 +66,7 @@
 1. Briefly elaborate on an activity, organisation, work experience, or hobby that has been particularly meaningful to you. (150 words)
 
 > [!para]
-> I have been coding for a fairly long time, but only recently been interested in joining the Open Source community. Fairly recently, I my first open source project that I am truly proud of: obsidian-columns. Coding as a hobby and now trying to contribute to the Open Source community is meaningful to me as it not only gives me a new perspective on how to code and collaborate with others, but also how to manage and communicate with the end users. It has also allowed me to explore more specifics in the field of Computer Science to figure out which areas I'm more interested in.
+> I have been coding for a fairly long time, but only recently been interested in joining the Open Source community. Fairly recently, I began my first open source project that I am truly proud of: obsidian-columns. Coding as a hobby and now trying to contribute to the Open Source community is meaningful to me as it not only gives me a new perspective on how to code and collaborate with others, but also how to manage and communicate with the end users. It has also allowed me to explore more specifics in the field of Computer Science to figure out which areas I'm more interested in.
 
 2. At Princeton, we value diverse perspectives and the ability to have respectful dialogue about difficult issues. Share a time when you had a conversation with a person or a group of people about a difficult topic. What insight did you gain, and how would you incorporate that knowledge into your thinking in the future?* (250 words)
 
