@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "bef418debf5b8c70",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb6d2c73d4bf038f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Additional Questions.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -137,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
