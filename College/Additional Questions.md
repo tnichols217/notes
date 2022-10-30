@@ -168,7 +168,7 @@
 2. Based upon your exploration of Rice University, what elements of the Rice experience appeal to you? (150 words)
 
 > [!para]
-> Rice's multitude of clubs and activities attract the curious side of me. Whether it be aeronautics, jazz, or bioengineering, I know that Rice has a variety of options that would not only quench my curiosity, but also tease me at the opportunity of getting to explore new and novel activities. The appreciation for art baked into Rice's culture deeply aligns with my own appreciation, being an art student and enjoier myself. 
+> Rice's multitude of clubs and activities attract the curious side of me. Whether it be aeronautics, jazz, or bioengineering, I know that Rice has a variety of options that would not only quench my curiosity, but also tease me at the opportunity of getting to explore new and novel activities. The appreciation for art baked into Rice's culture deeply aligns with my own appreciation, being an art student and enjoyer myself. 
 
 3. Rice is lauded for creating a collaborative atmosphere that enhances the quality of life for all members of our campus community. The Residential College System and undergraduate life are heavily influenced by the unique life experiences and cultural tradition each student brings. What life perspectives would you contribute to the Rice community? (500 words)
 
