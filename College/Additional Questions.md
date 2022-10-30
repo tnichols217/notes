@@ -185,7 +185,8 @@ Malaysia has strict lockdowns during COVID-19, allowing students to be in school
 
 3. Brown students care deeply about their work and the world around them. Students find contentment, satisfaction, and meaning in daily interactions and major discoveries. Whether big or small, mundane or spectacular, tell us about something that brings you joy. (250 words)
 
-	🟩
+> [!para]
+> Being able to serve and benefit other people brings me joy. For example, when I went on a mission trip to Perak to the indigenous to help teach them English and coding, it brought me joy because I felt like I made a difference and bettered other people.
 
 # University of Penn
 ## QB Supplement
