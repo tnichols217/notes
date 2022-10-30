@@ -182,6 +182,9 @@
 
 2. Brown’s culture fosters a community in which students challenge the ideas of others and have their ideas challenged in return, promoting a deeper and clearer understanding of the complex issues confronting society. This active engagement in dialogue is as present outside the classroom as it is in academic spaces. Tell us about a time you were challenged by a perspective that differed from your own. How did you respond? (250 words)
 
+> [!para]
+> 
+
 	🟨
 
 3. Brown students care deeply about their work and the world around them. Students find contentment, satisfaction, and meaning in daily interactions and major discoveries. Whether big or small, mundane or spectacular, tell us about something that brings you joy. (250 words)
