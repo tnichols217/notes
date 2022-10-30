@@ -17,7 +17,27 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "674c3b49b1df8cb8"
+          }
+        ]
+      },
+      {
+        "id": "bef418debf5b8c70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6d2c73d4bf038f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College/Additional Questions.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "674c3b49b1df8cb8"
           }
         ]
       }
@@ -124,7 +144,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "24b668d1f7e77635",
+  "active": "fb6d2c73d4bf038f",
   "lastOpenFiles": [
     "College/Colleges.md",
     "College/Additional Questions.md",
