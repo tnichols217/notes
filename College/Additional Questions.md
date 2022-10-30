@@ -181,9 +181,7 @@ Malaysia has strict lockdowns during COVID-19, allowing students to be in school
 2. Brown’s culture fosters a community in which students challenge the ideas of others and have their ideas challenged in return, promoting a deeper and clearer understanding of the complex issues confronting society. This active engagement in dialogue is as present outside the classroom as it is in academic spaces. Tell us about a time you were challenged by a perspective that differed from your own. How did you respond? (250 words)
 
 > [!para]
-> 
-
-	🟨
+> I once was having a conversation with a few friends on how different people use computers differently. We covered topics such as privacy, accessibility, design vs. function, and productivity/efficiency. Although all of us were programmers on some level, we all viewed computers different even with respect to software development. Me, leaning more to the side of believing that privacy is important to respect, customisation and fine tuning are important for increasing productivity, and function should always come first before form disagreed often with a friend who believed that privacy should be given up for convenience, customisation is not important for the end-user, and that design is key to good function. This really opened my eyes to seeing no matter how similar we were in what we were aiming to do, our methods of getting there and our mentalities along the way were vastly different. I learned that not everyone cares about optimising their workflow for themselves and that often designing something that has visual appeal and simplicity appeals to most people rather than a complicated more powerful alternative. I can apply this to anything I create, now that I understand that people have vastly different workflows for accomplishing similar tasks.
 
 3. Brown students care deeply about their work and the world around them. Students find contentment, satisfaction, and meaning in daily interactions and major discoveries. Whether big or small, mundane or spectacular, tell us about something that brings you joy. (250 words)
 
