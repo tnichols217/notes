@@ -10,7 +10,8 @@
 
 2. Please tell us if aspects of your identity have been a barrier to educational access and opportunity. (150 words)
 
-	🟥
+> [!para]
+> I have been very privileged and grateful to have what I have. A school that my family would not have been able to afford if not for my parents working there. A geographical location where I can experience different cultures and serve. My school/environment is one that champions equality and kindness. When I perform exceptionally better than my classmates, it must be kept quiet as to not upset my other classmates and therefore discourages them. Awards should be given to the seniors in my class as I am often the youngest, having skipped a grade, or several grades in some classes. Awards are also often given to the most improved and not to the ones that excel from the very beginning.  While I agree that we should be kind and encouraging, I believe that acknowledging and encouraging the ones who excel is equally important.
 
 ## Additional Information
 ### Academic Interest
