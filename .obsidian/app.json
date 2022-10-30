@@ -17,5 +17,8 @@
   "spellcheckDictionary": [
     "Sus",
     "M7M"
+  ],
+  "spellcheckLanguages": [
+    "en-US"
   ]
 }

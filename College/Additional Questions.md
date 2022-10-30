@@ -153,7 +153,8 @@
 
 2. What is it about Yale that has led you to apply? (125 words)
 
-	🟨
+> [!para]
+> Yale's community centered around both acceptance and and 
 
 # Rice University
 ## QB Supplement
