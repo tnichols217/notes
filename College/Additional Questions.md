@@ -173,10 +173,6 @@
 
 	🟨
 
-
-
-
-
 # Brown University
 ## QB Supplement
 1. Brown’s Open Curriculum allows students to explore broadly while also diving deeply into their academic pursuits. Tell us about any academic interests that excite you, and how you might use the Open Curriculum to pursue them while also embracing topics with which you are unfamiliar. (250 words)
