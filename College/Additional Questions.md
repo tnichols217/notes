@@ -168,7 +168,7 @@
 2. Based upon your exploration of Rice University, what elements of the Rice experience appeal to you? (150 words)
 
 > [!para]
-> Rice's 
+> Rice's multitude of clubs and activities 
 
 3. Rice is lauded for creating a collaborative atmosphere that enhances the quality of life for all members of our campus community. The Residential College System and undergraduate life are heavily influenced by the unique life experiences and cultural tradition each student brings. What life perspectives would you contribute to the Rice community? (500 words)
 
