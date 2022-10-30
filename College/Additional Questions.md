@@ -154,7 +154,7 @@
 2. What is it about Yale that has led you to apply? (125 words)
 
 > [!para]
-> Yale's community centered around both acceptance and and excellence has driven me to want to be a part of Yale. Having a culture of inclusivity removes the discomfort I get from migrating to a completely novel culture and location. Yale's strong dedication to academics including in the Computer Science field and its 
+> Yale's community centered around both acceptance and and excellence has driven me to want to be a part of Yale. Having a culture of inclusivity removes the discomfort I get from migrating to a completely novel culture and location. Yale's strong dedication to academics including within the Computer Science field and its 
 
 # Rice University
 ## QB Supplement
