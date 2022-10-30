@@ -188,6 +188,8 @@ Malaysia has strict lockdowns during COVID-19, allowing students to be in school
 > [!para]
 > Being able to serve and benefit other people brings me joy. For example, when I went on a mission trip to Perak to the indigenous to help teach them English and coding, it brought me joy because I felt like I made a difference and bettered other people.
 
+	🌮
+
 # University of Penn
 ## QB Supplement
 1. Write a short thank-you note to someone you have not yet thanked and would like to acknowledge. (We encourage you to share this note with that person, if possible, and reflect on the experience! ) (200 words)
