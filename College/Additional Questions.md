@@ -220,8 +220,6 @@
 
 	🟩
 
-2. Tell us how you would use this combined degree to explore the intersection of these two disciplines? (Joint program in Business and Computer Science)
+2. Tell us how you would use this combined degree to explore the intersection of these two disciplines? (Joint program in Business and Computer Science) (200 words)
 
 	🟨
-
-a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a 
