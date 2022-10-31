@@ -6,8 +6,6 @@
 > [!para]
 > Born to an American father and Malaysian mother, I have grown up understanding and balancing different cultures. My parents teach in a non-profit American international school in Malaysia where I am privileged to attend along with peers from over 25 nations. I have learned that unity and harmony exist from understanding and not tolerance. Tolerance suggests enduring something while understanding implies the exact opposite. Existing in harmony within a community of different beliefs and practices is possible. Once, the school rolled out a personality test that groups personalities by colors. That made me understand why some “blue” teachers can spend a whole block on feelings, and why my “green” principle is goal-oriented and unapproachable. It doesn’t mean that the blue teacher is not focused on academics or the green principle is uncaring. I see culture similarly, if I understand the “personalities” of culture, there is no real conflict.
 
-	🟥🟥
-
 2. Please tell us if aspects of your identity have been a barrier to educational access and opportunity. (150 words)
 
 > [!para]
