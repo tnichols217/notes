@@ -213,7 +213,7 @@
 1. Help us understand how you might engage specific resources, opportunities, and/or communities here. We are curious about what these specifics are, as well as how they may enrich your time at Northwestern and beyond. (300 words)
 
 > [!para]
-> I am excited to take part in Northwestern's excellent research culture and sense of community. Whether I have hobbies in art, music, or computer science, I know that there is a place at Northwestern for me. The sense of community and a common interest in wanting to grow yet have fun gravitates me to this great school. The appreciation for the arts especially appeal to me, being an art student. I wish to further my studies in art along with computer science and the appreciation and skill Northwestern has a
+> I am excited to take part in Northwestern's excellent research culture and sense of community. Whether I have hobbies in art, music, or computer science, I know that there is a place at Northwestern for me. The sense of community and a common interest in wanting to grow yet have fun gravitates me to this great school. The appreciation for the arts especially appeal to me, being an art student. I wish to further my studies in art along with computer science and the appreciation and skill Northwestern has at both 
 > 
 > As I plan to study Computer Science as my major, Northwestern provides one of the best course offerings in the world, and I want to be a part of that. I strive to achieve more and grow in many different fields and Northwestern is the key to accomplishing that.
 
