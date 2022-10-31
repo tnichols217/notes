@@ -213,7 +213,7 @@
 1. Help us understand how you might engage specific resources, opportunities, and/or communities here. We are curious about what these specifics are, as well as how they may enrich your time at Northwestern and beyond. (300 words)
 
 > [!para]
-> I am excited to take part in Northwestern's excellent research culture and sense of community. Whether I have hobbies in art, music, or computer science, I know that theres a pl
+> I am excited to take part in Northwestern's excellent research culture and sense of community. Whether I have hobbies in art, music, or computer science, I know that there is a place at Northwestern for me. The sense of community and a common interest in wanting to grow yet have fun attracts me to 
 
 # Washington U
 ## QB Supplement
