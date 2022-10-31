@@ -89,14 +89,14 @@
 5. What brings you joy?* (50 words)
 
 > [!para]
-> Being able to serve and benefit other people brings me joy. For example, when I went on a mission trip to Perak to the indigenous to help teach them English and coding, it brought me joy because I felt like I made a difference and bettered other people.
+> Being able to serve, make an impact or benefit other people brings me joy. For example, teaching the children and helping out the community in the indigenous villages brought me joy. I will be truly joyful when I hear that the boy I have been coaching passes his GED.
 
 6. What song represents the soundtrack of your life at this moment?* (50 words)
 
 > [!para]
 > 100 Bad Days by AJR
 > 
-> The song talks about bad things in the past can be seen in a good light no matter what. Even though life is stressful for me at the moment, I know that no matter what I can look at it in a positive light.
+> The song talks about how challenges in life can have positive outcomes. I see challenges as a trial and I’ll come out stronger. Father just came out of surgery from an accident. I stayed home to care for him, a blessing spending time with him.
 
 # Columbia University
 ## Writing Supplement
