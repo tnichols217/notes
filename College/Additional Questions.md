@@ -212,7 +212,8 @@
 ## QB Supplement
 1. Help us understand how you might engage specific resources, opportunities, and/or communities here. We are curious about what these specifics are, as well as how they may enrich your time at Northwestern and beyond. (300 words)
 
-	🟨
+> [!para]
+> 
 
 # Washington U
 ## QB Supplement
