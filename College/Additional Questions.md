@@ -215,7 +215,7 @@
 > [!para]
 > I am excited to take part in Northwestern's excellent research culture and sense of community. Whether I have hobbies in art, music, or computer science, I know that there is a place at Northwestern for me. The sense of community and a common interest in wanting to grow yet have fun gravitates me to this great school. 
 > 
-> As I plan to study Computer Science as my major, Northwestern provides one of the best course offerings in the world
+> As I plan to study Computer Science as my major, Northwestern provides one of the best course offerings in the world, and I want to be a part of that. I strive to accomplish more and gr
 
 # Washington U
 ## QB Supplement
