@@ -201,7 +201,8 @@
 
 2. How will you explore community at Penn? Consider how Penn will help shape your perspective and identity, and how your identity and perspective will help shape Penn. (200 words)
 
-	🟨
+> [!para]
+> 
 
 3. Considering the specific undergraduate school you have selected, describe how you intend to explore your academic and intellectual interests at the University of Pennsylvania. (200 words)
 
