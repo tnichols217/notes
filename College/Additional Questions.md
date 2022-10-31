@@ -188,7 +188,7 @@
 > [!para]
 > Being able to serve and benefit other people brings me joy. For example, when I went on a trip to the indigenous in Perak to teach them English and coding. It brought me joy because I felt like I made a difference and bettered other people. I enjoy serving in almost any circumstance whether it be picking up trash around my city, or running any tech related items such as audio and video processing for my church. 
 > 
-> I find joy in the completion of things
+> I find joy in the completion of things. Whether reaching a small milestone or completing a large project, I recieve 
 
 	🌮
 
