@@ -202,7 +202,7 @@
 2. How will you explore community at Penn? Consider how Penn will help shape your perspective and identity, and how your identity and perspective will help shape Penn. (200 words)
 
 > [!para]
-> 
+> Being able to serve others is a really important part of my life. Recently I got to go on a mission trip to the indigenous in Perak. Whilst I was serving there, teaching English and some basic coding, I learned that the people there were happy with whatever you gave them. Getting to know them and see how they live and how they view the world deeply impacted my own perspective. They taught me how important a community is to living not only a satisfying but also an effective life. They've taught me how important it is for me myself to contribute to the community in a beneficial manner. Columbia's community around Computer Science will have a similar impact on me, one that will challenge what I already believe in a positive environment. I too, will bring an encouraging nature and positive lookout, knowing how important it is for a community to thrive.
 
 3. Considering the specific undergraduate school you have selected, describe how you intend to explore your academic and intellectual interests at the University of Pennsylvania. (200 words)
 
