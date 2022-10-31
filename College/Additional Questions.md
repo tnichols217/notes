@@ -141,8 +141,6 @@
 > [!para]
 > Duke is a university that is not only inclusive and honorable, but also one of high standards. Having a positive culture is deeply correlated with the success of its community, and Duke's culture would only cultivate innovation and growth within me. Having a supportive and accepting community allows me to not be worried about how I'll fit in at Duke, and instead be able to focus on academic excellence yet still manage a balanced socio-academic balance. As I look for a place for me to freely learn, research, and improve in the field of Computer Science, Duke's dedication to innovation is a great motivator for me to want to be a part of this community.
 
-	🌮
-
 # Yale University
 ## QB Supplement
 1. Tell us about a topic or idea that excites you and is related to one or more academic areas you selected above. Why are you drawn to it? (200 words)
