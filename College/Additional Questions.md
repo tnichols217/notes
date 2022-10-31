@@ -94,9 +94,10 @@
 6. What song represents the soundtrack of your life at this moment?* (50 words)
 
 > [!para]
-> 100 Bad Days by AJR
+> 100 Bad Days
+> AJR
 > 
-> This song talks about how challenges in life have positive outcomes. I see challenges as a trial and I’ll come out stronger. Father just came out of surgery from an accident; I stayed home to care for him, a blessing spending time with him.
+> This song talks about how challenges in life have positive outcomes. I see challenges as a trial and I’ll come out stronger. Father just came out of surgery from an accident; I stayed home to care for him: a blessing spending time with him.
 
 # Columbia University
 ## Writing Supplement
