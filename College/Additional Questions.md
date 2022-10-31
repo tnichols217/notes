@@ -214,7 +214,7 @@
 
 3. Considering the specific undergraduate school you have selected, describe how you intend to explore your academic and intellectual interests at the University of Pennsylvania. (200 words)
 
-	🟨
+	:green
 
 # Northwestern
 ## QB Supplement
