@@ -66,7 +66,7 @@
 	1. activity 1 (200 words)
 
 > [!para]
-> A couple of years ago me and a couple friends participated in the Young Inventor's Challenge, where we were challenged to create any kind of invention. Our group decided to investigate Piezoelectricity, or electricity generated when striking a quartz crystal, and how it could be used to sustain low powered electronic systems. Although the experiment ultimately was a fail, we learned that before attempting to build a life scale version of the project, to always run tests on a smaller batch first. We greatly overestimated the piezoelectric 
+> A couple of years ago me and a couple friends participated in the Young Inventor's Challenge, where we were challenged to create any kind of invention. Our group decided to investigate Piezoelectricity, or electricity generated when striking a quartz crystal, and how it could be used to sustain low powered electronic systems. Although the experiment ultimately was a fail, we learned that before attempting to build a life scale version of the project, to always run tests on a smaller batch first. We greatly overestimated the piezoelectric effect, making the entire project unsustainable as the amount of effort required 
 
 	2. activity 2 (200 words)
 
