@@ -55,6 +55,8 @@
 > [!para]
 > Coming home from preschool, three year old me would marvel at how our family laptop would handle my father’s input. Whether it was creating spreadsheets or reading e-mail, there was nothing about it that didn’t intrigue me. I have remained endlessly curious, wanting to discover yet also create. When it was my mother's turn to use the laptop, I vividly remember her vibrant brushstrokes swirling across the screen as she used Adobe Photoshop. Computer Science was the avenue for me to continue down this road. It has allowed me to explore, learn new things, solve problems, and create masterpieces much like those my mother created with Photoshop. 
 > 
+> 
+> 
 > At MIT, I will be amongst brilliant minds and a culture that supports and encourages high learning. I will finally be allowed to soar without being pulled back. Allow me to spread my wings at your esteemed institution.
 
 	🟩
