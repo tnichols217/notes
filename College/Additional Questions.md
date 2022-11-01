@@ -66,7 +66,14 @@
 ### Academics
 1. Please describe why you are interested in studying engineering at Princeton. Include any of your experiences in, or exposure to engineering, and how you think the programs offered at the University suit your particular interests. (250 words)
 
-	🟩
+> [!para]
+> Coming home from preschool, three year old me would marvel at how our family laptop would handle my father’s input. Whether it was creating spreadsheets or reading e-mail, there was nothing about it that didn’t intrigue me. I have remained endlessly curious, wanting to discover yet also create. When it was my mother's turn to use the laptop, I vividly remember her vibrant brushstrokes swirling across the screen as she used Adobe Photoshop. Computer Science was the avenue for me to continue down this road. It has allowed me to explore, learn new things, solve problems, and create masterpieces much like those my mother created with Photoshop. 
+> 
+> Ever since I found out that computers needed to be coded in order to function, I made it my mission to do exactly that. Going from knowing nothing to knowing basic programming only took me a couple years unassisted, but such significant delays were completely ineffective on my desire to explore further. Today, I am still exploring further down that road with equal determination, and a formal education would reveal to me where I would like to explore next.
+> 
+> 
+
+	🟩🌮
 
 ### Writing Questions
 1. Briefly elaborate on an activity, organisation, work experience, or hobby that has been particularly meaningful to you. (150 words)
