@@ -66,7 +66,7 @@
 	1. activity 1 (200 words)
 
 > [!para]
-> A couple of years ago me and a couple friends participated in the Young Inventor's Challeng
+> A couple of years ago me and a couple friends participated in the Young Inventor's Challenge
 
 	2. activity 2 (200 words)
 
