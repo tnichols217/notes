@@ -79,6 +79,10 @@
 
 
 
+# Stanford
+## Short Answers
+1. What is the most significant challenge that society faces today?
+
 # Princeton
 ## QB supplement
 ### Academics
