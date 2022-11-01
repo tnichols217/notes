@@ -210,7 +210,7 @@
 > 
 > Ever since I found out that computers needed to be coded in order to function, I made it my mission to do exactly that. Going from knowing nothing to knowing basic programming only took me a couple years unassisted, but such significant delays were completely ineffective on my desire to explore further. Today, I am still exploring further down that road with equal determination, and a formal education would reveal to me where I would like to explore next.
 > 
-> Brown's Open Curriculum will offer a safe space for me to explore different ideas without fear. The wide variety of courses offered and a culture not against change allows me to more easily 
+> Brown's Open Curriculum will offer a safe space for me to explore different ideas without fear. The wide variety of courses offered and a culture not against change allows me to more easily continue down my path of Computer Science.
 
 	🟩🌮
 
