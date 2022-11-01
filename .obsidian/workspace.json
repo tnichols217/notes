@@ -32,24 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a362e6c9ea44d4fa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cbda7707fcf48e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College/Additional Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -149,13 +131,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cbda7707fcf48e85",
+  "active": "24b668d1f7e77635",
   "lastOpenFiles": [
     "Private/college/Expenses.md",
     "College/Additional Questions.md",
