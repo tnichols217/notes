@@ -85,7 +85,7 @@
 ## Short Answers
 1. What is the most significant challenge that society faces today? (50 words)
 
-Tearing itself apart from the inside.
+Tearing itself apart from the inside. I feel like in this era, the largest 
 
 2. How did you spend your last two summers? (50 words)
 
