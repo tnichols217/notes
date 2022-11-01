@@ -85,7 +85,8 @@
 ## Short Answers
 1. What is the most significant challenge that society faces today? (50 words)
 
-> [!paraTearing itself apart from the inside. I feel like in this era, the largest issue would be to get along with each other 
+> [!para]
+> Getting along with each other and other societies as well. Although there are many proposed solu
 
 2. How did you spend your last two summers? (50 words)
 
