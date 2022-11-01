@@ -89,7 +89,7 @@
 5. What brings you joy?* (50 words)
 
 > [!para]
-> Being able to serve, make an impact or benefit other people brings me joy. For example, teaching the children and helping out the community in the indigenous villages brought me joy. I will be truly joyful when I hear that the boy I have been coaching passes his GED.
+> Making an impact in someone’s life brings me much joy but the greatest joy would be the day when my parents are proud of me for using my skills to bring change and impact the community in a positive manner.
 
 6. What song represents the soundtrack of your life at this moment?* (50 words)
 
