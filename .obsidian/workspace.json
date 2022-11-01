@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "College/Additional Questions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
