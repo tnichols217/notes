@@ -82,6 +82,12 @@
 # Stanford
 ## Short Answers
 1. What is the most significant challenge that society faces today?
+2. How did you spend your last two summers?
+3. What historical moment or event do you wish you could have witnessed?
+4. Briefly elaborate on one of your extracurricular activities, a job you hold, or responsibilities you have for your family.
+5. Name one thing you are looking forward to experiencing at Stanford.*
+
+
 
 # Princeton
 ## QB supplement
