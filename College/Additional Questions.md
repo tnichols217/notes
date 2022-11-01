@@ -16,7 +16,7 @@
 1. Tell us more about why this field of study at MIT appeals to you. (100 words)
 
 > [!para]
-> Coming home from preschool, the three year old me would marvel at how our family laptop would handle my father’s input. Whether it be creating spreadsheets, writing documents, or reading e-mail, there was nothing about it that didn’t intrigue me. I have remained endlessly curious, wanting to discover yet also create. Computer Science was the avenue for me to continue down this road. I know that in MIT, I will be amongst brilliant minds and a culture that supports and encourages high learning. I will finally be allowed to soar and not be pulled back. Allow me to spread my wings at your esteemed institution.
+> Coming home from preschool, the three year old me would marvel at how our family laptop would handle my father’s input. Whether it be creating spreadsheets or reading e-mail, there was nothing about it that didn’t intrigue me. I have remained endlessly curious, wanting to discover yet also create. Computer Science was the avenue for me to continue down this road. I know that in MIT, I will be amongst brilliant minds and a culture that supports and encourages high learning. I will finally be allowed to soar and not be pulled back. Allow me to spread my wings at your esteemed institution.
 > 
 > When it was my mother's turn to use the laptop, I vividly remember her vibrant brushstrokes swirling across the screen.
 
