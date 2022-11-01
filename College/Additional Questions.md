@@ -106,7 +106,7 @@
 5. Name one thing you are looking forward to experiencing at Stanford. (50 words)
 
 > [!para]
-> I am looking forward to getting to know people 
+> I am looking forward to getting to meet people with similar interests as me, as here in Penang there 
 
 ## Short Essay
 1. Virtually all of Stanford's undergraduates live on campus. Write a note to your future roommate that reveals something about you or that will help your roommate — and us — get to know you better. (100 to 250 words)
