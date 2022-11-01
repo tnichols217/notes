@@ -63,19 +63,19 @@
 
 ## Essays
 1. At Caltech, we investigate some of the most challenging, fundamental problems in science, technology, engineering, and mathematics. Identify and describe two STEM-related experiences from your high school years, either in or out of the classroom, and tell us how and why they activated your curiosity.  What about them made you want to learn more and explore further?
-	1. activity 1
+	1. activity 1 (200 words)
 
 
 
-	2. activity 2
+	2. activity 2 (200 words)
 
 
 
-2. The creativity, inventiveness, and innovation of Caltech’s students, faculty, and researchers have won [Nobel Prizes](https://www.caltech.edu/about/legacy/awards-and-honors/nobel-laureates) and put [rovers on Mars](https://www.jpl.nasa.gov/), but Teachers also imagine smaller scale innovations every day, from new ways to design solar cells to 3D printing dorm decor. How have you been an innovator in your own life?
+2. The creativity, inventiveness, and innovation of Caltech’s students, faculty, and researchers have won [Nobel Prizes](https://www.caltech.edu/about/legacy/awards-and-honors/nobel-laureates) and put [rovers on Mars](https://www.jpl.nasa.gov/), but Teachers also imagine smaller scale innovations every day, from new ways to design solar cells to 3D printing dorm decor. How have you been an innovator in your own life? (250 words)
 
 
 
-3. The process of discovery is best advanced when people from diverse backgrounds come together to solve the greatest challenges in their fields. How do your past experiences and present-day perspectives inform who you have become and how you navigate the world?
+3. The process of discovery is best advanced when people from diverse backgrounds come together to solve the greatest challenges in their fields. How do your past experiences and present-day perspectives inform who you have become and how you navigate the world? (250 words)
 
 
 
