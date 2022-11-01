@@ -96,11 +96,12 @@
 3. What historical moment or event do you wish you could have witnessed? (50 words)
 
 > [!para]
-> Just a few days ago, Ross Chastain pulled off a successful wall ride in a NASCAR race. I wish I could have seen that in person as it is quite a crazy and abnormal thing to do. It will defin
+> Just a few days ago, Ross Chastain pulled off a successful wall ride in a NASCAR race. I wish I could have seen that in person as it is quite a crazy and abnormal thing to do. It will definitely go down in NASCAR history.
 
 4. Briefly elaborate on one of your extracurricular activities, a job you hold, or responsibilities you have for your family. (50 words)
 
-
+> [!para]
+> 
 
 5. Name one thing you are looking forward to experiencing at Stanford. (50 words)
 
