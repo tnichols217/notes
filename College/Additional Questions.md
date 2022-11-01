@@ -65,7 +65,8 @@
 1. At Caltech, we investigate some of the most challenging, fundamental problems in science, technology, engineering, and mathematics. Identify and describe two STEM-related experiences from your high school years, either in or out of the classroom, and tell us how and why they activated your curiosity.  What about them made you want to learn more and explore further?
 	1. activity 1 (200 words)
 
-
+> [!para]
+> 
 
 	2. activity 2 (200 words)
 
