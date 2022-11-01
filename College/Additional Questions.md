@@ -91,7 +91,7 @@
 2. How did you spend your last two summers? (50 words)
 
 > [!para]
-> I spent most of my time in the first summer coding due to covid, but spent the remaining time cycling with my friends and working out (as exercise wasn't restricted in Malaysia). The second summer I spent serving the Rohyinga primarily, but also coded and rockclimbed
+> I spent most of my time in the first summer coding due to covid, but spent the remaining time cycling with my friends and working out (as exercise wasn't restricted in Malaysia). The second summer I spent serving the Rohyingan refugees primarily, but also coded and rockclimbed.
 
 3. What historical moment or event do you wish you could have witnessed? (50 words)
 
