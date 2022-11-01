@@ -18,8 +18,6 @@
 > [!para]
 > Coming home from preschool, the three year old me would marvel at how our family laptop would handle my father’s input. Whether it be creating spreadsheets, writing documents, or reading e-mail, there was nothing about it that didn’t intrigue me. I have remained endlessly curious, wanting to discover yet also create. Computer Science offered an avenue for me to continue down this road. I know that in MIT, I will be amongst brilliant minds and a culture that supports and encourage high learning. I will finally be allowed to soar and not be pulled back. Allow me to spread my wings at your esteemed institution.
 > 
-> Everyday when I came home from preschool, three year old me would marvel at how our family laptop would handle my father's inputs. Whether it be creating spreadsheets, writing documents, or reading e-mail, there was nothing about it that didn't intrigue me. Ever since, I have remained endlessly curious, wanting to discover yet also create. Computer Science offered an avenue for me to continue down this road. Just as I have been struck with awe all those years back, MIT would offer a similar excitement for me now, driving a whole new era of inspiration and motivation.
-> 
 > When it was my mother's turn to use the laptop, I vividly remember her vibrant brushstrokes swirling across the screen.
 
 	 🌮🟩
