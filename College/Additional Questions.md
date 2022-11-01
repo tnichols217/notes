@@ -231,7 +231,7 @@
 ## QB Supplement
 1. Please tell us what you are interested in studying at college and why. (200 words)
 
-	🟩
+	🟩🟩
 
 2. Tell us how you would use this combined degree to explore the intersection of these two disciplines? (Joint program in Business and Computer Science) (200 words)
 
