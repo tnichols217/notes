@@ -86,7 +86,7 @@
 1. What is the most significant challenge that society faces today? (50 words)
 
 > [!para]
-> Getting along with each other and other societies as well. Although there are many proposed solutions to getting along, such as political correctness or freedom of speech, to me it appears
+> Getting along with each other and other societies as well. Although there are many proposed solutions to getting along, such as political correctness or freedom of speech, to me it appears as if these band-aids don't actually solve the problem.
 
 2. How did you spend your last two summers? (50 words)
 
