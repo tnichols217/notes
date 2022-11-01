@@ -138,6 +138,11 @@
 
 5. Please tell us what from your current and past experiences (either academic or personal) attracts you specifically to the areas of study that you previously noted in the Academic Information section. (200 words)
 
+> [!para]
+> Coming home from preschool, three year old me would marvel at how our family laptop would handle my father’s input. Whether it was creating spreadsheets or reading e-mail, there was nothing about it that didn’t intrigue me. I have remained endlessly curious, wanting to discover yet also create. When it was my mother's turn to use the laptop, I vividly remember her vibrant brushstrokes swirling across the screen as she used Adobe Photoshop. Computer Science was the avenue for me to continue down this road. It has allowed me to explore, learn new things, solve problems, and create masterpieces much like those my mother created with Photoshop. 
+> 
+> Ever since I found out that computers needed to be coded in order to function, I made it my mission to do exactly that. Going from knowing nothing to knowing basic programming only took me a couple years unassisted, but such significant delays were completely ineffective on my desire to explore further. Today, I am still exploring further down that road with equal determination, and a formal education would reveal to me where I would like to explore next.
+
 	🟩🟩
 
 6. In Columbia’s admissions process, we value who you are as a unique individual, distinct from your goals and achievements. In the last words of this writing supplement, we would like you to reflect on a source of happiness. Help us get to know you further by describing the first thing that comes to mind when you consider what simply brings you joy. (35 words)
