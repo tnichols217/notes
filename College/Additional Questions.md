@@ -71,7 +71,7 @@
 > 
 > Ever since I found out that computers needed to be coded in order to function, I made it my mission to do exactly that. Going from knowing nothing to knowing basic programming only took me a couple years unassisted, but such significant delays were completely ineffective on my desire to explore further. Today, I am still exploring further down that road with equal determination, and a formal education would reveal to me where I would like to explore next.
 > 
-> 
+> Princeton offers a multitude of courses for the Computer Science Major, 
 
 	🟩🌮
 
