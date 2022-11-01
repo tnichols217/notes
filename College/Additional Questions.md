@@ -185,7 +185,7 @@
 ## QB Supplement
 1. Brown’s Open Curriculum allows students to explore broadly while also diving deeply into their academic pursuits. Tell us about any academic interests that excite you, and how you might use the Open Curriculum to pursue them while also embracing topics with which you are unfamiliar. (250 words)
 
-	🟩
+	🟩Everyday when I came home from preschool, three year old me would marvel at how our family laptop would handle my father's inputs. Whether it be creating spreadsheets, writing documents, or reading e-mail, there was nothing about it that didn't intrigue me. Ever since, I have remained endlessly curious, wanting to discover yet also create. Computer Science offered an avenue for me to continue down this road. Just as I have been struck with awe all those years back, MIT would offer a similar excitement for me now, driving a whole new era of inspiration and motivation.
 
 2. Brown’s culture fosters a community in which students challenge the ideas of others and have their ideas challenged in return, promoting a deeper and clearer understanding of the complex issues confronting society. This active engagement in dialogue is as present outside the classroom as it is in academic spaces. Tell us about a time you were challenged by a perspective that differed from your own. How did you respond? (250 words)
 
