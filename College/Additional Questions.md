@@ -16,7 +16,7 @@
 1. Tell us more about why this field of study at MIT appeals to you. (100 words)
 
 > [!para]
-> Everyday when I came home from preschool, three year old me would marvel at how our family laptop would handle my father's inputs. Whether it be creating spreadsheets, writing documents, or reading e-mail, there was nothing about it that didn't intrigue me. Ever since, I have remained endlessly curious, wanting to discover yet also create. Just as I have been struck with awe all those years back, MIT would offer a similar excitement for me now, driving a whole new era of inspiration and motivation.
+> Everyday when I came home from preschool, three year old me would marvel at how our family laptop would handle my father's inputs. Whether it be creating spreadsheets, writing documents, or reading e-mail, there was nothing about it that didn't intrigue me. Ever since, I have remained endlessly curious, wanting to discover yet also create; I . Just as I have been struck with awe all those years back, MIT would offer a similar excitement for me now, driving a whole new era of inspiration and motivation.
 > 
 > When it was my mother's turn to use the laptop, I vividly remember her vibrant brushstrokes swirling across the screen.
 
