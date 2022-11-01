@@ -70,7 +70,8 @@
 
 	2. activity 2 (200 words)
 
-
+> [!para]
+> This year, 
 
 2. The creativity, inventiveness, and innovation of Caltech’s students, faculty, and researchers have won Nobel Prizes and put rovers on Mars, but Teachers also imagine smaller scale innovations every day, from new ways to design solar cells to 3D printing dorm decor. How have you been an innovator in your own life? (250 words)
 
