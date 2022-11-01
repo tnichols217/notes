@@ -66,7 +66,7 @@
 	1. activity 1 (200 words)
 
 > [!para]
-> A couple of years ago me and a couple friends participated in the Young Inventor's Challenge, where we were challenged to create any kind of invention. Our group decided to investigate Piezoelectricity, or electricity generated when striking a quartz crystal, and how it could be used to sustain 
+> A couple of years ago me and a couple friends participated in the Young Inventor's Challenge, where we were challenged to create any kind of invention. Our group decided to investigate Piezoelectricity, or electricity generated when striking a quartz crystal, and how it could be used to sustain low powered 
 
 	2. activity 2 (200 words)
 
