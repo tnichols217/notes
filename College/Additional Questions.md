@@ -95,7 +95,8 @@
 
 3. What historical moment or event do you wish you could have witnessed? (50 words)
 
-> [!]
+> [!para]
+> 
 
 4. Briefly elaborate on one of your extracurricular activities, a job you hold, or responsibilities you have for your family. (50 words)
 
