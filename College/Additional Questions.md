@@ -136,7 +136,7 @@
 
 5. Please tell us what from your current and past experiences (either academic or personal) attracts you specifically to the areas of study that you previously noted in the Academic Information section. (200 words)
 
-	🟩:green
+	🟩🟩
 
 6. In Columbia’s admissions process, we value who you are as a unique individual, distinct from your goals and achievements. In the last words of this writing supplement, we would like you to reflect on a source of happiness. Help us get to know you further by describing the first thing that comes to mind when you consider what simply brings you joy. (35 words)
 
@@ -168,7 +168,7 @@
 ## QB Supplement
 1. Please explain why you wish to study in the academic areas you selected above. (150 words)
 
-	🟩
+	🟩🟩
 
 2. Based upon your exploration of Rice University, what elements of the Rice experience appeal to you? (150 words)
 
