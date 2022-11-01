@@ -81,13 +81,17 @@
 
 # Stanford
 ## Short Answers
-1. What is the most significant challenge that society faces today?
-2. How did you spend your last two summers?
-3. What historical moment or event do you wish you could have witnessed?
-4. Briefly elaborate on one of your extracurricular activities, a job you hold, or responsibilities you have for your family.
-5. Name one thing you are looking forward to experiencing at Stanford.*
+1. What is the most significant challenge that society faces today? (50 words)
 
 
+
+2. How did you spend your last two summers? (50 words)
+3. What historical moment or event do you wish you could have witnessed? (50 words)
+4. Briefly elaborate on one of your extracurricular activities, a job you hold, or responsibilities you have for your family. (50 words)
+5. Name one thing you are looking forward to experiencing at Stanford. (50 words)
+
+## Short Essay
+1. Virtually all of Stanford's undergraduates live on campus. Write a note to your future roommate that reveals something about you or that will help your roommate — and us — get to know you better. (100 to 250 words)
 
 # Princeton
 ## QB supplement
