@@ -115,7 +115,7 @@
 > [!para]
 > Browsing GitHub and reading code is my daily religious practice. I often end up in the documentation of obscure unique projects trying to understand their innovative solutions to complex problems in order to sharpen my own skills.
 > 
-> My second love is art. I am amazed how a visual image can evoke such strong emotions on a lean, muscular rock climber, long-distance runner like me. Every chance of a new exhibition, art dialogue with artists, or workshop; I am there. I recently visited Red Hong Yi, an artist who does not paint with a brush. I was impressed with her creativity in using different materials, and even more ecstatic when she in return was impressed with my portfolio and offered me internship on the spot.
+> My second love is art. I am amazed how a visual image can evoke such strong emotions on a lean, muscular rock climber, long-distance runner like me. Every chance of a new exhibition, art dialogue with artists, or workshop, I am there. I recently visited Red Hong Yi, an artist who does not paint with a brush. I was impressed with her creativity in using different materials and even more ecstatic when she in return was impressed with my portfolio and offered me internship on the spot.
 
 3. A hallmark of the Columbia experience is being able to learn and thrive in an equitable and inclusive community with a wide range of perspectives. Tell us about an aspect of your own perspective, viewpoint or lived experience that is important to you, and describe how it has shaped the way you would learn from and contribute to Columbia’s diverse and collaborative community. (200 words)
 
