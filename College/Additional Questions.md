@@ -20,8 +20,6 @@
 > 
 > When it was my mother's turn to use the laptop, I vividly remember her vibrant brushstrokes swirling across the screen.
 
-	 🌮🟩
-
 ### Anything Else?
 1. If there is anything we should know about your school's grading system or course offerings (including disruptions due to COVID-19), please use the space below. (250 words)
 
