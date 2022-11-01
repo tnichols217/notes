@@ -101,7 +101,7 @@
 4. Briefly elaborate on one of your extracurricular activities, a job you hold, or responsibilities you have for your family. (50 words)
 
 > [!para]
-> The tech internship position I hold at my school is both technically a class and an extracurricular. I would spend my time developing school projects and contributing to what get released, as well as 
+> The tech internship position I hold at my school is both technically a class and an extracurricular. I would spend my time developing school projects and contributing to what get released, as well as servicing
 
 5. Name one thing you are looking forward to experiencing at Stanford. (50 words)
 
