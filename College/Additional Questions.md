@@ -17,8 +17,6 @@
 
 > [!para]
 > Coming home from preschool, three year old me would marvel at how our family laptop would handle my father’s input. Whether it was creating spreadsheets or reading e-mail, there was nothing about it that didn’t intrigue me. I have remained endlessly curious, wanting to discover yet also create. Computer Science was the avenue for me to continue down this road. At MIT, I will be amongst brilliant minds and a culture that supports and encourages high learning. I will finally be allowed to soar without being pulled back. Allow me to spread my wings at your esteemed institution.
-> 
-> When it was my mother's turn to use the laptop, I vividly remember her vibrant brushstrokes swirling across the screen.
 
 ### Anything Else?
 1. If there is anything we should know about your school's grading system or course offerings (including disruptions due to COVID-19), please use the space below. (250 words)
@@ -53,6 +51,13 @@
 	🌮
 
 3. Why did you choose that area of interest? (200 words)
+
+> [!para]
+> Coming home from preschool, three year old me would marvel at how our family laptop would handle my father’s input. Whether it was creating spreadsheets or reading e-mail, there was nothing about it that didn’t intrigue me. I have remained endlessly curious, wanting to discover yet also create. Computer Science was the avenue for me to continue down this road. 
+> 
+> At MIT, I will be amongst brilliant minds and a culture that supports and encourages high learning. I will finally be allowed to soar without being pulled back. Allow me to spread my wings at your esteemed institution.
+> 
+> When it was my mother's turn to use the laptop, I vividly remember her vibrant brushstrokes swirling across the screen.
 
 	🟩
 
