@@ -113,7 +113,7 @@
 2. We’re interested in learning about some of the ways that you explore your interests. List some resources and outlets that you enjoy, including but not limited to websites, publications, journals, podcasts, social media accounts, lectures, museums, movies, music, or other content with which you regularly engage. (125 words)
 
 > [!para]
-> Browsing GitHub and reading code is my daily religious practice. I often end up in the documentation of obscure unique projects trying to understand their innovative solutions to complex problems.
+> Browsing GitHub and reading code is my daily religious practice. I often end up in the documentation of obscure unique projects trying to understand their innovative solutions to complex problems in order to sharpen and hone my own skills.
 > 
 > My second love is art, I am amazed how a visual image can evoke such strong emotions on a lean, muscular rock climber, long-distance runner like me. Every chance of a new exhibition, art dialogue with artists, or workshop; I am there. I recently visited Red Hong Yi, an artist who does not paint with a brush. I was impressed with her creativity in using different materials, and even more ecstatic when she in return was impressed with my portfolio and offered me internship on the spot.
 
