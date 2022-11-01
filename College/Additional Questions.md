@@ -198,7 +198,12 @@
 ## QB Supplement
 1. Brown’s Open Curriculum allows students to explore broadly while also diving deeply into their academic pursuits. Tell us about any academic interests that excite you, and how you might use the Open Curriculum to pursue them while also embracing topics with which you are unfamiliar. (250 words)
 
-	🟩
+> [!para]
+> Coming home from preschool, three year old me would marvel at how our family laptop would handle my father’s input. Whether it was creating spreadsheets or reading e-mail, there was nothing about it that didn’t intrigue me. I have remained endlessly curious, wanting to discover yet also create. When it was my mother's turn to use the laptop, I vividly remember her vibrant brushstrokes swirling across the screen as she used Adobe Photoshop. Computer Science was the avenue for me to continue down this road. It has allowed me to explore, learn new things, solve problems, and create masterpieces much like those my mother created with Photoshop. 
+> 
+> Ever since I found out that computers needed to be coded in order to function, I made it my mission to do exactly that. Going from knowing nothing to knowing basic programming only took me a couple years unassisted, but such significant delays were completely ineffective on my desire to explore further. Today, I am still exploring further down that road with equal determination, and a formal education would reveal to me where I would like to explore next.
+
+	🟩🌮
 
 2. Brown’s culture fosters a community in which students challenge the ideas of others and have their ideas challenged in return, promoting a deeper and clearer understanding of the complex issues confronting society. This active engagement in dialogue is as present outside the classroom as it is in academic spaces. Tell us about a time you were challenged by a perspective that differed from your own. How did you respond? (250 words)
 
