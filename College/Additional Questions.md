@@ -96,7 +96,7 @@
 3. What historical moment or event do you wish you could have witnessed? (50 words)
 
 > [!para]
-> 
+> Just a few days ago, Ross Chastain pulled off a successful wall ride in a NASCAR race. 
 
 4. Briefly elaborate on one of your extracurricular activities, a job you hold, or responsibilities you have for your family. (50 words)
 
