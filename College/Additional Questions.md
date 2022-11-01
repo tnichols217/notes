@@ -91,7 +91,7 @@
 2. How did you spend your last two summers? (50 words)
 
 > [!para]
-> The first summer, since it was Covid, I spent majority of it learning how to code and what remaining time left I spent cycling with friends (as exercise was not restricte)
+> The first summer, since it was Covid, I spent majority of it learning how to code and what remaining time left I spent cycling with friends (as exercise was not restricted in Malaysia during certain times) and learning how to workout. The second summer I spp
 
 3. What historical moment or event do you wish you could have witnessed? (50 words)
 
