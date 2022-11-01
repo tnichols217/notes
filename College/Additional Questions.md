@@ -140,7 +140,7 @@
 6. In Columbia’s admissions process, we value who you are as a unique individual, distinct from your goals and achievements. In the last words of this writing supplement, we would like you to reflect on a source of happiness. Help us get to know you further by describing the first thing that comes to mind when you consider what simply brings you joy. (35 words)
 
 > [!para]
-> Making an impact in someone’s life brings me joy but the greatest joy would be the day when my parents are proud of me for using my skills to bring change and impact the community.
+> Making an impact in someone’s life brings me joy, but the greatest joy would be when my parents are proud of me for using my skills to bring change and impact the community.
 
 # Duke University
 ## QB Supplement
