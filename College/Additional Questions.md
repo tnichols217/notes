@@ -71,7 +71,7 @@
 	2. activity 2 (200 words)
 
 > [!para]
-> This year, I undertook a project with one of my friends to catalog everything in the Biology Lab in our school. We began by categorizing everything and naming every item in the lab, but as we were getting to the stage of labeling and sticking on the stickers we generated onto each item, we began to wonder what would be the most optimal way to 
+> This year, I undertook a project with one of my friends to catalog everything in the Biology Lab in our school. We began by categorizing everything and naming every item in the lab, but as we were getting to the stage of labeling and sticking on the stickers we generated onto each item, we began to wonder what would be the most optimal way to sort and label a Biology Lab. 
 
 2. The creativity, inventiveness, and innovation of Caltech’s students, faculty, and researchers have won Nobel Prizes and put rovers on Mars, but Teachers also imagine smaller scale innovations every day, from new ways to design solar cells to 3D printing dorm decor. How have you been an innovator in your own life? (250 words)
 
