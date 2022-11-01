@@ -16,7 +16,7 @@
 1. Tell us more about why this field of study at MIT appeals to you. (100 words)
 
 > [!para]
-> Ever since I was a kid I have been drawn to computers and math. Everyday when I came home from preschool, three year old me would marvel at how our family laptop would handle my father's inputs. Whether it be creating spreadsheets, writing documents, or reading em
+> Ever since I was a kid I have been drawn to computers and math. Everyday when I came home from preschool, three year old me would marvel at how our family laptop would handle my father's inputs. Whether it be creating spreadsheets, writing documents, or reading e-mail, there was nothing about it that didn't 
 
 	 🌮🟩
 
