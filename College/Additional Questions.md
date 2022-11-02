@@ -67,7 +67,7 @@
 	1. activity 1 (200 words)
 
 > [!para]
-> Four years ago me and a couple friends participated in the Young Inventor's Challenge, where we were challenged to create any kind of invention. Our group decided to investigate Piezoelectricity, or electricity generated when striking a quartz crystal, and how it could be used to sustain low powered electronic systems. Although the experiment ultimately was a failure, we learned that before attempting to build a life scale version of the project, to always run tests on a smaller batch first. We greatly overestimated the piezoelectric effect, making the entire project unsustainable as the amount of effort required to generate electricity using the piezoelectric effect would be multiple times larger than the system it was sustaining. What I want to explore further is if the piezoelectric effect could be scaled up enough to provide a viable means of small local energy generation.
+> Four years ago me and a couple friends participated in the Young Inventor's Challenge, where we were challenged to create any kind of invention. Our group decided to investigate Piezoelectricity, or electricity generated when striking a quartz crystal and how it could be used to sustain low powered electronic systems. Although the experiment ultimately was a failure, we learned that before attempting to build a life scale version of the project, to always run tests on a smaller batch first. We greatly overestimated the piezoelectric effect, making the entire project unsustainable as the amount of effort required to generate electricity using the piezoelectric effect would be multiple times larger than the system it was sustaining. What I want to explore further is if the piezoelectric effect could be scaled up enough to provide a viable means of small local energy generation.
 
 	2. activity 2 (200 words)
 
@@ -117,7 +117,8 @@
 ## Short Essay
 1. Virtually all of Stanford's undergraduates live on campus. Write a note to your future roommate that reveals something about you or that will help your roommate — and us — get to know you better. (100 to 250 words)
 
-
+> [!para]
+> 
 
 # Princeton
 ## QB supplement
