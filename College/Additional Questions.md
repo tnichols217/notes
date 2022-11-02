@@ -82,7 +82,7 @@
 3. The process of discovery is best advanced when people from diverse backgrounds come together to solve the greatest challenges in their fields. How do your past experiences and present-day perspectives inform who you have become and how you navigate the world? (250 words)
 
 > [!para]
-> It is my opinion that nothing is too hard to learn. 
+> It is my opinion that nothing is too hard to learn. I have applied this to every area of my life in how I act, not shying away from any new thing just because it looks hard. Whether it 
 
 # Stanford
 ## Short Answers
