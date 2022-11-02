@@ -110,7 +110,7 @@
 4. Briefly elaborate on one of your extracurricular activities, a job you hold, or responsibilities you have for your family. (50 words)
 
 > [!para]
-> I hold a tech internship position in my school as an extracurricular. This time is spent on developing school projects like the intranet, firewall, and other internally hosted sites, of which I get to contribute to what gets released. I also service laptops, manage server instances, install hardware in classrooms, and provide general tech support.
+> I hold a tech internship position in my school as an extracurricular. This time is spent on developing school projects like the intranet, firewall, and other internally hosted sites. I also service laptops, manage server instances, install hardware in classrooms, and provide general tech support.
 
 > [!para]
 > I hold a tech internship position my school as an extracurricular. I would spend my time developing school projects - such as the intranet, firewall, and internal web hosting - and contributing to what get released, as well as servicing laptops, managing server instances, installing hardware in classrooms, and general tech support.
