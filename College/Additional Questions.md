@@ -92,7 +92,7 @@
 1. What is the most significant challenge that society faces today? (50 words)
 
 > [!para]
-> Unity on the global front. When COVID took the world by storm it became evident how disjointed global efforts were. We lacked a standard for everyone to adhere to regarding vaccine certification and travel restrictions. Standards for things like this could have been created and shared, yet such collaboration was unseen.
+> Unity on the global front. When COVID took the world by storm it became evident how disjointed global efforts were. We lacked a standard for everyone to reference regarding vaccine certification and travel restrictions. Standards for things like this could have been created and shared, yet such collaboration was unseen.
 
 2. How did you spend your last two summers? (50 words)
 
