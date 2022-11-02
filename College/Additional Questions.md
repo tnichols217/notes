@@ -118,7 +118,7 @@
 1. Virtually all of Stanford's undergraduates live on campus. Write a note to your future roommate that reveals something about you or that will help your roommate — and us — get to know you better. (100 to 250 words)
 
 > [!para]
-> I can get very hype. Turn on some music and I will bop with you for hours. I am fairly social - maybe a little more than fairly - and if you give me the chance to I could talk for hours on why the letter 'a' should be removed from the keyboard or why its better to take a test while you're sweating buckets. On the complete flip side, if you prefer to have peace and quiet, I could study for hours on end without saying a single word (although you would probably hear me happily tapping away on my keyboard). I love to do crazy things - within reason of course - like 
+> I can get very hype. Turn on some music and I will bop with you for hours. I am fairly social - maybe a little more than fairly - and if you give me the chance to I could talk for hours on why the letter 'a' should be removed from the keyboard or why its better to take a test while you're sweating buckets. On the complete flip side, if you prefer to have peace and quiet, I could study for hours on end without saying a single word (although you would probably hear me happily tapping away on my keyboard). I love to do crazy things - within reason of course - like spontaneously workout 
 
 # Princeton
 ## QB supplement
