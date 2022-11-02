@@ -49,8 +49,7 @@
 
 > [!para]
 > I have participated in the Kangaroo Math Competition ever since the third grade as I really enjoy math, and got silver the first time, and 6 gold medals each year after that. I usually compete in age groups that were 2 levels above me. During the 2 years of COVID, there were no competitions allowed. Malaysia, where I was living has a strict lockdown and all non-essential activities were halted.
-
-In school, I received the best student award for Computer Science and AP Music Theory. I did not take any High School math in High School as I completed and cleped them in Middle School. I was interested to participate in the Math Olympiad but my school did not choose to participate in this competition.
+> In school, I received the best student award for Computer Science and AP Music Theory. I did not take any High School math in High School as I completed and cleped them in Middle School. I was interested to participate in the Math Olympiad but my school did not choose to participate in this competition.
 
 	🌮
 
@@ -77,7 +76,8 @@ In school, I received the best student award for Computer Science and AP Music T
 
 2. The creativity, inventiveness, and innovation of Caltech’s students, faculty, and researchers have won Nobel Prizes and put rovers on Mars, but Teachers also imagine smaller scale innovations every day, from new ways to design solar cells to 3D printing dorm decor. How have you been an innovator in your own life? (250 words)
 
-
+> [!para]
+> 
 
 3. The process of discovery is best advanced when people from diverse backgrounds come together to solve the greatest challenges in their fields. How do your past experiences and present-day perspectives inform who you have become and how you navigate the world? (250 words)
 
