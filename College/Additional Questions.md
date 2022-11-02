@@ -48,7 +48,9 @@
 2. Some Caltech applicants engage in STEM competitions locally, nationally, and internationally (such as AIME, Science Olympiad, International Science Olympiads).  If you have received any STEM honors or awards, list them here (and scores, if applicable). (200 words)
 
 > [!para]
-> I have participated in the Kangaroo Math Competition ever since the third grade as I really enjoy math, and got silver the first time, and 6 gold medals each year after that.
+> I have participated in the Kangaroo Math Competition ever since the third grade as I really enjoy math, and got silver the first time, and 6 gold medals each year after that. I usually compete in age groups that were 2 levels above me. During the 2 years of COVID, there were no competitions allowed. Malaysia, where I was living has a strict lockdown and all non-essential activities were halted.
+
+In school, I received the best student award for Computer Science and AP Music Theory. I did not take any High School math in High School as I completed and cleped them in Middle School. I was interested to participate in the Math Olympiad but my school did not choose to participate in this competition.
 
 	🌮
 
