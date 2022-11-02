@@ -97,7 +97,7 @@
 2. How did you spend your last two summers? (50 words)
 
 > [!para]
-> Two summers ago, I was in lockdown in Malaysia. I baked some bagels for the orphanage, coded and spent much time outdoors working out and cycling. Last summer, I spent serving the Rohingya refugees, teaching in three makeshift schools as these children otherwise would not have access to education.
+> Two summers ago, I was in lockdown in Malaysia. I baked some bagels for the orphanage, coded and spent much time outdoors working out and cycling. Last summer, I spent time serving the Rohingya refugees, teaching in three makeshift schools as these children otherwise would not have access to education.
 
 3. What historical moment or event do you wish you could have witnessed? (50 words)
 
