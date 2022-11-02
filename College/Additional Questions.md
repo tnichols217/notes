@@ -92,7 +92,7 @@
 1. What is the most significant challenge that society faces today? (50 words)
 
 > [!para]
-> Unity on the global front. When COVID took the world by storm it
+> Unity on the global front. When COVID took the world by storm it became evident how 
 
 2. How did you spend your last two summers? (50 words)
 
