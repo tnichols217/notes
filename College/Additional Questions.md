@@ -113,7 +113,7 @@
 > I am interning in my school at the Tech Department. My responsibilities included developing school projects like coding the “search student” application, contributing to what get released, as well as managing servers, servicing laptops, hardware installations and general tech support to the staff in school.
 
 > [!para]
-> I hold a tech internship position in my school as an extracurricular. This time is spent on developing school projects like the intranet, firewall, and other internally hosted sites. I also service laptops, manage server instances, install hardware in classrooms, and provide general tech support.
+> I hold a tech internship position in my school as an extracurricular. This time is spent on developing school projects like the intranet, “search student” application, firewall, and other internally hosted sites. I also service laptops, manage server instances, install hardware in classrooms, and provide general tech support.
 
 5. Name one thing you are looking forward to experiencing at Stanford. (50 words)
 
