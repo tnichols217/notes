@@ -81,7 +81,7 @@
 
 3. The process of discovery is best advanced when people from diverse backgrounds come together to solve the greatest challenges in their fields. How do your past experiences and present-day perspectives inform who you have become and how you navigate the world? (250 words)
 
-
+> []
 
 # Stanford
 ## Short Answers
