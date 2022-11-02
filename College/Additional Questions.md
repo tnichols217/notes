@@ -112,9 +112,6 @@
 > [!para]
 > I hold a tech internship position in my school as an extracurricular. This time is spent on developing school projects like the intranet, firewall, and other internally hosted sites. I also service laptops, manage server instances, install hardware in classrooms, and provide general tech support.
 
-> [!para]
-> I hold a tech internship position my school as an extracurricular. I would spend my time developing school projects - such as the intranet, firewall, and internal web hosting - and contributing to what get released, as well as servicing laptops, managing server instances, installing hardware in classrooms, and general tech support.
-
 5. Name one thing you are looking forward to experiencing at Stanford. (50 words)
 
 > [!para]
