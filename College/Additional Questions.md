@@ -94,6 +94,9 @@
 > [!para]
 > Unity on the global front. When COVID took the world by storm it became evident how disjointed global efforts were. We lacked a standard for everyone to reference regarding vaccine certification and travel restrictions. Standards for things like this could have been created and shared, yet such collaboration was unseen.
 
+> [!para]
+>  Acceptance of each other from different views and beliefs. We are too engrossed with “self love” that our focused is all about me, myself and mine. There is no room for intentional actions of seeking understanding and acceptance. 
+
 2. How did you spend your last two summers? (50 words)
 
 > [!para]
