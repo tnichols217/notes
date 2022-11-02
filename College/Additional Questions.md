@@ -92,12 +92,12 @@
 1. What is the most significant challenge that society faces today? (50 words)
 
 > [!para]
-> Getting along with each other and other societies as well. Although there are many proposed solutions to getting along, such as political correctness or freedom of speech, to me it appears as if these band-aids don't actually solve the problem.
+> 
 
 2. How did you spend your last two summers? (50 words)
 
 > [!para]
-> I spent most of my time in the first summer coding due to covid, but spent the remaining time cycling with my friends and working out (as exercise wasn't restricted in Malaysia). The second summer I spent serving the Rohingan refugees primarily, but also coded and rockclimbed.
+> I spent most of my time in the first summer coding due to covid, but spent the remaining time cycling with my friends and working out (as exercise wasn't restricted in Malaysia). The second summer I spent serving the Rohingya refugees primarily, but also coded and rock climbed.
 
 3. What historical moment or event do you wish you could have witnessed? (50 words)
 
