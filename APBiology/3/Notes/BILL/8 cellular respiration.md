@@ -8,4 +8,4 @@
 	3. $6CO_2$
 3. 3
 	1. Glycolysis
-	2. Krebs cycle, 
+	2. Krebs cycle, Oxidative Phosphorylation, Glycosidic Linkage
