@@ -18,4 +18,5 @@
 	3. Glucose, Oxygen, $NAD^+$, $FAD$, ADP, ATP
 	4. Contraction of muscles, Growth, Active pump
 5. FADH, NADH
-6. 
+6. 6
+	1. 
