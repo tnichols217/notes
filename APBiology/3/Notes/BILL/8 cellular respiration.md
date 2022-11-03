@@ -16,6 +16,6 @@
 	1. Glysolysis, Krebs Cycle, Oxydative Phosphorylation
 	2. 38
 	3. Glucose, Oxygen, $NAD^+$, $FAD$, ADP, ATP
-	4. Contraction of muscles, Growth
+	4. Contraction of muscles, Growth, Active pump
 5. FADH, NADPH
 6. 
