@@ -12,3 +12,5 @@
 	3. Oxidative Phosphorylation
 	4. Glycosidic Linkage, Oxidative Phosphorylation
 	5. Oxydative Phosphorylation
+4. 4
+	1. Glysol
