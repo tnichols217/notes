@@ -10,4 +10,4 @@
 	1. Glycolysis
 	2. Krebs cycle, Oxidative Phosphorylation, Glycosidic Linkage
 	3. Oxidative Phosphorylation
-	4. 
+	4. Glycosidic Linkage, 
