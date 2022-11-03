@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6e00800a8734daad",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Ch8/Cellular Respiration.md",
+                "file": "APBiology/3/Notes/BILL/8 cellular respiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Ch8/Cellular Respiration.md"
+                "file": "APBiology/3/Notes/BILL/8 cellular respiration.md"
               }
             }
           },
@@ -154,8 +153,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6d6f4807127bb26d",
+  "active": "4a525f6e31ce8430",
   "lastOpenFiles": [
+    "Biology/Ch8/Cellular Respiration.md",
     "APBiology/3/Notes/BILL/8 cellular respiration.md",
     "APBiology/3/Documents/Teams/8 Cellular Respiration-An Overview-S.pdf",
     "ChristAndCulture/Social Issues QG.md",
@@ -164,7 +164,6 @@
     "APArt/Sustained Investigation.md",
     "APArt/Portfolio notes.md",
     "APArt/Piece Descriptions.md",
-    "Biology/Ch14/14.2 The  Origin of Life.md",
-    "Biology/Ch14/14.1.md"
+    "Biology/Ch14/14.2 The  Origin of Life.md"
   ]
 }
