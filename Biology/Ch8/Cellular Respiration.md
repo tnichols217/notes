@@ -30,7 +30,7 @@
 
 ### Steps in Aerobic respiration
 #### 1) Glycolysis
-#### 2) Formation of Acetyl CoA **(optional learning)**
+#### 2) Glycosidic Linkage - Formation of Acetyl CoA **(optional learning)**
 > $C_3H_4O_3 + C_{21}H_{36}N_7O_{16}P_3S + NAD \rightarrow CO_2 + C_{23}H_{38}N_7O_{17}P_3S + NADH$
 > Pyruvic Acid + CoA + NAD+ -> Carbon Dioxide + Acetyl CoA + NADH 
 >
