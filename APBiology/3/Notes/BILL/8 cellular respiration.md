@@ -1,4 +1,3 @@
-o.o
 # Cellular Respiration - An Overview
 1. 1
 	1. Glucose
