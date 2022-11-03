@@ -6,4 +6,5 @@
 	1. 34 ATP
 	2. $6H_2O$
 3. 3
-	1. 
+	1. Glycolysis
+	2. Krebs cycle, 
