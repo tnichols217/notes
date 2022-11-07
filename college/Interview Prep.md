@@ -23,7 +23,9 @@
 2. Being highly dedicated and persistent on anything that intrigues me
 3. Always being curious about computers and programming 
 ## How would you contribute to our college community?
+1. 
 ## What subject in high school did you find most challenging?
+1. 
 ## Why do you want to attend this college?
 ## Who do you most admire?
 ## What is your favorite book and why?
