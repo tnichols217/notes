@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/college/Interview Prep.md",
+                "file": "college/Interview Prep.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/Interview Prep.md",
+                "file": "college/Interview Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/Interview Prep.md"
+                "file": "college/Interview Prep.md"
               }
             }
           },
@@ -125,11 +125,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4a525f6e31ce8430",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
     "ChristAndCulture/Social Issues QG.md",
     "Private/college/Additional Questions.md",
-    "Private/college/Interview Prep.md",
+    "college/Interview Prep.md",
     "college.md",
     "APBiology/3/Notes/BILL/8 cellular respiration.md",
     "Private/duo/notes/essay1.md",
