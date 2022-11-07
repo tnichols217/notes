@@ -27,7 +27,7 @@
 ## What subject in high school did you find most challenging?
 1. 
 ## Why do you want to attend this college?
-1. 
+1. Ever since I was young 
 ## Who do you most admire?
 1. 
 ## What is your favorite book and why?
