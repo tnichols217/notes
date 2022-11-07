@@ -1,5 +1,6 @@
 # Interview Prep
 ## How would you describe yourself to someone who did not know you?
+
 1. I love tech, art, and music
 2. Community
 3. Sports
@@ -16,18 +17,27 @@
 > Although I heavily enjoy all these things, I feel like my sense of community is the most important of them all. Being able to do and see amazing things is just multiple times more enjoyable when shared with someone. 
 
 ## What do you expect to be doing ten years from now?
+
 1. Collaborating with people from all kinds of fields to create something that would aide the functionality and adoption of decentralized applications or open source as a whole.
 
 ## What are your strengths and weaknesses?
+
 1. Not knowing when to stop working on something, as there is always something more to improve
 2. Being highly dedicated and persistent on anything that intrigues me
 3. Always being curious about computers and programming 
+
 ## How would you contribute to our college community?
+
 1. 
+
 ## What subject in high school did you find most challenging?
+
 1. 
+
 ## Why do you want to attend this college?
+
 1. Ever since I was young I have been dreaming to attend MIT, although at that time I thought that it would never happen, but now I have a hope that I may be able to go. Me and my grandfather used to read the papers when I was younger and revel at the latest news of what MIT has accomplished and I want to be able to take a part of that one day.
+
 ## Who do you most admire?
 1. 
 ## What is your favorite book and why?
