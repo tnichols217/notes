@@ -27,7 +27,7 @@
 ## What subject in high school did you find most challenging?
 1. 
 ## Why do you want to attend this college?
-1. Ever since I was young I have been dreaming to attend MIT, although at that time I thought that it would never happen, but now I have a hope that I may be able to go. Me and my grandfather used to read the papers when I was younger and revel at 
+1. Ever since I was young I have been dreaming to attend MIT, although at that time I thought that it would never happen, but now I have a hope that I may be able to go. Me and my grandfather used to read the papers when I was younger and revel at the latest 
 ## Who do you most admire?
 1. 
 ## What is your favorite book and why?
