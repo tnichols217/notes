@@ -33,4 +33,7 @@
 ## What is your favorite book and why?
 1. Atomic Habits, taught me how to manage myself
 ## How have you been a leader or displayed leadership?
+1. Scouts
+2. PAL
+3. 
 ## What challenge have you overcome?
