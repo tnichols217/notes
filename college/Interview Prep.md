@@ -1,8 +1,8 @@
 # Interview Prep
-1. How would you describe yourself to someone who did not know you?
-	1. I love tech, art, and music
-	2. Community
-	3. Sports
+## How would you describe yourself to someone who did not know you?
+1. I love tech, art, and music
+2. Community
+3. Sports
 
 > [!para]
 > I love the intersection between technology and art, how I can interact with and help the community on any scale, and also just rock climbing or running.
@@ -15,8 +15,8 @@
 > 
 > Although I heavily enjoy all these things, I feel like my sense of community is the most important of them all. Being able to do and see amazing things is just multiple times more enjoyable when shared with someone. 
 
-1. What do you expect to be doing ten years from now?
-2. What are your strengths and weaknesses?
+What do you expect to be doing ten years from now?
+What are your strengths and weaknesses?
    > [!para]
    > 
 4. How would you contribute to our college community?
