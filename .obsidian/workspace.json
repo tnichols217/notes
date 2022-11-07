@@ -13,49 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/college/Additional Questions.md",
+                "file": "Private/college/Interview Prep.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "6d6f4807127bb26d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Ch8/Cellular Respiration.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44e1c84192fac99b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Ch8/Chemical Formulas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6e00800a8734daad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "824b01cdc91c0a8f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APBiology/3/Documents/Teams/8 Cellular Respiration-An Overview-S.pdf"
               }
             }
           }
@@ -125,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/Additional Questions.md",
+                "file": "Private/college/Interview Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/Additional Questions.md"
+                "file": "Private/college/Interview Prep.md"
               }
             }
           },
@@ -167,15 +127,15 @@
   },
   "active": "4a525f6e31ce8430",
   "lastOpenFiles": [
+    "ChristAndCulture/Social Issues QG.md",
+    "Private/college/Additional Questions.md",
+    "Private/college/Interview Prep.md",
     "college.md",
     "APBiology/3/Notes/BILL/8 cellular respiration.md",
     "Private/duo/notes/essay1.md",
     "Biology/Ch8/Cellular Respiration.md",
     "Biology/Ch8/Chemical Formulas.md",
     "APBiology/3/Documents/Teams/8 Cellular Respiration-An Overview-S.pdf",
-    "ChristAndCulture/Social Issues QG.md",
-    "CV.md",
-    "Private/college/Expenses.md",
-    "APArt/Sustained Investigation.md"
+    "CV.md"
   ]
 }
