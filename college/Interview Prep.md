@@ -21,7 +21,7 @@
 ## What are your strengths and weaknesses?
 1. Not knowing when to stop working on something, as there is always something more to improve
 2. Being highly dedicated and persistent on anything that intrigues me
-3. Always being curious about computers, programming, or 
+3. Always being curious about computers and programming 
 ## How would you contribute to our college community?
 ## What subject in high school did you find most challenging?
 ## Why do you want to attend this college?
