@@ -15,12 +15,11 @@
 > 
 > Although I heavily enjoy all these things, I feel like my sense of community is the most important of them all. Being able to do and see amazing things is just multiple times more enjoyable when shared with someone. 
 
-What do you expect to be doing ten years from now?
-What are your strengths and weaknesses?
-   > [!para]
-   > 
-How would you contribute to our college community?
-What subject in high school did you find most challenging?
+## What do you expect to be doing ten years from now?
+## What are your strengths and weaknesses?
+
+## How would you contribute to our college community?
+## What subject in high school did you find most challenging?
 Why do you want to attend this college?
 Who do you most admire?
 What is your favorite book and why?
