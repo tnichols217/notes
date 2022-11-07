@@ -39,12 +39,19 @@
 1. Ever since I was young I have been dreaming to attend MIT, although at that time I thought that it would never happen, but now I have a hope that I may be able to go. Me and my grandfather used to read the papers when I was younger and revel at the latest news of what MIT has accomplished and I want to be able to take a part of that one day.
 
 ## Who do you most admire?
+
 1. 
+
 ## What is your favorite book and why?
+
 1. Atomic Habits, taught me how to manage myself
+
 ## How have you been a leader or displayed leadership?
+
 1. Scouts
 2. PAL
 3. 
+
 ## What challenge have you overcome?
+
 1. 
