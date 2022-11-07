@@ -19,7 +19,8 @@
 1. Collaborating with people from all kinds of fields to create something that would aide the functionality and adoption of decentralized applications or open source as a whole.
 
 ## What are your strengths and weaknesses?
-1. Not knowing when to stop working on something, as there is always something more to imp
+1. Not knowing when to stop working on something, as there is always something more to improve
+2. 
 ## How would you contribute to our college community?
 ## What subject in high school did you find most challenging?
 ## Why do you want to attend this college?
