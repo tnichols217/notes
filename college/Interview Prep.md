@@ -16,7 +16,7 @@
 > Although I heavily enjoy all these things, I feel like my sense of community is the most important of them all. Being able to do and see amazing things is just multiple times more enjoyable when shared with someone. 
 
 ## What do you expect to be doing ten years from now?
-1. Collaborating with people from all kinds of fields to create something that would aide the 
+1. Collaborating with people from all kinds of fields to create something that would aide the functionality and 
 ## What are your strengths and weaknesses?
 
 ## How would you contribute to our college community?
