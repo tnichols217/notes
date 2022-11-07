@@ -31,6 +31,6 @@
 ## Who do you most admire?
 1. 
 ## What is your favorite book and why?
-1. Atomic 
+1. Atomic Habits, taught me how to manage myself
 ## How have you been a leader or displayed leadership?
 ## What challenge have you overcome?
