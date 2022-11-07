@@ -20,8 +20,8 @@
 
 ## How would you contribute to our college community?
 ## What subject in high school did you find most challenging?
-Why do you want to attend this college?
-Who do you most admire?
-What is your favorite book and why?
-How have you been a leader or displayed leadership?
-What challenge have you overcome?
+## Why do you want to attend this college?
+## Who do you most admire?
+## What is your favorite book and why?
+## How have you been a leader or displayed leadership?
+## What challenge have you overcome?
