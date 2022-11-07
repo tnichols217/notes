@@ -19,10 +19,10 @@ What do you expect to be doing ten years from now?
 What are your strengths and weaknesses?
    > [!para]
    > 
-4. How would you contribute to our college community?
-5. What subject in high school did you find most challenging?
-6. Why do you want to attend this college?
-7. Who do you most admire?
-8. What is your favorite book and why?
-9. How have you been a leader or displayed leadership?
-10. What challenge have you overcome?
+How would you contribute to our college community?
+What subject in high school did you find most challenging?
+Why do you want to attend this college?
+Who do you most admire?
+What is your favorite book and why?
+How have you been a leader or displayed leadership?
+What challenge have you overcome?
