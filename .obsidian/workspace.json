@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "college/Interview Prep.md",
+                "file": "ChristAndCulture/Social Issues QG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "college/Interview Prep.md",
+                "file": "ChristAndCulture/Social Issues QG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "college/Interview Prep.md"
+                "file": "ChristAndCulture/Social Issues QG.md"
               }
             }
           },
@@ -127,6 +127,8 @@
   },
   "active": "4a525f6e31ce8430",
   "lastOpenFiles": [
+    "APBiology/3/Notes/BILL/Activity Modeling.md",
+    "APBiology/3/Documents/Teams/Activity_Modeling cellular respiration - How can cells convert the energy in glucose to ATP.pdf",
     "college/Interview Prep.md",
     "ChristAndCulture/Social Issues QG.md",
     "Private/college/Additional Questions.md",
@@ -134,8 +136,6 @@
     "APBiology/3/Notes/BILL/8 cellular respiration.md",
     "Private/duo/notes/essay1.md",
     "Biology/Ch8/Cellular Respiration.md",
-    "Biology/Ch8/Chemical Formulas.md",
-    "APBiology/3/Documents/Teams/8 Cellular Respiration-An Overview-S.pdf",
-    "CV.md"
+    "Biology/Ch8/Chemical Formulas.md"
   ]
 }
