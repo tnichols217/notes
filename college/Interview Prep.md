@@ -28,8 +28,9 @@
 4. Community
 	1. A large role and value in my life
 	2. parents have risen me to want to give back however possible
-	3. seen the community of rohinghya
+	3. seen the community of rohinghya and love to teach and help them however possible
 5. Sports
+	1. 
 
 > [!para]
 > I love the intersection between technology and art, how I can interact with and help the community on any scale, and also just rock climbing or running.
