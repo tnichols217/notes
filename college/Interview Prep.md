@@ -6,10 +6,10 @@
 	2. Sister
 2. Art
 	1. My first drawing (omnidirectional elevator)
-	2. ❤️
-		1. Self-motived
-		2. Explorative
-		3. 
+		1. Highly detailed for a two year o
+			1. Self-motived
+			2. Explorative
+			3. 
 3. I love tech, art
 4. Community
 5. Sports
