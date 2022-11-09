@@ -50,7 +50,7 @@
 
 ## What are your strengths and weaknesses?
 
-1. Not knowing when to stop working on something, as there is always something more to improve
+1. I don't know how to say no when 
 2. Being highly dedicated and persistent on anything that intrigues me
 3. I have an inquisitive nature 
 
