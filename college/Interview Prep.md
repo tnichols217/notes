@@ -23,7 +23,7 @@
 		3. tilt-shift
 	5. Always been interested in math, when I entered High School I decided to learn programming
 		1. began to learn more and more languages to be able to accomplish whatever project i dreamed of
-		2. I really love
+		2. I really loved because it challenged my critical thinking skills
 4. Community
 5. Sports
 
