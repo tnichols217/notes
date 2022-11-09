@@ -15,8 +15,10 @@
 	1. Began art journey
 		1. First drawing (omnidirectional elevator)
 			1. Highly detailed for a two year old
-		2. Took art lessons to hone my skills
-		3. Today after completing basic art courses I have taken up 3D design
+	2. Took art lessons to hone my skills
+	3. Today after completing basic art courses I have taken up 3D art
+	4. Overlap is insane
+		1. proced
 4. Community
 5. Sports
 
