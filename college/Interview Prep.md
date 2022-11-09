@@ -13,7 +13,8 @@
 	1. My first drawing (omnidirectional elevator)
 		1. Highly detailed for a two year old
 3. two main hobbies are tech, art
-	1. 
+	1. Began art journey
+		1. First drawing (omnidirectional elevator)
 4. Community
 5. Sports
 
