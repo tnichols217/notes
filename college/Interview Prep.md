@@ -63,7 +63,8 @@
 	1. Saw first hand how giving back to the community can impact lives
 	2. Shows me how contributing to Open Source code directly impacts people
 3. Open Source code
-	1. Contributing to open source course materials will lower the resource cost for bringing high quality education to 
+	1. Contributing to open source course materials will lower the resource cost for making high quality education accessible underprivileged areas.
+	2. My 
 4. Also interested in robotics
 	1. The automation of things would lower the production costs of products
 
