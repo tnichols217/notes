@@ -63,7 +63,7 @@
 	1. Saw first hand how giving back to the community can impact lives
 	2. Shows me how contributing to Open Source code directly impacts people
 3. Also interested in robotics
-	1. The automation of things 
+	1. The automation of things would lower the production costs of products
 
 ## Why do you want to come to MIT?
 
