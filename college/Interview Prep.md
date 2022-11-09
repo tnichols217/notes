@@ -1,9 +1,10 @@
 # Interview Prep
 ## How would you describe yourself to someone who did not know you?
 
-1. I love tech, art
-2. Community
-3. Sports
+1. Family
+2. I love tech, art
+3. Community
+4. Sports
 
 > [!para]
 > I love the intersection between technology and art, how I can interact with and help the community on any scale, and also just rock climbing or running.
