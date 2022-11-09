@@ -59,7 +59,7 @@
 ## Why do you want to come to UPenn?
 
 1. Vision aligns with what I aim to do: give back to the community
-2. 
+2. Example: service project to indigenous 
 
 ## Why do you want to come to MIT?
 
