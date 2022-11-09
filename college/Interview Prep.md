@@ -6,7 +6,7 @@
 	2. Sister
 2. Art
 	1. My first drawing (omnidirectional elevator)
-	2. 
+	2. ❤️
 		1. Self-motived
 		2. Explorative
 		3. 

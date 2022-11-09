@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "6d16efea12493c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APLang/Vocab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9a954997563670a9",
             "type": "leaf",
             "state": {
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APLang/Vocab.md",
+                "file": "college/Interview Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APLang/Vocab.md"
+                "file": "college/Interview Prep.md"
               }
             }
           },
@@ -162,8 +149,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6d16efea12493c6c",
+  "active": "4a525f6e31ce8430",
   "lastOpenFiles": [
+    "APLang/Vocab.md",
     "college/Interview Prep.md",
     "Private/college/QB Essay 1 Brainstorm.md",
     "Private/college/Additional Questions.md",
@@ -172,7 +160,6 @@
     "ChristAndCulture/Social Issues QG.md",
     "APBiology/3/Documents/Teams/Activity_Modeling cellular respiration - How can cells convert the energy in glucose to ATP.pdf",
     "college.md",
-    "APBiology/3/Notes/BILL/8 cellular respiration.md",
-    "Private/duo/notes/essay1.md"
+    "APBiology/3/Notes/BILL/8 cellular respiration.md"
   ]
 }
