@@ -62,7 +62,9 @@
 2. Example: service project to indigenous malaysian tribe, to teach programming and English
 	1. Saw first hand how giving back to the community can impact lives
 	2. Shows me how contributing to Open Source code directly impacts people
-3. Also interested in robotics
+3. Open Source code
+	1. Contributing to open source course materials will lower the 
+4. Also interested in robotics
 	1. The automation of things would lower the production costs of products
 
 ## Why do you want to come to MIT?
