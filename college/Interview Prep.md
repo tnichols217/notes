@@ -21,7 +21,7 @@
 		1. procedural generation
 		2. perspective
 		3. tilt-shift
-	5. 
+	5. Always been interested in math, when I entered High s
 4. Community
 5. Sports
 
