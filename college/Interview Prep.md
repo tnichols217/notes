@@ -19,7 +19,8 @@
 	3. Today after completing basic art courses I have taken up 3D art
 	4. Overlap is insane
 		1. procedural generation
-		2. 
+		2. perspective
+		3. tilt-shift
 4. Community
 5. Sports
 
