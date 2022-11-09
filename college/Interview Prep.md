@@ -59,7 +59,7 @@
 ## Why do you want to come to UPenn?
 
 1. Vision aligns with what I aim to do: give back to the community
-2. Since young, 
+2. Since young, I have been living and sharing experiences with 
 3. Example: service project to indigenous malaysian tribe, to teach programming and English
 	1. Saw first hand how giving back to the community can impact lives
 	2. Shows me how contributing to Open Source code directly impacts people
