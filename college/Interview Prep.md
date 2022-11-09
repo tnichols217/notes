@@ -58,4 +58,5 @@
 
 ## Why do you want to come to UPenn?
 
-1. Vision aligns with what I aim to do: giv
+1. Vision aligns with what I aim to do: give back to the community
+2. 
