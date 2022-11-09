@@ -26,6 +26,7 @@
 		2. I really loved because it challenged my critical thinking skills
 		3. Now, I love to contribute to open source code as a whole as a way to give back to the community.
 4. Community
+	1. A large role and value in my life
 5. Sports
 
 > [!para]
