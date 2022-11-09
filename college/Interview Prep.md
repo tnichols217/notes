@@ -1,7 +1,7 @@
 # Interview Prep
 ## How would you describe yourself to someone who did not know you?
 
-1. I love tech, art, and music
+1. I love tech, art
 2. Community
 3. Sports
 
