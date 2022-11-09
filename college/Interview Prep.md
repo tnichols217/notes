@@ -52,7 +52,7 @@
 
 1. Not knowing when to stop working on something, as there is always something more to improve
 2. Being highly dedicated and persistent on anything that intrigues me
-3. I have an inquisitive natur 
+3. I have an inquisitive nature 
 
 ## How would you contribute to our college community?
 
