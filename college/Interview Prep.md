@@ -15,6 +15,7 @@
 	1. Began art journey
 		1. First drawing (omnidirectional elevator)
 			1. Highly detailed for a two year old
+		2. Took art lessons to ho
 4. Community
 5. Sports
 
