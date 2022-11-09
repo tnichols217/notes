@@ -62,7 +62,7 @@
 2. Example: service project to indigenous malaysian tribe, to teach programming and English
 	1. Saw first hand how giving back to the community can impact lives
 	2. Shows me how contributing to Open Source code directly impacts people
-3. 
+3. Also interested in robotics
 
 ## Why do you want to come to MIT?
 
