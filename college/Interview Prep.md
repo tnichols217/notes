@@ -21,7 +21,8 @@
 		1. procedural generation
 		2. perspective
 		3. tilt-shift
-	5. Always been interested in math, when I entered High s
+	5. Always been interested in math, when I entered High School I decided to learn programming
+		1. 
 4. Community
 5. Sports
 
