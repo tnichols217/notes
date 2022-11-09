@@ -46,7 +46,7 @@
 
 ## What do you expect to be doing ten years from now?
 
-1. Collaborating with people from all kinds of fields to create something that would aide the functionality and adoption of decentralized applications or open source as a whole.
+1. Collaborating with people from all kinds of fields to create something that would aide the functionality and adoption of decentralized or open source applications as a whole.
 
 ## What are your strengths and weaknesses?
 
