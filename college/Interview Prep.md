@@ -28,6 +28,7 @@
 4. Community
 	1. A large role and value in my life
 	2. parents have risen me to want to give back however possible
+	3. seen the community of rohinghya
 5. Sports
 
 > [!para]
