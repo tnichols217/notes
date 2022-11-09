@@ -3,7 +3,9 @@
 
 1. Family
 2. Art
-	1. 
+	1. Self-motived
+	2. Explorative
+	3. 
 3. I love tech, art
 4. Community
 5. Sports
