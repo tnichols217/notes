@@ -59,7 +59,9 @@
 ## Why do you want to come to UPenn?
 
 1. Vision aligns with what I aim to do: give back to the community
-2. Example: service project to indigenous 
+2. Example: service project to indigenous malaysian tribe, to teach programming and English
+	1. Saw first hand how giving back to the community can impact lives
+	2. 
 
 ## Why do you want to come to MIT?
 
