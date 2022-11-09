@@ -27,6 +27,7 @@
 		3. Now, I love to contribute to open source code as a whole as a way to give back to the community.
 4. Community
 	1. A large role and value in my life
+	2. parents have risen me to want to give back however possible
 5. Sports
 
 > [!para]
