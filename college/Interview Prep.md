@@ -50,7 +50,7 @@
 
 ## What are your strengths and weaknesses?
 
-1. I can't say no to taking on new projects, so I learned how to manage my time more wisely and use planners and calendars to keep me on track 
+1. I find it difficult to decline taking on new projects, so I learned how to manage my time more wisely and use planners and calendars to keep me on track 
 2. Being highly dedicated and persistent on anything that intrigues me
 3. I have an inquisitive nature 
 
