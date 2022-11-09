@@ -6,15 +6,16 @@
 2. Explorative
 3. 
 
-4. Family
+1. Family
 	1. Parents
 	2. Sister
-5. Art
+2. Art
 	1. My first drawing (omnidirectional elevator)
 		1. Highly detailed for a two year old
-6. I love tech, art
-7. Community
-8. Sports
+3. two main hobbies are tech, art
+	1. 
+4. Community
+5. Sports
 
 > [!para]
 > I love the intersection between technology and art, how I can interact with and help the community on any scale, and also just rock climbing or running.
