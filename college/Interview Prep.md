@@ -18,7 +18,8 @@
 	2. Took art lessons to hone my skills
 	3. Today after completing basic art courses I have taken up 3D art
 	4. Overlap is insane
-		1. proced
+		1. procedural generation
+		2. 
 4. Community
 5. Sports
 
