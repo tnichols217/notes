@@ -2,10 +2,13 @@
 ## How would you describe yourself to someone who did not know you?
 
 1. Family
+	1. Parents
+	2. Sister
 2. Art
-	1. Self-motived
-	2. Explorative
-	3. 
+	1. My 
+		1. Self-motived
+		2. Explorative
+		3. 
 3. I love tech, art
 4. Community
 5. Sports
