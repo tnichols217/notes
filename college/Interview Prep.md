@@ -64,7 +64,7 @@
 	2. Shows me how contributing to Open Source code directly impacts people
 3. Open Source code
 	1. Contributing to open source course materials will lower the resource cost for making high quality education accessible underprivileged areas.
-	2. I have contributed to multiple open source programs which enhance the learning experience, and I have since also initiated my own proje
+	2. I have contributed to multiple open source programs which enhance the learning experience, and I have since also initiated my own project.
 4. Also interested in robotics
 	1. The automation of things would lower the production costs of products
 
