@@ -31,6 +31,7 @@
 	3. seen the community of rohinghya and love to teach and help them however possible
 5. Sports
 	1. love to run and rock climb
+	2. do both competitively
 
 > [!para]
 > I love the intersection between technology and art, how I can interact with and help the community on any scale, and also just rock climbing or running.
