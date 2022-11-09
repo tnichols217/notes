@@ -1,18 +1,20 @@
 # Interview Prep
 ## How would you describe yourself to someone who did not know you?
 
-1. Family
+
+1. Self-motived
+2. Explorative
+3. 
+
+4. Family
 	1. Parents
 	2. Sister
-2. Art
+5. Art
 	1. My first drawing (omnidirectional elevator)
-		1. Highly detailed for a two year o
-			1. Self-motived
-			2. Explorative
-			3. 
-3. I love tech, art
-4. Community
-5. Sports
+		1. Highly detailed for a two year old
+6. I love tech, art
+7. Community
+8. Sports
 
 > [!para]
 > I love the intersection between technology and art, how I can interact with and help the community on any scale, and also just rock climbing or running.
