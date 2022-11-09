@@ -24,6 +24,7 @@
 	5. Always been interested in math, when I entered High School I decided to learn programming
 		1. began to learn more and more languages to be able to accomplish whatever project i dreamed of
 		2. I really loved because it challenged my critical thinking skills
+		3. Now, I love to contribute to open source code as a whole as a way to give back to the community.
 4. Community
 5. Sports
 
