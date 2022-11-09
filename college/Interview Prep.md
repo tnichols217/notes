@@ -59,14 +59,15 @@
 ## Why do you want to come to UPenn?
 
 1. Vision aligns with what I aim to do: give back to the community
-2. Example: service project to indigenous malaysian tribe, to teach programming and English
+2. Since young, 
+3. Example: service project to indigenous malaysian tribe, to teach programming and English
 	1. Saw first hand how giving back to the community can impact lives
 	2. Shows me how contributing to Open Source code directly impacts people
-3. Kilaulau
-4. Open Source code
+4. Kilaulau
+5. Open Source code
 	1. Contributing to open source course materials will lower the resource cost for making high quality education accessible underprivileged areas.
 	2. I have contributed to and independently initiated multiple open source programs which enhance the learning experience, which has benefited over 240k people.
-5. Also interested in robotics
+6. Also interested in robotics
 	1. The automation of things would lower the production costs of products
 
 ## Why do you want to come to MIT?
