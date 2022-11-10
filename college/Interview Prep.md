@@ -103,3 +103,8 @@
 ## Why do you want to come to MIT?
 
 1. 
+
+## Questions for them
+1. Which part of the culture there took the most getting used to, and what is the culture like there in general?
+2. What kind of students are you guys looking for
+3. 
