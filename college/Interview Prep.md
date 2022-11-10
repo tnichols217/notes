@@ -106,5 +106,6 @@
 
 ## Questions for them
 1. Which part of the culture there took the most getting used to, and what is the culture like there in general?
-2. What kind of students are you guys looking for
-3. 
+2. In your opinion, what are the character traits of a student that would do well there
+3. What makes students there different from other places?
+4. 
