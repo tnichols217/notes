@@ -91,7 +91,7 @@
 2. Since young, my parents have brought me to stay and share experiences in Phillipines and Malaysia with indigenous people
 	1. Realize the need for easier access to education
 	2. I began teaching and they were eager to learn
-3. Example: service project to indigenous malaysian tribe, to teach programming and English
+3. Example: service project to indigenous malaysian tribe (orang semai), to teach programming and English
 	1. Saw first hand how giving back to the community can impact lives
 	2. Shows me how contributing to Open Source code directly impacts people
 4. Kilaulau
