@@ -29,6 +29,7 @@
 	1. A large role and value in my life
 	2. parents have risen me to want to give back however possible
 	3. seen the community of rohinghya and love to teach and help them however possible
+	4. orang semai
 5. Sports
 	1. love to run and rock climb
 	2. do both competitively
