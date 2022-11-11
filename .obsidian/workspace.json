@@ -38,29 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "Biology/Ch8/Photosynthesis.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "f3d2925f98a47a4c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "31d0461a5a55663f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APBiology/3/Documents/Teams/Activity_Modeling cellular respiration - How can cells convert the energy in glucose to ATP.pdf"
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Ch8/Photosynthesis.md",
+                "file": "Biology/Ch8/Cellular Respiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Ch8/Photosynthesis.md"
+                "file": "Biology/Ch8/Cellular Respiration.md"
               }
             }
           },
@@ -166,8 +150,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "760ce4d3704e8340",
+  "active": "f05ee9acde39b31b",
   "lastOpenFiles": [
+    "Biology/Ch8/Photosynthesis.md",
     "Biology/Ch8/Cellular Respiration.md",
     "APBiology/3/Notes/BILL/Activity Modeling.md",
     "college/Interview Prep.md",
@@ -176,7 +161,6 @@
     "Private/college/Additional Questions.md",
     "ChristAndCulture/Social Issues QG.md",
     "APBiology/3/Documents/Teams/Activity_Modeling cellular respiration - How can cells convert the energy in glucose to ATP.pdf",
-    "college.md",
-    "APBiology/3/Notes/BILL/8 cellular respiration.md"
+    "college.md"
   ]
 }
