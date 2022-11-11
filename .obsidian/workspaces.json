@@ -185,25 +185,21 @@
                     "source": false
                   }
                 }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "f3d2925f98a47a4c",
-            "type": "tabs",
-            "children": [
+              },
               {
-                "id": "31d0461a5a55663f",
+                "id": "760ce4d3704e8340",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
+                  "type": "markdown",
                   "state": {
-                    "file": "APBiology/3/Documents/Teams/Activity_Modeling cellular respiration - How can cells convert the energy in glucose to ATP.pdf"
+                    "file": "Biology/Ch8/Photosynthesis.md",
+                    "mode": "preview",
+                    "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -312,5 +308,5 @@
       "active": "f05ee9acde39b31b"
     }
   },
-  "active": "biology"
+  "active": "college"
 }
