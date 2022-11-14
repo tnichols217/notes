@@ -1,7 +1,7 @@
 
 1. Unit map
-   ![[Traffic Light#]]
 2. Traffic light
+   ![[Traffic Light]]
 3. Test topics
 4. Unit summary
 5. Official AP Biology unit summary
