@@ -1,1 +1,1 @@
-1. 
+1. Breaking things down requires activation energy, 
