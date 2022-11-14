@@ -2,8 +2,8 @@
     
     1.  Definitions, examples
 
-		> [!def]
 		> **Anabolic**
+		> Building stuff up 
         
     2.  Relationship between G, H, S – endergonic, exergonic – spontaneous, not spontaneous (see chart in notes)
         
