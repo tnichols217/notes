@@ -10,7 +10,7 @@
         
     2.  Relationship between G, H, S – endergonic, exergonic – spontaneous, not spontaneous (see chart in notes)
 
-
+> 
         
 2.  First and second laws of thermodynamics and relationship to biology
     
