@@ -1,5 +1,3 @@
-AP BIOLOGY UNIT 3 BILL CHECKLIST
-Unit Essentials:
 
 1. Unit map
 2. Traffic light
