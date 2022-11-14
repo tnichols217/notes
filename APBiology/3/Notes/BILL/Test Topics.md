@@ -14,7 +14,7 @@
 > 		**H** - Enthalpy - Energy needed or radiated from a reaction
 > 		**S** - Entropy - Unuseful energy used or absorbed, often heat
         
-2.  First and second laws of thermodynamics and relationship to biologyRelationship between G, H, SRelationship between G, H, SRelationship between G, H, S
+2.  First and second laws of thermodynamics and relationship to biologyRelationship between G, H, SRelationship between G, H, SRelationship between G, H, SRelationship between G, H, S
     
 3.  ATP Cycle – understand the diagram
     
