@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/Colleges.md",
+                "file": "college/Interview Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/Colleges.md"
+                "file": "college/Interview Prep.md"
               }
             }
           },
@@ -159,8 +158,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc2dd524f7caac8b",
+  "active": "4a525f6e31ce8430",
   "lastOpenFiles": [
+    "Private/college/Colleges.md",
     "college/Interview Prep.md",
     "Private/college/QB Essay 1 Brainstorm.md",
     "Private/college/Additional Questions.md",
@@ -169,7 +169,6 @@
     "APBiology/3/Notes/BILL/Photosynthesis Practice FRQ.md",
     "APBiology/3/Notes/BILL/Photosynthesis POGIL.md",
     "APBiology/3/Notes/BILL/Photosynthesis Chalk Talk.md",
-    "APBiology/3/Notes/BILL/Photosynthesis Bell Ringer.md",
-    "APBiology/3/Notes/BILL/Activity Modeling.md"
+    "APBiology/3/Notes/BILL/Photosynthesis Bell Ringer.md"
   ]
 }
