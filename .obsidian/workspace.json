@@ -4,46 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "edc36a810cc74985",
+        "id": "86410e385846e8df",
         "type": "tabs",
         "children": [
           {
-            "id": "4a525f6e31ce8430",
+            "id": "1b22cac2e44ad6d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "college/Interview Prep.md",
+                "file": "APBiology/3/Notes/BILL/Activity Modeling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9a954997563670a9",
+            "id": "f05ee9acde39b31b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/college/QB Essay 1 Brainstorm.md",
-                "mode": "source",
+                "file": "Biology/Ch8/Cellular Respiration.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "da6798ed8c4d1486",
+            "id": "760ce4d3704e8340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/college/Additional Questions.md",
-                "mode": "source",
+                "file": "Biology/Ch8/Photosynthesis.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "college/Interview Prep.md",
+                "file": "Biology/Ch8/Cellular Respiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "college/Interview Prep.md"
+                "file": "Biology/Ch8/Cellular Respiration.md"
               }
             }
           },
@@ -146,13 +147,10 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "4a525f6e31ce8430",
+  "active": "f05ee9acde39b31b",
   "lastOpenFiles": [
-    "Private/college/Additional Questions.md",
     "college/Interview Prep.md",
+    "Private/college/Additional Questions.md",
     "Biology/Ch8/Cellular Respiration.md",
     "Biology/Ch8/Photosynthesis.md",
     "APBiology/3/Notes/BILL/Activity Modeling.md",

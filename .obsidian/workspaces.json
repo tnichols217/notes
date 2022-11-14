@@ -148,9 +148,6 @@
         "width": 300,
         "collapsed": true
       },
-      "ribbon": {
-        "mostRecentAction": ""
-      },
       "active": "4a525f6e31ce8430"
     },
     "biology": {
@@ -308,5 +305,5 @@
       "active": "f05ee9acde39b31b"
     }
   },
-  "active": "college"
+  "active": "biology"
 }
