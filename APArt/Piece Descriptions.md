@@ -20,7 +20,7 @@ Height:
 Width: 
 Length: 
 Materials: 
-- Blender
+Blender
 Object mode to create the general shape
 Recursive curves to make the strings
 Sculpt mode to fine tune the shape
