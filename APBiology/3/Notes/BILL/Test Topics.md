@@ -13,6 +13,7 @@
 > 		**G** - Gibb's free energy - the maximum availiable energy in a closed system
 > 		**H** - Enthalpy - Energy needed or radiated from a reaction
 > 		**S** - Entropy - Unuseful energy used or absorbed, often heat
+> 		**Ende**
         
 2.  First and second laws of thermodynamics and relationship to biology
     
