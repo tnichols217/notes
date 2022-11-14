@@ -1,6 +1,9 @@
 1.  Anabolic versus catabolic pathways
     
     1.  Definitions, examples
+
+		> [!def]
+		> **Anabolic**
         
     2.  Relationship between G, H, S – endergonic, exergonic – spontaneous, not spontaneous (see chart in notes)
         
