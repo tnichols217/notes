@@ -11,7 +11,8 @@
     2.  Relationship between G, H, S – endergonic, exergonic – spontaneous, not spontaneous (see chart in notes)
 
 > 		**G** - Gibb's free energy - the maximum availiable energy in a closed system
-> 		**H** - Enthalpy - Energy needed or radiated 
+> 		**H** - Enthalpy - Energy needed or radiated from a reaction
+> 		**S** - Entropy - Unuseful energy used or absorbed, often heat
         
 2.  First and second laws of thermodynamics and relationship to biology
     
