@@ -10,7 +10,8 @@
         
     2.  Relationship between G, H, S – endergonic, exergonic – spontaneous, not spontaneous (see chart in notes)
 
-> 		**G** - Gibb's free energy - the maximum availiable energy in a closed sys
+> 		**G** - Gibb's free energy - the maximum availiable energy in a closed system
+> 		**H** - Enthalpy - 
         
 2.  First and second laws of thermodynamics and relationship to biology
     
