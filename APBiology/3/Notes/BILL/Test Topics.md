@@ -19,7 +19,7 @@
 2.  First and second laws of thermodynamics and relationship to biology
 
 >	Energy cannot be created or destroyed, which is what the Gibbs' free energy formula states
->	
+>	Energy dissipates, which means goes from high to low concentration
 
 3.  ATP Cycle – understand the diagram
     
