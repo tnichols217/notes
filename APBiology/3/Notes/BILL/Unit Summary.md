@@ -1,1 +1,1 @@
-1. Breaking things down requires activation energy, 
+1. Breaking things down requires activation energy, which later releases more energy
