@@ -17,7 +17,10 @@
 > 		**Exergonic** - Net release of energy
         
 2.  First and second laws of thermodynamics and relationship to biology
-    
+
+>	Energy cannot be created or destroyed, which is what the Gibbs' free energy formula states
+>	
+
 3.  ATP Cycle – understand the diagram
     
 4.  Oxidation/reduction in terms of H
