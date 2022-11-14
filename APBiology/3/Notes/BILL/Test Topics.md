@@ -23,10 +23,12 @@
 
 3.  ATP Cycle – understand the diagram
 
->	ATP and ADP get recycled into each other, carrying e
+>	ATP and ADP get recycled into each other, carrying energy around
 
 4.  Oxidation/reduction in terms of H
-    
+
+>	
+
 5.  Respiration
     
     1.  3 (or 4?) parts – study the summary chart!!!
