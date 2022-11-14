@@ -3,7 +3,10 @@
     1.  Definitions, examples
 
 		> **Anabolic**
-		> Building stuff up 
+		> Building stuff up or storing energy (photosynthesis)
+		> 
+		> **Catabolic**
+		> Breaking stuff down or using energy (respiration)
         
     2.  Relationship between G, H, S – endergonic, exergonic – spontaneous, not spontaneous (see chart in notes)
         
