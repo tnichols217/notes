@@ -1,5 +1,3 @@
-**Unit 3 – Bioenergetics Test Topics**
-
 1.  Anabolic versus catabolic pathways
     
     1.  Definitions, examples
