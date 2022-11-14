@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "college/Interview Prep.md",
+                "file": "Private/college/Colleges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "college/Interview Prep.md"
+                "file": "Private/college/Colleges.md"
               }
             }
           },
@@ -158,10 +159,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a525f6e31ce8430",
+  "active": "cc2dd524f7caac8b",
   "lastOpenFiles": [
-    "Private/college/Colleges.md",
     "college/Interview Prep.md",
+    "Private/college/Colleges.md",
     "Private/college/QB Essay 1 Brainstorm.md",
     "Private/college/Additional Questions.md",
     "APBiology/3/Notes/BILL.md",
