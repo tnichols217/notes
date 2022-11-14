@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "fea706e156e586a5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "f05ee9acde39b31b",
             "type": "leaf",
             "state": {
@@ -51,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +143,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fea706e156e586a5",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
     "APBiology/3/Documents/BILL Packet/3.1_Cellular_Energetics_Unit_Map.docx.md",
     "APBiology/3/Documents/BILL Packet/3.2_Cellular_Energetics_Traffic_Light.docx.md",
