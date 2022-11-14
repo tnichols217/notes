@@ -23,12 +23,8 @@
             "id": "fea706e156e586a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/3/Documents/BILL Packet/3.1_Cellular_Energetics_Unit_Map.docx.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Documents/BILL Packet/3.1_Cellular_Energetics_Unit_Map.docx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "APBiology/3/Documents/BILL Packet/3.1_Cellular_Energetics_Unit_Map.docx.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,10 +154,10 @@
   },
   "active": "fea706e156e586a5",
   "lastOpenFiles": [
+    "APBiology/3/Documents/BILL Packet/3.1_Cellular_Energetics_Unit_Map.docx.md",
     "APBiology/3/Documents/BILL Packet/3.2_Cellular_Energetics_Traffic_Light.docx.md",
     "APBiology/3/Documents/BILL Packet/3.3_Cellular_Energetics_Test_Topics.docx.md",
     "APBiology/3/Documents/BILL Packet/3.4_Cellular_Energetics_Unit_Summary.docx.md",
-    "APBiology/3/Documents/BILL Packet/3.1_Cellular_Energetics_Unit_Map.docx.md",
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APArt/Piece Descriptions.md",
     "APArt/Sustained Investigation.md",
