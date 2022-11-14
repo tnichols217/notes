@@ -1,4 +1,14 @@
-## About the Portfolio
+
+        this.Announements.push(
+            {
+                id: 1,
+                author: "Trevor",
+                categories: [Category.General] as Category[],
+                title: "Hello",
+                content: "Welcome to DalatNet",
+                date: new Date()
+            } as Announcement
+        )## About the Portfolio
 
 You’ll submit a portfolio of artwork for evaluation at the end of the school year. You’ll upload digital images of your work and commentary online.
 

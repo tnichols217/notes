@@ -1,4 +1,14 @@
-# 1 - Piano
+
+        this.Announements.push(
+            {
+                id: 1,
+                author: "Trevor",
+                categories: [Category.General] as Category[],
+                title: "Hello",
+                content: "Welcome to DalatNet",
+                date: new Date()
+            } as Announcement
+        )# 1 - Piano
 Height: 
 Width: 
 Length: 
