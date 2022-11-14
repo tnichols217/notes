@@ -22,7 +22,9 @@
 >	Energy dissipates, which means goes from high to low concentration, so heat cant move from a cold object to a hot object
 
 3.  ATP Cycle – understand the diagram
-    
+
+>	ATP and ADP get recycled into each other, carrying e
+
 4.  Oxidation/reduction in terms of H
     
 5.  Respiration
