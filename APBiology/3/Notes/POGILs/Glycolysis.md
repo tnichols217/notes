@@ -5,4 +5,4 @@
 	1. 3
 	2. 2
 3. Yes, it takes two ATP, but produces 4 ATP and 2 NADH
-4. It has 
+4. It has the most potential energy (has the most bonds)
