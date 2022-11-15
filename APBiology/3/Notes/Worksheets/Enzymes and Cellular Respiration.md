@@ -29,4 +29,5 @@
 	2. More enzyme means more faster
 17. Respiration produces around 32 to 42 ATP, while fermentation only produces 2 ATP
 18. No NAD would be reproduced, and eventually there would not be any NAD to carry any electrons, stopping other functions like glycolysis. Converting the NADH to NAD is important for reusing the NAD, otherwise new NAD would have to be created, which would use more energy than it produces.
-19. Since strenuous exercise happens faster than you can supply oxygen for, this forces your muscle cells to break down glucose via fermentation instead of full respiration. The lack of oxygen leads to fermentation which leads to a lactic a
+19. Since strenuous exercise happens faster than you can supply oxygen for, this forces your muscle cells to break down glucose via fermentation instead of full respiration. The lack of oxygen leads to fermentation which leads to a lactic acid buildup.
+20. Oxygen enabled organisms are able to respirate, which is multi
