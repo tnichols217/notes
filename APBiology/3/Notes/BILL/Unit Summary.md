@@ -1,6 +1,6 @@
 ## Objectives
 
-1. 
+1. Autotrophs are abe to produce and use their own energy
 
 ## Essential Questions
 
