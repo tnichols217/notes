@@ -8,4 +8,5 @@
 4. It has the most potential energy (has the most bonds)
 5. Less, it has less bonds and the process to get from glucose to pyruvate produces usable chemical energy
 6. 2ATP
-7. 
+7. NAD+
+8. 
