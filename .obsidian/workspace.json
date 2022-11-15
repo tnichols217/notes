@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/3/Notes/POGILs/Free Energy.md",
+                "file": "APBiology/3/Notes/POGILs/Cellular Respiration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8469072e32d9969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/3/Notes/POGILs/Glycolysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/3/Notes/POGILs/Enzymes and Cellular Respiration.md",
+                "file": "APBiology/3/Notes/POGILs/Cellular Respiration.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/POGILs/Free Energy.md",
+                "file": "APBiology/3/Notes/POGILs/Glycolysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/POGILs/Free Energy.md"
+                "file": "APBiology/3/Notes/POGILs/Glycolysis.md"
               }
             }
           },
@@ -182,12 +195,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "805d70a1aee3b5f1",
+  "active": "d8469072e32d9969",
   "lastOpenFiles": [
-    "APBiology/3/Notes/POGILs/Enzymes and Cellular Respiration.md",
+    "APBiology/3/Notes/POGILs/Cellular Respiration.md",
+    "APBiology/3/Notes/POGILs/Free Energy.md",
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/BILL/Unit Summary.md",
-    "APBiology/3/Notes/POGILs/Free Energy.md",
     "APBiology/3/Notes/BILL/Test Topics.md",
     "APBiology/3/Notes/BILL/Photosynthesis POGIL.md",
     "APBiology/3/Notes/BILL/Traffic Light.md",
