@@ -4,9 +4,9 @@
 	2. Small Intestine
 3. 3
    
-  | **Pepsin** | **1.5** |
-  | ---------- | ------- |
-  | **Lipase** | **8**   |
+    | **Pepsin** | **1.5** |
+    | ---------- | ------- |
+    | **Lipase** | **8**   |
 
 4. No Lipase, but maximum Pepsin
 5. No Pepsin, but maximum Lipase
