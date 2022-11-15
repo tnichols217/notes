@@ -3,11 +3,9 @@
 	1. The stomach
 	2. Small Intestine
 3. 3
-   
     | **Pepsin** | **1.5** |
     | ---------- | ------- |
     | **Lipase** | **8**   |
-
 4. No Lipase, but maximum Pepsin
 5. No Pepsin, but maximum Lipase
 6. It becomes denatured and malshaped
@@ -33,4 +31,4 @@
 19. Since strenuous exercise happens faster than you can supply oxygen for, this forces your muscle cells to break down glucose via fermentation instead of full respiration. The lack of oxygen leads to fermentation which leads to a lactic acid buildup.
 20. Oxygen enabled organisms are able to respirate, which is multiple times better at breaking down energy from glucose (about 18x better), this allows them to be more efficient, needing less sugar as food.
 21. 21
-22. 
+	1. 
