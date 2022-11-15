@@ -27,6 +27,5 @@
 16. 16
 	1. Linearly increasing, directly related
 	2. More enzyme means more faster
-17. 17
-	1. Respiration produces around 32 to 42 ATP, while fermentation only produces 2 ATP
+17. Respiration produces around 32 to 42 ATP, while fermentation only produces 2 ATP
 18. 
