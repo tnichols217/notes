@@ -34,5 +34,6 @@
 21. 21
 	1. Fermentation is happening
 	2. The cytoplasm breaks down the glucose, but cannot perform respiration without the mitochondrial matrix, this leads to a buildup of lactic acid. The mitochondria would not need to and cannot perform fermentation, so it only breaks down the pyruvate via respiration
-	3. First it converts all the glucose into pyruvate through glycolysis, then all the pyruvate is converted into lactic acid by recycling the NADP, this leads to a buildup of lactic acid
-	4. 
+	3. The cytoplasm does not have the ability to use oxygen to break down molecules, so it did not have the oxygen part of carbon dioxide. 
+	4. First it converts all the glucose into pyruvate through glycolysis, then all the pyruvate is converted into lactic acid by recycling the NADP, this leads to a buildup of lactic acid
+	5. 
