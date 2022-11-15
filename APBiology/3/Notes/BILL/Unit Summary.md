@@ -1,8 +1,3 @@
-## Objectives
-
-1. Autotrophs are abe to produce and use their own energy without the help of other organisms, they normally rely on using heat or light energy from their environment. Heterotrophs rely on eating other organisms to take their stored energy (sugars) in order to survive
-2. 
-
 ## Essential Questions
 
 1. Breaking things down requires activation energy, which later releases more energy, which can be used to move muscles, grow, and even reproduce.
