@@ -1,6 +1,6 @@
 ## Objectives
 
-1. Autotrophs are abe to produce and use their own energy
+1. Autotrophs are abe to produce and use their own energy without the help of other organisms, they normally rely on using heat or light energy from their environment. Heterotrophs rely on eating other organisms to t
 
 ## Essential Questions
 
