@@ -28,4 +28,5 @@
 	1. Linearly increasing, directly related
 	2. More enzyme means more faster
 17. Respiration produces around 32 to 42 ATP, while fermentation only produces 2 ATP
-18. No NAD would be reproduced, and eventually there would not be any NAD to carry any electrons, stopping other functions like glycolysis. Converting
+18. No NAD would be reproduced, and eventually there would not be any NAD to carry any electrons, stopping other functions like glycolysis. Converting the NADH to NAD is important for reusing the NAD, otherwise new NAD would have to be created, which would use more energy than it produces.
+19. 
