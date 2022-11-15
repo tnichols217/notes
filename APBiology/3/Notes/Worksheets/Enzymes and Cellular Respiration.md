@@ -33,4 +33,4 @@
 20. Oxygen enabled organisms are able to respirate, which is multiple times better at breaking down energy from glucose (about 18x better), this allows them to be more efficient, needing less sugar as food.
 21. 21
 	1. Fermentation is happening
-	2. 
+	2. The cytoplasm breaks 
