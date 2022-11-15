@@ -10,4 +10,6 @@
 6. 2ATP
 7. NAD+
 8. From the previous molecule, which got the Pi from the first two ATP
-9. 
+9. Mitochondrion
+10. 10
+	1. 
