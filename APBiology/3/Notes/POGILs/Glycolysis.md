@@ -9,4 +9,5 @@
 5. Less, it has less bonds and the process to get from glucose to pyruvate produces usable chemical energy
 6. 2ATP
 7. NAD+
-8. 
+8. From the previous molecule, which got the Pi from the first two ATP
+9. 
