@@ -72,7 +72,8 @@
 27. Light depenent creates ATP and other electron carriers essential to the light indepenent reactions, which produce glucose and and recycle the electron carriers
 28. 28
     
-    | $6CO_2$ | $12H_2O$ | ->  | $C_6H_{12}O_6$ | $6$
-    | ------- | -------- | --- | -------------- |
+    | $6CO_2$   | $12H_2O$ | ->  | $C_6H_{12}O_6$ | $6O_2$ | $6H_2O$ |
+    | --------- | -------- | --- | -------------- | ------ | ------- |
+    | LD (used) | LD (used)         |     |                |        |         |
     
 29. 
