@@ -68,4 +68,5 @@
 	1. Two, one PGAL has 3 Carbons and Glucose has 6
 	2. Two or Six depending on how you count it
 	3. 18 ATP and 12 NADPH
-26. Back to  
+26. Back to be reused in other cellular processes, such as photosynthesis again
+27. 
