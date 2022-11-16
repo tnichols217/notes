@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dbeca5e5f9531daa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md"
+              }
             }
           },
           {
@@ -128,7 +122,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dbeca5e5f9531daa",
+  "active": "99c0d73967bda196",
   "lastOpenFiles": [
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/Bell Ringers/Photosynthetic Activity.md",
