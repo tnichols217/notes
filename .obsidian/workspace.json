@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fed3767d37bdaa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Ch8/Cellular Respiration.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/POGILs/Glycolysis.md",
+                "file": "Biology/Ch8/Cellular Respiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/POGILs/Glycolysis.md"
+                "file": "Biology/Ch8/Cellular Respiration.md"
               }
             }
           },
@@ -135,10 +147,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99e2778a82f1f4a9",
+  "active": "3fed3767d37bdaa4",
   "lastOpenFiles": [
-    "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/POGILs/Glycolysis.md",
+    "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/POGILs/Free Energy.md",
     "APBiology/3/Notes/POGILs/Cellular Respiration.md",
     "APBiology/3/Notes/BILL/Activity Modeling.md",

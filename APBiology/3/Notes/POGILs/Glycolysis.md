@@ -12,4 +12,8 @@
 8. From the previous molecule, which got the Pi from the first two ATP
 9. Mitochondrion
 10. 10
-	1. No, pyruvate is 
+	1. No, pyruvate is a large polar molecule, meaning it probably would not fit through the membrane
+	2. With a facilitated transport protein it could be diffused across the membrane
+11. A carbon dioxide molecule
+12. 12
+	1. 
