@@ -33,10 +33,10 @@
 15. It is the final electron acceptor in the electron transport chain, allowing the conversion of NADH and FADH into a proton gradient
 16. 16
     
-    |             | Reactants      |        | Products |         |        |
-    | ----------- | -------------- | ------ | -------- | ------- | ------ |
-    |             | $C_6H_{12}O_6$ | $6O_2$ | $6CO_2$  | $6H_2O$ | 38 ATP |
-    | Phases used |                |        |          |         |        |
-    | Location    |                |        |          |         |        |
+    |             | Reactants      |                | Products     |                |              |
+    | ----------- | -------------- | -------------- | ------------ | -------------- | ------------ |
+    |             | $C_6H_{12}O_6$ | $6O_2$         | $6CO_2$      | $6H_2O$        | 38 ATP       |
+    | Phases used | Glycolysis     | ETC            | Krebs Cycle  | ETC            | Chemiosmosis |
+    | Location    | Cytoplasm      | Mito. Membrane | Mito. Matrix | Mito. Membrane | Mito. Membrane             |
     
-17. 
+17. Oxidative phosphorylation is used to produce ATP from ADP in chemiosmosis. Substrate level phosphorylation is used in glycolysis and kreb
