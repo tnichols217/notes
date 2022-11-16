@@ -1,2 +1,2 @@
-1. 425, 675
-2. It has more than just cholophyll for its pigments
+1. 430, 680
+2. Accessory Pigments, they absorb light at a different range of chlorophyll

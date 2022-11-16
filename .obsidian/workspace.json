@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6f3b728662d06ff",
+            "id": "99c0d73967bda196",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/3/Notes/Bell Ringers/Photosynthesis.md",
+                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3a4af0e625736ac9",
+            "id": "d6f3b728662d06ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/3/Notes/Bell Ringers/Photosynthesis.md",
+                "file": "APBiology/3/Notes/Bell Ringers/Action and Absorption Spectra for Photosynthesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,12 +59,8 @@
             "id": "dbeca5e5f9531daa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/3/Notes/Bell Ringers/Photosynthesis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -133,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/Bell Ringers/Photosynthesis.md",
+                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/Bell Ringers/Photosynthesis.md"
+                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md"
               }
             }
           },
@@ -170,14 +166,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6f3b728662d06ff",
+  "active": "99c0d73967bda196",
   "lastOpenFiles": [
-    "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
-    "APBiology/3/Notes/Bell Ringers/Photosynthesis.md",
-    "APBiology/3/Notes/Bell Ringers/Photosynthetic Activity.md",
     "APBiology/3/Notes/Bell Ringers/Action and Absorption Spectra for Photosynthesis.md",
+    "APBiology/3/Notes/Bell Ringers/Photosynthesis.md",
     "APBiology/3/Notes/Bell Ringers/Enzymes and their Activity.md",
     "APBiology/3/Notes/Bell Ringers/Enzymes.md",
+    "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
+    "APBiology/3/Notes/Bell Ringers/Photosynthetic Activity.md",
     "APBiology/3/Notes/BILL/8 cellular respiration.md",
     "Biology/Ch8/Cellular Respiration.md",
     "Biology/Ch8/Photosynthesis.md"
