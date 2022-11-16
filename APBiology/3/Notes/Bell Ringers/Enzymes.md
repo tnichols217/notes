@@ -1,1 +1,1 @@
-1. One forms
+1. One combines the substrates together to form a product. The other takes a substrate and splits in
