@@ -19,4 +19,9 @@
 	1. Pyrivate Oxydase
 	2. 2
 	3. Acetyl CoA
-	4. 
+	4. Has a single bond with the Carbon backbone
+13. 0
+14. 1 NADH
+15. 2 Acetyl CoA, 2 $CO_2$, 2 NADH
+16. Inside the mitochondrial matrix
+17. 
