@@ -78,4 +78,5 @@
     
 29. Sunlight -> Electrons -> ATP -> Glucose
 30. Cellular Respiration
-31. 
+31. 31
+	1. Over time, the carbon dioxide will get used up and turned into oxygen as photosynthesis happens, as 
