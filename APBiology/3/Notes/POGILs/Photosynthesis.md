@@ -66,4 +66,5 @@
 	6. Goes off to produce Glucose and other biomolecules
 25. 25
 	1. Two, one PGAL has 3 Carbons and Glucose has 6
-	2. 
+	2. Two or Six depending on how you count it
+	3. 
