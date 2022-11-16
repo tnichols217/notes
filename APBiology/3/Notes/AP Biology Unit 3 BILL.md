@@ -13,21 +13,21 @@ Bell Ringer# Bill Packet
 
 # Activity Log 
 
-- [x] Activity: Enzyme POGIL ✅
-- [ ] Activity: Enzyme Pathway Simulation
+1. [x] Activity: Enzyme POGIL ✅
+2. [ ] Activity: Enzyme Pathway Simulation
 - [x] Activity: Enzyme Inquiry Diagrams & Questions
 - [ ] BR: Enzyme Activity ✅
 - [ ] BR: Enzyme and Their Activity ✅
 - [ ] Activity: How to Write Free Response Questions (2010 FRQ #2 - Enzyme)
-- [] Activity: Free Energy POGIL ✅
-- [] Activity: ATP-The Free Energy Carrier POGIL ✅
-- [] BR: Interpreting Action Spectrum/Absorption ✅
-- [] Activity: Photosynthesis Guided Inquiry POGIL ✅
-- [] BR: Photosynthetic Activity Data Analysis ✅
-- [] Chalk Talk: Photosynthesis
-- [] BR: DPIP & Photosynthesis Practice FRQ ✅
-- [] Investigation: Photosynthesis Leaf Disk Lab (Handout only)
-- [] Activity: Cellular Respiration--An Overview POGIL ✅
-- [] Activity: Glycolysis and the Krebs Cycle POGIL ✅
-- [] Activity: Oxidative Phosphorylation POGIL ✅
-- [] Chalk Talk: Cellullar Respiration & Fermentation
+- [ ] Activity: Free Energy POGIL ✅
+- [ ] Activity: ATP-The Free Energy Carrier POGIL ✅
+- [ ] BR: Interpreting Action Spectrum/Absorption ✅
+- [ ] Activity: Photosynthesis Guided Inquiry POGIL ✅
+- [ ] BR: Photosynthetic Activity Data Analysis ✅
+- [ ] Chalk Talk: Photosynthesis
+- [ ] BR: DPIP & Photosynthesis Practice FRQ ✅
+- [ ] Investigation: Photosynthesis Leaf Disk Lab (Handout only)
+- [ ] Activity: Cellular Respiration--An Overview POGIL ✅
+- [ ] Activity: Glycolysis and the Krebs Cycle POGIL ✅
+- [ ] Activity: Oxidative Phosphorylation POGIL ✅
+- [ ] Chalk Talk: Cellullar Respiration & Fermentation
