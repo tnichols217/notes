@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/Labs/Leaf Disc.md",
+                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/Labs/Leaf Disc.md"
+                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md"
               }
             }
           },
@@ -135,8 +134,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "426f98f8021c6250",
+  "active": "99c0d73967bda196",
   "lastOpenFiles": [
+    "APBiology/3/Notes/Labs/Leaf Disc.md",
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/Bell Ringers/Photosynthetic Activity.md",
     "APBiology/3/Notes/Bell Ringers/Action and Absorption Spectra for Photosynthesis.md",
@@ -145,7 +145,6 @@
     "APBiology/3/Notes/BILL/Photosynthesis Chalk Talk.md",
     "APBiology/3/Notes/BILL/Activity Modeling.md",
     "APBiology/3/Notes/Bell Ringers/Photosynthesis.md",
-    "APBiology/3/Notes/Bell Ringers/Enzymes and their Activity.md",
-    "APBiology/3/Notes/Bell Ringers/Enzymes.md"
+    "APBiology/3/Notes/Bell Ringers/Enzymes and their Activity.md"
   ]
 }
