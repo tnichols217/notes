@@ -13,14 +13,14 @@ Bell Ringer# Bill Packet
 
 # Activity Log 
 
-- [x] Activity: Enzyme POGIL ✅
+1. [x] Activity: Enzyme POGIL ✅
 2. [] Activity: Enzyme Pathway Simulation
 3. [x] Activity: Enzyme Inquiry Diagrams & Questions
-4. BR: Enzyme Activity ✅
-5. BR: Enzyme and Their Activity ✅
-6. Activity: How to Write Free Response Questions (2010 FRQ #2 - Enzyme)
-7. Activity: Free Energy POGIL ✅
-8. Activity: ATP-The Free Energy Carrier POGIL ✅
+4. [] BR: Enzyme Activity ✅
+5. [] BR: Enzyme and Their Activity ✅
+6. [] Activity: How to Write Free Response Questions (2010 FRQ #2 - Enzyme)
+7. [] Activity: Free Energy POGIL ✅
+8. [] Activity: ATP-The Free Energy Carrier POGIL ✅
 9. BR: Interpreting Action Spectrum/Absorption ✅
 10. Activity: Photosynthesis Guided Inquiry POGIL ✅
 11. BR: Photosynthetic Activity Data Analysis ✅
