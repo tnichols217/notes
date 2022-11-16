@@ -39,4 +39,9 @@
     | Phases used | Glycolysis     | ETC            | Krebs Cycle  | ETC            | Chemiosmosis |
     | Location    | Cytoplasm      | Mito. Membrane | Mito. Matrix | Mito. Membrane | Mito. Membrane             |
     
-17. Oxidative phosphorylation is used to produce ATP from ADP in chemiosmosis. Substrate level phosphorylation is used in glycolysis and kreb
+17. Oxidative phosphorylation is used to produce ATP from ADP in chemiosmosis. Substrate level phosphorylation is used in glycolysis and krebs cycle.
+18. The intermembrane space, as it has a high concentration of protons
+19. No energy will be able to be produced and the cell will die
+20. 20
+	1. Glycolysis and fermentation
+	2. The cell membrane
