@@ -83,4 +83,5 @@
 	2. Oxygen will steadily increase over time as it is the direct product of taking the carbon from the carbon dioxide
 	3. RuBP gets used and reused throughout the calvin cycle, so its concentration will vary throughout the cycle
 32. 32
-	1. 
+	1. It fails to mention that some water is needed to start the reaction
+	2. 
