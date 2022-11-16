@@ -51,4 +51,11 @@
 21. Adds the carbon from carbon dioxide to the cycle
 22. 22
 	1. PGAL
-	2. 
+	2. The Oxygen on the end is swapped for Hydrogen
+	3. 6 ATP and 6 NADPH
+	4. No, 6 PGA and 6 PGAL both have 3 carbons each
+23. 23
+	1. 6
+	2. PGA, NADPH, ATP
+24. 24
+	1. 
