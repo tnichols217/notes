@@ -39,4 +39,16 @@
 16. Light independent reactions
 17. Carbon Fixation, Reduction, Regeneration
 18. 18
-	1. 
+	1. 3
+	2. 5
+	3. 15
+19. 19
+	1. 3
+	2. 6
+	3. 3
+	4. 18
+20. Exited the cycle in PGAL
+21. Adds the carbon from carbon dioxide to the cycle
+22. 22
+	1. PGAL
+	2. 
