@@ -70,4 +70,5 @@
 	3. 18 ATP and 12 NADPH
 26. Back to be reused in other cellular processes, such as photosynthesis again
 27. Light depenent creates ATP and other electron carriers essential to the light indepenent reactions, which produce glucose and and recycle the electron carriers
-28. 
+28. 28
+29. 
