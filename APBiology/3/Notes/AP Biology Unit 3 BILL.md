@@ -22,7 +22,7 @@
 7. Activity: Free Energy POGIL ✅
 8. Activity: ATP-The Free Energy Carrier POGIL ✅
 9. BR:  Interpreting Action Spectrum/Absorption
-10. Activity: Photosynthesis Guided Inquiry POGIL
+10. Activity: Photosynthesis Guided Inquiry POGIL 
 11. BR: Photosynthetic Activity Data Analysis
 12. Chalk Talk: Photosynthesis
 13. BR: DPIP & Photosynthesis Practice FRQ
