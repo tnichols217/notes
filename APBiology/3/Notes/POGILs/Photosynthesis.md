@@ -64,11 +64,5 @@
 	4. RuBP
 	5. 3
 	6. Goes off to produce Glucose and other biomolecules
-
-Must work hard the entire class period                (2)
-
-Must work hard the entire class period                (2)
-
-Must work hard the entire class period                (2)
-
-Must work hard the entire class period                (2)
+25. 25
+	1. 
