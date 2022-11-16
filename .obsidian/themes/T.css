@@ -78,6 +78,8 @@
 .cm-editor {
   --font-monospace: "FiraCode Nerd Font", "Hack";
   --font-text: var(--font-monospace);
+  --font-normal: 450;
+  font-weight: var(--font-normal);
 }
 
 .titlebar-inner {

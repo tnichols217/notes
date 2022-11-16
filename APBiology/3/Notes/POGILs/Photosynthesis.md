@@ -9,4 +9,7 @@
 	4. Sunlight (electromagnetic energy as light)
 4. 4
 	1. Calvin cycle
-	2. 
+	2. In the Thylakoid
+	3. In the Stroma
+5. Chlorophyll
+6. 
