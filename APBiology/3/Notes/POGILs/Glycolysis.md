@@ -36,4 +36,10 @@
 21. 21
 	1. 4
 	2. The creation of a $CO_2$
-22. 3 NADH, 
+22. 3 NADH, 1 ATP, 1 FADH
+23. Citrate, it has the most bonds and releases a lot of energy without needing to bond with something else
+24. Oxaloacetate, it cannot release any high energy molecules without getting bonds from the Acetyl CoA
+25. The Acetyl CoA carries an acetyl group, which is high energy because it fuels the Krebs cycle to produce all the higher energy molecules
+26. 2
+27. 4 $CO_2$, 2 ATP, 6 NADH, 2 $FADH_2$
+28. 
