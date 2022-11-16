@@ -12,4 +12,4 @@
 8. From the previous molecule, which got the Pi from the first two ATP
 9. Mitochondrion
 10. 10
-	1. 
+	1. No, pyruvate is 
