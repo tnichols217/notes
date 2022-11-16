@@ -1,3 +1,4 @@
+# Bill Packet
 
 1. Unit map
 2. Traffic light
@@ -10,7 +11,7 @@
 - 3.5 Photosynthesis  
 - 3.6 Cellular Respiration
 
-Activity Log: 
+# Activity Log 
 
 1. Activity: Enzyme POGIL
 2. Activity: Enzyme Pathway Simulation
