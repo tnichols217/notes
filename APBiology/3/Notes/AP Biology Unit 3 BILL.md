@@ -25,7 +25,7 @@ Bell Ringer# Bill Packet
 10. Activity: Photosynthesis Guided Inquiry POGIL ✅
 11. BR: Photosynthetic Activity Data Analysis
 12. Chalk Talk: Photosynthesis
-13. BR: DPIP & Photosynthesis Practice FRQ
+13. BRBR: DPIP & Photosynthesis Practice FRQ
 14. Investigation: Photosynthesis Leaf Disk Lab (Handout only)
 15. Activity: Cellular Respiration--An Overview POGIL ✅
 16. Activity: Glycolysis and the Krebs Cycle POGIL ✅
