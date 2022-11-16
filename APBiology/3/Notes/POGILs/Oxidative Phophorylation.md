@@ -18,4 +18,25 @@
 10. ATP Synthase
 11. The production of ATP with ATP Synthase
 12. ADP
-13. 
+13. 13
+    
+    |-			|Number of ATP produced	|Number of NADH produced|Number of FADH produced|
+    |-			|-						|-				|-|
+    |-			|-						|NADH			|FADH|
+    |Glycolysis	|2 ATP					|2 NADH			|0 FADH|
+    |Krebs Cycle|2 ATP					|8 NADH			|2 FADH|
+    |Electron Transport Chain|-			|x3				|x2|
+    |Total ATP produced|4ATP			|30 ATP			|4 ATP|
+    |Grand Total||										|38 ATP|
+    
+14. 14 ^^
+15. It is the final electron acceptor in the electron transport chain, allowing the conversion of NADH and FADH into a proton gradient
+16. 16
+    
+    |             | Reactants      |        | Products |         |        |
+    | ----------- | -------------- | ------ | -------- | ------- | ------ |
+    |             | $C_6H_{12}O_6$ | $6O_2$ | $6CO_2$  | $6H_2O$ | 38 ATP |
+    | Phases used |                |        |          |         |        |
+    | Location    |                |        |          |         |        |
+    
+17. 
