@@ -76,4 +76,5 @@
     | --------- | --------- | --- | -------------- | ------------- | ------------- |
     | LD (used) | LD (used) |     | LID (produced) | LD (produced) | LD (produced) | 
     
-29. Sunlight ->
+29. Sunlight -> Electrons -> ATP -> Glucose
+30. 
