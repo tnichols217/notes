@@ -58,4 +58,9 @@
 	1. 6
 	2. PGA, NADPH, ATP
 24. 24
-	1. 
+	1. 5
+	2. 3 ATP
+	3. 15
+	4. RuBP
+	5. 3
+	6. Goes off to produce Glucose and other biomolecules
