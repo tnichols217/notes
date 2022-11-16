@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c86a3195cb7e849e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/3/Notes/POGILs/Photosynthesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3fed3767d37bdaa4",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
+                "file": "APBiology/3/Notes/POGILs/Photosynthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md"
+                "file": "APBiology/3/Notes/POGILs/Photosynthesis.md"
               }
             }
           },
@@ -134,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dbeca5e5f9531daa",
+  "active": "c86a3195cb7e849e",
   "lastOpenFiles": [
-    "Biology/Ch8/Cellular Respiration.md",
-    "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/POGILs/Oxidative Phophorylation.md",
+    "APBiology/3/Notes/POGILs/Photosynthesis.md",
+    "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
+    "Biology/Ch8/Cellular Respiration.md",
     "APBiology/3/Notes/POGILs/Glycolysis.md",
     "APBiology/3/Notes/POGILs/Free Energy.md",
     "APBiology/3/Notes/POGILs/Cellular Respiration.md",
     "APBiology/3/Notes/BILL/Activity Modeling.md",
     "APBiology/2/Notes/BILL.pdf",
-    "APBiology/2/Notes/BILL.md",
-    "Biology/Ch8/Photosynthesis.md"
+    "APBiology/2/Notes/BILL.md"
   ]
 }
