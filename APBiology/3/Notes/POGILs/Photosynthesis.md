@@ -23,4 +23,8 @@
 	1. Outside Photosystem II
 	2. In the ETC
 	3. Inside side of the ETC
-11. 
+11. It uses energy to pump protons into an area to create a gradient
+12. 12
+	1. Photosystem II
+	2. Photosystem I
+	3. 
