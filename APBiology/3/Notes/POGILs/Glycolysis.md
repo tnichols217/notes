@@ -16,4 +16,7 @@
 	2. With a facilitated transport protein it could be diffused across the membrane
 11. A carbon dioxide molecule
 12. 12
-	1. 
+	1. Pyrivate Oxydase
+	2. 2
+	3. Acetyl CoA
+	4. 
