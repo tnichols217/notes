@@ -33,4 +33,10 @@
 	2. ETC
 14. No
 15. 15
-	1. $2H_2O$ + Light + $2NADP^+$ + $3ADP$ => $2NADPH$ + 
+	1. $2H_2O$ + Light + $2NADP^+$ + $3ADP$ => $2NADPH$ + $O_2$ + $3ATP$
+	2. No, they are reactants
+	3. 6 Oxygen, 12 NADPH, 18 ATP
+16. Light independent reactions
+17. Carbon Fixation, Reduction, Regeneration
+18. 18
+	1. 
