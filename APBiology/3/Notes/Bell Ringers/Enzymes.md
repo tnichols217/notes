@@ -1,1 +1,1 @@
-1. One combines the substrates together to form a product (. The other takes a substrate and splits it into products.
+1. One combines the substrates together to form a product (often . The other takes a substrate and splits it into products.
