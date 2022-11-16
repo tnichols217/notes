@@ -42,4 +42,5 @@
 25. The Acetyl CoA carries an acetyl group, which is high energy because it fuels the Krebs cycle to produce all the higher energy molecules
 26. 2
 27. 4 $CO_2$, 2 ATP, 6 NADH, 2 $FADH_2$
-28. 
+28. No
+29. Citrate to $\alpha$-Ketoglutenase, the main molecule loses free energy, but 
