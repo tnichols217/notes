@@ -80,4 +80,5 @@
 30. Cellular Respiration
 31. 31
 	1. Over time, the carbon dioxide will get used up and turned into oxygen as photosynthesis happens, as the carbon will be taken from the molecule
-	2. Oxygen will steadily increase over time as 
+	2. Oxygen will steadily increase over time as it is the direct product of taking the carbon from the carbon dioxide
+	3. RuBP gets used and reused throughout th
