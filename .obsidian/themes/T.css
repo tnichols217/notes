@@ -41,6 +41,9 @@
   --h4-color: var(--color-3-4);
   --h5-color: var(--color-3-5);
   --h6-color: var(--color-3-6);
+
+  --font-monospace: "FiraCode Nerd Font", "Hack";
+  --font-text: var(--font-monospace);
 }
 
 .theme-light {
@@ -71,6 +74,9 @@
   --h4-color: var(--color-3-4);
   --h5-color: var(--color-3-5);
   --h6-color: var(--color-3-6);
+
+  /* --font-monospace: "FiraCode Nerd Font, Hack, 'monospace', monospace"; */
+  --font-text: var(--font-monospace);
 }
 
 /* 2. UI */
