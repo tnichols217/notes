@@ -43,4 +43,8 @@
 26. 2
 27. 4 $CO_2$, 2 ATP, 6 NADH, 2 $FADH_2$
 28. No
-29. Citrate to $\alpha$-Ketoglutenase, the main molecule loses free energy, but 
+29. Citrate to $\alpha$-Ketoglutenase, the main molecule loses free energy, but going from NAD to NADH increases free enrgy
+30. 30
+	1. Pyruvate, Glucose, and Acetyl CoA
+	2. A fat molecule would be able to store many times more energy as it has more bonds and could possibly break down into multiple glucose molecules
+	3. Muscles, Heart, Brain
