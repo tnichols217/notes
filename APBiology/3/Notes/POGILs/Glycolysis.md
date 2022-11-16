@@ -24,4 +24,16 @@
 14. 1 NADH
 15. 2 Acetyl CoA, 2 $CO_2$, 2 NADH
 16. Inside the mitochondrial matrix
-17. 
+17. Acetyl-CoA
+18. Not directly
+19. 19
+	1. 4
+	2. 6
+	3. The acetyl-CoA
+20. 20
+	1. 5
+	2. The creation of a $CO_2$
+21. 21
+	1. 4
+	2. The creation of a $CO_2$
+22. 3 NADH, 
