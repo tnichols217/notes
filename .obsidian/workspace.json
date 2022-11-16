@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/Bell Ringers/Enzymes and their Activity.md",
+                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/Bell Ringers/Enzymes and their Activity.md"
+                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md"
               }
             }
           },
@@ -159,8 +158,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e0c1f7fa2df173f0",
+  "active": "d6f3b728662d06ff",
   "lastOpenFiles": [
+    "APBiology/3/Notes/Bell Ringers/Enzymes and their Activity.md",
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/Bell Ringers/Enzymes.md",
     "APBiology/3/Notes/Bell Ringers/Photosynthetic Activity BR.md",
@@ -169,7 +169,6 @@
     "Biology/Ch8/Cellular Respiration.md",
     "Biology/Ch8/Photosynthesis.md",
     "APBiology/3/Notes/BILL/Photosynthesis Chalk Talk.md",
-    "APBiology/3/Notes/BILL/Photosynthesis POGIL.md",
-    "APBiology/3/Notes/POGILs/Photosynthesis.md"
+    "APBiology/3/Notes/BILL/Photosynthesis POGIL.md"
   ]
 }
