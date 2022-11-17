@@ -14,4 +14,4 @@
 - Taught Elizabeth Gould and also contributed to John Gould's works
 - Loved to compose nonsense music and composed songs to a lot of poems of his era
 - Had a huge crush on Franklin Lushington, but he didnt reciprocate and remained friends for over 40 years until his death
-- Also proposed to a girl 
+- Also proposed to a girl 46 years younger twice, but rejected
