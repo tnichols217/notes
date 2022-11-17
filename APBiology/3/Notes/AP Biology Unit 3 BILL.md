@@ -5,7 +5,7 @@ Bell Ringer# Bill Packet
 3. [x] Test topics
 4. [x] Unit summary
 5. [ ] Official AP Biology unit summary
-6. [x] Topic review guides
+6. [ ] Topic review guides
 	- 3.1,3.2,3.3 Enzyme Structure, Catalysis and Environmental Impacts  
 	- 3.4 Cellular Energy  
 	- 3.5 Photosynthesis  
