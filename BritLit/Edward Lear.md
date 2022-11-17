@@ -15,7 +15,7 @@
 - Minor illustrator of Lord Tennyson's poems, and did a lot of art
 - Taught Elizabeth Gould and also contributed to John Gould's works
 - Loved to compose nonsense music and composed songs to a lot of poems of his era, mostly played the piano
-- Had a huge crush on Franklin Lushington, but he didnt reciprocate and remained friends for over 40 years until his death
+- Had a huge crush on Franklin Lushington, but he didnt reciprocate and remained friends for over 40 years until his death, which led to a lot of internal pain
 - Also proposed to a girl 46 years younger twice, but rejected
 - "The Learian limerick focuses on the singular individual"
-- Food is often used as a symbol in his 
+- Food is often used as a symbol in his work, sharing means affection and gluttony is egoistical
