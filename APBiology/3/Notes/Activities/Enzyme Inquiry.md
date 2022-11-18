@@ -12,4 +12,5 @@
 12. Enzymes increase the rate of chemical reaction
 13. The chemical reaction won't happen
 14. Lowers the activation energy
-15. 
+15. Protein, amino acids
+16. 
