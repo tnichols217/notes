@@ -16,3 +16,4 @@
 16. polarity and charge
 17. Interactions between different R groups
 18. Hydrogen bonds, hydrophobic interactions, disulfide bridges, and ionic bonds
+19. 
