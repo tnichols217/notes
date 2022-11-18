@@ -19,4 +19,5 @@
 | **15**     | 0            | 2          | 0            | 0          | 2             | 0           |
 
 ## Meta-info
-1. Our team sought to 
+1. Our team sought to see how the intensity of light would effect the photosynthetic rate
+2. We predicted that the higher the intensity
