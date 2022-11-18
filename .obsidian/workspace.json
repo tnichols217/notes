@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "995d0f6859a9c6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/3/Notes/Activities/Enzyme Inquiry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4567035079966c42",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
+                "file": "APBiology/3/Notes/Activities/Enzyme Inquiry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md"
+                "file": "APBiology/3/Notes/Activities/Enzyme Inquiry.md"
               }
             }
           },
@@ -134,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99c0d73967bda196",
+  "active": "995d0f6859a9c6a7",
   "lastOpenFiles": [
+    "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
+    "APBiology/3/Notes/Activities/Enzyme Inquiry.md",
     "APBiology/3/Notes/BILL/Test Topics.md",
     "APBiology/3/Notes/Labs/Leaf Disc.md",
-    "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/Activities/Enzyme Pathway Simulation.md",
     "APBiology/3/Notes/BILL/Unit Summary.md",
     "APBiology/3/Notes/BILL/Traffic Light.md",
     "APBiology/3/Notes/BILL/Photosynthesis Chalk Talk.md",
     "APBiology/3/Notes/BILL/Activity Modeling.md",
-    "APBiology/3/Notes/Bell Ringers/Enzymes.md",
-    "APBiology/3/Notes/Bell Ringers/Enzymes and their Activity.md"
+    "APBiology/3/Notes/Bell Ringers/Enzymes.md"
   ]
 }
