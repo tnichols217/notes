@@ -10,4 +10,6 @@
 10. The shapes don't match, so the reactant can't bind to the enzyme
 11. Shape and charge
 12. Enzymes increase the rate of chemical reaction
-13. The chemical reaction wont happen
+13. The chemical reaction won't happen
+14. Lowers the activation energy
+15. 
