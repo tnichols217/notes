@@ -24,7 +24,7 @@ Bell Ringer# Bill Packet
 9. [x] BR: Interpreting Action Spectrum/Absorption
 10. [x] Activity: Photosynthesis Guided Inquiry POGIL
 11. [x] BR: Photosynthetic Activity Data Analysis
-12. [ ] Chalk Talk: Photosynthesis
+12. [x] Chalk Talk: Photosynthesis
 13. [x] BR: DPIP & Photosynthesis Practice FRQ
 14. [x] Investigation: Photosynthesis Leaf Disk Lab (Handout only)
 15. [x] Activity: Cellular Respiration--An Overview POGIL

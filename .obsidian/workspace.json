@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "699ab6dad6128375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/3/Documents/Chalk Talks/Photosynthesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4567035079966c42",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Documents/Chalk Talks/Photosynthesis.md",
+                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Documents/Chalk Talks/Photosynthesis.md"
+                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md"
               }
             }
           },
@@ -147,8 +134,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "699ab6dad6128375",
+  "active": "99c0d73967bda196",
   "lastOpenFiles": [
+    "APBiology/3/Notes/Chalk Talks/Photosynthesis.md",
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/Activities/Enzyme Inquiry.md",
     "APBiology/3/Notes/BILL/Test Topics.md",
@@ -157,7 +145,6 @@
     "APBiology/3/Notes/BILL/Unit Summary.md",
     "APBiology/3/Notes/BILL/Traffic Light.md",
     "APBiology/3/Notes/BILL/Photosynthesis Chalk Talk.md",
-    "APBiology/3/Notes/BILL/Activity Modeling.md",
-    "APBiology/3/Notes/Bell Ringers/Enzymes.md"
+    "APBiology/3/Notes/BILL/Activity Modeling.md"
   ]
 }
