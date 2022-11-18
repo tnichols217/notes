@@ -30,4 +30,4 @@ Bell Ringer# Bill Packet
 15. [x] Activity: Cellular Respiration--An Overview POGIL
 16. [x] Activity: Glycolysis and the Krebs Cycle POGIL
 17. [x] Activity: Oxidative Phosphorylation POGIL
-18. [ ] Chalk Talk: Cellullar Respiration & Fermentation
+18. [ ] Chalk Talk: Cellular Respiration & Fermentation
