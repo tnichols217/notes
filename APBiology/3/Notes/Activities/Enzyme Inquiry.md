@@ -2,4 +2,5 @@
 2. The chemical change or reaction
 3. The Products
 4. Substrates
-5. 
+5. Bind to the enzyme
+6. 
