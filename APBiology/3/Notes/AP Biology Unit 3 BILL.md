@@ -15,7 +15,7 @@ Bell Ringer# Bill Packet
 
 1. [x] Activity: Enzyme POGIL
 2. [x] Activity: Enzyme Pathway Simulationdid you just
-3. [ ] Activity: Enzyme Inquiry Diagrams & Questions
+3. [x] Activity: Enzyme Inquiry Diagrams & Questions
 4. [x] BR: Enzyme Activity
 5. [x] BR: Enzyme and Their Activity
 6. [ ] Activity: How to Write Free Response Questions (2010 FRQ #2 - Enzyme)

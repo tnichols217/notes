@@ -43,4 +43,4 @@
 43. All the enzymes are in maximum use, so adding more subtrates would not increase the speed
 44. More enzyme
 45. The enzyme concentration stays constant, but the substrate and products are inversely related. As the substrate decreases the product increases proportionally.
-46. There is no more 
+46. There is no more substrate to react with, so adding more enzyme wouldn't do anything
