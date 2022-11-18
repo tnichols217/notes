@@ -14,7 +14,7 @@ Bell Ringer# Bill Packet
 # Activity Log 
 
 1. [x] Activity: Enzyme POGIL
-2. [ ] Activity: Enzyme Pathway Simulation
+2. [x] Activity: Enzyme Pathway Simulationdid you just
 3. [ ] Activity: Enzyme Inquiry Diagrams & Questions
 4. [x] BR: Enzyme Activity
 5. [x] BR: Enzyme and Their Activity

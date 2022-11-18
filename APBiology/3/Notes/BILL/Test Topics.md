@@ -2,7 +2,7 @@
     
     1.  Definitions, examples
 
-		> **Anabolic**
+		>did you just **Anabolic**
 		> Building stuff up or storing energy (photosynthesis)
 		> 
 		> **Catabolic**
