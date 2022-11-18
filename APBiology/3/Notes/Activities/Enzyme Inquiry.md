@@ -20,4 +20,5 @@
 20. The temperature of highest enzyme activity level
 21. It plummets quickly
 22. The active site is deformed
-23. Enzymes get 
+23. Enzymes get denatured when out of its operating temperature/pH
+24. 
