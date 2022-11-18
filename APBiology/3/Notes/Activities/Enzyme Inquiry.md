@@ -23,4 +23,5 @@
 23. Enzymes get denatured when out of its operating temperature/pH
 24. deform or die
 25. Interactions between the R-groups of the amino acids no longer conform to its correct shape. This leads the protein structure to change completely
-26. 
+26. False, cold does not denature an enzyme, it just slows down the molecules
+27. Denaturiza
