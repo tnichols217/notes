@@ -34,4 +34,6 @@
 34. 7, it is much lower than its optimum rate, but it still functions
 35. It competes against the substrates of the enzyme, it competes for the active site, occupying it so that no reaction can take place
 36. The normal reactants cannot bind, and so no reaction occurs
-37. 
+37. It does not compete for the active site, but just deforms it
+38. It irreversibly deforms the active site of an enzyme, stopping production
+39. 
