@@ -32,4 +32,6 @@
 32. 9 pH
 33. Completely useless, it cannot operate at all
 34. 7, it is much lower than its optimum rate, but it still functions
-35. It competes against the substrates of the enzyme, it competes for the active site, occup
+35. It competes against the substrates of the enzyme, it competes for the active site, occupying it so that no reaction can take place
+36. The normal reactants cannot bind, and so no reaction occurs
+37. 
