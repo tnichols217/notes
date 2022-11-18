@@ -31,4 +31,5 @@
 31. 3 pH
 32. 9 pH
 33. Completely useless, it cannot operate at all
-34. 
+34. 7, it is much lower than its optimum rate, but it still functions
+35. 
