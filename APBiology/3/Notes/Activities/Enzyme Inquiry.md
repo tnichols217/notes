@@ -21,4 +21,6 @@
 21. It plummets quickly
 22. The active site is deformed
 23. Enzymes get denatured when out of its operating temperature/pH
-24. 
+24. deform or die
+25. Interactions between the R-
+26. 
