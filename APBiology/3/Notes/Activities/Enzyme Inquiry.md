@@ -9,4 +9,5 @@
 9. The charges are the same, so they repel each other
 10. The shapes don't match, so the reactant can't bind to the enzyme
 11. Shape and charge
-12. 
+12. Enzymes increase the rate of chemical reaction
+13. The chemical reaction wont happen
