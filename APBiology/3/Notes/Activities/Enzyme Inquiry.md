@@ -29,4 +29,6 @@
 29. 7-14 are basic
 30. 7, the pH of pure water
 31. 3 pH
-32. 
+32. 9 pH
+33. Completely useless, it cannot operate at all
+34. 
