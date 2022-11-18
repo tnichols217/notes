@@ -28,6 +28,6 @@ Bell Ringer# Bill Packet
 13. [x] BR: DPIP & Photosynthesis Practice FRQ
 14. [x] Investigation: Photosynthesis Leaf Disk Lab (Handout only)
 15. [x] Activity: Cellular Respiration--An Overview POGIL
-16. [x] Activity: Glycolysis and the Krebs Cycle POGIL
+16. [x] Activity: Glycolysis and the Krebs Cycllatee POGIL
 17. [x] Activity: Oxidative Phosphorylation POGIL
 18. [ ] Chalk Talk: Cellular Respiration & Fermentation
