@@ -24,4 +24,7 @@
 24. deform or die
 25. Interactions between the R-groups of the amino acids no longer conform to its correct shape. This leads the protein structure to change completely
 26. False, cold does not denature an enzyme, it just slows down the molecules
-27. Denaturiza
+27. Denaturization is sometimes reversible
+28. 0-7 are acidic
+29. 7-14 are basic
+30. 
