@@ -3,4 +3,6 @@
 3. The Products
 4. Substrates
 5. Bind to the enzyme
-6. 
+6. Eject the products
+7. The shape of the active site
+8. Its what the reactants bind 
