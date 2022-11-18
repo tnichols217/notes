@@ -13,4 +13,5 @@
 13. The chemical reaction won't happen
 14. Lowers the activation energy
 15. Protein, amino acids
-16. 
+16. polarity and charge
+17. Intereaction
