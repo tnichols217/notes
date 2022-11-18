@@ -36,4 +36,8 @@
 36. The normal reactants cannot bind, and so no reaction occurs
 37. It does not compete for the active site, but just deforms it
 38. It irreversibly deforms the active site of an enzyme, stopping production
-39. 
+39. 1
+40. 3
+41. 4
+42. 4
+43. All the enzymes are in maximum use, so adding more subtrates would not increase t
