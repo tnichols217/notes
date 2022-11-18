@@ -27,4 +27,6 @@
 27. Denaturization is sometimes reversible
 28. 0-7 are acidic
 29. 7-14 are basic
-30. 
+30. 7, the pH of pure water
+31. 3 pH
+32. 
