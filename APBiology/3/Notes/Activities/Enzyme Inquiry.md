@@ -14,4 +14,5 @@
 14. Lowers the activation energy
 15. Protein, amino acids
 16. polarity and charge
-17. Intereaction
+17. Interactions between different R groups
+18. 
