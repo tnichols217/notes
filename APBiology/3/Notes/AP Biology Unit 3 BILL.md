@@ -1,4 +1,4 @@
-Bell Ringer# Bill Packet
+![[Pasted image 20221118220540.png]]Bell Ringer# Bill Packet
 
 1. [x] Unit map
 2. [x] Traffic light
@@ -30,4 +30,4 @@ Bell Ringer# Bill Packet
 15. [x] Activity: Cellular Respiration--An Overview POGIL
 16. [x] Activity: Glycolysis and the Krebs Cycllatee POGIL
 17. [x] Activity: Oxidative Phosphorylation POGIL
-18. [ ] Chalk Talk: Cellular Respiration & Fermentation
+18. [x] Chalk Talk: Cellular Respiration & Fermentation
