@@ -8,4 +8,5 @@
 8. Its what the reactants bind to, it matches the reactants it acts upon
 9. The charges are the same, so they repel each other
 10. The shapes don't match, so the reactant can't bind to the enzyme
-11. 
+11. Shape and charge
+12. 
