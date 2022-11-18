@@ -5,4 +5,5 @@
 5. Bind to the enzyme
 6. Eject the products
 7. The shape of the active site
-8. Its what the reactants bind 
+8. Its what the reactants bind to, it matches the reactants it acts upon
+9. The charges 
