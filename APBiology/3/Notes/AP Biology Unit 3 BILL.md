@@ -2,7 +2,7 @@ Bell Ringer# Bill Packet
 
 1. [x] Unit map
 2. [x] Traffic light
-3. [x] Test topics
+3. [ ] Test topics
 4. [x] Unit summary
 5. [ ] Official AP Biology unit summary
 6. [ ] Topic review guides
