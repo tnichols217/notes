@@ -21,4 +21,4 @@
 ## Meta-info
 1. Our team sought to see how the intensity of light would effect the photosynthetic rate
 2. We predicted that the higher the intensity of light, the faster photosynthesis would occur
-3. Our results show that in the non-control groups (bicarb) the higher the intensity, the faster ht
+3. Our results show that in the non-control groups (bicarb) the higher the intensity, the faster photosynthesis happens
