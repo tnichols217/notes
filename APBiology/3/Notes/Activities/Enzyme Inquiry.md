@@ -17,4 +17,6 @@
 17. Interactions between different R groups
 18. Hydrogen bonds, hydrophobic interactions, disulfide bridges, and ionic bonds
 19. Increases steadily until optimum temperature then plummets down
-20. 
+20. The temperature of highest enzyme activity level
+21. It plummets quickly
+22. 
