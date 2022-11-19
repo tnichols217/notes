@@ -34,4 +34,4 @@ I hate trucks. I hate big un-shared low occupancy vehicles, including Jeeps. I d
 
 3. Why is the Jeep and the planet slightly off center?
 
-	> Since it is slightly off center,
+	> Since it is slightly off center, it brings your eyes to it, making you wonder what it is, improving the visibility of the Jeep side profile.
