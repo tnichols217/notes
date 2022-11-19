@@ -74,10 +74,13 @@
 
     2.  3 parts of Calvin Cycle
 
-		> Carbon Fixation, 
+		> Carbon Fixation, Reduction, Regeneration
 
     3.  Why is light needed? Why is water needed?
-        
+
+		> As the source of energy
+		> To provide protons
+
     4.  Where does the oxygen gas come from?
         
     5.  Pigments – wavelengths of light -- difference between absorption and reflection – relation to color and use
