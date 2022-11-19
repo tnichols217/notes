@@ -10,12 +10,12 @@
         
     2.  Relationship between G, H, S – endergonic, exergonic – spontaneous, not spontaneous (see chart in notes)
 
-> 		**G** - Gibb's free energy - the maximum availiable energy in a closed system
-> 		**H** - Enthalpy - Energy needed or radiated from a reaction
-> 		**S** - Entropy - Unuseful energy used or absorbed, often heat
-> 		**Endergonic** - Net absorbtion of energy
-> 		**Exergonic** - Net release of energy
-        
+		> **G** - Gibb's free energy - the maximum availiable energy in a closed system
+		> **H** - Enthalpy - Energy needed or radiated from a reaction
+		> **S** - Entropy - Unuseful energy used or absorbed, often heat
+		> **Endergonic** - Net absorbtion of energy
+		> **Exergonic** - Net release of energy
+
 2.  First and second laws of thermodynamics and relationship to biology
 
 >	Energy cannot be created or destroyed, which is what the Gibbs' free energy formula states
