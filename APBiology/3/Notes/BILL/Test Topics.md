@@ -91,7 +91,7 @@
 
     6.  Main idea of chemosynthesis
 
-		> 
+		> Using inorganic carbon to produce 
 
 7.  Respiration versus photosynthesis – similarities and differences
     
