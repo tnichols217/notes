@@ -52,7 +52,9 @@
 		> Alcoholic fermentation's oxygen debt cannot be paid back, so when there are high concentrations of it undealt with, it is toxic 
 
     6.  Facultative anaerobes, obligate anaerobes
-        
+
+		> Facultative anaerobes can use either oxygen n
+
 6.  Photosynthesis
     
     1.  2 parts
