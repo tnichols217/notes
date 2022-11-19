@@ -45,10 +45,12 @@
 
     4.  Main idea of fermentation
 
-		> Be able to produce energy even when there is air, the oxygen debt must be paid ba
+		> Be able to produce energy even when there is air, the oxygen debt must be paid back later however
 
     5.  Lactic acid fermentation versus alcoholic fermentation
-        
+
+		> 
+
     6.  Facultative anaerobes, obligate anaerobes
         
 6.  Photosynthesis
