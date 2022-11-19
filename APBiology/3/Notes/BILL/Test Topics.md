@@ -49,7 +49,7 @@
 
     5.  Lactic acid fermentation versus alcoholic fermentation
 
-		> Alcoholic fermentation's oxygen debt cannot be paid back, which 
+		> Alcoholic fermentation's oxygen debt cannot be paid back, so when there are high concentrations of it undealt with, it is toxic 
 
     6.  Facultative anaerobes, obligate anaerobes
         
