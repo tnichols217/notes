@@ -25,10 +25,13 @@
 9. [x] BR: Interpreting Action Spectrum/Absorption
 10. [x] Activity: Photosynthesis Guided Inquiry POGIL
 11. [x] BR: Photosynthetic Activity Data Analysis
+        ![[bell]]
 12. [x] Chalk Talk: Photosynthesis
+        ![[APBiology/3/Notes/Chalk Talks/Photosynthesis]]
 13. [x] BR: DPIP & Photosynthesis Practice FRQ
+        ![[DPIP and Photosynthesis]]
 14. [x] Investigation: Photosynthesis Leaf Disk Lab (Handout only)
-        ![[]]
+        ![[Leaf Disc]]
 15. [x] Activity: Cellular Respiration--An Overview POGIL
         ![[APBiology/3/Notes/POGILs/Cellular Respiration]]
 16. [x] Activity: Glycolysis and the Krebs Cycllatee POGIL
