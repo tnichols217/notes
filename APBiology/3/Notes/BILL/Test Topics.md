@@ -91,7 +91,7 @@
 
     6.  Main idea of chemosynthesis
 
-		> Using inorganic carbon to produce 
+		> Using inorganic carbon to produce organic material. In this case, using carbon dioxide to produce glucose
 
 7.  Respiration versus photosynthesis – similarities and differences
     
