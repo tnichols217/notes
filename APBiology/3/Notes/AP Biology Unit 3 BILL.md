@@ -11,11 +11,11 @@
 	2. [x] 3.4 Cellular Energy  
 	3. [x] 3.5 Photosynthesis  
 	4. [x] 3.6 Cellular Respiration
+	       ![[bill/3.6]]
 
 # Activity Log 
 
 1. [x] Activity: Enzyme POGIL
-       ![[pogils/]]
 2. [x] Activity: Enzyme Pathway Simulation
        ![[Enzyme Pathway Simulation]]
 3. [x] Activity: Enzyme Inquiry Diagrams & Questions
@@ -43,7 +43,7 @@
         ![[Leaf Disc]]
 15. [x] Activity: Cellular Respiration--An Overview POGIL
         ![[APBiology/3/Notes/POGILs/Cellular Respiration]]
-16. [x] Activity: Glycolysis and the Krebs Cycllatee POGIL
+16. [x] Activity: Glycolysis and the Krebs Cycle POGIL
         ![[Glycolysis]]
 17. [x] Activity: Oxidative Phosphorylation POGIL
         ![[Oxidative Phophorylation]]
