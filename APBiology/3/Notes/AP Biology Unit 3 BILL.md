@@ -18,7 +18,7 @@
 3. [x] Activity: Enzyme Inquiry Diagrams & Questions
 4. [x] BR: Enzyme Activity
 5. [x] BR: Enzyme Inquiry and Their Activity
-6. [ ] BR: How to Write Free Response Questions (2010 FRQ #2 - Enzyme)
+6. [x] BR: How to Write Free Response Questions (2010 FRQ #2 - Enzyme)
 7. [x] Activity: Free Energy POGIL
 8. [x] Activity: ATP-The Free Energy Carrier POGIL
 9. [x] BR: Interpreting Action Spectrum/Absorption
