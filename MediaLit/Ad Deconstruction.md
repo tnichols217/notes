@@ -20,4 +20,5 @@ There are only three colors in this ad: white, black, and the green background. 
 ## Marketing Strategy
 They are trying to make you associate Jeep with being green and good for the environment. It is running in response to many people's understanding that cars pollute and hurt the environment. This is an effort to turn that intuition on its head by feeding propaganda that Jeep cars really can be good for the environment and the planet. They want you to associated being good for the environment with buying a Jeep. The target audience is more for people who care a little bit for the environment, but not too much because if you really cared you'd know that trucks cannot be good for the environment at all and there are much better solutions. In the case of the person who doesn't really care that much for the environment, the ad attempts to convince you that you are are bad person and you really should care for the Earth, and to do that, buy a Jeep.
 
-## Overall I
+## Overall Impressions
+I hate trucks. I hate big unshared low occupancy vehicles
