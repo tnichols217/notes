@@ -31,5 +31,6 @@
 15. [x] Activity: Cellular Respiration--An Overview POGIL
 16. [x] Activity: Glycolysis and the Krebs Cycllatee POGIL
 17. [x] Activity: Oxidative Phosphorylation POGIL
+        ![[Oxidative Phophorylation]]
 18. [x] Chalk Talk: Cellular Respiration & Fermentation
-        ![[chalk talks/]]
+        ![[APBiology/3/Notes/Chalk Talks/Cellular Respiration]]
