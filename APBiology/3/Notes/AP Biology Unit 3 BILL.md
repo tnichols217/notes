@@ -11,7 +11,6 @@
 	3. [x] 3.5 Photosynthesis  
 	4. [x] 3.6 Cellular Respiration
 
-9.  Reading charts and graphs related to experiments with these processes
 # Activity Log 
 
 1. [x] Activity: Enzyme POGIL
