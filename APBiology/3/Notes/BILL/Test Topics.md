@@ -40,7 +40,9 @@
 		> When a high concentration of protons in a certain area has a tendency to move to a low concentration because of diffsion
 
     3.  Difference between hydrogen and proton
-       
+
+		> hydrogen normally has a neutron with it as well, a hydrogen ion (positively charged) doesn't have an ele
+
     4.  Main idea of fermentation
         
     5.  Lactic acid fermentation versus alcoholic fermentation
