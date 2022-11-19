@@ -8,7 +8,7 @@
 6. [ ] Topic review guides
 	1. [x] 3.1,3.2,3.3 Enzyme Structure, Catalysis and Environmental Impacts  
 	2. [x] 3.4 Cellular Energy  
-	3. [ ] 3.5 Photosynthesis  
+	3. [x] 3.5 Photosynthesis  
 	4. [ ] 3.6 Cellular Respiration
 
 # Activity Log 
