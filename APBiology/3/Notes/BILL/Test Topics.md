@@ -113,7 +113,9 @@
 		> Save energy, use stored energy
 
     5.  Electron carriers
-        
+
+		> Carry electrons and energy to places to produce things. often NADH, NADPH, 
+
 8.  How do bacteria do these processes?
     
 9.  Reading charts and graphs related to experiments with these processes
