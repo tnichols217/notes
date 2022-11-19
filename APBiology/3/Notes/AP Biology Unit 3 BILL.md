@@ -24,8 +24,9 @@
 8. [x] Activity: ATP-The Free Energy Carrier POGIL
 9. [x] BR: Interpreting Action Spectrum/Absorption
 10. [x] Activity: Photosynthesis Guided Inquiry POGIL
+        ![[]]
 11. [x] BR: Photosynthetic Activity Data Analysis
-        ![[bell]]
+        ![[Photosynthetic Activity]]
 12. [x] Chalk Talk: Photosynthesis
         ![[APBiology/3/Notes/Chalk Talks/Photosynthesis]]
 13. [x] BR: DPIP & Photosynthesis Practice FRQ
