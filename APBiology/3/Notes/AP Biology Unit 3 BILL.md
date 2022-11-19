@@ -15,8 +15,11 @@
 # Activity Log 
 
 1. [x] Activity: Enzyme POGIL
+       ![[pogi]]
 2. [x] Activity: Enzyme Pathway Simulationdid you just
+       ![[Enzyme Pathway Simulation]]
 3. [x] Activity: Enzyme Inquiry Diagrams & Questions
+       ![[Enzyme Inquiry]]
 4. [x] BR: Enzyme Activity
        ![[Enzymes]]
 5. [x] BR: Enzyme Inquiry and Their Activity
