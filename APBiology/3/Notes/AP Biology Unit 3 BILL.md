@@ -6,7 +6,7 @@
 4. [x] Unit summary
 5. [ ] Official AP Biology unit summary
 6. [ ] Topic review guides
-	1. [ ] 3.1,3.2,3.3 Enzyme Structure, Catalysis and Environmental Impacts  
+	1. [x] 3.1,3.2,3.3 Enzyme Structure, Catalysis and Environmental Impacts  
 	2. [ ] 3.4 Cellular Energy  
 	3. [ ] 3.5 Photosynthesis  
 	4. [ ] 3.6 Cellular Respiration
