@@ -114,8 +114,11 @@
 
     5.  Electron carriers
 
-		> Carry electrons and energy to places to produce things. often NADH, NADPH, 
+		> Carry electrons and energy to places to produce things. often NADH, NADPH, FADH
 
 8.  How do bacteria do these processes?
-    
+
+		> Small-ly
+		> 
+
 9.  Reading charts and graphs related to experiments with these processes
