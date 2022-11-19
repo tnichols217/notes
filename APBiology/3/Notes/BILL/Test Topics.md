@@ -98,10 +98,12 @@
     1.  Location of ETC, ATP synthase
 
 		> Across the Thylakoid membrane vs mitochondrial membrane
-		> 
+		> Same, uses proton gradient to spin the thingy
 
     2.  Chemiosmosis
-        
+
+		> Producing ATP from a
+
     3.  Reactants and products
         
     4.  Functions
