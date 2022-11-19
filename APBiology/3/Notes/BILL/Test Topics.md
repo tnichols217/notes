@@ -49,7 +49,7 @@
 
     5.  Lactic acid fermentation versus alcoholic fermentation
 
-		> 
+		> Alcoholic fermentation's oxygen debt cannot be paid back, which 
 
     6.  Facultative anaerobes, obligate anaerobes
         
