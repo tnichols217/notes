@@ -15,7 +15,7 @@
               "state": {
                 "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Biology/Ch8/Photosynthesis.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "Biology/Ch8/Cellular Respiration.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
