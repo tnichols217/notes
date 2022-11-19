@@ -27,7 +27,7 @@
 
 4.  Oxidation/reduction in terms of H
 
->	Losing a hydrogen is oxidation, which releases energy, a
+>	Losing a hydrogen is oxidation, which releases energy, and gaining one is storing energy (reduction)
 
 5.  Respiration
     
