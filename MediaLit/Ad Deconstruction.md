@@ -15,3 +15,4 @@ This scene makes use of a lot of empty space, being plain green. The camera angl
 It is trying to make you feel bad for the Earth, with the "problem" that is is dying, and their "solution" is to buy a Jeep because it is more eco-friendly, while the real "cure" is to not drive a car. (reference to poison, cure, medication meme). The ad is trying to make you associate jeep with "green" a symbol of cleanliness, by making majority of the ad green and simplistically clean. The logic is that if you get a Jeep, you'll be saving the planet because you won't be polluting as much.
 
 ## Intended and Unintended Effects
+There are only three colors in this ad: white, black, and the green background. 
