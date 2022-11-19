@@ -91,7 +91,7 @@
 
     6.  Main idea of chemosynthesis
 
-		
+		> 
 
 7.  Respiration versus photosynthesis – similarities and differences
     
