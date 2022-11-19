@@ -70,10 +70,12 @@
 
         3.  Products
 
-			> Glucose, water
+			> Glucose, Oxygen
 
     2.  3 parts of Calvin Cycle
-        
+
+		> 
+
     3.  Why is light needed? Why is water needed?
         
     4.  Where does the oxygen gas come from?
