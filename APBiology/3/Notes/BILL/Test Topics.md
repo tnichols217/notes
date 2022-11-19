@@ -74,7 +74,7 @@
 
     2.  3 parts of Calvin Cycle
 
-		> 
+		> Carbon Fixation, 
 
     3.  Why is light needed? Why is water needed?
         
