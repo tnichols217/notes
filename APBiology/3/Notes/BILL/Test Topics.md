@@ -118,7 +118,7 @@
 
 8.  How do bacteria do these processes?
 
-		> Small-ly
-		> 
+	> Small-ly
+	> They don't they leech from other things
 
 9.  Reading charts and graphs related to experiments with these processes
