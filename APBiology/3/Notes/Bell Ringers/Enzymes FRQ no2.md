@@ -1,3 +1,3 @@
 1. ![[Pasted image 20221119195703.png]]
    rr = 0.3821 $\micro \text{M}/\text{min}$ 
-2. 
+2. Because as the reaction goes on , the 
