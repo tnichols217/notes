@@ -18,16 +18,16 @@
 
 2.  First and second laws of thermodynamics and relationship to biology
 
->	Energy cannot be created or destroyed, which is what the Gibbs' free energy formula states
->	Energy dissipates, which means goes from high to low concentration, so heat cant move from a cold object to a hot object
+	> Energy cannot be created or destroyed, which is what the Gibbs' free energy formula states
+	> Energy dissipates, which means goes from high to low concentration, so heat cant move from a cold object to a hot object
 
 3.  ATP Cycle – understand the diagram
 
->	ATP and ADP get recycled into each other, carrying energy around
+	> ATP and ADP get recycled into each other, carrying energy around
 
 4.  Oxidation/reduction in terms of H
 
->	Losing a hydrogen is oxidation, which releases energy, and gaining one is storing energy (reduction)
+	> Losing a hydrogen is oxidation, which releases energy, and gaining one is storing energy (reduction)
 
 5.  Respiration
     
