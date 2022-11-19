@@ -2,7 +2,7 @@
 
 1. [x] Unit map
 2. [x] Traffic light
-3. [ ] Test topics
+3. [x] Test topics
 4. [x] Unit summary
 5. [ ] Official AP Biology unit summary
 6. [ ] Topic review guides
@@ -11,6 +11,7 @@
 	3. [x] 3.5 Photosynthesis  
 	4. [ ] 3.6 Cellular Respiration
 
+9.  Reading charts and graphs related to experiments with these processes
 # Activity Log 
 
 1. [x] Activity: Enzyme POGIL
