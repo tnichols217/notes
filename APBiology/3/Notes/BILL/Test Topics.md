@@ -27,7 +27,7 @@
 
 4.  Oxidation/reduction in terms of H
 
->	
+>	Water is added or removed in order to oxidize or reduce, this involves either splitting the wat
 
 5.  Respiration
     
