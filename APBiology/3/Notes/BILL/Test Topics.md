@@ -78,13 +78,17 @@
 
     3.  Why is light needed? Why is water needed?
 
-		> As the source of energy
-		> To provide protons
+		> **Light**: As the source of energy
+		> **Water**: To provide protons
 
     4.  Where does the oxygen gas come from?
-        
+
+		> Breaking the Carbon Dioxide for its Carbon
+
     5.  Pigments – wavelengths of light -- difference between absorption and reflection – relation to color and use
-        
+
+		
+
     6.  Main idea of chemosynthesis
         
 7.  Respiration versus photosynthesis – similarities and differences
