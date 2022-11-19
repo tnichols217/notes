@@ -16,7 +16,7 @@
 
 1. [x] Activity: Enzyme POGIL
        ![[pogils/]]
-2. [x] Activity: Enzyme Pathway Simulationdid you just
+2. [x] Activity: Enzyme Pathway Simulation
        ![[Enzyme Pathway Simulation]]
 3. [x] Activity: Enzyme Inquiry Diagrams & Questions
        ![[Enzyme Inquiry]]
