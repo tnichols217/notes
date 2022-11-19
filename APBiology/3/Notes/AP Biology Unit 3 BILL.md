@@ -4,7 +4,7 @@
 2. [x] Traffic light
 3. [x] Test topics
 4. [x] Unit summary
-5. [ ] Official AP Biology unit summary
+5. [x] Official AP Biology unit summary
 6. [x] Topic review guides
 	1. [x] 3.1,3.2,3.3 Enzyme Structure, Catalysis and Environmental Impacts  
 	2. [x] 3.4 Cellular Energy  
