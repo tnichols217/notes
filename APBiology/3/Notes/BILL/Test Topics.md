@@ -62,10 +62,12 @@
         
         1.  Location
 
-			> 
+			> Chloroplasts and cytosol
 
         2.  Function
-            
+
+		
+
         3.  Products
             
     2.  3 parts of Calvin Cycle
