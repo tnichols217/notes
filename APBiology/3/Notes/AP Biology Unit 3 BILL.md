@@ -2,6 +2,7 @@
 
 1. [x] Unit map
 2. [x] Traffic light
+       ![[Traffic Light]]
 3. [x] Test topics
 4. [x] Unit summary
 5. [x] Official AP Biology unit summary
@@ -31,3 +32,4 @@
 16. [x] Activity: Glycolysis and the Krebs Cycllatee POGIL
 17. [x] Activity: Oxidative Phosphorylation POGIL
 18. [x] Chalk Talk: Cellular Respiration & Fermentation
+        ![[chalk talks/]]
