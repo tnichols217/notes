@@ -30,7 +30,7 @@ I hate trucks. I hate big un-shared low occupancy vehicles, including Jeeps. I d
 
 2. Why did you make the "planet" bumpy, it makes it look unclean?
 
-	> Because we a
+	> Because we are trying to pull in a piece of Jeep, by showing its offroad capabilities and its natural habitat. Additionally it symboli
 
 3. Why is the Jeep and the planet slightly off center?
 
