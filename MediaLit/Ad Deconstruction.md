@@ -25,6 +25,9 @@ I hate trucks. I hate big un-shared low occupancy vehicles, including Jeeps. I d
 
 ## My Own Questions
 1. Why would you use black for the Jeep, it appears unclean?
-	> Because it highlights the Jeep and plan
+
+	> Because it highlights the Jeep and planet, because it becomes the accent color due to being so little of it.
 2. Why did you make the "planet" bumpy?
+	
+
 3. Why is the Jeep and the planet slightly off center?
