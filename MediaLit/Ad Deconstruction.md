@@ -9,4 +9,4 @@ This is a very simple ad from Jeep, with a car driving off of a circle on the ri
 This ad uses a lot of empty space of the color green to portray cleanliness and ecofriendliness, being green. It attempts to communicate that Jeep (a car company) cares for the environment in its cars by being eco-friendly.
 
 ## Techno-Effects and Subliminal Images
-This scene makes use of a lot of empty space, being plain green. The camera angle is a straight on shot from the side of the car, giving a very simplistic view for the entire scene. The right (back) end of the car is off the page, the side of the exhaust, implying that we shouldn't think about that. There is no lighting, there is no depth, there is no 3D, it is a simplistic 2D piece attempting to portray the cleanliness of the Jeep and how it helps the earth.
+This scene makes use of a lot of empty space, being plain green. The camera angle is a straight on shot from the side of the car, giving a very simplistic view for the entire scene. There is no lighting, there is no depth, there is no 3D, it is a simplistic 2D piece attempting to portray the cleanliness of the Jeep and how it helps the earth.
