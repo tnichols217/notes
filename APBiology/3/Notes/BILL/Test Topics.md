@@ -87,10 +87,12 @@
 
     5.  Pigments – wavelengths of light -- difference between absorption and reflection – relation to color and use
 
-		
+		> Chlorophyll reflects green and absorbs red and violet light
 
     6.  Main idea of chemosynthesis
-        
+
+		
+
 7.  Respiration versus photosynthesis – similarities and differences
     
     1.  Location of ETC, ATP synthase
