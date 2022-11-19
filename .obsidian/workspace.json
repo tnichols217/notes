@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "86410e385846e8df",
+        "id": "9289779978577754",
         "type": "tabs",
         "children": [
           {
-            "id": "0268d9b63beca911",
+            "id": "ea53f314bc65f458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MediaLit/Ad Deconstruction.md",
-                "mode": "preview",
+                "file": "BritLit/Edward Lear.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MediaLit/Ad Deconstruction.md",
+                "file": "BritLit/Edward Lear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MediaLit/Ad Deconstruction.md"
+                "file": "BritLit/Edward Lear.md"
               }
             }
           },
@@ -122,8 +122,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0268d9b63beca911",
+  "active": "ea53f314bc65f458",
   "lastOpenFiles": [
+    "MediaLit/Ad Deconstruction.md",
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/Topic Review Guides/3.6.md",
     "APBiology/3/Notes/BILL/Test Topics.md",
@@ -132,7 +133,6 @@
     "APBiology/3/Notes/Topic Review Guides/3.5.md",
     "APBiology/3/Notes/Topic Review Guides/3.4.md",
     "APBiology/3/Notes/POGILs/Free Energy.md",
-    "APBiology/3/Notes/Topic Review Guides/3.1-3.3.md",
-    "APBiology/3/Notes/attachments/Pasted image 20221118220540.png"
+    "APBiology/3/Notes/Topic Review Guides/3.1-3.3.md"
   ]
 }
