@@ -106,10 +106,12 @@
 
     3.  Reactants and products
 
-		> Basically opposites, except the input energy for photosynthesis is light, when the output energy for respiration is A
+		> Basically opposites, except the input energy for photosynthesis is light, when the output energy for respiration is ATP (chemical energy)
 
     4.  Functions
-        
+
+		> Save energy, use stored energy
+
     5.  Electron carriers
         
 8.  How do bacteria do these processes?
