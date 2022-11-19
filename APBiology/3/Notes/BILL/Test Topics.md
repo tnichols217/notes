@@ -37,10 +37,10 @@
 
     2.  Proton-motive force
 
-		> 
+		> When a high concentration of protons in a certain area has a tendency to move to a low concentration because of diffsion
 
     3.  Difference between hydrogen and proton
-        
+       
     4.  Main idea of fermentation
         
     5.  Lactic acid fermentation versus alcoholic fermentation
