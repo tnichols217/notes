@@ -96,7 +96,10 @@
 7.  Respiration versus photosynthesis – similarities and differences
     
     1.  Location of ETC, ATP synthase
-        
+
+		> Across the Thylakoid membrane vs mitochondrial membrane
+		> 
+
     2.  Chemiosmosis
         
     3.  Reactants and products
