@@ -66,10 +66,12 @@
 
         2.  Function
 
-			> Produce energy to use from 
+			> Produce energy to use from light
 
         3.  Products
-            
+
+			> Glucose, water
+
     2.  3 parts of Calvin Cycle
         
     3.  Why is light needed? Why is water needed?
