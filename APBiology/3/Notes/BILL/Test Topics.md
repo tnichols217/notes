@@ -53,8 +53,8 @@
 
     6.  Facultative anaerobes, obligate anaerobes
 
-		> **Facultative anaerobes** can use either aerobic or anaerobic respiration when there is or is no oxygen\
-		> **Obligate anaer**
+		> **Facultative anaerobes** can use either aerobic or anaerobic respiration when there is or is no oxygen
+		> **Obligate anaerobes** need to live in an oxygen free environment or they will die
 
 6.  Photosynthesis
     
