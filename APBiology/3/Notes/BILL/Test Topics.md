@@ -32,6 +32,7 @@
 5.  Respiration
     
     1.  3 (or 4?) parts – study the summary chart!!!
+       1. Consists of Glycolysis, formation of acetyl CoA, 
         
     2.  Proton-motive force
         
