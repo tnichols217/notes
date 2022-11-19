@@ -66,7 +66,7 @@
 
         2.  Function
 
-			> 
+			> Produce energy to use from 
 
         3.  Products
             
