@@ -5,3 +5,5 @@
 ## Description
 This is a very simple ad from Jeep, with a car driving off of a circle on the right side into nothing. The entire background is a minty green. There is a small description on the bottom left talking about how we need to save the planet (ironic for a car company).
 
+## Techniques of Persuasion
+This scene makes use of a lot of empty space, being plain green.
