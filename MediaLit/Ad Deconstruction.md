@@ -11,3 +11,5 @@ This ad uses a lot of empty space of the color green to portray cleanliness and 
 ## Techno-Effects and Subliminal Images
 This scene makes use of a lot of empty space, being plain green. The camera angle is a straight on shot from the side of the car, giving a very simplistic view for the entire scene. There is no lighting, there is no depth, there is no 3D, it is a simplistic 2D piece attempting to portray the cleanliness of the Jeep and how it helps the earth.
 
+## Emotions and the Story
+It is trying to make you feel 
