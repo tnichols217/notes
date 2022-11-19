@@ -24,4 +24,5 @@ They are trying to make you associate Jeep with being green and good for the env
 I hate trucks. I hate big un-shared low occupancy vehicles, including Jeeps. I dislike them because they take up space, cause traffic, waste energy, and pollute a lot. Although the ad attempts to try and make me associate Jeep with clean, it fails miserably because I already understand that is his propaganda to try and make me think that Jeeps can be clean. If you wanted to be clean go get a properly made bicycle. It tries to sell that being clean is cool and good, and that buying a Jeep accomplishes that. No, there isn't enough information to make an informed buying decision, but then again they don't want you to because if you saw the emissions from that thing their ad wouldn't hold water.
 
 ## My Own Questions
-1. Why 
+1. Why would you use black for the Jeep, it appears unclean?
+2. 
