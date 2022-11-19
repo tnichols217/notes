@@ -102,10 +102,12 @@
 
     2.  Chemiosmosis
 
-		> Producing ATP from a
+		> Producing ATP from a proton gradient
 
     3.  Reactants and products
-        
+
+		> Basically opposites, except the input energy for photosynthesis is light, when the output energy for respiration is A
+
     4.  Functions
         
     5.  Electron carriers
