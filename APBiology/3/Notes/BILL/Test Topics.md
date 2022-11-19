@@ -41,10 +41,12 @@
 
     3.  Difference between hydrogen and proton
 
-		> hydrogen normally has a neutron with it as well, a hydrogen ion (positively charged) doesn't have an ele
+		> hydrogen normally has a neutron with it as well, a hydrogen ion (positively charged) doesn't have an electron, which is just a proton
 
     4.  Main idea of fermentation
-        
+
+		> Be able to produce energy even when there is air, the oxygen debt must be paid ba
+
     5.  Lactic acid fermentation versus alcoholic fermentation
         
     6.  Facultative anaerobes, obligate anaerobes
