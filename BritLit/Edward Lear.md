@@ -25,4 +25,5 @@
 - Follows an ABABCCDD rhyme scheme
 - Seemingly nonsensical: the entire predicament is insane
 - Makes use of crazy words like dee and bo
-- The entire plot of the poem is seemingly unrelated, the beginning, problems
+- The entire plot of the poem is seemingly unrelated, the beginning, problems, and resolution are all very spontaneous
+- 
