@@ -27,3 +27,5 @@
 - Makes use of crazy words like dee and bo
 - The entire plot of the poem is seemingly unrelated, the beginning, problems, and resolution are all very spontaneous
 - Who would ever think to give a duck some socks, wear a cloak, and smoke a cigar
+
+## 
