@@ -22,4 +22,4 @@
 
 ## The Duck and the Kangaroo
 
-- Follows 
+- Follows an ABABCCDD rhyme scheme
