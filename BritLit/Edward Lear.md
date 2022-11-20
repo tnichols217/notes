@@ -24,4 +24,4 @@
 
 - Follows an ABABCCDD rhyme scheme
 - Seemingly nonsensical: the entire predicament is insane
-- Makes use of a lot of crazy words like dee, bo
+- Makes use of crazy words like dee and bo
