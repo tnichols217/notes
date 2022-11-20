@@ -23,3 +23,5 @@
 ## The Duck and the Kangaroo
 
 - Follows an ABABCCDD rhyme scheme
+- Seemingly nonsensical: the entire predicament is insane
+- Makes use 
