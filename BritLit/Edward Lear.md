@@ -19,3 +19,7 @@
 - Also proposed to a girl 46 years younger twice, but rejected
 - "The Learian limerick focuses on the singular individual"
 - Food is often used as a symbol in his work, sharing means affection and gluttony is egoistical
+
+## The Duck and the Kangaroo
+
+- 
