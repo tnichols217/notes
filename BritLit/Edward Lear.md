@@ -34,4 +34,5 @@
 - Follows a ABAB CDCD EE D, but he often just forgets the rhyme scheme and does whatever
 - The eighth and last lines are the same as well as the ninth and tenth, giving a sort of reverse repetition
 - Mentions the Bong-tree, which is present in another one of his poems titled "The Dong with a Luminous Nose"
-- Has quite a basic storyline, with similar characteristics of the fir
+- Has quite a basic storyline, with similar characteristics of the first poem
+	- A fantastical predicament followed by s
