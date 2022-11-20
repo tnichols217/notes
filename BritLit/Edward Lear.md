@@ -31,4 +31,5 @@
 
 ## The Owl and the Pussy-Cat
 
-- Follows a ABAB CDCD EE D
+- Follows a ABAB CDCD EE D, but he often just forgets the rhyme scheme and does whatever
+- 
