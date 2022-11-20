@@ -31,4 +31,4 @@
 
 ## The Owl and the Pussy-Cat
 
-- Follows a 
+- Follows a ABAB CDCD EE D
