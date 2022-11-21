@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5eea1e4928c5a4f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/4/Labs/Glucose Blocker Tea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MediaLit/Ad Deconstruction.md",
+                "file": "APBiology/4/Labs/Glucose Blocker Tea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MediaLit/Ad Deconstruction.md"
+                "file": "APBiology/4/Labs/Glucose Blocker Tea.md"
               }
             }
           },
@@ -122,11 +135,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea53f314bc65f458",
+  "active": "5eea1e4928c5a4f3",
   "lastOpenFiles": [
+    "MediaLit/Ad Deconstruction.md",
     "obsidian-columns.md",
     "BritLit/Edward Lear.md",
-    "MediaLit/Ad Deconstruction.md",
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/Topic Review Guides/3.6.md",
     "APBiology/3/Notes/BILL/Test Topics.md",
