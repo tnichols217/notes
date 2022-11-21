@@ -46,8 +46,35 @@ console.log(msg)
 ``````
 ```````
 
-> ```col
-> Column 1
-> 
-> Column 2
-> ```
+
+`````col
+
+````ad-example
+title: home
+collapse: open
+color: 1,200,20
+
+# a
+```dataview
+list 
+from "" 
+where contains(file.name,"home-1") 
+where file.name != this.file.name
+sort file.ctime asc
+limit 120
+```
+````
+
+````ad-example
+title: kanban
+collapse: open
+
+```dataview
+list 
+from "" 
+where contains(file.name,"kanban") 
+sort file.ctime asc 
+limit 120
+```
+````
+`````

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BritLit/Edward Lear.md",
+                "file": "obsidian-columns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BritLit/Edward Lear.md",
+                "file": "obsidian-columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BritLit/Edward Lear.md"
+                "file": "obsidian-columns.md"
               }
             }
           },
@@ -124,6 +124,7 @@
   },
   "active": "ea53f314bc65f458",
   "lastOpenFiles": [
+    "BritLit/Edward Lear.md",
     "MediaLit/Ad Deconstruction.md",
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/3/Notes/Topic Review Guides/3.6.md",
@@ -132,7 +133,6 @@
     "Biology/Ch8/Cellular Respiration.md",
     "APBiology/3/Notes/Topic Review Guides/3.5.md",
     "APBiology/3/Notes/Topic Review Guides/3.4.md",
-    "APBiology/3/Notes/POGILs/Free Energy.md",
-    "APBiology/3/Notes/Topic Review Guides/3.1-3.3.md"
+    "APBiology/3/Notes/POGILs/Free Energy.md"
   ]
 }
