@@ -46,6 +46,10 @@ console.log(msg)
 ``````
 ```````
 
+``````ad-example
+title: Home and Kanban
+collapse: open
+color:  250,250,1
 
 `````col
 
@@ -54,7 +58,6 @@ title: home
 collapse: open
 color: 1,200,20
 
-# a
 ```dataview
 list 
 from "" 
@@ -78,3 +81,5 @@ limit 120
 ```
 ````
 `````
+
+``````
