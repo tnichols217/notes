@@ -11,11 +11,9 @@
             "id": "c28881c0201e3b88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "APBiology/4/Notes/Labs/Glucose Blocker Tea.md",
-                "mode": "source",
-                "source": false
+                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Notes/Labs/Glucose Blocker Tea.md",
+                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Notes/Labs/Glucose Blocker Tea.md"
+                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
               }
             }
           },
@@ -124,15 +122,15 @@
   },
   "active": "c28881c0201e3b88",
   "lastOpenFiles": [
-    "APBiology/4/Notes/BILL/This too shall pass - Rube Goldburg Machine.md",
+    "APBiology/4/Documents/POGIL/The Cell Cycle.pdf",
+    "APBiology/4/Documents/POGIL/Signal Transduction Pathways.pdf",
+    "APBiology/4/Documents/POGIL/Cellular Communication.pdf",
+    "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
     "APBiology/4/Notes/Labs/Glucose Blocker Tea.md",
+    "APBiology/4/Notes/BILL/This too shall pass - Rube Goldburg Machine.md",
     "APBiology/4/Carbon.md",
     "APBiology/4/Notes/BILL/Signal Transduction Pathwat Modeling Task Sheet.md",
     "APBiology/3/Notes/Labs/Leaf Disc.md",
-    "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
-    "APArt/Portfolio notes.md",
-    "APArt/Sustained Investigation.md",
-    "APArt/Piece Descriptions.md",
-    "MediaLit/Ad Deconstruction.md"
+    "APBiology/3/Notes/AP Biology Unit 3 BILL.md"
   ]
 }
