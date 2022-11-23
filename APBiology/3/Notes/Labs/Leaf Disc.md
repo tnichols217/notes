@@ -1,4 +1,4 @@
-# Leaf Disc Lab
+   ┃# Leaf Disc Lab
 ## Data
 | Time (min) | Dark, Bicarb | Dark, Soap | Half, Bicarb | Half, Soap | Light, Bicarb | Light, Soap |
 | ---------- | ------------ | ---------- | ------------ | ---------- | ------------- | ----------- |
