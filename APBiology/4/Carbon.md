@@ -1,14 +1,4 @@
-
-        this.Announements.push(
-            {
-                id: 1,
-                author: "Trevor",
-                categories: [Category.General] as Category[],
-                title: "Hello",
-                content: "Welcome to DalatNet",
-                date: new Date()
-            } as Announcement
-        )# Carbon
+# Carbon
 > [!def] Hydrocarbons
 > A molecule consisting of only Hydrogen and Carbon
 

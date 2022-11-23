@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/4/Labs/Glucose Blocker Tea.md",
+                "file": "APBiology/4/Notes/Labs/Glucose Blocker Tea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Labs/Glucose Blocker Tea.md",
+                "file": "APBiology/4/Notes/Labs/Glucose Blocker Tea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Labs/Glucose Blocker Tea.md"
+                "file": "APBiology/4/Notes/Labs/Glucose Blocker Tea.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "c28881c0201e3b88",
   "lastOpenFiles": [
-    "APBiology/4/BILL/This too shall pass - Rube Goldburg Machine.md",
-    "APBiology/4/BILL/Signal Transduction Pathwat Modeling Task Sheet.md",
+    "APBiology/4/Notes/BILL/This too shall pass - Rube Goldburg Machine.md",
+    "APBiology/4/Notes/Labs/Glucose Blocker Tea.md",
+    "APBiology/4/Carbon.md",
+    "APBiology/4/Notes/BILL/Signal Transduction Pathwat Modeling Task Sheet.md",
     "APBiology/3/Notes/Labs/Leaf Disc.md",
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APArt/Portfolio notes.md",
     "APArt/Sustained Investigation.md",
     "APArt/Piece Descriptions.md",
-    "APBiology/4/Labs/Glucose Blocker Tea.md",
-    "MediaLit/Ad Deconstruction.md",
-    "obsidian-columns.md"
+    "MediaLit/Ad Deconstruction.md"
   ]
 }
