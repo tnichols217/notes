@@ -23,11 +23,9 @@
             "id": "783521a9a07eed41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "APBiology/4/Unit 4 BILL.md",
-                "mode": "source",
-                "source": false
+                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
               }
             }
           }
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Unit 4 BILL.md",
+                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Unit 4 BILL.md"
+                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
               }
             }
           },
@@ -153,6 +151,7 @@
   },
   "active": "783521a9a07eed41",
   "lastOpenFiles": [
+    "APBiology/4/Unit 4 BILL.md",
     "APBiology/4/Notes/Case Study/Eukaryotic Cell Cycle and Cancer.md",
     "APBiology/4/Documents/Case Study/Eukaryotic Cell Cycle and Cancer.pdf",
     "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
@@ -161,7 +160,6 @@
     "APBiology/4/Documents/POGIL/Cellular Communication.pdf",
     "APBiology/4/Notes/Labs/Glucose Blocker Tea.md",
     "APBiology/4/Notes/BILL/This too shall pass - Rube Goldburg Machine.md",
-    "APBiology/4/Carbon.md",
-    "APBiology/4/Notes/BILL/Signal Transduction Pathwat Modeling Task Sheet.md"
+    "APBiology/4/Carbon.md"
   ]
 }
