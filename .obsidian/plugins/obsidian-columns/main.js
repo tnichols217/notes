@@ -120,10 +120,30 @@ var NAME = "Obsidian Columns";
 var COLUMNNAME = "col";
 var COLUMNMD = COLUMNNAME + "-md";
 var TOKEN = "!!!";
-var SETTINGSDELIM = "\n===\n";
+var SETTINGSDELIM = "===";
 var DEFAULT_SETTINGS = {
   wrapSize: { value: 100, name: "Minimum width of column", desc: "Columns will have this minimum width before wrapping to a new row. 0 disables column wrapping. Useful for smaller devices" },
   defaultSpan: { value: 1, name: "The default span of an item", desc: "The default width of a column. If the minimum width is specified, the width of the column will be multiplied by this setting." }
+};
+var findSettings = (source, unallowed = ["`"], delim = SETTINGSDELIM) => {
+  let lines = source.split("\n");
+  let done = false;
+  lineLoop:
+    for (let line of lines) {
+      for (let j of unallowed) {
+        if (line.contains(j)) {
+          break lineLoop;
+        }
+        if (line == delim) {
+          let split = source.split(delim + "\n");
+          if (split.length > 1) {
+            return { settings: split[0], source: split.slice(1).join(delim) };
+          }
+          break lineLoop;
+        }
+      }
+    }
+  return { settings: "", source };
 };
 var parseSettings = (settings) => {
   let o = {};
@@ -179,12 +199,9 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
       yield this.loadSettings();
       this.addSettingTab(new ObsidianColumnsSettings(this.app, this));
       this.registerMarkdownCodeBlockProcessor(COLUMNMD, (source, el, ctx) => {
-        let split = source.split(SETTINGSDELIM);
-        let settings = {};
-        if (split.length > 1) {
-          source = split.slice(1).join(SETTINGSDELIM);
-          settings = parseSettings(split[0]);
-        }
+        let mdSettings = findSettings(source);
+        let settings = parseSettings(mdSettings.settings);
+        source = mdSettings.source;
         const sourcePath = ctx.sourcePath;
         let child = el.createDiv();
         let renderChild = new import_obsidian2.MarkdownRenderChild(child);
@@ -206,15 +223,11 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
         }
       });
       this.registerMarkdownCodeBlockProcessor(COLUMNNAME, (source, el, ctx) => {
-        let split = source.split(SETTINGSDELIM);
-        let settings = {};
-        if (split.length > 1) {
-          source = split.slice(1).join(SETTINGSDELIM);
-          settings = parseSettings(split[0]);
-        }
+        let mdSettings = findSettings(source);
+        let settings = parseSettings(mdSettings.settings);
+        source = mdSettings.source;
         const sourcePath = ctx.sourcePath;
         let child = createDiv();
-        parseSettings;
         let renderChild = new import_obsidian2.MarkdownRenderChild(child);
         ctx.addChild(renderChild);
         import_obsidian2.MarkdownRenderer.renderMarkdown(source, child, sourcePath, renderChild);

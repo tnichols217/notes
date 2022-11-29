@@ -50,7 +50,7 @@ console.log(msg)
 ````col
 ```col-md
 flexGrow=3
-height=10px
+height=100px
 ===
 hi
 hi
