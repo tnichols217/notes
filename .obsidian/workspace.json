@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5b80f97af4186392",
+        "id": "86410e385846e8df",
         "type": "tabs",
         "children": [
           {
-            "id": "52dfa9ffe3f71c44",
+            "id": "0268d9b63beca911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/4/Notes/Case Study/Eukaryotic Cell Cycle and Cancer.md",
+                "file": "obsidian-columns.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "783521a9a07eed41",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "780f2be999fa13c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c28881c0201e3b88",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APBiology/4/Documents/Case Study/Eukaryotic Cell Cycle and Cancer.pdf"
               }
             }
           }
@@ -112,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
+                "file": "obsidian-columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
+                "file": "obsidian-columns.md"
               }
             }
           },
@@ -149,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "783521a9a07eed41",
+  "active": "0268d9b63beca911",
   "lastOpenFiles": [
+    "MediaLit/Ad Deconstruction.md",
+    "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
     "APBiology/4/Unit 4 BILL.md",
     "APBiology/4/Notes/Case Study/Eukaryotic Cell Cycle and Cancer.md",
     "APBiology/4/Documents/Case Study/Eukaryotic Cell Cycle and Cancer.pdf",
-    "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
     "APBiology/4/Documents/POGIL/The Cell Cycle.pdf",
     "APBiology/4/Documents/POGIL/Signal Transduction Pathways.pdf",
     "APBiology/4/Documents/POGIL/Cellular Communication.pdf",
     "APBiology/4/Notes/Labs/Glucose Blocker Tea.md",
-    "APBiology/4/Notes/BILL/This too shall pass - Rube Goldburg Machine.md",
-    "APBiology/4/Carbon.md"
+    "APBiology/4/Notes/BILL/This too shall pass - Rube Goldburg Machine.md"
   ]
 }
