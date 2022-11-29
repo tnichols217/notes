@@ -46,46 +46,22 @@ console.log(msg)
 ``````
 ```````
 
-``````ad-example
-title: Home and Kanban
-collapse: open
-color:  250,250,1
-
-`````col
-
-````ad-example
-title: home
-collapse: open
-color: 1,200,20
-
-```dataview
-list 
-from "" 
-where contains(file.name,"home-1") 
-where file.name != this.file.name
-sort file.ctime asc
-limit 120
-```
-````
-
-````ad-example
-title: kanban
-collapse: open
-
-```dataview
-list 
-from "" 
-where contains(file.name,"kanban") 
-sort file.ctime asc 
-limit 120
-```
-````
-`````
-
-``````
 
 ````col
 ```col-md
+flexGrow=3
+height=10px
+===
+hi
+hi
+hi
+hi
+hi
+hi
+hi
+```
+```col-md
+flexGrow=3
 height=10px
 ===
 hi
