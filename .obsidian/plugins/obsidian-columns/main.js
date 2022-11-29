@@ -249,12 +249,16 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
         if ("height" in settings) {
           let height = settings.height;
           if (height == "shortest") {
-            let shortest = Math.min(...Array.from(child.children).map((c) => parseDirtyNumber(getComputedStyle(c).height)));
+            console.log(parent.children);
+            let shortest = Math.min(...Array.from(parent.children).map((c) => {
+              console.log(getComputedStyle(c));
+              return parseDirtyNumber(getComputedStyle(c).height);
+            }));
             console.log(shortest);
             let heightCSS = {};
             heightCSS.height = shortest + "px";
             heightCSS.overflow = "scroll";
-            Array.from(child.children).forEach((c) => {
+            Array.from(parent.children).forEach((c) => {
               this.applyStyle(c, heightCSS);
             });
           } else {
