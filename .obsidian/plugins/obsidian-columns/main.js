@@ -161,6 +161,9 @@ var parseSettings = (settings) => {
   });
   return o;
 };
+var parseDirtyNumber = (num) => {
+  return parseFloat(num.split("").filter((char) => "0123456789.".contains(char)).join(""));
+};
 var ObsidianColumns = class extends import_obsidian2.Plugin {
   constructor() {
     super(...arguments);
@@ -248,8 +251,7 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
           if (height == "shortest") {
             console.log(parent.children);
             yield renderAwait;
-            let shortest = Array.from(parent.children).map((c) => c.childNodes[0]).map((c) => getComputedStyle(c).height);
-            console.log(shortest);
+            let shortest = Math.min(...Array.from(parent.children).map((c) => c.childNodes[0]).map((c) => getComputedStyle(c).height).map((value) => parseDirtyNumber(value)));
             console.log(shortest);
             let heightCSS = {};
             heightCSS.height = shortest + "px";
