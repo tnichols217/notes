@@ -48,10 +48,10 @@ console.log(msg)
 
 
 ````col
-```col-md
-flexGrow=3
-height=100px
+height=shortest
 ===
+```col-md
+hi
 hi
 hi
 hi
@@ -62,9 +62,6 @@ hi
 ```
 
 ```col-md
-flexGrow=3
-height=10px
-===
 hi
 hi
 hi
