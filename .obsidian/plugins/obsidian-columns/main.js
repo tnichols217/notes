@@ -161,6 +161,9 @@ var parseSettings = (settings) => {
   });
   return o;
 };
+var parseDirtyNumber = (num) => {
+  return parseFloat(num.split("").filter((char) => "0123456789.".contains(char)).join(""));
+};
 var ObsidianColumns = class extends import_obsidian2.Plugin {
   constructor() {
     super(...arguments);
@@ -213,9 +216,7 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
           delete CSS.width;
           this.applyStyle(child, CSS);
         }
-        console.log(settings);
         if ("height" in settings) {
-          console.log(`Setting height to ${settings.height}`);
           let heightCSS = {};
           heightCSS.height = settings.height.toString();
           heightCSS.overflow = "scroll";
@@ -245,6 +246,24 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
           }
           this.processChild(c);
         });
+        if ("height" in settings) {
+          let height = settings.height;
+          if (height == "shortest") {
+            let shortest = Math.min(...Array.from(child.children).map((c) => parseDirtyNumber(getComputedStyle(c).height)));
+            console.log(shortest);
+            let heightCSS = {};
+            heightCSS.height = shortest + "px";
+            heightCSS.overflow = "scroll";
+            Array.from(child.children).forEach((c) => {
+              this.applyStyle(c, heightCSS);
+            });
+          } else {
+            let heightCSS = {};
+            heightCSS.height = height;
+            heightCSS.overflow = "scroll";
+            this.applyStyle(child, heightCSS);
+          }
+        }
       });
       this.addCommand({
         id: "insert-column-wrapper",
