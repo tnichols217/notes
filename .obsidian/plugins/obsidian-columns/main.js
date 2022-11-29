@@ -220,7 +220,7 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
           this.applyStyle(child, heightCSS);
         }
       });
-      this.registerMarkdownCodeBlockProcessor(COLUMNNAME, (source, el, ctx) => {
+      this.registerMarkdownCodeBlockProcessor(COLUMNNAME, (source, el, ctx) => __async(this, null, function* () {
         let mdSettings = findSettings(source);
         let settings = parseSettings(mdSettings.settings);
         source = mdSettings.source;
@@ -228,7 +228,7 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
         let child = createDiv();
         let renderChild = new import_obsidian2.MarkdownRenderChild(child);
         ctx.addChild(renderChild);
-        import_obsidian2.MarkdownRenderer.renderMarkdown(source, child, sourcePath, renderChild);
+        let renderAwait = import_obsidian2.MarkdownRenderer.renderMarkdown(source, child, sourcePath, renderChild);
         let parent = el.createEl("div", { cls: "columnParent" });
         Array.from(child.children).forEach((c) => {
           let cc = parent.createEl("div", { cls: "columnChild" });
@@ -247,7 +247,8 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
           let height = settings.height;
           if (height == "shortest") {
             console.log(parent.children);
-            let shortest = Array.from(parent.children).map((c) => getComputedStyle(c).getPropertyValue("height"));
+            yield renderAwait;
+            let shortest = Array.from(parent.children).map((c) => getComputedStyle(c).height);
             console.log(shortest);
             console.log(shortest);
             let heightCSS = {};
@@ -263,7 +264,7 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
             this.applyStyle(child, heightCSS);
           }
         }
-      });
+      }));
       this.addCommand({
         id: "insert-column-wrapper",
         name: "Insert column wrapper",
