@@ -121,7 +121,6 @@ var COLUMNNAME = "col";
 var COLUMNMD = COLUMNNAME + "-md";
 var TOKEN = "!!!";
 var SETTINGSDELIM = "===";
-var COLUMNPADDING = 10;
 var DEFAULT_SETTINGS = {
   wrapSize: { value: 100, name: "Minimum width of column", desc: "Columns will have this minimum width before wrapping to a new row. 0 disables column wrapping. Useful for smaller devices" },
   defaultSpan: { value: 1, name: "The default span of an item", desc: "The default width of a column. If the minimum width is specified, the width of the column will be multiplied by this setting." }
@@ -250,10 +249,8 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
         if ("height" in settings) {
           let height = settings.height;
           if (height == "shortest") {
-            console.log(parent.children);
             yield renderAwait;
-            let shortest = Math.min(...Array.from(parent.children).map((c) => c.childNodes[0]).map((c) => getComputedStyle(c).height).map((value) => parseDirtyNumber(value))) + COLUMNPADDING;
-            console.log(shortest);
+            let shortest = Math.min(...Array.from(parent.children).map((c) => c.childNodes[0]).map((c) => parseDirtyNumber(getComputedStyle(c).height) + parseDirtyNumber(getComputedStyle(c).lineHeight)));
             let heightCSS = {};
             heightCSS.height = shortest + "px";
             heightCSS.overflow = "scroll";
@@ -264,7 +261,7 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
             let heightCSS = {};
             heightCSS.height = height;
             heightCSS.overflow = "scroll";
-            this.applyStyle(child, heightCSS);
+            this.applyStyle(parent, heightCSS);
           }
         }
       }));
