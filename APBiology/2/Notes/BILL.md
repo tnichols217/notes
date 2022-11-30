@@ -358,9 +358,7 @@ We conclude that as you increase the solution concentration surrounding plant ti
     Protective layer external to the cell membrane, consists of cellulose
 12. Cell membrane
 13. Chloroplast
-    Site of photosynthesis; produce
-food using light energy, CO2 and
-H2O
+    Site of photosynthesis; produce food using light energy, CO2 and H2O
 14. Cytoskeleton
 15. Nuclear membrane
 16. Extracellular Matrix
