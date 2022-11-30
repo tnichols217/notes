@@ -343,8 +343,15 @@ We conclude that as you increase the solution concentration surrounding plant ti
 # Additions
 ## BR: cell part card sort
 Rough endoplasmic reticulum
-Nuc
-
+Nucleus
+Golgi apparatus
+Vacuole
+Fungus cell wall
+Ribosomes
+Chromatin
+Lysosome
+Mitochondria
+T
 ## BR: prokaryote vs eukaryote
 
 
