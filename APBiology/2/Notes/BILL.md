@@ -343,22 +343,24 @@ We conclude that as you increase the solution concentration surrounding plant ti
 # Additions
 ## BR: cell part card sort
 1. Rough endoplasmic reticulum
-Nucleus
-Golgi apparatus
-Vacuole
-Fungus cell wall
-Ribosomes
-Chromatin
-Lysosome
-Mitochondria
-Transport vesicle
-Plant cell wall
-Cell membrane
-Chloroplast
-Cytoskeleton
-Nuclear membrane
-Extracellular Matrix
-Nucleolus
+   Protective layer external to the cell membrane, consists of
+cellulose
+2. Nucleus
+3. Golgi apparatus
+4. Vacuole
+5. Fungus cell wall
+6. Ribosomes
+7. Chromatin
+8. Lysosome
+9. Mitochondria
+10. Transport vesicle
+11. Plant cell wall
+12. Cell membrane
+13. Chloroplast
+14. Cytoskeleton
+15. Nuclear membrane
+16. Extracellular Matrix
+17. Nucleolus
 ## BR: prokaryote vs eukaryote
 
 
