@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13d37ee7968531e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Ch8/Cellular Respiration.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d6eff735a15f4668",
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/2/Notes/BILL.md",
+                "file": "Biology/Ch8/Cellular Respiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/2/Notes/BILL.md"
+                "file": "Biology/Ch8/Cellular Respiration.md"
               }
             }
           },
@@ -138,10 +151,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0268d9b63beca911",
+  "active": "13d37ee7968531e3",
   "lastOpenFiles": [
-    "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf",
     "APBiology/2/Notes/BILL.md",
+    "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf",
     "obsidian-columns.md",
     "MediaLit/Ad Deconstruction.md",
     "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
