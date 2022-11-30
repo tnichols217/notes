@@ -351,7 +351,14 @@ Ribosomes
 Chromatin
 Lysosome
 Mitochondria
-T
+Transport vesicle
+Plant cell wall
+Cell membrane
+Chloroplast
+Cytoskeleton
+Nuclear membrane
+Extracellular Matrix
+
 ## BR: prokaryote vs eukaryote
 
 
