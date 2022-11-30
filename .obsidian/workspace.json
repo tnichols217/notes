@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
+                "file": "APBiology/3/Notes/Chalk Talks/Cellular Respiration.md",
                 "mode": "preview",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
+                "file": "APBiology/3/Notes/Chalk Talks/Cellular Respiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/AP Biology Unit 3 BILL.md"
+                "file": "APBiology/3/Notes/Chalk Talks/Cellular Respiration.md"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "13d37ee7968531e3",
   "lastOpenFiles": [
+    "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/4/Unit 4 BILL.md",
     "Biology/Ch8/Cellular Respiration.md",
     "APBiology/2/Notes/BILL.md",
@@ -161,7 +162,6 @@
     "MediaLit/Ad Deconstruction.md",
     "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
     "APBiology/4/Notes/Case Study/Eukaryotic Cell Cycle and Cancer.md",
-    "APBiology/4/Documents/Case Study/Eukaryotic Cell Cycle and Cancer.pdf",
-    "APBiology/4/Documents/POGIL/The Cell Cycle.pdf"
+    "APBiology/4/Documents/Case Study/Eukaryotic Cell Cycle and Cancer.pdf"
   ]
 }
