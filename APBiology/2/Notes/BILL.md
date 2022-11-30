@@ -343,6 +343,7 @@ We conclude that as you increase the solution concentration surrounding plant ti
 # Additions
 ## BR: cell part card sort
 1. Rough endoplasmic reticulum
+    Channels proteins to transport vesicles, has attached ribosomes
 2. Nucleus
    
 3. Golgi apparatus
