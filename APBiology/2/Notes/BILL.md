@@ -358,7 +358,7 @@ Chloroplast
 Cytoskeleton
 Nuclear membrane
 Extracellular Matrix
-
+Nucleolus
 ## BR: prokaryote vs eukaryote
 
 
