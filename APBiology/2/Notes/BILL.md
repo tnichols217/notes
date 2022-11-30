@@ -337,7 +337,7 @@ We conclude that as you increase the solution concentration surrounding plant ti
 1. 3, 5, 2, (1) || (6, 4)
 2. -
 	1. They both have similar structures, containing its own DNA and a membrane
-	2. They reproduce the same way as well, splitting its own DNA and producing two sub-cells
+	2. They reproduce the same way as well, splitting its own DNA and producing two sub-cellsBR: cell part card sort - BR: prokaryote vs eukaryote - BR: cell membrane labeling - Activity: diffusion and osmosis challenge
 
 
 # Additions

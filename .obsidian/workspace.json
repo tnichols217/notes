@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c4adf2354f3a9ed",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/2/Notes/BILL.md",
+                "file": "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/2/Notes/BILL.md"
+                "file": "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf"
               }
             }
           },
@@ -122,8 +133,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0268d9b63beca911",
+  "active": "4c4adf2354f3a9ed",
   "lastOpenFiles": [
+    "APBiology/2/Notes/BILL.md",
+    "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf",
     "obsidian-columns.md",
     "MediaLit/Ad Deconstruction.md",
     "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
@@ -131,8 +144,6 @@
     "APBiology/4/Notes/Case Study/Eukaryotic Cell Cycle and Cancer.md",
     "APBiology/4/Documents/Case Study/Eukaryotic Cell Cycle and Cancer.pdf",
     "APBiology/4/Documents/POGIL/The Cell Cycle.pdf",
-    "APBiology/4/Documents/POGIL/Signal Transduction Pathways.pdf",
-    "APBiology/4/Documents/POGIL/Cellular Communication.pdf",
-    "APBiology/4/Notes/Labs/Glucose Blocker Tea.md"
+    "APBiology/4/Documents/POGIL/Signal Transduction Pathways.pdf"
   ]
 }
