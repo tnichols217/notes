@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d6eff735a15f4668",
+        "type": "tabs",
+        "children": [
           {
             "id": "4c4adf2354f3a9ed",
             "type": "leaf",
@@ -29,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf",
+                "file": "APBiology/2/Notes/BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf"
+                "file": "APBiology/2/Notes/BILL.md"
               }
             }
           },
@@ -133,10 +138,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c4adf2354f3a9ed",
+  "active": "0268d9b63beca911",
   "lastOpenFiles": [
-    "APBiology/2/Notes/BILL.md",
     "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf",
+    "APBiology/2/Notes/BILL.md",
     "obsidian-columns.md",
     "MediaLit/Ad Deconstruction.md",
     "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
