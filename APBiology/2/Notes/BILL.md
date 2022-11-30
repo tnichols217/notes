@@ -348,17 +348,19 @@ We conclude that as you increase the solution concentration surrounding plant ti
 3. Golgi apparatus
 4. Vacuole
 5. Fungus cell wall
-   Protective layer external to the
-cell membrane, consists of chitin
+    Protective layer external to the cell membrane, consists of chitin
 6. Ribosomes
 7. Chromatin
 8. Lysosome
 9. Mitochondria
 10. Transport vesicle
 11. Plant cell wall
-   Protective layer external to the cell membrane, consists of cellulose
+    Protective layer external to the cell membrane, consists of cellulose
 12. Cell membrane
 13. Chloroplast
+    Site of photosynthesis; produce
+food using light energy, CO2 and
+H2O
 14. Cytoskeleton
 15. Nuclear membrane
 16. Extracellular Matrix
