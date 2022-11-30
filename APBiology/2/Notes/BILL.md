@@ -343,18 +343,20 @@ We conclude that as you increase the solution concentration surrounding plant ti
 # Additions
 ## BR: cell part card sort
 1. Rough endoplasmic reticulum
-   Protective layer external to the cell membrane, consists of
-cellulose
 2. Nucleus
+   
 3. Golgi apparatus
 4. Vacuole
 5. Fungus cell wall
+   Protective layer external to the
+cell membrane, consists of chitin
 6. Ribosomes
 7. Chromatin
 8. Lysosome
 9. Mitochondria
 10. Transport vesicle
 11. Plant cell wall
+   Protective layer external to the cell membrane, consists of cellulose
 12. Cell membrane
 13. Chloroplast
 14. Cytoskeleton
