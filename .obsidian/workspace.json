@@ -4,51 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "86410e385846e8df",
+        "id": "9289779978577754",
         "type": "tabs",
         "children": [
           {
-            "id": "0268d9b63beca911",
+            "id": "5eea1e4928c5a4f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/2/Notes/BILL.md",
+                "file": "BritLit/Edward Lear.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "13d37ee7968531e3",
+            "id": "69eb1bf11cc999f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/3/Notes/Chalk Talks/Cellular Respiration.md",
-                "mode": "preview",
+                "file": "BritLit/Screwtape Letters.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d6eff735a15f4668",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4c4adf2354f3a9ed",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/Chalk Talks/Cellular Respiration.md",
+                "file": "BritLit/Screwtape Letters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/Chalk Talks/Cellular Respiration.md"
+                "file": "BritLit/Screwtape Letters.md"
               }
             }
           },
@@ -151,8 +135,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13d37ee7968531e3",
+  "active": "69eb1bf11cc999f0",
   "lastOpenFiles": [
+    "BritLit/Edward Lear.md",
+    "APBiology/3/Notes/Chalk Talks/Cellular Respiration.md",
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
     "APBiology/4/Unit 4 BILL.md",
     "Biology/Ch8/Cellular Respiration.md",
@@ -160,8 +146,6 @@
     "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf",
     "obsidian-columns.md",
     "MediaLit/Ad Deconstruction.md",
-    "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
-    "APBiology/4/Notes/Case Study/Eukaryotic Cell Cycle and Cancer.md",
-    "APBiology/4/Documents/Case Study/Eukaryotic Cell Cycle and Cancer.pdf"
+    "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
   ]
 }
