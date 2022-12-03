@@ -4,28 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "9289779978577754",
+        "id": "edc36a810cc74985",
         "type": "tabs",
         "children": [
           {
-            "id": "5eea1e4928c5a4f3",
+            "id": "4a525f6e31ce8430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BritLit/Edward Lear.md",
+                "file": "college/Interview Prep.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69eb1bf11cc999f0",
+            "id": "cc2dd524f7caac8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BritLit/Screwtape Letters.md",
+                "file": "Private/college/Colleges.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a954997563670a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/college/QB Essay 1 Brainstorm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da6798ed8c4d1486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/college/Additional Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BritLit/Screwtape Letters.md",
+                "file": "Private/college/Colleges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BritLit/Screwtape Letters.md"
+                "file": "Private/college/Colleges.md"
               }
             }
           },
@@ -135,8 +159,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69eb1bf11cc999f0",
+  "active": "cc2dd524f7caac8b",
   "lastOpenFiles": [
+    "BritLit/Screwtape Letters.md",
     "BritLit/Edward Lear.md",
     "APBiology/3/Notes/Chalk Talks/Cellular Respiration.md",
     "APBiology/3/Notes/AP Biology Unit 3 BILL.md",
@@ -145,7 +170,6 @@
     "APBiology/2/Notes/BILL.md",
     "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf",
     "obsidian-columns.md",
-    "MediaLit/Ad Deconstruction.md",
-    "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
+    "MediaLit/Ad Deconstruction.md"
   ]
 }
