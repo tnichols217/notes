@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/Regular Decision.md",
+                "file": "Private/college/QB Essay 1 Brainstorm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/Regular Decision.md"
+                "file": "Private/college/QB Essay 1 Brainstorm.md"
               }
             }
           },
@@ -171,8 +171,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4d0bc6ebaeebb5f",
+  "active": "9a954997563670a9",
   "lastOpenFiles": [
+    "Private/college/Regular Decision.md",
     "Private/college/Colleges.md",
     "BritLit/Screwtape Letters.md",
     "BritLit/Edward Lear.md",
@@ -181,7 +182,6 @@
     "APBiology/4/Unit 4 BILL.md",
     "Biology/Ch8/Cellular Respiration.md",
     "APBiology/2/Notes/BILL.md",
-    "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf",
-    "obsidian-columns.md"
+    "APBiology/2/Documents/Bell Ringers/Bellringer_Cell Parts Card Sort.pdf"
   ]
 }
