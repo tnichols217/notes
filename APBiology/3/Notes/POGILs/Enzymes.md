@@ -20,5 +20,10 @@
 13. 13
 	1. $40\degree C$
 	2. It is its maximum operating temperature before it explodes
-14. The proteins begin getting heat sterilized and completely nonfuctional
-15. 
+14. The proteins begin getting heat sterilized and completely irreversibly dysfuctional
+15. It could kill stomach enzymes, but also speed up the reaction rate of those that survive. After long periods of time, its likely that the stomach enzymes would be irreversibly denatured leading to a broken, slow, and ineffective digestion
+16. 16
+	1. Linearly related, more enzyme means more reaction
+	2. If you have one car carrying 5kg, when you have two cars, now you can carry 10kg over the same time (linearly related)
+17. Increasing and gently approaching a limit (the saturation of the enzymes) It will never reach the limit because you will never have a substrate perfectly take the place of the previous product immediately, however increasing the substrate concentration leads to less time between production in the enzymes
+18. Say you have 10 cars (enzymes) and you need to drive one lap then switch drivers before 
