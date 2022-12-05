@@ -46,30 +46,8 @@ console.log(msg)
 ``````
 ```````
 
+```col
+![[Unit 2 BILL]]
 
-````col
-height=shortest
-===
-```col-md
-hi
-hi
-hi
-hi
-hi
-hi
-hi
-hi
-hi
-hi
+![[Unit 3 BILL]]
 ```
-
-```col-md
-hi
-hi
-hi
-hi
-hi
-hi
-hi
-```
-````
