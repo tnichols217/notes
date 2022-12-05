@@ -181,45 +181,18 @@
         "type": "split",
         "children": [
           {
-            "id": "5b80f97af4186392",
+            "id": "b2f5b9c221052440",
             "type": "tabs",
             "children": [
               {
-                "id": "52dfa9ffe3f71c44",
+                "id": "496842336a935e56",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "APBiology/4/Notes/Case Study/Eukaryotic Cell Cycle and Cancer.md",
+                    "file": "obsidian-columns.md",
                     "mode": "source",
                     "source": false
-                  }
-                }
-              },
-              {
-                "id": "783521a9a07eed41",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "780f2be999fa13c2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c28881c0201e3b88",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "APBiology/4/Documents/Case Study/Eukaryotic Cell Cycle and Cancer.pdf"
                   }
                 }
               }
@@ -289,7 +262,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
+                    "file": "obsidian-columns.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -306,7 +279,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
+                    "file": "obsidian-columns.md"
                   }
                 }
               },
@@ -326,7 +299,7 @@
         "width": 300,
         "collapsed": true
       },
-      "active": "783521a9a07eed41"
+      "active": "496842336a935e56"
     },
     "ap art": {
       "main": {
@@ -900,5 +873,5 @@
       "active": "13d37ee7968531e3"
     }
   },
-  "active": "biology"
+  "active": "ap art"
 }
