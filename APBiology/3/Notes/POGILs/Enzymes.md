@@ -29,4 +29,8 @@
 18. Say you have 10 cars (enzymes) and you need to drive one lap then switch drivers and repeat this indefinitely. If you have more cars, more laps will be driven. If all the drivers (randomly distributed at the end zone) rush for the car after a lap is completed, if there are more people around, the chance that someone will be standing close to the car increases, leading to less down time before another lap can be driven (reducing wasted parked time)
 19. Yes, but since it is a limit, it will never be practically reached unless your concentration is infinite, because attaching to an enzyme perfectly immediately after the product has been ejected is practically impossible to consistently reproduce even with a large concentration
 20. (shift it $30\degree C$ to the right)
-21. 
+21. 21
+	1. The bacteria already lives in a hot environment, so raising its temperature to $95\degree C$ wouldn't likely kill everything in the bacteria and would only delaminate the DNA. If this was done on human polymerase, other damage would likely happen, killing basically all working enzymes
+	2. A lot of the rest of the human enzymes and proteins would be destroyed, including primers and other DNA effective machines
+22. Linear, more enzyme means more coenzyme
+23. Divide everything by like 4
