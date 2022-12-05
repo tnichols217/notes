@@ -344,27 +344,37 @@ We conclude that as you increase the solution concentration surrounding plant ti
 ## BR: cell part card sort
 1. Rough endoplasmic reticulum
     Channels proteins to transport vesicles, has attached ribosomes
+    
 2. Nucleus
    Contains most of the genes that control the eukaryotic cell, contains the nucleolus and chromatin
+   
 3. Golgi apparatus
    Consists of flattened membranous sacs; receives transport vesicles from the ER, modifies ER produces, produces secretory vesicles
+   
 4. Vacuole
 5. Fungus cell wall
     Protective layer external to the cell membrane, consists of chitin
+    
 6. Ribosomes
 7. Chromatin
+   Consists of DNA and protein, condenses to form chromosomes
+   
 8. Lysosome
    Part of the endomembrane system, sacs of enzymes used to digest food and old, worn out cell parts
+   
 9. Mitochondria
 10. Transport vesicle
 11. Plant cell wall
     Protective layer external to the cell membrane, consists of cellulose
+    
 12. Cell membrane
     Forms the boundary of the cell, acts as a selective barrier allowing certain materials to pass but not others
+    
 13. Chloroplast
     Site of photosynthesis; produce food using light energy, CO2 and H2O
 14. Cytoskeleton
 15. Nuclear membrane
+    Double membrane that forms the boundary between the nuclear contents and the cytoplasm; perforated with pores
 16. Extracellular Matrix
 17. Nucleolus
     Where the components of the ribosome are synthesized and assembled; found in the nucleus
