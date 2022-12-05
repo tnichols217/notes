@@ -4,59 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b80f97af4186392",
+        "id": "b2f5b9c221052440",
         "type": "tabs",
         "children": [
           {
-            "id": "52dfa9ffe3f71c44",
+            "id": "496842336a935e56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/2/Notes/Unit 2 BILL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2327feb3494dbee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/3/Notes/POGILs/Enzymes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fcd5fe399760132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Ch8/Cellular Respiration.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "632b6483da356114",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "27c621584d3f1ede",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APBiology/3/Documents/POGIL/6 Enzymes and Cellular Regulation-S.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -125,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/2/Notes/Unit 2 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "APBiology/2/Notes/Unit 2 BILL.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,14 +115,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b67808c7c498bc42",
+  "active": "496842336a935e56",
   "lastOpenFiles": [
-    "APBiology/3/Notes/Unit 3 BILL.md",
-    "APBiology/3/Notes/POGILs/Enzymes.md",
-    "APBiology/3/Documents/POGIL/6 Enzymes and Cellular Regulation-S.pdf",
-    "APBiology/2/Notes/Unit 2 BILL.md",
-    "APBiology/4/Unit 4 BILL.md",
     "Biology/Ch8/Cellular Respiration.md",
+    "APBiology/3/Notes/POGILs/Enzymes.md",
+    "APBiology/2/Notes/Unit 2 BILL.md",
+    "APBiology/3/Notes/Unit 3 BILL.md",
+    "APBiology/3/Documents/POGIL/6 Enzymes and Cellular Regulation-S.pdf",
+    "APBiology/4/Unit 4 BILL.md",
     "APBiology/3/Notes/Chalk Talks/Cellular Respiration.md",
     "APBiology/3/Notes/Chalk Talks/Photosynthesis.md",
     "Biology/Ch8/Photosynthesis.md",
