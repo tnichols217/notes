@@ -26,8 +26,8 @@ You’ll create a body of work that demonstrates:
 
 You’ll have to document in writing:
 
--   the questions that guided your sustained investigation **(600 words)**
--   how your sustained investigation shows evidence of **practice, experimentation, and revision** guided by your questions **(600 words)**
+-   the questions that guided your sustained investigation **(600 characters)**
+-   how your sustained investigation shows evidence of **practice, experimentation, and revision** guided by your questions **(600 characters)**
 
 **Note:** Your responses to the prompts are evaluated along with the images you submit:
 
