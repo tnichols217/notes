@@ -407,4 +407,9 @@ We conclude that as you increase the solution concentration surrounding plant ti
 2. True, although the amount of glucose cannot change, the percentage of glucose would change because the volume on each side could change
 3. False, side X will eventually equal double of side Y because of the concentrations of glucose, which cannot change. 
 4. False The amount of Glucose stays the same, but the percentage with respect to volume will obviously change
-5. 
+5. False, it will move to make the ratios equal, meaning it will go to the side with more glucose
+6. True
+7. False, it moves towards the side with lower water concentration
+8. False, it is a random process and water will move both ways, but it will move in NET to side X
+9. True
+10. False, the left has lower potential
