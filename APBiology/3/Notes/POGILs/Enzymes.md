@@ -26,4 +26,7 @@
 	1. Linearly related, more enzyme means more reaction
 	2. If you have one car carrying 5kg, when you have two cars, now you can carry 10kg over the same time (linearly related)
 17. Increasing and gently approaching a limit (the saturation of the enzymes) It will never reach the limit because you will never have a substrate perfectly take the place of the previous product immediately, however increasing the substrate concentration leads to less time between production in the enzymes
-18. Say you have 10 cars (enzymes) and you need to drive one lap then switch drivers before 
+18. Say you have 10 cars (enzymes) and you need to drive one lap then switch drivers and repeat this indefinitely. If you have more cars, more laps will be driven. If all the drivers (randomly distributed at the end zone) rush for the car after a lap is completed, if there are more people around, the chance that someone will be standing close to the car increases, leading to less down time before another lap can be driven (reducing wasted parked time)
+19. Yes, but since it is a limit, it will never be practically reached unless your concentration is infinite, because attaching to an enzyme perfectly immediately after the product has been ejected is practically impossible to consistently reproduce even with a large concentration
+20. (shift it $30\degree C$ to the right)
+21. 

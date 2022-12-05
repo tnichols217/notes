@@ -47,45 +47,20 @@
         "currentTab": 1
       },
       {
-        "id": "ece4fa4d26b1a646",
-        "type": "split",
+        "id": "632b6483da356114",
+        "type": "tabs",
         "children": [
           {
-            "id": "6df433a4886f1db7",
-            "type": "tabs",
-            "dimension": 63.70370370370371,
-            "children": [
-              {
-                "id": "d03121057d9f5394",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "APBiology/3/Documents/POGIL/6 Enzymes and Cellular Regulation-S.pdf"
-                  }
-                }
+            "id": "27c621584d3f1ede",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "APBiology/3/Documents/POGIL/6 Enzymes and Cellular Regulation-S.pdf"
               }
-            ]
-          },
-          {
-            "id": "632b6483da356114",
-            "type": "tabs",
-            "dimension": 36.2962962962963,
-            "children": [
-              {
-                "id": "27c621584d3f1ede",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "APBiology/3/Documents/POGIL/6 Enzymes and Cellular Regulation-S.pdf"
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
