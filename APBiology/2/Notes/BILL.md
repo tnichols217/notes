@@ -388,6 +388,8 @@ We conclude that as you increase the solution concentration surrounding plant ti
     Double membrane that forms the boundary between the nuclear contents and the cytoplasm; perforated with pores
     
 16. Extracellular Matrix
+    Proteins found outside an animal cell that function in support, adhesion and movement
+    
 17. Nucleolus
     Where the components of the ribosome are synthesized and assembled; found in the nucleus
     
