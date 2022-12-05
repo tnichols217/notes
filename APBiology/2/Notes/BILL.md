@@ -399,7 +399,7 @@ We conclude that as you increase the solution concentration surrounding plant ti
 3. Prokaryote - it doesn't have a nucleus
 
 ## BR: cell membrane labeling
-![[Pasted image 20221205102553.png]]
+![[Pasted image 20221205104230.png]]
 
 ## Activity: diffusion and osmosis challenge
 
