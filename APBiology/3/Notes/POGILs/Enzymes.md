@@ -12,4 +12,13 @@
 8. 5, it has no function above this pH level
 9. No, the pH levels are vastly different leading to different looking enzymes
 10. It would look similar to that of Pepsin, high functionality at low pH levels
-11. The digestion 
+11. The digestion ability would be greatly hindered as it would change the pH level to a level that isn't suitable for the enzymes in the stomach, greatly lowering its reaction rates
+12. 12
+	1. The most suitable temperature for Amylase is $40\degree C$, anything above would destroy the protein and anything below would reduce the speed of reaction by slowing the molecules
+	2. Enzyme concentration is linearly related to reaction rate
+	3. Higher Substrate concentration leads to a higher rate of reaction until you reach the saturation of enzymes, at which increasing the substrate concentration would only increase the chances of intersection with an enzyme
+13. 13
+	1. $40\degree C$
+	2. It is its maximum operating temperature before it explodes
+14. The proteins begin getting heat sterilized and completely nonfuctional
+15. 
