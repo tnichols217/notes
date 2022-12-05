@@ -403,4 +403,8 @@ We conclude that as you increase the solution concentration surrounding plant ti
 
 ## Activity: diffusion and osmosis challenge
 
-
+1. False, it will become more concentrated because the concentrations will balance with respect to water and glucose
+2. True, although the amount of glucose cannot change, the percentage of glucose would change because the volume on each side could change
+3. False, side X will eventually equal double of side Y because of the concentrations of glucose, which cannot change. 
+4. False The amount of Glucose stays the same, but the percentage with respect to volume will obviously change
+5. 
