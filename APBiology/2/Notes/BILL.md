@@ -394,10 +394,21 @@ We conclude that as you increase the solution concentration surrounding plant ti
     Where the components of the ribosome are synthesized and assembled; found in the nucleus
     
 ## BR: prokaryote vs eukaryote
-
+1. Eukaryote - has a nucleus
+2. Eukaryote - has a nucleus
+3. Prokaryote - it doesn't have a nucleus
 
 ## BR: cell membrane labeling
-
+1. Peripheral proteins
+2. Extracellular matrix
+3. Glycolipid
+4. Glycoprotein
+5. Channel Protein
+6. Phospholipid
+7. Outside of cell
+8. Inside of cell
+9. Cytoskeleton
+10. Integral Protein
 
 ## Activity: diffusion and osmosis challenge
 
