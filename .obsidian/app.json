@@ -20,5 +20,6 @@
   ],
   "spellcheckLanguages": [
     "en-US"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
