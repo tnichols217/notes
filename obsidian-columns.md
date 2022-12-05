@@ -45,9 +45,3 @@ console.log(msg)
 `````
 ``````
 ```````
-
-```col
-![[Unit 2 BILL]]
-
-![[Unit 3 BILL]]
-```
