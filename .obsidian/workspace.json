@@ -4,71 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "edc36a810cc74985",
+        "id": "5b80f97af4186392",
         "type": "tabs",
         "children": [
           {
-            "id": "4a525f6e31ce8430",
+            "id": "52dfa9ffe3f71c44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "college/Interview Prep.md",
+                "file": "APBiology/4/Notes/Case Study/Eukaryotic Cell Cycle and Cancer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc2dd524f7caac8b",
+            "id": "783521a9a07eed41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Private/college/Colleges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4d0bc6ebaeebb5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/Regular Decision.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a954997563670a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/QB Essay 1 Brainstorm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da6798ed8c4d1486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/Additional Questions.md",
-                "mode": "source",
-                "source": false
+                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "780f2be999fa13c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c28881c0201e3b88",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "APBiology/4/Documents/Case Study/Eukaryotic Cell Cycle and Cancer.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/Regular Decision.md",
+                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/Regular Decision.md"
+                "file": "APBiology/4/Documents/POGIL/Cell Cycle Regulation.pdf"
               }
             }
           },
@@ -171,10 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4d0bc6ebaeebb5f",
+  "active": "783521a9a07eed41",
   "lastOpenFiles": [
-    "Private/college/QB Essay 1 Brainstorm.md",
     "Private/college/Regular Decision.md",
+    "Private/college/QB Essay 1 Brainstorm.md",
     "Private/college/Colleges.md",
     "BritLit/Screwtape Letters.md",
     "BritLit/Edward Lear.md",
