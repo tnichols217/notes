@@ -352,10 +352,14 @@ We conclude that as you increase the solution concentration surrounding plant ti
    Consists of flattened membranous sacs; receives transport vesicles from the ER, modifies ER produces, produces secretory vesicles
    
 4. Vacuole
+   Membrane bound sacs, larger than vesicles, stores water and dissolved nutrients
+   
 5. Fungus cell wall
     Protective layer external to the cell membrane, consists of chitin
     
 6. Ribosomes
+   Site of protein synthesis; suspended in the cytosol or attached to the ER
+   
 7. Chromatin
    Consists of DNA and protein, condenses to form chromosomes
    
@@ -363,7 +367,11 @@ We conclude that as you increase the solution concentration surrounding plant ti
    Part of the endomembrane system, sacs of enzymes used to digest food and old, worn out cell parts
    
 9. Mitochondria
+   Site of cellular respiration, produces ATP from sugar
+   
 10. Transport vesicle
+    Carries ER products to the Golgi
+    
 11. Plant cell wall
     Protective layer external to the cell membrane, consists of cellulose
     
@@ -372,12 +380,17 @@ We conclude that as you increase the solution concentration surrounding plant ti
     
 13. Chloroplast
     Site of photosynthesis; produce food using light energy, CO2 and H2O
+    
 14. Cytoskeleton
+    Supports the shape of the cell, anchors organelles and serves as a “track” for organelles to move on.
+    
 15. Nuclear membrane
     Double membrane that forms the boundary between the nuclear contents and the cytoplasm; perforated with pores
+    
 16. Extracellular Matrix
 17. Nucleolus
     Where the components of the ribosome are synthesized and assembled; found in the nucleus
+    
 ## BR: prokaryote vs eukaryote
 
 
