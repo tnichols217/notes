@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9289779978577754",
+        "id": "b2f5b9c221052440",
         "type": "tabs",
         "children": [
           {
-            "id": "5eea1e4928c5a4f3",
+            "id": "496842336a935e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BritLit/Edward Lear.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69eb1bf11cc999f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BritLit/Screwtape Letters.md",
+                "file": "obsidian-columns.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BritLit/Screwtape Letters.md",
+                "file": "obsidian-columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BritLit/Screwtape Letters.md"
+                "file": "obsidian-columns.md"
               }
             }
           },
@@ -135,12 +122,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69eb1bf11cc999f0",
+  "active": "496842336a935e56",
   "lastOpenFiles": [
+    "BritLit/Screwtape Letters.md",
     "ChristAndCulture/Final.md",
     "APBiology/4/Unit 4 BILL.md",
     "obsidian-columns.md",
-    "BritLit/Screwtape Letters.md",
     "APArt/Sustained Investigation.md",
     "APArt/Portfolio notes.md",
     "Biology/Ch8/Cellular Respiration.md",
