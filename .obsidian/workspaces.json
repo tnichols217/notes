@@ -329,7 +329,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "APArt/Portfolio notes.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   }
                 }
@@ -347,7 +347,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -413,7 +413,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "APArt/Portfolio notes.md",
+                    "file": "APArt/Sustained Investigation.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -430,7 +430,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "APArt/Portfolio notes.md"
+                    "file": "APArt/Sustained Investigation.md"
                   }
                 }
               },
@@ -450,7 +450,7 @@
         "width": 300,
         "collapsed": true
       },
-      "active": "e2b095573fcaac02"
+      "active": "0eaebd664d174b69"
     },
     "brit lit": {
       "main": {
@@ -873,5 +873,5 @@
       "active": "13d37ee7968531e3"
     }
   },
-  "active": "ap art"
+  "active": "brit lit"
 }
