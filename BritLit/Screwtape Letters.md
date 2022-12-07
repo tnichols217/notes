@@ -27,7 +27,7 @@
 
 ```col
 > [!quote]
-> Mere cowardice is shamefu
+> Mere cowardice is shameful; cowardice boasted of with humorous exaggerations and grotesque gestures can be passed off as funny. Cruelty is shameful -- un
 ```
 
 # pg 88 all i want
