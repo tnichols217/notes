@@ -81,5 +81,16 @@
 > 
 ```
 
-# pg 167 
+# pg 167 - Sneak delayed attack
 
+```col
+> [!quote]
+> "Keep him comfor
+```
+```col
+> [!info] Blurb
+> 
+
+> [!important] Application
+> 
+```
