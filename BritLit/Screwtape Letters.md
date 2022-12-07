@@ -71,7 +71,7 @@
 ```
 ```col
 > [!info] Blurb
-> This stuck out to me because my pastor constantly war
+> This stuck out to me because my pastor constantly warns me (and the whole church) not to trust in earthly posessions and to instead trust in the Lord. It seemed oddly familiar and 
 
 > [!important] Application
 > 
