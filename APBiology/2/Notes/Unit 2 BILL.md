@@ -180,10 +180,30 @@ Provides structure and support for the microtubules
 
 Both
 ```
+```col
+Cell Wall
+
+Thick protective layer
+
+Protects and provides structure
+
+Plant
 ```
+```col
+Chloroplast
+
+Spherical Double membrane holding Photosynthetic compounds
+
+Captures energy from the sun for the plant to use
+
+Plant
 ```
 
-1. 
+3. Almost the same, except plant cells additionally have a wall and chloroplasts.
+
+## 2.2 and 2.10
+1. 1
+	1. 
 
 # Unit Summary
 ## Standards
