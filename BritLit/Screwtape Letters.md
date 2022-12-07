@@ -42,11 +42,11 @@
 
 ```col
 > [!quote]
-> "The woman is in what may be called the 'All-I-want' state of mind. *All* she wants is a cup of tea properly made, or an egg properly boiled, or a slice of bread properly toasted. But she never finds any servant or any friend who can do these simple things 'properly' -- because her 'properly' conceals an insatiable, palatal pleasures which she imagines she remembers from the past; a past describe by her as 'the days when you could get good servants' but known to us as the days when her seenses were more easily pleased and she had pleasures of other kinds which made her less dependent on those of the table" (Lewis 88-89)
+> "The woman is in what may be called the 'All-I-want' state of mind. *All* she wants is a cup of tea properly made, or an egg properly boiled, or a slice of bread properly toasted. But she never finds any servant or any friend who can do these simple things 'properly' -- because her 'properly' conceals an insatiable, palatal pleasures which she imagines she remembers from the past; a past describe by her as 'the days when you could get good servants' but known to us as the days when her seenses were more easily pleased and she had pleasures of other kinds which made her less dependent on those of the table" (Lewis 88-89).
 ```
 ```col
 > [!info] Blurb
-> This quote was quite interesting because it shows how harmful jokes can be. It also shows multiple sides of the same problem, like how without making it into a joke people will see and treat you differently. It definitely makes me aware of what I should and shouldn't be joking about.
+> This quote stuck out to me
 
 > [!important] Application
 > This makes me more cautious about what I'll joke about and possibly rethink what I have joked about in the past.
