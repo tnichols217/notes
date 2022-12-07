@@ -23,7 +23,7 @@
 > Now that I am more awake of what could be distracting during prayers, I will take additional steps to ensure that not only my mind is ready to pray, but my bodily posture as well.
 ```
 
-# Letter 11
+# Letter 11 - 
 # pg 88 all i want
 # pg 142
 # pg 163
