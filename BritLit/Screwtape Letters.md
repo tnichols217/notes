@@ -25,7 +25,10 @@
 
 # Letter 11 - Positively Fantastic Recovery
 
-
+```col
+> [!quote]
+> 
+```
 
 # pg 88 all i want
 # pg 142
