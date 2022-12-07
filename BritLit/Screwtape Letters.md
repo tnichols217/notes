@@ -34,7 +34,7 @@
 > This quote was quite interesting because it shows how harmful jokes can be. It also shows multiple sides of the same problem, like how without making it into a joke people will see and treat you differently. It definitely makes me aware of what I should and shouldn't be joking about.
 
 > [!important] Application
-> This makes me more cautious about th
+> This makes me more cautious about what I'll joke about and possibly rethink what I have joked about in the past.
 ```
 
 # pg 88 all i want
