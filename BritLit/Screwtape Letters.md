@@ -8,7 +8,7 @@
 > [!quote]
 > "This is exactly the sort of prayer we want; and since it bears a superficial resemblance to the prayer of silence as practice by those who are very far advance in the Enemy's service, clever and lazy patients can be taken in by it for quite a long time."
 
-> [!info] 
+> [!info] Blurb
 > aa
 
 # pg 88 all i want
