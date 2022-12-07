@@ -42,7 +42,7 @@
 
 ```col
 > [!quote]
-> "The woman is in what may be called the 'All-I-want' state of mind. 
+> "The woman is in what may be called the 'All-I-want' state of mind. *All* she wants is a cup of tea properly made, or an egg properly boiled, or a slice of bread properly toasted. But she never finds any 
 ```
 ```col
 > [!info] Blurb
