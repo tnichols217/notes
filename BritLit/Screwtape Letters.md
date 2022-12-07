@@ -53,7 +53,7 @@
 > This makes me look out more for occasions where I may be expecting something when I don't really have the right to expect such things from other people. I think you can never have enough reminders to be humble and accepting.
 ```
 
-# pg 142
+# Letter 26 - 
 
 
 
