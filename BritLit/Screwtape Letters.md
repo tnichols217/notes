@@ -10,7 +10,9 @@
 - A small blurb (minimum of three sentences) of why you connected with this quote; this may include questions that you have about it.
 - A practical application (e.g. Apologize to mom for being annoyed by her last night) or prayer to God related to the content of the letter.
 
-<image style="position: absolute;" src="/home/tev/Documents/obsidian/notes/BritLit/attachments/fire.png"></image>
+<image style="position: absolute;" src="app://local/home/tev/Documents/obsidian/notes/BritLit/attachments/fire.png?1670421892000"></image>
+
+![[fire.png]]
 
 # Letter 4 - Ethereal Utterances
 ```col
