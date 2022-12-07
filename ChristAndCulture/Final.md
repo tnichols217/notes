@@ -45,4 +45,4 @@ The Bible clearly says that you cannot serve both money and God, but it doesn't 
 ## 3
 Assume that you support the death penalty in at least some cases, and that you are a judge with the power to sentence someone to death. Biblically speaking, what kinds of evidence would have to be present for you to feel comfortable going through with it? Also biblically speaking, what kinds of evidences should be de-emphasized or rejected?
 
-I don't believe that the death penalty is justified 
+The Bible has capital punishment for murder, kidnapping, beastiality, blashpheming, and promoting other gods, although it punishes other things too. I don't believe that the death penalty is justified in our modern government as I don't feel it is right for people to be able to destroy the images of God. Only God has the right to destroy his own imag
