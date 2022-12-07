@@ -71,7 +71,7 @@
 
 ```col
 > [!quote]
-> "By building up a series of imaginary expedients to prevent 'the worst coming to the worst' you may produce, at that level of his will which he is not aware of, a determination th
+> "By building up a series of imaginary expedients to prevent 'the worst coming to the worst' you may produce, at that level of his will which he is not aware of, a determination that the worst *shall not* come to the worst. Then, at the moment of real terror, rush it out into his nerves and muscles and you may get the fatal act done before he knows what you'
 ```
 ```col
 > [!info] Blurb
