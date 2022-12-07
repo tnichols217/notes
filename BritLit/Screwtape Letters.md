@@ -5,8 +5,8 @@
 - A practical application (e.g. Apologize to mom for being annoyed by her last night) or prayer to God related to the content of the letter.
 # 
 
-pg 88 all i want
 letter 4
+pg 88 all i want
 letter 11
 pg 142
 pg 163
