@@ -2,7 +2,8 @@
 ![[fireDark.png]]
 
 ```col-md
-
+flexGrow=0.1
+===
 ```
 ````
 
