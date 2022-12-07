@@ -16,7 +16,7 @@
 > "This is exactly the sort of prayer we want; and since it bears a superficial resemblance to the prayer of silence as practice by those who are very far advance in the Enemy's service, clever and lazy patients can be taken in by it for quite a long time" (Lewis 16).
 
 > [!info] Blurb
-> I found this particularly jabbing because I didn't really consider my own posture when I am praying and this was particularly 
+> I found this particularly jabbing because I didn't really consider my own posture when I am praying and this was particularly contradictory to me. 
 ```
 # pg 88 all i want
 # letter 11
