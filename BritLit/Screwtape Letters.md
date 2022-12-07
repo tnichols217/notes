@@ -71,10 +71,10 @@
 ```
 ```col
 > [!info] Blurb
-> This stuck out to me because my pastor constantly warns me (and the whole church) not to trust in earthly posessions and to instead trust in the Lord. It seemed oddly familiar and this was exactly opposite that. It shows that no matter how 
+> This stuck out to me because my pastor constantly warns me (and the whole church) not to trust in earthly posessions and to instead trust in the Lord. It seemed oddly familiar and this was exactly opposite that. It shows that no matter how much you prepare, there is always something that can go wrong.
 
 > [!important] Application
-> 
+> This teaches me that no matter how much I prepare for the worst, I should still expect the wo
 ```
 
 # Letter 30 - Delayed sneak attack
