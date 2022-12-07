@@ -32,7 +32,7 @@ The Bible basically predicts that there will come a generation that will be viol
 ## 2
 Wealth envy is a tool that political parties use to create class warfare. Thus, rich people (a small voting bloc) are demonized by a large voting bloc, sometimes fairly and sometimes unfairly. However, rich people tend also to be the biggest achievers in society and hold important jobs and positions of responsibility. Biblically speaking, what should our attitude be towards rich people, and being rich in general?
 
-
+I feel like we shoul
 
 ## 3
 Assume that you support the death penalty in at least some cases, and that you are a judge with the power to sentence someone to death. Biblically speaking, what kinds of evidence would have to be present for you to feel comfortable going through with it? Also biblically speaking, what kinds of evidences should be de-emphasized or rejected?
