@@ -57,11 +57,11 @@
 
 ```col
 > [!quote]
-> "A woman means by Unselfishness chiefly taking trouble for others; a man means not giving trouble to others. ... Thus while the woman thinks of doing good offices and the man of respecting other people's rights, each sex, without any obvious unreason, can and does regard the other as radically selfish" (Lewis 142).
+> "A woman means by Unselfishness chiefly taking trouble for others; a man means not giving trouble to others ... Thus while the woman thinks of doing good offices and the man of respecting other people's rights, each sex, without any obvious unreason, can and does regard the other as radically selfish" (Lewis 142).
 ```
 ```col
 > [!info] Blurb
-> I've never 
+> I've never thought about how trying not to cause trouble for other peop
 
 > [!important] Application
 > This makes me look out more for occasions where I may be expecting something when I don't really have the right to expect such things from other people. I think you can never have enough reminders to be humble and accepting.
