@@ -20,20 +20,23 @@ The Bible predicts that one day people will become violent and rebel against the
 
 The Bible basically predicts that there will come a generation that will be violent and evil, and perhaps this is the beginning of that generation in America. Although this is not direct evidence that this is the cause of increased gun violence in America, I believe that due to the same factors earlier, the rise of social media, joke culture, and video games, may also promote disobedience to parents, which would cause the cascade of effects outlined in the Bible.
 
+---
 ### 2
 > [!question] 
 > Wealth envy is a tool that political parties use to create class warfare. Thus, rich people (a small voting bloc) are demonized by a large voting bloc, sometimes fairly and sometimes unfairly. However, rich people tend also to be the biggest achievers in society and hold important jobs and positions of responsibility. Biblically speaking, what should our attitude be towards rich people, and being rich in general?
 
 I feel like we shouldn't unfairly prejudge people if they're rich or not. Just because they are tall, male, white, or rich doesn't give us the right to have prejudice over them. I believe it is unfair to treat rich people unfairly without reason. 
 
-"No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money." (Matthew 6:24)
-
-"Command those who are rich in this present world not to be arrogant nor to put their hope in wealth, which is so uncertain, but to put their hope in God, who richly provides us with everything for our enjoyment. Command them to do good, to be rich in good deeds, and to be generous and willing to share." (1 Timothy 6:17-18)
-
-"For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs." (Timothy 6:10)
+> [!quote] 
+> "No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money." (Matthew 6:24)
+> 
+> "Command those who are rich in this present world not to be arrogant nor to put their hope in wealth, which is so uncertain, but to put their hope in God, who richly provides us with everything for our enjoyment. Command them to do good, to be rich in good deeds, and to be generous and willing to share." (1 Timothy 6:17-18)
+> 
+> "For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs." (Timothy 6:10)
 
 The Bible clearly says that you cannot serve both money and God, but it doesn't say that money itself it inherently evil. It says that money is normally the cause of problems especially when you seek it too much -- in effect serving it. The Bible does say that if you are rich you shouldn't be arrogant and you shouldn't trust in your own securities. This is in line with what I believe: just because someone is rich doesn't make them bad. Having large amounts of money does come with its drawbacks and responsibilities, as the Bible says that having too much money does lead to temptations.
 
+---
 ### 3
 > [!question] 
 > Assume that you support the death penalty in at least some cases, and that you are a judge with the power to sentence someone to death. Biblically speaking, what kinds of evidence would have to be present for you to feel comfortable going through with it? Also biblically speaking, what kinds of evidences should be de-emphasized or rejected?
