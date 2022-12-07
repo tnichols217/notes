@@ -72,7 +72,7 @@
 ```
 ```col
 > [!info] Blurb
-> 
+> This stuck out to me plainly because of how strategic it is. The thought that something is soon coming to an end definitely 
 
 > [!important] Application
 > 
