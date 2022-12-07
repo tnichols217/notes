@@ -34,7 +34,7 @@
 > This quote was quite interesting because it shows how harmful jokes can be. It also shows multiple sides of the same problem, like how without making it into a joke people will see and treat you differently. It definitely makes me aware of what I should and shouldn't be joking about.
 
 > [!important] Application
-> Now that I am more awake of what could be distracting during prayers, I will take additional steps to ensure that not only my mind is ready to pray, but my bodily posture as well.
+> a
 ```
 
 # pg 88 all i want
