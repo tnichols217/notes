@@ -1,4 +1,10 @@
+````col
 ![[fireDark.png]]
+
+```col-md
+
+```
+````
 
 # Letter 4 - Ethereal Utterances
 ```col
