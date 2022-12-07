@@ -71,7 +71,7 @@
 
 ```col
 > [!quote]
-> "By building up
+> "By building up a series of imaginary 
 ```
 ```col
 > [!info] Blurb
