@@ -20,7 +20,7 @@
 > I found this particularly jabbing because I didn't really consider my own posture when I am praying and this was particularly contradictory to me. It didn't even cross my own mind that it might be bad prayer (according to CS Lewis) if I didn't watch my posture. Even though this chapter was about praying to things other than God and everything that could and would distract us from that, this off remark about posture caught me by surprise.
 
 > [!important] Application
-> Now that I am more awake of what could be distracting during prayers, I can take a
+> Now that I am more awake of what could be distracting during prayers, I will take additional steps to ensure that not only my mind is ready to pray, but my bodily posture as well.
 ```
 
 # pg 88 all i want
