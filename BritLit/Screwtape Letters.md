@@ -38,7 +38,7 @@
 > This makes me more cautious about what I'll joke about and possibly rethink what I have joked about in the past.
 ```
 
-# Letter 17 - Past pseudo satisfactions
+# Letter 17 - Past pseudo-satisfactions
 ```col
 > [!quote]
 > "The woman is in what may be called the 'All-I-want' state of mind. *All* she wants is a cup of tea properly made, or an egg properly boiled, or a slice of bread properly toasted. But she never finds any servant or any friend who can do these simple things 'properly' -- because her 'properly' conceals an insatiable, palatal pleasures which she imagines she remembers from the past; a past describe by her as 'the days when you could get good servants' but known to us as the days when her seenses were more easily pleased and she had pleasures of other kinds which made her less dependent on those of the table" (Lewis 88-89).
@@ -64,7 +64,7 @@
 > This leads me to want to be able to read the room better and understand if what I am doing really is causing less trouble or if just makes the other person more annoyed or think that I am selfish.
 ```
 
-# Letter 29 -
+# Letter 29 - 
 ```col
 > [!quote]
 > "By building up a series of imaginary expedients to prevent 'the worst coming to the worst' you may produce, at that level of his will which he is not aware of, a determination that the worst *shall not* come to the worst. Then, at the moment of real terror, rush it out into his nerves and muscles and you may get the fatal act done before he knows what you're about" (Lewis 163).
@@ -77,7 +77,7 @@
 > 
 ```
 
-# pg 167 - Sneak delayed attack
+# pg 167 - Delayed sneak attack
 ```col
 > [!quote]
 > "Keep him comforting himself with the thought of how much he will enjoy his bed next night. Exaggerate the weariness by making him think it will soon be over; for men usually feel that a strain could have been endured no longer at the very moment when it is ending, or when they think it is ending" (Lewis 166-167).
