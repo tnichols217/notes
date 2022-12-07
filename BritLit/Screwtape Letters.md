@@ -46,9 +46,9 @@
 > [!quote]
 > "The woman is in what may be called the 'All-I-want' state of mind. *All* she wants is a cup of tea properly made, or an egg properly boiled, or a slice of bread properly toasted. But she never finds any servant or any friend who can do these simple things 'properly' -- because her 'properly' conceals an insatiable, palatal pleasures which she imagines she remembers from the past; a past describe by her as 'the days when you could get good servants' but known to us as the days when her seenses were more easily pleased and she had pleasures of other kinds which made her less dependent on those of the table" (Lewis 88-89).
 ```
-```col
+/```col
 > [!info] Blurb
-> This quote stuck out to me because I normally this kind of behavior very stuck up and Karen-like, but this time I found it oddly relatable. 
+> This quote stuck out to me because I normally this kind of behavior very stuck up and Karen-like, but this time I found it oddly relatable. It was probably the simplicity of the items she was requesting but failed to obtain that made me sympathize with her on some level
 
 > [!important] Application
 > This makes me more cautious about what I'll joke about and possibly rethink what I have joked about in the past.
