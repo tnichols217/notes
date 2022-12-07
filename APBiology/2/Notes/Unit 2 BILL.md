@@ -51,10 +51,33 @@
 
 # Topic Review Guides
 ## 2.1
-1. 
+1. ![[Pasted image 20221207104410.png]]
 2. 
-	| Organelle | Structure | Function |     |
-	| --------- | --------- | -------- | --- |
+
+```col
+### Organelle
+
+### Structure
+
+### Function
+
+### Plant | Animal
+```
+```col
+Plasma Membrane
+
+Phospholipid bilayer
+
+Protects cell and regulates cell contents
+
+Both
+```
+```col
+Cytoplasm
+
+Gooey liquid 
+```
+
 1. 
 
 # Unit Summary
