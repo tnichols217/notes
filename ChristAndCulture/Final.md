@@ -9,11 +9,13 @@ I think that the rise of social media leads to a disproportionately large say fr
 
 The Bible predicts that one day people will become violent and rebel against their parents, not only because they disagree with them but because they filthy and disgraceful.
 
-> []
+> [!quote] 
 > “This know also, that in the last days perilous times shall come. For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good, Traitors, heady, highminded, lovers of pleasures more than lovers of God” (2 Timothy 3:1-4).
 > 
+> ---
 > “There is a generation that curseth their father, and doth not bless their mother. There is a generation that are pure in their own eyes, and yet is not washed from their filthiness. There is a generation, O how lofty are their eyes! and their eyelids are lifted up. There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men” (Proverbs 30:11-14).
 > 
+> ---
 > “Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the LORD, they have provoked the Holy One of Israel unto anger, they are gone away backward” (Isaiah 1:4).
 
 The Bible basically predicts that there will come a generation that will be violent and evil, and perhaps this is the beginning of that generation in America. Although this is not direct evidence that this is the cause of increased gun violence in America, I believe that due to the same factors earlier, the rise of social media, joke culture, and video games, may also promote disobedience to parents, which would cause the cascade of effects outlined in the Bible.
