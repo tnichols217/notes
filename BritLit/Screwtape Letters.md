@@ -13,7 +13,7 @@
 # Letter 4 - Ethereal Utterances
 ```col
 > [!quote]
-> "This is exactly the sort of prayer we want; and since it bears a superficial resemblance to the prayer of silence as practice by those who are very far advance in the Enemy's service, clever and lazy patients can be taken in by it for quite a long time."
+> "This is exactly the sort of prayer we want; and since it bears a superficial resemblance to the prayer of silence as practice by those who are very far advance in the Enemy's service, clever and lazy patients can be taken in by it for quite a long time" (Lewis 16).
 
 > [!info] Blurb
 > aa
