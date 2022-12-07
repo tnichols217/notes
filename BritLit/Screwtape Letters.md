@@ -5,8 +5,10 @@
 - A practical application (e.g. Apologize to mom for being annoyed by her last night) or prayer to God related to the content of the letter.
 
 # Letter 4 - Ethereal Utterances
-> [!quote] \
+> [!quote]
 > "This is exactly the sort of prayer we want; and since it bears a superficial resemblance to the prayer of silence as practice by those who are very far advance in the Enemy's service, clever and lazy patients can be taken in by it for quite a long time."
+
+
 # pg 88 all i want
 # letter 11
 # pg 142
