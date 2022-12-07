@@ -27,7 +27,7 @@
 
 ```col
 > [!quote]
-> Mere cowardice is shameful; cowardice boasted of with humorous exaggerations and grotesque gestures can be passed off as funny. Cruelty is shameful -- un
+> Mere cowardice is shameful; cowardice boasted of with humorous exaggerations and grotesque gestures can be passed off as funny. Cruelty is shameful -- unless the cruel man can represent it as a practical joke. A thousand bawdy, or even blasphemous, jokes do not help towards a man's damnation so much as his discovery t
 ```
 
 # pg 88 all i want
