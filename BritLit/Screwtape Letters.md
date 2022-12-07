@@ -72,8 +72,8 @@
 ```
 ```col
 > [!info] Blurb
-> This stuck out to me plainly because of how strategic it is. The thought that something is soon coming to an end definitely amplifies the want for the end to arrive -- if the circumstance is unfavorable. It makes good sense on how we should approach problems, and aligns with me own believes
+> This stuck out to me plainly because of how strategic it is. The thought that something is soon coming to an end definitely amplifies the want for the end to arrive -- if the circumstance is unfavorable. It makes good sense on how we should approach problems, and aligns with me own believes: that the habits you make along the way are infinitely more important than just the goal.
 
 > [!important] Application
-> 
+> This reinforced my belief that habits are more imp
 ```
