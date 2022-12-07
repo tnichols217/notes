@@ -12,7 +12,22 @@
 
 <image style="position: absolute;" src="app://local/home/tev/Documents/obsidian/notes/BritLit/attachments/fire.png?1670421892000"></image>
 
-![[fire.png]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Letter 4 - Ethereal Utterances
 ```col
