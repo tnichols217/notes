@@ -25,7 +25,7 @@
 > Now that I am more awake of what could be distracting during prayers, I will take additional steps to ensure that not only my mind is ready to pray, but my bodily posture as well.
 ```
 
-# Letter 11 - Positively Fantastic Recovery
+# Letter 11 - Positively Fantastic Recoveries
 
 ```col
 > [!quote]
@@ -39,8 +39,7 @@
 > This makes me more cautious about what I'll joke about and possibly rethink what I have joked about in the past.
 ```
 
-# Letter 17 - Pseudosatisfaction
-
+# Letter 17 - Past pseudo satisfactions
 
 ```col
 > [!quote]
