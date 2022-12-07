@@ -1,5 +1,6 @@
-# Christ and Culture Final - Trevor Nichols
-## 1
+# Christ and Culture Final
+## Trevor Nichols
+### 1
 
 > [!question] 
 > Guns are no more or less available today than they were in 1999. Yet, since the Columbine High School massacre that year, mass shootings in public places have steadily risen, with a mass shooting event occurring at an average of every 47 days in the last 4 years. What trends in our culture has led to this increase in mass shootings during this time period when availability to guns has remained the about the same or lower? Relate your answer to biblical truths.
