@@ -57,7 +57,7 @@
 
 ```col
 > [!quote]
-> "A woman means by Unselfishness Thus while the woman thinks of doing good offices and the man of respecting other people's rights, each sex, without any obvious unreason, can and does regard the other as radically selfish" (Lewis 142).
+> "A woman means by Unselfishness chiefly taking trouble for others; a man means not giving trouble to others. ... Thus while the woman thinks of doing good offices and the man of respecting other people's rights, each sex, without any obvious unreason, can and does regard the other as radically selfish" (Lewis 142).
 ```
 ```col
 > [!info] Blurb
