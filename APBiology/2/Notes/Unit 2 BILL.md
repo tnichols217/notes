@@ -229,7 +229,11 @@ Plant
 	3. Smaller cells
 
 ## 2.4
-1. 
+1. It allows the transmittance of small polar molecules while it repels everything else
+2. They create things, offer stability, block things, and protect things
+3. Helps hold it together
+4. Offers structure for it
+5. 
 
 # Unit Summary
 ## Standards
