@@ -71,7 +71,7 @@
 
 ```col
 > [!quote]
-> "
+> "By building up
 ```
 ```col
 > [!info] Blurb
