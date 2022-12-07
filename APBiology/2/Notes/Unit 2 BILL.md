@@ -233,7 +233,11 @@ Plant
 2. They create things, offer stability, block things, and protect things
 3. Helps hold it together
 4. Offers structure for it
-5. 
+5. It can move and flow very easily while keeping things out
+6. They are small and have channels
+7. 7
+	1. Eukaryote, photosynthetic
+	2. Has Ce
 
 # Unit Summary
 ## Standards
