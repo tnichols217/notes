@@ -147,7 +147,40 @@ Both
 ```col
 Nucleus
 
+A sphere with a protective membrane
 
+Stores important DNA and RNA
+
+Both
+```
+```col
+Nucleolus
+
+Jumble of DNA
+
+The bubble of DNA that is in the Nucleus
+
+Both
+```
+```col
+Lysosome
+
+Sphere shaped membrane
+
+Cleans up the cell and breaks down unneeded materials
+
+Both
+```
+```col
+Centrioles
+
+Long stiff rods
+
+Provides structure and support for the microtubules
+
+Both
+```
+```
 ```
 
 1. 
