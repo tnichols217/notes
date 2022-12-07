@@ -57,7 +57,7 @@
 
 ```col
 > [!quote]
-> ""
+> "Thus while the woman thinks of doing good off"
 ```
 ```col
 > [!info] Blurb
