@@ -4,11 +4,6 @@
 - A small blurb (minimum of three sentences) of why you connected with this quote; this may include questions that you have about it.
 - A practical application (e.g. Apologize to mom for being annoyed by her last night) or prayer to God related to the content of the letter.
 # 
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
-
 letter 4
 pg 88 all i want
 letter 11
