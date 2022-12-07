@@ -42,8 +42,7 @@
 
 ```col
 > [!quote]
-> "The woman is in what may be called the 'All-I-want' state of mind. *All* she wants is a cup of tea properly made, or an egg properly boiled, or a slice of bread properly toasted. But she never finds any servant or any friend who can do these simple things 'properly' -- because her 'properly' conceals an insatiable, palatal pleasures which she imagines she remembers from the past; a past describe by her as 'the days when you could get good servants
-> '
+> "The woman is in what may be called the 'All-I-want' state of mind. *All* she wants is a cup of tea properly made, or an egg properly boiled, or a slice of bread properly toasted. But she never finds any servant or any friend who can do these simple things 'properly' -- because her 'properly' conceals an insatiable, palatal pleasures which she imagines she remembers from the past; a past describe by her as 'the days when you could get good servants' but known to us as the days when her seenses were more easily pleased and she had pleasures of other kinds which made her less d
 ```
 ```col
 > [!info] Blurb
