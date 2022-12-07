@@ -71,7 +71,7 @@
 
 ```col
 > [!quote]
-> "By building up a series of imaginary expedients to prevent 'the worst coming '
+> "By building up a series of imaginary expedients to prevent 'the worst coming to the worst'
 ```
 ```col
 > [!info] Blurb
