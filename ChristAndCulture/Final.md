@@ -49,3 +49,8 @@ The Bible has capital punishment for murder, kidnapping, beastiality, blashphemi
 
 "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image." (Genesis 9:6)
 
+"If any one of you is without sin, let him be the first to throw a stone at her" (John 8:7)
+
+"Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, “Vengeance is mine, I will repay, says the Lord.”" (Romans 12:19)
+
+Multiple places in the Bible does it justify the death penalty. A couple instances in the New Testament Jesus defends people who should have gotten the death penalty, and in one instance he tells the pharacees to stone the woman if they themselves are innocent. Jesus knows that we are all guilty and sinful. 
