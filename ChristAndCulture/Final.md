@@ -40,7 +40,9 @@ I feel like we shouldn't unfairly prejudge people if they're rich or not. Just b
 
 "For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs." (Timothy 6:10)
 
-The Bible clearly says that you cannot serve both money and God, but it doesn't say that money itself it inherently evil. It says that money is normally the cause of problems especially when you seek it too much -- in effect serving it. The Bible does say that if you are rich you shouldn't be arrogant and you shouldn't trust in your own securities
+The Bible clearly says that you cannot serve both money and God, but it doesn't say that money itself it inherently evil. It says that money is normally the cause of problems especially when you seek it too much -- in effect serving it. The Bible does say that if you are rich you shouldn't be arrogant and you shouldn't trust in your own securities. This is in line with what I believe: just because someone is rich doesn't make them bad. Having large amounts of money does come with its drawbacks and responsibilities, as the Bible says that having too much money does lead to temptations.
 
 ## 3
 Assume that you support the death penalty in at least some cases, and that you are a judge with the power to sentence someone to death. Biblically speaking, what kinds of evidence would have to be present for you to feel comfortable going through with it? Also biblically speaking, what kinds of evidences should be de-emphasized or rejected?
+
+
