@@ -64,7 +64,7 @@
 > This leads me to want to be able to read the room better and understand if what I am doing really is causing less trouble or if just makes the other person more annoyed or think that I am selfish.
 ```
 
-# Letter 29 - 
+# Letter 29 - A false hope
 ```col
 > [!quote]
 > "By building up a series of imaginary expedients to prevent 'the worst coming to the worst' you may produce, at that level of his will which he is not aware of, a determination that the worst *shall not* come to the worst. Then, at the moment of real terror, rush it out into his nerves and muscles and you may get the fatal act done before he knows what you're about" (Lewis 163).
