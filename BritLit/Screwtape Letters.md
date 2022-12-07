@@ -31,7 +31,7 @@
 ```
 ```col
 > [!info] Blurb
-> This quote was quite interesting because 
+> This quote was quite interesting because it shows how harmful jokes can be. 
 
 > [!important] Application
 > Now that I am more awake of what could be distracting during prayers, I will take additional steps to ensure that not only my mind is ready to pray, but my bodily posture as well.
