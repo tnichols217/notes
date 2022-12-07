@@ -224,7 +224,12 @@ Plant
 	2. Increase SA:V ratio, but would be hard to maintain its structure
 	3. Would be more efficient within the cell, but would waste more energy
 5. 5
-	1. 
+	1. Smaller cells
+	2. Smaller cells
+	3. Smaller cells
+
+## 2.4
+1. 
 
 # Unit Summary
 ## Standards
