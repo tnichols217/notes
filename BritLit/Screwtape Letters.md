@@ -48,7 +48,7 @@
 ```
 ```col
 > [!info] Blurb
-> This quote stuck out to me because I normally this kind of 
+> This quote stuck out to me because I normally this kind of behavior very stuck up and Karen-like, but this time I found it oddly relatable. 
 
 > [!important] Application
 > This makes me more cautious about what I'll joke about and possibly rethink what I have joked about in the past.
