@@ -46,7 +46,7 @@
 ```
 ```col
 > [!info] Blurb
-> This quote stuck out to me
+> This quote stuck out to me because I normally view these 
 
 > [!important] Application
 > This makes me more cautious about what I'll joke about and possibly rethink what I have joked about in the past.
