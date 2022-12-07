@@ -64,7 +64,7 @@
 > I've never thought about how trying not to cause trouble for other people could lead to people viewing others as selfish. Although this doesn't really fully make sense to me, I think it is something interesting to think about regardless. It stuck out to me because I didn't expect two positive things to come together and produce a negative response.
 
 > [!important] Application
-> This leads me to want to be able to read the room better and understand if what I am doing really is causing l
+> This leads me to want to be able to read the room better and understand if what I am doing really is causing less trouble or if just makes the other person more annoyed or think that I am selfish.
 ```
 
 # pg 163
