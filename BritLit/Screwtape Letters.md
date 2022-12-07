@@ -27,7 +27,7 @@
 
 ```col
 > [!quote]
-> 
+> Mere cowardice is shamefu
 ```
 
 # pg 88 all i want
