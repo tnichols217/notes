@@ -61,10 +61,10 @@
 ```
 ```col
 > [!info] Blurb
-> I've never thought about how trying not to cause trouble for other people could lead to people viewing others as selfish. Although this doesn't really fully make sense to me, I think it is something interesting to think about regardless. It stuck out to me because I didn't expect two posi
+> I've never thought about how trying not to cause trouble for other people could lead to people viewing others as selfish. Although this doesn't really fully make sense to me, I think it is something interesting to think about regardless. It stuck out to me because I didn't expect two positive things to come together and produce a negative response.
 
 > [!important] Application
-> This makes me look out more for occasions where I may be expecting something when I don't really have the right to expect such things from other people. I think you can never have enough reminders to be humble and accepting.
+> This leads me to want to be able to read the room better and understand if what I am doing really is causing l
 ```
 
 # pg 163
