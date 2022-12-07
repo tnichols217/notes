@@ -19,7 +19,7 @@ flexGrow=0.1
 > [!important] Application
 > Now that I am more awake of what could be distracting during prayers, I will take additional steps to ensure that not only my mind is ready to pray, but my bodily posture as well.
 ```
-
+---
 # Letter 11 - Positively Fantastic Recoveries
 ```col
 > [!quote]
@@ -32,7 +32,7 @@ flexGrow=0.1
 > [!important] Application
 > This makes me more cautious about what I'll joke about and possibly rethink what I have joked about in the past.
 ```
-
+---
 # Letter 17 - Past pseudo-satisfactions
 ```col
 > [!quote]
@@ -45,7 +45,7 @@ flexGrow=0.1
 > [!important] Application
 > This makes me look out more for occasions where I may be expecting something when I don't really have the right to expect such things from other people. I think you can never have enough reminders to be humble and accepting.
 ```
-
+---
 # Letter 26 - Two manners make resentment
 ```col
 > [!quote]
@@ -58,7 +58,7 @@ flexGrow=0.1
 > [!important] Application
 > This leads me to want to be able to read the room better and understand if what I am doing really is causing less trouble or if just makes the other person more annoyed or think that I am selfish.
 ```
-
+-
 # Letter 29 - A false hope
 ```col
 > [!quote]
