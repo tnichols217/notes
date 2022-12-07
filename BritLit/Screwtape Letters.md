@@ -57,11 +57,11 @@
 
 ```col
 > [!quote]
-> "Thus while the woman thinks of doing good offices and the man of respecting other people's rights, each sex, without any obvious unreason, can and does regard the other as radically selfish" (Lewis 142).
+> "A woman means by Unselfishness Thus while the woman thinks of doing good offices and the man of respecting other people's rights, each sex, without any obvious unreason, can and does regard the other as radically selfish" (Lewis 142).
 ```
 ```col
 > [!info] Blurb
-> This quote stuck out to me because I normally find this kind of behavior very stuck up and Karen-like, but this time I found it oddly relatable. It was probably the simplicity of the items she was requesting but failed to obtain that made me sympathize with her on some level. Although I still despise the behavior the expects other people do act and work for you, I still feel like there is something I can learn from this incidence.
+> I've never 
 
 > [!important] Application
 > This makes me look out more for occasions where I may be expecting something when I don't really have the right to expect such things from other people. I think you can never have enough reminders to be humble and accepting.
