@@ -204,7 +204,15 @@ Plant
 ## 2.2 and 2.10
 1. 1
 	1. No energy will be able to be produced and the cell will not be able to go through with its cellular functions
-	2. 
+	2. The cell will deflate and itll be hard to transport molecules between the organelles
+	3. Larger molecules will not be transported in the cell
+2. 2
+	1. Helps produce and process complicated proteins
+	2. Processes and packages proteins
+	3. Cleans up products that will not be needed later
+3. Keeps different functions separate so that they do not interfere with each other
+4. It protects processed from unwanted molecules by not allowing it to ever reach that enzyme
+5. It relies on a high gradient, which could not be done without its own 
 
 # Unit Summary
 ## Standards
