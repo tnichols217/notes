@@ -9,15 +9,16 @@ I think that the rise of social media leads to a disproportionately large say fr
 
 The Bible predicts that one day people will become violent and rebel against their parents, not only because they disagree with them but because they filthy and disgraceful.
 
-“This know also, that in the last days perilous times shall come. For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good, Traitors, heady, highminded, lovers of pleasures more than lovers of God” (2 Timothy 3:1-4).
-
-“There is a generation that curseth their father, and doth not bless their mother. There is a generation that are pure in their own eyes, and yet is not washed from their filthiness. There is a generation, O how lofty are their eyes! and their eyelids are lifted up. There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men” (Proverbs 30:11-14).
-
-“Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the LORD, they have provoked the Holy One of Israel unto anger, they are gone away backward” (Isaiah 1:4).
+> []
+> “This know also, that in the last days perilous times shall come. For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, Without natural affection, trucebreakers, false accusers, incontinent, fierce, despisers of those that are good, Traitors, heady, highminded, lovers of pleasures more than lovers of God” (2 Timothy 3:1-4).
+> 
+> “There is a generation that curseth their father, and doth not bless their mother. There is a generation that are pure in their own eyes, and yet is not washed from their filthiness. There is a generation, O how lofty are their eyes! and their eyelids are lifted up. There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men” (Proverbs 30:11-14).
+> 
+> “Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the LORD, they have provoked the Holy One of Israel unto anger, they are gone away backward” (Isaiah 1:4).
 
 The Bible basically predicts that there will come a generation that will be violent and evil, and perhaps this is the beginning of that generation in America. Although this is not direct evidence that this is the cause of increased gun violence in America, I believe that due to the same factors earlier, the rise of social media, joke culture, and video games, may also promote disobedience to parents, which would cause the cascade of effects outlined in the Bible.
 
-## 2
+### 2
 > [!question] 
 > Wealth envy is a tool that political parties use to create class warfare. Thus, rich people (a small voting bloc) are demonized by a large voting bloc, sometimes fairly and sometimes unfairly. However, rich people tend also to be the biggest achievers in society and hold important jobs and positions of responsibility. Biblically speaking, what should our attitude be towards rich people, and being rich in general?
 
@@ -31,7 +32,7 @@ I feel like we shouldn't unfairly prejudge people if they're rich or not. Just b
 
 The Bible clearly says that you cannot serve both money and God, but it doesn't say that money itself it inherently evil. It says that money is normally the cause of problems especially when you seek it too much -- in effect serving it. The Bible does say that if you are rich you shouldn't be arrogant and you shouldn't trust in your own securities. This is in line with what I believe: just because someone is rich doesn't make them bad. Having large amounts of money does come with its drawbacks and responsibilities, as the Bible says that having too much money does lead to temptations.
 
-## 3
+### 3
 > [!question] 
 > Assume that you support the death penalty in at least some cases, and that you are a judge with the power to sentence someone to death. Biblically speaking, what kinds of evidence would have to be present for you to feel comfortable going through with it? Also biblically speaking, what kinds of evidences should be de-emphasized or rejected?
 
