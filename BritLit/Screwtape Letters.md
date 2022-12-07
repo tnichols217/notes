@@ -85,7 +85,7 @@
 
 ```col
 > [!quote]
-> "Keep him comfortin himself with the thought of how much he will enjoy his bed next night. Exaggerate the weariness by making him think it will soon be over; for men usually feel that a strain could have been endured no longer at the very moment when 
+> "Keep him comforting himself with the thought of how much he will enjoy his bed next night. Exaggerate the weariness by making him think it will soon be over; for men usually feel that a strain could have been endured no longer at the very moment when it is ending, or when they think it is ending" (Lewis 166-167).
 ```
 ```col
 > [!info] Blurb
