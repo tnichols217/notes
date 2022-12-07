@@ -1,4 +1,10 @@
 # Instructions
+
+- Title
+- Quote + Cite
+- Blurb
+- Application
+
 - The chapter number with a creative title (of your own making that encapsulates your interpretation of the main idea of the letter)
 - Minimum of one direct quote from the letter (including Lewis page number)
 - A small blurb (minimum of three sentences) of why you connected with this quote; this may include questions that you have about it.
