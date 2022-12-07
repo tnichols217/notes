@@ -6,7 +6,7 @@ flexGrow=0.1
 ===
 ```
 ````
-
+---
 # Letter 4 - Ethereal Utterances
 ```col
 > [!quote]
@@ -58,7 +58,7 @@ flexGrow=0.1
 > [!important] Application
 > This leads me to want to be able to read the room better and understand if what I am doing really is causing less trouble or if just makes the other person more annoyed or think that I am selfish.
 ```
--
+---
 # Letter 29 - A false hope
 ```col
 > [!quote]
@@ -71,7 +71,7 @@ flexGrow=0.1
 > [!important] Application
 > This teaches me that no matter how much I prepare for the worst, I should still expect the worst, but also trust in the only thing I know will not fail: God.
 ```
-
+---
 # Letter 30 - Delayed sneak attack
 ```col
 > [!quote]
