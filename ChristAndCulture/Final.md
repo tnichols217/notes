@@ -1,4 +1,3 @@
-idk
 # Christ and Culture Final
 ## Trevor Nichols
 ### 1
