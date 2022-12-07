@@ -75,7 +75,43 @@ Both
 ```col
 Cytoplasm
 
-Gooey liquid 
+Gooey liquid
+
+Keeps organelles in place
+
+Both
+```
+```col
+Cytoskeleton
+
+Made of lots of poles and strings
+
+Holds together the cell and maintains cell strength
+
+Both
+```
+```col
+Ribosomes
+
+A small and large subunit, literally just rRNA
+
+Creates proteins
+
+Both
+```
+```col
+Rough ER
+
+Made of many folds and has ribosomes on it
+
+Stores and processess proteins
+
+Both
+```
+```col
+Smooth ER
+
+
 ```
 
 1. 
