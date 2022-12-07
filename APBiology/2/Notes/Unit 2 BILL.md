@@ -111,6 +111,42 @@ Both
 ```col
 Smooth ER
 
+Lots of folds and sacks
+
+Makes lipids, phospholipids, and steroids
+
+Both
+```
+```col
+Golgi Body
+
+Made of a lot of folds and membranes
+
+Processes Proteins and stores them, packages them for use later
+
+Both
+```
+```col
+Vesicles
+
+A bubble of membrane
+
+Holds other materials that the cell needs
+
+Both
+```
+```col
+Mitochondria
+
+Bean shaped double membrane
+
+Breaks down pyruvic acid into ATP
+
+Both
+```
+```col
+Nucleus
+
 
 ```
 
