@@ -212,7 +212,11 @@ Plant
 	3. Cleans up products that will not be needed later
 3. Keeps different functions separate so that they do not interfere with each other
 4. It protects processed from unwanted molecules by not allowing it to ever reach that enzyme
-5. It relies on a high gradient, which could not be done without its own 
+5. It relies on a high gradient, which could not be done without its own membranes
+6. It is easier to create a gradient in a smaller area rather than a large area
+
+## 2.3
+1. The smaller they are the easier it is for materials to be transported between cells because of the higher SA:V ratio. It cannot be too small because 
 
 # Unit Summary
 ## Standards
