@@ -11,13 +11,16 @@
 - A practical application (e.g. Apologize to mom for being annoyed by her last night) or prayer to God related to the content of the letter.
 
 # Letter 4 - Ethereal Utterances
+```col
 > [!quote]
 > "This is exactly the sort of prayer we want; and since it bears a superficial resemblance to the prayer of silence as practice by those who are very far advance in the Enemy's service, clever and lazy patients can be taken in by it for quite a long time" (Lewis 16).
+```
 ```col
 > [!info] Blurb
 > I found this particularly jabbing because I didn't really consider my own posture when I am praying and this was particularly contradictory to me. It didn't even cross my own mind that it might be bad prayer (according to CS Lewis) if I didn't watch my posture. Even though this chapter was about praying to things other than God and everything that could and would distract us from that, this off remark about posture caught me by surprise.
 
-> [!important] 
+> [!important] Application
+> aa
 ```
 
 # pg 88 all i want
