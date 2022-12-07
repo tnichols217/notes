@@ -1,6 +1,7 @@
 # Christ and Culture Final - Trevor Nichols
 ## 1
 
+> [!question] 
 > Guns are no more or less available today than they were in 1999. Yet, since the Columbine High School massacre that year, mass shootings in public places have steadily risen, with a mass shooting event occurring at an average of every 47 days in the last 4 years. What trends in our culture has led to this increase in mass shootings during this time period when availability to guns has remained the about the same or lower? Relate your answer to biblical truths.
 
 I think that the rise of social media leads to a disproportionately large say from minority groups, including those that have somewhat immoral views. The modern joke culture also contributes to people becoming more violent and impolite as there are basically no lines to be drawn on what is and is not a joke when it is being inclusive in the modern age (even jokes on murder are acceptable in the modern age). This spread of violence through social media as well as the modern joke culture leads to more people committing acts of violence. Another thing that has taken a rise lately is the use of violent video games. Although I personally don't believe it induces me or my friends to become more violent, I can see why some people believe that hanging around certain habits would rub off onto you eventually, and violent video games may be not that different.
@@ -16,6 +17,7 @@ The Bible predicts that one day people will become violent and rebel against the
 The Bible basically predicts that there will come a generation that will be violent and evil, and perhaps this is the beginning of that generation in America. Although this is not direct evidence that this is the cause of increased gun violence in America, I believe that due to the same factors earlier, the rise of social media, joke culture, and video games, may also promote disobedience to parents, which would cause the cascade of effects outlined in the Bible.
 
 ## 2
+> [!question] 
 > Wealth envy is a tool that political parties use to create class warfare. Thus, rich people (a small voting bloc) are demonized by a large voting bloc, sometimes fairly and sometimes unfairly. However, rich people tend also to be the biggest achievers in society and hold important jobs and positions of responsibility. Biblically speaking, what should our attitude be towards rich people, and being rich in general?
 
 I feel like we shouldn't unfairly prejudge people if they're rich or not. Just because they are tall, male, white, or rich doesn't give us the right to have prejudice over them. I believe it is unfair to treat rich people unfairly without reason. 
@@ -29,6 +31,7 @@ I feel like we shouldn't unfairly prejudge people if they're rich or not. Just b
 The Bible clearly says that you cannot serve both money and God, but it doesn't say that money itself it inherently evil. It says that money is normally the cause of problems especially when you seek it too much -- in effect serving it. The Bible does say that if you are rich you shouldn't be arrogant and you shouldn't trust in your own securities. This is in line with what I believe: just because someone is rich doesn't make them bad. Having large amounts of money does come with its drawbacks and responsibilities, as the Bible says that having too much money does lead to temptations.
 
 ## 3
+> [!question] 
 > Assume that you support the death penalty in at least some cases, and that you are a judge with the power to sentence someone to death. Biblically speaking, what kinds of evidence would have to be present for you to feel comfortable going through with it? Also biblically speaking, what kinds of evidences should be de-emphasized or rejected?
 
 The Bible has capital punishment for murder, kidnapping, beastiality, blashpheming, and promoting other gods, although it punishes other things too. I don't believe that the death penalty is justified in our modern government as I don't feel it is right for people to be able to destroy the images of God. Only God has the right to destroy his own images and by His own rules. Humans and their government make mistakes and sometimes incorrectly execute people. This is something that I feel is not on the table for us to make mistakes about. 
