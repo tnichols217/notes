@@ -39,7 +39,7 @@
 > This makes me more cautious about what I'll joke about and possibly rethink what I have joked about in the past.
 ```
 
-# Letter 17 - Pse
+# Letter 17 - se
 
 
 ```col
