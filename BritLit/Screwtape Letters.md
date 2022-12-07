@@ -51,7 +51,7 @@
 > This quote stuck out to me because I normally find this kind of behavior very stuck up and Karen-like, but this time I found it oddly relatable. It was probably the simplicity of the items she was requesting but failed to obtain that made me sympathize with her on some level. Although I still despise the behavior the expects other people do act and work for you, I still feel like there is something I can learn from this incidence.
 
 > [!important] Application
-> This makes me look out more for occasionis where 
+> This makes me look out more for occasionis where I may be expecting something when I don't really have the right to expect such things from other people. I think you can never have enough reminders to be hu
 /```
 
 # pg 142
