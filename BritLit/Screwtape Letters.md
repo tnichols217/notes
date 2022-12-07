@@ -48,11 +48,11 @@
 ```
 /```col
 > [!info] Blurb
-> This quote stuck out to me because I normally this kind of behavior very stuck up and Karen-like, but this time I found it oddly relatable. It was probably the simplicity of the items she was requesting but failed to obtain that made me sympathize with her on some level
+> This quote stuck out to me because I normally this kind of behavior very stuck up and Karen-like, but this time I found it oddly relatable. It was probably the simplicity of the items she was requesting but failed to obtain that made me sympathize with her on some level. This 
 
 > [!important] Application
 > This makes me more cautious about what I'll joke about and possibly rethink what I have joked about in the past.
-```
+/```
 
 # pg 142
 
