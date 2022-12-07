@@ -237,7 +237,8 @@ Plant
 6. They are small and have channels
 7. 7
 	1. Eukaryote, photosynthetic
-	2. Has Ce
+	2. Photosynthetic, Eukaryote
+	3. 
 
 # Unit Summary
 ## Standards
