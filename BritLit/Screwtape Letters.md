@@ -71,7 +71,7 @@
 ```
 ```col
 > [!info] Blurb
-> 
+> This stuck out to me because my pastor constantly war
 
 > [!important] Application
 > 
