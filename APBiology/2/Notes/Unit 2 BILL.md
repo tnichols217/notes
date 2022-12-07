@@ -216,7 +216,15 @@ Plant
 6. It is easier to create a gradient in a smaller area rather than a large area
 
 ## 2.3
-1. The smaller they are the easier it is for materials to be transported between cells because of the higher SA:V ratio. It cannot be too small because 
+1. The smaller they are the easier it is for materials to be transported between cells because of the higher SA:V ratio. It cannot be too small because then there will not be enough space to hold the organelles and transport molecules between the organelles
+2. 0.25, it has the highest SA:V ratio
+3. It can transport molecules in and out of the cell faster
+4. 4
+	1. Increase in efficiency of transporting in and out of the cell, but not within
+	2. Increase SA:V ratio, but would be hard to maintain its structure
+	3. Would be more efficient within the cell, but would waste more energy
+5. 5
+	1. 
 
 # Unit Summary
 ## Standards
