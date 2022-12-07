@@ -57,7 +57,7 @@
 
 ```col
 > [!quote]
-> "Thus while the woman thinks of doing good offices and the man of respecting other people's ricghts, each sex, without any obvious unreason, can and does regard the other as radically selfish"
+> "Thus while the woman thinks of doing good offices and the man of respecting other people's rights, each sex, without any obvious unreason, can and does regard the other as radically selfish" (Lewis 142).
 ```
 ```col
 > [!info] Blurb
