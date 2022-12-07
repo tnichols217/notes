@@ -203,7 +203,8 @@ Plant
 
 ## 2.2 and 2.10
 1. 1
-	1. 
+	1. No energy will be able to be produced and the cell will not be able to go through with its cellular functions
+	2. 
 
 # Unit Summary
 ## Standards
