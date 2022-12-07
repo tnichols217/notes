@@ -67,7 +67,7 @@
 > This leads me to want to be able to read the room better and understand if what I am doing really is causing less trouble or if just makes the other person more annoyed or think that I am selfish.
 ```
 
-# Letter 29 - 
+# Letter 29 - Sneak delayed attack
 
 ```col
 > [!quote]
