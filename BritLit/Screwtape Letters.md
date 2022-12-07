@@ -71,7 +71,7 @@
 
 ```col
 > [!quote]
-> "By building up a series of imaginary expedients to prevent 'the worst coming to the worst' 
+> "By building up a series of imaginary expedients to prevent 'the worst coming to the worst' you may produce, at that level of his will which he is not aware of, a determination th
 ```
 ```col
 > [!info] Blurb
