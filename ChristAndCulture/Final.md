@@ -30,8 +30,10 @@ I feel like we shouldn't unfairly prejudge people if they're rich or not. Just b
 > [!quote] 
 > "No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money." (Matthew 6:24)
 > 
+> ---
 > "Command those who are rich in this present world not to be arrogant nor to put their hope in wealth, which is so uncertain, but to put their hope in God, who richly provides us with everything for our enjoyment. Command them to do good, to be rich in good deeds, and to be generous and willing to share." (1 Timothy 6:17-18)
 > 
+> ---
 > "For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs." (Timothy 6:10)
 
 The Bible clearly says that you cannot serve both money and God, but it doesn't say that money itself it inherently evil. It says that money is normally the cause of problems especially when you seek it too much -- in effect serving it. The Bible does say that if you are rich you shouldn't be arrogant and you shouldn't trust in your own securities. This is in line with what I believe: just because someone is rich doesn't make them bad. Having large amounts of money does come with its drawbacks and responsibilities, as the Bible says that having too much money does lead to temptations.
@@ -43,10 +45,11 @@ The Bible clearly says that you cannot serve both money and God, but it doesn't 
 
 The Bible has capital punishment for murder, kidnapping, beastiality, blashpheming, and promoting other gods, although it punishes other things too. I don't believe that the death penalty is justified in our modern government as I don't feel it is right for people to be able to destroy the images of God. Only God has the right to destroy his own images and by His own rules. Humans and their government make mistakes and sometimes incorrectly execute people. This is something that I feel is not on the table for us to make mistakes about. 
 
-"Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image." (Genesis 9:6)
-
-"If any one of you is without sin, let him be the first to throw a stone at her" (John 8:7)
-
-"Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, “Vengeance is mine, I will repay, says the Lord.”" (Romans 12:19)
+> [!quote] 
+> "Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image." (Genesis 9:6)
+> 
+> "If any one of you is without sin, let him be the first to throw a stone at her" (John 8:7)
+> 
+> "Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, “Vengeance is mine, I will repay, says the Lord.”" (Romans 12:19)
 
 Multiple places in the Bible does it justify the death penalty. A couple instances in the New Testament Jesus defends people who should have gotten the death penalty, and in one instance he tells the pharacees to stone the woman if they themselves are innocent. Jesus knows that we are all guilty and sinful. The Bible still does mandate the death penalty for multiple things, but I don't think it is right for us to take that punishment upon ourselves to enact. The Bible does say that we should not avenge ourselves but leave it up to the Lord. Although I agree that some things deserve a death penalty, I don't feel like we are perfect or sinless enough to be able to implement it ourselves.
