@@ -26,7 +26,6 @@
 ```
 
 # Letter 11 - Positively Fantastic Recoveries
-
 ```col
 > [!quote]
 > "Mere cowardice is shameful; cowardice boasted of with humorous exaggerations and grotesque gestures can be passed off as funny. Cruelty is shameful -- unless the cruel man can represent it as a practical joke. A thousand bawdy, or even blasphemous, jokes do not help towards a man's damnation so much as his discovery that almost anything he wants to do can be done, not only without the disapproval but with the admiration of his fellows, if only it can get itself treated as a Joke" (Lewis 55-56).
@@ -40,7 +39,6 @@
 ```
 
 # Letter 17 - Past pseudo satisfactions
-
 ```col
 > [!quote]
 > "The woman is in what may be called the 'All-I-want' state of mind. *All* she wants is a cup of tea properly made, or an egg properly boiled, or a slice of bread properly toasted. But she never finds any servant or any friend who can do these simple things 'properly' -- because her 'properly' conceals an insatiable, palatal pleasures which she imagines she remembers from the past; a past describe by her as 'the days when you could get good servants' but known to us as the days when her seenses were more easily pleased and she had pleasures of other kinds which made her less dependent on those of the table" (Lewis 88-89).
@@ -54,7 +52,6 @@
 ```
 
 # Letter 26 - Two manners make resentment
-
 ```col
 > [!quote]
 > "A woman means by Unselfishness chiefly taking trouble for others; a man means not giving trouble to others ... Thus while the woman thinks of doing good offices and the man of respecting other people's rights, each sex, without any obvious unreason, can and does regard the other as radically selfish" (Lewis 142).
@@ -68,7 +65,6 @@
 ```
 
 # Letter 29 -
-
 ```col
 > [!quote]
 > "By building up a series of imaginary expedients to prevent 'the worst coming to the worst' you may produce, at that level of his will which he is not aware of, a determination that the worst *shall not* come to the worst. Then, at the moment of real terror, rush it out into his nerves and muscles and you may get the fatal act done before he knows what you're about" (Lewis 163).
@@ -82,7 +78,6 @@
 ```
 
 # pg 167 - Sneak delayed attack
-
 ```col
 > [!quote]
 > "Keep him comforting himself with the thought of how much he will enjoy his bed next night. Exaggerate the weariness by making him think it will soon be over; for men usually feel that a strain could have been endured no longer at the very moment when it is ending, or when they think it is ending" (Lewis 166-167).
