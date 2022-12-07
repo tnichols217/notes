@@ -40,6 +40,17 @@
 # pg 88 all i want
 
 
+```col
+> [!quote]
+> "Mere cowardice is shameful; cowardice boasted of with humorous exaggerations and grotesque gestures can be passed off as funny. Cruelty is shameful -- unless the cruel man can represent it as a practical joke. A thousand bawdy, or even blasphemous, jokes do not help towards a man's damnation so much as his discovery that almost anything he wants to do can be done, not only without the disapproval but with the admiration of his fellows, if only it can get itself treated as a Joke" (Lewis 55-56).
+```
+```col
+> [!info] Blurb
+> This quote was quite interesting because it shows how harmful jokes can be. It also shows multiple sides of the same problem, like how without making it into a joke people will see and treat you differently. It definitely makes me aware of what I should and shouldn't be joking about.
+
+> [!important] Application
+> This makes me more cautious about what I'll joke about and possibly rethink what I have joked about in the past.
+```
 
 # pg 142
 
