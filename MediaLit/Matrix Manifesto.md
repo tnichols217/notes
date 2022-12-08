@@ -1,4 +1,3 @@
-![[MicrosoftTeams-image.png]]
 # Matrix Manifesto
 ````col
 ```col-md
