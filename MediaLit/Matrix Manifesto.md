@@ -17,7 +17,7 @@ All media is contructed.
 ```col-md
 flexGrow=0.2
 ===
-### 1
+### 2
 ```
 ```col-md
 Different people experience media differently.
@@ -27,7 +27,7 @@ Different people experience media differently.
 ```col-md
 flexGrow=0.2
 ===
-### 1
+### 3
 ```
 ```col-md
 Most media is created to gain power or advertising money
@@ -37,7 +37,7 @@ Most media is created to gain power or advertising money
 ```col-md
 flexGrow=0.2
 ===
-### 1
+### 4
 ```
 ```col-md
 Media as embedded ideals and values
@@ -47,7 +47,7 @@ Media as embedded ideals and values
 ```col-md
 flexGrow=0.2
 ===
-### 1
+### 5
 ```
 ```col-md
 Media is created to gain power 
