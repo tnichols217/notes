@@ -90,7 +90,7 @@ flexGrow=0.2
 ### 9
 ```
 ```col-md
-All media is contructed
+Media tries to make you uns
 ```
 ````
 `````
