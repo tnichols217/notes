@@ -86,7 +86,7 @@ flexGrow=0.2
 ```
 Media has bias and is often not without omitting information on the opposite viewpoint.
 
-I will know that media often misrepresents information to push a value. I w
+I will know that media often misrepresents information to push a value. I will be careful to view both sides.
 ````
 ````col
 ```col-md
@@ -96,6 +96,7 @@ flexGrow=0.2
 ```
 Media tries to sell you the ideal life.
 
+I will disse
 ````
 ````col
 ```col-md
