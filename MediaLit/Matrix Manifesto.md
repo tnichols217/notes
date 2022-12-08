@@ -70,7 +70,7 @@ flexGrow=0.2
 ### 7
 ```
 ```col-md
-All media is contructed
+Media attempts to make us buy things we
 ```
 ````
 `````
