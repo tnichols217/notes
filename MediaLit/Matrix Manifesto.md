@@ -73,6 +73,16 @@ flexGrow=0.2
 Media attempts to make us buy things we do not need and believe things we shouldn't
 ```
 ````
+````col
+```col-md
+flexGrow=0.2
+===
+### 8
+```
+```col-md
+All media is contructed
+```
+````
 `````
 `````col-md
 ## Actions
