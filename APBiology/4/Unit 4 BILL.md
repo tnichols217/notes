@@ -11,7 +11,7 @@ Unit Essentials:
 
 Activity Log:
 
-1. [ ] BR: This too shall pass discussion (1-page short response)
+1. [x] BR: This too shall pass discussion (1-page short response)
 2. [ ] Activity: Cellular Communication POGIL
 3. [ ] Activity: Signal Transduction Pathway Modeling (G-Drive)
 4. [ ] TRG 4.1-4.5 Signal Transduction and Feedback
