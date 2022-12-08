@@ -56,7 +56,7 @@ flexGrow=0.2
 ```
 Information on the internet can both be useful and harmful.
 
-I will be careful when browsing the internet and know that not everything is 
+I will be careful when browsing the internet and know that not everything is true or good.
 ````
 ````col
 ```col-md
@@ -66,6 +66,7 @@ flexGrow=0.2
 ```
 Media often isn't real life; it is manipulated.
 
+I will know that 
 ````
 ````col
 ```col-md
