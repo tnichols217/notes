@@ -28,15 +28,3 @@ Activity Log:
 15. [ ] Case Study: Eukaryotic Cell Cycle and Cancer
 16. [ ] Investigation: Cancer Cells and Mitotic Index
 17. [ ] HeLa Cells Debate Notes (both sides)
-
-```molecule3d
-adenosine triphosphate
-```
-
-```molecule3d
-adenosine monophosphate
-```
-
-```molecule3d
-cyclic adenosine monophosphate
-```
