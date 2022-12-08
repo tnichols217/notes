@@ -2,7 +2,8 @@
 # Matrix Manifesto
 ````col
 ```col-md
-
+flexGrow=0.2
+===
 ```
 ## Beliefs
 ````
