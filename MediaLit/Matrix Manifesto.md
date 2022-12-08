@@ -76,7 +76,7 @@ flexGrow=0.2
 ```
 Media attempts to make us buy things we do not need and believe things we shouldn't.
 
-I will be cautious to understand when I actually need something or when I am just being persu
+I will be cautious to understand when I actually need something or when I am just being persuaded to buy something I don't need.
 ````
 ````col
 ```col-md
