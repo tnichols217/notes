@@ -56,7 +56,7 @@ flexGrow=0.2
 ```
 Information on the internet can both be useful and harmful.
 
-I will use multiple sources when researching to 
+I will be careful when browsing the internet and know that not everything is 
 ````
 ````col
 ```col-md
