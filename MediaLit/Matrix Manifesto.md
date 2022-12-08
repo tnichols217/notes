@@ -113,7 +113,7 @@ flexGrow=0.2
 ### 1
 ```
 ```col-md
-I will watch out for 
+I will watch out for how and why media is created.
 ```
 ````
 `````
