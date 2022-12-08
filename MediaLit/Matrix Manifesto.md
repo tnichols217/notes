@@ -110,30 +110,3 @@ Media messages have a purpose, and are not created by accident.
 ```
 ````
 `````
-`````col-md
-## Actions
-````col
-```col-md
-flexGrow=0.2
-===
-### 1
-```
-````col
-```col-md
-flexGrow=0.2
-===
-### 2
-```
-````
-````col
-```col-md
-flexGrow=0.2
-===
-### 3
-```
-```col-md
-I will watch out for how and why media is created.
-```
-````
-`````
-```````
