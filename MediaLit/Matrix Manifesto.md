@@ -83,6 +83,16 @@ flexGrow=0.2
 Media has bias and is often not without omitting information on the opposite viewpoint.
 ```
 ````
+````col
+```col-md
+flexGrow=0.2
+===
+### 9
+```
+```col-md
+All media is contructed
+```
+````
 `````
 `````col-md
 ## Actions
