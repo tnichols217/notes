@@ -60,7 +60,17 @@ flexGrow=0.2
 ### 6
 ```
 ```col-md
-Media often isn't real life
+Media often isn't real life; it is manipulated
+```
+````
+````col
+```col-md
+flexGrow=0.2
+===
+### 7
+```
+```col-md
+All media is contructed
 ```
 ````
 `````
