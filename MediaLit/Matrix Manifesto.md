@@ -71,9 +71,8 @@ flexGrow=0.2
 ===
 ### 7
 ```
-```col-md
 Media attempts to make us buy things we do not need and believe things we shouldn't.
-```
+
 ````
 ````col
 ```col-md
@@ -81,9 +80,8 @@ flexGrow=0.2
 ===
 ### 8
 ```
-```col-md
 Media has bias and is often not without omitting information on the opposite viewpoint.
-```
+
 ````
 ````col
 ```col-md
@@ -91,9 +89,8 @@ flexGrow=0.2
 ===
 ### 9
 ```
-```col-md
 Media tries to make you unsatisfied with what you have or who you are.
-```
+
 ````
 ````col
 ```col-md
