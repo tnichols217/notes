@@ -6,6 +6,7 @@ flexGrow=0.2
 ===
 ```
 ## Beliefs
+## Actions
 ````
 ````col
 ```col-md
