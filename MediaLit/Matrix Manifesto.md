@@ -123,7 +123,17 @@ flexGrow=0.2
 ### 2
 ```
 ```col-md
-I will watch out for who and why media is targeted at cert.
+I will watch out for who and why media is targeted at certain people.
+```
+````
+````col
+```col-md
+flexGrow=0.2
+===
+### 3
+```
+```col-md
+I will watch out for how and why media is created.
 ```
 ````
 `````
