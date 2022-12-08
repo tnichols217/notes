@@ -80,7 +80,7 @@ flexGrow=0.2
 ### 8
 ```
 ```col-md
-All media is contructed
+Media has bias and is often not without 
 ```
 ````
 `````
