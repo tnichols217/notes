@@ -46,6 +46,7 @@ flexGrow=0.2
 ```
 Media as embedded ideals and values.
 
+I will watch out for what the media is trying to persuade me to do or
 ````
 ````col
 ```col-md
