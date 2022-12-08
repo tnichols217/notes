@@ -66,7 +66,7 @@ flexGrow=0.2
 ```
 Media often isn't real life; it is manipulated.
 
-I will know that it is impossible to attain what is being fed down my throats and be satisfied.
+I will know that it is impossible to attain what is being fed down my throat.
 ````
 ````col
 ```col-md
@@ -76,6 +76,7 @@ flexGrow=0.2
 ```
 Media attempts to make us buy things we do not need and believe things we shouldn't.
 
+I will be cautious to
 ````
 ````col
 ```col-md
