@@ -40,7 +40,7 @@ flexGrow=0.2
 ### 4
 ```
 ```col-md
-Media as embedded ideals and values
+Media as embedded ideals and values.
 ```
 ````
 ````col
@@ -50,7 +50,7 @@ flexGrow=0.2
 ### 5
 ```
 ```col-md
-Information on the internet can both be useful and harmful. 
+Information on the internet can both be useful and harmful.
 ```
 ````
 ````col
@@ -60,7 +60,7 @@ flexGrow=0.2
 ### 6
 ```
 ```col-md
-Media often isn't real life; it is manipulated
+Media often isn't real life; it is manipulated.
 ```
 ````
 ````col
@@ -70,7 +70,7 @@ flexGrow=0.2
 ### 7
 ```
 ```col-md
-Media attempts to make us buy things we do not need and believe things we shouldn't
+Media attempts to make us buy things we do not need and believe things we shouldn't.
 ```
 ````
 ````col
@@ -90,7 +90,7 @@ flexGrow=0.2
 ### 9
 ```
 ```col-md
-Media tries to make you unsatisfied with what you have or who you are
+Media tries to make you unsatisfied with what you have or who you are.
 ```
 ````
 ````col
@@ -100,7 +100,7 @@ flexGrow=0.2
 ### 10
 ```
 ```col-md
-Media messages have a purpose, and are not crea
+Media messages have a purpose, and are not created by accident.
 ```
 ````
 `````
