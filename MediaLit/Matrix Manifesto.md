@@ -90,7 +90,17 @@ flexGrow=0.2
 ### 9
 ```
 ```col-md
-Media tries to make you uns
+Media tries to make you unsatisfied with what you have or who you are
+```
+````
+````col
+```col-md
+flexGrow=0.2
+===
+### 10
+```
+```col-md
+All media is contructed
 ```
 ````
 `````
