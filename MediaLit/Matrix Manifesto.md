@@ -25,6 +25,9 @@ flexGrow=0.2
 ```col-md
 Different people experience media differently.
 ```
+```col-md
+I will watch out for who and why media is targeted at certain people.
+```
 ````
 ````col
 ```col-md
@@ -120,9 +123,6 @@ flexGrow=0.2
 flexGrow=0.2
 ===
 ### 2
-```
-```col-md
-I will watch out for who and why media is targeted at certain people.
 ```
 ````
 ````col
