@@ -273,7 +273,8 @@ Plant
 ## 2.11
 1. Eukaryotes have a membrane around the nucleus and the mitochondria, while the prokaryotes do not (but yes for mitochondria if they have a variant of that)
 2. Mitochondria may have been its own cell at one point, but gotten incorporated into another cell at some point, explaining its own membrane. Chloroplasts are similar.
-3. 
+3. They have their own membranes and mitochondria has its own genetic information.
+4. They are effectively the same, except they are inside another cell now (with minor modifications).
 
 # Unit Summary
 ## Standards
