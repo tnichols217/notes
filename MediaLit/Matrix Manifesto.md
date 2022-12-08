@@ -50,7 +50,17 @@ flexGrow=0.2
 ### 5
 ```
 ```col-md
-Information on the internet can both be useful and harmful 
+Information on the internet can both be useful and harmful. 
+```
+````
+````col
+```col-md
+flexGrow=0.2
+===
+### 6
+```
+```col-md
+All media is contructed
 ```
 ````
 `````
