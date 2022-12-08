@@ -98,7 +98,6 @@ flexGrow=0.2
 ===
 ### 10
 ```
-```col-md
 Media messages have a purpose, and are not created by accident.
-```
+
 ````
