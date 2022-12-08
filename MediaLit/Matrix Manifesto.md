@@ -50,7 +50,7 @@ flexGrow=0.2
 ### 5
 ```
 ```col-md
-Media is created to gain power 
+Information on the internet can both be useful and harmful 
 ```
 ````
 `````
