@@ -36,7 +36,7 @@ flexGrow=0.2
 ```
 Most media is created to gain power or advertising money.
 
-Most media is created to gain power or advertising money.
+I will watch out for what alterior .
 ````
 ````col
 ```col-md
