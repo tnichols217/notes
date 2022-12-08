@@ -1,7 +1,5 @@
 ![[MicrosoftTeams-image.png]]
 # Matrix Manifesto
-``````col
-`````col-md
 ## Beliefs
 ````col
 ```col-md
@@ -109,4 +107,3 @@ flexGrow=0.2
 Media messages have a purpose, and are not created by accident.
 ```
 ````
-`````
