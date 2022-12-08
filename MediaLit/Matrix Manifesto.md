@@ -66,7 +66,7 @@ flexGrow=0.2
 ```
 Media often isn't real life; it is manipulated.
 
-I will know that it is impossible to attain what is being fed down my thro
+I will know that it is impossible to attain what is being fed down my throats and be satisfied.
 ````
 ````col
 ```col-md
