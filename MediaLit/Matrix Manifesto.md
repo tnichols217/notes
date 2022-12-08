@@ -86,6 +86,7 @@ flexGrow=0.2
 ```
 Media has bias and is often not without omitting information on the opposite viewpoint.
 
+I will know that media 
 ````
 ````col
 ```col-md
