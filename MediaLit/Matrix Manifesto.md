@@ -60,7 +60,7 @@ flexGrow=0.2
 ### 6
 ```
 ```col-md
-All media is contructed
+Media often isn't real life
 ```
 ````
 `````
