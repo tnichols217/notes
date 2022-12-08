@@ -10,7 +10,7 @@ flexGrow=0.2
 ### 1
 ```
 ```col-md
-All media is contructed
+All media is contructed.
 ```
 ````
 ````col
@@ -21,6 +21,16 @@ flexGrow=0.2
 ```
 ```col-md
 Different people experience media differently.
+```
+````
+````col
+```col-md
+flexGrow=0.2
+===
+### 1
+```
+```col-md
+Most media 
 ```
 ````
 `````
