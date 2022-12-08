@@ -228,7 +228,7 @@ Plant
 	2. Smaller cells
 	3. Smaller cells
 
-## 2.4
+## 2.4 and 2.5
 1. It allows the transmittance of small polar molecules while it repels everything else
 2. They create things, offer stability, block things, and protect things
 3. Helps hold it together
@@ -238,7 +238,31 @@ Plant
 7. 7
 	1. Eukaryote, photosynthetic
 	2. Photosynthetic, Eukaryote
-	3. 
+	3. Prokaryotes, nonphotosynthetic
+
+## 2.7 and 2.9
+1. 1
+	1. Both transport molecules across the membrane
+	2. Passive transports from high to low and does not use a protein
+	3. Active transports from low to high and uses a protein to help
+2. 2
+	1. All transport large amounts of molecules in and out of the cell
+	2. Endo goes in
+	3. Exo goes out
+	4. Receptor mediated also requires a molecule to bind to a receptor to begin endocytosis
+3. It could happen passively, but could also happen with the help of a protein to complete something
+4. Other molecules that cannot passively diffuse through the membrane need a protein to make a hole in the membrane to allow it to enter the cell
+5. Without active transport, molecules will always flow down the gradient, leading everything to eventually flow to equilibrium. With active transport, we can pump them against the gradient to create a stronger gradient
+6. ATP is what fuels the protein pumps to move molecules across the membrane
+
+## 2.8
+1. It depends on the concentration of different substances in the water, water will flow from high to low osmolarity (low concentration of solute to high)
+2. 2
+	1. Hypertonic have more solute than another solution
+	2. Hypotonic have less solute than another solution
+	3. Isotonic have equal
+3. Hypertonic solutions around a plant will actually suck water out of the organism. Hypotonic solutions would force more water into the plants.
+4. $\Psi=\Psi_0+\Psi_\pi+\Psi_p+\Psi_s+\Psi_v+\Psi_m$
 
 # Unit Summary
 ## Standards
