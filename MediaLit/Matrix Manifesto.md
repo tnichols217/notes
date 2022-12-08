@@ -70,7 +70,7 @@ flexGrow=0.2
 ### 7
 ```
 ```col-md
-Media attempts to make us buy things we
+Media attempts to make us buy things we do not need and believe things we shouldn't
 ```
 ````
 `````
