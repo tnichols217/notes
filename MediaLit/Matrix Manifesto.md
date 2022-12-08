@@ -46,7 +46,7 @@ flexGrow=0.2
 ```
 Media as embedded ideals and values.
 
-I will watch out for what the media is trying to persuade me to do or
+I will watch out for what the media is trying to persuade me to do or believe.
 ````
 ````col
 ```col-md
@@ -56,6 +56,7 @@ flexGrow=0.2
 ```
 Information on the internet can both be useful and harmful.
 
+I will use multiple sources when researching to 
 ````
 ````col
 ```col-md
