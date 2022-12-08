@@ -106,5 +106,5 @@ flexGrow=0.2
 ```
 Media tries to sell us happiness.
 
-I will know that true happiness does not com
+I will know that true happiness does not come from anything the media tries to tell me.
 ````
