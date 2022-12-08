@@ -104,6 +104,6 @@ flexGrow=0.2
 ===
 ### 10
 ```
-Media messages have a purpose, and are not created by accident.
+Media tries to sell us h.
 
 ````
