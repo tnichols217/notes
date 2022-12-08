@@ -263,6 +263,17 @@ Plant
 	3. Isotonic have equal
 3. Hypertonic solutions around a plant will actually suck water out of the organism. Hypotonic solutions would force more water into the plants.
 4. $\Psi=\Psi_0+\Psi_\pi+\Psi_p+\Psi_s+\Psi_v+\Psi_m$
+	1. Where 0 is the reference potential
+	2. $\pi$ is the solute potential given by $\Psi_\pi=-MiRT$
+	3. p is pressure
+	4. s is gravity
+	5. v is humidity
+	6. m is surface tension and cohesion and other fluid effects
+
+## 2.11
+1. Eukaryotes have a membrane around the nucleus and the mitochondria, while the prokaryotes do not (but yes for mitochondria if they have a variant of that)
+2. Mitochondria may have been its own cell at one point, but gotten incorporated into another cell at some point, explaining its own membrane. Chloroplasts are similar.
+3. 
 
 # Unit Summary
 ## Standards
