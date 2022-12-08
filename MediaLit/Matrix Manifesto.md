@@ -80,7 +80,7 @@ flexGrow=0.2
 ### 8
 ```
 ```col-md
-Media has bias and is often not without 
+Media has bias and is often not without omitting information on the opposite viewpoint.
 ```
 ````
 `````
