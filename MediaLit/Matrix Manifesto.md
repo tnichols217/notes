@@ -12,6 +12,9 @@ flexGrow=0.2
 ```col-md
 All media is contructed.
 ```
+```col-md
+I will watch out for how and why media is created.
+```
 ````
 ````col
 ```col-md
