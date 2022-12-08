@@ -40,7 +40,17 @@ flexGrow=0.2
 ### 1
 ```
 ```col-md
-Media as embedded ideals 
+Media as embedded ideals and values
+```
+````
+````col
+```col-md
+flexGrow=0.2
+===
+### 1
+```
+```col-md
+Media is create
 ```
 ````
 `````
