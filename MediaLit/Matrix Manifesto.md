@@ -30,7 +30,17 @@ flexGrow=0.2
 ### 1
 ```
 ```col-md
-Most media 
+Most media is created to make advertising money.
+```
+````
+````col
+```col-md
+flexGrow=0.2
+===
+### 1
+```
+```col-md
+All media is contructed
 ```
 ````
 `````
