@@ -89,7 +89,7 @@ flexGrow=0.2
 ===
 ### 9
 ```
-Media tries to make you unsatisfied with what you have or who you are.
+Media tries to sell you the ideal life.
 
 ````
 ````col
