@@ -96,7 +96,7 @@ flexGrow=0.2
 ```
 Media tries to sell you the ideal life.
 
-I will disse
+I will dissect when things are really true or when the media is trying to make me feel discontent.
 ````
 ````col
 ```col-md
