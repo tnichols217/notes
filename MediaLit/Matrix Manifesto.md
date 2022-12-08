@@ -40,7 +40,7 @@ flexGrow=0.2
 ### 1
 ```
 ```col-md
-All media is contructed
+Media as embedded ideals 
 ```
 ````
 `````
