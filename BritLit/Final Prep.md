@@ -29,7 +29,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 - Body
 	- Mead halls
 	- Loyalty
-	- 
+	- Alliances with neighboring tribes
 - Conclusion
 
 ### 2
