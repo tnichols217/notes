@@ -1,11 +1,11 @@
 # British Literature Final Exam S1 (100 points)
-
 ## Instructions
 
 Answers considered high quality (and therefore are more likely to receive high marks on this exam) will show:
 1. An intentional *depth of thought* about the texts, yourself, and the world around you
 2. A *desire to think critically and generously* about the texts you encountered this year
-3. a personal investment in relating to these texts in a meaningful way d. a commitment to truly show how you have engaged in learning and growing this semester
+3. A *personal investment* in relating to these texts in a meaningful way
+4. A commitment to truly *show how you have engaged* in learning and growing this semester
 
 ### Part 1 (70 points) Directions:
 
