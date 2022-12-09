@@ -4,11 +4,9 @@
 
 Answers considered high quality (and therefore are more likely to receive high marks on this exam) will show a an intentional depth of thought about the texts, yourself, and the world around you b. a desire to think critically and generously about the texts you encountered this year ca personal investment in relating to these texts in a meaningful way d. a commitment to truly show how you have engaged in learning and growing this semester
 
-## Part 1 (70 points) Directions:
+### Part 1 (70 points) Directions:
 
-Answer the following 3 questions in complete sentences. Your answers to questions 1 and 2 should incorporate at least 1 direct quote from your chosen text, properly
-
-integrated/embedded into your writing and with a correct in-text MLA citation). These quotes may be prepared
+Answer the following 3 questions in complete sentences. Your answers to questions 1 and 2 should incorporate at least 1 direct quote from your chosen text, properly integrated/embedded into your writing and with a correct in-text MLA citation). These quotes may be prepared
 
 ahead of time in the space below and brought to the final exam
 
