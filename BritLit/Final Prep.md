@@ -38,5 +38,6 @@ Answers considered high quality (and therefore are more likely to receive high m
 ### 3
 
 ## Quotes
-
+![[Pasted image 20221209091523.png]]
+The celebration that followed that night was one of the grandest Hrothgar'
 ## MLA citations
