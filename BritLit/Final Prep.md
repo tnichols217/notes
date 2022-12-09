@@ -23,6 +23,8 @@ Answers considered high quality (and therefore are more likely to receive high m
 3. **Theme to Self**: *Reflect on how your assigned theme applies to your life today*. You did this at the start of this semester, but this reflection should incorporate thoughts on how the texts we read and experiences you've had in the last 4 months have shaped your views on how this plays out in the real world. A strong answer will refer to specific texts we read this semester but does not necessarily need to include direct quotes (although you can if you'd like!) (~1/2 page)
 
 # Work
+## Outlines
+
 ## Quotes
 
 ## MLA citations
