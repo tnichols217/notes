@@ -29,6 +29,8 @@ Answers considered high quality (and therefore are more likely to receive high m
 - Body
 	- Mead halls
 	- Loyalty & Comitatus
+	- Wyrd
+	- Fairness & 
 	- Alliances with neighboring tribes
 - Conclusion
 
