@@ -10,8 +10,8 @@ Answer the following 3 questions in complete sentences.
 Your answers to questions 1 and 2 should incorporate at least 1 direct quote from your chosen text, properly integrated/embedded into your writing and with a correct in-text MLA citation). These quotes may be prepared ahead of time in the space below and brought to the final exam
 No other outlining, notes, or writing can be used to help you write your answers on the test
 Choose different texts for your answers to questions 1 and 2
-
-Each of the Part 1 questions are worth 20 points. Preparing the quotes and providing correct MLA citations for them is worth 10 points. 1. Text to Context: Pick one text you studied this year and analyze how it was influenced by the time period in which it was written. Our guiding lens for this semester was "Historical events impact cultural ideals/values which are then seen in entertainment. Your answer should explain this progression/relationship for the text of your Historical lecture notes and videos are all linked in DISCourse to help you review and plan your writing. You can do other research, as well, if that helps. A strong answer will refer to at least two specific
+Each of the Part 1 questions are worth 20 points.
+Preparing the quotes and providing correct MLA citations for them is worth 10 points. 1. Text to Context: Pick one text you studied this year and analyze how it was influenced by the time period in which it was written. Our guiding lens for this semester was "Historical events impact cultural ideals/values which are then seen in entertainment. Your answer should explain this progression/relationship for the text of your Historical lecture notes and videos are all linked in DISCourse to help you review and plan your writing. You can do other research, as well, if that helps. A strong answer will refer to at least two specific
 
 elements of the text that are influenced by the historical context-you can think about plot, characters, themes,
 
