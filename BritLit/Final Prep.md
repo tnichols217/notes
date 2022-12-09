@@ -30,7 +30,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 	- Mead halls
 	- Loyalty & Comitatus
 	- Wyrd
-	- Fairness & 
+	- Fairness & Wergild
 	- Alliances with neighboring tribes
 - Conclusion
 
