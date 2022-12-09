@@ -25,6 +25,13 @@ Answers considered high quality (and therefore are more likely to receive high m
 # Work
 ## Outlines
 ### 1
+- Intro
+- Body
+	- Mead halls
+- Conclusion
+
+### 2
+### 3
 
 ## Quotes
 
