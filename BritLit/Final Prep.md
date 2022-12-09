@@ -28,7 +28,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 - Intro
 - Body
 	- Mead halls
-	- Loyalty
+	- Loyalty & Comitatus
 	- Alliances with neighboring tribes
 - Conclusion
 
