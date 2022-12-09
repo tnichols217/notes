@@ -39,5 +39,5 @@ Answers considered high quality (and therefore are more likely to receive high m
 
 ## Quotes
 ![[Pasted image 20221209091523.png]]
-The celebration that followed that night was one of the grandest Hrothgar'
+The celebration that followed that night was one of the grandest Hrothgar's hall had seen. The cooks labored from dawn till duck under Ashhere's supervision, and the singers and tale-tellers and other entertainers were summoned. Extra ale was begg
 ## MLA citations
