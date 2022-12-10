@@ -5,7 +5,14 @@ flexGrow=0.3
 ![[Pasted image 20221211020353.png]]
 ```
 ```col-md
-aaa
+# Telophase & Cytokinesis
+
+-   Spindle breaks down
+-   Nuclear membrane and nucleolus reform in each daughter cell
+
+-   Chromosomes unwind
+
+-   Cytoplasm constricts to form two separate daughter cells (Cytokinesis).
 ```
 ````
 
