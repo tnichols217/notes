@@ -1,10 +1,10 @@
 Unit Essentials:
 
-1. [ ] Unit map
-2. [ ] Traffic light
-3. [ ] Test topics
-4. [ ] Unit summary
-5. [ ] Official AP Biology unit summary
+1. [ ] 2.1 Unit map
+2. [ ] 2.2 Traffic light
+3. [ ] 2.3 Test topics
+4. [ ] 2.4 Unit summary
+5. [ ] 2.5 Official AP Biology unit summary
 6. [ ] Topic review guides
 	- [ ] 4.1-4.5 Signal Transduction and Feedback
 	- [ ] 4.6-4.7 Cell Cycle and Regulation
