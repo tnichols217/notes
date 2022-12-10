@@ -30,9 +30,3 @@ Next **view** the Good Morning America segment “The Gift of Life” about HeLa
 13.  Do companies or universities have the right to patent discoveries made using a patient’s tissues or genes without consulting the patient?
 14.  What other legal and ethical questions does this make you think about?
 15.  What are your thoughts on this topic from a biblical worldview?  (You can think about this either from the family’s point of view or the researchers’).  
-    
-
-  
-  
-
-Class Debate: Must taken notes on the podcast and completed the questions above in order to participate in the debate.
