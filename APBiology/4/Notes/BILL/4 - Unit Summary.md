@@ -7,8 +7,9 @@
 3.  Be able to identify the differences between plant and animal cells (organelles).
 	- Check for chloroplasts and cell wall
 4.  Be able to diagram the structure of the cell membrane and discuss its function.
-	- Phospholip
+	- Phospholipid bilayer with a bunch of proteins in it
 5.  Be able to discuss the principles of osmosis and diffusion in plant and animal cells.
+	- Flows from high to low concent
 6.  Be able to explain the difference between active and passive transport.
 7.  Be able to discuss and give examples of endocytosis and exocytosis in cells.
 
