@@ -17,6 +17,7 @@
 -   Structure of the cell membrane – components and functions and Fluid mosaic model
 	- Has a phospholipid bilayer and has many different channels, receptors, and other things that go through the wall
 -   Membrane responses to cold
+	- 
 -   What does amphipathic mean?
 -   How do different types of molecules get through the cell membrane?
 -   Passive transport vs. active transport and types of each
