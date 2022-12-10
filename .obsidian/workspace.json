@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "floating": {
     "id": "a106c0e5fa5a6ea3",
