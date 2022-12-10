@@ -3,25 +3,15 @@
 # POSITIVE FEEDBACK LOOPS
 
 A feedback mechanism
+resulting in the
+amplification or growth of
+the output signal
 ```
 ```col-md
 # NEGATIVE FEEDBACK LOOPS
+
+A feedback mechanism resulting in the inhibition or the slowing down of a process
 ```
-
-resulting in the
-
-
-
-LOOPS
-
-amplification or growth of
-
-the output signal
-
-A feedback mechanism resulting in the inhibition or the slowing down of a
-
-process
-
 Breakdown the homeostasis
 
 of the system
