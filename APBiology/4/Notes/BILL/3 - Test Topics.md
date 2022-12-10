@@ -24,8 +24,11 @@
 	- Either through diffusion or with a transport protein or not at all
 -   Passive transport vs. active transport and types of each
 	- passive goes down the gradient without a protein
+	- active goes up the gradient with a protein and energy
 -   Types of bulk transport
+	- There are vacuoles and endo/exocytosis
 -   Specific types of transport – sodium/potassium pump and cotransporters
+	- 
 -   Isotonic/hypotonic/hypertonic and effect on cells – difference in plants and animals
 -   How does water get through the cell membrane
 -   Water potential – factors that change movement of water
