@@ -11,19 +11,19 @@ Unit Essentials:
 
 Activity Log:
 
-1. [x] BR: This too shall pass discussion (1-page short response)
-6. [ ] BR: Signal Transduction Pathway Diagram
-7. [ ] BR: Practice FRQ - Cell Signaling
-10. [ ] BR: Feedback Loop Summary
-2. [ ] POGIL: Cellular Communication
-5. [ ] POGIL: Signal Transduction Pathway
-12. [ ] POGIL: Cell Cycle
-3. [ ] Activity: Signal Transduction Pathway Modeling (G-Drive)
-8. [ ] Activity: Feedback Loop Examples
-9. [ ] Investigation: Gymnema Tea Party
-11. [ ] Activity: Feedback Loop Examples
-13. [ ] TRG: 4.6-4.7 Cell Cycle and Regulation
-14. [ ] BR: Stages of Mitosis
-15. [ ] Case Study: Eukaryotic Cell Cycle and Cancer
-16. [ ] Investigation: Cancer Cells and Mitotic Index
-17. [ ] HeLa Cells Debate Notes (both sides)
+BR: This too shall pass discussion (1-page short response)
+BR: Signal Transduction Pathway Diagram
+BR: Practice FRQ - Cell Signaling
+BR: Feedback Loop Summary
+POGIL: Cellular Communication
+POGIL: Signal Transduction Pathway
+POGIL: Cell Cycle
+Activity: Signal Transduction Pathway Modeling (G-Drive)
+Activity: Feedback Loop Examples
+Investigation: Gymnema Tea Party
+Activity: Feedback Loop Examples
+TRG: 4.6-4.7 Cell Cycle and Regulation
+BR: Stages of Mitosis
+Case Study: Eukaryotic Cell Cycle and Cancer
+Investigation: Cancer Cells and Mitotic Index
+HeLa Cells Debate Notes (both sides)
