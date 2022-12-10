@@ -13,7 +13,7 @@
 -   Endosymbiosis theory
 	- When cells get incorporated into other cells
 -   Endomembrane system
-	- Consists of the nucleus, rough ER
+	- Consists of the nucleus, rough ER, ribosomes, lysosomes, smoot
 -   Structure of the cell membrane – components and functions
 -   Fluid mosaic model
 -   Membrane responses to cold
