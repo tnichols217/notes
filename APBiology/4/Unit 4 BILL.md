@@ -15,7 +15,7 @@ Activity Log:
 2. [x] BR: Signal Transduction Pathway Diagram
 3. [x] BR: Practice FRQ - Cell Signaling
 4. [x] BR: Quorum Sensing
-5. [ ] BR: Feedback Loop Summary
+5. [x] BR: Feedback Loop Summary
 6. [ ] BR: Stages of Mitosis
 7. [ ] POGIL: Cellular Communication
 8. [ ] POGIL: Signal Transduction Pathway
