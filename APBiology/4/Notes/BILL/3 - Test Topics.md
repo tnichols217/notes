@@ -30,9 +30,11 @@
 -   Specific types of transport – sodium/potassium pump and cotransporters
 	- Transports stuff two ways with only specific molecules
 -   Isotonic/hypotonic/hypertonic and effect on cells – difference in plants and animals
-	- iso means equal, hypo means less, hyper.
+	- iso means equal, hypo means less (pushes water in), hyper = more(sucks water).
 -   How does water get through the cell membrane
+	- Diffuses through
 -   Water potential – factors that change movement of water
+	- Pressuve, gr
 -   Lab concepts – diffusion/osmosis
 -   Prokaryotic vs. eukaryotic cells
 -   Why are cells small?
