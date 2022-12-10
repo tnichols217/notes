@@ -5,7 +5,7 @@
 -   Why are cells small?
 	- To maximize SA:V ratio in order to maximize transfer of molecules in and out of the cell
 -   Organelles – function and structure
-	- 
+	- They all have different purposes for the cell ranging from breaking down energy to providin
 -   Where is DNA found?
 -   Plant vs. animal cells
 -   Endosymbiosis theory
