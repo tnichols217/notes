@@ -3,4 +3,5 @@
 ![[Pasted image 20221211012514.png]]![[Pasted image 20221211012516.png]]
 
 1. Vibrio fischeri is only enacting bioluminecence when there is a high cell density
-2. 
+2. Two separate signalling chemicals being uneffected by each other
+3. 
