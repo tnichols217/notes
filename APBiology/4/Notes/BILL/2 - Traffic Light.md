@@ -1,17 +1,17 @@
 | Term         | Pre-Assessment | Post-Assessment |
 | ------------ | -------------- | --------------- |
-| aero-        |                |                 |
+| aero-        | 🟩               |                 |
 | an-          |                |                 |
-| chlor-       |                |                 |
-| -elle        |                |                 |
-| hapl-        |                |                 |
-| homo-        |                |                 |
-| re-          |                |                 |
-| -sis         |                |                 |
-| zyg-         |                |                 |
-| hyper-       |                |                 |
-| hypo-        |                |                 |
-| endo-        |                |                 |
+| chlor-       | 🟩               |                 |
+| -elle        | 🟩               |                 |
+| hapl-        | 🟩               |                 |
+| homo-        | 🟩               |                 |
+| re-          | 🟩               |                 |
+| -sis         | 🟩               |                 |
+| zyg-         | 🟩               |                 |
+| hyper-       | 🟩               |                 |
+| hypo-        | 🟩               |                 |
+| endo-        | 🟩               |                 |
 | exo-         |                |                 |
 | osmo-        |                |                 |
 | Prokaryotes  |                |                 |
