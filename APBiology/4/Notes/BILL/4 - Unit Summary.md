@@ -9,8 +9,9 @@
 4.  Be able to diagram the structure of the cell membrane and discuss its function.
 	- Phospholipid bilayer with a bunch of proteins in it
 5.  Be able to discuss the principles of osmosis and diffusion in plant and animal cells.
-	- Flows from high to low concent
+	- Flows from high to low concentration (of water)
 6.  Be able to explain the difference between active and passive transport.
+	- Passive is with gradient, active is against and uses a pr
 7.  Be able to discuss and give examples of endocytosis and exocytosis in cells.
 
 # Essential Questions:
