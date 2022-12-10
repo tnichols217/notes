@@ -18,7 +18,8 @@
 # Essential Questions:
 
 - How do shared conserved cellular processes support the idea that all organisms are linked by lines of descent from common ancestry?
-	- It would be practically impossible for 
+	- It would be practically impossible for two completely independent evolutionary processes to create the same system without sharing something
 - How do cells create and maintain internal environments that are different from their external environments?
+	- 
 - How do structure and function of subcellular components and their interactions provide essential cellular processes?
 - How do cells maintain dynamic homeostasis by the movement of molecules across membranes?
