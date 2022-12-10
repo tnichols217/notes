@@ -33,7 +33,7 @@ aaa
 ```col-md
 flexGrow=0.3
 ===
-![[Pasted image 20221211020408.png]]
+![[Pasted image 20221211020450.png]]
 ```
 ```col-md
 aaa
@@ -43,7 +43,7 @@ aaa
 ```col-md
 flexGrow=0.3
 ===
-![[Pasted image 20221211020450.png]]
+![[Pasted image 20221211020524.png]]
 ```
 ```col-md
 aaa
