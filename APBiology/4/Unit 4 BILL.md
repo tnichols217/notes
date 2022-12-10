@@ -17,11 +17,11 @@ Activity Log:
 10. [ ] BR: Feedback Loop Summary
 2. [ ] POGIL: Cellular Communication
 5. [ ] POGIL: Signal Transduction Pathway
+12. [ ] POGIL: Cell Cycle
 3. [ ] Activity: Signal Transduction Pathway Modeling (G-Drive)
 8. [ ] Activity: Feedback Loop Examples
 9. [ ] Investigation: Gymnema Tea Party
 11. [ ] Activity: Feedback Loop Examples
-12. [ ] POGIL: Cell Cycle
 13. [ ] TRG: 4.6-4.7 Cell Cycle and Regulation
 14. [ ] BR: Stages of Mitosis
 15. [ ] Case Study: Eukaryotic Cell Cycle and Cancer
