@@ -23,7 +23,7 @@ Activity Log:
 10. [ ] POGIL: Meiosis
 11. [ ] Activity: Signal Transduction Pathway Modeling (G-Drive)
 12. [ ] Activity: Feedback Loop Examples
-13. [ ] Investigation: Gymnema Tea Party
+13. [x] Investigation: Gymnema Tea Party
 14. [ ] Investigation: Cancer Cells and Mitotic Index
 15. [ ] Case Study: Eukaryotic Cell Cycle and Cancer
 16. [ ] Case Study: HeLa Cells Documentary (Questions on G-Drive)
