@@ -11,8 +11,9 @@
 -   Plant vs. animal cells
 	- Plants have additional chloroplasts and a cell wall
 -   Endosymbiosis theory
-	- When 
+	- When cells get incorporated into other cells
 -   Endomembrane system
+	- 
 -   Structure of the cell membrane – components and functions
 -   Fluid mosaic model
 -   Membrane responses to cold
