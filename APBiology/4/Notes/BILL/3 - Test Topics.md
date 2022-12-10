@@ -28,8 +28,9 @@
 -   Types of bulk transport
 	- There are vacuoles and endo/exocytosis
 -   Specific types of transport – sodium/potassium pump and cotransporters
-	- 
+	- Transports stuff two ways with only specific molecules
 -   Isotonic/hypotonic/hypertonic and effect on cells – difference in plants and animals
+	- iso means equal, hypo means less, hyper.
 -   How does water get through the cell membrane
 -   Water potential – factors that change movement of water
 -   Lab concepts – diffusion/osmosis
