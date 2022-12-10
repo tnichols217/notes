@@ -12,17 +12,17 @@ Unit Essentials:
 Activity Log:
 
 1. [x] BR: This too shall pass discussion (1-page short response)
-2. [ ] Activity: Cellular Communication POGIL
+2. [ ] POGIL: Cellular Communication
 3. [ ] Activity: Signal Transduction Pathway Modeling (G-Drive)
 4. [ ] TRG 4.1-4.5 Signal Transduction and Feedback
-5. [ ] Activity: Signal Transduction Pathway POGIL
+5. [ ] POGIL: Signal Transduction Pathway
 6. [ ] BR: Signal Transduction Pathway Diagram
 7. [ ] BR: Practice FRQ - Cell Signaling
 8. [ ] Activity: Feedback Loop Examples
 9. [ ] Investigation: Gymnema Tea Party
 10. [ ] BR: Feedback Loop Summary
 11. [ ] Activity: Feedback Loop Examples
-12. [ ] Activity: Cell Cycle POGIL
+12. [ ] POGIL: Cell Cycle
 13. [ ] TRG: 4.6-4.7 Cell Cycle and Regulation
 14. [ ] BR: Stages of Mitosis
 15. [ ] Case Study: Eukaryotic Cell Cycle and Cancer
