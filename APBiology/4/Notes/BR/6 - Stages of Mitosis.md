@@ -35,7 +35,7 @@ flexGrow=0.3
 ![[Pasted image 20221211020432.png]]
 ```
 ```col-md
-Interphase
+# Interphase
 
 -   Chromosomes are threadlike as DNA is unwound so that genes can be transcribed.
 -   Nucleolus is visible
