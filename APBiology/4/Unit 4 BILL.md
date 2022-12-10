@@ -16,7 +16,7 @@ Activity Log:
 3. [x] BR: Practice FRQ - Cell Signaling
 4. [x] BR: Quorum Sensing
 5. [x] BR: Feedback Loop Summary
-6. [ ] BR: Stages of Mitosis
+6. [x] BR: Stages of Mitosis
 7. [ ] POGIL: Cellular Communication
 8. [ ] POGIL: Signal Transduction Pathway
 9. [ ] POGIL: Cell Cycle
