@@ -8,27 +8,21 @@
 
 Next **view** the Good Morning America segment “The Gift of Life” about HeLa cells and the Henrietta Lacks story. ([https://www.youtube.com/watch?v=0gF8bCE4wqA](https://www.youtube.com/watch?v=0gF8bCE4wqA)) 
 
+## Questions
+
 **Completely answer** all the questions below on a separate sheet of paper. 
 
 1.  Who was Henrietta Lacks? (You will need to listen to the entire podcast before you will learn all of the information needed to completely answer this question.)
 2.  Why did Henrietta seek medical attention at Johns Hopkins Hospital?
 3.  Why were Henrietta’s cells of interest to tissue culture researchers? Which cells did they take from her body?
 4.  Specifically what did Henrietta die of? How old was she when she died? (You will need to listen to the entire podcast before you will learn all of the information needed to completely answer this question.)
-    
 5.  Researchers took cell samples from Henrietta on two occasions. Describe.
-    
 6.  What is HeLa? What’s so special about these cells?
-    
 7.  Why have HeLa cells been important to research on polio and other medical conditions?
-    
 8.  What problem did HeLa cells eventually cause for cell biology researchers?
-    
 9.  When did Henrietta’s family learn of the importance of her cells? Did her family have a good understanding of what HeLa cells were and why are they important? Do you think the medical establishment did right by Henrietta’s family?
-    
 
-  
-
-Your thoughts
+## Your thoughts
 
 10.  Should tissue be removed from a patient without his or her consent for research?
     
