@@ -6,7 +6,7 @@ Unit Essentials:
 4. [x] 2.4 Unit summary
 5. [x] 2.5 Official AP Biology unit summary
 6. [ ] Topic review guides
-	1. [ ] 4.1-4.5 Signal Transduction and Feedback
+	1. [x] 4.1-4.5 Signal Transduction and Feedback
 	2. [ ] 4.6-4.7 Cell Cycle and Regulation
 
 Activity Log:
