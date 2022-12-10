@@ -28,5 +28,6 @@
   "obsidian-desmos",
   "buttons",
   "obsidian-molecule-renderer",
-  "obsidian-excel-to-markdown-table"
+  "obsidian-excel-to-markdown-table",
+  "obsidian-regex-replace"
 ]
