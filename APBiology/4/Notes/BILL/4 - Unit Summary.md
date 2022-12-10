@@ -13,7 +13,7 @@
 6.  Be able to explain the difference between active and passive transport.
 	- Passive is with gradient, active is against and uses a protein and energy
 7.  Be able to discuss and give examples of endocytosis and exocytosis in cells.
-	- 
+	- When the bilayer folds around molecules to take them into the cell
 
 # Essential Questions:
 
