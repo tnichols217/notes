@@ -34,13 +34,12 @@ BR: Quorum Sensing
 BR: Feedback Loop Summary
 BR: Stages of Mitosis
 POGIL: Cellular Communication
-Activity: Signal Transduction Pathway Modeling (G-Drive)
-TRG 4.1-4.5 Signal Transduction and Feedback
 POGIL: Signal Transduction Pathway
-Investigation: Gymnema Tea Party
-Activity: Feedback Loop Examples
 POGIL: Cell Cycle
-Case Study: Eukaryotic Cell Cycle and Cancer
+POGIL: Meiosis
+Activity: Signal Transduction Pathway Modeling (G-Drive)
+Activity: Feedback Loop Examples
+Investigation: Gymnema Tea Party
 Investigation: Cancer Cells and Mitotic Index
+Case Study: Eukaryotic Cell Cycle and Cancer
 Case Study: HeLa Cells Documentary (Questions on G-Drive)
-Meiosis POGIL
