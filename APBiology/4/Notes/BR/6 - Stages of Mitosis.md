@@ -23,7 +23,8 @@ flexGrow=0.3
 ```col-md
 # Anaphase
 
-
+-   Daughter chromatids are drawn by the centromeres.
+-   Chromatids move along the spindle towards opposite ends of the cell.
 ```
 ````
 
