@@ -11,7 +11,7 @@ Unit Essentials:
 
 Activity Log:
 
-1. [ ] BR: This too shall pass discussion (1-page short response)
+1. [x] BR: This too shall pass discussion (1-page short response)
 2. [ ] BR: Signal Transduction Pathway Diagram
 3. [ ] BR: Practice FRQ - Cell Signaling
 4. [ ] BR: Quorum Sensing
