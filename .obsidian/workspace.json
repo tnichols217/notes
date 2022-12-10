@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "aba899196b137dd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/4/Unit 4 BILL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0c5e390a417af62a",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,6 +133,43 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
+  },
+  "floating": {
+    "id": "a106c0e5fa5a6ea3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5a96d4b8915fbbc7",
+        "type": "window",
+        "children": [
+          {
+            "id": "06b632f3d2b1e956",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aba899196b137dd3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "APBiology/4/Unit 4 BILL.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 12,
+        "y": 0,
+        "width": 1576,
+        "height": 900,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "aba899196b137dd3",
   "lastOpenFiles": [
