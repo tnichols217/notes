@@ -1,12 +1,12 @@
 ````col
 ```col-md
 # POSITIVE FEEDBACK LOOPS
+
+A feedback mechanism
 ```
 ```col-md
 # NEGATIVE FEEDBACK LOOPS
 ```
-
-A feedback mechanism
 
 resulting in the
 
