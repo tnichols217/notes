@@ -14,10 +14,8 @@
 	- When cells get incorporated into other cells
 -   Endomembrane system
 	- Consists of the nucleus, rough ER, ribosomes, lysosomes, smooth ER, and the golgi
--   Structure of the cell membrane – components and functions
+-   Structure of the cell membrane – components and functions and Fluid mosaic model
 	- Has a phospholipid bilayer and has many different channels, receptors, and other things that go through the wall
--   Fluid mosaic model
-	- 
 -   Membrane responses to cold
 -   What does amphipathic mean?
 -   How do different types of molecules get through the cell membrane?
