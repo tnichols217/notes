@@ -2,13 +2,9 @@
 ```col-md
 # POSITIVE FEEDBACK LOOPS
 
-A feedback mechanism
-resulting in the
-amplification or growth of
-the output signal
+A feedback mechanism resulting in the amplification or growth of the output signal
 
-Breakdown the homeostasis
-of the system
+Breakdown the homeostasis of the system
 
 Less common but, occur in specific situations
 
