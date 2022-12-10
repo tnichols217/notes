@@ -6,40 +6,24 @@ Unit Essentials:
 4. [ ] 2.4 Unit summary
 5. [ ] 2.5 Official AP Biology unit summary
 6. [ ] Topic review guides
-	- [ ] 4.1-4.5 Signal Transduction and Feedback
-	- [ ] 4.6-4.7 Cell Cycle and Regulation
+	1. 4.1-4.5 Signal Transduction and Feedback
+	2. 4.6-4.7 Cell Cycle and Regulation
 
 Activity Log:
 
 1. [ ] BR: This too shall pass discussion (1-page short response)
 2. [ ] BR: Signal Transduction Pathway Diagram
 3. [ ] BR: Practice FRQ - Cell Signaling
-4. [ ] BR: Feedback Loop Summary
-5. [ ] BR: Stages of Mitosis
-6. [ ] POGIL: Cellular Communication
-7. [ ] POGIL: Signal Transduction Pathway
-8. [ ] POGIL: Cell Cycle
-9. [ ] Activity: Signal Transduction Pathway Modeling (G-Drive)
-10. [ ] Activity: Feedback Loop Examples
-11. [ ] Activity: Feedback Loop Examples
-12. [ ] Investigation: Gymnema Tea Party
-13. [ ] Investigation: Cancer Cells and Mitotic Index
-14. [ ] Case Study: Eukaryotic Cell Cycle and Cancer
-15. [ ] HeLa Cells Debate Notes (both sides)
-
-BR: This too shall pass discussion (1-page short response)
-BR: Signal Transduction Pathway Diagram
-BR: Practice FRQ - Cell Signaling
-BR: Quorum Sensing
-BR: Feedback Loop Summary
-BR: Stages of Mitosis
-POGIL: Cellular Communication
-POGIL: Signal Transduction Pathway
-POGIL: Cell Cycle
-POGIL: Meiosis
-Activity: Signal Transduction Pathway Modeling (G-Drive)
-Activity: Feedback Loop Examples
-Investigation: Gymnema Tea Party
-Investigation: Cancer Cells and Mitotic Index
-Case Study: Eukaryotic Cell Cycle and Cancer
-Case Study: HeLa Cells Documentary (Questions on G-Drive)
+4. [ ] BR: Quorum Sensing
+5. [ ] BR: Feedback Loop Summary
+6. [ ] BR: Stages of Mitosis
+7. [ ] POGIL: Cellular Communication
+8. [ ] POGIL: Signal Transduction Pathway
+9. [ ] POGIL: Cell Cycle
+10. [ ] POGIL: Meiosis
+11. [ ] Activity: Signal Transduction Pathway Modeling (G-Drive)
+12. [ ] Activity: Feedback Loop Examples
+13. [ ] Investigation: Gymnema Tea Party
+14. [ ] Investigation: Cancer Cells and Mitotic Index
+15. [ ] Case Study: Eukaryotic Cell Cycle and Cancer
+16. [ ] Case Study: HeLa Cells Documentary (Questions on G-Drive)
