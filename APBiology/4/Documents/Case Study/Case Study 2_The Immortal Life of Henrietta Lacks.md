@@ -1,18 +1,9 @@
-Case Study: The Immortal Life of Henrietta Lacks
-
-AP Biology
-
-  
+# Case Study: The Immortal Life of Henrietta Lacks
 
 “Her name was Henrietta Lacks, but scientists know her as HeLa. She was a poor black tobacco farmer whose cells -- taken without her knowledge in 1951 -- became one of the most important tools in medicine, vital for developing the polio vaccine, cloning, gene mapping, in vitro fertilization, and more. Henrietta’s cells have been bought and sold by the billions, yet she remains virtually unknown, and her family can’t afford health insurance.“ [http://rebeccaskloot.com/the-immortal-life/](http://rebeccaskloot.com/the-immortal-life/)
 
-  
+**Listen** to the amazing Radiolab Podcast “Henrietta Lacks” at the following URL (Run time: 35 minutes with show starting after 2 minutes): [http://www.wnycstudios.org/story/radiolab-extra-henrietta-lacks/](http://www.wnycstudios.org/story/radiolab-extra-henrietta-lacks/) 
 
-Listen to the amazing Radiolab Podcast “Henrietta Lacks” at the following URL (Run time: 35 minutes with show starting after 2 minutes): 
-
-[http://www.wnycstudios.org/story/radiolab-extra-henrietta-lacks/](http://www.wnycstudios.org/story/radiolab-extra-henrietta-lacks/) 
-
-  
 
 Take notes while listening to the podcast.
 
