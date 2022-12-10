@@ -2,9 +2,9 @@
 
 “Her name was Henrietta Lacks, but scientists know her as HeLa. She was a poor black tobacco farmer whose cells -- taken without her knowledge in 1951 -- became one of the most important tools in medicine, vital for developing the polio vaccine, cloning, gene mapping, in vitro fertilization, and more. Henrietta’s cells have been bought and sold by the billions, yet she remains virtually unknown, and her family can’t afford health insurance.“ [http://rebeccaskloot.com/the-immortal-life/](http://rebeccaskloot.com/the-immortal-life/)
 
-**Listen** to the amazing Radiolab Podcast “Henrietta Lacks” at the following URL (Run time: 35 minutes with show starting after 2 minutes): [http://www.wnycstudios.org/story/radiolab-extra-henrietta-lacks/](http://www.wnycstudios.org/story/radiolab-extra-henrietta-lacks/) 
+## Sources
 
-**Take notes** while listening to the podcast.
+**Listen** to the amazing Radiolab Podcast “Henrietta Lacks” at the following URL (Run time: 35 minutes with show starting after 2 minutes): [http://www.wnycstudios.org/story/radiolab-extra-henrietta-lacks/](http://www.wnycstudios.org/story/radiolab-extra-henrietta-lacks/)
 
 Next **view** the Good Morning America segment “The Gift of Life” about HeLa cells and the Henrietta Lacks story. ([https://www.youtube.com/watch?v=0gF8bCE4wqA](https://www.youtube.com/watch?v=0gF8bCE4wqA)) 
 
@@ -25,15 +25,10 @@ Next **view** the Good Morning America segment “The Gift of Life” about HeLa
 ## Your thoughts
 
 10.  Should tissue be removed from a patient without his or her consent for research?
-    
 11.  Put the use of HeLa cells on trial.  What is more important: an individual’s rights to his/her own body tissues or the medical knowledge gained by studying a patient’s tissues?
-    
 12.  Should Henrietta Lack’s family be compensated for the discoveries made by using her cells?
-    
 13.  Do companies or universities have the right to patent discoveries made using a patient’s tissues or genes without consulting the patient?
-    
 14.  What other legal and ethical questions does this make you think about?
-    
 15.  What are your thoughts on this topic from a biblical worldview?  (You can think about this either from the family’s point of view or the researchers’).  
     
 
