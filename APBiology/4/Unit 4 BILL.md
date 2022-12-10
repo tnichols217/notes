@@ -4,10 +4,10 @@ Unit Essentials:
 2. [x] 2.2 Traffic light
 3. [x] 2.3 Test topics
 4. [x] 2.4 Unit summary
-5. [ ] 2.5 Official AP Biology unit summary
+5. [x] 2.5 Official AP Biology unit summary
 6. [ ] Topic review guides
-	1. 4.1-4.5 Signal Transduction and Feedback
-	2. 4.6-4.7 Cell Cycle and Regulation
+	1. [ ] 4.1-4.5 Signal Transduction and Feedback
+	2. [ ] 4.6-4.7 Cell Cycle and Regulation
 
 Activity Log:
 
