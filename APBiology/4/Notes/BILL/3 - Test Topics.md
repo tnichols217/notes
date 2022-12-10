@@ -9,8 +9,9 @@
 -   Where is DNA found?
 	- In the nucleolus
 -   Plant vs. animal cells
-	- Plants have additional chloroplasts and a cell 
+	- Plants have additional chloroplasts and a cell wall
 -   Endosymbiosis theory
+	- When 
 -   Endomembrane system
 -   Structure of the cell membrane – components and functions
 -   Fluid mosaic model
