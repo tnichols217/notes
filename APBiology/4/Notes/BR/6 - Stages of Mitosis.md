@@ -1,4 +1,3 @@
-
 ````col
 ```col-md
 flexGrow=0.3
@@ -34,15 +33,13 @@ flexGrow=0.3
 ```col-md
 flexGrow=0.3
 ===
-![[Pasted image 20221211020353.png]]
+![[Pasted image 20221211020450.png]]
 ```
 ```col-md
-# Telophase & Cytokinesis
+# Metaphase
 
--   Spindle breaks down
--   Nuclear membrane and nucleolus reform in each daughter cell
--   Chromosomes unwind
--   Cytoplasm constricts to form two separate daughter cells (Cytokinesis).
+-   Chromosomes line up along the equator of the spindle
+-   Centromeres attach themselves to the spindle.
 ```
 ````
 
@@ -64,12 +61,14 @@ flexGrow=0.3
 ```col-md
 flexGrow=0.3
 ===
-![[Pasted image 20221211020450.png]]
+![[Pasted image 20221211020353.png]]
 ```
 ```col-md
-# Metaphase
+# Telophase & Cytokinesis
 
--   Chromosomes line up along the equator of the spindle
--   Centromeres attach themselves to the spindle.
+-   Spindle breaks down
+-   Nuclear membrane and nucleolus reform in each daughter cell
+-   Chromosomes unwind
+-   Cytoplasm constricts to form two separate daughter cells (Cytokinesis).
 ```
 ````
