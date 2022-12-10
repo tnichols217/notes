@@ -13,8 +13,9 @@
 -   Endosymbiosis theory
 	- When cells get incorporated into other cells
 -   Endomembrane system
-	- Consists of the nucleus, rough ER, ribosomes, lysosomes, smoot
+	- Consists of the nucleus, rough ER, ribosomes, lysosomes, smooth ER, and the golgi
 -   Structure of the cell membrane – components and functions
+	- Has a phospholipid bilayer and has many different channels, receptors, 
 -   Fluid mosaic model
 -   Membrane responses to cold
 -   What does amphipathic mean?
