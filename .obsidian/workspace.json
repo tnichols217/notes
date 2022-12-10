@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "775fe7630e504e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/4/Notes/BR/2 - Signal Transduction Pathway Diagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Notes/BR/1 - This too shall pass - Rube Goldburg Machine.md",
+                "file": "APBiology/4/Notes/BR/2 - Signal Transduction Pathway Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Notes/BR/1 - This too shall pass - Rube Goldburg Machine.md"
+                "file": "APBiology/4/Notes/BR/2 - Signal Transduction Pathway Diagram.md"
               }
             }
           },
@@ -171,8 +183,9 @@
       }
     ]
   },
-  "active": "30c5f2befaafc6c2",
+  "active": "775fe7630e504e67",
   "lastOpenFiles": [
+    "APBiology/4/Notes/BR/1 - This too shall pass - Rube Goldburg Machine.md",
     "APBiology/4/Notes/Topic Review Guide/4.1-4.5.md",
     "APBiology/4/Notes/Topic Review Guide/4.6-4.7.md",
     "APBiology/4/Unit 4 BILL.md",
@@ -181,7 +194,6 @@
     "APBiology/4/Notes/BILL/3 - Test Topics.md",
     "APBiology/4/Notes/BILL/4 - Unit Summary.md",
     "APBiology/4/Notes/BILL/5 - AP Unit Summary.md",
-    "APBiology/4/Documents/Case Study/Case Study 2_The Immortal Life of Henrietta Lacks.md",
-    "APBiology/4/Notes/BILL/2 - Traffic Light.md"
+    "APBiology/4/Documents/Case Study/Case Study 2_The Immortal Life of Henrietta Lacks.md"
   ]
 }
