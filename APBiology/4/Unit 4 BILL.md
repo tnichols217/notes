@@ -1,7 +1,7 @@
 Unit Essentials:
 
-1. [ ] 2.1 Unit map
-2. [ ] 2.2 Traffic light
+1. [x] 2.1 Unit map
+2. [x] 2.2 Traffic light
 3. [ ] 2.3 Test topics
 4. [ ] 2.4 Unit summary
 5. [ ] 2.5 Official AP Biology unit summary
