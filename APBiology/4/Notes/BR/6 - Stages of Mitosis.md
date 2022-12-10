@@ -9,9 +9,7 @@ flexGrow=0.3
 
 -   Spindle breaks down
 -   Nuclear membrane and nucleolus reform in each daughter cell
-
 -   Chromosomes unwind
-
 -   Cytoplasm constricts to form two separate daughter cells (Cytokinesis).
 ```
 ````
@@ -26,6 +24,7 @@ flexGrow=0.3
 aaa
 ```
 ````
+
 ````col
 ```col-md
 flexGrow=0.3
@@ -36,6 +35,7 @@ flexGrow=0.3
 aaa
 ```
 ````
+
 ````col
 ```col-md
 flexGrow=0.3
@@ -46,6 +46,7 @@ flexGrow=0.3
 aaa
 ```
 ````
+
 ````col
 ```col-md
 flexGrow=0.3
