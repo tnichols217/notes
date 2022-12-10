@@ -50,7 +50,10 @@ flexGrow=0.3
 ![[Pasted image 20221211020450.png]]
 ```
 ```col-md
-aaa
+# Metaphase
+
+-   Chromosomes line up along the equator of the spindle
+-   Centromeres attach themselves to the spindle.
 ```
 ````
 
