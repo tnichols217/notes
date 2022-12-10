@@ -22,5 +22,5 @@
 - How do cells create and maintain internal environments that are different from their external environments?
 	- With the cell membrane selectively allowing what can come in the cell.
 - How do structure and function of subcellular components and their interactions provide essential cellular processes?
-	- 
+	- No one thing can do everything, so this allows the cell to do complicated things, like how mitochondria cant directl
 - How do cells maintain dynamic homeostasis by the movement of molecules across membranes?
