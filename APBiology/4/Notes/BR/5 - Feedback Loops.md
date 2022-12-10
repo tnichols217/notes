@@ -3,9 +3,8 @@
 # POSITIVE FEEDBACK LOOPS
 ```
 ```col-md
-# POSITIVE FEEDBACK LOOPS
+# NEGATIVE FEEDBACK LOOPS
 ```
-````
 
 A feedback mechanism
 
@@ -40,3 +39,4 @@ Occur more often in the body, helping in maintaining various
 conditions of the body
 
 Ex: regulation of body temperature, blood pressure, and fluid content
+````
