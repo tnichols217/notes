@@ -15,8 +15,9 @@
 -   Endomembrane system
 	- Consists of the nucleus, rough ER, ribosomes, lysosomes, smooth ER, and the golgi
 -   Structure of the cell membrane – components and functions
-	- Has a phospholipid bilayer and has many different channels, receptors, 
+	- Has a phospholipid bilayer and has many different channels, receptors, and other things that go through the wall
 -   Fluid mosaic model
+	- 
 -   Membrane responses to cold
 -   What does amphipathic mean?
 -   How do different types of molecules get through the cell membrane?
