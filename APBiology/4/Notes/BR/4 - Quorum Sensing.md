@@ -4,4 +4,4 @@
 
 1. Vibrio fischeri is only enacting bioluminecence when there is a high cell density
 2. Two separate signalling chemicals being uneffected by each other
-3. 
+3. Quorum sensing through the 
