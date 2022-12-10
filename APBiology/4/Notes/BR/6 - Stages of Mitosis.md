@@ -64,6 +64,15 @@ flexGrow=0.3
 ![[Pasted image 20221211020524.png]]
 ```
 ```col-md
-aaa
+# Prophase
+
+-   Chromosomes coil up and shorten, becoming visible…
+-   … each chromosome consists of two copies called chromatids which are joined at a centromere
+-   Centrioles move to opposite sides of nucleus and spindle fibres start to form
+    
+
+  
+
+-   Nuclear membrane breaks down at end of prophase.
 ```
 ````
