@@ -20,7 +20,7 @@
 - How do shared conserved cellular processes support the idea that all organisms are linked by lines of descent from common ancestry?
 	- It would be practically impossible for two completely independent evolutionary processes to create the same system without sharing something
 - How do cells create and maintain internal environments that are different from their external environments?
-	- With the cell membrane selectively allowing what can come in the cell. Also sometimes it can expel extra subs
+	- With the cell membrane selectively allowing what can come in the cell. Also sometimes it can expel extra substances.
 - How do structure and function of subcellular components and their interactions provide essential cellular processes?
 	- No one thing can do everything, so this allows the cell to do complicated things, like how mitochondria cant directly break down glucose, but only pyrivic acid
 - How do cells maintain dynamic homeostasis by the movement of molecules across membranes?
