@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c5e390a417af62a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/4/Documents/Case Study/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Unit 4 BILL.md",
+                "file": "APBiology/4/Documents/Case Study/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Unit 4 BILL.md"
+                "file": "APBiology/4/Documents/Case Study/Untitled.md"
               }
             }
           },
@@ -135,10 +147,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aba899196b137dd3",
+  "active": "0c5e390a417af62a",
   "lastOpenFiles": [
-    "APBiology/4/Notes/Labs/Gymnema Tea Party.md",
     "APBiology/4/Unit 4 BILL.md",
+    "APBiology/4/Notes/Labs/Gymnema Tea Party.md",
     "APBiology/4/Notes/Activities/Signal Transduction Pathwaty Modeling Task Sheet.md",
     "BritLit/Final Prep.md",
     "APBiology/4/Notes/BR/This too shall pass - Rube Goldburg Machine.md",
