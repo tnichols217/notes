@@ -34,8 +34,9 @@
 -   How does water get through the cell membrane
 	- Diffuses through
 -   Water potential – factors that change movement of water
-	- Pressuve, gr
+	- Pressure, gravity, concentration, temperature (theres more)
 -   Lab concepts – diffusion/osmosis
+	- moving through a membrane 
 -   Prokaryotic vs. eukaryotic cells
 -   Why are cells small?
 -   Organelles – function and structure
