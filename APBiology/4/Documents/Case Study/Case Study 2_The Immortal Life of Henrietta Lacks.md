@@ -4,23 +4,15 @@
 
 **Listen** to the amazing Radiolab Podcast “Henrietta Lacks” at the following URL (Run time: 35 minutes with show starting after 2 minutes): [http://www.wnycstudios.org/story/radiolab-extra-henrietta-lacks/](http://www.wnycstudios.org/story/radiolab-extra-henrietta-lacks/) 
 
+**Take notes** while listening to the podcast.
 
-Take notes while listening to the podcast.
+Next **view** the Good Morning America segment “The Gift of Life” about HeLa cells and the Henrietta Lacks story. ([https://www.youtube.com/watch?v=0gF8bCE4wqA](https://www.youtube.com/watch?v=0gF8bCE4wqA)) 
 
-  
-
-Next view the Good Morning America segment “The Gift of Life” about HeLa cells and the Henrietta Lacks story. ([https://www.youtube.com/watch?v=0gF8bCE4wqA](https://www.youtube.com/watch?v=0gF8bCE4wqA)) 
-
-  
-
-Completely answer all the questions below on a separate sheet of paper. 
+**Completely answer** all the questions below on a separate sheet of paper. 
 
 1.  Who was Henrietta Lacks? (You will need to listen to the entire podcast before you will learn all of the information needed to completely answer this question.)
-    
 2.  Why did Henrietta seek medical attention at Johns Hopkins Hospital?
-    
 3.  Why were Henrietta’s cells of interest to tissue culture researchers? Which cells did they take from her body?
-    
 4.  Specifically what did Henrietta die of? How old was she when she died? (You will need to listen to the entire podcast before you will learn all of the information needed to completely answer this question.)
     
 5.  Researchers took cell samples from Henrietta on two occasions. Describe.
