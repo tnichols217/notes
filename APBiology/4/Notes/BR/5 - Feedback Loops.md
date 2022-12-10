@@ -1,16 +1,17 @@
 ````col
 ```col-md
-# NEGATIVE FEEDBACK LOOPS
+# POSITIVE FEEDBACK LOOPS
+```
+```col-md
+# POSITIVE FEEDBACK LOOPS
 ```
 ````
-
-POSITIVE FEEDBACK LOOPS
 
 A feedback mechanism
 
 resulting in the
 
-NEGATIVE FEEDBACK
+
 
 LOOPS
 
