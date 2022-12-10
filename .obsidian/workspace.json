@@ -45,20 +45,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "95087397ceca927b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8c4dfe920e48ae8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown-table-editor-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +183,7 @@
       }
     ]
   },
-  "active": "8c4dfe920e48ae8e",
+  "active": "1a832739403a545c",
   "lastOpenFiles": [
     "APBiology/4/Documents/Case Study/Case Study 2_The Immortal Life of Henrietta Lacks.md",
     "APBiology/4/Notes/BILL/1 - Unit Map.md",
