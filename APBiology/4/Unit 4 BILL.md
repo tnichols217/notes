@@ -12,9 +12,9 @@ Unit Essentials:
 Activity Log:
 
 1. [x] BR: This too shall pass discussion (1-page short response)
-2. [ ] BR: Signal Transduction Pathway Diagram
-3. [ ] BR: Practice FRQ - Cell Signaling
-4. [ ] BR: Quorum Sensing
+2. [x] BR: Signal Transduction Pathway Diagram
+3. [x] BR: Practice FRQ - Cell Signaling
+4. [x] BR: Quorum Sensing
 5. [ ] BR: Feedback Loop Summary
 6. [ ] BR: Stages of Mitosis
 7. [ ] POGIL: Cellular Communication
