@@ -21,8 +21,9 @@
 -   What does amphipathic mean?
 	- Both hydrophobic and hydrophilic
 -   How do different types of molecules get through the cell membrane?
-	- 
+	- Either through diffusion or with a transport protein or not at all
 -   Passive transport vs. active transport and types of each
+	- 
 -   Types of bulk transport
 -   Specific types of transport – sodium/potassium pump and cotransporters
 -   Isotonic/hypotonic/hypertonic and effect on cells – difference in plants and animals
