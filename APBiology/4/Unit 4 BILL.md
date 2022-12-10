@@ -15,14 +15,14 @@ Activity Log:
 2. [ ] BR: Signal Transduction Pathway Diagram
 3. [ ] BR: Practice FRQ - Cell Signaling
 4. [ ] BR: Feedback Loop Summary
-13. [ ] BR: Stages of Mitosis
-5. [ ] POGIL: Cellular Communication
-6. [ ] POGIL: Signal Transduction Pathway
-7. [ ] POGIL: Cell Cycle
-8. [ ] Activity: Signal Transduction Pathway Modeling (G-Drive)
-9. [ ] Activity: Feedback Loop Examples
+5. [ ] BR: Stages of Mitosis
+6. [ ] POGIL: Cellular Communication
+7. [ ] POGIL: Signal Transduction Pathway
+8. [ ] POGIL: Cell Cycle
+9. [ ] Activity: Signal Transduction Pathway Modeling (G-Drive)
+10. [ ] Activity: Feedback Loop Examples
 11. [ ] Activity: Feedback Loop Examples
-10. [ ] Investigation: Gymnema Tea Party
-15. [ ] Investigation: Cancer Cells and Mitotic Index
+12. [ ] Investigation: Gymnema Tea Party
+13. [ ] Investigation: Cancer Cells and Mitotic Index
 14. [ ] Case Study: Eukaryotic Cell Cycle and Cancer
-16. [ ] HeLa Cells Debate Notes (both sides)
+15. [ ] HeLa Cells Debate Notes (both sides)
