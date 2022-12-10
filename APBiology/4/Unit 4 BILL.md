@@ -31,16 +31,15 @@ BR: This too shall pass discussion (1-page short response)
 BR: Signal Transduction Pathway Diagram
 BR: Practice FRQ - Cell Signaling
 BR: Quorum Sensing
-Activity: Cellular Communication POGIL
+BR: Feedback Loop Summary
+BR: Stages of Mitosis
+POGIL: Cellular Communication
 Activity: Signal Transduction Pathway Modeling (G-Drive)
 TRG 4.1-4.5 Signal Transduction and Feedback
-Activity: Signal Transduction Pathway POGIL
+POGIL: Signal Transduction Pathway
 Investigation: Gymnema Tea Party
-BR: Feedback Loop Summary
 Activity: Feedback Loop Examples
-Activity: Cell Cycle POGIL
-TRG: 4.6-4.7 Cell Cycle and Regulation
-BR: Stages of Mitosis
+POGIL: Cell Cycle
 Case Study: Eukaryotic Cell Cycle and Cancer
 Investigation: Cancer Cells and Mitotic Index
 Case Study: HeLa Cells Documentary (Questions on G-Drive)
