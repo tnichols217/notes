@@ -27,5 +27,7 @@
   "obsidian-full-calendar",
   "obsidian-desmos",
   "buttons",
-  "obsidian-molecule-renderer"
+  "obsidian-molecule-renderer",
+  "obsidian-excel-to-markdown-table",
+  "markdown-table-editor"
 ]
