@@ -19,8 +19,9 @@
 -   Membrane responses to cold
 	- Cell signalling happens in order to maintain homeostasis
 -   What does amphipathic mean?
-	- 
+	- Both hydrophobic and hydrophilic
 -   How do different types of molecules get through the cell membrane?
+	- 
 -   Passive transport vs. active transport and types of each
 -   Types of bulk transport
 -   Specific types of transport – sodium/potassium pump and cotransporters
