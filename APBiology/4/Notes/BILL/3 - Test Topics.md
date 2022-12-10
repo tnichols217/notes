@@ -3,7 +3,7 @@
 -   Prokaryotic vs. eukaryotic cells
 	- Prokaryotes are thought to be the evolutionary ancestors of the eukaryotes due to their comparative simplicity and lack of certain organelles and a nuclear envelope.
 -   Why are cells small?
-	- To maximize SA:V ratio in order to maximize 
+	- To maximize SA:V ratio in order to maximize transfer of molecules
 -   Organelles – function and structure
 -   Where is DNA found?
 -   Plant vs. animal cells
