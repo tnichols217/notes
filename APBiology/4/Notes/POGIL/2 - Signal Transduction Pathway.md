@@ -50,6 +50,7 @@
 15. What would need to occur in the cell to deactivate the protein kinase enzymes?
 	- Dephosphorylation or inhibitors
 16. Protein phosphatases are enzymes that remove phosphate groups from proteins. Complete the illustration in Model 2 by adding at least two protein phosphatases (PP) to show how the cell is returned to inactive status.
+	- 
 17. Although signal transduction pathways vary among species, there are several common elements. Explain how a biologist might use details about signal transduction pathways used in different species as evidence for evolutionary relatedness.
 18. Consider the signal transduction pathway in Model 3. What event begins the process of producing a cellular response?
 19. Locate the secondary messenger molecules in Model 3.
