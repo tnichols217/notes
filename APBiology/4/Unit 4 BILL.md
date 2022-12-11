@@ -17,7 +17,7 @@ Activity Log:
 4. [x] BR: Quorum Sensing
 5. [x] BR: Feedback Loop Summary
 6. [x] BR: Stages of Mitosis
-7. [ ] POGIL: Cellular Communication
+7. [x] POGIL: Cellular Communication
 8. [ ] POGIL: Signal Transduction Pathway
 9. [ ] POGIL: Cell Cycle
 10. [ ] POGIL: Meiosis
