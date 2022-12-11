@@ -47,7 +47,8 @@
 10. If a medical researcher wanted to prevent communication between cells in order to cure a disease or prevent a malady, how might they achieve that? Propose two or more general methods that could be used to stop a signal transmission from cell to cell.
 	- Prevent the signal from being emitted, or destroy the receptors so that it wouldn't be received. Alternatively, you could break the signal transduction chain.
 11. If a medical researcher wanted to enhance communication between cells in order to cure a disease or prevent a malady, how might they achieve that? Propose two or more general methods that could be used to enhance signal transmission from cell to cell.
-	- Add more receptors to the cells or stimulate cells to emi
+	- Add more receptors to the cells or stimulate cells to emit more signalling molecules
 12. The examples of cellular communication used in this activity vary from bacteria to plants to vertebrates. However, the mechanisms of cellular communication are similar among varied species. Explain how scientists might use cellular communication systems to show evolutionary relatedness between species.
+	- 
 13. Some hormones such as estrogen and testosterone are lipids and are therefore nonpolar. Explain why a receptor protein would not be needed for this type of ligand to activate a response in a cell.
 14. Suggest some stimuli that might cause a cell to release a ligand and begin communication between cells.
