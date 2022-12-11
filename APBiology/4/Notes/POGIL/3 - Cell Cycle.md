@@ -10,7 +10,7 @@
 4. During which phase does the number of cells increase?
 	- Cytokinesis (after mitosis)
 5. Considering your answer to Questions 3 and 4, identify two ways that the growth of an organism can be accomplished through the events of the cell cycle.
-	- 
+	- More cells = more growth
 6. Cancer, the uncontrolled growth of cells, often results in a tumor, or mass of abnormal cells. Some cancerous tumors consist of many cells that are much smaller than normal. According to Model 1, what part(s) of the cell cycle is (are) most likely being affected?
 7. In Model 1, if the length of the arrow represents time, then for those cancerous cells, what happens to the time that is necessary for the cell cycle? What implication might this have for doctors who are treating cancer patients?
 8. Model 2 presents cell cycle data for a typical human cell in culture. Use the phase names in Model 2 to label the G, M, and S phases in Model 1.
