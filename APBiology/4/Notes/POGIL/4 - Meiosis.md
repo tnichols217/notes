@@ -32,4 +32,8 @@
 28. Compare the recombinant chromatids with the original pair
 	1. Are the genes on a recombinant chromatid the same as the original chromatid?
 	2. Are the alleles on a recombinant chromatid the same as the original chromatid?
-29. 
+29. Model 5 is a condensed version of meiosis I. Notice the two possible arrangements of chromosomes in late prophase I. Considering what you know about DNA replication and meiosis, is either arrangement equally likely during the formation of tetrads in late prophase I? Explain.
+30. If there were three sets of homologous chromosomes in the cell in Model 5, how many possible arrangements would there be for the tetrads in late prophase I?
+31. With your group, calculate the number of possible genetic combinations due to independent assortment.
+32. As a group, choose one set of daughter cells in late telophase I from Model 5. Imagine that those cells now undergo meiosis II. Draw at least four resulting haploid cells that could result.
+33. Meiosis and sexual reproduction each lead to variation in the genetic make-up of every person. With your group, explain how meiotic events, as well as the random fertilization of eggs and sperm, together lead to this genetic variation.
