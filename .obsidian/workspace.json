@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d9880e7c76f362e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8de3554de6de01f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/4/Notes/BR/3 - Practice FRQ - Cell Signaling.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "637c9beac92d8500",
             "type": "leaf",
             "state": {
@@ -79,7 +55,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf"
+                "file": "APBiology/4/Documents/POGIL/2 Signal Transduction Pathways.pdf"
               }
             }
           }
@@ -149,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
+                "file": "APBiology/4/Unit 4 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Notes/POGIL/1 - Cellular Communication.md"
+                "file": "APBiology/4/Unit 4 BILL.md"
               }
             }
           },
@@ -223,17 +199,17 @@
       }
     ]
   },
-  "active": "0d9880e7c76f362e",
+  "active": "aba899196b137dd3",
   "lastOpenFiles": [
-    "APBiology/4/Unit 4 BILL.md",
-    "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
+    "APBiology/4/Notes/POGIL/2 - Signal Transduction Pathway.md",
+    "APBiology/4/Documents/POGIL/2 Signal Transduction Pathways.pdf",
     "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf",
+    "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
+    "APBiology/4/Unit 4 BILL.md",
     "APBiology/4/Notes/BR/3 - Practice FRQ - Cell Signaling.md",
     "APBiology/4/Notes/BR/1 - This too shall pass - Rube Goldburg Machine.md",
     "APBiology/4/Notes/POGIL/4 - Meiosis.md",
     "APBiology/4/Notes/POGIL/3 - Cell Cycle.md",
-    "APBiology/4/Notes/POGIL/2 - Signal Transduction Pathway.md",
-    "APBiology/4/Notes/BR/6 - Stages of Mitosis.md",
-    "APBiology/4/Notes/BR/5 - Feedback Loops.md"
+    "APBiology/4/Notes/BR/6 - Stages of Mitosis.md"
   ]
 }
