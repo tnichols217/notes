@@ -29,7 +29,9 @@
 15. Which of the statements below correctly describes the relationship between the cells at the end of meiosis II and the original cell?
 	- The new cells have one copy of half of the genetic information in the original cell.
 16. According to Model 3, what is the name given to the cells produced at the end of meiosis I in males?
+	- Sperm
 17. What is the name given to the cells produced at the end of meiosis I in females?
+	- Oocyte
 18. Refer to Model 3.
 	1. At the end of meiosis II in males, what cells are produced?
 	2. What do these cells (from the previous question) eventually become?
