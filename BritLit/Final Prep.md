@@ -68,6 +68,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > For I find it not fit, as in faith it is known,
 > When such a boon is begged before all these knights,
 > Though you be tempted thereto, to take it on yourself
-> While so bold men about upon "
+> While so bold men about upon benches sit,
+> That no host under heaven is hardier of will"
 
 ## MLA citations
