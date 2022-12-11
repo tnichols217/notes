@@ -10,10 +10,12 @@
 	3. Transduction
 		- The Relay proteins
 	4. Response
-		- 
+		- The big stars after the proteins
 4. Based on the diagram in Model 1 and your labels, propose a definition for “transduction” in the context of the signal transduction pathway
+	- Conversion
 5. Amplification often occurs during the transduction step in the signal transduction pathway.
 	1. Define “amplification” as it is used in everyday language.
+		- Multiplication and Boosting
 	2. Explain how the signal in Model 1 was amplified.
 6. List several possible responses that could occur due to a signal being received by a cell. (Hint: There are several listed in the Why? box.)
 7. Once the response is achieved in a cell, what would need to occur to stop the response?
