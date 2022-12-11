@@ -61,8 +61,10 @@
 28. For each phase, describe at least one way mistakes during the cell cycle could result in problems.
 	- G1: mutated proteins are manufactured and synthesis cannot occur
 	- S: DNA is copied incorrectly and the resulting cell has incorrect DNA
-	- G
+	- G2: Chemicals needed from Mitosis are not generated, so mitosis will have problems
+	- M: The cell never splits so it has 2 nuclei
 29. Some types of cancers are treated with radiation, similar to ultraviolet light. Why might it be beneficial to irradiate cancer cells?
+	- 
 30. Plasmodial slime mold is an example of a multinucleated cell. It can be referred to as “one huge cytoplasmic mass with many nuclei” as seen to the right. What part of Model 1 is skipped in the formation of such a cell? Explain your answer.
 31. Chemotherapy utilizes chemicals that disrupt various parts of the cell cycle, targeting rapidly growing cells. Paclitaxel (Taxol®) is one such drug that prevents the mitosis phase from taking place.
 	1. Explain how this drug is useful as a cancer treatment.
