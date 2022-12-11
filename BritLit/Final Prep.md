@@ -60,6 +60,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 
 ### 2 - Sir Gawain and the Green Knight
 > [!quote] 
-> ""Would you grant me the grac
+> ""Would you grant me the grace," said Gawain to the king,
+> "To be"
 
 ## MLA citations
