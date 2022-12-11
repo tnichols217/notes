@@ -26,9 +26,10 @@
 7. Once the response is achieved in a cell, what would need to occur to stop the response?
 	- Stop the signalling and either destroy or inhibit the enzymes that were produced
 8. Refer to Model 2. Describe the event that sets off a phosphorylation cascade inside of a cell.
-	- 
+	- Reception of the ligand
 9. **Phosphorylation** is a process that adds a phosphate group onto a protein to “activate” it—that is, to change its shape enough that it can function properly.
 	1. Which step(s) in the phosphorylation cascade illustrated in Model 2 include phosphorylation?
+		- 
 	2. Where do the phosphate groups come from that are added to the proteins during phosphorylation?
 10. According to Model 2, what class of enzymes performs phosphorylation?
 11. Identify the steps in Model 2 that represent reception, transduction, and response for the phosphorylation pathway
