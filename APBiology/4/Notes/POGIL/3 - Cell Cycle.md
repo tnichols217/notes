@@ -28,8 +28,9 @@
 13. *Cyto = cell*, *kinesis = cutting*. What do you think takes place during cytokinesis?
 	- The cell gets split from one into two
 14. Other than cytokinesis, what else occurs during the mitosis phase? Hint: Consider the sets of DNA in each cell.
-	- 
+	- DNA gets separated into the two cells
 15. Look carefully at information given to you in Model 1 and Model 2. Fill in the key process column in the table for G1.
+	- 
 16. If a culture in the lab starts with one human cell, how many cells will there be after 24 hours?
 17. The total time for the phases listed in Model 2 is 24 hours. How many human cells will be in the culture after another 24 hours? Explain.
 18. Is the original cell “dead” or does it disappear after mitosis? Explain your answer.
