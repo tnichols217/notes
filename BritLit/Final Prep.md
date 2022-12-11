@@ -75,7 +75,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > And the loss of my life would be least of any;
 > That I have you for uncle is my only praise;
 > My body, but for your blood, is barren of worth;
-> And for that this folly befits not a jing.
+> And for that this folly befits not a king.
 > A"
 
 ## MLA citations
