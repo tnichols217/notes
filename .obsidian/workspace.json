@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "0f8acec6cd71ebb6",
+        "id": "9289779978577754",
         "type": "tabs",
         "children": [
           {
-            "id": "aba899196b137dd3",
+            "id": "5eea1e4928c5a4f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/4/Carbon.md",
-                "mode": "preview",
+                "file": "BritLit/Edward Lear.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac647a6c633c1adf",
+            "id": "f09f38ac2ca7ff4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Ch8/Photosynthesis.md",
-                "mode": "preview",
+                "file": "BritLit/Final Prep.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Ch8/Photosynthesis.md",
+                "file": "BritLit/Final Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Ch8/Photosynthesis.md"
+                "file": "BritLit/Final Prep.md"
               }
             }
           },
@@ -135,11 +135,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac647a6c633c1adf",
+  "active": "f09f38ac2ca7ff4f",
   "lastOpenFiles": [
+    "Biology/Ch8/Photosynthesis.md",
     "APBiology/4/Carbon.md",
     "APBiology/1/Notes/Labs/Properties of Water.md",
-    "Biology/Ch8/Photosynthesis.md",
     "APBiology/1/Documents/Labs/Investigation_ Properties of Water with Statistics.pdf",
     "APBiology/1/Documents/Labs/3 - Properties of Water.pdf",
     "APBiology/4/Unit 4 BILL.md",
