@@ -63,6 +63,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > ""Would you grant me the grace," said Gawain to the king,
 > "To be gone from this bench and stand by you there,
 > If I without discourtesy might quit this board,
-> "
+> And if my liege lady misliked it not,
+> I would come to y"
 
 ## MLA citations
