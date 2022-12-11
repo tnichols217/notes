@@ -59,6 +59,8 @@
 	- Reception of the signal
 20. Locate the secondary messenger molecules in Model 3.
 	1. Describe the type of diffusion that is used to get the secondary messengers into the cell.
-		- 
+		- Facilitated diffusion
 	2. What activates or opens the transport protein channel that allows the secondary messengers to enter the cell?
-21. Within an organism it is critical that signals between cells are very specific. For example, if ligand A is meant to activate immune system cells to reproduce in response to an infection, it should not also cause other cells to grow as if they had received a growth hormone. When a ligand is released, what prevents all of the cells in the body from being affected? 
+		- The active relay protein from the receptor
+21. Within an organism it is critical that signals between cells are very specific. For example, if ligand A is meant to activate immune system cells to reproduce in response to an infection, it should not also cause other cells to grow as if they had received a growth hormone. When a ligand is released, what prevents all of the cells in the body from being affected?
+	1. 
