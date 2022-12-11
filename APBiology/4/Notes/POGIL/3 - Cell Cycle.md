@@ -31,4 +31,5 @@
 29. Some types of cancers are treated with radiation, similar to ultraviolet light. Why might it be beneficial to irradiate cancer cells?
 30. Plasmodial slime mold is an example of a multinucleated cell. It can be referred to as “one huge cytoplasmic mass with many nuclei” as seen to the right. What part of Model 1 is skipped in the formation of such a cell? Explain your answer.
 31. Chemotherapy utilizes chemicals that disrupt various parts of the cell cycle, targeting rapidly growing cells. Paclitaxel (Taxol®) is one such drug that prevents the mitosis phase from taking place.
-	1. 
+	1. Explain how this drug is useful as a cancer treatment.
+	2. 
