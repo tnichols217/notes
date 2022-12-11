@@ -35,7 +35,9 @@ Answers considered high quality (and therefore are more likely to receive high m
 ### 2
 - Themes
 	- Chivalry
-	- Repuat
+	- Reputation
+	- Fame
+	- Legend
 
 ### 3
 
