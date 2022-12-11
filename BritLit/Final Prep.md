@@ -42,7 +42,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 ### 3
 
 ## Quotes
-### 1 - Beo
+### 1 - Beowulf
 > [!quote] 
 > "The celebration that followed that night was one of the grandest Hrothgar's hall had seen. The cooks labored from dawn till duck under Ashhere's supervision, and the singers and tale-tellers and other entertainers were summoned. Extra ale was begged from smaller villages and halls nearby, and two of the finest prize pigs were chosen to be roasted for the centerpiece of the feast in Beowulf's honor. Grendel's torn stump was sewn up and nailed above Hrothgar's seat for all to see -- the cooks' helpers spent almost as much time chasing wide-eyes children away from this freakish sight as they did stirring and chopping and fetching and carrying" (Raven 24-25).
 > 
@@ -58,6 +58,6 @@ Answers considered high quality (and therefore are more likely to receive high m
 > ""But you know my history, my lord kind," said the warrior Beowulf, inclining his head respectfully toward his master. "There is blood-debt to be paid here. My honor says I must go..."" (Raven 14).
 
 
-
+### 2 - 
 
 ## MLA citations
