@@ -8,6 +8,10 @@
 4. Which of the cellular communication methods in Model 1 appear to be for signaling between cells in different parts of an organism (long-distance communication)?
 5. In which of the cellular communication methods would a ligand (signaling molecule) need to have the longest “life”? Explain your reasoning
 6. Use the four terms below to label the diagrams in Model 1. Word-part definitions are given to help you determine the meanings of each term.
+	1. Autocrine (auto = self)
+	2. Paracrine (para = nearby)
+	3. Juxtacrine (juxta = beside, next to, touching)
+	4. Endocrine (endo = within
 7. Cellular communication takes place for a variety of reasons—mating, defense mechanisms, homeostasis, growth, etc. Discuss the following question with your group and make a prediction: “Do all ligands for cellular communication have the same chemical structure (shape)?” Provide specifi c reasons or examples to support your prediction.
 8. Consider each of the following cellular communication examples. Divide the work among group members. Have each group member determine which type of signaling is being used in their scenario (autocrine, juxtacrine, paracrine or endocrine), and then present their reasoning to the group
 	1. Quorum sensing is used by bacteria to determine the population density of their species in a local area. (Many bacterial functions would be ineffective in small numbers—infecting a host organism with a toxin, for example—and would therefore be a waste of energy and resources to the bacteria.) Each bacterium produces a ligand. Once the concentration of that ligand reaches a critical concentration, thus indicating a suffi cient population density for the response to be effective, all bacteria will respond simultaneously
