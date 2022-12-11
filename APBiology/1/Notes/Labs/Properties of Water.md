@@ -5,7 +5,8 @@
 
 | Calculation | Value |
 | ----------- | ----- |
-| Mean        |       |
+| Mean        | 86.9  |
+| SD (P)      |       |
 
 Mean: 86.9
 SD (population): 7.46257328272225
