@@ -20,8 +20,11 @@
 		- When it went from relay protein 1, it went to 3 of the relay protein 2
 6. List several possible responses that could occur due to a signal being received by a cell. (Hint: There are several listed in the Why? box.)
 	- A gene is turned on
-	- A protein is manu
+	- A protein is manufactured
+	- An enzyme is activated
+	- Cell divides or dies
 7. Once the response is achieved in a cell, what would need to occur to stop the response?
+	- 
 8. Refer to Model 2. Describe the event that sets off a phosphorylation cascade inside of a cell.
 9. **Phosphorylation** is a process that adds a phosphate group onto a protein to “activate” it—that is, to change its shape enough that it can function properly.
 	1. Which step(s) in the phosphorylation cascade illustrated in Model 2 include phosphorylation?
