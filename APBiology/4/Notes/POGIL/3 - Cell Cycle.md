@@ -28,4 +28,4 @@
 26. Why might it be benefi cial to an organism for damaged cells to enter G0 instead of dividing once they exist?
 27. What could happen, after several cell cycles, to an organism whose damaged cells did not go through apoptosis? In other words, what if a damaged cell that is supposed to die does not?
 28. For each phase, describe at least one way mistakes during the cell cycle could result in problems.
-29. 
+29. Some types of cancers are treated with radiation, similar to ultraviolet light. Why might it be beneficial to irradiate cancer cells?
