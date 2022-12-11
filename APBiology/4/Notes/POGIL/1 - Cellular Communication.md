@@ -41,7 +41,7 @@
 		- Autocrine, it stimulates itself
 	3. **Neurotransmitters** are ligands that are released from the axon of one nerve cell to the dendrite of another nerve cell. This helps to propagate the signal across several cells.
 		1. ![[Pasted image 20221211152055.png]]
-		- Juxtacrine, they may be touching or paracrine because they are nearby
+		- Paracrine, because they are nearby
 	4. Cells in the pituitary gland produce thyroid stimulating hormone (TSH), which is received by cells in the thyroid. The arrival of TSH in the thyroid triggers production of several hormones, which then travel throughout the body to regulate metabolism.
 		- 
 10. If a medical researcher wanted to prevent communication between cells in order to cure a disease or prevent a malady, how might they achieve that? Propose two or more general methods that could be used to stop a signal transmission from cell to cell.
