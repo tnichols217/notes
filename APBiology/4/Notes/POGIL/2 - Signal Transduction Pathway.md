@@ -63,4 +63,4 @@
 	2. What activates or opens the transport protein channel that allows the secondary messengers to enter the cell?
 		- The active relay protein from the receptor
 21. Within an organism it is critical that signals between cells are very specific. For example, if ligand A is meant to activate immune system cells to reproduce in response to an infection, it should not also cause other cells to grow as if they had received a growth hormone. When a ligand is released, what prevents all of the cells in the body from being affected?
-	1. 
+	- Not all cells have the matching receptor for this specific signal
