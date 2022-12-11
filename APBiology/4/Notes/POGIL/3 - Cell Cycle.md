@@ -1,4 +1,5 @@
 1. Describe what would occur in the cell if the activated protein kinase enzymes continued to be active for a long period of time.
+	- 
 2. Starting at the starred cell, what is the order of the stages of a cell’s life?
 3. During which phase does the size of the cell increase?
 4. During which phase does the number of cells increase?
@@ -32,4 +33,4 @@
 30. Plasmodial slime mold is an example of a multinucleated cell. It can be referred to as “one huge cytoplasmic mass with many nuclei” as seen to the right. What part of Model 1 is skipped in the formation of such a cell? Explain your answer.
 31. Chemotherapy utilizes chemicals that disrupt various parts of the cell cycle, targeting rapidly growing cells. Paclitaxel (Taxol®) is one such drug that prevents the mitosis phase from taking place.
 	1. Explain how this drug is useful as a cancer treatment.
-	2. 
+	2. How might targeting rapidly growing cells explain common chemotherapy side effects such as hair loss and nausea?
