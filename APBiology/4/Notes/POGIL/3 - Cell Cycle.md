@@ -21,4 +21,9 @@
 21. Keeping in mind the events of each part of the cell cycle, mark with a double arrow on Model 1 where those cells might (either temporarily or permanently) exit the cell cycle to G0 . Label this as G0 . Why did you choose this location for G0 ? Hint: Think of a place in the cell cycle where the cell is functioning normally, but not preparing to divide.
 22. Consider a cell in G0. Use the information in both Models 1 and 2 to answer the following questions.
 	1. In order for this cell to divide normally, what would need to occur?
-	2. What if the phase(s) you identifi ed in part a of this question did not occur? What would be the outcome for the cell in that case?
+	2. What if the phase(s) you identified in part a of this question did not occur? What would be the outcome for the cell in that case?
+23. According to Model 3, ultraviolet light is affecting a cell in which phase of the cell cycle?
+24. Ultraviolet light may cause DNA damage, which is known as a mutation. How might such damage affect events taking place during the synthesis phase? Hint: Use information from Model 2.
+25. How might the DNA damage go on to affect the rest of the cell cycle if apoptosis did not occur?
+26. Why might it be benefi cial to an organism for damaged cells to enter G0 instead of dividing once they exist?
+27. What could happen, after several cell cycles, to an organism whose damaged cells did not go through apoptosis? In other words, what if a damaged cell that is supposed to die does not?
