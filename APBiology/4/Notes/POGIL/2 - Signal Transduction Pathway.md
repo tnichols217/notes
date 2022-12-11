@@ -52,7 +52,7 @@
 16. Protein phosphatases are enzymes that remove phosphate groups from proteins. Complete the illustration in Model 2 by adding at least two protein phosphatases (PP) to show how the cell is returned to inactive status.
 	- The PPs will remove the phosphate group from all activated proteins produced in steps 4 and 5
 17. Although signal transduction pathways vary among species, there are several common elements. Explain how a biologist might use details about signal transduction pathways used in different species as evidence for evolutionary relatedness.
-	- 
+	- If they share similar signals and receptors to produce the same cellular response, it is 
 18. Consider the signal transduction pathway in Model 3. What event begins the process of producing a cellular response?
 19. Locate the secondary messenger molecules in Model 3.
 	1. Describe the type of diffusion that is used to get the secondary messengers into the cell.
