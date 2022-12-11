@@ -47,15 +47,17 @@
 	- One signal would produce multiple signals, meaning it would increase the effect of a single signal
 14. What advantage would there be to an organism if the signal transduction pathway had several amplification steps?
 	- It would be harder for a signal to accidentally go unnoticed, it is more likely to be acted upon
-15. What would need to occur in the cell to deactivate the protein kinase enzymes?
+15. Describe what would occur in the cell if the activated protein kinase enzymes continued to be active for a long period of time.
+	- The signals would be highly concentr
+16. What would need to occur in the cell to deactivate the protein kinase enzymes?
 	- Dephosphorylation or inhibitors
-16. Protein phosphatases are enzymes that remove phosphate groups from proteins. Complete the illustration in Model 2 by adding at least two protein phosphatases (PP) to show how the cell is returned to inactive status.
+17. Protein phosphatases are enzymes that remove phosphate groups from proteins. Complete the illustration in Model 2 by adding at least two protein phosphatases (PP) to show how the cell is returned to inactive status.
 	- The PPs will remove the phosphate group from all activated proteins produced in steps 4 and 5
-17. Although signal transduction pathways vary among species, there are several common elements. Explain how a biologist might use details about signal transduction pathways used in different species as evidence for evolutionary relatedness.
+18. Although signal transduction pathways vary among species, there are several common elements. Explain how a biologist might use details about signal transduction pathways used in different species as evidence for evolutionary relatedness.
 	- If they share similar signals and receptors to produce the same cellular response, it is highly unlikely that they evolved separately from each other
-18. Consider the signal transduction pathway in Model 3. What event begins the process of producing a cellular response?
+19. Consider the signal transduction pathway in Model 3. What event begins the process of producing a cellular response?
 	- 
-19. Locate the secondary messenger molecules in Model 3.
+20. Locate the secondary messenger molecules in Model 3.
 	1. Describe the type of diffusion that is used to get the secondary messengers into the cell.
 	2. What activates or opens the transport protein channel that allows the secondary messengers to enter the cell?
-20. Within an organism it is critical that signals between cells are very specific. For example, if ligand A is meant to activate immune system cells to reproduce in response to an infection, it should not also cause other cells to grow as if they had received a growth hormone. When a ligand is released, what prevents all of the cells in the body from being affected? 
+21. Within an organism it is critical that signals between cells are very specific. For example, if ligand A is meant to activate immune system cells to reproduce in response to an infection, it should not also cause other cells to grow as if they had received a growth hormone. When a ligand is released, what prevents all of the cells in the body from being affected? 
