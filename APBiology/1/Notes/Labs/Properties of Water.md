@@ -12,4 +12,5 @@ DF: 9
 
 ## Lab
 ### Data
-|||
+| Trial | Drops of Distilled Water | Drops of Dist
+| ----- | ------------------------ |
