@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Notes/POGIL/4 - Meiosis.md",
+                "file": "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Notes/POGIL/4 - Meiosis.md"
+                "file": "APBiology/4/Notes/POGIL/1 - Cellular Communication.md"
               }
             }
           },
@@ -195,8 +194,9 @@
       }
     ]
   },
-  "active": "d8eca20822ead227",
+  "active": "0d9880e7c76f362e",
   "lastOpenFiles": [
+    "APBiology/4/Notes/POGIL/4 - Meiosis.md",
     "APBiology/4/Notes/POGIL/3 - Cell Cycle.md",
     "APBiology/4/Notes/POGIL/2 - Signal Transduction Pathway.md",
     "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
@@ -205,7 +205,6 @@
     "APBiology/4/Notes/BR/5 - Feedback Loops.md",
     "APBiology/4/Notes/BR/4 - Quorum Sensing.md",
     "APBiology/4/Notes/BR/3 - Practice FRQ - Cell Signaling.md",
-    "APBiology/4/Notes/BR/2 - Signal Transduction Pathway Diagram.md",
-    "APBiology/4/Notes/BR/1 - This too shall pass - Rube Goldburg Machine.md"
+    "APBiology/4/Notes/BR/2 - Signal Transduction Pathway Diagram.md"
   ]
 }
