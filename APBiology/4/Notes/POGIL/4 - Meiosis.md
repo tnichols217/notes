@@ -3,8 +3,9 @@
 2. Considering what you already know about mitosis in cells, what event must take place during interphase before a cell proceeds to division?
 	- DNA replication and cell growth
 3. What two structures make up a single replicated chromosome?
-	- 
+	- Chromotids
 4. In Model 1, how many replicated chromosomes does the cell contain during prophase?
+	- 
 5. At which stage in meiosis I do the pairs of homologous chromosomes come together?
 6. Once the chromosomes have formed a pair, what are they called?
 7. At the end of meiosis I, two cells have been produced. How many replicated chromosomes are in each of these cells?
