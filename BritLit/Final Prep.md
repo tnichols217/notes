@@ -24,7 +24,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 
 # Work
 ## Outlines
-### 1
+### 1 - Beowulf
 - Themes
 	- Mead halls
 	- Loyalty & Comitatus
@@ -32,7 +32,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 	- Fairness & Wergild
 	- Alliances with neighboring tribes
 
-### 2
+### 2 - 
 - Themes
 	- Chivalry
 	- Reputation
