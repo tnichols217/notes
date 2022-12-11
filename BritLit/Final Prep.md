@@ -77,6 +77,6 @@ Answers considered high quality (and therefore are more likely to receive high m
 > My body, but for your blood, is barren of worth;
 > And for that this folly befits not a king.
 > And 'tis I that have asked it, it ought to be mind,
-> And if my clain be not comely let all this court judge in sight"" ( 117-134)
+> And if my clain be not comely let all this court judge in sight"" (Borroff 117-134).
 
 ## MLA citations
