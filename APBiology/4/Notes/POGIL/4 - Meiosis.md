@@ -46,9 +46,11 @@
 22. What is the ploidy of the zygote produced by fertilization—haploid or diploid?
 	- Diploid, it has a pair of all 23 chromosomes
 23. What would the ploidy of the zygote be if egg and sperm were produced by mitosis rather than meiosis? How would this affect the ploidy of each successive generation?
-	- Quadro
+	- Quadroploids, each generation would have double the chromosomes of the previous
 24. With your group write a statement to explain the origin of the chromosomes found in the zygote. Your statement must include the term homologous pair.
+	- Half from the sperm and the other half from the egg
 25. At which stage of meiosis are the chromosomes in Model 4?
+	- 
 26. When the chromosomes come together as homologous pairs, the arms of the sister chromatids may cross over.
 	1. What are these crossover points called?
 	2. Describe what happens to the chromatids during crossover
