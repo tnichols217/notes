@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Documents/Case Study/Case Study 1_Eukaryotic Cell Cycle and Cancer HHMI.pdf",
+                "file": "APBiology/4/Notes/Case Study/1 - Eukaryotic Cell Cycle and Cancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Documents/Case Study/Case Study 1_Eukaryotic Cell Cycle and Cancer HHMI.pdf"
+                "file": "APBiology/4/Notes/Case Study/1 - Eukaryotic Cell Cycle and Cancer.md"
               }
             }
           },
@@ -145,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3b22e69835e07f19",
+  "active": "ac647a6c633c1adf",
   "lastOpenFiles": [
+    "APBiology/4/Documents/Case Study/Case Study 1_Eukaryotic Cell Cycle and Cancer HHMI.pdf",
     "APBiology/4/Notes/Case Study/1 - Eukaryotic Cell Cycle and Cancer.md",
+    "APBiology/4/Notes/Activities/2 - Feedback Loop Examples.md",
     "APBiology/4/Unit 4 BILL.md",
     "APBiology/4/Notes/Activities/1 - Signal Transduction Pathway Modeling.md",
-    "APBiology/4/Notes/Activities/2 - Feedback Loop Examples.md",
     "APBiology/4/Notes/Investigations/2 - Cancer Cells and the Mitotic Index.md",
     "APBiology/4/Notes/Investigations/1 - Gymnema Tea Party.md",
     "APBiology/4/Notes/Case Study/2 - HeLa Cells Documentary.md",
     "APBiology/4/Notes/BR/6 - Stages of Mitosis.md",
-    "APBiology/4/Notes/BR/5 - Feedback Loops.md",
-    "APBiology/4/Notes/BR/4 - Quorum Sensing.md"
+    "APBiology/4/Notes/BR/5 - Feedback Loops.md"
   ]
 }
