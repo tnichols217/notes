@@ -34,7 +34,8 @@ Answers considered high quality (and therefore are more likely to receive high m
 
 ### 2
 - Themes
-	- Chivalr
+	- Chivalry
+	- Repuat
 
 ### 3
 
