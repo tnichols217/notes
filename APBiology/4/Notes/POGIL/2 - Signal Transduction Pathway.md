@@ -17,4 +17,11 @@
 	2. Where do the phosphate groups come from that are added to the proteins during phosphorylation?
 10. According to Model 2, what class of enzymes performs phosphorylation?
 11. Identify the steps in Model 2 that represent reception, transduction, and response for the phosphorylation pathway
-	1. 
+	1. Reception
+	2. Transduction
+	3. Response
+12. What is the cell’s response to the signal received in Model 2?
+13. In Model 2, steps 3, 4, and 5 are shown as amplification steps. Describe what that means in terms of this signal transduction pathway example.
+14. What advantage would there be to an organism if the signal transduction pathway had several amplification steps?
+15. Describe what would occur in the cell if the activated protein kinase enzymes continued to be active for a long period of time.
+16. 
