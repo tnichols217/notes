@@ -29,12 +29,14 @@
 15. Which of the statements below correctly describes the relationship between the cells at the end of meiosis II and the original cell?
 	- The new cells have one copy of half of the genetic information in the original cell.
 16. According to Model 3, what is the name given to the cells produced at the end of meiosis I in males?
-	- Sperm
+	- Spermatids
 17. What is the name given to the cells produced at the end of meiosis I in females?
 	- Oocyte
 18. Refer to Model 3.
 	1. At the end of meiosis II in males, what cells are produced?
+		- Sperm
 	2. What do these cells (from the previous question) eventually become?
+		- Part of the 
 19. Before fertilization, what happens to the secondary oocyte?
 20. During fertilization which two cells come together? Be specific in your answer.
 21. During meiosis II, the secondary oocyte divides unevenly, with one cell (the ovum) receiving half of the chromosomes and nearly all the cytoplasm and organelles, while the other cell, the polar body, is much smaller and eventually degenerates. With your group, propose an explanation to explain why the secondary oocyte divides in this way.
