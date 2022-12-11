@@ -24,5 +24,6 @@ DF: 9
 | Calculation | Drops of Distilled Water | Drops of Distilled Water + Soap |
 | ----------- | ------------------------ | ------------------------------- |
 | Mean        |                          |                                 |
-| SD
-|                          |                                 |
+| SD          |                          |                                 |
+| +/-         |                          |                                 |
+|             |                          |                                 |
