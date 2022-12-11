@@ -13,4 +13,8 @@
 13. *Cyto = cell*, *kinesis = cutting*. What do you think takes place during cytokinesis?
 14. Other than cytokinesis, what else occurs during the mitosis phase? Hint: Consider the sets of DNA in each cell.
 15. Look carefully at information given to you in Model 1 and Model 2. Fill in the key process column in the table for G1.
-16. 
+16. If a culture in the lab starts with one human cell, how many cells will there be after 24 hours?
+17. The total time for the phases listed in Model 2 is 24 hours. How many human cells will be in the culture after another 24 hours? Explain.
+18. Is the original cell “dead” or does it disappear after mitosis? Explain your answer.
+19. If a starfish sustains damage to a limb, it often grows a new one. If a human adult sustains damage to his or her spinal cord, mobility is often impaired. If a gecko loses its tail, it may grow a new one. Which type of cell is less likely to go through the cell cycle after being damaged— starfish limb, human spinal cord, or gecko tail? Support your answer.
+20. 
