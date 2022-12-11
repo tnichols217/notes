@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Carbon.md",
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Carbon.md"
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md"
               }
             }
           },
@@ -156,13 +157,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aba899196b137dd3",
+  "active": "724d7181acb69853",
   "lastOpenFiles": [
+    "APBiology/4/Carbon.md",
     "APBiology/1/Notes/Labs/Properties of Water.md",
     "Biology/Ch8/Photosynthesis.md",
     "APBiology/1/Documents/Labs/Investigation_ Properties of Water with Statistics.pdf",
     "APBiology/1/Documents/Labs/3 - Properties of Water.pdf",
-    "APBiology/4/Carbon.md",
     "APBiology/4/Unit 4 BILL.md",
     "APBiology/4/Notes/Activities/1 - Signal Transduction Pathway Modeling.md",
     "APBiology/4/Notes/Case Study/1 - Eukaryotic Cell Cycle and Cancer.md",
