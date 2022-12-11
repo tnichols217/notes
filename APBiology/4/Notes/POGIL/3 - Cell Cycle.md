@@ -64,8 +64,9 @@
 	- G2: Chemicals needed from Mitosis are not generated, so mitosis will have problems
 	- M: The cell never splits so it has 2 nuclei
 29. Some types of cancers are treated with radiation, similar to ultraviolet light. Why might it be beneficial to irradiate cancer cells?
-	- 
+	- To kill them or to force a mutation that would lead to apoptosis
 30. Plasmodial slime mold is an example of a multinucleated cell. It can be referred to as “one huge cytoplasmic mass with many nuclei” as seen to the right. What part of Model 1 is skipped in the formation of such a cell? Explain your answer.
+	- 
 31. Chemotherapy utilizes chemicals that disrupt various parts of the cell cycle, targeting rapidly growing cells. Paclitaxel (Taxol®) is one such drug that prevents the mitosis phase from taking place.
 	1. Explain how this drug is useful as a cancer treatment.
 	2. How might targeting rapidly growing cells explain common chemotherapy side effects such as hair loss and nausea?
