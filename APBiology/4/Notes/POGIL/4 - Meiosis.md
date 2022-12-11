@@ -53,9 +53,11 @@
 	- Crossing over in meiosis 1 (metaphase)
 26. When the chromosomes come together as homologous pairs, the arms of the sister chromatids may cross over.
 	1. What are these crossover points called?
-		- 
+		- Chiasma
 	2. Describe what happens to the chromatids during crossover
+		- It swaps genetic information, randomizing its contents
 27. What phrase is used to describe the chromatids after crossing over takes place and the homologous chromosomes separate?
+	- Recombinant chromatids
 28. Compare the recombinant chromatids with the original pair
 	1. Are the genes on a recombinant chromatid the same as the original chromatid?
 	2. Are the alleles on a recombinant chromatid the same as the original chromatid?
