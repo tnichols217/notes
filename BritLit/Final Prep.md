@@ -76,6 +76,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > That I have you for uncle is my only praise;
 > My body, but for your blood, is barren of worth;
 > And for that this folly befits not a king.
-> And 'tis '"
+> And 'tis I that have asked it, it ought to be mind,
+> And if my clain be '"
 
 ## MLA citations
