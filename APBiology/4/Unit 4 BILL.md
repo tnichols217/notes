@@ -21,7 +21,7 @@ Activity Log:
 8. [ ] POGIL: Signal Transduction Pathway
 9. [ ] POGIL: Cell Cycle
 10. [ ] POGIL: Meiosis
-11. [ ] Activity: Signal Transduction Pathway Modeling (G-Drive)
+11. [x] Activity: Signal Transduction Pathway Modeling (G-Drive)
 12. [ ] Activity: Feedback Loop Examples
 13. [x] Investigation: Gymnema Tea Party
 14. [ ] Investigation: Cancer Cells and Mitotic Index
