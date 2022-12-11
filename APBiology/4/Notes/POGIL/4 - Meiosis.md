@@ -9,6 +9,7 @@
 5. At which stage in meiosis I do the pairs of homologous chromosomes come together?
 	- Metaphase 1
 6. Once the chromosomes have formed a pair, what are they called?
+	- homologous chromosomes make tetrad
 7. At the end of meiosis I, two cells have been produced. How many replicated chromosomes are in each of these cells?
 8. Cells with a full set of chromosomes are referred to as diploid or 2n, whereas cells with half the chromosomes are haploid or n. At which stage(s) of meiosis I are the cells diploid and at which stage(s) are they haploid?
 9. Which of the statements below correctly describes the relationship between the cells at the end of telophase I and the original cell?
