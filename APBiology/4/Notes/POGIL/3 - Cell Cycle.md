@@ -51,8 +51,9 @@
 23. According to Model 3, ultraviolet light is affecting a cell in which phase of the cell cycle?
 	- G1
 24. Ultraviolet light may cause DNA damage, which is known as a mutation. How might such damage affect events taking place during the synthesis phase? Hint: Use information from Model 2.
-	- Broken DNA wl
+	- Broken DNA will be replicated and the cell will probably die
 25. How might the DNA damage go on to affect the rest of the cell cycle if apoptosis did not occur?
+	- The resulting cell would have mutations in the DNA
 26. Why might it be benefi cial to an organism for damaged cells to enter G0 instead of dividing once they exist?
 27. What could happen, after several cell cycles, to an organism whose damaged cells did not go through apoptosis? In other words, what if a damaged cell that is supposed to die does not?
 28. For each phase, describe at least one way mistakes during the cell cycle could result in problems.
