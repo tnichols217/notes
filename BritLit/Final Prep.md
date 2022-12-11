@@ -32,7 +32,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 	- Fairness & Wergild
 	- Alliances with neighboring tribes
 
-### 2 - 
+### 2 - Sir Gawain and the Green Knight
 - Themes
 	- Chivalry
 	- Reputation
