@@ -56,8 +56,9 @@
 18. Although signal transduction pathways vary among species, there are several common elements. Explain how a biologist might use details about signal transduction pathways used in different species as evidence for evolutionary relatedness.
 	- If they share similar signals and receptors to produce the same cellular response, it is highly unlikely that they evolved separately from each other
 19. Consider the signal transduction pathway in Model 3. What event begins the process of producing a cellular response?
-	- 
+	- Reception of the signal
 20. Locate the secondary messenger molecules in Model 3.
 	1. Describe the type of diffusion that is used to get the secondary messengers into the cell.
+		- 
 	2. What activates or opens the transport protein channel that allows the secondary messengers to enter the cell?
 21. Within an organism it is critical that signals between cells are very specific. For example, if ligand A is meant to activate immune system cells to reproduce in response to an infection, it should not also cause other cells to grow as if they had received a growth hormone. When a ligand is released, what prevents all of the cells in the body from being affected? 
