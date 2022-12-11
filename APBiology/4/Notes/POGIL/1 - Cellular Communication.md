@@ -4,6 +4,7 @@
 	3. ![[Pasted image 20221211151335.png]] Membrane Channel
 	4. ![[Pasted image 20221211151347.png]] Receptor
 2. Describe how the shape of the ligand (signaling molecule) and the shape of the receptor are related.
+	- The ligand fits perfectly into the active site of the receptor, binding together.
 3. Which of the cellular communication methods in Model 1 appear to be for signaling between cells that are in close proximity?
 4. Which of the cellular communication methods in Model 1 appear to be for signaling between cells in different parts of an organism (long-distance communication)?
 5. In which of the cellular communication methods would a ligand (signaling molecule) need to have the longest “life”? Explain your reasoning
