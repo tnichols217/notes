@@ -26,4 +26,10 @@
 24. With your group write a statement to explain the origin of the chromosomes found in the zygote. Your statement must include the term homologous pair.
 25. At which stage of meiosis are the chromosomes in Model 4?
 26. When the chromosomes come together as homologous pairs, the arms of the sister chromatids may cross over.
-	1. 
+	1. What are these crossover points called?
+	2. Describe what happens to the chromatids during crossover
+27. What phrase is used to describe the chromatids after crossing over takes place and the homologous chromosomes separate?
+28. Compare the recombinant chromatids with the original pair
+	1. Are the genes on a recombinant chromatid the same as the original chromatid?
+	2. Are the alleles on a recombinant chromatid the same as the original chromatid?
+29. 
