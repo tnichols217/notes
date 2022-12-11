@@ -14,3 +14,9 @@
 	2. Plants construct channels between cells called plasmodesmata that allow ligands to move directly from one cell to another throughout the plant structure.
 	3. Morphogens are produced in embryos from a central source early in development. They diffuse throughout the tissue creating a concentration gradient that provides a spatial reference for developing cells. Cells far from the morphogen production will develop into one type of tissue while cells close to the source will develop into a different type of tissue. This allows for differentiation of cell structure early in embryotic development.
 	4. Cells in the human pancreas release insulin when blood sugar levels are elevated. The insulin signals cells in the liver to begin absorbing glucose and convert it to glycogen for storage.
+9. Consider each of the following cellular communication examples. Divide the work among group members. Have each group member determine which type of signaling is being used in their scenario (autocrine, juxtacrine, paracrine or endocrine), and then present their reasoning to the group.
+	1. Pheromones released by a female gamete cell (egg) provide a pathway for the male gamete cell (sperm) to travel, increasing the possibility of fertilization.
+	2. Some cancer cells release their own growth hormone rather than relying on growth hormones from the host organism or from other cells. This presents challenges to cancer researchers looking for ways to slow the growth of cancer cells.
+	3. Neurotransmitters are ligands that are released from the axon of one nerve cell to the dendrite of another nerve cell. This helps to propagate the signal across several cells.
+	4. Cells in the pituitary gland produce thyroid stimulating hormone (TSH), which is received by cells in the thyroid. The arrival of TSH in the thyroid triggers production of several hormones, which then travel throughout the body to regulate metabolism.
+10. 
