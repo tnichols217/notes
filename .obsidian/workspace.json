@@ -58,20 +58,45 @@
         ]
       },
       {
-        "id": "0f8acec6cd71ebb6",
-        "type": "tabs",
+        "id": "422edef1318de676",
+        "type": "split",
         "children": [
           {
-            "id": "0ad4985ef392e273",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf"
+            "id": "0f8acec6cd71ebb6",
+            "type": "tabs",
+            "dimension": 71.29629629629629,
+            "children": [
+              {
+                "id": "0ad4985ef392e273",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf"
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "cb31d71fad35c9a3",
+            "type": "tabs",
+            "dimension": 28.703703703703702,
+            "children": [
+              {
+                "id": "7c283a970b5c5077",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -137,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
+                "file": "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Notes/POGIL/1 - Cellular Communication.md"
+                "file": "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf"
               }
             }
           },
@@ -171,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "floating": {
     "id": "a106c0e5fa5a6ea3",
@@ -210,10 +236,10 @@
       }
     ]
   },
-  "active": "0d9880e7c76f362e",
+  "active": "7c283a970b5c5077",
   "lastOpenFiles": [
-    "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf",
     "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
+    "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf",
     "APBiology/4/Notes/POGIL/4 - Meiosis.md",
     "APBiology/4/Notes/POGIL/3 - Cell Cycle.md",
     "APBiology/4/Notes/POGIL/2 - Signal Transduction Pathway.md",
