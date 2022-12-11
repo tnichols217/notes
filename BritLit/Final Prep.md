@@ -64,6 +64,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > "To be gone from this bench and stand by you there,
 > If I without discourtesy might quit this board,
 > And if my liege lady misliked it not,
-> I would come to y"
+> I would come to your counsel before your court noble.
+> For I find"
 
 ## MLA citations
