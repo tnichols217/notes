@@ -38,3 +38,4 @@
 
 ## MLA citations
 
+_Beowulf: A New Verse Translation_. Translated by Seamus Heaney. Norton, 2000
