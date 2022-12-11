@@ -55,7 +55,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > 
 > ---
 > 
-> ""But y
+> ""But you know my history, my lord kind," said the warrior Beowui
 
 
 
