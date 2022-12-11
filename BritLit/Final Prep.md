@@ -74,6 +74,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > I am the weakest, well I know, and of wit feeblest;
 > And the loss of my life would be least of any;
 > That I have you for uncle is my only praise;
-> My body, b"
+> My body, but for your blood, is barren of worth;
+> An"
 
 ## MLA citations
