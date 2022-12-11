@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Ch8/Photosynthesis.md",
+                "file": "APBiology/3/Notes/Unit 3 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Ch8/Photosynthesis.md"
+                "file": "APBiology/3/Notes/Unit 3 BILL.md"
               }
             }
           },
@@ -135,15 +134,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "383b317a76e38204",
+  "active": "ac647a6c633c1adf",
   "lastOpenFiles": [
+    "Biology/Ch8/Photosynthesis.md",
     "APBiology/3/Notes/Unit 3 BILL.md",
     "APBiology/3/Notes/POGILs/Photosynthesis.md",
     "APBiology/2/Notes/Unit 2 BILL.md",
     "APBiology/1/Notes/5 - Macromolecules.md",
     "APBiology/1/Notes/3 - Properties of Water.md",
     "APBiology/1/Notes/1 - Scientific Method.md",
-    "Biology/Ch8/Photosynthesis.md",
     "BritLit/Quotes.md",
     "BritLit/Final Prep.md",
     "APBiology/4/Carbon.md"
