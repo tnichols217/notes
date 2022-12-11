@@ -44,9 +44,9 @@
 12. What is the cell’s response to the signal received in Model 2?
 	- Transcribing a part of the DNA
 13. In Model 2, steps 3, 4, and 5 are shown as amplification steps. Describe what that means in terms of this signal transduction pathway example.
-	- One signal would produce multiple signals
+	- One signal would produce multiple signals, meaning it would increase the effect of a single signal
 14. What advantage would there be to an organism if the signal transduction pathway had several amplification steps?
-15. Describe what would occur in the cell if the activated protein kinase enzymes continued to be active for a long period of time.
+	- 
 16. What would need to occur in the cell to deactivate the protein kinase enzymes?
 17. Protein phosphatases are enzymes that remove phosphate groups from proteins. Complete the illustration in Model 2 by adding at least two protein phosphatases (PP) to show how the cell is returned to inactive status.
 18. Although signal transduction pathways vary among species, there are several common elements. Explain how a biologist might use details about signal transduction pathways used in different species as evidence for evolutionary relatedness.
