@@ -71,6 +71,8 @@ Answers considered high quality (and therefore are more likely to receive high m
 > While so bold men about upon benches sit,
 > That no host under heaven is hardier of will,
 > Nor better brothers-in-arms where battle is joined;
-> I am the weakest, well I know, and of wit feeblest"
+> I am the weakest, well I know, and of wit feeblest;
+> And the loss of my life would be least of any;
+> That I have yu"
 
 ## MLA citations
