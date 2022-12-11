@@ -16,8 +16,9 @@
 7. In Model 1, if the length of the arrow represents time, then for those cancerous cells, what happens to the time that is necessary for the cell cycle? What implication might this have for doctors who are treating cancer patients?
 	- G1 and G2 are shortened
 8. Model 2 presents cell cycle data for a typical human cell in culture. Use the phase names in Model 2 to label the G, M, and S phases in Model 1.
-	- 
+	- Gap, Mitosis, Synthesis
 9. Looking at the third column of Model 2, compare the time spent in mitosis with the time spent in G1 in human cells and describe any difference.
+	- 
 10. Imagine 100 cells were chosen randomly from a tissue sample and examined under a microscope. In which phase of the cell cycle would you expect to find the largest number of cells? Explain.
 11. Look again at Model 2. Compare the amount of DNA at the beginning and end of synthesis. Why did the amount of DNA change?
 12. Fill in the “Key Process” column for synthesis phase in Model 2.
