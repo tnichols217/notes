@@ -1,4 +1,5 @@
 1. According to Model 1, does the signal transduction pathway occur inside or outside of a cell?
+	- 
 2. Compare the shape of the ligand in Model 1 to the shape of the receptor protein
 3. The four steps in the signal transduction pathway are listed below. Label the diagram above with the Roman numerals to indicate where on the diagram each step is taking place.
 	1. Signaling
@@ -29,4 +30,6 @@
 18. Although signal transduction pathways vary among species, there are several common elements. Explain how a biologist might use details about signal transduction pathways used in different species as evidence for evolutionary relatedness.
 19. Consider the signal transduction pathway in Model 3. What event begins the process of producing a cellular response?
 20. Locate the secondary messenger molecules in Model 3.
-	1. 
+	1. Describe the type of diffusion that is used to get the secondary messengers into the cell.
+	2. What activates or opens the transport protein channel that allows the secondary messengers to enter the cell?
+21. Within an organism it is critical that signals between cells are very specific. For example, if ligand A is meant to activate immune system cells to reproduce in response to an infection, it should not also cause other cells to grow as if they had received a growth hormone. When a ligand is released, what prevents all of the cells in the body from being affected? 
