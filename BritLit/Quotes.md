@@ -38,4 +38,4 @@
 
 ## MLA citations
 
-_Beowulf: A New Verse Translation_. Translated by Seamus Heaney. Norton, 2000
+Raven, Nicky, and John Howe. _Beowulf: A Tale of Blood, Heat, and Ashes_. Candlewick Press, 2007.
