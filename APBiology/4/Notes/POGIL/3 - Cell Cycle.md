@@ -54,8 +54,10 @@
 	- Broken DNA will be replicated and the cell will probably die
 25. How might the DNA damage go on to affect the rest of the cell cycle if apoptosis did not occur?
 	- The resulting cell would have mutations in the DNA
-26. Why might it be benefi cial to an organism for damaged cells to enter G0 instead of dividing once they exist?
+26. Why might it be beneficial to an organism for damaged cells to enter G0 instead of dividing once they exist?
+	- They won't grow and spread across the body
 27. What could happen, after several cell cycles, to an organism whose damaged cells did not go through apoptosis? In other words, what if a damaged cell that is supposed to die does not?
+	- It is a cancer cell, 
 28. For each phase, describe at least one way mistakes during the cell cycle could result in problems.
 29. Some types of cancers are treated with radiation, similar to ultraviolet light. Why might it be beneficial to irradiate cancer cells?
 30. Plasmodial slime mold is an example of a multinucleated cell. It can be referred to as “one huge cytoplasmic mass with many nuclei” as seen to the right. What part of Model 1 is skipped in the formation of such a cell? Explain your answer.
