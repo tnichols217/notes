@@ -24,7 +24,9 @@
 11. Look again at Model 2. Compare the amount of DNA at the beginning and end of synthesis. Why did the amount of DNA change?
 	- Half of it went to one cell and the other half to the other
 12. Fill in the “Key Process” column for synthesis phase in Model 2.
+	- DNA is duplicated from one chromatid to two per chromosome
 13. *Cyto = cell*, *kinesis = cutting*. What do you think takes place during cytokinesis?
+	- 
 14. Other than cytokinesis, what else occurs during the mitosis phase? Hint: Consider the sets of DNA in each cell.
 15. Look carefully at information given to you in Model 1 and Model 2. Fill in the key process column in the table for G1.
 16. If a culture in the lab starts with one human cell, how many cells will there be after 24 hours?
