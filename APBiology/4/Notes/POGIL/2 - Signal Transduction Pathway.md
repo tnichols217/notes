@@ -4,9 +4,13 @@
 	- They match perfectly so that the receptor can properly receive the ligand
 3. The four steps in the signal transduction pathway are listed below. Label the diagram above with the Roman numerals to indicate where on the diagram each step is taking place.
 	1. Signaling
+		- The Ligand outside of the cell
 	2. Reception
+		- The receptor on the membrane
 	3. Transduction
+		- The Relay proteins
 	4. Response
+		- 
 4. Based on the diagram in Model 1 and your labels, propose a definition for “transduction” in the context of the signal transduction pathway
 5. Amplification often occurs during the transduction step in the signal transduction pathway.
 	1. Define “amplification” as it is used in everyday language.
