@@ -48,7 +48,7 @@
 14. What advantage would there be to an organism if the signal transduction pathway had several amplification steps?
 	- It would be harder for a signal to accidentally go unnoticed, it is more likely to be acted upon
 15. Describe what would occur in the cell if the activated protein kinase enzymes continued to be active for a long period of time.
-	- The signals would be highly concentr
+	- The signals would be highly concentrated and would activate a lot of other functions
 16. What would need to occur in the cell to deactivate the protein kinase enzymes?
 	- Dephosphorylation or inhibitors
 17. Protein phosphatases are enzymes that remove phosphate groups from proteins. Complete the illustration in Model 2 by adding at least two protein phosphatases (PP) to show how the cell is returned to inactive status.
