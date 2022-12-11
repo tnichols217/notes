@@ -1,6 +1,7 @@
 1. According to Model 1, does the signal transduction pathway occur inside or outside of a cell?
-	- 
+	- Inside
 2. Compare the shape of the ligand in Model 1 to the shape of the receptor protein
+	- They match perfectly so that the receptor can properly receive the ligand
 3. The four steps in the signal transduction pathway are listed below. Label the diagram above with the Roman numerals to indicate where on the diagram each step is taking place.
 	1. Signaling
 	2. Reception
