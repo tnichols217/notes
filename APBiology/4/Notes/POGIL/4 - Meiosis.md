@@ -1,6 +1,7 @@
 1. According to Model 1, in what type of organs are the cells that enter meiosis I found?
-	- 
+	- Sex organs
 2. Considering what you already know about mitosis in cells, what event must take place during interphase before a cell proceeds to division?
+	- 
 3. What two structures make up a single replicated chromosome?
 4. In Model 1, how many replicated chromosomes does the cell contain during prophase?
 5. At which stage in meiosis I do the pairs of homologous chromosomes come together?
