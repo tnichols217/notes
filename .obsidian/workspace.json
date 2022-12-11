@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Ch8/Photosynthesis.md",
+                "file": "Biology/Ch8/Cellular Respiration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/3/Notes/Unit 3 BILL.md",
+                "file": "Biology/Ch8/Cellular Respiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/3/Notes/Unit 3 BILL.md"
+                "file": "Biology/Ch8/Cellular Respiration.md"
               }
             }
           },
@@ -134,7 +135,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac647a6c633c1adf",
+  "active": "383b317a76e38204",
   "lastOpenFiles": [
     "Biology/Ch8/Photosynthesis.md",
     "APBiology/3/Notes/Unit 3 BILL.md",
