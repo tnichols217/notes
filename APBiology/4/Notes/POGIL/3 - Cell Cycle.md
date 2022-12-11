@@ -59,7 +59,9 @@
 27. What could happen, after several cell cycles, to an organism whose damaged cells did not go through apoptosis? In other words, what if a damaged cell that is supposed to die does not?
 	- It is a cancer cell, it keeps growing and forms a tumor
 28. For each phase, describe at least one way mistakes during the cell cycle could result in problems.
-	- G1: 
+	- G1: mutated proteins are manufactured and synthesis cannot occur
+	- S: DNA is copied incorrectly and the resulting cell has incorrect DNA
+	- G
 29. Some types of cancers are treated with radiation, similar to ultraviolet light. Why might it be beneficial to irradiate cancer cells?
 30. Plasmodial slime mold is an example of a multinucleated cell. It can be referred to as “one huge cytoplasmic mass with many nuclei” as seen to the right. What part of Model 1 is skipped in the formation of such a cell? Explain your answer.
 31. Chemotherapy utilizes chemicals that disrupt various parts of the cell cycle, targeting rapidly growing cells. Paclitaxel (Taxol®) is one such drug that prevents the mitosis phase from taking place.
