@@ -36,8 +36,9 @@
 	- Protein kinases
 11. Identify the steps in Model 2 that represent reception, transduction, and response for the phosphorylation pathway
 	1. Reception
-		- 
+		- 1
 	2. Transduction
+		1. 
 	3. Response
 12. What is the cell’s response to the signal received in Model 2?
 13. In Model 2, steps 3, 4, and 5 are shown as amplification steps. Describe what that means in terms of this signal transduction pathway example.
