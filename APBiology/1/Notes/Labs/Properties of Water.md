@@ -12,5 +12,8 @@ DF: 9
 
 ## Lab
 ### Data
-| Trial | Drops of Distilled Water | Drops of Dist
-| ----- | ------------------------ |
+| Trial | Drops of Distilled Water | Drops of Distilled Water + Soap |
+| ----- | ------------------------ | ------------------------------- |
+| 1     |                          |                                 |
+| 2
+3|                          |                                 |
