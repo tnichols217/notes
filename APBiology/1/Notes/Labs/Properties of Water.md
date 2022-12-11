@@ -5,7 +5,7 @@
 ### Data
 96, 96, 93, 90, 88, 86, 86, 84, 80, 70
 
-### Anal
+### Analysis
 | Calculation | Value            |
 | ----------- | ---------------- |
 | Mean        | 86.9             |
@@ -35,4 +35,5 @@
 | SE          | 0.66                     | 0.32                            |
 | +/- SEM     | 21.9 - 24.5              | 9.4 - 10.6                      |
 
+### Conclusion
 This shows that adding soap to distilled water does ruin the hydrogen bonding because the 95% confidence intervals do not overlap, meaning we can be 95% confident that soap does decrease the effectivity of water to water bonding (hydrogen bonding)
