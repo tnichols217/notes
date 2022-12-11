@@ -42,8 +42,9 @@
 	3. Response
 		- 7
 12. What is the cell’s response to the signal received in Model 2?
-	- Transcribing
+	- Transcribing a part of the DNA
 13. In Model 2, steps 3, 4, and 5 are shown as amplification steps. Describe what that means in terms of this signal transduction pathway example.
+	- One signal would produce multiple signals
 14. What advantage would there be to an organism if the signal transduction pathway had several amplification steps?
 15. Describe what would occur in the cell if the activated protein kinase enzymes continued to be active for a long period of time.
 16. What would need to occur in the cell to deactivate the protein kinase enzymes?
