@@ -69,5 +69,6 @@
 	- Cytokinesis, the cell never splits and just keeps growing
 31. Chemotherapy utilizes chemicals that disrupt various parts of the cell cycle, targeting rapidly growing cells. Paclitaxel (Taxol®) is one such drug that prevents the mitosis phase from taking place.
 	1. Explain how this drug is useful as a cancer treatment.
-		- The cancer cells will be unable to split and
+		- The cancer cells will be unable to split and form more cancer cells
 	2. How might targeting rapidly growing cells explain common chemotherapy side effects such as hair loss and nausea?
+		- 
