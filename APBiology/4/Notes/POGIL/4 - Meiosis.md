@@ -27,6 +27,7 @@
 14. At the end of the meiosis II are four daughter cells. Are they haploid or diploid? Explain your answer in a complete sentence.
 	- Haploid they only have 23 chromosomes
 15. Which of the statements below correctly describes the relationship between the cells at the end of meiosis II and the original cell?
+	- The new cells have one copy of half of the genetic information in the original cell.
 16. According to Model 3, what is the name given to the cells produced at the end of meiosis I in males?
 17. What is the name given to the cells produced at the end of meiosis I in females?
 18. Refer to Model 3.
