@@ -39,5 +39,4 @@ Answers considered high quality (and therefore are more likely to receive high m
 	- Fame
 	- Legend
 
-### 3
-
+![[Quotes]]

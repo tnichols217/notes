@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BritLit/Quotes.md",
+                "file": "BritLit/Final Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BritLit/Quotes.md"
+                "file": "BritLit/Final Prep.md"
               }
             }
           },
@@ -147,10 +147,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9848cd90673520f",
+  "active": "f09f38ac2ca7ff4f",
   "lastOpenFiles": [
-    "BritLit/Final Prep.md",
     "BritLit/Quotes.md",
+    "BritLit/Final Prep.md",
     "Biology/Ch8/Photosynthesis.md",
     "APBiology/4/Carbon.md",
     "APBiology/1/Notes/Labs/Properties of Water.md",
