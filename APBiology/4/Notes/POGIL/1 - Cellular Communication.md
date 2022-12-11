@@ -1,1 +1,1 @@
-1. 
+1. ![[Pasted image 20221211151226.png]] Signallinh
