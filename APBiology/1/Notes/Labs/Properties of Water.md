@@ -21,5 +21,5 @@ DF: 9
 | 5     | 23                       | 10                              |
 | Avg   | 23                       | 10                                |
 
-| Calculation | Drops of Distilled Water |     |
+| Calculation | Drops of Distilled Water | Drops of Distilled     |
 | ----------- | ------------------------ | --- |
