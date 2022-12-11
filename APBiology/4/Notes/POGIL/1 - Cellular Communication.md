@@ -10,7 +10,7 @@
 4. Which of the cellular communication methods in Model 1 appear to be for signaling between cells in different parts of an organism (long-distance communication)?
 	- D, it goes down the bloodstream
 5. In which of the cellular communication methods would a ligand (signaling molecule) need to have the longest “life”? Explain your reasoning
-	- 
+	- D, it needs to travel all the way down the bloodstream
 6. Use the four terms below to label the diagrams in Model 1. Word-part definitions are given to help you determine the meanings of each term.
 	1. Autocrine (auto = self)
 	2. Paracrine (para = nearby)
