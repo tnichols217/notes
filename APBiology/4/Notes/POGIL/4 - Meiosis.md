@@ -21,9 +21,9 @@
 11. According to Model 2, where did each of the cells come from that started meiosis II?
 	- Meiosis I
 12. In meiosis I, during anaphase I, which structures separated—homologous chromosomes or sister chromatids?
-	- The spindle fibers
+	- The spindle fibers separate homologous chromosomes
 13. In meiosis II, during anaphase II, which structures separated—homologous chromosomes or sister chromatids?
-	- 
+	- The spindle fibers separate the matchi
 14. At the end of the meiosis II are four daughter cells. Are they haploid or diploid? Explain your answer in a complete sentence.
 15. Which of the statements below correctly describes the relationship between the cells at the end of meiosis II and the original cell?
 16. According to Model 3, what is the name given to the cells produced at the end of meiosis I in males?
