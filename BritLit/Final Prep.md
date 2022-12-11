@@ -48,7 +48,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > 
 > ---
 > 
-> "As it fell"
+> "As it fell, its mouth opened, and Beowulf spilled out, his"
 
 
 ## MLA citations
