@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9848cd90673520f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BritLit/Quotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BritLit/Final Prep.md",
+                "file": "BritLit/Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BritLit/Final Prep.md"
+                "file": "BritLit/Quotes.md"
               }
             }
           },
@@ -135,8 +147,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f09f38ac2ca7ff4f",
+  "active": "f9848cd90673520f",
   "lastOpenFiles": [
+    "BritLit/Final Prep.md",
     "Biology/Ch8/Photosynthesis.md",
     "APBiology/4/Carbon.md",
     "APBiology/1/Notes/Labs/Properties of Water.md",
@@ -145,7 +158,6 @@
     "APBiology/4/Unit 4 BILL.md",
     "APBiology/4/Notes/Activities/1 - Signal Transduction Pathway Modeling.md",
     "APBiology/4/Notes/Case Study/1 - Eukaryotic Cell Cycle and Cancer.md",
-    "APBiology/4/Documents/Case Study/Case Study 1_Eukaryotic Cell Cycle and Cancer HHMI.pdf",
-    "APBiology/4/Documents/Investigation/Investigation 1_ Taste and Signal Transduction.pdf"
+    "APBiology/4/Documents/Case Study/Case Study 1_Eukaryotic Cell Cycle and Cancer HHMI.pdf"
   ]
 }
