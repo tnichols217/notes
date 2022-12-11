@@ -6,7 +6,7 @@
 2. Describe how the shape of the ligand (signaling molecule) and the shape of the receptor are related.
 	- The ligand fits perfectly into the active site of the receptor, binding together. They have inversely matching shapes
 3. Which of the cellular communication methods in Model 1 appear to be for signaling between cells that are in close proximity?
-	- 
+	- B or C, C is close proximity while B is touching
 4. Which of the cellular communication methods in Model 1 appear to be for signaling between cells in different parts of an organism (long-distance communication)?
 5. In which of the cellular communication methods would a ligand (signaling molecule) need to have the longest “life”? Explain your reasoning
 6. Use the four terms below to label the diagrams in Model 1. Word-part definitions are given to help you determine the meanings of each term.
