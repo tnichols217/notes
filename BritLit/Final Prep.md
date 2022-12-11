@@ -61,6 +61,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 ### 2 - Sir Gawain and the Green Knight
 > [!quote] 
 > ""Would you grant me the grace," said Gawain to the king,
-> "To be"
+> "To be gone from this bench and stand by you there,
+> If I withou"
 
 ## MLA citations
