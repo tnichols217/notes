@@ -38,6 +38,7 @@
 
 ## MLA citations
 
-Borrof, Marie. _Sir Gawain and the Green Knight_. Norton, 1967.
-
-Raven, Nicky, and John Howe. _Beowulf: A Tale of Blood, Heat, and Ashes_. Candlewick Press, 2007.
+> [!para]
+> ###### Borrof, Marie. _Sir Gawain and the Green Knight_. Norton, 1967.
+> 
+> ###### Raven, Nicky, and John Howe. _Beowulf: A Tale of Blood, Heat, and Ashes_. Candlewick Press, 2007.
