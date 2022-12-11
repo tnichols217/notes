@@ -79,48 +79,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "422edef1318de676",
-        "type": "split",
+        "id": "0f8acec6cd71ebb6",
+        "type": "tabs",
         "children": [
           {
-            "id": "0f8acec6cd71ebb6",
-            "type": "tabs",
-            "dimension": 29.259259259259256,
-            "children": [
-              {
-                "id": "0ad4985ef392e273",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf"
-                  }
-                }
+            "id": "0ad4985ef392e273",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf"
               }
-            ]
-          },
-          {
-            "id": "cb31d71fad35c9a3",
-            "type": "tabs",
-            "dimension": 70.74074074074073,
-            "children": [
-              {
-                "id": "7c283a970b5c5077",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf"
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
+                "file": "APBiology/4/Unit 4 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Notes/POGIL/1 - Cellular Communication.md"
+                "file": "APBiology/4/Unit 4 BILL.md"
               }
             }
           },
@@ -260,10 +236,10 @@
       }
     ]
   },
-  "active": "0d9880e7c76f362e",
+  "active": "aeee549add140ea5",
   "lastOpenFiles": [
-    "APBiology/4/Unit 4 BILL.md",
     "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
+    "APBiology/4/Unit 4 BILL.md",
     "APBiology/4/Notes/BR/3 - Practice FRQ - Cell Signaling.md",
     "APBiology/4/Notes/BR/1 - This too shall pass - Rube Goldburg Machine.md",
     "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf",
