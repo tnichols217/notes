@@ -56,6 +56,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "0f8acec6cd71ebb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ad4985ef392e273",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,15 +212,15 @@
   },
   "active": "0d9880e7c76f362e",
   "lastOpenFiles": [
+    "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf",
+    "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
     "APBiology/4/Notes/POGIL/4 - Meiosis.md",
     "APBiology/4/Notes/POGIL/3 - Cell Cycle.md",
     "APBiology/4/Notes/POGIL/2 - Signal Transduction Pathway.md",
-    "APBiology/4/Notes/POGIL/1 - Cellular Communication.md",
     "APBiology/4/Notes/BR/6 - Stages of Mitosis.md",
     "APBiology/4/Unit 4 BILL.md",
     "APBiology/4/Notes/BR/5 - Feedback Loops.md",
     "APBiology/4/Notes/BR/4 - Quorum Sensing.md",
-    "APBiology/4/Notes/BR/3 - Practice FRQ - Cell Signaling.md",
-    "APBiology/4/Notes/BR/2 - Signal Transduction Pathway Diagram.md"
+    "APBiology/4/Notes/BR/3 - Practice FRQ - Cell Signaling.md"
   ]
 }
