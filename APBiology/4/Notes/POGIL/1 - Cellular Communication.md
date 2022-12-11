@@ -51,5 +51,6 @@
 12. The examples of cellular communication used in this activity vary from bacteria to plants to vertebrates. However, the mechanisms of cellular communication are similar among varied species. Explain how scientists might use cellular communication systems to show evolutionary relatedness between species.
 	- Show that the signals and receptors used are similar, this shows that they are highly likely to come from the same evolutionary process.
 13. Some hormones such as estrogen and testosterone are lipids and are therefore nonpolar. Explain why a receptor protein would not be needed for this type of ligand to activate a response in a cell.
-	- 
+	- They can already diffuse through the phospholipid bilayer into the cell without the help of a receptor or channel.
 14. Suggest some stimuli that might cause a cell to release a ligand and begin communication between cells.
+	- 
