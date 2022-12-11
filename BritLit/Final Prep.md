@@ -66,6 +66,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > And if my liege lady misliked it not,
 > I would come to your counsel before your court noble.
 > For I find it not fit, as in faith it is known,
-> When such a boon is "
+> When such a boon is begged before all these knights,
+> Though you be tempted thereto"
 
 ## MLA citations
