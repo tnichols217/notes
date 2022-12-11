@@ -25,16 +25,15 @@ Answers considered high quality (and therefore are more likely to receive high m
 # Work
 ## Outlines
 ### 1
-- Intro
-- Body
+- Themes
 	- Mead halls
 	- Loyalty & Comitatus
 	- Wyrd
 	- Fairness & Wergild
 	- Alliances with neighboring tribes
-- Conclusion
 
 ### 2
+- The
 
 ### 3
 
