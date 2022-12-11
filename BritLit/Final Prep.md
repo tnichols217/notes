@@ -69,6 +69,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > When such a boon is begged before all these knights,
 > Though you be tempted thereto, to take it on yourself
 > While so bold men about upon benches sit,
-> That no host under heaven is hardier of will"
+> That no host under heaven is hardier of will,
+> Nor better brothers-in-arms where bat"
 
 ## MLA citations
