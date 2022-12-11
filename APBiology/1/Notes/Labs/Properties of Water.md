@@ -7,3 +7,4 @@ Mean: 86.9
 SD (population): 7.46257328272225
 SD (sample): 7.86624292644066
 DF: 9
+
