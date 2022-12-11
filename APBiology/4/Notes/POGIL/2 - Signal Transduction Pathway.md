@@ -29,9 +29,11 @@
 	- Reception of the ligand
 9. **Phosphorylation** is a process that adds a phosphate group onto a protein to “activate” it—that is, to change its shape enough that it can function properly.
 	1. Which step(s) in the phosphorylation cascade illustrated in Model 2 include phosphorylation?
-		- 
+		- 4 and 5
 	2. Where do the phosphate groups come from that are added to the proteins during phosphorylation?
+		- From the ATP becoming ADP
 10. According to Model 2, what class of enzymes performs phosphorylation?
+	1. 
 11. Identify the steps in Model 2 that represent reception, transduction, and response for the phosphorylation pathway
 	1. Reception
 	2. Transduction
