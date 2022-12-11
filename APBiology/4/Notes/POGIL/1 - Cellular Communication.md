@@ -25,9 +25,10 @@
 8. Consider each of the following cellular communication examples. Divide the work among group members. Have each group member determine which type of signaling is being used in their scenario (autocrine, juxtacrine, paracrine or endocrine), and then present their reasoning to the group
 	1. **Quorum sensing** is used by bacteria to determine the population density of their species in a local area. (Many bacterial functions would be ineffective in small numbers—infecting a host organism with a toxin, for example—and would therefore be a waste of energy and resources to the bacteria.) Each bacterium produces a ligand. Once the concentration of that ligand reaches a critical concentration, thus indicating a sufficient population density for the response to be effective, all bacteria will respond simultaneously
 		1. ![[Pasted image 20221211152026.png]]
-		- 
+		- Autocrine and paracrine, as it receives its own signals as well as the ones nearby
 	2. Plants construct channels between cells called **plasmodesmata** that allow ligands to move directly from one cell to another throughout the plant structure.
 		1. ![[Pasted image 20221211152033.png]]
+		- Paracrine, its
 	3. **Morphogens** are produced in embryos from a central source early in development. They diffuse throughout the tissue creating a concentration gradient that provides a spatial reference for developing cells. Cells far from the morphogen production will develop into one type of tissue while cells close to the source will develop into a different type of tissue. This allows for differentiation of cell structure early in embryotic development.
 		1. ![[Pasted image 20221211152041.png]]
 	4. Cells in the human pancreas release insulin when blood sugar levels are elevated. The insulin signals cells in the liver to begin absorbing glucose and convert it to glycogen for storage.
