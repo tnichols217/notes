@@ -8,18 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ad4985ef392e273",
+            "id": "aba899196b137dd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/4/Notes/Activities/2 - Feedback Loop Examples.md",
+                "file": "APBiology/4/Carbon.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "724d7181acb69853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab48fa349eea8da5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "APBiology/1/Documents/Labs/Investigation_ Properties of Water with Statistics.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/4/Unit 4 BILL.md",
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/4/Unit 4 BILL.md"
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md"
               }
             }
           },
@@ -122,54 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "a106c0e5fa5a6ea3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5a96d4b8915fbbc7",
-        "type": "window",
-        "children": [
-          {
-            "id": "06b632f3d2b1e956",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aba899196b137dd3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "APBiology/4/Unit 4 BILL.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "aba899196b137dd3",
+  "active": "724d7181acb69853",
   "lastOpenFiles": [
-    "APBiology/4/Notes/Activities/2 - Feedback Loop Examples.md",
-    "APBiology/4/Documents/POGIL/4 Meiosis.pdf",
+    "APBiology/1/Documents/Labs/Investigation_ Properties of Water with Statistics.pdf",
+    "APBiology/1/Notes/Labs/Properties of Water.md",
+    "APBiology/1/Documents/Labs/3 - Properties of Water.pdf",
+    "APBiology/4/Carbon.md",
     "APBiology/4/Unit 4 BILL.md",
-    "APBiology/4/Notes/Activities/Signal Transduction Pathwaty Modeling Task Sheet.md",
-    "APBiology/4/Notes/POGIL/4 - Meiosis.md",
-    "APBiology/4/Documents/POGIL/3 The Cell Cycle.pdf",
-    "APBiology/4/Notes/POGIL/3 - Cell Cycle.md",
-    "APBiology/4/Documents/POGIL/2 Signal Transduction Pathways.pdf",
-    "APBiology/4/Notes/POGIL/2 - Signal Transduction Pathway.md",
-    "APBiology/4/Documents/POGIL/1 Cellular Communication.pdf"
+    "APBiology/4/Notes/Activities/1 - Signal Transduction Pathway Modeling.md",
+    "APBiology/4/Notes/Case Study/1 - Eukaryotic Cell Cycle and Cancer.md",
+    "APBiology/4/Documents/Case Study/Case Study 1_Eukaryotic Cell Cycle and Cancer HHMI.pdf",
+    "APBiology/4/Documents/Investigation/Investigation 1_ Taste and Signal Transduction.pdf",
+    "APBiology/4/Documents/Case Study/Case Study 2_The Immortal Life of Henrietta Lacks.md"
   ]
 }
