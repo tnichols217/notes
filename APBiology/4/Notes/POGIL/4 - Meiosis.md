@@ -17,9 +17,11 @@
 9. Which of the statements below correctly describes the relationship between the cells at the end of telophase I and the original cell?
 	- They have half the chromosomes
 10. Considering the genetic makeup of the homologous pairs, will the cells at the end of telophase I be genetically identical to each other?
-	- No, since crossing over happens th
+	- No, since crossing over happens they will be different
 11. According to Model 2, where did each of the cells come from that started meiosis II?
+	- Meiosis I
 12. In meiosis I, during anaphase I, which structures separated—homologous chromosomes or sister chromatids?
+	- The spindle fibers
 13. In meiosis II, during anaphase II, which structures separated—homologous chromosomes or sister chromatids?
 14. At the end of the meiosis II are four daughter cells. Are they haploid or diploid? Explain your answer in a complete sentence.
 15. Which of the statements below correctly describes the relationship between the cells at the end of meiosis II and the original cell?
