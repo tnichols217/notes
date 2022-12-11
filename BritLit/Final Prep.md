@@ -70,6 +70,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > Though you be tempted thereto, to take it on yourself
 > While so bold men about upon benches sit,
 > That no host under heaven is hardier of will,
-> Nor better brothers-in-arms where bat"
+> Nor better brothers-in-arms where battle is joined;
+> I am the weakest, well I know, and of wit feeblest"
 
 ## MLA citations
