@@ -29,3 +29,5 @@ DF: 9
 | +/- 2SD     | 20.2 - 26.2              | 8.6 - 11.4                      |
 | SE          | 0.66                     | 0.32                            |
 | +/- SEM     | 21.9 - 24.5              | 9.4 - 10.6                      |
+
+This shows that distilled water 
