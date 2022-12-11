@@ -43,6 +43,7 @@
 		1. ![[Pasted image 20221211152055.png]]
 		- Juxtacrine, they may be touching or paracrine because they are nearby
 	4. Cells in the pituitary gland produce thyroid stimulating hormone (TSH), which is received by cells in the thyroid. The arrival of TSH in the thyroid triggers production of several hormones, which then travel throughout the body to regulate metabolism.
+		- 
 10. If a medical researcher wanted to prevent communication between cells in order to cure a disease or prevent a malady, how might they achieve that? Propose two or more general methods that could be used to stop a signal transmission from cell to cell.
 11. If a medical researcher wanted to enhance communication between cells in order to cure a disease or prevent a malady, how might they achieve that? Propose two or more general methods that could be used to enhance signal transmission from cell to cell.
 12. The examples of cellular communication used in this activity vary from bacteria to plants to vertebrates. However, the mechanisms of cellular communication are similar among varied species. Explain how scientists might use cellular communication systems to show evolutionary relatedness between species.
