@@ -30,4 +30,4 @@ DF: 9
 | SE          | 0.66                     | 0.32                            |
 | +/- SEM     | 21.9 - 24.5              | 9.4 - 10.6                      |
 
-This shows that adding soap to distilled water 
+This shows that adding soap to distilled water does ruin the hydrogen bonding because the two 
