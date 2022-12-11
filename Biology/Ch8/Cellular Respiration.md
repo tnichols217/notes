@@ -174,7 +174,7 @@ The Hydrogen and electrons from the Hydrogen carriers (NADH + FASH) are released
 |-			|-						|-				|-|
 |-			|-						|NADH			|FADH|
 |Glycolysis	|2 ATP					|2 NADH			|0 FADH|
-|Krebs Cycle|2 ATP					|8 NADH			|2 FADH|
+|Krebs Cycle|2 ATP					|6 NADH			|2 FADH|
 |Electron Transport Chain|-			|x3				|x2|
 |Total ATP produced|4ATP			|30 ATP			|4 ATP|
 |Grand Total||										|38 ATP|
