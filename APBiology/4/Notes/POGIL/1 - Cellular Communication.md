@@ -13,6 +13,7 @@
 	- D, it needs to travel all the way down the bloodstream
 6. Use the four terms below to label the diagrams in Model 1. Word-part definitions are given to help you determine the meanings of each term.
 	1. Autocrine (auto = self)
+		- 
 	2. Paracrine (para = nearby)
 	3. Juxtacrine (juxta = beside, next to, touching)
 	4. Endocrine (endo = within)
