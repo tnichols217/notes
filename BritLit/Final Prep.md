@@ -67,6 +67,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > I would come to your counsel before your court noble.
 > For I find it not fit, as in faith it is known,
 > When such a boon is begged before all these knights,
-> Though you be tempted thereto"
+> Though you be tempted thereto, to take it on yourself
+> While so bold men about upon "
 
 ## MLA citations
