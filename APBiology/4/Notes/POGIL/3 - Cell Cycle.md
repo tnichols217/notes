@@ -45,7 +45,9 @@
 	- The middle of G1
 22. Consider a cell in G0. Use the information in both Models 1 and 2 to answer the following questions.
 	1. In order for this cell to divide normally, what would need to occur?
+		- Exit G0 and start growing
 	2. What if the phase(s) you identified in part a of this question did not occur? What would be the outcome for the cell in that case?
+		- 
 23. According to Model 3, ultraviolet light is affecting a cell in which phase of the cell cycle?
 24. Ultraviolet light may cause DNA damage, which is known as a mutation. How might such damage affect events taking place during the synthesis phase? Hint: Use information from Model 2.
 25. How might the DNA damage go on to affect the rest of the cell cycle if apoptosis did not occur?
