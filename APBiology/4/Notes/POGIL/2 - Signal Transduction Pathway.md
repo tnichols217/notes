@@ -7,4 +7,9 @@
 	4. Response
 4. Based on the diagram in Model 1 and your labels, propose a definition for “transduction” in the context of the signal transduction pathway
 5. Amplification often occurs during the transduction step in the signal transduction pathway.
-6. 
+	1. Define “amplification” as it is used in everyday language.
+	2. Explain how the signal in Model 1 was amplified.
+6. List several possible responses that could occur due to a signal being received by a cell. (Hint: There are several listed in the Why? box.)
+7. Once the response is achieved in a cell, what would need to occur to stop the response?
+8. Refer to Model 2. Describe the event that sets off a phosphorylation cascade inside of a cell.
+9. 
