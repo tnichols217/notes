@@ -2,9 +2,10 @@
 - 68.2%, because 34.1% is only one side of the bell curve
 
 ## Practice
-
+### Data
 96, 96, 93, 90, 88, 86, 86, 84, 80, 70
 
+### Anal
 | Calculation | Value            |
 | ----------- | ---------------- |
 | Mean        | 86.9             |
@@ -24,6 +25,7 @@
 | 5     | 23                       | 10                              |
 | Avg   | 23                       | 10                                |
 
+### Analysis
 | Calculation | Drops of Distilled Water | Drops of Distilled Water + Soap |
 | ----------- | ------------------------ | ------------------------------- |
 | Mean        | 23.2                     | 10                              |
