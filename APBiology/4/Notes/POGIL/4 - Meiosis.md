@@ -13,7 +13,7 @@
 7. At the end of meiosis I, two cells have been produced. How many replicated chromosomes are in each of these cells?
 	- 23 chromosomes
 8. Cells with a full set of chromosomes are referred to as diploid or 2n, whereas cells with half the chromosomes are haploid or n. At which stage(s) of meiosis I are the cells diploid and at which stage(s) are they haploid?
-	- 
+	- Diploid: 
 9. Which of the statements below correctly describes the relationship between the cells at the end of telophase I and the original cell?
 10. Considering the genetic makeup of the homologous pairs, will the cells at the end of telophase I be genetically identical to each other?
 11. According to Model 2, where did each of the cells come from that started meiosis II?
