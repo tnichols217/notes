@@ -11,13 +11,6 @@
 | DF          | 9                |
 | 2SD range   | 71.9748534345555 - 101.825146565445                 |
 
-Mean: 86.9
-SD (population): 7.46257328272225
-SD (sample): 7.86624292644066
-DF: 9
-
-2SD range: 71.9748534345555 - 101.825146565445
-
 ## Lab
 ### Data
 | Trial | Drops of Distilled Water | Drops of Distilled Water + Soap |
