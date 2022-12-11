@@ -33,7 +33,8 @@ Answers considered high quality (and therefore are more likely to receive high m
 	- Alliances with neighboring tribes
 
 ### 2
-- The
+- Themes
+	- Chivalr
 
 ### 3
 
