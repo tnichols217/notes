@@ -70,4 +70,4 @@
 31. With your group, calculate the number of possible genetic combinations due to independent assortment.
 	- 2^22
 32. Meiosis and sexual reproduction each lead to variation in the genetic make-up of every person. With your group, explain how meiotic events, as well as the random fertilization of eggs and sperm, together lead to this genetic variation.
-	- 
+	- Crossing over, random assortment, random fertilization
