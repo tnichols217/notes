@@ -41,8 +41,8 @@
 	- Human spinal cord, it doesn't get regenerated when it is damaged
 20. Occasionally cells stop dividing and enter another phase, G0 . If you damage your liver, new liver cells can be produced to replace up to 75% of the liver. However, if you sustain brain damage, your body does not produce new brain cells. Explain this observation using what you have learned about the cell cycle.
 	- Those cells never leave G0 and don't reproduce
-21. Keeping in mind the events of each part of the cell cycle, mark with a double arrow on Model 1 where those cells might (either temporarily or permanently) exit the cell cycle to G0 . Label this as G0 . Why did you choose this location for G0 ? Hint: Think of a place in the cell cycle where the cell is functioning normally, but not preparing to divide.
-	- 
+21. Keeping in mind the events of each part of the cell cycle, mark with a double arrow on Model 1 where those cells might (either temporarily or permanently) exit the cell cycle to G0. Label this as G0. Why did you choose this location for G0? Hint: Think of a place in the cell cycle where the cell is functioning normally, but not preparing to divide.
+	- The middle of G1
 22. Consider a cell in G0. Use the information in both Models 1 and 2 to answer the following questions.
 	1. In order for this cell to divide normally, what would need to occur?
 	2. What if the phase(s) you identified in part a of this question did not occur? What would be the outcome for the cell in that case?
