@@ -69,6 +69,5 @@
 	- 4
 31. With your group, calculate the number of possible genetic combinations due to independent assortment.
 	- 2^22
-32. As a group, choose one set of daughter cells in late telophase I from Model 5. Imagine that those cells now undergo meiosis II. Draw at least four resulting haploid cells that could result.
+32. Meiosis and sexual reproduction each lead to variation in the genetic make-up of every person. With your group, explain how meiotic events, as well as the random fertilization of eggs and sperm, together lead to this genetic variation.
 	- 
-33. Meiosis and sexual reproduction each lead to variation in the genetic make-up of every person. With your group, explain how meiotic events, as well as the random fertilization of eggs and sperm, together lead to this genetic variation.
