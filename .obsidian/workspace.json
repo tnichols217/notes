@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "724d7181acb69853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/1/Notes/Labs/Properties of Water.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ac647a6c633c1adf",
             "type": "leaf",
             "state": {
@@ -40,16 +28,6 @@
                 "file": "Biology/Ch8/Photosynthesis.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ab48fa349eea8da5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APBiology/1/Documents/Labs/Investigation_ Properties of Water with Statistics.pdf"
               }
             }
           }
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/1/Notes/Labs/Properties of Water.md",
+                "file": "Biology/Ch8/Photosynthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/1/Notes/Labs/Properties of Water.md"
+                "file": "Biology/Ch8/Photosynthesis.md"
               }
             }
           },
@@ -157,7 +135,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "724d7181acb69853",
+  "active": "ac647a6c633c1adf",
   "lastOpenFiles": [
     "APBiology/4/Carbon.md",
     "APBiology/1/Notes/Labs/Properties of Water.md",
