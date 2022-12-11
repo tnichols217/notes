@@ -52,6 +52,10 @@ Answers considered high quality (and therefore are more likely to receive high m
 > "It is over," he said.
 > "Yes," I assured him, "the beast is dead."
 > "Not the beast," choked Beowulf, coughing up bloody spittle as he spoke. "Me. I am done. It is over.""
+> 
+> ---
+
+
 
 
 ## MLA citations
