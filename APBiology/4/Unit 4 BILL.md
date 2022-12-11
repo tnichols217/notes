@@ -18,7 +18,7 @@ Activity Log:
 5. [x] BR: Feedback Loop Summary
 6. [x] BR: Stages of Mitosis
 7. [x] POGIL: Cellular Communication
-8. [ ] POGIL: Signal Transduction Pathway
+8. [x] POGIL: Signal Transduction Pathway
 9. [ ] POGIL: Cell Cycle
 10. [ ] POGIL: Meiosis
 11. [x] Activity: Signal Transduction Pathway Modeling (G-Drive)
