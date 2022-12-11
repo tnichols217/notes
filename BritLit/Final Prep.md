@@ -48,7 +48,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > 
 > ---
 > 
-> "As it fell, its mouth opened, and Beowulf spilled out, his"
+> "As it fell, its mouth opened, and Beowulf spilled out, his body broken and bleeding. I crawled -- it was the best "
 
 
 ## MLA citations
