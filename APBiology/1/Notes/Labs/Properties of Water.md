@@ -15,5 +15,8 @@ DF: 9
 | Trial | Drops of Distilled Water | Drops of Distilled Water + Soap |
 | ----- | ------------------------ | ------------------------------- |
 | 1     |                          |                                 |
-| 2
-3|                          |                                 |
+| 2     |                          |                                 |
+| 3     |                          |                                 |
+| 4     |                          |                                 |
+| 5     |                          |                                 |
+| Avg   |                          |                                 |
