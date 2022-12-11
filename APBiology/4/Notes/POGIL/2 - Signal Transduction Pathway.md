@@ -33,9 +33,10 @@
 	2. Where do the phosphate groups come from that are added to the proteins during phosphorylation?
 		- From the ATP becoming ADP
 10. According to Model 2, what class of enzymes performs phosphorylation?
-	1. 
+	- Protein kinases
 11. Identify the steps in Model 2 that represent reception, transduction, and response for the phosphorylation pathway
 	1. Reception
+		- 
 	2. Transduction
 	3. Response
 12. What is the cell’s response to the signal received in Model 2?
