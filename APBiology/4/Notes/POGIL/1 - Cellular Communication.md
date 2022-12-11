@@ -45,7 +45,7 @@
 	4. Cells in the pituitary gland produce thyroid stimulating hormone (TSH), which is received by cells in the thyroid. The arrival of TSH in the thyroid triggers production of several hormones, which then travel throughout the body to regulate metabolism.
 		- Endocrine, it travels through the bloodstream
 10. If a medical researcher wanted to prevent communication between cells in order to cure a disease or prevent a malady, how might they achieve that? Propose two or more general methods that could be used to stop a signal transmission from cell to cell.
-	- Prevent the signal from being emitted, or destroy the receptors so that it wouldn't be recieved.
+	- Prevent the signal from being emitted, or destroy the receptors so that it wouldn't be received. Alternatively, you could break the signal transduction chain
 11. If a medical researcher wanted to enhance communication between cells in order to cure a disease or prevent a malady, how might they achieve that? Propose two or more general methods that could be used to enhance signal transmission from cell to cell.
 12. The examples of cellular communication used in this activity vary from bacteria to plants to vertebrates. However, the mechanisms of cellular communication are similar among varied species. Explain how scientists might use cellular communication systems to show evolutionary relatedness between species.
 13. Some hormones such as estrogen and testosterone are lipids and are therefore nonpolar. Explain why a receptor protein would not be needed for this type of ligand to activate a response in a cell.
