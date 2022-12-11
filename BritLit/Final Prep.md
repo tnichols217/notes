@@ -51,8 +51,7 @@ Answers considered high quality (and therefore are more likely to receive high m
 > "As it fell, its mouth opened, and Beowulf spilled out, his body broken and bleeding. I crawled -- it was the best I could do -- over to where Beowulf lay and took his hand. To my astonishment his eyes opened, and he turned his head a fraction and smiled weakly at me.
 > "It is over," he said.
 > "Yes," I assured him, "the beast is dead."
-> "Not the beast," choked Beowulf, coughing up bloody spittle as he spoke. "Me. I am done. It is over."
-> I started to protest, but h"
+> "Not the beast," choked Beowulf, coughing up bloody spittle as he spoke. "Me. I am done. It is over.""
 
 
 ## MLA citations
