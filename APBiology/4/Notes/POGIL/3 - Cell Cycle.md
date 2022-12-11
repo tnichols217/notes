@@ -71,4 +71,4 @@
 	1. Explain how this drug is useful as a cancer treatment.
 		- The cancer cells will be unable to split and form more cancer cells
 	2. How might targeting rapidly growing cells explain common chemotherapy side effects such as hair loss and nausea?
-		- 
+		- Things will no longer grow as fast as it should and things will not regenerate as quickly either
