@@ -36,10 +36,13 @@
 	1. At the end of meiosis II in males, what cells are produced?
 		- Sperm
 	2. What do these cells (from the previous question) eventually become?
-		- Part of the 
+		- Part of the Zygote
 19. Before fertilization, what happens to the secondary oocyte?
+	- Meiosis 1
 20. During fertilization which two cells come together? Be specific in your answer.
+	- Mature sperm and secondary oocyte
 21. During meiosis II, the secondary oocyte divides unevenly, with one cell (the ovum) receiving half of the chromosomes and nearly all the cytoplasm and organelles, while the other cell, the polar body, is much smaller and eventually degenerates. With your group, propose an explanation to explain why the secondary oocyte divides in this way.
+	- 
 22. What is the ploidy of the zygote produced by fertilization—haploid or diploid?
 23. What would the ploidy of the zygote be if egg and sperm were produced by mitosis rather than meiosis? How would this affect the ploidy of each successive generation?
 24. With your group write a statement to explain the origin of the chromosomes found in the zygote. Your statement must include the term homologous pair.
