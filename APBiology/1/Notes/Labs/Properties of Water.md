@@ -35,5 +35,9 @@
 | SE          | 0.66                     | 0.32                            |
 | +/- SEM     | 21.9 - 24.5              | 9.4 - 10.6                      |
 
+![[Pasted image 20221212083809.png]] 
+(<- Distilled water, -> Distilled water + soap)
+(/\\ Number of Drops (2SD, 95% confidence))
+
 ### Conclusion
 This shows that adding soap to distilled water does ruin the hydrogen bonding because the 95% confidence intervals do not overlap, meaning we can be 95% confident that soap does decrease the effectivity of water to water bonding (hydrogen bonding)
