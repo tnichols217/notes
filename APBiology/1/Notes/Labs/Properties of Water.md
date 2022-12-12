@@ -35,6 +35,7 @@
 | SE          | 0.66                     | 0.32                            |
 | +/- SEM     | 21.9 - 24.5              | 9.4 - 10.6                      |
 
+Presence of soap vs. number of drops until surface tension is broken
 ![[Pasted image 20221212083809.png]] 
 (<- Distilled water, -> Distilled water + soap)
 (/\\ Number of Drops (2SD, 95% confidence))
