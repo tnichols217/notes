@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/1/Documents/Labs/Investigation_ Properties of Water with Statistics.pdf",
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/1/Documents/Labs/Investigation_ Properties of Water with Statistics.pdf"
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md"
               }
             }
           },
@@ -179,8 +179,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8efa5df3b8862ed7",
+  "active": "effd5c8f1f3b6503",
   "lastOpenFiles": [
+    "APBiology/1/Documents/Labs/Investigation_ Properties of Water with Statistics.pdf",
     "APBiology/1/Notes/Labs/Properties of Water.md",
     "APBiology/1/Notes/5 - Macromolecules.md",
     "APBiology/4/Notes/Case Study/1 - Eukaryotic Cell Cycle and Cancer.md",
@@ -189,7 +190,6 @@
     "APBiology/4/Notes/Activities/2 - Feedback Loop Examples.md",
     "APBiology/4/Notes/Activities/1 - Signal Transduction Pathway Modeling.md",
     "APBiology/4/Notes/Investigations/2 - Cancer Cells and the Mitotic Index.md",
-    "APBiology/4/Notes/Investigations/1 - Gymnema Tea Party.md",
-    "APBiology/4/Notes/Case Study/2 - HeLa Cells Documentary.md"
+    "APBiology/4/Notes/Investigations/1 - Gymnema Tea Party.md"
   ]
 }
