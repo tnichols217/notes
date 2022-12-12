@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "9289779978577754",
+        "id": "0f8acec6cd71ebb6",
         "type": "tabs",
         "children": [
           {
-            "id": "f09f38ac2ca7ff4f",
+            "id": "ac647a6c633c1adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BritLit/Final Prep.md",
+                "file": "APBiology/4/Notes/Case Study/1 - Eukaryotic Cell Cycle and Cancer.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "effd5c8f1f3b6503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f9848cd90673520f",
+            "id": "383b317a76e38204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BritLit/Quotes.md",
+                "file": "APBiology/4/Unit 4 BILL.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BritLit/Final Prep.md",
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BritLit/Final Prep.md"
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md"
               }
             }
           },
@@ -134,10 +147,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f09f38ac2ca7ff4f",
+  "active": "effd5c8f1f3b6503",
   "lastOpenFiles": [
-    "BritLit/Edward Lear.md",
     "BritLit/Final Prep.md",
+    "BritLit/Edward Lear.md",
     "BritLit/Quotes.md",
     "APBiology/1/Notes/Labs/Properties of Water.md",
     "APBiology/4/Unit 4 BILL.md",
