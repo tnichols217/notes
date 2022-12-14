@@ -34,7 +34,8 @@ div[data-callout="col"].callout > div.callout-title, div[data-callout="col-md"].
     width: calc(var(--obsidian-columns-min-width) * var(--obsidian-columns-def-span));
 }
 
-div[data-callout="col"].callout > div.callout-content > div.callout:has( div.callout[data-callout="col-md"]) {
+/* div[data-callout="col"].callout > div.callout-content > div.callout:has( div.callout[data-callout="col-md"]) { */
+div[data-callout="col"].callout > div.callout-content > div[data-callout="3"].callout {
     flex-grow: attr(data-callout);
     flex-basis: calc(var(--obsidian-columns-min-width) * attr(data-callout));
     width: calc(var(--obsidian-columns-min-width) * attr(data-callout));
