@@ -6,8 +6,8 @@
 }
 
 div[data-callout="col"].callout {
-    background-color: none;
-    padding: none;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0 0 0 0;
     border-style: none;
 }
 
