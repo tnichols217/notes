@@ -75,18 +75,18 @@ console.log(msg)
 
 ``````col
 `````col-md
-flexGrow=5
+flexGrow=1
 ===
 
 ````col
 ```col-md
-flexGrow=3
+flexGrow=0.6
 ===
 
 A.A
 ```
 ```col-md
-flexGrow=1
+flexGrow=0.2
 ===
 
 A.B
