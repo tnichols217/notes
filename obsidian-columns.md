@@ -7,8 +7,10 @@ flexGrow=1
 >  More stuff inside.
 >> [!ERROR] Error description
 >>  Nested callout
+>>  `````col-md
 >>  - example MD code
 >>  - more stuff
+>>  `````
 ``````
 
 ``````col-md
