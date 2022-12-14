@@ -47,7 +47,7 @@ console.log(msg)
 ```````
 
 > [!col]
-> > [!col-md-3]
+> > [!col-md]
 > > aa
 > > aa
 > > 
