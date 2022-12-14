@@ -1,5 +1,7 @@
 ```````col
 ``````col-md
+flexGrow=1
+===
 > [!info] Callouts
 >  Stuff inside the callout
 >  More stuff inside.
