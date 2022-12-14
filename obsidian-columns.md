@@ -64,7 +64,7 @@ console.log(msg)
 >>>> 1. Function name **a** should be more descriptive
 >>>> 2. Remove **if/else** by using **||**
 >>> 
->>>> [!col-md]
+>>>> [!col-md-2]
 >>>> ```js
 >>>> function a(word) {
 >>>> 	if (word != null) {
