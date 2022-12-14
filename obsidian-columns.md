@@ -54,7 +54,6 @@ console.log(msg)
 >>>  - example MD code
 >>>  - more stuff
 >>>  `````
-
 ``````col-md
 flexGrow=2.5
 ===
@@ -86,7 +85,6 @@ console.log(msg)
 ````
 `````
 ``````
-```````
 > [!col]
 > > [!col-md]
 > > aa
