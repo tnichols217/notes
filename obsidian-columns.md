@@ -46,7 +46,7 @@ console.log(msg)
 ``````
 ```````
 
-> [!note]
+> [!col]
 > aa
 > 
 > aa

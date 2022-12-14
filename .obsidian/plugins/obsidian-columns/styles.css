@@ -1,0 +1,34 @@
+:root {
+    --obsidian-columns-gap: 20px;
+    --obsidian-columns-padding: 15px 20px;
+    --obsidian-columns-min-width: 100px;
+    --obsidian-columns-def-span: 1;
+}
+
+.columnParent, div[data-callout="col"].callout > div.callout-content {
+    display: flex;
+    padding: var(--obsidian-columns-padding);
+    flex-wrap: wrap;
+    gap: var(--obsidian-columns-gap);
+    white-space: normal;
+}
+
+div[data-callout="col"].callout > div.callout-title, div[data-callout="col-md"].callout > div.callout-title {
+    display: none;
+}
+
+.cm-preview-code-block .admonition-content .columnParent p {
+    white-space: pre-wrap;
+}
+
+.columnChild, div[data-callout="col"].callout > div.callout-content > * {
+    flex-grow: var(--obsidian-columns-def-span);
+    flex-basis: calc(var(--obsidian-columns-min-width) * var(--obsidian-columns-def-span));
+    width: calc(var(--obsidian-columns-min-width) * var(--obsidian-columns-def-span));
+}
+
+div[data-callout="col"].callout > div.callout-content > div[data-callout="col-md"].callout > div.callout-content > div.callout {
+    flex-grow: attr(data-callout);
+    flex-basis: calc(var(--obsidian-columns-min-width) * attr(data-callout));
+    width: calc(var(--obsidian-columns-min-width) * attr(data-callout));
+}
