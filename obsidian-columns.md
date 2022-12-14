@@ -7,10 +7,8 @@ flexGrow=1
 >  More stuff inside.
 >> [!ERROR] Error description
 >>  Nested callout
->>  `````col-md
 >>  - example MD code
 >>  - more stuff
->>  `````
 ``````
 
 ``````col-md
@@ -52,10 +50,8 @@ console.log(msg)
 >> More stuff inside.
 >>> [!ERROR] Error description
 >>> Nested callout
->>> `````col-md
 >>> - example MD code
 >>> - more stuff
->>> `````
 >
 >> [!col-md-2.5]
 >> # Text annotation example:
