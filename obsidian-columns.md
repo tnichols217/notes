@@ -79,7 +79,14 @@ flexGrow=1
 ===
 ````col
 ```col-md
-flexGrow=
+flexGrow=3
+===
+A.A
+```
+```col-md
+flexGrow=1
+===
+A.B
 ```
 ````
 `````
