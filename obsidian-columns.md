@@ -72,6 +72,19 @@ console.log(msg)
 >>>> let msg = "Hello, world!";
 >>>> console.log(msg)
 
+````col
+```col-md
+flexGrow=1
+===
+A
+```
+```col-md
+flexGrow=3
+===
+A
+```
+````
+
 > [!col]
 > > [!col-md]
 > > aa
