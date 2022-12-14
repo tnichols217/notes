@@ -6,7 +6,7 @@
 }
 
 div[data-callout="col"].callout,
-div[data-callout="col-md"].callout {
+div[data-callout^="col-md"].callout {
     background-color: rgba(0, 0, 0, 0);
     padding: 0 0 0 0;
     border-style: none;
