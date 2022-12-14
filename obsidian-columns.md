@@ -81,7 +81,7 @@ A
 ```col-md
 flexGrow=3
 ===
-A
+B
 ```
 ````
 
