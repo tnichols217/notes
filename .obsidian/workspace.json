@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "383b317a76e38204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-columns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-columns.md",
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-columns.md"
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md"
               }
             }
           },
@@ -147,10 +135,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "383b317a76e38204",
+  "active": "effd5c8f1f3b6503",
   "lastOpenFiles": [
-    "APBiology/1/Notes/Labs/Properties of Water.md",
     "obsidian-columns.md",
+    "APBiology/1/Notes/Labs/Properties of Water.md",
     "APBiology/4/Unit 4 BILL.md",
     "APBiology/4/Unit 4 BILL.pdf",
     "BritLit/Final Prep.md",
