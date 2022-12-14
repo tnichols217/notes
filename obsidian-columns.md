@@ -67,43 +67,12 @@ console.log(msg)
 >>>> function a(word) {
 >>>> 	if (word != null) {
 >>>> 			console.log(word);
->>>> 				} else {
->>>> 						console.log("a");
->>>> 							}
->>>> 							}
->>>> 							let msg = "Hello, world!";
->>>> 							console.log(msg)
-```
-``````col-md
-flexGrow=2.5
-===
-# Text annotation example:
-
-`````col
-````col-md
-flexGrow=1
-===
-1. Function name **a** should be more descriptive
-
-2. Remove **if/else** by using **||**
-````
-
-````col-md
-flexGrow=2
-===
-```js
-function a(word) {
-	if (word != null) {
-		console.log(word);
-	} else {
-		console.log("a");
-	}
-}
-let msg = "Hello, world!";
-console.log(msg)
-```
-````
-`````
+>>>> 	} else {
+>>>> 		console.log("a");
+>>>> 	}
+>>>> }
+>>>> let msg = "Hello, world!";
+>>>> console.log(msg)
 ``````
 
 > [!col]
