@@ -58,7 +58,9 @@ console.log(msg)
 >> [!col-md-2.5]
 >> # Text annotation example:
 >>> [!col]
->>> 
+>>>> [!col-md]
+>>>> 1. Function name **a** should be more descriptive
+>>>> 2. Remove **if/else** by using **||**
 ``````col-md
 flexGrow=2.5
 ===
