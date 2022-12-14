@@ -6,8 +6,7 @@
 }
 
 div[data-callout="col"].callout,
-div[data-callout="col-md"].callout,
-div[data-callout="col"].callout > div.callout-content > div[data-callout].callout:has(div.callout-content > div.callout[data-callout="col-md"]) {
+div[data-callout="col-md"].callout {
     background-color: rgba(0, 0, 0, 0);
     padding: 0 0 0 0;
     border-style: none;
@@ -39,4 +38,8 @@ div[data-callout="col"].callout > div.callout-content > div[data-callout].callou
     flex-grow: attr(data-callout);
     flex-basis: calc(var(--obsidian-columns-min-width) * attr(data-callout));
     width: calc(var(--obsidian-columns-min-width) * attr(data-callout));
+    
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0 0 0 0;
+    border-style: none;
 }
