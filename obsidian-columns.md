@@ -77,6 +77,14 @@ console.log(msg)
 >>>> console.log(msg)
 
 > [!col]
+> A col callout
+>
+>> [!col-md-3]
+>> The second column of the callout
+>> 
+>> This column is now 3 times the width of the first column
+
+> [!col]
 > > [!col-md]
 > > aa
 > > aa
