@@ -20,7 +20,7 @@ div[data-callout="col-md"].callout {
     white-space: normal;
 }
 
-div[data-callout="col"].callout > div.callout-title, div[data-callout="col-md"].callout > div.callout-title {
+div[data-callout="col"].callout > div.callout-title, div[data-callout^="col-md"].callout > div.callout-title {
     display: none;
 }
 
