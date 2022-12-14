@@ -48,15 +48,16 @@ console.log(msg)
 
 ```````col
 ``````col-md
-> [!info] Callouts
->  Stuff inside the callout
->  More stuff inside.
->> [!ERROR] Error description
->>  Nested callout
->>  `````col-md
->>  - example MD code
->>  - more stuff
->>  `````
+> col
+>> [!info] Callouts
+>>  Stuff inside the callout
+>>  More stuff inside.
+>>> [!ERROR] Error description
+>>>  Nested callout
+>>>  `````col-md
+>>>  - example MD code
+>>>  - more stuff
+>>>  `````
 ``````
 
 ``````col-md
