@@ -56,6 +56,9 @@ console.log(msg)
 >>> `````
 >
 >> [!col-md-2.5]
+>> # Text annotation example:
+>>> [!col]
+>>> 
 ``````col-md
 flexGrow=2.5
 ===
