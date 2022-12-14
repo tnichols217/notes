@@ -73,18 +73,22 @@ console.log(msg)
 >>>> let msg = "Hello, world!";
 >>>> console.log(msg)
 
-`````col
-````col-md
+``````col
+`````col-md
 flexGrow=1
 ===
-A
-`````
+````col
 ```col-md
+flexGrow=
+```
+````
+`````
+`````col-md
 flexGrow=3
 ===
 B
-```
-````
+`````
+``````
 
 > [!col]
 > > [!col-md]
