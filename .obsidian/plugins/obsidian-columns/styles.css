@@ -5,7 +5,9 @@
     --obsidian-columns-def-span: 1;
 }
 
-div[data-callout="col"].callout, div[data-callout="col-md"].callout {
+div[data-callout="col"].callout,
+div[data-callout="col-md"].callout,
+div[data-callout="col"].callout > div.callout-content > div[data-callout].callout:has(div.callout-content > div.callout[data-callout="col-md"]) {
     background-color: rgba(0, 0, 0, 0);
     padding: 0 0 0 0;
     border-style: none;
