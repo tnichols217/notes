@@ -63,7 +63,17 @@ console.log(msg)
 >>>> 2. Remove **if/else** by using **||**
 >>> 
 >>>> [!col-md]
->>>> 
+>>>> ```js
+>>>> function a(word) {
+>>>> 	if (word != null) {
+>>>> 			console.log(word);
+>>>> 				} else {
+>>>> 						console.log("a");
+>>>> 							}
+>>>> 							}
+>>>> 							let msg = "Hello, world!";
+>>>> 							console.log(msg)
+```
 ``````col-md
 flexGrow=2.5
 ===
