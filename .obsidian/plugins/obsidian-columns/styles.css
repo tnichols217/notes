@@ -5,6 +5,12 @@
     --obsidian-columns-def-span: 1;
 }
 
+div[data-callout="col"].callout {
+    background-color: none;
+    padding: none;
+    border-style: none;
+}
+
 .columnParent, div[data-callout="col"].callout > div.callout-content {
     display: flex;
     padding: var(--obsidian-columns-padding);
@@ -27,7 +33,7 @@ div[data-callout="col"].callout > div.callout-title, div[data-callout="col-md"].
     width: calc(var(--obsidian-columns-min-width) * var(--obsidian-columns-def-span));
 }
 
-div[data-callout="col"].callout > div.callout-content > div[data-callout="col-md"].callout > div.callout-content > div.callout {
+div[data-callout="col"].callout > div.callout-content > div[data-callout="col-md"].callout:has(div.callout-content > div.callout) {
     flex-grow: attr(data-callout);
     flex-basis: calc(var(--obsidian-columns-min-width) * attr(data-callout));
     width: calc(var(--obsidian-columns-min-width) * attr(data-callout));
