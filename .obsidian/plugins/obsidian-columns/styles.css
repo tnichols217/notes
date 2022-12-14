@@ -48,7 +48,8 @@ div[data-callout="col"].callout > div.callout-content > div[data-callout$="-0.5"
     --obsidian-columns-custom-span: 0.5
 }
 
-div[data-callout="col"].callout > div.callout-content > div[data-callout$="-1" ].callout {
+div[data-callout="col"].callout > div.callout-content > div[data-callout$="-1" ].callout,
+div[data-callout="col"].callout > div.callout-content > div[data-callout="col-md" ].callout {
     --obsidian-columns-custom-span: 1
 }
 
