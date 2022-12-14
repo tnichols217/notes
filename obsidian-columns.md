@@ -76,48 +76,6 @@ console.log(msg)
 >>>> let msg = "Hello, world!";
 >>>> console.log(msg)
 
-````````col
-```````col-md
-flexGrow=1
-===
-``````col
-`````col-md
-flexGrow=0.6
-===
-
-A.A
-````col
-```col-md
-flexGrow=0.2
-===
-
-
-A.A.A
-```
-```col-md
-flexGrow=0.2
-===
-
-
-A.A.B
-```
-````
-`````
-`````col-md
-flexGrow=0.2
-===
-
-A.B
-`````
-``````
-```````
-```````col-md
-flexGrow=3
-===
-B
-```````
-````````
-
 > [!col]
 > > [!col-md]
 > > aa
