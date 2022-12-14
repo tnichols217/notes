@@ -46,14 +46,15 @@ console.log(msg)
 
 > [!col]
 >> [!info] Callouts
->>  Stuff inside the callout
->>  More stuff inside.
+>> Stuff inside the callout
+>> More stuff inside.
 >>> [!ERROR] Error description
->>>  Nested callout
->>>  `````col-md
->>>  - example MD code
->>>  - more stuff
->>>  `````
+>>> Nested callout
+>>> `````col-md
+>>> - example MD code
+>>> - more stuff
+>>> `````
+>>>
 ``````col-md
 flexGrow=2.5
 ===
