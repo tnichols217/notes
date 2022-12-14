@@ -137,7 +137,7 @@ var findSettings = (source, unallowed = ["`"], delim = SETTINGSDELIM) => {
         if (line == delim) {
           let split = source.split(delim + "\n");
           if (split.length > 1) {
-            return { settings: split[0], source: split.slice(1).join(delim) };
+            return { settings: split[0], source: split.slice(1).join(delim + "\n") };
           }
           break lineLoop;
         }
