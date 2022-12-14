@@ -76,14 +76,15 @@ console.log(msg)
 >>>> let msg = "Hello, world!";
 >>>> console.log(msg)
 
-``````col
-`````col-md
+````````col
+```````col-md
 flexGrow=1
 ===
-````col
+`````col
 ```col-md
 flexGrow=0.6
 ===
+
 A.A
 ```
 ```col-md
