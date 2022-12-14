@@ -15,12 +15,14 @@ flexGrow=1
 ``````col-md
 flexGrow=2.5
 ===
+
 # Text annotation example:
 
 `````col
 ````col-md
 flexGrow=1
 ===
+
 1. Function name **a** should be more descriptive
 
 2. Remove **if/else** by using **||**
@@ -29,6 +31,7 @@ flexGrow=1
 ````col-md
 flexGrow=2
 ===
+
 ```js
 function a(word) {
 	if (word != null) {
@@ -77,12 +80,10 @@ console.log(msg)
 `````col-md
 flexGrow=1
 ===
-
 ````col
 ```col-md
 flexGrow=0.6
 ===
-
 A.A
 ```
 ```col-md
