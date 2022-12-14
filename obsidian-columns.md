@@ -47,13 +47,12 @@ console.log(msg)
 ```````
 
 > [!col]
-> > [!3]
-> > > [!col-md]
-> > > aa
-> > > aa
-> > > 
-> > > Aaa
-> > > a
+> > [!col-md-3]
+> > aa
+> > aa
+> > 
+> > Aaa
+> > a
 > aa
 > 
 > aa
