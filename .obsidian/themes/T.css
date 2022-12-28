@@ -75,7 +75,7 @@
 
 /* 2. UI */
 
-.cm-editor {
+.hypermd-table-row, .cm-indent {
   --font-monospace: "FiraCode Nerd Font", "Hack";
   --font-text: var(--font-monospace);
   --font-normal: 450;
@@ -245,9 +245,23 @@ del,
 
 strong em,
 .cm-formatting-em .cm-formatting-strong,
-.cm-em .cm-strong,
+.cm-em.cm-strong,
 .cm-s-obsidian span.cm-quote.cm-em .cm-strong {
   color: var(--color-10);
+}
+
+/* table formatting */
+
+.hypermd-table-row .cm-widgetBuffer + .cm-em.cm-strong {
+  padding-right: 6ch
+}
+
+.hypermd-table-row .cm-widgetBuffer + .cm-em {
+  padding-right: 2ch
+}
+
+.hypermd-table-row .cm-widgetBuffer + .cm-strong {
+  padding-right: 4ch
 }
 
 
@@ -300,28 +314,56 @@ strong em,
   margin-top: 0cm;
 }
 
-ul {
+.markdown-rendered ul.has-list-bullet {
   list-style-type: disc;
 }
 
-ul > li > ul {
+.markdown-rendered .list-bullet {
+  display: none;
+}
+
+.markdown-rendered ul > li > ul.has-list-bullet {
   list-style-type: circle;
 }
 
-ul > li > ul > li > ul {
+.markdown-rendered ul > li > ul > li > ul.has-list-bullet {
   list-style-type: square;
 }
 
-ul > li > ul > li > ul > li > ul {
+.markdown-rendered ul > li > ul > li > ul > li > ul.has-list-bullet {
   list-style-type: disc;
 }
 
-ul > li > ul > li > ul > li > ul > li > ul {
+.markdown-rendered ul > li > ul > li > ul > li > ul > li > ul.has-list-bullet {
   list-style-type: circle;
 }
 
-ul > li > ul > li > ul > li > ul > li > ul > li > ul {
+.markdown-rendered ul > li > ul > li > ul > li > ul > li > ul > li > ul.has-list-bullet {
   list-style-type: square;
+}
+
+.markdown-rendered ol {
+  list-style-type: decimal;
+}
+
+.markdown-rendered ol > li > ol {
+  list-style-type: upper-roman;
+}
+
+.markdown-rendered ol > li > ol > li > ol {
+  list-style-type: upper-alpha;
+}
+
+.markdown-rendered ol > li > ol > li > ol > li > ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-rendered ol > li > ol > li > ol > li > ol > li > ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-rendered ol > li > ol > li > ol > li > ol > li > ol > li > ol {
+  list-style-type: decimal-leading-zero;
 }
 
 .cm-indent {
