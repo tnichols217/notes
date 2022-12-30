@@ -168,13 +168,13 @@ Please choose one of the six extended essay options below, indicate your choice,
 
 ### 🟥
 
-# 🟨 University of Notre Dame
+# 🌮 University of Notre Dame
 1. Notre Dame is a Catholic university, founded by members of the Congregation of Holy Cross, with a mission to educate the hearts and minds of students. What excites you about attending Notre Dame? (150 words)
 
-## 🟨
+## 🌮
 
 > [!para]
-> As a Christian, I am excited to be able to go to a place that would continue to reinforce my beliefs. Many other colleges don't offer the same peace of mind to me or my family. Notre Dame offers a gateway into a well rounded life, not only on the spiritual front, as well. The healthy, friendly community, fitness oriented activities, and multitude of recreational sports all entice me further into wanting to go to Notre Dame. As a rock climber I was wondering if I would still be able to continue with my sport when I go to college, and was pleasantly surprised when I found out that Notre Dame had a wall of their own - like that wasn't even on my mind when applying for colleges. As an art student on top of wanting to go into computer science, I am also excited to so
+> As a Christian, I am excited to be able to go to a place that would continue to reinforce my beliefs. Many other colleges don't offer the same peace of mind to me or my family. Notre Dame offers a gateway into a well rounded life, not only on the spiritual front, as well. The healthy, friendly community, fitness oriented activities, and multitude of recreational sports all entice me further into wanting to go to Notre Dame. As a rock climber I was wondering if I would still be able to continue with my sport when I go to college, and was pleasantly surprised when I found out that Notre Dame had a wall of their own. As an art and computer science student, I am also excited to see how Notre Dame has a place for everyone and all their interests.
 
 # 🟩 University of Virginia
 1. How will you use an engineering degree to change the world for the better? (100 words)
