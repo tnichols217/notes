@@ -213,7 +213,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -228,12 +229,12 @@
   },
   "active": "cc9b74704ae689f2",
   "lastOpenFiles": [
-    "college/Interview Prep.md",
+    "Private/college/Regular Decision.md",
+    "Private/college/RD/Checklist.md",
     "college/Extra Questions.md",
+    "college/Interview Prep.md",
     "Private/college/Colleges.md",
     "Private/college/Additional Questions.md",
-    "Private/college/RD/Checklist.md",
-    "Private/college/Regular Decision.md",
     "Private/college/QB Essay 1 Brainstorm.md",
     "APBiology/1/Notes/Labs/Properties of Water.md",
     "obsidian-columns.md",
