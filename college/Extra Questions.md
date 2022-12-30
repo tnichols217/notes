@@ -174,7 +174,7 @@ Please choose one of the six extended essay options below, indicate your choice,
 ## 🟨
 
 > [!para]
-> As a Christian, I am excited to be able to go to a place that would continue to reinforce my beliefs. Many other colleges don't offer the same peace of mind to me or my family. Notre Dame offers a gateway into a well rounded life, not only on the spiritual front, as well. The 
+> As a Christian, I am excited to be able to go to a place that would continue to reinforce my beliefs. Many other colleges don't offer the same peace of mind to me or my family. Notre Dame offers a gateway into a well rounded life, not only on the spiritual front, as well. The healthy, friendly community, fitness oriented activities, and multitude of recreational sports all entice me furthere
 
 # 🟩 University of Virginia
 1. How will you use an engineering degree to change the world for the better? (100 words)
