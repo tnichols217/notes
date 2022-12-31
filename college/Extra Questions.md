@@ -90,7 +90,7 @@ Please share your thoughts on **one (1) of the following prompts**. (300 words)
 ### 🟩
 
 > [!para]
-> This year I am taking AP Art: 3D Sculpture, a subject that has titillated different senses and parts of my brain. I am often categorized as a left brain person for having excelled in STEM subjects but my curiosity for art has given me a different outlook in life. What fascinates me is learning the nuances of communicating my ideas through not only images but also through materials and processes. I understand now how everything is symbiotic, as in life. It is not just the words we speak but our actions and how it is presented. When I encounter a problem, I now take a more holistic approach which helps me be more creative in problem solving as I can see more angles outside the box.
+> This year I am taking AP Art 3D, a subject that has titillated different senses and parts of my brain. I am often categorized as a left brain person for having excelled in STEM subjects but my curiosity for art has given me a different outlook in life. What fascinates me is learning the nuances of communicating my ideas through not only images but also through materials and processes. I understand now how everything is symbiotic, as in life. It is not just the words we speak but our actions and how it is presented. When I encounter a problem, I now take a more holistic approach which helps me be more creative in problem solving as I can see more angles outside the box.
 
 > [!para]
 > From the beginning of basic biology last year to halfway through AP Biology now, nothing fails to amaze me each chapter. Before I began learning biology at all, people would always tell me that biology would not be a good fit for me, coming from a math/logic mindset. They claim that biology is majority memorization and not much math, logic, or intuition at all. I decided to take biology anyway, just to explore and see if I would be interested in it. Now I find biology to not only be intuitive and interesting, but biology feels like the crossroads of all my favorite subjects. I love trying to understand the why of things and biology give me a lot of answers to those questions.
@@ -101,6 +101,9 @@ Please share your thoughts on **one (1) of the following prompts**. (300 words)
 2. Tell us about something you are proud of since you submitted your application. (125 words)
 
 ### 🟩
+
+> [!para]
+> Since submitting my application, I have been offered 3 internships. I chose to intern at an Art Studio for digital 3D design, modelling, and animation. The kinds of things that are required to accomplish my internship are effectively the opposites of programming: creative thought instead of order, logic, and problem solving. I enjoy being able to think and work in a way that is different from normal for me. My boss was so impressed with me even though I am the youngest and offered me a permanent job if I wanted. I am proud that something I worked to improve in myself has improved to the point where it scored me an internship where I can economically add value to the team.
 
 > [!para]
 > Since I have submitted my application, I have gotten the opportunity to intern at a local art studio for digital 3D design, modelling, and animation. I am very proud that I am able to handle the responsibility well. As the youngest person on the team, my colleagues often doubt that I would be able to understand or accomplish much, but one of my colleagues expressed that she was impressed by what I have managed to do there. I am proud that I am able to excel at art alongside my main hobby programming.
