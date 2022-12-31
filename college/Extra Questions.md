@@ -228,3 +228,25 @@ Please select and respond to one of the following prompts. (300 words)
 # NYU
 1. Optional: In what ways have you enacted change in your community and what has been your motivation for doing so? This can include enacting change globally, locally, or within your family.  (200 words)
 2. Optional: We would like to better understand how your experiences would help us to shape and grow our diverse community. Please respond in 250 words or less. 
+
+# Amherst
+**Option A**  
+Please respond to one of the following quotations in an essay of not more than 300 words. It is not necessary to research, read, or refer to the texts from which these quotations are taken; we are looking for original, personal responses to these short excerpts. Remember that your essay should be personal in nature and not simply an argumentative essay.  
+  
+1.    “Rigorous reasoning is crucial in mathematics, and insight plays an important secondary role these days. In the natural sciences, I would say that the order of these two virtues is reversed. Rigor is, of course, very important. But the most important value is insight—insight into the workings of the world. It may be because there is another guarantor of correctness in the sciences, namely, the empirical evidence from observation and experiments.”  
+_Kannan Jagannathan, Professor of Physics, Amherst College_  
+  
+2.    “Translation is the art of bridging cultures. It’s about interpreting the essence of a text, transporting its rhythms and becoming intimate with its meaning…Translation, however, doesn’t only occur across languages: mentally putting any idea into words is an act of translation; so is composing a symphony, doing business in the global market, understanding the roots of terrorism. No citizen, especially today, can exist in isolation – that is, untranslated.”  
+_Ilan Stavans, Professor of Latin American and Latino Culture, Amherst College, Robert Croll ’16 and Cedric Duquene ’15, adapted from the original print version of “Interpreting Terras Irradient,” Amherst Magazine, Spring 2015._  
+  
+3.    “Creating an environment that allows students to build lasting friendships, including those that cut across seemingly entrenched societal and political boundaries…requires candor about the inevitable tensions, as well as about the wonderful opportunities, that diversity and inclusiveness create.”   
+_Carolyn "Biddy" Martin, 19th President of Amherst College, from Letter to Amherst College Alumni and Families, December 28, 2015._   
+  
+4.    “Difficulty need not foreshadow despair or defeat. Rather achievement can be all the more satisfying because of obstacles surmounted.”  
+_Attributed to William Hastie, Amherst Class of 1925, the first African-American to serve as a judge for the United States Court of Appeal._  
+  
+**Option B**  
+Please submit a graded paper from your junior or senior year that best represents your writing skills and analytical abilities. We are particularly interested in your ability to construct a tightly reasoned, persuasive argument that calls upon literary, sociological or historical evidence. You should NOT submit a laboratory report, journal entry, creative writing sample or in-class essay.  
+  
+**Option C**  
+If you were an applicant to Amherst's Diversity Open House (A2A) weekend program, you may use your A2A application essay in satisfaction of our Supplemental Writing requirement. If you would like to do so, please select Option C; we will then transfer your previously received A2A essay to your Regular Decision application file. However, if you would prefer not to use your A2A essay for this purpose and you want to submit a different writing supplement, select either Option A or Option B. [Please note that Option C is available only to students who were applicants to Amherst's A2A program.]
