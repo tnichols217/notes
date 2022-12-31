@@ -213,3 +213,7 @@ Please select and respond to one of the following prompts. (300 words)
 1. Williams believes that in a residential learning community, some of the most important experiences happen while living and learning alongside those different from oneself. Please describe a time when you learned or grew through the process of interacting with someone whose background, identity, lived experience or perspective differs from your own. (150-300 words)
 
 ## 🟨
+
+# Carnegie Mellon
+1. Most students choose their intended major or area of study based on a passion or inspiration that’s developed over time – what passion or inspiration led you to choose this area of study? (300 words)
+2. Most students choose their intended major or area of study based on a passion or inspiration that’s developed over time – what passion or inspiration led you to choose this area of study? (300 words)
