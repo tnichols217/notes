@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
       {
         "id": "a4dc53f937101249",
         "type": "tabs",
-        "dimension": 77.55555555555556,
+        "dimension": 53.55555555555556,
         "children": [
           {
             "id": "b67808c7c498bc42",
@@ -136,7 +136,7 @@
       {
         "id": "28c69e3aca2b1263",
         "type": "tabs",
-        "dimension": 22.444444444444443,
+        "dimension": 46.44444444444444,
         "children": [
           {
             "id": "c6a55982cacab7f6",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/Regular Decision.md"
+                "file": "college/Extra Questions.md"
               }
             }
           }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/Regular Decision.md",
+                "file": "college/Extra Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,8 +253,9 @@
       }
     ]
   },
-  "active": "d4d0bc6ebaeebb5f",
+  "active": "cc9b74704ae689f2",
   "lastOpenFiles": [
+    "Private/college/Regular Decision.md",
     "Private/college/RD/Checklist.md",
     "Private/college/Additional Questions.md",
     "Private/college/QB Essay.md",
@@ -263,7 +264,6 @@
     "college/Extra Questions.md",
     "Private/college/Colleges.md",
     "college/Interview Prep.md",
-    "Private/college/Regular Decision.md",
     "APBiology/1/Notes/Labs/Properties of Water.md"
   ]
 }
