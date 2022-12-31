@@ -193,8 +193,8 @@ Please choose one of the six extended essay options below, indicate your choice,
 # 🟩 Vassar
 Please select and respond to one of the following prompts. (300 words)
 
-- At Vassar, we aim to foster an inclusive community through our philosophy of engaged pluralism. Engaged pluralism is rooted in “the conviction that collaborating across differences is necessary for social transformation and critical for the well-being of any community and its members.” In short, we believe it's our differences that make us stronger. Tell us a little bit about what makes you unique and what you hope to add to our community.
-- Vassar is a diverse community that inspires positive change through open inquiry, deep dives into society’s most difficult challenges, and collaborative problem solving. We care deeply about one another, the communities that have forged us, and the community we build together on campus. Tell us more about the community (or communities) you come from and how it has shaped who you are.
+- [-] At Vassar, we aim to foster an inclusive community through our philosophy of engaged pluralism. Engaged pluralism is rooted in “the conviction that collaborating across differences is necessary for social transformation and critical for the well-being of any community and its members.” In short, we believe it's our differences that make us stronger. Tell us a little bit about what makes you unique and what you hope to add to our community.
+- [x] Vassar is a diverse community that inspires positive change through open inquiry, deep dives into society’s most difficult challenges, and collaborative problem solving. We care deeply about one another, the communities that have forged us, and the community we build together on campus. Tell us more about the community (or communities) you come from and how it has shaped who you are.
 
 ## 🟩
 
