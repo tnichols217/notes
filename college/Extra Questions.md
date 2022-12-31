@@ -201,18 +201,15 @@ Please select and respond to one of the following prompts. (300 words)
 > [!para]
 > Born to an American father and Malaysian mother, I have grown up understanding and balancing different cultures. My parents teach in a non-profit American international school in Malaysia where I am privileged to attend along with peers from over twenty five nations. On a broader scope, I live in a multicultural country that is made up of three predominant ethnicities. Living in this environment, I learned that unity and harmony exist from understanding and not tolerance. Tolerance suggests enduring or "putting up with" while understanding implies that there is nothing to “endure”, and that existing in harmony within a community of different beliefs and practices is one out of respect and acceptance. Once, my school rolled out a personality test that groups personalities by colors. That made me understand why some “blue” teachers can spend a whole block talking about feelings when something tragic happened, and why my “green” principle can come off as serious and goal oriented. It doesn’t mean that the “blue” teacher is not focused on academics, or the “green” principle is uncaring, they just have different personalities. I see culture the same way, if I understand the “personalities” of culture, acceptance of each other’s beliefs and practices becomes natural.
 
-# 🟨 Washington and Lee
+# 🟥 Washington and Lee
 1. Please describe how you have familiarized yourself with Washington and Lee University and what aspects of W&L's community are most exciting to you. (250 words)
 
-## 🟨
+## 🟥
 
-> [!para]
-> 
-
-# 🟨 Williams
+# 🟥 Williams
 1. Williams believes that in a residential learning community, some of the most important experiences happen while living and learning alongside those different from oneself. Please describe a time when you learned or grew through the process of interacting with someone whose background, identity, lived experience or perspective differs from your own. (150-300 words)
 
-## 🟨
+## 🟥
 
 # Carnegie Mellon
 1. Most students choose their intended major or area of study based on a passion or inspiration that’s developed over time – what passion or inspiration led you to choose this area of study? (300 words)
