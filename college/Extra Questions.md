@@ -222,19 +222,26 @@ Please select and respond to one of the following prompts. (300 words)
 
 3. Consider your application as a whole. What do you personally want to emphasize about your application for the admission committee’s consideration? Highlight something that’s important to you or something you haven’t had a chance to share. Tell us, don’t show us (no websites please). (300 words)
 
-🟨
+## 🟨
 
-# Carnegie Mellon Qatar
+# 🟨 Carnegie Mellon Qatar
 1. What interests you about studying Computer Science? (500-800 words)
 
-🟨
+## 🟨
 
-# Georgia Tech
+# 🟨 Georgia Tech
 1. Why do you want to study your chosen major specifically at Georgia Tech? (300 words)
+
+## 🟨
 
 # NYU
 1. Optional: In what ways have you enacted change in your community and what has been your motivation for doing so? This can include enacting change globally, locally, or within your family.  (200 words)
+
+## 🟨
+
 2. Optional: We would like to better understand how your experiences would help us to shape and grow our diverse community. Please respond in 250 words or less. 
+
+## 🟨
 
 # Amherst
 **Option A**  
