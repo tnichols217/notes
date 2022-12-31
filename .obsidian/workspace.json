@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/Regular Decision.md"
+                "file": "Private/college/RD/Checklist.md"
               }
             }
           }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/Regular Decision.md",
+                "file": "Private/college/RD/Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,8 +213,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -227,11 +226,11 @@
       }
     ]
   },
-  "active": "d4d0bc6ebaeebb5f",
+  "active": "312a97b210f1305d",
   "lastOpenFiles": [
-    "college/Extra Questions.md",
     "Private/college/Regular Decision.md",
     "Private/college/RD/Checklist.md",
+    "college/Extra Questions.md",
     "Private/college/Colleges.md",
     "college/Interview Prep.md",
     "Private/college/Additional Questions.md",
