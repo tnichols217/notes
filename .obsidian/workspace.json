@@ -104,6 +104,7 @@
       {
         "id": "a4dc53f937101249",
         "type": "tabs",
+        "dimension": 77.55555555555556,
         "children": [
           {
             "id": "b67808c7c498bc42",
@@ -135,6 +136,7 @@
       {
         "id": "28c69e3aca2b1263",
         "type": "tabs",
+        "dimension": 22.444444444444443,
         "children": [
           {
             "id": "c6a55982cacab7f6",
@@ -252,6 +254,7 @@
   },
   "active": "7e5b26a2520e8407",
   "lastOpenFiles": [
+    "Private/college/QB Essay.md",
     "Private/college/QB Short Answer.md",
     "Private/college/QB Essay 1 Brainstorm.md",
     "Private/college/Additional Questions.md",
@@ -260,7 +263,6 @@
     "college/Interview Prep.md",
     "Private/college/RD/Checklist.md",
     "Private/college/Regular Decision.md",
-    "APBiology/1/Notes/Labs/Properties of Water.md",
-    "obsidian-columns.md"
+    "APBiology/1/Notes/Labs/Properties of Water.md"
   ]
 }
