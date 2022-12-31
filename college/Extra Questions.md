@@ -216,6 +216,9 @@ Please select and respond to one of the following prompts. (300 words)
 
 ## 🟨
 
+> [!para]
+> 
+
 2. Many students pursue college for a specific degree, career opportunity or personal goal. Whichever it may be, learning will be critical to achieve your ultimate goal. As you think ahead to the process of learning during your college years, how will you define a successful college experience? (300 words)
 
 ## 🟨
@@ -234,7 +237,7 @@ Please select and respond to one of the following prompts. (300 words)
 
 ## 🟨
 
-# NYU
+# 🟨 NYU
 1. Optional: In what ways have you enacted change in your community and what has been your motivation for doing so? This can include enacting change globally, locally, or within your family.  (200 words)
 
 ## 🟨
