@@ -217,7 +217,7 @@ Please select and respond to one of the following prompts. (300 words)
 ## 🟨
 
 > [!para]
-> One day I saw one of my senior classmates 3D printing something in the Biology alb 
+> One day four years ago, I saw one of my senior classmates 3D printing something in the Biology lab and was immediately intrigued. 
 
 2. Many students pursue college for a specific degree, career opportunity or personal goal. Whichever it may be, learning will be critical to achieve your ultimate goal. As you think ahead to the process of learning during your college years, how will you define a successful college experience? (300 words)
 
