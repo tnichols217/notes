@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Private/college/Additional Questions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/QB Essay.md"
+                "file": "Private/college/Additional Questions.md"
               }
             }
           }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/QB Essay.md",
+                "file": "Private/college/Additional Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
       }
     ]
   },
-  "active": "7e5b26a2520e8407",
+  "active": "da6798ed8c4d1486",
   "lastOpenFiles": [
     "Private/college/QB Essay.md",
     "Private/college/QB Short Answer.md",
