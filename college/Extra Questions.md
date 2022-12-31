@@ -217,7 +217,7 @@ Please select and respond to one of the following prompts. (300 words)
 ## 🟨
 
 > [!para]
-> One day four years ago, I saw one of my senior classmates 3D-printing something in the Biology lab and was immediately intrigued. Middle School me walked over carefully and asked him what he was doing. Mika explained that he was creating testers for a rail attached spring launcher as a teaching aide for the physics class. He began explaining the specifics 
+> One day four years ago, I saw one of my senior classmates 3D-printing something in the Biology lab and was immediately intrigued. Middle School me walked over carefully and asked him what he was doing. Mika explained that he was creating testers for a rail attached spring launcher as a teaching aide for the physics class. He began explaining the specifics - without the basics at all - of how 3d models get sliced - turning them into gcode, then sent to his 3D printer wirelessly and it would print b
 
 2. Many students pursue college for a specific degree, career opportunity or personal goal. Whichever it may be, learning will be critical to achieve your ultimate goal. As you think ahead to the process of learning during your college years, how will you define a successful college experience? (300 words)
 
