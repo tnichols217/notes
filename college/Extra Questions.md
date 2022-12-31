@@ -220,4 +220,5 @@ Please select and respond to one of the following prompts. (300 words)
 3. Consider your application as a whole. What do you personally want to emphasize about your application for the admission committee’s consideration? Highlight something that’s important to you or something you haven’t had a chance to share. Tell us, don’t show us (no websites please). (300 words)
 
 # Carnegic Mellon Qatar
-1. What interests you about studying Computer Science? (500-80)
+1. What interests you about studying Computer Science? (500-800 words)
+
