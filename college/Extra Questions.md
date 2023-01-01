@@ -294,6 +294,7 @@ If you were an applicant to Amherst's Diversity Open House (A2A) weekend program
 
 Chosen Prompt: 
 “Rigorous reasoning is crucial in mathematics, and insight plays an important secondary role these days. In the natural sciences, I would say that the order of these two virtues is reversed. Rigor is, of course, very important. But the most important value is insight—insight into the workings of the world. It may be because there is another guarantor of correctness in the sciences, namely, the empirical evidence from observation and experiments.”  
-_Kannan Jagannathan, Professor of Physics, Amherst College_  
+_Kannan Jagannathan, Professor of Physics, Amherst College_ 
+
 > [!para]
 > My computer science teacher told us on the very first day on AP Computer Science that "Data without insight is meaningless." I could not agree more. Just like the problem with AI training models these days, there is plenty of data, but there is not much meaningful (meaning labeled data) available. Similarly, rigorous reasoning without a direction to focus towards would be meaningless. 
