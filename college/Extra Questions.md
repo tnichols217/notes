@@ -233,7 +233,7 @@ Please select and respond to one of the following prompts. (300 words)
 > [!para]
 > I am extremely dedicated to things I want to learn and explore. Even though my current High School lacks solid computer science courses or resources, I spent a lot time self studying and learning on my own, finding resources and dedicating time and effort into learning it well. My school in fact did not offer AP Computer Science at all until this (my senior) year all of a sudden - after my extensive self studies. After registering for the course and attending a few lessons, the teacher told me that the she has nothing to teach me in this class, and that it would be boring and ineffective for me to sit in the class. She recommended I not waste my time in this class and spend time continuing my self studies. This led me to getting an internship in the tech department (a first for my school), where I apply my skills and learn where I need to improve and sharpen any particular aspect of the discipline. 
 > 
-> From the day I first discovered CAD to now, I have always been dedicated to improving my 3D design skills. From my first few creations of puzzles and brain games to functional 
+> From the day I first discovered CAD to now, I have always been dedicated to improving my 3D design skills. From my first few creations of puzzles and brain games to functional devices to then creating art, I remained interested and curious about the possibilities of what could be done.
 
 # 🟨 Carnegie Mellon Qatar
 1. What interests you about studying Computer Science? (500-800 words)
