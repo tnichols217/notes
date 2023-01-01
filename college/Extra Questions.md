@@ -211,7 +211,7 @@ Please select and respond to one of the following prompts. (300 words)
 
 ## 🟥
 
-# 🟨 Carnegie Mellon
+# 🌮 Carnegie Mellon
 1. Most students choose their intended major or area of study based on a passion or inspiration that’s developed over time – what passion or inspiration led you to choose this area of study? (300 words)
 
 ## 🌮
@@ -221,21 +221,19 @@ Please select and respond to one of the following prompts. (300 words)
 
 2. Many students pursue college for a specific degree, career opportunity or personal goal. Whichever it may be, learning will be critical to achieve your ultimate goal. As you think ahead to the process of learning during your college years, how will you define a successful college experience? (300 words)
 
-## 🟨
+## 🌮
 
 > [!para]
 > A successful college experience would adequately prepare me for the professional workspace, provide me with the resources and ability to quench my curiosity, expose me to different disciplines to explore my interests, and provide a positive and healthy community to do it all with. I believe that  providing resources to explore and a good community are the most important aspects. Without a community, understanding how to collaborate and work in teams would be an impossibility. Additionally, my exploration of interests will be severely harmed by not having good people to share and explore with. Providing resources to explore a field is also key for providing a valuable college experience, not only showing the facts but also the capability to wander and push the field forward. This combination of ideas would lead to in my eyes a successful and enjoyable college experience.
 
 3. Consider your application as a whole. What do you personally want to emphasize about your application for the admission committee’s consideration? Highlight something that’s important to you or something you haven’t had a chance to share. Tell us, don’t show us (no websites please). (300 words)
 
-## 🟨
+## 🌮
 
 > [!para]
 > I am extremely dedicated to things I want to learn and explore. Even though my current High School lacks solid computer science courses or resources, I spent a lot time self studying and learning on my own, finding resources and dedicating time and effort into learning it well. My school in fact did not offer AP Computer Science at all until this (my senior) year all of a sudden - after my extensive self studies. After registering for the course and attending a few lessons, the teacher told me that the she has nothing to teach me in this class, and that it would be boring and ineffective for me to sit in the class. She recommended I not waste my time in this class and spend time continuing my self studies. This led me to getting an internship in the tech department (a first for my school), where I apply my skills and learn where I need to improve and sharpen any particular aspect of the discipline. 
 > 
 > From the day I first discovered CAD to now, I have always been dedicated to improving my 3D design skills. From my first few creations of puzzles and brain games to functional devices to then creating art, I remained interested and curious about the possibilities of what could be done. When I entered AP 3D Art last year (in the master studio course) I pushed my 3D design further and explored materials, form, space, composition, value, and methods of creation. This dedication to the refining of my skills eventually landed me an internship at a local art studio just over a month ago, where I learned to work on a team and share and learn more about the creation of art.
-> 
-> When I find something I love,  will continually explore and develop it, never losing my curiosity to want to learn more.
 
 # 🟨 Carnegie Mellon Qatar
 1. What interests you about studying Computer Science? (500-800 words)
