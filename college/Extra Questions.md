@@ -241,7 +241,7 @@ Please select and respond to one of the following prompts. (300 words)
 ## 🟨
 
 > [!para]
-> 
+> One day four years ago, I saw one of my senior classmates 3D-printing something in the Biology lab and was immediately intrigued. Middle School me walked over carefully and asked him what he was doing. Mika explained that he was creating testers for a rail attached spring launcher as a teaching aide for the physics class. He began explaining the specifics - without the basics at all - of how 3d models get sliced, turning them into gcode, sent to his 3D printer wirelessly, printed, and the other 300 steps inbetween. I was completely stunned. I was also still deeply intrigued. My measly experience with the windows batch scripting language now felt minute compared to what was possible. This first exposure got me into computers in general. It led me down to learn - rather surprisingly - JavaScript as my first "real" programming language, as well as gaining much experience in how 3D design and CAD works. From there my interest only grew. This led me to develop passions for web development and computer aided 3D design (CAD), which eventually developed into passions for programming in general and 3D design and animation. My newfound passion in programming propelled me to learn over eleven languages for various reasons. I find the art of problem solving a beautiful puzzle and part of enjoying programming is how different languages offer different paths to accomplish similar goals. There never ceases for there to be problems to solve, solutions to improve, and ideas to create when it comes to programming. 
 
 # 🟨 Georgia Tech
 1. Why do you want to study your chosen major specifically at Georgia Tech? (300 words)
