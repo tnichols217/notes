@@ -224,7 +224,7 @@ Please select and respond to one of the following prompts. (300 words)
 ## 🟨
 
 > [!para]
-> 
+> A successful college experience would adequately prepare me for the professional workspace as well as provide me with the 
 
 3. Consider your application as a whole. What do you personally want to emphasize about your application for the admission committee’s consideration? Highlight something that’s important to you or something you haven’t had a chance to share. Tell us, don’t show us (no websites please). (300 words)
 
