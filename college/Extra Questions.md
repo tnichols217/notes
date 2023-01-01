@@ -291,3 +291,9 @@ Please submit a graded paper from your junior or senior year that best represent
   
 **Option C**  
 If you were an applicant to Amherst's Diversity Open House (A2A) weekend program, you may use your A2A application essay in satisfaction of our Supplemental Writing requirement. If you would like to do so, please select Option C; we will then transfer your previously received A2A essay to your Regular Decision application file. However, if you would prefer not to use your A2A essay for this purpose and you want to submit a different writing supplement, select either Option A or Option B. [Please note that Option C is available only to students who were applicants to Amherst's A2A program.]
+
+Chosen Prompt: 
+“Rigorous reasoning is crucial in mathematics, and insight plays an important secondary role these days. In the natural sciences, I would say that the order of these two virtues is reversed. Rigor is, of course, very important. But the most important value is insight—insight into the workings of the world. It may be because there is another guarantor of correctness in the sciences, namely, the empirical evidence from observation and experiments.”  
+
+> [!para]
+> a
