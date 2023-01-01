@@ -248,14 +248,23 @@ Please select and respond to one of the following prompts. (300 words)
 
 ## 🟨
 
+> [!para]
+> 
+
 # 🟨 NYU
 1. Optional: In what ways have you enacted change in your community and what has been your motivation for doing so? This can include enacting change globally, locally, or within your family.  (200 words)
 
 ## 🟨
 
+> [!para]
+> 
+
 2. Optional: We would like to better understand how your experiences would help us to shape and grow our diverse community. Please respond in 250 words or less. 
 
 ## 🟨
+
+> [!para]
+> 
 
 # Amherst
 **Option A**  
