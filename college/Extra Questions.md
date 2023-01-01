@@ -253,7 +253,7 @@ Please select and respond to one of the following prompts. (300 words)
 ## 🟨
 
 > [!para]
-> 
+> Georgia Tech has a supporting community like no other.
 
 # 🟨 NYU
 1. Optional: In what ways have you enacted change in your community and what has been your motivation for doing so? This can include enacting change globally, locally, or within your family.  (200 words)
