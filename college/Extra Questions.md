@@ -231,7 +231,7 @@ Please select and respond to one of the following prompts. (300 words)
 ## 🟨
 
 > [!para]
-> I am extremely dedicated to things I want to learn and explore. Even though my current High School lacks solid computer science courses or resources, I spent a lot time 
+> I am extremely dedicated to things I want to learn and explore. Even though my current High School lacks solid computer science courses or resources, I spent a lot time self studying and learning on my own, finding resources and dedicating time and effort into learning it well. My school in fact did not offer 
 
 # 🟨 Carnegie Mellon Qatar
 1. What interests you about studying Computer Science? (500-800 words)
