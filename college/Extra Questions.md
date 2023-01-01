@@ -297,4 +297,4 @@ Chosen Prompt:
 _Kannan Jagannathan, Professor of Physics, Amherst College_ 
 
 > [!para]
-> My computer science teacher told us on the very first day on AP Computer Science that "Data without insight is meaningless." I could not agree more. Just like the problem with AI training models these days, there is plenty of data, but there is not much meaningful (meaning labeled data) available. Similarly, rigorous reasoning without a direction to focus towards would be meaningless. 
+> My computer science teacher told us on the very first day on AP Computer Science that "Data without insight is meaningless." I could not agree more. Just like the problem with AI training models these days, there is plenty of data, but there is not much meaningful (meaning labeled data) available. Similarly, rigorous reasoning without a direction to focus towards would be meaningless. In my life there have been 
