@@ -255,10 +255,10 @@ Please select and respond to one of the following prompts. (300 words)
 > [!para]
 > Georgia Tech has a supporting community like no other. People are supportive and fun, yet focused and dedicated. Georgia Tech offers one of the best computer science courses in the world, and I want to be able to take a part in that. This combination of community and excellence would create an amazing college experience for me. The amount of possibilities at Georgia Tech is unparalleled by any other college, providing support in a myriad of areas and giving resources to be able to accomplish great things. Georgia Tech only offers the best there is in the Computer Science world, and as a computer scientist, I deeply want to be able study at Georgia Tech.
 
-# 🟨 NYU
+# 🟩 NYU
 1. Optional: In what ways have you enacted change in your community and what has been your motivation for doing so? This can include enacting change globally, locally, or within your family.  (200 words)
 
-## 🟨
+## 🟩
 
 > [!para]
 > I have been volunteering and teaching in a rohingyan school for the past year. Once a week I would travel off the island onto the mainland and visit a few schools, where I would teach English, Math, Science, and some basic crafts like macrame and sewing. Although it may seem like I am impacting such a small amount of people by only targeting three schools/centers on the mainland, it felt as if I really made a different in these people's lives. Being undocumented immigrants with no legal methods to work, money comes hard and education comes harder. After a couple weeks, I began to bring friends and family to come along with me. Whenever we would arrive, the children would be so happy and excited to be able to learn and spend time with us. In a way they have impacted me and my friends and family as well, showing us that even with so little it doesn't take away from our ability to be satisfied and happy.
@@ -271,7 +271,7 @@ Please select and respond to one of the following prompts. (300 words)
 > Born to an American father and Malaysian mother, I have grown up understanding and balancing different cultures. My parents teach in a non-profit American international school in Malaysia where I am privileged to attend along with peers from over twenty five nations. On a broader scope, I live in a multicultural country that is made up of three predominant ethnicities. Living in this environment, I learned that unity and harmony exist from understanding and not tolerance. Tolerance suggests enduring or "putting up with" while understanding implies that there is nothing to “endure”, and that existing in harmony within a community of different beliefs and practices is one out of respect and acceptance. Once, my school rolled out a personality test that groups personalities by colors. That made me understand why some “blue” teachers can spend a whole block talking about feelings when something tragic happened, and why my “green” principle can come off as serious and goal oriented. It doesn’t mean that the “blue” teacher is not focused on academics, or the “green” principle is uncaring, they just have different personalities. I see culture the same way, if I understand the “personalities” of culture, acceptance of each other’s beliefs and practices becomes natural.
 
 # Amherst
-**Option A**  
+**Option A**
 Please respond to one of the following quotations in an essay of not more than 300 words. It is not necessary to research, read, or refer to the texts from which these quotations are taken; we are looking for original, personal responses to these short excerpts. Remember that your essay should be personal in nature and not simply an argumentative essay.  
   
 1.    “Rigorous reasoning is crucial in mathematics, and insight plays an important secondary role these days. In the natural sciences, I would say that the order of these two virtues is reversed. Rigor is, of course, very important. But the most important value is insight—insight into the workings of the world. It may be because there is another guarantor of correctness in the sciences, namely, the empirical evidence from observation and experiments.”  
