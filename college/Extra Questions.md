@@ -253,7 +253,7 @@ Please select and respond to one of the following prompts. (300 words)
 ## 🟨
 
 > [!para]
-> Georgia Tech has a supporting community like no other.
+> Georgia Tech has a supporting community like no other. People are supportive and fun, yet focused and dedicated. Georgia Tech offers one of the best computer science courses in the world, and I want to be able to take a part in that. 
 
 # 🟨 NYU
 1. Optional: In what ways have you enacted change in your community and what has been your motivation for doing so? This can include enacting change globally, locally, or within your family.  (200 words)
