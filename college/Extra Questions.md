@@ -235,7 +235,7 @@ Please select and respond to one of the following prompts. (300 words)
 > 
 > From the day I first discovered CAD to now, I have always been dedicated to improving my 3D design skills. From my first few creations of puzzles and brain games to functional devices to then creating art, I remained interested and curious about the possibilities of what could be done. When I entered AP 3D Art last year (in the master studio course) I pushed my 3D design further and explored materials, form, space, composition, value, and methods of creation. This dedication to the refining of my skills eventually landed me an internship at a local art studio just over a month ago, where I learned to work on a team and share and learn more about the creation of art.
 > 
-> When I find something interesting, I will not give up on it. I will continually explore and develop it 
+> When I find something I love,  will continually explore and develop it, never losing my curiosity to want to learn more.
 
 # 🟨 Carnegie Mellon Qatar
 1. What interests you about studying Computer Science? (500-800 words)
