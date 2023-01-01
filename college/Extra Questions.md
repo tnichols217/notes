@@ -261,7 +261,7 @@ Please select and respond to one of the following prompts. (300 words)
 ## 🟨
 
 > [!para]
-> I have been volunteering and teaching in a rohingyan school for the past year. I have gotten to know many kids and  
+> I have been volunteering and teaching in a rohingyan school for the past year. I have gotten to know many kids and 
 
 2. Optional: We would like to better understand how your experiences would help us to shape and grow our diverse community. Please respond in 250 words or less. 
 
