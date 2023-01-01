@@ -240,6 +240,9 @@ Please select and respond to one of the following prompts. (300 words)
 
 ## 🟨
 
+> [!para]
+> 
+
 # 🟨 Georgia Tech
 1. Why do you want to study your chosen major specifically at Georgia Tech? (300 words)
 
