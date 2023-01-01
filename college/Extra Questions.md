@@ -261,7 +261,7 @@ Please select and respond to one of the following prompts. (300 words)
 ## 🟨
 
 > [!para]
-> I have been volunteering and teaching in a rohingyan school for the past year. Once a week I would travel off the island onto the mainland and visit a 
+> I have been volunteering and teaching in a rohingyan school for the past year. Once a week I would travel off the island onto the mainland and visit a few schools, where I would teach English, Math, Science, and some basic crafts like macrame and sewing. Although it may seem like I am impacting such a small amount of people by only targeting three schools/centers on the mainland
 
 2. Optional: We would like to better understand how your experiences would help us to shape and grow our diverse community. Please respond in 250 words or less. 
 
