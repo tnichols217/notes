@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/Regular Decision.md"
+                "file": "college/Extra Questions.md"
               }
             }
           }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/Regular Decision.md",
+                "file": "college/Extra Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Private/college/RD/Checklist.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -251,8 +251,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -265,16 +264,16 @@
       }
     ]
   },
-  "active": "d4d0bc6ebaeebb5f",
+  "active": "cc9b74704ae689f2",
   "lastOpenFiles": [
     "Private/college/RD/Checklist.md",
+    "Private/college/Regular Decision.md",
     "college/Extra Questions.md",
     "college/Amherst Supplemental.md",
     "Private/college/Additional Questions.md",
     "Private/college/QB Essay.md",
     "Private/college/QB Essay 1 Brainstorm.md",
     "college/Interview Prep.md",
-    "Private/college/Regular Decision.md",
     "Private/college/Colleges.md",
     "APBiology/1/Notes/Labs/Properties of Water.md"
   ]
