@@ -33,7 +33,7 @@ Please share your thoughts on **one (1) of the following prompts**. (300 words)
 
 - [Traditions at Carleton](https://www.carleton.edu/admissions/explore/outside-class/traditions/) center around building and appreciating community. Some examples include the new student frisbee toss, Friday flowers, and baking cookies at Dacie Moses House. If you were tasked with creating a new Carleton tradition, what would you propose and how would you emphasize community within your idea?*
 
-# 🌮 Dartmouth
+# 🟩 Dartmouth
 1. Dartmouth celebrates the ways in which its profound sense of place informs its profound sense of purpose. As you seek admission to Dartmouth's Class of 2027, what aspects of the College's academic program, community, or campus environment attract your interest? In short, Why Dartmouth? (100 words)
 
 ## 🟩
@@ -60,10 +60,10 @@ Please share your thoughts on **one (1) of the following prompts**. (300 words)
 > [!para]
 > I want to make computing transparent and portable again. Lately there have been so much de-standardization in the computing sector, where products that fulfill the same purpose are completely incompatible with each other, capturing and locking in the customers. Although this is good from a business point of view, it is a highly anti-consumerist principle. I envision a world where interconnect-ability is a given and not a feature. I would work not only towards setting and maintaining standards, but also by innovating in its respective field by showing the true benefits of modular design. People often believe that standards are a box to fit into and would hurt creativity and stifle innovation, but standards truly just set a baseline from where you should improve and innovate. So much that we take for granted in the modern age is provided by modular design. When I was designing my own operating system from the kernel up, I was amazed at how many options for everything there were: the kernel itself, shell interpreters, desktop environments, display managers, drivers, and just the configuration and styling of everything. As a programmer, looking inside and trying to change things and modify things to my liking is proven to be much simpler when modular in nature. I wish that all reasonable things would be able to follow a similar philosophy: ultimately, stylistic and operational choice should be up to the user/consumer, and modules provide just the interface to provide that.
 
-# 🌮 Davidson
+# 🟩 Davidson
 1. Why Davidson?* (250-300 words)
 
-## 🌮
+## 🟩
 
 > [!para]
 > Davidson's unique hype, honest, communal, and accepting culture, which I deeply want to take part of, is unfound in other colleges. I want to go to a place with accepting people and a friendly community, all of which Davidson provides. As I aim to study in the computer science field, Davidson's deep and and advanced courses in the field are a perfect fit for me. 
@@ -137,10 +137,10 @@ In addition to QuestBridge's application essays, Swarthmore College requires a s
 > [!para]
 > Born to an American father and Malaysian mother, I have grown up understanding and balancing different cultures. My parents teach in a non-profit American international school in Malaysia where I am privileged to attend along with peers from over twenty five nations. On a broader scope, I live in a multicultural country that is made up of three predominant ethnicities. Living in this environment, I learned that unity and harmony exist from understanding and not tolerance. Tolerance suggests enduring or "putting up with" while understanding implies that there is nothing to “endure”, and that existing in harmony within a community of different beliefs and practices is one out of respect and acceptance. Once, my school rolled out a personality test that groups personalities by colors. That made me understand why some “blue” teachers can spend a whole block talking about feelings when something tragic happened, and why my “green” principle can come off as serious and goal oriented. It doesn’t mean that the “blue” teacher is not focused on academics, or the “green” principle is uncaring, they just have different personalities. I see culture the same way, if I understand the “personalities” of culture, acceptance of each other’s beliefs and practices becomes natural.
 
-# 🌮 Tufts
+# 🟩 Tufts
 1. Which aspects of the Tufts undergraduate experience prompt your application? In short, "Why Tufts?" (100-150 words)
 
-## 🌮
+## 🟩
 
 > [!para]
 > Tufts not only has a multitude of elective clubs, but also has a wide range of disciplines to choose from as well as solid inter-disciplinary options. As I explore my interests and am looking for something to take further, Tufts is the perfect option for me to explore myself. Tufts also has a culture and community like no other, one of multiple disciplines and interests, yet still friendly and unified. Moving to a new place out of my home, having a good community is greatly important, and a big comfort to me as I explore all that Tufts has to offer. 
@@ -174,10 +174,10 @@ Please choose one of the six extended essay options below, indicate your choice,
 
 ### 🟥
 
-# 🌮 University of Notre Dame
+# 🟩 University of Notre Dame
 1. Notre Dame is a Catholic university, founded by members of the Congregation of Holy Cross, with a mission to educate the hearts and minds of students. What excites you about attending Notre Dame? (150 words)
 
-## 🌮
+## 🟩
 
 > [!para]
 > As a Christian, I am excited to be able to go to a place that would continue to reinforce my beliefs. Many other colleges don't offer the same peace of mind to me or my family. Notre Dame offers a gateway into a well rounded life - not only on the spiritual front - as well. The healthy, friendly community, fitness oriented activities, and multitude of recreational sports all entice me further into wanting to go to Notre Dame. As a rock climber I was wondering if I would still be able to continue with my sport when I go to college, and was pleasantly surprised when I found out that Notre Dame had a wall of their own. As an art and computer science student, I am also excited to see how Notre Dame has a place for everyone and all their interests.
@@ -211,7 +211,7 @@ Please select and respond to one of the following prompts. (300 words)
 
 ## 🟥
 
-# 🌮 Carnegie Mellon
+# 🟩 Carnegie Mellon
 1. Most students choose their intended major or area of study based on a passion or inspiration that’s developed over time – what passion or inspiration led you to choose this area of study? (300 words)
 
 ## 🌮
@@ -304,7 +304,8 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 > 
 > Dedication on its own has no point unless you are being dedicated towards a cause you want to achieve. It may seem obvious that you would only ever be dedicated towards things you are sure you would continue to love and enjoy, but without proper assessment and thought it could lead to an unsustainable effort. Getting onto the soccer team blinded me from thinking if this is really what I wanted to achieve, leading me to reverse the two virtues of cause then dedication.
 
-# University of Southern California
+# 🟨 University of Southern California
+
+## 🟨
 
 1. Describe how you plan to pursue your academic interests and why you want to explore them at USC specifically. Please feel free to address your first- and second-choice major selections. (250 words)
-2. 
