@@ -214,31 +214,31 @@ Please select and respond to one of the following prompts. (300 words)
 # 🟩 Carnegie Mellon
 1. Most students choose their intended major or area of study based on a passion or inspiration that’s developed over time – what passion or inspiration led you to choose this area of study? (300 words)
 
-## 🌮
+## 🟩
 
 > [!para]
 > Four years ago, I saw one of my senior classmates 3D-printing something in the Biology lab and was immediately intrigued. Middle Schooler me walked over carefully and asked him what he was doing. Mika explained that he was creating testers for a rail attached spring launcher as a teaching aide for the physics class. He began explaining the specifics - without the basics at all - of how 3d models get sliced, turning them into g-code, sent to his 3D printer wirelessly, printed, and the other 300 steps in between. I was completely stunned. I was also still deeply intrigued. My measly experience with the windows batch scripting language now felt minute compared to what was possible. This first exposure got me into computers in general. It led me down to learn - rather surprisingly - JavaScript as my first "real" programming language, as well as gaining much experience in how 3D design and CAD works. From there my interest only grew. This led me to develop passions for web development and computer aided 3D design (CAD), which eventually developed into passions for programming in general and 3D design and animation. My newfound passion in programming propelled me to learn over eleven languages for various reasons. I find the art of problem solving a beautiful puzzle and part of enjoying programming is how different languages offer different paths to accomplish similar goals. There never ceases for there to be problems to solve, solutions to improve, and ideas to create when it comes to programming. 
 
 2. Many students pursue college for a specific degree, career opportunity or personal goal. Whichever it may be, learning will be critical to achieve your ultimate goal. As you think ahead to the process of learning during your college years, how will you define a successful college experience? (300 words)
 
-## 🌮
+## 🟩
 
 > [!para]
 > A successful college experience would adequately prepare me for the professional workspace, provide me with the resources and ability to quench my curiosity, expose me to different disciplines to explore my interests, and provide a positive and healthy community to do it all with. I believe that providing resources to explore and a good community are the most important aspects. Without a community, understanding how to collaborate and work in teams would be an impossibility. Additionally, my exploration of interests will be severely harmed by not having good people to share and explore with and building a network of people with similar interests could not be done without the great community found at Carnegie Mellon. Providing resources to explore a field is also key for providing a valuable college experience, not only showing the facts but also the capability to wander and push the field forward. This combination of ideas would lead to in my eyes a successful and enjoyable college experience.
 
 3. Consider your application as a whole. What do you personally want to emphasize about your application for the admission committee’s consideration? Highlight something that’s important to you or something you haven’t had a chance to share. Tell us, don’t show us (no websites please). (300 words)
 
-## 🌮
+## 🟩
 
 > [!para]
 > I am extremely dedicated to things I want to learn and explore. Even though my current High School lacks solid computer science courses or resources, I spent a lot time self studying and learning on my own, finding resources and dedicating time and effort into learning it well. My school did not offer AP Computer Science at all until this (my senior) year. After registering for the course and attending a few lessons, the teacher told me that she has nothing more to teach me in this class, and that it would be boring and ineffective for me to sit in the class. She recommended I not waste my time in this class and spend time continuing my self studies. This led me to getting an internship in the tech department (a first for my school), where I apply my skills and learn where I need to improve and sharpen any particular aspect of the discipline. 
 > 
 > From the day I first discovered CAD to now, I have always been dedicated to improving my 3D design skills. From my first few creations of puzzles and brain games to functional devices to then creating art, I remained interested and curious about the possibilities of what could be done. When I entered AP 3D Art I pushed my 3D design further and explored materials, form, space, composition, value, and methods of creation. This dedication to the refining of my skills eventually landed me an internship at a local art studio just over a month ago, where I learned to work on a team - collaborating, planning, and working together. It also allowed me to share and learn more about the creation of art with equally passionate people.
 
-# 🌮 Carnegie Mellon Qatar
+# 🟩 Carnegie Mellon Qatar
 1. What interests you about studying Computer Science? (500-800 words)
 
-## 🌮
+## 🟩
 
 > [!para]
 > Four years ago, I saw one of my senior classmates 3D-printing something in the Biology lab and was immediately intrigued. Middle Schooler me walked over carefully and asked him what he was doing. Mika explained that he was creating testers for a rail attached spring launcher as a teaching aide for the physics class. He began explaining the specifics - without the basics at all - of how 3d models get sliced, turning them into Gcode, sent to his 3D printer wirelessly, printed, and the other 300 steps in between. I was completely stunned. I was also still deeply intrigued. My measly experience with the windows batch scripting language now felt minute compared to what was possible. This first exposure got me into computers in general. It led me down to learn - rather surprisingly - JavaScript as my first "real" programming language, as well as gaining much experience in how 3D design and CAD works. From there my interest only grew. This led me to develop passions for web development and computer aided 3D design (CAD), which eventually developed into passions for programming in general and 3D design and animation. My newfound passion in programming propelled me to learn over eleven languages for various reasons. I find the art of problem solving a beautiful puzzle and part of enjoying programming is how different languages offer different paths to accomplish similar goals. There never ceases for there to be problems to solve, solutions to improve, and ideas to create when it comes to programming.
@@ -247,10 +247,10 @@ Please select and respond to one of the following prompts. (300 words)
 > 
 > Another aspect that I love is the community surrounding Computer Science. Almost all programmers want to help and collaborative solve problems together, which led to amazing creations through open source code. I first entered this whole ecosystem as a user, using open source software and wondering what made it different. When I understood that open source code is often contributed to by many people around the world often without any gain other than a better piece of software, I was amazed. How could so many people unite to create something with code through such a system? I use a note-taking software called Obsidian, which has support for plugins (or extensions) to improve on the note-taking experience. I was using a plugin called Obsidian git, which allows me to sync my notes to the internet and across devices when I noticed that it did not sync specific folders correctly. This was when I realized how easy it was to join the developer community and help create this plugin for everyone. I visited the issue tracker and submitted an issue, to which a developer quickly responded with an analysis of the situation. A couple days later I had the code modified to fix the bug and submitted back to the project. It felt good to be able to contribute on a project with other people, even if I don't know them. The community was so open to suggestions and modifications that it inspired me to create a plugin of my own - obsidian columns. This time again I was surprised at how helpful the community is, reporting issues with my code, offering possible solutions, and even writing code for the plugin. I love taking part of the community and being able to share back, and contributing to open source code is one of those ways.
 
-# 🌮 Georgia Tech
+# 🟩 Georgia Tech
 1. Why do you want to study your chosen major specifically at Georgia Tech? (300 words)
 
-## 🌮
+## 🟩
 
 > [!para]
 > Georgia Tech has a supporting community like no other. People are supportive and fun, yet focused and dedicated. Georgia Tech offers one of the best computer science courses in the world, and I want to be able to take a part in that. This combination of community and excellence would create an amazing college experience for me. The amount of possibilities at Georgia Tech is unparalleled by any other college, providing support in a myriad of areas and giving resources to be able to accomplish great things. Georgia Tech only offers the best there is in the Computer Science world, and as a computer scientist, I deeply want to be able study at Georgia Tech.

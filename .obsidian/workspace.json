@@ -134,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#🟩🌮",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -264,7 +265,7 @@
       }
     ]
   },
-  "active": "cc9b74704ae689f2",
+  "active": "28942e6507e0526e",
   "lastOpenFiles": [
     "Private/college/RD/Checklist.md",
     "college/Extra Questions.md",
