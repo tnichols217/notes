@@ -310,7 +310,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 
 1. Describe how you plan to pursue your academic interests and why you want to explore them at USC specifically. Please feel free to address your first- and second-choice major selections. (250 words)
 
-# 🟨Ecole Polytechnique
+# 🟨 Ecole Polytechnique
 
 1. We were made for each other!  Explain with concrete examples why you believe the Bachelor Program is the right match for your undergraduate studies. (300 words)
 
