@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/RD/Checklist.md"
+                "file": "Private/college/Regular Decision.md"
               }
             }
           }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/RD/Checklist.md",
+                "file": "Private/college/Regular Decision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -264,10 +265,10 @@
       }
     ]
   },
-  "active": "312a97b210f1305d",
+  "active": "d4d0bc6ebaeebb5f",
   "lastOpenFiles": [
-    "college/Extra Questions.md",
     "Private/college/RD/Checklist.md",
+    "college/Extra Questions.md",
     "Private/college/Regular Decision.md",
     "college/Amherst Supplemental.md",
     "Private/college/Additional Questions.md",
