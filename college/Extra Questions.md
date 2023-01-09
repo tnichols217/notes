@@ -304,13 +304,11 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 > 
 > Dedication on its own has no point unless you are being dedicated towards a cause you want to achieve. It may seem obvious that you would only ever be dedicated towards things you are sure you would continue to love and enjoy, but without proper assessment and thought it could lead to an unsustainable effort. Getting onto the soccer team blinded me from thinking if this is really what I wanted to achieve, leading me to reverse the two virtues of cause then dedication.
 
-# 🟨 University of Southern California
+# 🌮 University of Southern California
 
-## 🟨
+## 🌮
 
 1. Describe how you plan to pursue your academic interests and why you want to explore them at USC specifically. Please feel free to address your first- and second-choice major selections. (250 words)
-
-## 🟨
 
 > [!para]
 > Looking for an accepting community, USC is the perfect place for me. Not only does USC have a supporting and hype community, it is also a community that is built to outlast just out temporary stay at the university. USC's exposition to large players in the field - including those in Computer Science - is a big attraction to me as I aim to both get a good education in Computer Science but also gain reputable job experience. USC's invaluable network of alum and their positive attitude is something I wish I could take part of, not only to meet and get to know people of similar interests to me, but also to propel me deep into my professional life with people that would work alongside me.
