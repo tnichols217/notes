@@ -315,6 +315,20 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 > 
 > Always wanting to be part of something greater and exciting, USC offers just that in an inclusive manner. Moving away from a country I've always lived in, USC would offer me the support and community I need to feel right at home, even if I just moved as far as I possibly could from home. My excited and energetic nature would fit right in at USC, taking part and contributing to the powerful school spirit already present at USC. Additionally, USC would provide everything I could want or need in order to learn and research Computer Science, something that not many colleges could provide as easily.
 
+## 🟨
+
+2. The student body at the USC Viterbi School of Engineering is a diverse group of unique engineers and computer scientists who work together to engineer a better world for all humanity. Describe how your contributions to the USC Viterbi student body may be distinct from others. Please feel free to touch on any part of your background, traits, skills, experiences, challenges, and/or personality in helping us better understand you. (250 words)
+
+> [!para]
+> 
+
+## 🟨
+
+3. The National Academy of Engineering (NAE) and their 14 Grand Challenges go hand-in-hand with our vision to engineer a better world for all humanity. Engineers and computer scientists are challenged to solve these problems in order to improve life on the planet. Learn more about the NAE Grand Challenges at http://engineeringchallenges.org and tell us which challenge is most important to you, and why. (250 words)
+
+> [!para]
+> 
+
 # 🟨 Ecole Polytechnique
 
 1. We were made for each other!  Explain with concrete examples why you believe the Bachelor Program is the right match for your undergraduate studies. (300 words)
