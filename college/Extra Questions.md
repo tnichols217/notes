@@ -313,7 +313,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 ## 🟨
 
 > [!para]
-> Being interested in Computer Science, 
+> Being interested in Computer Science, USC's advanced programs 
 
 # 🟨 Ecole Polytechnique
 
