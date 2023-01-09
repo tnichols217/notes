@@ -313,7 +313,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 ## 🟨
 
 > [!para]
-> 
+> Being interested in Computer Science, 
 
 # 🟨 Ecole Polytechnique
 
