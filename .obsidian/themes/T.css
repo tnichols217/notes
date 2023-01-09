@@ -318,8 +318,8 @@ strong em,
   list-style-type: disc;
 }
 
-.markdown-rendered ul.has-list-bullet > *::marker {
-  color: var(--list-marker-color) !important;
+.markdown-rendered div ul.has-list-bullet > *::marker {
+  color: var(--list-marker-color);
 }
 
 .markdown-rendered .list-bullet {
