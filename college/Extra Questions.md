@@ -313,7 +313,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 ## 🟨
 
 > [!para]
-> Being interested in Computer Science, USC's advanced programs 
+> Looking for an accepting community, USC is the perfect place for me. Not only does USC have a supporting and hype community, it is also a community that is built to outlast just out temporary stay at the university. USC's exposition to large players in the fiel
 
 # 🟨 Ecole Polytechnique
 
