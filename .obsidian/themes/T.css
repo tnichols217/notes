@@ -326,23 +326,23 @@ strong em,
   display: none;
 }
 
-.markdown-rendered ul > li > ul.has-list-bullet {
+.markdown-rendered ul > li > ul {
   list-style-type: circle;
 }
 
-.markdown-rendered ul > li > ul > li > ul.has-list-bullet {
+.markdown-rendered ul > li > ul > li > ul {
   list-style-type: square;
 }
 
-.markdown-rendered ul > li > ul > li > ul > li > ul.has-list-bullet {
+.markdown-rendered ul > li > ul > li > ul > li > ul {
   list-style-type: disc;
 }
 
-.markdown-rendered ul > li > ul > li > ul > li > ul > li > ul.has-list-bullet {
+.markdown-rendered ul > li > ul > li > ul > li > ul > li > ul {
   list-style-type: circle;
 }
 
-.markdown-rendered ul > li > ul > li > ul > li > ul > li > ul > li > ul.has-list-bullet {
+.markdown-rendered ul > li > ul > li > ul > li > ul > li > ul > li > ul {
   list-style-type: square;
 }
 
