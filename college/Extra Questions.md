@@ -313,7 +313,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 ## 🟨
 
 > [!para]
-> Looking for an accepting community, USC is the perfect place for me. Not only does USC have a supporting and hype community, it is also a community that is built to outlast just out temporary stay at the university. USC's exposition to large players in the field - including those in Computer Science - is a big attraction to me as I aim to both get a good education in Computer Science but also gain reputable job experience. USC's invaluable network of alum and their positive attitude is something I wish I could take part of, not only to meet and get to know people of similar interests to me, but also to 
+> Looking for an accepting community, USC is the perfect place for me. Not only does USC have a supporting and hype community, it is also a community that is built to outlast just out temporary stay at the university. USC's exposition to large players in the field - including those in Computer Science - is a big attraction to me as I aim to both get a good education in Computer Science but also gain reputable job experience. USC's invaluable network of alum and their positive attitude is something I wish I could take part of, not only to meet and get to know people of similar interests to me, but also to propel me deep into my professional life with people that would work alongside me.
 
 # 🟨 Ecole Polytechnique
 
