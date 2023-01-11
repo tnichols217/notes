@@ -1162,9 +1162,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "003cef36710e6307",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Private/sandm/CNY Hair Salon References.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -1230,7 +1242,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "APBiology/1/Notes/Labs/Properties of Water.md",
+                    "file": "Private/sandm/CNY Hair Salon References.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -1247,7 +1259,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "APBiology/1/Notes/Labs/Properties of Water.md"
+                    "file": "Private/sandm/CNY Hair Salon References.md"
                   }
                 }
               },
@@ -1267,8 +1279,8 @@
         "width": 300,
         "collapsed": true
       },
-      "active": "effd5c8f1f3b6503"
+      "active": "003cef36710e6307"
     }
   },
-  "active": "sandm"
+  "active": "college"
 }
