@@ -304,7 +304,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 > 
 > Dedication on its own has no point unless you are being dedicated towards a cause you want to achieve. It may seem obvious that you would only ever be dedicated towards things you are sure you would continue to love and enjoy, but without proper assessment and thought it could lead to an unsustainable effort. Getting onto the soccer team blinded me from thinking if this is really what I wanted to achieve, leading me to reverse the two virtues of cause then dedication.
 
-# 🌮 University of Southern California
+# 🌮 University of Southern California (Jan 15)
 
 ## 🌮
 
@@ -329,7 +329,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 > [!para]
 > 
 
-# 🟨 Ecole Polytechnique
+# 🟨 Ecole Polytechnique 
 
 1. We were made for each other!  Explain with concrete examples why you believe the Bachelor Program is the right match for your undergraduate studies. (300 words)
 
