@@ -329,7 +329,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 > [!para]
 > 
 
-# 🟨 Ecole Polytechnique 
+# 🟨 Ecole Polytechnique (March 21)
 
 1. We were made for each other!  Explain with concrete examples why you believe the Bachelor Program is the right match for your undergraduate studies. (300 words)
 
