@@ -19,8 +19,11 @@
 	5. Subjective
 5. Logic
 	1. Reasoning
-	2. 
+	2. Transform
+	3. 
 6. Deductive reasoning
+	1. Logic
+	2. 
 7. Opinion
 	1. Subjective
 	2. 
@@ -28,7 +31,8 @@
 	1. Objective
 	2. Statement
 	3. Baseline
-	4. 
+	4. Logical
+	5. Provable
 9. Eyewitness
 	1. First-hand
 	2. Perceived
