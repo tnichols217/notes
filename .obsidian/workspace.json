@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "edc36a810cc74985",
+        "id": "0f8acec6cd71ebb6",
         "type": "tabs",
         "children": [
           {
-            "id": "7d7ccf2581264901",
+            "id": "ac647a6c633c1adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic Science/Unit 1/Lesson 2 - Vocab.md",
+                "file": "APBiology/4/Notes/Case Study/1 - Eukaryotic Cell Cycle and Cancer.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "effd5c8f1f3b6503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +44,6 @@
       {
         "id": "a4dc53f937101249",
         "type": "tabs",
-        "dimension": 46.66666666666666,
         "children": [
           {
             "id": "b67808c7c498bc42",
@@ -55,23 +67,6 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "28c69e3aca2b1263",
-        "type": "tabs",
-        "dimension": 53.33333333333334,
-        "children": [
-          {
-            "id": "c6a55982cacab7f6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Forensic Science/Unit 1/Lesson 2 - Vocab.md"
               }
             }
           }
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic Science/Unit 1/Lesson 2 - Vocab.md",
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +106,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6a55982cacab7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "APBiology/1/Notes/Labs/Properties of Water.md"
               }
             }
           },
@@ -123,15 +128,16 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "7d7ccf2581264901",
+  "active": "effd5c8f1f3b6503",
   "lastOpenFiles": [
+    "Forensic Science/Unit 1/Lesson 2 - Vocab.md",
     "college/Extra Questions.md",
     "Private/college/Regular Decision.md",
     "Private/college/RD/Checklist.md",
@@ -140,7 +146,6 @@
     "college/Amherst Supplemental.md",
     "obsidian-columns.md",
     "Private/college/Additional Questions.md",
-    "Private/college/Colleges.md",
-    "CV.md"
+    "Private/college/Colleges.md"
   ]
 }
