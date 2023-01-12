@@ -23,7 +23,8 @@
 	3. 
 6. Deductive reasoning
 	1. Logic
-	2. 
+	2. Infallible
+	3. 
 7. Opinion
 	1. Subjective
 	2. 
