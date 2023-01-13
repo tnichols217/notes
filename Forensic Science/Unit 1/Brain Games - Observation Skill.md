@@ -6,3 +6,5 @@
 	2. Where do you recognize that person from?
 5. 3
 6. You recognize someone, but remember the wrong thing about them
+7. Eyewitnesses are really bad sources of information
+8. 
