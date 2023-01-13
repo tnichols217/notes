@@ -4,4 +4,5 @@
 4. -
 	1. Do you recognize anybody?
 	2. Where do you recognize that person from?
-	3. 
+5. 3
+6. You recognize someone, but remember the wrong thing about them
