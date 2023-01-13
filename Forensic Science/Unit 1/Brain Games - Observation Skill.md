@@ -7,4 +7,5 @@
 5. 3
 6. You recognize someone, but remember the wrong thing about them
 7. Eyewitnesses are really bad sources of information
-8. 
+8. Plant false memories in the witnesses minds
+9. 
