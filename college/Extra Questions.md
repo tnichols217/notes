@@ -363,7 +363,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 
 ## 🟨
 
-## 🟨 Virginia Tech
+# 🟨 Virginia Tech
 
 1. Virginia Tech’s motto is "Ut Prosim" which means 'That I May Serve'. Share how you contribute to a community that is important to you. How long have you been involved? What have you learned and how would you like to share that with others at Virginia Tech? (120 words)
 
