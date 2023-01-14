@@ -306,9 +306,10 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 
 # 🌮 University of Southern California (Jan 15)
 
-## 🌮
 
 1. Describe how you plan to pursue your academic interests and why you want to explore them at USC specifically. Please feel free to address your first- and second-choice major selections. (250 words)
+
+## 🌮
 
 > [!para]
 > Looking for an accepting community, USC is the perfect place for me. Not only does USC have a supporting and hype community, it is also a community that is built to outlast just out temporary stay at the university. USC's exposition to large players in the field - including those in Computer Science - is a big attraction to me as I aim to both get a good education in Computer Science but also gain reputable job experience. USC's invaluable network of alum and their positive attitude is something I wish I could take part of, not only to meet and get to know people of similar interests to me, but also to propel me deep into my professional life with people that would work alongside me.
@@ -318,12 +319,14 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 2. The student body at the USC Viterbi School of Engineering is a diverse group of unique engineers and computer scientists who work together to engineer a better world for all humanity. Describe how your contributions to the USC Viterbi student body may be distinct from others. Please feel free to touch on any part of your background, traits, skills, experiences, challenges, and/or personality in helping us better understand you. (250 words)
 
 ## 🟩
+
 > [!para]
 > Born to an American father and Malaysian mother, I have grown up understanding and balancing different cultures. My parents teach in a non-profit American international school in Malaysia where I am privileged to attend along with peers from over twenty five nations. On a broader scope, I live in a multicultural country that is made up of three predominant ethnicities. Living in this environment, I learned that unity and harmony exist from understanding and not tolerance. Tolerance suggests enduring or "putting up with" while understanding implies that there is nothing to “endure”, and that existing in harmony within a community of different beliefs and practices is one out of respect and acceptance. Once, my school rolled out a personality test that groups personalities by colors. That made me understand why some “blue” teachers can spend a whole block talking about feelings when something tragic happened, and why my “green” principle can come off as serious and goal oriented. It doesn’t mean that the “blue” teacher is not focused on academics, or the “green” principle is uncaring, they just have different personalities. I see culture the same way, if I understand the “personalities” of culture, acceptance of each other’s beliefs and practices becomes natural.
 
-## 🟨
 
 3. The National Academy of Engineering (NAE) and their 14 Grand Challenges go hand-in-hand with our vision to engineer a better world for all humanity. Engineers and computer scientists are challenged to solve these problems in order to improve life on the planet. Learn more about the NAE Grand Challenges at http://engineeringchallenges.org and tell us which challenge is most important to you, and why. (250 words)
+
+## 🟨
 
 > [!para]
 > 
