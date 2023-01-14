@@ -363,4 +363,16 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 
 ## 🟨
 
-## 🟨 Virgi
+## 🟨 Virginia Tech
+
+1. Virginia Tech’s motto is "Ut Prosim" which means 'That I May Serve'. Share how you contribute to a community that is important to you. How long have you been involved? What have you learned and how would you like to share that with others at Virginia Tech? (120 words)
+
+## 🟨
+
+2. Resilience is defined as the ability to adapt and learn from a difficulty. Reflect on a time that you have exhibited resilience. What growth did you see in yourself after this experience? (120 words)
+
+## 🟨
+
+3. **Share a time when you were most proud of yourself either as a role model or when you displayed your leadership.** What specific skills did you contribute to the experience? How did others rely on you for guidance? What did you learn about yourself during this time? (120 words)
+
+## :
