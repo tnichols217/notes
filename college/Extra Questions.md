@@ -362,3 +362,5 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
    For the purpose of this essay prompt, pick one FHS or FWS seminar to study at CMC. What part of your personal experience—or your desire to know more about an area outside of your experience—best explains your seminar choice? (250 words)
 
 ## 🟨
+
+## 🟨 Virgi
