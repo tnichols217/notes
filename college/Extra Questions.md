@@ -304,11 +304,11 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 > 
 > Dedication on its own has no point unless you are being dedicated towards a cause you want to achieve. It may seem obvious that you would only ever be dedicated towards things you are sure you would continue to love and enjoy, but without proper assessment and thought it could lead to an unsustainable effort. Getting onto the soccer team blinded me from thinking if this is really what I wanted to achieve, leading me to reverse the two virtues of cause then dedication.
 
-# 🌮 University of Southern California (Jan 15)
+# 🟩 University of Southern California (Jan 15)
 
 1. Describe how you plan to pursue your academic interests and why you want to explore them at USC specifically. Please feel free to address your first- and second-choice major selections. (250 words)
 
-## 🌮
+## 🟩
 
 > [!para]
 > Looking for an accepting community, USC is the perfect place for me. Not only does USC have a supporting and hype community, it is also a community that is built to outlast just out temporary stay at the university. USC's exposition to large players in the field - including those in Computer Science - is a big attraction to me as I aim to both get a good education in Computer Science but also gain reputable job experience. USC's invaluable network of alum and their positive attitude is something I wish I could take part of, not only to meet and get to know people of similar interests to me, but also to propel me deep into my professional life with people that would work alongside me.
@@ -325,7 +325,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 
 3. The National Academy of Engineering (NAE) and their 14 Grand Challenges go hand-in-hand with our vision to engineer a better world for all humanity. Engineers and computer scientists are challenged to solve these problems in order to improve life on the planet. Learn more about the NAE Grand Challenges at http://engineeringchallenges.org and tell us which challenge is most important to you, and why. (250 words)
 
-## 🟨
+## 🟩
 
 > [!para]
 > Securing Cyberspace is the most important to me. It is evident that in the current state of the world, not many people are educated on the security and privacy in the digital space. Cyberspace in general already has multiple solutions for all the security problems we have today, yet we still encounter these problems due to lazy implementations or simply lack of resources to allocate towards such protections. Several years ago I was of the belief that free services with ads were good; not because of the ads, but because the ads enabled access to great services without cost. Although true that the ads enabled such services, I now see that although there is no monetary cost of such services, the informational cost is exponentially higher. Many free online services would collect data, essentially learning exactly who you are in a sense, in order to target particular audiences or just sell personal information. I believe that providing free, or cheap, alternatives to such services is also equally as important than programatically securing services - essentially securing users' identities. Additionally, digital security should be of lower cost both computationally and in effort - being both more applicable to even lower power devices and also on by default. More importantly, there should be more accessible standards for security. There already are standards for protocols and and APIs, but normally security standards are not linked to such protocols and instead should be defaults instead of an additional configuration.
