@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "college/Midyear Update Emails.md"
+                "file": "Private/college/RD/Checklist.md"
               }
             }
           }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "college/Midyear Update Emails.md",
+                "file": "Private/college/RD/Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,10 +276,10 @@
       }
     ]
   },
-  "active": "644e02406ec2d565",
+  "active": "312a97b210f1305d",
   "lastOpenFiles": [
-    "Private/college/RD/Checklist.md",
     "college/Midyear Update Emails.md",
+    "Private/college/RD/Checklist.md",
     "Private/college/Regular Decision.md",
     "Private/college/Colleges.md",
     "college/Extra Questions.md",
