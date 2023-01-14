@@ -375,4 +375,8 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 
 3. **Share a time when you were most proud of yourself either as a role model or when you displayed your leadership.** What specific skills did you contribute to the experience? How did others rely on you for guidance? What did you learn about yourself during this time? (120 words)
 
-## :
+## 🟨
+
+4. Describe a goal that you have set and the steps you will take to achieve it. What made you set this goal for yourself? What is your timeline to achieve this goal? Who do you seek encouragement or guidance from as you work on this goal? (120 words)
+
+## 🟨
