@@ -328,7 +328,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 ## 🟨
 
 > [!para]
-> 
+> Securing Cyberspace is the most im
 
 # 🟨 Ecole Polytechnique (March 21)
 
