@@ -328,7 +328,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 ## 🟨
 
 > [!para]
-> Securing Cyberspace is the most important to me. It is evident that in the current state of the world, not many people are educated on the security and privacy in the digital space. Cyberspace in general already has 
+> Securing Cyberspace is the most important to me. It is evident that in the current state of the world, not many people are educated on the security and privacy in the digital space. Cyberspace in general already has multiple solutions for all the security problems we have today, yet we still encounter these problems due to lazy implementations or simply lack of 
 
 # 🟨 Ecole Polytechnique (March 21)
 
