@@ -348,14 +348,17 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 
 1. Why do you want to attend Claremont McKenna College? (250 words)
 
-1. One of the hallmarks of a CMC education is the first-year humanities program that all students take in their first year at the College. The program has two components: the Freshman Humanities Seminar (FHS) and the Freshman Writing Seminar (FWS). While each FHS and FWS seminar has a distinctive approach in terms of texts and topics, their pairing gives first-year students a shared academic experience in small, writing-intensive courses that foster critical thinking about a wide range of important issues. 
+## 🟨
+
+2. One of the hallmarks of a CMC education is the first-year humanities program that all students take in their first year at the College. The program has two components: the Freshman Humanities Seminar (FHS) and the Freshman Writing Seminar (FWS). While each FHS and FWS seminar has a distinctive approach in terms of texts and topics, their pairing gives first-year students a shared academic experience in small, writing-intensive courses that foster critical thinking about a wide range of important issues. 
    FHS introduces first-year students to some of the crucial questions that human beings face with relation to society and the world. Individual sections are taught by faculty from a range of departments. Past and current topics include:
 	1.  Democracy and Leadership
 	2.  Women in Science
 	3.  Unconventional Thinking 
-FWS, taught by faculty from the literature department, develops students’ abilities in written and oral communication at the college level. Past and current topics include:
-1.  Art of the Personal Essay
-2.  Race, Gender, and Hollywood Film
-3.  Post-Apocalyptic Humanity
+   FWS, taught by faculty from the literature department, develops students’ abilities in written and oral communication at the college level. Past and current topics include:
+	1.  Art of the Personal Essay
+	2.  Race, Gender, and Hollywood Film
+	3.  Post-Apocalyptic Humanity
+   For the purpose of this essay prompt, pick one FHS or FWS seminar to study at CMC. What part of your personal experience—or your desire to know more about an area outside of your experience—best explains your seminar choice? (250 words)
 
-For the purpose of this essay prompt, pick one FHS or FWS seminar to study at CMC. What part of your personal experience—or your desire to know more about an area outside of your experience—best explains your seminar choice? (250 words)
+## 🟨
