@@ -252,15 +252,15 @@ strong em,
 
 /* table formatting */
 
-.hypermd-table-row .cm-widgetBuffer + .cm-em.cm-strong {
+.HyperMD-table-row .cm-widgetBuffer + .cm-em.cm-strong {
   padding-right: 6ch
 }
 
-.hypermd-table-row .cm-widgetBuffer + .cm-em {
+.HyperMD-table-row .cm-widgetBuffer + .cm-em {
   padding-right: 2ch
 }
 
-.hypermd-table-row .cm-widgetBuffer + .cm-strong {
+.HyperMD-table-row .cm-widgetBuffer + .cm-strong {
   padding-right: 4ch
 }
 
