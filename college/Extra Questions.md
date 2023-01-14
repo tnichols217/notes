@@ -315,12 +315,11 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 > 
 > Always wanting to be part of something greater and exciting, USC offers just that in an inclusive manner. Moving away from a country I've always lived in, USC would offer me the support and community I need to feel right at home, even if I just moved as far as I possibly could from home. My excited and energetic nature would fit right in at USC, taking part and contributing to the powerful school spirit already present at USC. Additionally, USC would provide everything I could want or need in order to learn and research Computer Science, something that not many colleges could provide as easily.
 
-## 🟨
-
 2. The student body at the USC Viterbi School of Engineering is a diverse group of unique engineers and computer scientists who work together to engineer a better world for all humanity. Describe how your contributions to the USC Viterbi student body may be distinct from others. Please feel free to touch on any part of your background, traits, skills, experiences, challenges, and/or personality in helping us better understand you. (250 words)
 
+## 🟩
 > [!para]
-> 
+> Born to an American father and Malaysian mother, I have grown up understanding and balancing different cultures. My parents teach in a non-profit American international school in Malaysia where I am privileged to attend along with peers from over twenty five nations. On a broader scope, I live in a multicultural country that is made up of three predominant ethnicities. Living in this environment, I learned that unity and harmony exist from understanding and not tolerance. Tolerance suggests enduring or "putting up with" while understanding implies that there is nothing to “endure”, and that existing in harmony within a community of different beliefs and practices is one out of respect and acceptance. Once, my school rolled out a personality test that groups personalities by colors. That made me understand why some “blue” teachers can spend a whole block talking about feelings when something tragic happened, and why my “green” principle can come off as serious and goal oriented. It doesn’t mean that the “blue” teacher is not focused on academics, or the “green” principle is uncaring, they just have different personalities. I see culture the same way, if I understand the “personalities” of culture, acceptance of each other’s beliefs and practices becomes natural.
 
 ## 🟨
 
