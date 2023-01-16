@@ -46,6 +46,18 @@
                 }
               },
               {
+                "id": "644e02406ec2d565",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "college/Midyear Update Emails.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "dde2fdd57e1d7c9c",
                 "type": "leaf",
                 "state": {
@@ -118,7 +130,7 @@
           {
             "id": "a4dc53f937101249",
             "type": "tabs",
-            "dimension": 46.66666666666666,
+            "dimension": 58.44444444444444,
             "children": [
               {
                 "id": "b67808c7c498bc42",
@@ -150,7 +162,7 @@
           {
             "id": "28c69e3aca2b1263",
             "type": "tabs",
-            "dimension": 53.33333333333334,
+            "dimension": 41.55555555555556,
             "children": [
               {
                 "id": "c6a55982cacab7f6",
@@ -253,13 +265,12 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "vertical",
             "x": 624,
-            "y": 493,
+            "y": 300,
             "width": 800,
             "height": 600,
             "maximize": true,
@@ -1429,5 +1440,5 @@
       "active": "1710b7d11ccb537c"
     }
   },
-  "active": "college"
+  "active": "biology"
 }
