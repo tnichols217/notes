@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/5/Notes/Unit Packet/1 - Unit Map.md",
+                "file": "APBiology/5/Notes/Investigation/Chi-Squared Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/5/Notes/Unit Packet/1 - Unit Map.md",
+                "file": "APBiology/5/Notes/Investigation/Chi-Squared Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/5/Notes/Unit Packet/1 - Unit Map.md"
+                "file": "APBiology/5/Notes/Investigation/Chi-Squared Analysis.md"
               }
             }
           },
@@ -123,6 +123,8 @@
   },
   "active": "6c54865db0d5b75b",
   "lastOpenFiles": [
+    "APBiology/5/Chi-squared Test.md",
+    "APBiology/5/Notes/Unit Packet/1 - Unit Map.md",
     "APBiology/5/Notes/Investigation/Chi-Squared Analysis.md",
     "APBiology/5/Documents/Investigation/Investigation_MM Chi Square (Lab Handout).pdf",
     "APBiology/5/Documents/Investigation/The Chi-Square Test (Notes).pdf",
@@ -130,8 +132,6 @@
     "APBiology/5/Notes/Topic Review Guide/5.3.md",
     "APBiology/5/Notes/Topic Review Guide/5.4-5.5.md",
     "APBiology/5/Notes/Unit Packet/4 - Unit Summary.md",
-    "APBiology/5/Notes/Unit Packet/3 - Test Topics.md",
-    "APBiology/5/Notes/Unit Packet/2 - Traffic Light.md",
-    "APBiology/5/Notes/Unit Packet/1 - Unit Map.md"
+    "APBiology/5/Notes/Unit Packet/3 - Test Topics.md"
   ]
 }
