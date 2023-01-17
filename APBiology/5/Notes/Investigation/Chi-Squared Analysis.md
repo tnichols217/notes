@@ -11,10 +11,10 @@
 
 | Color  | Obs |
 | ------ | --- |
-| Red    |     |
-| Orange | 38    |
-| Yellow |     |
-| Green  |   |
+| Red    | 31  |
+| Orange | 38  |
+| Yellow | 33  |
+| Green  | 27  |
 | Blue   | 26  |
 | Brown  | 24  |
-| Total  |     |
+| Total  | 179 | 
