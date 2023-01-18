@@ -53,4 +53,8 @@
 10. 75%, because both parents are heterozygous (same for the second child)
 11. Since the offspring tend to lean more towards a 3:1 ratio, this likely means that the parents are both heterozygous for freckles.
 12. 12
-13. 
+	1. 100% AB
+	2. 50% AB, 50% aB
+	3. 50% Ab, 50% ab
+	4. 25% AB, 25% Ab, 25% aB, 25% ab
+	5. 
