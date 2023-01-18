@@ -38,12 +38,14 @@ With a 95% confidence level, and 5 degrees of freedom, the $\chi^2$ result of ei
 
 G:g ratio of 3:1
 
-## Chi-squared test for phenotypes in 
-
+## Chi-squared test for phenotypes in Green/Albino peas
+### Data
 | Phenotype | Obv | Exp | $o-e$ | $(o-e)^2$ | $(o-e)^2/e$   |
 | --------- | --- | --- | ----- | --------- | ------------- |
 | Green     | 72  | 63  | 9     | 81        | 1.28571428571 |
 | Albino    | 12  | 21  | -9    | 81        | 3.85714285714 |
 | Total     | 84  | 84  |       |           | 5.14285714285 | 
 
-
+### Analysis
+#### Null Hypothesis
+Pea seeds obey the law of independent assortment and the combination of genes are complet
