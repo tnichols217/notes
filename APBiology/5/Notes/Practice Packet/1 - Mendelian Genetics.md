@@ -62,7 +62,6 @@
 	2. 50% ABc, 50% aBc
 	3. 12.5% ABC, 12.5% ABc, 12.5% AbC, 12.5% Abc, 12.5% aBC, 12.5% aBc, 12.5% abC, 12.5% abc
 14. Two RY and two ry
-15. 15
 
 |        | **AB** | **Ab** | **aB** | **ab** |
 | ------ | ------ | ------ | ------ | ------ |
@@ -71,5 +70,10 @@
 | **aB** | AaBB   | AaBb   | aaBB   | aaBb   |
 | **ab** | AaBb   | Aabb   | aaBb   | aabb   | 
 
+15. 15
+
 1. 1
-	1. 
+	1. AABB, AaBB, AABb, AaBb
+	2. aaBB, aaBb
+	3. AAbb, Aabb
+	4. aabb
