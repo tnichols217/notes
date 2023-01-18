@@ -49,4 +49,5 @@
 6. All of them are Pp (Purple) because the white flowers are homozygous recessive (pp) and the purples are homozygous dominant (PP)
 7. 50% Aa, it is a cross between heterozygous and homozygous recessive.
 8. The man is likely homozygous dominant as all his offspring have freckles. The children are likely all heterozygous because the mother must be homozygous recessive
-9. 
+9. The father is likely heterozygous, mother must be homozygous recessive, the children with freckles are heterozygous and the ones without are homozygous recessive
+10. 75%
