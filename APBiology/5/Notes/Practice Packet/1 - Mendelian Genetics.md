@@ -46,4 +46,4 @@
 | **A** | AA    | Aa    |
 | **a** | Aa    | aa    |
 
-6. 
+6. All of them are Pp (Purple)
