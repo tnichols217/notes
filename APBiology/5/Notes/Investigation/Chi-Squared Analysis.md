@@ -29,7 +29,7 @@ The assortment of colors in a crispy MnM packet are each of equal chance of occu
 With a 95% confidence level, and 5 degrees of freedom, the $\chi^2$ result of either 4.4 or 4.518 are insignificant to the threshold of 9.49, and fails to reject the Null Hypothesis that the MnMs' colors are equally assorted.
 
 # Additional Practice Problems
-1. In pea plants, green color (G) is dominant to albino (g). If we cross two pea plants that are heterozygous for color, what would be the expected phenotype ratio of the offspring?
+## Phenotypic ratio heterozygous genes
 
 |       | **G** | **g** |
 | ----- | ----- | ----- |
@@ -38,7 +38,7 @@ With a 95% confidence level, and 5 degrees of freedom, the $\chi^2$ result of ei
 
 G:g ratio of 3:1
 
-2. Let’s say that we actually did cross two heterozygous pea plants and obtained the following data. Conduct a chi-squared test.
+## Chi-squared test for phenotypes in 
 
 | Phenotype | Obv | Exp | $o-e$ | $(o-e)^2$ | $(o-e)^2/e$   |
 | --------- | --- | --- | ----- | --------- | ------------- |
