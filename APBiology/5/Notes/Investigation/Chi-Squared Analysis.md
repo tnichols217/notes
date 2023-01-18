@@ -23,4 +23,7 @@
 
 # Analysis
 ## Null Hypothesis
-The assortment of colors in a crispy MnM packet are each of equal chance of occuring.
+The assortment of colors in a crispy MnM packet are each of equal chance of occurring.
+
+## Conclusion
+With a 95% confidence level, 
