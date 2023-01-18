@@ -95,4 +95,4 @@
 29. 29
 	1. 25% chance of child getting it
 	2. likely 0%
-30. 
+30. uneffected are hh, which the effected is Hh
