@@ -36,6 +36,11 @@ With a 95% confidence level, and 5 degrees of freedom, the $\chi^2$ result of ei
 | **G** | GG    | Gg    |
 | **g** | Gg    | gg    |
 
-G:g ratio of 
+G:g ratio of 3:1
 
-2. 2
+2. Let’s say that we actually did cross two heterozygous pea plants and obtained the following data:
+
+| Phenotype | Obv |
+| --------- | --- |
+| Green     |     |
+| Albino    |     |
