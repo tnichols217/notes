@@ -52,4 +52,5 @@
 9. The father is likely heterozygous, mother must be homozygous recessive, the children with freckles are heterozygous and the ones without are homozygous recessive
 10. 75%, because both parents are heterozygous (same for the second child)
 11. Since the offspring tend to lean more towards a 3:1 ratio, this likely means that the parents are both heterozygous for freckles.
-12. 
+12. 12
+13. 
