@@ -22,3 +22,5 @@
 | Total  | 179 |        | 0      | 134.808335 | 4.51876562867 | 
 
 # Analysis
+## Null Hypothesis
+The assortment of colors in a crispy MnM packet are each of equal chance of occuring.
