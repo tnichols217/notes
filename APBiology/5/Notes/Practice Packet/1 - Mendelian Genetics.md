@@ -68,5 +68,8 @@
 | ------ | ------ | ------ | ------ | ------ |
 | **AB** | AABB   | AABb   | AaBB   | AaBb   |
 | **Ab** | AABb   | AAbb   | AaBb   | Aabb   |
-| **aB** | AaBB   | AaBb   |        |        |
-| **ab** |        |        |        |        |
+| **aB** | AaBB   | AaBb   | aaBB   | aaBb   |
+| **ab** | AaBb   | Aabb   | aaBb   | aabb   | 
+
+1. 1
+	1. 
