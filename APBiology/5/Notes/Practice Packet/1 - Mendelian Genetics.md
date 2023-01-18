@@ -71,9 +71,13 @@
 | **ab** | AaBb   | Aabb   | aaBb   | aabb   | 
 
 15. 15
-
-1. 1
 	1. AABB, AaBB, AABb, AaBb
 	2. aaBB, aaBb
 	3. AAbb, Aabb
 	4. aabb
+16. 16
+
+1. 1
+	1. 
+
+
