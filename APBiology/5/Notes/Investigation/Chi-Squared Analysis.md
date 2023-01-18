@@ -30,5 +30,12 @@ With a 95% confidence level, and 5 degrees of freedom, the $\chi^2$ result of ei
 
 # Additional Practice Problems
 1. In pea plants, green color (G) is dominant to albino (g). If we cross two pea plants that are heterozygous for color, what would be the expected phenotype ratio of the offspring? Do the Punnett square and write the phenotypic ratio in the space below:
-   
+
+|       | **G** | **g** |
+| ----- | ----- | ----- |
+| **G** | GG    | Gg    |
+| **g** | Gg    | gg    |
+
+G:g ratio of 
+
 2. 2
