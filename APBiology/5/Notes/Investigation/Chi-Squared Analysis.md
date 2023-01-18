@@ -1,5 +1,6 @@
-# Data
-## Solo
+# MnM Lab
+## Data
+### Solo
 | Color  | Obs | Exp | $o-e$ | $(o-e)^2$ | $(o-e)^2/e$ | 
 | ------ | --- | --- | ----- | --------- | ----------- |
 | Red    | 7   | 5   | +2    | 4         | 0.8         |
@@ -10,7 +11,7 @@
 | Brown  | 5   | 5   | +0    | 0         | 0.0         |
 | Total  | 30  | 30  | 0     |           | 4.4         |
 
-## Group
+### Group
 | Color  | Obs | Exp    | $o-e$  | $(o-e)^2$  | $(o-e)^2/e$   |
 | ------ | --- | ------ | ------ | ---------- | ------------- |
 | Red    | 31  | 29.833 | +1.166 | 1.359556   |               |
@@ -21,11 +22,11 @@
 | Brown  | 24  | 29.833 | -5.833 | 34.023889  |               |
 | Total  | 179 |        | 0      | 134.808335 | 4.51876562867 | 
 
-# Analysis
-## Null Hypothesis
+## Analysis
+### Null Hypothesis
 The assortment of colors in a crispy MnM packet are each of equal chance of occurring.
 
-## Conclusion
+### Conclusion
 With a 95% confidence level, and 5 degrees of freedom, the $\chi^2$ result of either 4.4 or 4.518 are insignificant to the threshold of 9.49, and fails to reject the Null Hypothesis that the MnMs' colors are equally assorted.
 
 # Additional Practice Problems
