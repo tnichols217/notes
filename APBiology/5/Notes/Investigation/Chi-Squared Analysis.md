@@ -40,7 +40,8 @@ G:g ratio of 3:1
 
 2. Let’s say that we actually did cross two heterozygous pea plants and obtained the following data:
 
-| Phenotype | Obv |
-| --------- | --- |
-| Green     |     |
-| Albino    |     |
+| Phenotype | Obv | Exp | $o-e$ | $$
+| --------- | --- | --- | ----- |
+| Green     | 72  | 63  |       |
+| Albino    | 12  | 21  |       |
+| Total     | 84  | 84  |       |
