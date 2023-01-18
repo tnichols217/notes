@@ -46,4 +46,5 @@
 | **A** | AA    | Aa    |
 | **a** | Aa    | aa    |
 
-6. All of them are Pp (Purple)
+6. All of them are Pp (Purple) because the white flowers are homozygous recessive (pp) and the purples are homozygous dominant (PP)
+7. 
