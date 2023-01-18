@@ -26,4 +26,5 @@
 The assortment of colors in a crispy MnM packet are each of equal chance of occurring.
 
 ## Conclusion
-With a 95% confidence level, and 5 degrees of freedom, the $\chi^2$ result of either 4.4 or 4.518 are insigni
+With a 95% confidence level, and 5 degrees of freedom, the $\chi^2$ result of either 4.4 or 4.518 are insignificant to the threshold of 9.49, and fails to reject the Null Hypothesis that the MnMs' colors are equally assorted.
+
