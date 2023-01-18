@@ -48,4 +48,7 @@ G:g ratio of 3:1
 
 ### Analysis
 #### Null Hypothesis
-Pea seeds obey the law of independent assortment and the combination of genes are complet
+Pea seeds obey the law of independent assortment and the combination of genes are completely random, meaning that the dominant phenotype in a cross should account for 75% of the offspring.
+
+#### Conclusion
+With a 95% confidence level, and 1 degree of freedom, the $\chi^2$ value of 5.14285714285 
