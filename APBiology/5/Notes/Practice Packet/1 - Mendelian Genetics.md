@@ -61,4 +61,5 @@
 	1. 100% ABC
 	2. 50% ABc, 50% aBc
 	3. 12.5% ABC, 12.5% ABc, 12.5% AbC, 12.5% Abc, 12.5% aBC, 12.5% aBc, 12.5% abC, 12.5% abc
-14. 
+14. Two RY and two ry
+15. 
