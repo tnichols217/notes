@@ -89,4 +89,5 @@
 23. A-C-B, A&C
 24. C-W-B-S, W&B
 25. W-A-L-D, L&D
-26. A-C-D-F-B
+26. A-C-D-F-B, C&D
+27. B-D-A
