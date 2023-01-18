@@ -91,4 +91,4 @@
 25. W-A-L-D, L&D
 26. A-C-D-F-B, C&D
 27. B-F-D-C-A, C&D
-28. 
+28. It is likely 
