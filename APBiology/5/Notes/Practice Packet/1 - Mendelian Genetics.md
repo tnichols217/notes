@@ -91,4 +91,5 @@
 25. W-A-L-D, L&D
 26. A-C-D-F-B, C&D
 27. B-F-D-C-A, C&D
-28. It is likely 
+28. It is likely a recessive disorder, however there is not enough information to decide if it is autosomal or sex-linked, his grandfather has aa while his parents both have Aa, and he himself has aa
+29. 
