@@ -4,8 +4,9 @@
 	- Traits from parent's parents are combined almost completely randomly to produce a single copy of all DNA passed into the haploid cell
 	- Haploid cells from mom and dad are combined into the offspring
 -   Pose questions about the ethical, social, or medical issues surrounding human genetic disorders.
-	- Should we prevent these pe
+	- Should we prevent these people form reproducing so that these disorders could be irradiated? or do they still have the right to harm future people with their choice.
 -   Apply mathematical routines to determine Mendelian patterns of inheritance provided by data sets.
+	- Basically each combo is 25%, and if one is seen multiple times, add the 25%s together
 -   Explain deviations from Mendel’s model of the inheritance of traits.
 -   Explain how the inheritance patterns of many traits cannot be accounted for by Mendelian genetics
 -   Describe representations of an appropriate example of inheritance patterns that cannot be explained by Mendel’s model of the inheritance of traits.
