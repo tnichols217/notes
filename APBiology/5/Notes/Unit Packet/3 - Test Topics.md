@@ -36,9 +36,11 @@
     13.  Pleiotropy
         1. A single gene having multiple effects and expressions in the body
     14.  Allele
-        1. The specific 
+        1. The specific code that codes for a particular phenotype, will combine with other alleles, get blocked, or block other alleles to produce expression
     15.  Locus
+        1. The location of a gene on a chromosome
     16.  Parental-type offspring
+        1. 
     17.  Recombinant-type offspring
     18.  X-inactivation
     19.  Aneuploidy (what is it, how does it happen, what diseases arise from it?)
