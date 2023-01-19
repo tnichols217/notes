@@ -15,12 +15,14 @@
 -   Construct explanations of the influence of environmental factors on the phenotype of an organism.
 	- Different genes are only expressed in certain conditions like temperature, pH, and others.
 -   Use evidence to justify a claim that a variety of phenotypic responses to a single environmental factor can result from different genotypes within the population.
-	- One of the genes may be ac
+	- One of the genes may be active normally, but then when a factor influences the cell it triggers the activation of the other gene possibly
 
 # Objectives:
 
 -   How are traits passed from one generation to the next?
+	- Through genes
 -   How do eukaryotic cells store, retrieve, and transmit genetic information?
+	- 
 -   How does genotype affect phenotype?
 -   How are genotype and human disorder related?
 
