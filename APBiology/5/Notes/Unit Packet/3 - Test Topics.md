@@ -55,10 +55,14 @@
     3.  Complete dominance
     4.  Dihybrid crosses (might be quicker to use laws of probability and monohybrid crosses)
 6.  Frequency of recombination based on linkage map
+	1. Further apart -> More likely to recombine
 7.  Given recombination frequencies, determine linkage map
+	1. Small frequencies -> Next to each other on the map
 8.  Probability questions
     1.  When do you use rule of multiplication?
+        1. When you want both things
     2.  When do you use rule of addition?
+        1. When you want either thing
 9.  Types of chromosomal mutations - definitions
 10.  Understand the heredity principles involved in:
     1.  Huntington’s disease
