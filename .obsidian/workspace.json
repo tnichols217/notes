@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f8acec6cd71ebb6",
+        "id": "edc36a810cc74985",
         "type": "tabs",
         "children": [
           {
-            "id": "6c54865db0d5b75b",
+            "id": "4a525f6e31ce8430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/5/Unit 5 BILL.md",
+                "file": "APLit/Things Fall Apart - Exile Q3 Essay.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,6 +31,7 @@
       {
         "id": "a4dc53f937101249",
         "type": "tabs",
+        "dimension": 58.44444444444444,
         "children": [
           {
             "id": "b67808c7c498bc42",
@@ -54,6 +55,23 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "28c69e3aca2b1263",
+        "type": "tabs",
+        "dimension": 41.55555555555556,
+        "children": [
+          {
+            "id": "c6a55982cacab7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "APLit/Things Fall Apart - Exile Q3 Essay.md"
               }
             }
           }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/5/Unit 5 BILL.md",
+                "file": "APLit/Things Fall Apart - Exile Q3 Essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,16 +111,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c6a55982cacab7f6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "APBiology/5/Unit 5 BILL.md"
               }
             }
           },
@@ -115,16 +123,67 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "6c54865db0d5b75b",
+  "floating": {
+    "id": "9046a04c7c0c4960",
+    "type": "floating",
+    "children": [
+      {
+        "id": "691e8d525d2d8bf4",
+        "type": "window",
+        "children": [
+          {
+            "id": "5f43a92398d3f180",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "312a97b210f1305d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Private/college/RD/Checklist.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d4d0bc6ebaeebb5f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Private/college/Regular Decision.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 624,
+        "y": 300,
+        "width": 800,
+        "height": 600,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4a525f6e31ce8430",
   "lastOpenFiles": [
-    "APBiology/5/Notes/Unit Packet/4 - Unit Summary.md",
     "APBiology/5/Unit 5 BILL.md",
+    "APBiology/5/Notes/Unit Packet/4 - Unit Summary.md",
     "APBiology/4/Unit 4 BILL.md",
     "APBiology/5/Notes/Unit Packet/3 - Test Topics.md",
     "APBiology/5/Notes/Topic Review Guide/5.4-5.5.md",
