@@ -13,7 +13,9 @@
 	- Often things that do not follow will inherit similarly but with different chances
 	- For other things it tends to be multiple genes, which most commonly is just a range of expression
 -   Construct explanations of the influence of environmental factors on the phenotype of an organism.
+	- Different genes are only expressed in certain conditions like temperature, pH, and others.
 -   Use evidence to justify a claim that a variety of phenotypic responses to a single environmental factor can result from different genotypes within the population.
+	- One of the genes may be ac
 
 # Objectives:
 
