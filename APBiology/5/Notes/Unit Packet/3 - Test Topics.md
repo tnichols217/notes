@@ -9,7 +9,9 @@
         1. When genes are on the same chromosome
 4.  Vocabulary:
     1.  Testcross
+        1. Cross of two genotypes to simulate the result of children's genotypes
     2.  Dihybrid
+        1. One gene 
     3.  Monohybrid
     4.  Epistasis – definition, examples, how can you tell this is the inheritance pattern?
     5.  True-breeding
