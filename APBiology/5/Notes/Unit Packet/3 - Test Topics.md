@@ -44,7 +44,5 @@
     1.  Incomplete dominance
     2.  Sex-linked traits
     3.  Co-dominance
-        
     4.  Linked genes
-        
 13.  Chi square analysis with genetics problems
