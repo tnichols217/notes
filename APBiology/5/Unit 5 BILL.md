@@ -12,6 +12,6 @@ Unit Essentials:
 
 Activity Log:
 
-1. [ ] Practice Packet: Mendelian Genetics
-2. [ ] Practice Packet: Extra Heredity Practices
+1. [x] Practice Packet: Mendelian Genetics
+2. [x] Practice Packet: Extra Heredity Practices
 3. [x] Investigation: Chi Square M&M's Lab
