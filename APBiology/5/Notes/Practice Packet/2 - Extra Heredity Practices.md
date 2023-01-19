@@ -6,4 +6,6 @@
 	2. No
 	3. Yes, D x Dd
 	4. No
-	5. 
+	5. No
+5. A
+6. 
