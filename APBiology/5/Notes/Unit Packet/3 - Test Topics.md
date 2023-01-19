@@ -32,9 +32,11 @@
         1. Only has one allele (X linked for males)
     12.  Polygenic inheritance – definition, examples, how can you tell this is the inheritance pattern?
         1. Multiple genes working together to produce gene expression
-        2. Height, mixture of many genes and factors to produce ma
+        2. Height, mixture of many genes and factors to produce many different phenotypes
     13.  Pleiotropy
+        1. A single gene having multiple effects and expressions in the body
     14.  Allele
+        1. The specific 
     15.  Locus
     16.  Parental-type offspring
     17.  Recombinant-type offspring
