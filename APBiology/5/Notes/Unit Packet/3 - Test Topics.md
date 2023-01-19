@@ -11,8 +11,9 @@
     1.  Testcross
         1. Cross of two genotypes to simulate the result of children's genotypes
     2.  Dihybrid
-        1. One gene 
+        1. Two gene cross to see the interaction between multiple genes and probabilities
     3.  Monohybrid
+        1. 
     4.  Epistasis – definition, examples, how can you tell this is the inheritance pattern?
     5.  True-breeding
     6.  Gamete
