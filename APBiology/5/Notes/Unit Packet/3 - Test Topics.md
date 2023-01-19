@@ -67,7 +67,9 @@
 10.  Understand the heredity principles involved in:
     1.  Huntington’s disease
     2.  Down syndrome
+        1. Too many chromosomes
     3.  Calico cats
+        1. In females, multiple colors because X chromosome
 11.  Understand the relationship of heredity to meiosis.
 12.  Understand how the following deviate from Mendel’s Laws and ratios:
     1.  Incomplete dominance
