@@ -17,4 +17,5 @@
 	2. Narduzzi, only parents with an A allele
 	3. Dorsett, theyre the only ones that could have both A and B
 	4. Youngblood, both parents are O
-11. 
+11. 11
+	1. 
