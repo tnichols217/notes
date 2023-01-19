@@ -13,7 +13,7 @@
     2.  Dihybrid
         1. Two gene cross to see the interaction between multiple genes and probabilities
     3.  Monohybrid
-        1. 
+        1. A single gene cross to see possible genotypes
     4.  Epistasis – definition, examples, how can you tell this is the inheritance pattern?
     5.  True-breeding
     6.  Gamete
