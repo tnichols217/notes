@@ -1,5 +1,4 @@
 ## Unit Essentials
-
 1. [x] Unit map
 2. [x] Traffic light
        ![[APBiology/5/Notes/Unit Packet/2 - Traffic Light]]
@@ -17,7 +16,6 @@
 	      ![[5.4-5.5]]
 
 ## Activity Log
-
 1. [x] Practice Packet: Mendelian Genetics
        ![[1 - Mendelian Genetics]]
 2. [x] Practice Packet: Extra Heredity Practices
