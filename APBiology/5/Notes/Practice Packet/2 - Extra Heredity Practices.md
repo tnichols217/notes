@@ -18,4 +18,8 @@
 	3. Dorsett, theyre the only ones that could have both A and B
 	4. Youngblood, both parents are O
 11. 11
+	1. 50%
+	2. 50%
+	3. 50%
+12. 12
 	1. 
