@@ -13,7 +13,8 @@
 8. B
 9. D
 10. 10
-	1. 
-	2. 
-	3. 
-	4. Youngblood
+	1. Heme, the last one
+	2. Narduzzi, only parents with an A allele
+	3. Dorsett, theyre the only ones that could have both A and B
+	4. Youngblood, both parents are O
+11. 
