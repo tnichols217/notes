@@ -10,8 +10,8 @@
 -   Explain deviations from Mendel’s model of the inheritance of traits.
 	- Linked traits, they do not recombine completely randomly independently
 -   Explain how the inheritance patterns of many traits cannot be accounted for by Mendelian genetics
-	- 
--   Describe representations of an appropriate example of inheritance patterns that cannot be explained by Mendel’s model of the inheritance of traits.
+	- Often things that do not follow will inherit similarly but with different chances
+	- For other things it tends to be multiple genes, which most commonly is just a range of expression
 -   Construct explanations of the influence of environmental factors on the phenotype of an organism.
 -   Use evidence to justify a claim that a variety of phenotypic responses to a single environmental factor can result from different genotypes within the population.
 
