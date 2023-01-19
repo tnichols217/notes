@@ -1,4 +1,4 @@
-| 1B. Explain the function of a character changing or remaining unchanged.                                                                         | 
+| 1B. Explain the function of a character changing or remaining unchanged.                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2C. Describe the relationship between a character and a setting.                                                                                 |
 | 7B. Develop a thesis statement that conveys a defensible claim about an interpretation of literature and that may establish a line of reasoning. |
