@@ -44,4 +44,5 @@
 21. A
 
 ## Extra
-1. 
+1. 3: White, Red, Blue
+2. Red and Blue are codominant, which produces purple, and both of them are dominant to white
