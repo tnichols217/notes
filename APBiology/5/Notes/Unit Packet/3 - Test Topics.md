@@ -2,8 +2,11 @@
 2.  Mendel’s crosses – what did F1 and F2 generations tell us about heredity? What was important about the inheritance of the traits he chose (aka why did it allow him to discover the patterns that he did)?
 3.  Independent assortment
     1.  When does it happen?
+        1. When genes are on different chromosomes
     2.  Why is it important in genetics problems?
+        1. It is easy to calculate and predict the possible geno and phenotypes of children
     3.  When does it not happen?
+        1. When genes are on the same chromosome
 4.  Vocabulary:
     1.  Testcross
     2.  Dihybrid
