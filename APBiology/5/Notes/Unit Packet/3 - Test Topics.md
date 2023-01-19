@@ -40,8 +40,9 @@
     15.  Locus
         1. The location of a gene on a chromosome
     16.  Parental-type offspring
-        1. 
+        1. Offspring receiving multiple genes unrecombined from a single chromosome
     17.  Recombinant-type offspring
+        1. Offspring receiving multiple genes mixed together from a parent
     18.  X-inactivation
     19.  Aneuploidy (what is it, how does it happen, what diseases arise from it?)
 5.  Punnett square questions
