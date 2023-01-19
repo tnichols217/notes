@@ -75,8 +75,12 @@
 	1. Produces randomness through alignment, crossing over, and random selection
 12.  Understand how the following deviate from Mendel’s Laws and ratios:
     1.  Incomplete dominance
-        1. Mixture of two allele
+        1. Mixture of two alleles (in splotchiness)
     2.  Sex-linked traits
+        1. Males only have one X chromosome
     3.  Co-dominance
+        1. Mixture of two alleles
     4.  Linked genes
+        1. Doesn't recombine completely randomly because of the distance on chromosomes
 13.  Chi square analysis with genetics problems
+	1. $\chi^2\Sigma$ 
