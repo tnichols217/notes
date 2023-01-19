@@ -47,7 +47,8 @@
         1. One of the X chromosomes are disabled in a female because there is twice the necessary DNA needed for expression
     19.  Aneuploidy (what is it, how does it happen, what diseases arise from it?)
         1. Extra or not enough chromatids
-        2. Happens because of disjuction 
+        2. Happens because of nondisjuction
+        3. Down syndrome
 5.  Punnett square questions
     1.  Sex-linked
     2.  Multiple alleles (blood type)
