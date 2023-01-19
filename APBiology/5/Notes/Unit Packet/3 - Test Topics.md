@@ -15,6 +15,7 @@
     3.  Monohybrid
         1. A single gene cross to see possible genotypes
     4.  Epistasis – definition, examples, how can you tell this is the inheritance pattern?
+        1. Multiple genes 
     5.  True-breeding
     6.  Gamete
     7.  Phenotype
