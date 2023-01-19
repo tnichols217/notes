@@ -22,21 +22,6 @@
 -   How are traits passed from one generation to the next?
 	- Through genes
 -   How do eukaryotic cells store, retrieve, and transmit genetic information?
-	- 
+	- In DNA, condensed into chromosomes and transmitted through the production of gamettes
 -   How does genotype affect phenotype?
--   How are genotype and human disorder related?
-
-# Major Topics and Textbook Correlations:
-
-## Chapter 14 – Mendel and the Gene Idea
-
--   Basic Mendelian Inheritance
--   Extending Mendelian Genetics: Multiple Alleles, Pleiotropy, Epistasis, Polygenic Inheritance, Environmental Influence on Genes
--   Mendelian Inheritance in Humans
-
-## Chapter 15 – The Chromosomal Basis of Heredity
-
--   Chromosomal Theory of Inheritance
--   Linked Genes
--   Sex Chromosomes and Sex Linked Disorders
--   Errors and Exceptions in Chromosomal Inheritance
+	- The dominant part of genotype will be the phenotype (most commonly)
