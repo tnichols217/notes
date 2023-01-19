@@ -15,10 +15,14 @@
     3.  Monohybrid
         1. A single gene cross to see possible genotypes
     4.  Epistasis – definition, examples, how can you tell this is the inheritance pattern?
-        1. Multiple genes 
+        1. Multiple genes collaborating to produce a phenotype
+        2. Often can be seen when there are more than 2 phenotypes and there is no clear codominance or incomplete dominance
     5.  True-breeding
+        1. In breeding will always produce the same phenotype
     6.  Gamete
+        1. A sex cell ready to mate
     7.  Phenotype
+        1. 
     8.  Genotype
     9.  Heterozygous
     10.  Homozygous
