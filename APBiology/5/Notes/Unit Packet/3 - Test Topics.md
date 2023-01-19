@@ -22,11 +22,15 @@
     6.  Gamete
         1. A sex cell ready to mate
     7.  Phenotype
-        1. 
+        1. The expression of a gene
     8.  Genotype
+        1. The alleles that make up a gene, which will be expressed in the phenotype
     9.  Heterozygous
+        1. Has both alleles
     10.  Homozygous
+        1. Has two of the same allele
     11.  Hemizygous
+        1. 
     12.  Polygenic inheritance – definition, examples, how can you tell this is the inheritance pattern?
     13.  Pleiotropy
     14.  Allele
