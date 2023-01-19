@@ -13,122 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "college/Interview Prep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aca95481478febca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "APLit/Things Fall Apart - Exile Q3 Essay.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cc2dd524f7caac8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/Colleges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc9b74704ae689f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "college/Extra Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "644e02406ec2d565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "college/Midyear Update Emails.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dde2fdd57e1d7c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "college/Amherst Supplemental.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da6798ed8c4d1486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/Additional Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a954997563670a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/QB Essay 1 Brainstorm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "345ce8ada2191092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/QB Short Answer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e5b26a2520e8407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/QB Essay.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,9 +180,10 @@
       }
     ]
   },
-  "active": "aca95481478febca",
+  "active": "4a525f6e31ce8430",
   "lastOpenFiles": [
     "college/Interview Prep.md",
+    "APLit/Things Fall Apart - Exile Q3 Essay.md",
     "Private/college/Regular Decision.md",
     "APBiology/5/Notes/Practice Packet/2 - Extra Heredity Practices.md",
     "APBiology/5/Notes/Practice Packet/1 - Mendelian Genetics.md",
@@ -299,7 +191,6 @@
     "APBiology/5/Unit 5 BILL.md",
     "APBiology/5/Notes/Unit Packet/3 - Test Topics.md",
     "APBiology/5/Notes/Investigation/Chi-Squared Analysis.md",
-    "APBiology/5/Chi-squared Test.md",
-    "APBiology/4/Unit 4 BILL.md"
+    "APBiology/5/Chi-squared Test.md"
   ]
 }
