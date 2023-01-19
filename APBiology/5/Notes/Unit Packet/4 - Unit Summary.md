@@ -1,6 +1,7 @@
 # AP Biology Standards:
 
 -   Construct a representation that connects the process of meiosis to the passage of traits from parent to offspring.
+	- Traits from y
 -   Pose questions about the ethical, social, or medical issues surrounding human genetic disorders.
 -   Apply mathematical routines to determine Mendelian patterns of inheritance provided by data sets.
 -   Explain deviations from Mendel’s model of the inheritance of traits.
