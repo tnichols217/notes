@@ -30,8 +30,9 @@
     10.  Homozygous
         1. Has two of the same allele
     11.  Hemizygous
-        1. 
+        1. Only has one allele (X linked for males)
     12.  Polygenic inheritance – definition, examples, how can you tell this is the inheritance pattern?
+        1. Multiple 
     13.  Pleiotropy
     14.  Allele
     15.  Locus
