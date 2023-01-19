@@ -44,7 +44,7 @@
     17.  Recombinant-type offspring
         1. Offspring receiving multiple genes mixed together from a parent
     18.  X-inactivation
-        1. 
+        1. One of the X chromosomes are disabled in a female because there is twice the necessary DNA needed for expression
     19.  Aneuploidy (what is it, how does it happen, what diseases arise from it?)
 5.  Punnett square questions
     1.  Sex-linked
