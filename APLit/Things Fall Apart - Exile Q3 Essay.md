@@ -8,4 +8,7 @@ Select a novel, play, or epic (Things Fall Apart) in which a character experienc
 - 7D. Select and use relevant and sufficient evidence to both develop and support a line of reasoning.
 
 > [!para]
+> Throughout Things Fall Apart, Nwoye undergoes an alienating yet enriching exile from his father, family, and tradition due to his introduction into the christian community. His initial departure from his father began early in his life when his father noticed that Nwoye is not and will not be as masculine as he was. Ultimately, the rift led Nwoye to leave his own culture for that of the Christians, followed by an expected disowning by his father. Nwoye's exile is not all mobid, however, as he finally experiences acceptance into a community unlike the hostility of his family.
 > 
+> Towards the beginning of the book, Nwoye and his father already had a shaky relationship. Exemplified early in the story, Nwoye is shown to already not have the favor of his father: "So Okonkwo encouraged the boys to sit with him in him obi, and he told them stories of the land -- masculine stories of violence and bloodshed. Nwoye knew that it was right to be masculine and to be violent, but somehow he still preferred the stories that his mother used to tell..." (24.5%). Okonkwo, being effected by his own relationship with his father wants to be as masculine as possible and instill that value into his son Nwoye. At this stage, Okonkwo still has hopes of being able to "save" 
+
