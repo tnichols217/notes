@@ -1599,8 +1599,8 @@
               }
             ],
             "direction": "vertical",
-            "x": 624,
-            "y": 300,
+            "x": 0,
+            "y": 0,
             "width": 800,
             "height": 600,
             "maximize": true,
@@ -1611,5 +1611,5 @@
       "active": "4a525f6e31ce8430"
     }
   },
-  "active": "ap lit"
+  "active": "biology"
 }

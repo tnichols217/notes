@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "edc36a810cc74985",
+        "id": "0f8acec6cd71ebb6",
         "type": "tabs",
         "children": [
           {
-            "id": "4a525f6e31ce8430",
+            "id": "6c54865db0d5b75b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APLit/Things Fall Apart - Exile Q3 Essay.md",
+                "file": "APBiology/5/Unit 5 BILL.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,6 @@
       {
         "id": "a4dc53f937101249",
         "type": "tabs",
-        "dimension": 58.44444444444444,
         "children": [
           {
             "id": "b67808c7c498bc42",
@@ -55,23 +54,6 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "28c69e3aca2b1263",
-        "type": "tabs",
-        "dimension": 41.55555555555556,
-        "children": [
-          {
-            "id": "c6a55982cacab7f6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "APLit/Things Fall Apart - Exile Q3 Essay.md"
               }
             }
           }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APLit/Things Fall Apart - Exile Q3 Essay.md",
+                "file": "APBiology/5/Unit 5 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +93,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6a55982cacab7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "APBiology/5/Unit 5 BILL.md"
               }
             }
           },
@@ -123,67 +115,16 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "floating": {
-    "id": "9046a04c7c0c4960",
-    "type": "floating",
-    "children": [
-      {
-        "id": "691e8d525d2d8bf4",
-        "type": "window",
-        "children": [
-          {
-            "id": "5f43a92398d3f180",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "312a97b210f1305d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Private/college/RD/Checklist.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d4d0bc6ebaeebb5f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Private/college/Regular Decision.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 800,
-        "height": 600,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4a525f6e31ce8430",
+  "active": "6c54865db0d5b75b",
   "lastOpenFiles": [
-    "APBiology/5/Unit 5 BILL.md",
     "APLit/Things Fall Apart - Exile Q3 Essay.md",
+    "APBiology/5/Unit 5 BILL.md",
     "APLang/Q3/Q3.md",
     "APLang/Q3/Argument Paragraph.md",
     "APLang/Q2/Q2.md",
