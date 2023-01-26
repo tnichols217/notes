@@ -4,4 +4,5 @@
 4. With enough research we could probably synthesize our own DNA and modify life forms
 5. Radiolabeled sulfur in the proteins did not show up in the children bacteriophage, while the radiolabeled phosphorus in DNA did show up in the children. 
 6. Building a simulation to simulate how it would behave virtually. We can solve for the components of a molecule based on it its properties.
-7. 
+7. Shooting X-ray beams through molecules and measuring the diffraction or reflection of such beams to gain an understanding of the shape of a molecule. X-rays' wavelength is roughly the distance between the atoms, which would give a good enough resolution to model the locations of the atoms
+8. 
