@@ -117,8 +117,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical"
@@ -170,7 +169,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Private/college/Regular Decision.md"
+                    "file": "college/Interview Prep.md"
                   }
                 }
               }
@@ -202,7 +201,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Private/college/Regular Decision.md",
+                    "file": "college/Interview Prep.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -270,16 +269,16 @@
               }
             ],
             "direction": "vertical",
-            "x": 624,
-            "y": 300,
-            "width": 800,
-            "height": 600,
+            "x": 0,
+            "y": 0,
+            "width": 1919,
+            "height": 1079,
             "maximize": true,
             "zoom": 0
           }
         ]
       },
-      "active": "d4d0bc6ebaeebb5f"
+      "active": "b67808c7c498bc42"
     },
     "biology": {
       "main": {
@@ -1611,5 +1610,5 @@
       "active": "4a525f6e31ce8430"
     }
   },
-  "active": "college"
+  "active": "biology"
 }

@@ -4,114 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "edc36a810cc74985",
+        "id": "0f8acec6cd71ebb6",
         "type": "tabs",
         "children": [
           {
-            "id": "4a525f6e31ce8430",
+            "id": "6c54865db0d5b75b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "college/Interview Prep.md",
+                "file": "APBiology/5/Unit 5 BILL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc2dd524f7caac8b",
+            "id": "006385e82c3b4006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/college/Colleges.md",
+                "file": "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "edaf7f0bdd246377",
+        "type": "tabs",
+        "children": [
           {
-            "id": "cc9b74704ae689f2",
+            "id": "ae18c77c886037cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "college/Extra Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "644e02406ec2d565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "college/Midyear Update Emails.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dde2fdd57e1d7c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "college/Amherst Supplemental.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da6798ed8c4d1486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/Additional Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a954997563670a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/QB Essay 1 Brainstorm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "345ce8ada2191092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/QB Short Answer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e5b26a2520e8407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/college/QB Essay.md",
-                "mode": "preview",
-                "source": false
+                "file": "APBiology/6/Documents/Case Study/Case Study_The Mona Lisa Molecule.pdf"
               }
             }
           }
@@ -127,7 +60,6 @@
       {
         "id": "a4dc53f937101249",
         "type": "tabs",
-        "dimension": 58.44444444444444,
         "children": [
           {
             "id": "b67808c7c498bc42",
@@ -151,23 +83,6 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "28c69e3aca2b1263",
-        "type": "tabs",
-        "dimension": 41.55555555555556,
-        "children": [
-          {
-            "id": "c6a55982cacab7f6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "college/Interview Prep.md"
               }
             }
           }
@@ -199,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "college/Interview Prep.md",
+                "file": "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +122,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6a55982cacab7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md"
               }
             }
           },
@@ -219,74 +144,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "9046a04c7c0c4960",
-    "type": "floating",
-    "children": [
-      {
-        "id": "691e8d525d2d8bf4",
-        "type": "window",
-        "children": [
-          {
-            "id": "5f43a92398d3f180",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "312a97b210f1305d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Private/college/RD/Checklist.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d4d0bc6ebaeebb5f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Private/college/Regular Decision.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1919,
-        "height": 1079,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4a525f6e31ce8430",
+  "active": "006385e82c3b4006",
   "lastOpenFiles": [
-    "Private/college/Regular Decision.md",
+    "APBiology/6/Documents/Case Study/Case Study_The Mona Lisa Molecule.pdf",
+    "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md",
     "APBiology/5/Unit 5 BILL.md",
+    "college/Interview Prep.md",
+    "Private/college/Regular Decision.md",
     "APLit/Things Fall Apart - Exile Q3 Essay.md",
     "APLang/Q3/Q3.md",
     "APLang/Q3/Argument Paragraph.md",
     "APLang/Q2/Q2.md",
-    "APLang/Q1/Q1.md",
-    "APLang/Q1/Thesis.md",
-    "APBiology/5/Notes/Unit Packet/4 - Unit Summary.md",
-    "APBiology/4/Unit 4 BILL.md"
+    "APLang/Q1/Q1.md"
   ]
 }
