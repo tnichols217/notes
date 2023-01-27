@@ -13,4 +13,5 @@
 13. It is helical in shape indicated by the cross in the photo. They also figured out that the bases stack and the phosphate is on the outside
 14. It was the 51st photo and it was taken by rosalind franklin
 15. Yes, it offered great insight into what it was long before anyone else was looking into it.
-16. 
+16. 16
+	1. 
