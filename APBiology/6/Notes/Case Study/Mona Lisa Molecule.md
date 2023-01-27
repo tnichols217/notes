@@ -19,4 +19,5 @@
 	3. The run in opposite directions
 	4. Between the base and the sugar
 	5. Phosphate backbone
-	6. 3' 
+	6. 3' T A A A T C C C C G C T 5'
+17. 
