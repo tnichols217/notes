@@ -7,4 +7,5 @@
 7. Shooting X-ray beams through molecules and measuring the diffraction or reflection of such beams to gain an understanding of the shape of a molecule. X-rays' wavelength is roughly the distance between the atoms, which would give a good enough resolution to model the locations of the atoms
 8. Imagine taking a picture of something, you can see it
 9. Both are useful for understanding different aspects of the molecule. A simulation would give greater understanding of more than just the shape of it, but would require more computational time. 
-10. 
+10. Two polyneucleotides that coil around each other to form a double helix. It also consists of deoxyribose sugar, nitrogeneous base, and phosphate groups
+11. 
