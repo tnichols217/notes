@@ -8,4 +8,6 @@
 8. Imagine taking a picture of something, you can see it
 9. Both are useful for understanding different aspects of the molecule. A simulation would give greater understanding of more than just the shape of it, but would require more computational time. 
 10. Two polyneucleotides that coil around each other to form a double helix. It also consists of deoxyribose sugar, nitrogeneous base, and phosphate groups
-11. 
+11. A-T C-G
+12. It describes the ratio between the different bases in the cell
+13. 
