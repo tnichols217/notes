@@ -16,4 +16,7 @@
 16. 16
 	1. Hydrogen bonding
 	2. Nucleoside only consists of the r group, when nucleotides also have the phosphate group
-	3. 
+	3. The run in opposite directions
+	4. Between the base and the sugar
+	5. Phosphate backbone
+	6. 3' 
