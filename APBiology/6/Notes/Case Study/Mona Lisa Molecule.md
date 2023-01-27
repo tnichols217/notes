@@ -20,4 +20,5 @@
 	4. Between the base and the sugar
 	5. Phosphate backbone
 	6. 3' T A A A T C C C C G C T 5'
-17. There are minor grooves and major grooves in B-DNA and also 
+17. There are minor grooves and major grooves in B-DNA and also G and C are held together with 3 bonds not 2
+18. 
