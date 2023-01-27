@@ -14,4 +14,5 @@
 14. It was the 51st photo and it was taken by rosalind franklin
 15. Yes, it offered great insight into what it was long before anyone else was looking into it.
 16. 16
-	1. 
+	1. Hydrogen bonding
+	2. Nucleoside only consists of the r group, when nucleotide
