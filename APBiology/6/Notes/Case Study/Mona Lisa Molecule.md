@@ -15,4 +15,5 @@
 15. Yes, it offered great insight into what it was long before anyone else was looking into it.
 16. 16
 	1. Hydrogen bonding
-	2. Nucleoside only consists of the r group, when nucleotide
+	2. Nucleoside only consists of the r group, when nucleotides also have the phosphate group
+	3. 
