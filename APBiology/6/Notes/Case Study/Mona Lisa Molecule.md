@@ -10,4 +10,5 @@
 10. Two polyneucleotides that coil around each other to form a double helix. It also consists of deoxyribose sugar, nitrogeneous base, and phosphate groups
 11. A-T C-G
 12. It describes the ratio between the different bases in the cell
-13. 
+13. It is helical in shape indicated by the cross in the photo. They also figured out that the bases stack and the phosphate is on the outside
+14. 
