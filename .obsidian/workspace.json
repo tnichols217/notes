@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/Regular Decision.md"
+                "file": "Private/college/Logins.md"
               }
             }
           }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/Regular Decision.md",
+                "file": "Private/college/Logins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,9 +277,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "dbe596cf80801ca9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Private/college/Logins.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -292,17 +304,17 @@
       }
     ]
   },
-  "active": "d4d0bc6ebaeebb5f",
+  "active": "dbe596cf80801ca9",
   "lastOpenFiles": [
     "Private/college/RD/Checklist.md",
+    "Private/college/Logins.md",
     "Private/college/Colleges.md",
+    "Private/college/Regular Decision.md",
     "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md",
     "APBiology/6/Documents/Case Study/Case Study_The Mona Lisa Molecule.pdf",
-    "Private/college/Regular Decision.md",
     "college/Extra Questions.md",
     "college/Interview Prep.md",
     "APBiology/5/Unit 5 BILL.md",
-    "APLit/Things Fall Apart - Exile Q3 Essay.md",
-    "APLang/Q3/Q3.md"
+    "APLit/Things Fall Apart - Exile Q3 Essay.md"
   ]
 }
