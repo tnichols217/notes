@@ -38,8 +38,8 @@ You’ll have to document in writing:
 Description:
 
 - Height, Width, Depth
-- Materials: Name, Materials and why
-- Processes: Process, how, and why
+- Materials: Name, Materials and why **(100 characters)**
+- Processes: Process, how, and why **(100 characters)**
 
 ### Section 2: Selected Works
 

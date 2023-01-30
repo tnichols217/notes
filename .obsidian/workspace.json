@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "APArt/Portfolio notes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APArt/Portfolio notes.md",
+                "file": "APArt/Piece Descriptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APArt/Portfolio notes.md"
+                "file": "APArt/Piece Descriptions.md"
               }
             }
           },
@@ -162,8 +161,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e2b095573fcaac02",
+  "active": "addcfe84c2987c8c",
   "lastOpenFiles": [
+    "APArt/Portfolio notes.md",
     "APArt/Piece Descriptions.md",
     "APArt/Sustained Investigation.md",
     "Private/college/Colleges.md",
@@ -172,7 +172,6 @@
     "Private/college/Regular Decision.md",
     "Private/college/Logins.md",
     "college/Extra Questions.md",
-    "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md",
-    "APBiology/6/Documents/Case Study/Case Study_The Mona Lisa Molecule.pdf"
+    "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md"
   ]
 }
