@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/RD/Checklist.md"
+                "file": "Private/college/Colleges.md"
               }
             }
           }
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/RD/Checklist.md",
+                "file": "Private/college/Colleges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,71 +242,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "9046a04c7c0c4960",
-    "type": "floating",
-    "children": [
-      {
-        "id": "691e8d525d2d8bf4",
-        "type": "window",
-        "children": [
-          {
-            "id": "5f43a92398d3f180",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "312a97b210f1305d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Private/college/RD/Checklist.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d4d0bc6ebaeebb5f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Private/college/Regular Decision.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "dbe596cf80801ca9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Private/college/Logins.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1599,
-        "height": 899,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "312a97b210f1305d",
+  "active": "cc2dd524f7caac8b",
   "lastOpenFiles": [
-    "Private/college/Logins.md",
     "Private/college/RD/Checklist.md",
+    "Private/college/Logins.md",
     "Private/college/Colleges.md",
     "APArt/Piece Descriptions.md",
     "APArt/Portfolio notes.md",
