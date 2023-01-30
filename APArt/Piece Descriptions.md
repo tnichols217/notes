@@ -2,7 +2,7 @@
 Height: 
 Width: 
 Length: 
-Materials:
+## Materials
 
 
 - Blender
@@ -13,7 +13,7 @@ Procedurally designed textures with shader nodes to add color and minute details
 - Camera
 Used a camera mounted on a panohead in order to create a panoramic background for the piece
 
-Processes:
+## Processes
 Scouted for an abandoned building, took the photos to make a panoramic.
 Researched size and shape of keys, learned the internal mechanism.
 
