@@ -73,8 +73,3 @@ Width:
 Length: 
 Materials: 
 Processes: 
-
----
-
-# Sustained investigation
-"Pianos are scary!" exlaimed 6 year old me. Instruments overwhelmed me as a child. Their complexity, largeness, and frankly overall creepy vibe truly deterred me from approaching them when I was younger. As I grew up, instruments hold a more sentimental and fun role in my life, being a form of entertainment. I investigated how my opinion on instruments has changed over time, creating two pieces on each instrument I played, attempting to convey my view on it in different times.
