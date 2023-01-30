@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APArt/Sustained Investigation.md",
+                "file": "APArt/Piece Descriptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APArt/Sustained Investigation.md"
+                "file": "APArt/Piece Descriptions.md"
               }
             }
           },
@@ -162,8 +161,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0eaebd664d174b69",
+  "active": "addcfe84c2987c8c",
   "lastOpenFiles": [
+    "APArt/Sustained Investigation.md",
     "Private/college/Colleges.md",
     "college/Interview Prep.md",
     "Private/college/RD/Checklist.md",
@@ -172,7 +172,6 @@
     "college/Extra Questions.md",
     "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md",
     "APBiology/6/Documents/Case Study/Case Study_The Mona Lisa Molecule.pdf",
-    "APBiology/5/Unit 5 BILL.md",
-    "APLit/Things Fall Apart - Exile Q3 Essay.md"
+    "APBiology/5/Unit 5 BILL.md"
   ]
 }
