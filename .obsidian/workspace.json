@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "d7570b014bce0f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forensic Science/Chapter 2/Evidence Classification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c1110556191ce1d3",
             "type": "leaf",
             "state": {
@@ -108,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forensic Science/Chapter 2/JonBenet Evidence.md"
+                "file": "Forensic Science/Chapter 2/Evidence Classification.md"
               }
             }
           }
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic Science/Chapter 2/JonBenet Evidence.md",
+                "file": "Forensic Science/Chapter 2/Evidence Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,9 +194,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1110556191ce1d3",
+  "active": "d7570b014bce0f02",
   "lastOpenFiles": [
     "Forensic Science/Chapter 2/Types of Evidence.md",
+    "Forensic Science/Chapter 2/JonBenet Evidence.md",
     "Forensic Science/Chapter 1/Brain Games - Observation Skill.md",
     "Private/college/RD/Checklist.md",
     "college/Extra Questions.md",
@@ -192,7 +205,6 @@
     "Private/college/Expenses.md",
     "Private/college/QB Essay.md",
     "Private/college/QB Short Answer.md",
-    "Private/college/QB Essay 1 Brainstorm.md",
-    "Private/college/Additional Questions.md"
+    "Private/college/QB Essay 1 Brainstorm.md"
   ]
 }
