@@ -27,10 +27,16 @@
 
 ## Circumstantial evidence
 - Imply a fact, but doesn't prove it
-	- Prints
-	- Bite marks
-	- Tire prints
-	- DNA
-	- Ballistic evidence
-	- Fibers
-	- Hair
+	- Physical
+		- Prints
+		- Bite marks
+		- Tire prints
+		- Ballistic evidence
+		- Synthetic fibers
+	- Biological
+		- DNA
+		- Natural Fibers
+		- Hair
+
+## Class / Individual
+-
