@@ -1,3 +1,7 @@
-| Evidence | Direct | Circumstantial Biological | Circumstantial Physical |
-| -------- | ------ | ------------------------- | ----------------------- |
-|          |        |                           |                         |
+| Evidence             | Direct | Circumstantial Biological | Circumstantial Physical |
+| -------------------- | ------ | ------------------------- | ----------------------- |
+| Random Note          | ✅     |                           |                         |
+| 911 Call             | ✅     |                           |                         |
+| Autopsy Report       | ✅     |                           |                         |
+| Underwear DNA sample |        | ✅                        |                         |
+| Broken Glass         |        |                           | ✅                        |
