@@ -9,6 +9,7 @@
 | Cell phone records           | Direct              |
 | Signed confession            | Direct              |
 | Surveillance Footage         | Direct              |
+| Fibers                       | Indirect            |
 | Unsigned ransom note         | Indirect Physical   | 
 | Paint transferred to vehicle | Indirect Physical   |
 | Gunshot residue              | Indirect Physical   |
@@ -20,4 +21,3 @@
 | Body Fluids                  | Indirect Biological |
 | DNA                          | Indirect Biological |
 | Hairs                        | Indirect Biological |
-| Fibers                       | Indirect            |
