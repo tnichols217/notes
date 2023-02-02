@@ -7,4 +7,5 @@
 | Broken Glass                         |        |                           | ✅                      |
 | Rope                                 |        |                           | ✅                      |
 | Blunt force marks and Skull Fracture |        |                           | ✅                      |
+| Suitcase                             |        |                           | ✅                      |
 |                                      |        |                           |                         |
