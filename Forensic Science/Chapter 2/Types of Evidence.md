@@ -24,3 +24,13 @@
 	- Voice recordings
 	- Written and Signed Ransom Notes
 	- Reports
+
+## Circumstantial evidence
+- Imply a fact, but doesn't prove it
+	- Prints
+	- Bite marks
+	- Tire prints
+	- DNA
+	- Ballistic evidence
+	- Fibers
+	- Hair
