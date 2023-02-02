@@ -39,4 +39,6 @@
 		- Hair
 
 ## Class / Individual
--
+- Class evidence narrows down to a group of people that could have left that evidence
+- Individual evidence can only be one specific person, like DNA or Fingerprints
+
