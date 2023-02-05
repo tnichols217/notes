@@ -12,7 +12,7 @@
 
 # Activity log
 1. [ ] Doodle notes of scientists with their findings related to DNA
-2. [ ] The Mona Lisa case study
+2. [x] The Mona Lisa case study
 3. [ ] Bell Ringer: DNA Replication Review
 4. [ ] Activity: Transcription in action
 5. [ ] POGIL - Genetic expression - Translation
