@@ -30,4 +30,4 @@
 	6. correction of CG only 2 H bonds and identify Z and A forms of DNA
 19. Replication of DNA through the pairing of the bases
 20. She took the first photo, which showed the helix shape of DNA, which sparked interest in the molecule
-21. It coula 
+21. It would have been, but her discovery definitely sparked interest and research into it earlier

@@ -33,22 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "edaf7f0bdd246377",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ae18c77c886037cc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "APBiology/6/Documents/Case Study/Case Study_The Mona Lisa Molecule.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ca4cf6357558295d",
