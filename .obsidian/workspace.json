@@ -4,71 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "edc36a810cc74985",
+        "id": "0f8acec6cd71ebb6",
         "type": "tabs",
         "children": [
           {
-            "id": "7d7ccf2581264901",
+            "id": "6c54865db0d5b75b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic Science/Chapter 1/Lesson 2 - Vocab.md",
+                "file": "APBiology/5/Unit 5 BILL.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1710b7d11ccb537c",
+            "id": "006385e82c3b4006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forensic Science/Chapter 1/Brain Games - Observation Skill.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7f528564a2b2695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic Science/Chapter 2/Types of Evidence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7570b014bce0f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic Science/Chapter 2/Evidence Classification.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1110556191ce1d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic Science/Chapter 2/JonBenet Evidence.md",
+                "file": "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
+      },
+      {
+        "id": "edaf7f0bdd246377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae18c77c886037cc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "APBiology/6/Documents/Case Study/Case Study_The Mona Lisa Molecule.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +60,6 @@
       {
         "id": "a4dc53f937101249",
         "type": "tabs",
-        "dimension": 46.66666666666666,
         "children": [
           {
             "id": "b67808c7c498bc42",
@@ -104,23 +83,6 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "28c69e3aca2b1263",
-        "type": "tabs",
-        "dimension": 53.33333333333334,
-        "children": [
-          {
-            "id": "c6a55982cacab7f6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Forensic Science/Chapter 2/Evidence Classification.md"
               }
             }
           }
@@ -152,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic Science/Chapter 2/Evidence Classification.md",
+                "file": "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +122,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6a55982cacab7f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md"
               }
             }
           },
@@ -172,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,8 +166,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d7570b014bce0f02",
+  "active": "006385e82c3b4006",
   "lastOpenFiles": [
+    "Forensic Science/Chapter 2/Evidence Classification.md",
     "Forensic Science/Chapter 2/Types of Evidence.md",
     "Forensic Science/Chapter 2/JonBenet Evidence.md",
     "Forensic Science/Chapter 1/Brain Games - Observation Skill.md",
@@ -204,7 +177,6 @@
     "Private/college/Logins.md",
     "Private/college/Expenses.md",
     "Private/college/QB Essay.md",
-    "Private/college/QB Short Answer.md",
-    "Private/college/QB Essay 1 Brainstorm.md"
+    "Private/college/QB Short Answer.md"
   ]
 }
