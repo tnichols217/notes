@@ -28,4 +28,6 @@
 	4. Rosalind Franklin's photo
 	5. Watson and Crick propose first accurate description of double helix
 	6. correction of CG only 2 H bonds and identify Z and A forms of DNA
-19. 
+19. Replication of DNA through the pairing of the bases
+20. She took the first photo, which showed the helix shape of DNA, which sparked interest in the molecule
+21. It coula 
