@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ca4cf6357558295d",
@@ -168,6 +169,8 @@
   },
   "active": "006385e82c3b4006",
   "lastOpenFiles": [
+    "APBiology/6/Documents/Case Study/Case Study_The Mona Lisa Molecule.pdf",
+    "APBiology/6/Notes/Case Study/Mona Lisa Molecule.md",
     "Forensic Science/Chapter 2/Evidence Classification.md",
     "Forensic Science/Chapter 2/Types of Evidence.md",
     "Forensic Science/Chapter 2/JonBenet Evidence.md",
@@ -175,8 +178,6 @@
     "Private/college/RD/Checklist.md",
     "college/Extra Questions.md",
     "Private/college/Logins.md",
-    "Private/college/Expenses.md",
-    "Private/college/QB Essay.md",
-    "Private/college/QB Short Answer.md"
+    "Private/college/Expenses.md"
   ]
 }

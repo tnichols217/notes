@@ -21,4 +21,11 @@
 	5. Phosphate backbone
 	6. 3' T A A A T C C C C G C T 5'
 17. There are minor grooves and major grooves in B-DNA and also G and C are held together with 3 bonds not 2
-18. 
+18. 18
+	1. Miescher identifies DNA 1860s
+	2. Levene reseach identified primary componets
+	3. Chargaff's Law
+	4. Rosalind Franklin's photo
+	5. Watson and Crick propose first accurate description of double helix
+	6. correction of CG only 2 H bonds and identify Z and A forms of DNA
+19. 
