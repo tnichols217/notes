@@ -1,17 +1,88 @@
-Post-It Annotations: In your BILL, create a post-it note annotations page for each of the following sections. Make sure to include the “Power Line” that connects the concepts and topics from the reading.
-    • Concept 13.2: Many Proteins work together in DNA Replication and Repair pgs. 251-259
-        ◦ Power Line: How is genetic information copied for transmission between generations?
-    • Concept 13.3: A chromosome consists of a DNA molecule packed together with proteins pgs. 259-260
-        ◦ Power Line: How does the organization of chromosomes impact DNA Replication?
-    • Concept 14.2: Transcription is the DNA-directed synthesis of RNA - a closer look pgs. 274-276
-        ◦ Power Line: What is the importance of the genetic flow from DNA to RNA?
-    • Concept 14.4: Translation is the RNA-directed synthesis of a polypeptide - a closer look pgs. 279-286
-        ◦ Power Line: How does translation generate polypeptides that determine genotypes?
-    • Concept 14.5: Mutations of one or a few nucleotides can affect protein structure and function pgs. 288-290
-        ◦ Power Line: How does the various types of mutations impact genotype and phenotype?
-    • Figure 15.3: The trp operon in E. coli - regulated synthesis of repressible enzymes pg. 295
-        ◦ Power Line: How is the trp operon repressible?
-    • Figure 15.4: The lac operon in E.coli - regulated synthesis of inducible enzymes pg. 296
-        ◦ Power Line: How is the lac operon an inducible?
-    • Figure 15.6: Stages in gene expression that can be regulated in eukaryotic cells pg. 298
-        ◦ Power Line: In what ways do eukaryotic cells regulate gene expression?
+# Post-It Annotations
+
+• Concept 13.2: Many Proteins work together in DNA Replication and Repair pgs. 251-259
+	◦ Power Line: How is genetic information copied for transmission between generations?
+• Concept 13.3: A chromosome consists of a DNA molecule packed together with proteins pgs. 259-260
+	◦ Power Line: How does the organization of chromosomes impact DNA Replication?
+• Concept 14.2: Transcription is the DNA-directed synthesis of RNA - a closer look pgs. 274-276
+	◦ Power Line: What is the importance of the genetic flow from DNA to RNA?
+• Concept 14.4: Translation is the RNA-directed synthesis of a polypeptide - a closer look pgs. 279-286
+	◦ Power Line: How does translation generate polypeptides that determine genotypes?
+• Concept 14.5: Mutations of one or a few nucleotides can affect protein structure and function pgs. 288-290
+	◦ Power Line: How does the various types of mutations impact genotype and phenotype?
+• Figure 15.3: The trp operon in E. coli - regulated synthesis of repressible enzymes pg. 295
+	◦ Power Line: How is the trp operon repressible?
+• Figure 15.4: The lac operon in E.coli - regulated synthesis of inducible enzymes pg. 296
+	◦ Power Line: How is the lac operon an inducible?
+• Figure 15.6: Stages in gene expression that can be regulated in eukaryotic cells pg. 298
+	◦ Power Line: In what ways do eukaryotic cells regulate gene expression?
+
+Recall and Review:  Use your textbook reading to help you answer these questions in your BILL.
+      DNA Structure and Replication
+    1. Explain how the experiments that each of the following people/groups of people performed provided evidence that DNA is the genetic material.
+        a. Frederick Griffith
+        b. Oswald Avery, Maclyn McCarty, and Colin MacLeod
+        c. Alfred Hershey and Martha Chase
+        d. Erwin Chargaff 
+    2. Explain what is meant by “antiparallel” orientation of DNA.
+    3. Describe the four essential functions of the genetic material.  Explain how the structure proposed by Watson and Crick makes these functions possible.
+    4. Create a t-chart that compares DNA to RNA.  Include structure, location and function of both molecules in your comparison.
+    5. Meselson and Stahl claimed that the replication of DNA was semiconservative.  Describe the evidence they used to support their claim.
+    6. Describe what the role of the following enzymes is in DNA replication: 
+        a. DNA polymerase
+        b. DNA ligase 
+        c. DNA primase
+    7. Explain why the leading strand of DNA is replicated continuously, while the lagging strand is replicated discontinuously.
+    8. Create a graphic organizer that illustrates the differences between the process of DNA replication in prokaryotes and eukaryotes.
+    9. Describe the relationship between the following organizational units of DNA: 
+DNA
+Nucleosomes
+Chromatin
+Chromosome
+      Transcription and Translation
+    1. Compare the processes of DNA replication with transcription.  Be sure to include the following things in your comparison: 
+        a. Location of process	
+        b. Nucleic acids involved
+        c. Enzymes responsible
+    2. Create a graphic organizer that explains the relationship between the following molecules: 
+DNA
+mRNA
+tRNA
+rRNA
+RNAi
+    3. Describe the difference between an intron and an exon. 
+    4. Eukaryotic mRNA is often modified before it leaves the nucleus. Describe how this happens.
+    5. Explain how the production of eukaryotic mRNA is like watching a tv show that is on Netflix.
+    6. Create a graphic organizer that illustrates the differences between the processes of transcription and translation, including how they operate in prokaryotes vs. eukaryotes.
+    7. Explain the relationship between protein synthesis and an organism’s phenotype.
+    8. Explain how the “one-gene-one protein” hypothesis was derived by Beadle and Tatum.  Why has this hypothesis been refined to “one gene-one polypeptide,” and now “one gene-one (protein) domain?”
+      Mutations
+    1. Create a t-chart that explains the difference between somatic mutations and germline mutations.
+    2. Create a graphic organizer that illustrates how point mutations differ from chromosomal mutations.  Which one has a greater effect on the organism’s phenotype?
+    3. Create a diagram that represents the following types of mutations:
+Silent mutation
+Missense mutation
+Nonsense mutation
+Frameshift mutation
+    4. Create a t-chart that compares gene mutations to chromosomal mutations
+    5. Explain what would happen to the process of gene expression if the gene for RNA polymerase was mutated.
+    6. Each amino acid has a tRNA synthetase enzyme that is responsible for attaching it to a tRNA molecule. Explain what would happen if there was a mutation in the gene encoding one of these enzymes.
+    7. Describe how proteins can be altered once they have been synthesized at the ribosome and what organelles are involved.
+      Gene Regulation
+    1. Define operon.  Explain how bacterial cells use operons to control gene expression. 
+    2. Describe the relationship between the following components of an operon: 
+Promoter
+Operator
+Repressor
+Structural Genes
+Regulatory Genes
+    3. Create a t-chart that explains how repressible operons differ from inducible operons.   Use the trp and lac operons as examples.
+    4. Describe the relationship between these terms and explain how these terms are used to describe eukaryotic gene regulation.
+Enhancer          Promoter            Silencer             DNA
+    5. Explain how transcription factors help to regulate eukaryotic gene expression.
+    6. Create a t-chart that describes the differences between lytic virus reproduction and lysogenic virus reproduction
+    7. Describe how the following tools are used to study or modify organismal genomes: 
+Restriction Enzymes
+Plasmids
+Gel Electrophoresis
+Polymerase Chain Reaction (PCR)
