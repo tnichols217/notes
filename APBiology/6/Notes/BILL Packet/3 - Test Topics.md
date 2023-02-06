@@ -5,7 +5,9 @@
     -   Chargaff
     -   Watson and Crick
 -   Genetic code is universal – what does that mean?
+	- Genetic code remains of the same structure across all organisms
 -   Structure of DNA
+	- Consists of 
 -   Central dogma (DNA -> RNA -> protein)
     -   Names of processes
     -   Descriptions of processes
