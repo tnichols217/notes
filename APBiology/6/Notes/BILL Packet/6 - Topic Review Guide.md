@@ -1,21 +1,21 @@
 # Post-It Annotations
 
-• Concept 13.2: Many Proteins work together in DNA Replication and Repair pgs. 251-259
-	◦ Power Line: How is genetic information copied for transmission between generations?
-• Concept 13.3: A chromosome consists of a DNA molecule packed together with proteins pgs. 259-260
-	◦ Power Line: How does the organization of chromosomes impact DNA Replication?
-• Concept 14.2: Transcription is the DNA-directed synthesis of RNA - a closer look pgs. 274-276
-	◦ Power Line: What is the importance of the genetic flow from DNA to RNA?
-• Concept 14.4: Translation is the RNA-directed synthesis of a polypeptide - a closer look pgs. 279-286
-	◦ Power Line: How does translation generate polypeptides that determine genotypes?
-• Concept 14.5: Mutations of one or a few nucleotides can affect protein structure and function pgs. 288-290
-	◦ Power Line: How does the various types of mutations impact genotype and phenotype?
-• Figure 15.3: The trp operon in E. coli - regulated synthesis of repressible enzymes pg. 295
-	◦ Power Line: How is the trp operon repressible?
-• Figure 15.4: The lac operon in E.coli - regulated synthesis of inducible enzymes pg. 296
-	◦ Power Line: How is the lac operon an inducible?
-• Figure 15.6: Stages in gene expression that can be regulated in eukaryotic cells pg. 298
-	◦ Power Line: In what ways do eukaryotic cells regulate gene expression?
+- Concept 13.2: Many Proteins work together in DNA Replication and Repair pgs. 251-259
+	- Power Line: How is genetic information copied for transmission between generations?
+- Concept 13.3: A chromosome consists of a DNA molecule packed together with proteins pgs. 259-260
+	- Power Line: How does the organization of chromosomes impact DNA Replication?
+- Concept 14.2: Transcription is the DNA-directed synthesis of RNA - a closer look pgs. 274-276
+	- Power Line: What is the importance of the genetic flow from DNA to RNA?
+- Concept 14.4: Translation is the RNA-directed synthesis of a polypeptide - a closer look pgs. 279-286
+	- Power Line: How does translation generate polypeptides that determine genotypes?
+- Concept 14.5: Mutations of one or a few nucleotides can affect protein structure and function pgs. 288-290
+	- Power Line: How does the various types of mutations impact genotype and phenotype?
+- Figure 15.3: The trp operon in E. coli - regulated synthesis of repressible enzymes pg. 295
+	- Power Line: How is the trp operon repressible?
+- Figure 15.4: The lac operon in E.coli - regulated synthesis of inducible enzymes pg. 296
+	- Power Line: How is the lac operon an inducible?
+- Figure 15.6: Stages in gene expression that can be regulated in eukaryotic cells pg. 298
+	- Power Line: In what ways do eukaryotic cells regulate gene expression?
 
 # Recall and Review
   DNA Structure and Replication
@@ -31,7 +31,7 @@
 6. Describe what the role of the following enzymes is in DNA replication: 
 	1. DNA polymerase
 	2. DNA ligase 
-	c. DNA primase
+	3. DNA primase
 7. Explain why the leading strand of DNA is replicated continuously, while the lagging strand is replicated discontinuously.
 8. Create a graphic organizer that illustrates the differences between the process of DNA replication in prokaryotes and eukaryotes.
 9. Describe the relationship between the following organizational units of DNA: 
@@ -41,9 +41,9 @@ Chromatin
 Chromosome
   Transcription and Translation
 1. Compare the processes of DNA replication with transcription.  Be sure to include the following things in your comparison: 
-	a. Location of process	
-	b. Nucleic acids involved
-	c. Enzymes responsible
+	1. Location of process	
+	2. Nucleic acids involved
+	3. Enzymes responsible
 2. Create a graphic organizer that explains the relationship between the following molecules: 
 DNA
 mRNA
