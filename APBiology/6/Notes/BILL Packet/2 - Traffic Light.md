@@ -1,7 +1,7 @@
 | Term                         | Pre-Assessment | Post-Assessment |
 | ---------------------------- | -------------- | --------------- |
 | mut-                         | ✅             | ✅              |
-| syn-                         | 🟨               | ✅              | 
+| syn-                         | 🟨             | ✅              |
 | script-                      | ✅             | ✅              |
 | trans-                       | ✅             | ✅              |
 | Mutation                     | ✅             | ✅              |
@@ -11,12 +11,12 @@
 | Bacteriophage                | ✅             | ✅              |
 | Purines                      | ✅             | ✅              |
 | Pyrimidines                  | ✅             | ✅              |
-| Operon                       |                | ✅              |
+| Operon                       | 🟨             | ✅              |
 | Enhancers                    | ✅             | ✅              |
-| Methylation                  |                |                 |
+| Methylation                  | 🟥             | ✅              |
 | Introns                      | ✅             | ✅              |
 | Transcription                | ✅             | ✅              |
-| TATA Box                     |                | ✅              |
+| TATA Box                     | 🟨             | ✅              |
 | Enhancer                     | ✅             | ✅              |
 | Codon                        | ✅             | ✅              |
 | Transfer RNA                 | ✅             | ✅              |
@@ -27,5 +27,5 @@
 | Anticodon                    | ✅             | ✅              |
 | Repressor                    | ✅             | ✅              |
 | Inducer                      | ✅             | ✅              |
-| Acetylation                  |                |                 |
+| Acetylation                  | 🟥             | ✅              | 
 | Exons                        | ✅             | ✅              |
