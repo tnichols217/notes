@@ -6,7 +6,7 @@
     -   Watson and Crick
 -   Genetic code is universal – what does that mean?
 -   Structure of DNA
--   Central dogma (DNA  RNA  protein)
+-   Central dogma (DNA -> RNA -> protein)
     -   Names of processes
     -   Descriptions of processes
 -   mRNA processing in eukaryotes
