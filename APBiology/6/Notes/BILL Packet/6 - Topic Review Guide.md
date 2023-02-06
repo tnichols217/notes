@@ -57,32 +57,35 @@
 16. Explain the relationship between protein synthesis and an organism’s phenotype.
 17. Explain how the “one-gene-one protein” hypothesis was derived by Beadle and Tatum.  Why has this hypothesis been refined to “one gene-one polypeptide,” and now “one gene-one (protein) domain?”
   Mutations
-1. Create a t-chart that explains the difference between somatic mutations and germline mutations.
-2. Create a graphic organizer that illustrates how point mutations differ from chromosomal mutations.  Which one has a greater effect on the organism’s phenotype?
-3. Create a diagram that represents the following types of mutations:
+18. Create a t-chart that explains the difference between somatic mutations and germline mutations.
+19. Create a graphic organizer that illustrates how point mutations differ from chromosomal mutations.  Which one has a greater effect on the organism’s phenotype?
+20. Create a diagram that represents the following types of mutations:
 	1. Silent mutation
 	2. Missense mutation
 	3. Nonsense mutation
 	4. Frameshift mutation
-4. Create a t-chart that compares gene mutations to chromosomal mutations
-5. Explain what would happen to the process of gene expression if the gene for RNA polymerase was mutated.
-6. Each amino acid has a tRNA synthetase enzyme that is responsible for attaching it to a tRNA molecule. Explain what would happen if there was a mutation in the gene encoding one of these enzymes.
-7. Describe how proteins can be altered once they have been synthesized at the ribosome and what organelles are involved.
+21. Create a t-chart that compares gene mutations to chromosomal mutations
+22. Explain what would happen to the process of gene expression if the gene for RNA polymerase was mutated.
+23. Each amino acid has a tRNA synthetase enzyme that is responsible for attaching it to a tRNA molecule. Explain what would happen if there was a mutation in the gene encoding one of these enzymes.
+24. Describe how proteins can be altered once they have been synthesized at the ribosome and what organelles are involved.
   Gene Regulation
-1. Define operon.  Explain how bacterial cells use operons to control gene expression. 
-2. Describe the relationship between the following components of an operon: 
+25. Define operon.  Explain how bacterial cells use operons to control gene expression. 
+26. Describe the relationship between the following components of an operon: 
 	1. Promoter
 	2. Operator
 	3. Repressor
 	4. Structural Genes
 	5. Regulatory Genes
-3. Create a t-chart that explains how repressible operons differ from inducible operons.   Use the trp and lac operons as examples.
-4. Describe the relationship between these terms and explain how these terms are used to describe eukaryotic gene regulation.
-Enhancer          Promoter            Silencer             DNA
-5. Explain how transcription factors help to regulate eukaryotic gene expression.
-6. Create a t-chart that describes the differences between lytic virus reproduction and lysogenic virus reproduction
-7. Describe how the following tools are used to study or modify organismal genomes: 
-Restriction Enzymes
-Plasmids
-Gel Electrophoresis
-Polymerase Chain Reaction (PCR)
+27. Create a t-chart that explains how repressible operons differ from inducible operons.   Use the trp and lac operons as examples.
+28. Describe the relationship between these terms and explain how these terms are used to describe eukaryotic gene regulation.
+	1. Enhancer
+	2. Promoter
+	3. Silencer
+	4. DNA
+29. Explain how transcription factors help to regulate eukaryotic gene expression.
+30. Create a t-chart that describes the differences between lytic virus reproduction and lysogenic virus reproduction
+31. Describe how the following tools are used to study or modify organismal genomes: 
+	1. Restriction Enzymes
+	2. Plasmids
+	3. Gel Electrophoresis
+	4. Polymerase Chain Reaction (PCR)
