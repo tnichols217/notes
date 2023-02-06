@@ -1,0 +1,32 @@
+-   Discovery of DNA as the genetic material
+    -   Griffith
+    -   Hershey-Chase, Avery
+    -   Franklin
+    -   Chargaff
+    -   Watson and Crick
+-   Genetic code is universal – what does that mean?
+-   Structure of DNA
+-   Central dogma (DNA  RNA  protein)
+    -   Names of processes
+    -   Descriptions of processes
+-   mRNA processing in eukaryotes
+-   Telomeres/telomerase
+-   Mutations
+    -   Types and effects
+-   Differences between transcription in prokaryotes and eukaryotes
+-   Differences between DNA in prokaryotes and eukaryotes
+-   Control of gene expression in prokaryotes
+    -   Lac and trp operons
+    -   Inducible versus repressible operons
+-   Control of gene expression in eukaryotes
+    -   Methylating
+    -   Acetylating
+    -   Euchromatin versus heterochromatin
+-   Viruses
+    -   Lytic versus lysogenic cycle
+    -   Reverse transcription
+-   Biotechnology (purpose, steps)
+    -   PCR
+    -   Recombinant DNA
+    -   Electrophoresis
+    -   transformation
