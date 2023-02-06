@@ -387,4 +387,4 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
    Don't have any updates? No problem! Many students don't. Know any good jokes or have a favorite inspirational quotation instead?
 
 > [!para]
-> 
+> 3 months ago I scored a paid internship at a local art studio in my town. 
