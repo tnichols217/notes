@@ -39,7 +39,7 @@ DNA
 Nucleosomes
 Chromatin
 Chromosome
-  Transcription and Translation
+Transcription and Translation
 1. Compare the processes of DNA replication with transcription.  Be sure to include the following things in your comparison: 
 	1. Location of process	
 	2. Nucleic acids involved
