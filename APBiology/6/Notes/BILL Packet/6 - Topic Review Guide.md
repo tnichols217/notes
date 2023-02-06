@@ -20,17 +20,17 @@
 # Recall and Review
   DNA Structure and Replication
 1. Explain how the experiments that each of the following people/groups of people performed provided evidence that DNA is the genetic material.
-	a. Frederick Griffith
-	b. Oswald Avery, Maclyn McCarty, and Colin MacLeod
-	c. Alfred Hershey and Martha Chase
-	d. Erwin Chargaff 
+	1. Frederick Griffith
+	2. Oswald Avery, Maclyn McCarty, and Colin MacLeod
+	3. Alfred Hershey and Martha Chase
+	4. Erwin Chargaff 
 2. Explain what is meant by “antiparallel” orientation of DNA.
 3. Describe the four essential functions of the genetic material.  Explain how the structure proposed by Watson and Crick makes these functions possible.
 4. Create a t-chart that compares DNA to RNA.  Include structure, location and function of both molecules in your comparison.
 5. Meselson and Stahl claimed that the replication of DNA was semiconservative.  Describe the evidence they used to support their claim.
 6. Describe what the role of the following enzymes is in DNA replication: 
-	a. DNA polymerase
-	b. DNA ligase 
+	1. DNA polymerase
+	2. DNA ligase 
 	c. DNA primase
 7. Explain why the leading strand of DNA is replicated continuously, while the lagging strand is replicated discontinuously.
 8. Create a graphic organizer that illustrates the differences between the process of DNA replication in prokaryotes and eukaryotes.
