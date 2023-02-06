@@ -1,10 +1,10 @@
 # Objectives
-Construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information. [LO 3.1, SP 6.5]
-Justify the selection of data from historical investigations that support the claim that DNA is the source of heritable information. [LO 3.2, SP 4.1]
-Describe representations and models that that illustrate how genetic information is copied for transmission between generations. [LO 3.3, SP 1.2]
-Describe representations and models illustrating how genetic information is translated into polypeptides. [LO 3.4, SP 1.2]
-Create a visual representation to illustrate how changes in a DNA nucleotide sequence can result in a change in the polypeptide produced. [LO 3.25, SP 1.1]
-Predict how a change in a specific DNA or RNA sequence can result in changes in gene expression. [LO 3.6, SP 6.4]
+Construct scientific explanations that use the structures and mechanisms of DNA and RNA to support the claim that DNA and, in some cases, that RNA are the primary sources of heritable information.
+Justify the selection of data from historical investigations that support the claim that DNA is the source of heritable information.
+Describe representations and models that that illustrate how genetic information is copied for transmission between generations.
+Describe representations and models illustrating how genetic information is translated into polypeptides.
+Create a visual representation to illustrate how changes in a DNA nucleotide sequence can result in a change in the polypeptide produced.
+Predict how a change in a specific DNA or RNA sequence can result in changes in gene expression.
 Describe the connection between the regulation of gene expression and observed differences between different kinds of organisms. [LO 3.18, SP 7.1]
 Describe the connection between the regulation of gene expression and observed differences between individuals in a population. [LO 3.19, SP 7.1]
 Explain how the regulation of gene expression is essential for the processes and structures that support efficient cell function. [LO 3.20, SP 6.2]
@@ -24,53 +24,31 @@ Predict the effects of a change in an environmental factor on the genotypic expr
 
 # Major Topics and Textbook Correlations
 
-Chapter 16 – The Molecular Basis of Inheritance (not 16.3)
-
+## Chapter 16 – The Molecular Basis of Inheritance (not 16.3)
 -   Search for Genetic Material
-    
 -   DNA Replication and Repair
-    
 
-Chapter 17 – From Gene to Protein
-
+## Chapter 17 – From Gene to Protein
 -   Connection between Genes and Proteins
-    
 -   Protein Synthesis: Transcription and Translation
-    
 -   Comparing Protein Synthesis in Prokaryotes and Eukaryotes
-    
 -   Mutation Types and their Effect on the Protein
-    
 
-Chapter 18 – Regulation of Gene Expression (not 18.5)
-
+## Chapter 18 – Regulation of Gene Expression (not 18.5)
 -   Regulation of Gene Expression in Bacteria
-    
 -   Organization and Control of Eukaryotic Genomes
-    
 -   Genome Organization at the DNA level
-    
 -   The Control of Gene Expression
-    
 
-Chapter 19 – Viruses (not 19.3)
-
+## Chapter 19 – Viruses (not 19.3)
 -   History of Virus Discovery
-    
 -   Viral Genomes
-    
 -   Lytic vs. Lysogenic Cycles
-    
 -   Evolution of Viruses
-    
 
-Chapter 20 – Biotechnology (not 20.3 or 20.4)
-
+## Chapter 20 – Biotechnology (not 20.3 or 20.4)
 -   DNA Technology and Cloning
-    
 -   DNA Fingerprinting
-    
 -   Practical Application of DNA Technology
-    
 
-Chapter 21 – Genomes and Their Evolution (only 21.2 and 21.5)
+## Chapter 21 – Genomes and Their Evolution (only 21.2 and 21.5)
