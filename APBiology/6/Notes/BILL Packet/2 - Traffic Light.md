@@ -1,6 +1,6 @@
 | Term                         | Pre-Assessment | Post-Assessment |
 | ---------------------------- | -------------- | --------------- |
-| mut-                         |                |                 |
+| mut-                         | ✅             | ✅                |
 | syn-                         |                |                 |
 | script-                      |                |                 |
 | trans-                       |                |                 |
