@@ -1,5 +1,5 @@
 # Unit Essentials
-1. [ ] Unit map
+1. [x] Unit map
 2. [ ] Traffic light
 3. [ ] Test topics
 4. [ ] Unit summary
