@@ -1,31 +1,31 @@
 | Term                         | Pre-Assessment | Post-Assessment |
 | ---------------------------- | -------------- | --------------- |
-| mut-                         | ✅             | ✅                |
+| mut-                         | ✅             | ✅              |
 | syn-                         |                |                 |
 | script-                      |                |                 |
-| trans-                       |                |                 |
-| Mutation                     |                |                 |
-| Transcription Factor         |                |                 |
-| Semiconservative Replication |                |                 |
-| Antiparallel                 |                |                 |
-| Bacteriophage                |                |                 |
-| Purines                      |                |                 |
-| Pyrimidines                  |                |                 |
+| trans-                       | ✅             |                 |
+| Mutation                     | ✅             |                 |
+| Transcription Factor         | ✅             |                 |
+| Semiconservative Replication | ✅             |                 |
+| Antiparallel                 | ✅             |                 |
+| Bacteriophage                | ✅             |                 |
+| Purines                      | ✅             |                 |
+| Pyrimidines                  | ✅             |                 |
 | Operon                       |                |                 |
-| Enhancers                    |                |                 |
+| Enhancers                    | ✅             |                 |
 | Methylation                  |                |                 |
-| Introns                      |                |                 |
-| Transcription                |                |                 |
+| Introns                      | ✅             |                 |
+| Transcription                | ✅             |                 |
 | TATA Box                     |                |                 |
-| Enhancer                     |                |                 |
-| Codon                        |                |                 |
-| Transfer RNA                 |                |                 |
-| Messenger RNA                |                |                 |
-| Central Dogma                |                |                 |
-| Translation                  |                |                 |
-| Promoter                     |                |                 |
-| Anticodon                    |                |                 |
-| Repressor                    |                |                 |
-| Inducer                      |                |                 |
+| Enhancer                     | ✅             |                 |
+| Codon                        | ✅             |                 |
+| Transfer RNA                 | ✅             |                 |
+| Messenger RNA                | ✅             |                 |
+| Central Dogma                | ✅             |                 |
+| Translation                  | ✅             |                 |
+| Promoter                     | ✅             |                 |
+| Anticodon                    | ✅             |                 |
+| Repressor                    | ✅             |                 |
+| Inducer                      | ✅             |                 |
 | Acetylation                  |                |                 |
-| Exons                        |                |                 |
+| Exons                        | ✅             |                 |
