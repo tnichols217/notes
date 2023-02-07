@@ -391,3 +391,5 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 > 3 months ago an art studio downtown offered me a paid internship to do 3-D animation and design. Since then, I have learned how to work on a professional team to accomplish projects, involving pitching and reviewing ideas, creating and animating 3-D models, and recently leading projects. I've learned how to time manage effectively in order to handle both work and school while balancing a social life and sports, as well as speak and communicate effectively with team members.
 > 
 > Last month, I qualified for the track team, getting top position for short distance, and top 5 for long distance, while scoring the highest distance in shotput, javelin, and discus. Since then I have trained thrice a week and am scheduled to compete in 3 national competitions in the next month.
+> 
+> Since 
