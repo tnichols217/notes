@@ -392,4 +392,4 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 > 
 > Last month, I qualified for the track team, getting top position for short distance, and top 5 for long distance, while scoring the highest distance in shotput, javelin, and discus. Since then I have trained thrice a week and am scheduled to compete in 3 national competitions in the next month.
 > 
-> Since 
+> Since my application
