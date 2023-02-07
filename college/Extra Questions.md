@@ -381,7 +381,7 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
 
 ## 🟨
 
-# MIT Midyear
+# 🟨 MIT Midyear
 1. In the text box below, please update us on any changes or updates since you submitted your application. This might include new activities or awards, changes at home, or anything else important and relevant to your application. Also, if you have any changes in your curriculum since you submitted the application, please note the changes below. (250 words or fewer)
    We prefer to receive your updates via this form rather than mailed or emailed updates.
    Don't have any updates? No problem! Many students don't. Know any good jokes or have a favorite inspirational quotation instead?
