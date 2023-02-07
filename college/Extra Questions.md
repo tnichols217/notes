@@ -388,4 +388,4 @@ _Kannan Jagannathan, Professor of Physics, Amherst College_
    Don't have any updates? No problem! Many students don't. Know any good jokes or have a favorite inspirational quotation instead?
 
 > [!para]
-> 3 months ago an art studio downtown offered me a paid internship to do 3-D animation and design. Since then, I have completed over 10 paid project for them, which involves 
+> 3 months ago an art studio downtown offered me a paid internship to do 3-D animation and design. Since then, I have completed over 10 paid project for them, involving 
