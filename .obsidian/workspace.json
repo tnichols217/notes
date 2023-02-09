@@ -42,7 +42,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "32153eb4c75c529c",
+        "type": "tabs",
+        "children": [
           {
             "id": "4d2f48b3e96df6ca",
             "type": "leaf",
