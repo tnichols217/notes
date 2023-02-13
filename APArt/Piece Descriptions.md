@@ -3,19 +3,10 @@ Height:
 Width: 
 Length: 
 ## Materials
-TRIPLE OVERWHELM: Blender 3D digital sculpting 
-
-- Blender
-Used object mode to create the general shape
-Used interpolated curves to make organic shapes
-Used sculpting mode to create texture and detail
-Procedurally designed textures with shader nodes to add color and minute details
-- Camera
-Used a camera mounted on a panohead in order to create a panoramic background for the piece
+TRIPLE OVERWHELM: Blender 3D digital sculpting, fully procedural materials, cycles render engine
 
 ## Processes
-Scouted for an abandoned building, took the photos to make a panoramic.
-Researched size and shape of keys, learned the internal mechanism.
+
 
 # 2 - Guitar
 Height: 
