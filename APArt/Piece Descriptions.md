@@ -10,7 +10,7 @@ Length:
 
 ## Processes
 1. Researched, experimented on, and rearranged piano parts, mechanisms, and materials while maintaining form
-2. Exper
+2. Experimented extensively on creation of realistic looking wood, metal, and rust materials, as well of use of natural curves
 
 # 2 - Guitar
 Height: 
