@@ -24,7 +24,7 @@
 3. [ ] Central Dogma FRQ
 
 ## Case Studies
-1. [ ] The Mona Lisa case study
+1. [x] The Mona Lisa case study
 2. [ ] Gene expression in stem cells
 ### MISSING
 
