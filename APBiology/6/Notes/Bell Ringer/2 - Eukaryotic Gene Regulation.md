@@ -12,7 +12,7 @@ The diagrams below represent eukaryotic gene regulation:  the regulation of euka
 >> 	2. Acetylation of Histones
 >> 		- Spreads the histones apart from each other, increasing transcription rates
 >> 	3. Methylation of Histones
->> 		- 
+>> 		- Methyl groups bind to tails of the Histones which can spread them apart, increasing transcription rate
 >> 	4. Transcription Factors
 >> 	5. Enhancer Region / Switch
 >> 	6. Promoter Region
