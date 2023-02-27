@@ -3,9 +3,9 @@ The diagrams below represent operons, clusters of genes that control gene expres
 1. ![[Pasted image 20230227224504.png]]
    What is the role of each of the following:
 	1. Regulatory gene:
-	   > [!note]
-	   > aa
+		- The gene that codes for repressors / activators of other genes
 	2. RNA polymerase:
+		- Reads the DNA and transcr
 	3. Promoter:
 	4. Operator:
 	5. Repressor:
