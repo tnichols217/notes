@@ -14,8 +14,9 @@ The diagrams below represent operons, clusters of genes that control gene expres
 		- The protein that will bind to the operator to block the RNA polymerase
 2. ![[Pasted image 20230227224536.png]]
    What is the effect of the inducer on the repressor? Why is it called an inducer?
-	- 
+	- The inducer malforms the active site of the repressor, deactivating the repressor and removing it from the operator
 3. Is this an inducible or a repressible operon? Justify your answer.
+	- This is a repressible operon, as the 
 4. ![[Pasted image 20230227224602.png]]
    Examine the diagram of the trp operon at left. How is it similar to the diagram of the lac operon above?
 5. Why do you think it is called a corepressor? What is the effect of the corepressor on gene expression?
