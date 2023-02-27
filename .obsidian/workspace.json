@@ -185,43 +185,6 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "dee257c6f0a953d7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "526a9dfedd43d788",
-        "type": "window",
-        "children": [
-          {
-            "id": "498463ecc8b24fa2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "006385e82c3b4006",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "APBiology/6/Unit 6 BILL.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1920,
-        "height": 1080,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "f81b3a68c55fd3e2",
   "lastOpenFiles": [
     "APArt/Piece Descriptions.md",
