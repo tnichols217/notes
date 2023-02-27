@@ -14,8 +14,11 @@ The diagrams below represent eukaryotic gene regulation:  the regulation of euka
 >> 	3. Methylation of Histones
 >> 		- Methyl groups bind to tails of the Histones which can spread them apart, increasing transcription rate
 >> 	4. Transcription Factors
+>> 		- Things required for transcription to be happening, the more there is the more often transcription happens
 >> 	5. Enhancer Region / Switch
+>> 		- The beginning of the gene, it attracts the RNA polymerase to start at the beginning of the gene expression
 >> 	6. Promoter Region
+>> 		- 
 
 ### Post-Transcriptional and Translational Regulation
 > [!col]
