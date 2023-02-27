@@ -1,6 +1,6 @@
 # Unit Essentials
 1. [x] Unit map
-2. [ ] Traffic light
+2. [x] Traffic light
 3. [ ] Test topics
 4. [ ] Unit summary
 5. [ ] Official AP Biology unit summary
