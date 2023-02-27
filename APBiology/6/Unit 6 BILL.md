@@ -19,7 +19,7 @@
 ### MISSING
 
 ## Bell Ringers
-1. [ ] Prokaryotic gene regulation
+1. [x] Prokaryotic gene regulation
 2. [ ] Eukaryotic gene regulation
 3. [ ] Central Dogma FRQ
 
