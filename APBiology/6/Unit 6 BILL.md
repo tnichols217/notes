@@ -20,8 +20,8 @@
 
 ## Bell Ringers
 1. [x] Prokaryotic gene regulation
-2. [ ] Eukaryotic gene regulation
-3. [ ] Central Dogma FRQ
+2. [x] Eukaryotic gene regulation
+3. [x] Central Dogma FRQ
 
 ## Case Studies
 1. [x] The Mona Lisa case study
