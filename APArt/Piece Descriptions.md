@@ -1,9 +1,9 @@
 # 1 - Piano
 ## Dimensions
-Height: 
-Width: 
+Height:
+Width:
+Length:
 
-Length: 
 ## Materials
 TRIPLE OVERWHELM: Blender 3D digital sculpting, fully procedural materials, cycles render engine
 
