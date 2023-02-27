@@ -30,5 +30,6 @@ The diagrams below represent eukaryotic gene regulation:  the regulation of euka
 >> 	- Introns get removed before the RNA gets made into a polypeptide chain
 >> 	- Exons are exactly what makes up the polypeptide chain at the end
 >> 2. What is the purpose of the 5’Cap and the Poly-A Tail?
->> 	- The 5' Cap 
+>> 	- The 5' Cap helps maintain the stability of the RNA strain
+>> 	- Protects the strain from fall
 >> 3. One of the post-translational modifications is degradation of protein.  How could this relate to cell signaling? 
