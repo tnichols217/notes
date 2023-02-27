@@ -11,9 +11,9 @@
 	- [ ] 6.7 & 6.8 Mutations and Biotechnology
 
 # Activity log
-1. [ ] Activity: Transcription in action
-2. [ ] Activity: Genetic Variation at the Molecular Level
-3. [ ] Activity: The Effects of Mutations
+1. [ ] Activity: 1 - Transcription in action
+2. [ ] Activity: 2 - Genetic Variation at the Molecular Level
+3. [ ] Activity: 3 - The Effects of Mutations
 4. [ ] Bell Ringer: DNA Replication Review
 5. [ ] Bell Ringer: Prokaryotic gene regulation
 6. [ ] Bell Ringer: Eukaryotic gene regulation
