@@ -4,7 +4,7 @@ The diagrams below represent operons, clusters of genes that control gene expres
 >> [!col-md]
 >> ![[Pasted image 20230227224504.png]]
 >
->> [!col-md-2]
+>> [!col-md]
 >> 1. What is the role of each of the following:
 >> 	1. Regulatory gene:
 >> 		- The gene that codes for repressors / activators of other genes
@@ -17,12 +17,18 @@ The diagrams below represent operons, clusters of genes that control gene expres
 >> 	5. Repressor:
 >> 		- The protein that will bind to the operator to block the RNA polymerase
 
-
-2. ![[Pasted image 20230227224536.png]]
-   What is the effect of the inducer on the repressor? Why is it called an inducer?
-	- The inducer malforms the active site of the repressor, deactivating the repressor and removing it from the operator
-3. Is this an inducible or a repressible operon? Justify your answer.
+> [!col]
+>> [!col-md]
+>> ![[Pasted image 20230227224536.png]]
+>
+>> [!col-md]
+>> 2. What is the effect of the inducer on the repressor? Why is it called an inducer?
+>>	- The inducer malforms the active site of the repressor, deactivating the repressor and removing it from the operator
+>> 3. Is this an inducible or a repressible operon? Justify your answer.
 	- This is a repressible operon, as the repressor is bound to the operator by default, and only deactivated when the inducer is present
+
+
+
 4. ![[Pasted image 20230227224602.png]]
    Examine the diagram of the trp operon at left. How is it similar to the diagram of the lac operon above?
 	- 
