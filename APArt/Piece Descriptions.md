@@ -5,10 +5,12 @@ Width:
 Length:
 
 ## Materials
-TRIPLE OVERWHELM: Blender 3D digital sculpting, fully procedural materials, cycles render engine
+1. TRIPLE OVERWHELM: Blender 3D digital sculpting, fully procedural materials, cycles render engine
+2. 
 
 ## Processes
-Researched, experimented on, and rearranged piano parts, mechanisms, and materials while maintaining form
+1. Researched, experimented on, and rearranged piano parts, mechanisms, and materials while maintaining form
+2. 
 
 # 2 - Guitar
 Height: 
