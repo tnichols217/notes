@@ -8,7 +8,9 @@ The diagrams below represent eukaryotic gene regulation:  the regulation of euka
 >> [!col-md]
 >> 1. What is the regulatory role of each of the following:
 >> 	1. Histones
+>> 		- Keeps DNA untangled and easy to transcribe
 >> 	2. Acetylation of Histones
+>> 		- 
 >> 	3. Methylation of Histones
 >> 	4. Transcription Factors
 >> 	5. Enhancer Region / Switch
