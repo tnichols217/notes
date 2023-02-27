@@ -11,8 +11,10 @@ The diagrams below represent operons, clusters of genes that control gene expres
 	4. Operator:
 		- The part after the promoter, but before the gene code that will either block or allow the RNA polymerase to pass, it can be activated or deactivated by regulatory proteins
 	5. Repressor:
+		- The protein that will bind to the operator to block the RNA polymerase
 2. ![[Pasted image 20230227224536.png]]
    What is the effect of the inducer on the repressor? Why is it called an inducer?
+	- 
 3. Is this an inducible or a repressible operon? Justify your answer.
 4. ![[Pasted image 20230227224602.png]]
    Examine the diagram of the trp operon at left. How is it similar to the diagram of the lac operon above?
