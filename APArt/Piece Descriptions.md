@@ -5,7 +5,7 @@ Width:
 Length:
 
 ## Materials
-1. TRIPLE OVERWHELM: Blender 3D digital sculpting, fully procedural materials, cycles render engine
+1. TRIPLE OVERWHELM: Blender 3D digital sculpting - subserf and curves workflow, fully procedural materials, cycles render engine
 2. 
 
 ## Processes
