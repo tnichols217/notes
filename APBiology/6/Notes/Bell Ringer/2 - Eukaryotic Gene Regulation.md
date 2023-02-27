@@ -16,7 +16,7 @@ The diagrams below represent eukaryotic gene regulation:  the regulation of euka
 >> 	4. Transcription Factors
 >> 		- Things required for transcription to be happening, the more there is the more often transcription happens
 >> 	5. Enhancer Region / Switch
->> 		- Section of DNA that
+>> 		- Section of DNA that will increase and increase the probability of binding to a promoter, are more often known as part of the transcription factors
 >> 	6. Promoter Region
 >> 		- The beginning of the gene, it attracts the RNA polymerase to start at the beginning of the gene expression
 
