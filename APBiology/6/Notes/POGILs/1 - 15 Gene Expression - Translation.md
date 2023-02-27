@@ -2,4 +2,4 @@
 	1. Uracil, Cytosine, Adenine, Guanine, the base on the RNA strand
 	2. The amino acid on the chain produced by the bases
 	3. The bases are read in triples to produce one amino acid
-2. 
+2. 300 / 3 = 100 - 1 = 99 (removal of the stop coding region)
