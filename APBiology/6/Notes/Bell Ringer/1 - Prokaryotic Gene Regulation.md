@@ -7,8 +7,9 @@ The diagrams below represent operons, clusters of genes that control gene expres
 	2. RNA polymerase:
 		- Reads the DNA and transcribes it into RNA for it to be made into a protein
 	3. Promoter:
-		- The site before a gene that attracts the RNA poly
+		- The site before a gene that attracts the RNA polymerase to bind and transcribe the DNA
 	4. Operator:
+		- The part after the promoter, but before the gene code that will either block or allow the RNA polymerase to pass, it can be activated or deactivated by regulatory proteins
 	5. Repressor:
 2. ![[Pasted image 20230227224536.png]]
    What is the effect of the inducer on the repressor? Why is it called an inducer?
