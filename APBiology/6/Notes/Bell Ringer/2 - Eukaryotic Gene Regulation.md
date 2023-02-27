@@ -7,5 +7,25 @@ The diagrams below represent eukaryotic gene regulation:  the regulation of euka
 >> [!col-md]
 >> 1. What is the regulatory role of each of the following:
 >> 	1. Histones
->> 	2. Acetylaytion
+>> 	2. Acetylation of Histones
+>> 	3. Methylation of Histones
+>> 	4. Transcription Factors
+>> 	5. Enhancer Region / Switch
+>> 	6. Promoter Region
+
+
+
+> [!col]
+>> [!col-md]
+>> ![[Pasted image 20230227230250.png]]
+>
+>> [!col-md]
+>> 1. What is the regulatory role of each of the following:
+>> 	1. Histones
+>> 	2. Acetylation of Histones
+>> 	3. Methylation of Histones
+>> 	4. Transcription Factors
+>> 	5. Enhancer Region / Switch
+>> 	6. Promoter Region
+
 
