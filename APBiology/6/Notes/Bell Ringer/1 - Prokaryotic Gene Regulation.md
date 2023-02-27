@@ -1,7 +1,11 @@
 The diagrams below represent operons, clusters of genes that control gene expression in bacteria. Answer the questions for each diagram below.
 
-1. ![[Pasted image 20230227224504.png]]
-   What is the role of each of the following:
+> [!col]
+>> [!col-md]
+>> ![[Pasted image 20230227224504.png]]
+>
+>> [!col-md]
+>> 1. What is the role of each of the following:
 	1. Regulatory gene:
 		- The gene that codes for repressors / activators of other genes
 	2. RNA polymerase:
@@ -12,6 +16,8 @@ The diagrams below represent operons, clusters of genes that control gene expres
 		- The part after the promoter, but before the gene code that will either block or allow the RNA polymerase to pass, it can be activated or deactivated by regulatory proteins
 	5. Repressor:
 		- The protein that will bind to the operator to block the RNA polymerase
+
+
 2. ![[Pasted image 20230227224536.png]]
    What is the effect of the inducer on the repressor? Why is it called an inducer?
 	- The inducer malforms the active site of the repressor, deactivating the repressor and removing it from the operator
