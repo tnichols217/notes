@@ -14,4 +14,5 @@
 6. They share a common ancestor or creator
 7. 7
 	1. Initiation, Elongation, Termination
-	2. 
+	2. Starting of the process, Building the chain, Stopping the production
+8. 
