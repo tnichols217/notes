@@ -9,4 +9,9 @@
 	3. In case an error in transcription occurs, there is still a higher chance that the correct protein will be made
 4. 4
 	1. AUG GAA GCC UAC CAG UGA
-	2. Met Glu Ala Tyr Gln 
+	2. Met Glu Ala Tyr Gln (stop)
+5. Met (AUG)
+6. They share a common ancestor or creator
+7. 7
+	1. Initiation, Elongation, Termination
+	2. 
