@@ -1,2 +1,11 @@
 The diagrams below represent eukaryotic gene regulation:  the regulation of eukaryotic gene expression by a combination of molecules before, during, and after gene transcription and mRNA translation.  Answer the questions for each diagram below.
 
+> [!col]
+>> [!col-md]
+>> ![[Pasted image 20230227230119.png]]
+>
+>> [!col-md]
+>> 1. What is the regulatory role of each of the following:
+>> 	1. Histones
+>> 	2. Acetylaytion
+
