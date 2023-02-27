@@ -6,4 +6,5 @@
 3. 3
 	1. 4
 	2. All start with CC
-	3. 
+	3. In case an error in transcription occurs, there is still a higher chance that the correct protein will be made
+4. AUG GAA GCC UAC C
