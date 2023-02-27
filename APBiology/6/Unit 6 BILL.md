@@ -29,7 +29,7 @@
 ### MISSING
 
 ## Doodle Notes
-1. [ ] Scientists with their findings related to DNA
+1. [x] Scientists with their findings related to DNA
 
 ## Flash Talks
 1. [ ] Prokaryotic Gene Regulation (on FlipGrid)
