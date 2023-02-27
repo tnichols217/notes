@@ -11,17 +11,17 @@
 	- [ ] 6.7 & 6.8 Mutations and Biotechnology
 
 # Activity log
-4. [ ] Activity: Transcription in action
-12. [ ] Activity: Genetic Variation at the Molecular Level
-13. [ ] Activity: The Effects of Mutations
-3. [ ] Bell Ringer: DNA Replication Review
-9. [ ] Bell Ringer: Prokaryotic gene regulation
-11. [ ] Bell Ringer: Eukaryotic gene regulation
-2. [x] Case Study: The Mona Lisa case study
-14. [ ] Case Study: Molecular Genetics of the Color Mutations in Rock Pocket Mice
-1. [x] Doodle notes of scientists with their findings related to DNA
-5. [ ] POGIL: Genetic expression - Translation
-6. [ ] Worksheet: Translation and Open Reading Frame Practice
-7. [ ] Lab: DNA, Proteins & Protein Folding
-8. [ ] Big protein synthesis foldable
-10. [ ] Data Nugget: Gene expression in stem cells
+1. [ ] Activity: Transcription in action
+2. [ ] Activity: Genetic Variation at the Molecular Level
+3. [ ] Activity: The Effects of Mutations
+4. [ ] Bell Ringer: DNA Replication Review
+5. [ ] Bell Ringer: Prokaryotic gene regulation
+6. [ ] Bell Ringer: Eukaryotic gene regulation
+7. [ ] Case Study: The Mona Lisa case study
+8. [ ] Case Study: Molecular Genetics of the Color Mutations in Rock Pocket Mice
+9. [ ] Data Nugget: Gene expression in stem cells
+10. [ ] Doodle notes of scientists with their findings related to DNA
+11. [ ] Lab: DNA, Proteins & Protein Folding
+12. [ ] POGIL: Genetic expression - Translation
+13. [ ] Worksheet: Translation and Open Reading Frame Practice
+14. [ ] Worksheet: Big protein synthesis foldable
