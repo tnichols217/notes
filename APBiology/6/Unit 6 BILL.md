@@ -34,7 +34,7 @@
 ## Flash Talks
 1. [ ] Prokaryotic Gene Regulation (on FlipGrid)
 
-## Labs (MISSING)
+## Labs (**MISSING**)
 1. [ ] DNA, Proteins & Protein Folding
 2. [ ] Bacterial Transformation (G-Drive)
 3. [ ] Strawberry DNA Extraction Lab (Handouts only)
@@ -45,3 +45,4 @@
 ## Worksheets
 1. [ ] Translation and Open Reading Frame Practice
 2. [ ] Big protein synthesis foldable
+### MISSING
