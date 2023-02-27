@@ -17,13 +17,15 @@
 4. [ ] Activity: 4 - Molecular Genetics of the Color Mutations in Rock Pocket Mice
 5. [ ] Bell Ringer: Prokaryotic gene regulation
 6. [ ] Bell Ringer: Eukaryotic gene regulation
-7. [ ] Case Study: The Mona Lisa case study
-8. [ ] Case Study: Molecular Genetics of the Color Mutations in Rock Pocket Mice
-9. [ ] Data Nugget: Gene expression in stem cells
-10. [ ] Doodle notes of scientists with their findings related to DNA
-11. [ ] Flash Talk: Prokaryotic Gene Regulation (on FlipGrid)
-12. [ ] Lab: DNA, Proteins & Protein Folding
-13. [ ] lab: Bacterial Transformation (G-Drive)
-14. [ ] POGIL: Genetic expression - Translation
-15. [ ] Worksheet: Translation and Open Reading Frame Practice
-16. [ ] Worksheet: Big protein synthesis foldable
+7. [ ] Bell Ringer: Central Dogma FRQ
+8. [ ] Case Study: The Mona Lisa case study
+9. [ ] Case Study: Molecular Genetics of the Color Mutations in Rock Pocket Mice
+10. [ ] Data Nugget: Gene expression in stem cells
+11. [ ] Doodle notes of scientists with their findings related to DNA
+12. [ ] Flash Talk: Prokaryotic Gene Regulation (on FlipGrid)
+13. [ ] Lab: DNA, Proteins & Protein Folding
+14. [ ] Lab: Bacterial Transformation (G-Drive)
+15. [ ] Lab: Strawberry DNA Extraction Lab (Handouts only)
+16. [ ] POGIL: Genetic expression - Translation
+17. [ ] Worksheet: Translation and Open Reading Frame Practice
+18. [ ] Worksheet: Big protein synthesis foldable
