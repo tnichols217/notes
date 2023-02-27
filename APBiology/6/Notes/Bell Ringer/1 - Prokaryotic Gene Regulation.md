@@ -25,7 +25,7 @@ The diagrams below represent operons, clusters of genes that control gene expres
 >> 2. What is the effect of the inducer on the repressor? Why is it called an inducer?
 >>	- The inducer malforms the active site of the repressor, deactivating the repressor and removing it from the operator
 >> 3. Is this an inducible or a repressible operon? Justify your answer.
->> 	- This is a repressible operon, as the repressor is bound to the operator by default, and only deactivated when the inducer is present
+>> 	- This is a inducible operon, as the repressor is bound to the operator by default, and only deactivated when the inducer is present
 
 > [!col]
 >> [!col-md]
@@ -37,4 +37,4 @@ The diagrams below represent operons, clusters of genes that control gene expres
 >> 5. Why do you think it is called a corepressor? What is the effect of the corepressor on gene expression?
 >> 	- Because both the repressor and the corepressor need to be present to actually repress the gene
 >> 6. Is this an inducible or a repressible operon? Justify your answer.
->> 	- In
+>> 	- Repressible, as it is on by default, but only blocked when two proteins are present
