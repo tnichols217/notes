@@ -14,7 +14,7 @@
 1. [ ] Activity: 1 - Transcription in action
 2. [ ] Activity: 2 - Genetic Variation at the Molecular Level
 3. [ ] Activity: 3 - The Effects of Mutations
-4. [ ] Bell Ringer: DNA Replication Review
+4. [ ] Activity: 4 - Molecular Genetics of the Color Mutations in Rock Pocket Mice
 5. [ ] Bell Ringer: Prokaryotic gene regulation
 6. [ ] Bell Ringer: Eukaryotic gene regulation
 7. [ ] Case Study: The Mona Lisa case study
@@ -23,6 +23,7 @@
 10. [ ] Doodle notes of scientists with their findings related to DNA
 11. [ ] Flash Talk: Prokaryotic Gene Regulation (on FlipGrid)
 12. [ ] Lab: DNA, Proteins & Protein Folding
-13. [ ] POGIL: Genetic expression - Translation
-14. [ ] Worksheet: Translation and Open Reading Frame Practice
-15. [ ] Worksheet: Big protein synthesis foldable
+13. [ ] lab: Bacterial Transformation (G-Drive)
+14. [ ] POGIL: Genetic expression - Translation
+15. [ ] Worksheet: Translation and Open Reading Frame Practice
+16. [ ] Worksheet: Big protein synthesis foldable
