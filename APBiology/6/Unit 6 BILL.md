@@ -21,7 +21,8 @@
 8. [ ] Case Study: Molecular Genetics of the Color Mutations in Rock Pocket Mice
 9. [ ] Data Nugget: Gene expression in stem cells
 10. [ ] Doodle notes of scientists with their findings related to DNA
-11. [ ] Lab: DNA, Proteins & Protein Folding
-12. [ ] POGIL: Genetic expression - Translation
-13. [ ] Worksheet: Translation and Open Reading Frame Practice
-14. [ ] Worksheet: Big protein synthesis foldable
+11. [ ] Flash Talk: Prokaryotic Gene Regulation (on FlipGrid)
+12. [ ] Lab: DNA, Proteins & Protein Folding
+13. [ ] POGIL: Genetic expression - Translation
+14. [ ] Worksheet: Translation and Open Reading Frame Practice
+15. [ ] Worksheet: Big protein synthesis foldable
