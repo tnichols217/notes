@@ -10,8 +10,9 @@ The diagrams below represent eukaryotic gene regulation:  the regulation of euka
 >> 	1. Histones
 >> 		- Keeps DNA untangled and easy to transcribe
 >> 	2. Acetylation of Histones
->> 		- 
+>> 		- Spreads the histones apart from each other, increasing transcription rates
 >> 	3. Methylation of Histones
+>> 		- 
 >> 	4. Transcription Factors
 >> 	5. Enhancer Region / Switch
 >> 	6. Promoter Region
