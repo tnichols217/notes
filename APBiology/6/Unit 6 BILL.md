@@ -26,6 +26,7 @@
 ## Case Studies
 1. [ ] The Mona Lisa case study
 2. [ ] Gene expression in stem cells
+### MISSING
 
 ## Doodle Notes
 1. [ ] Scientists with their findings related to DNA
