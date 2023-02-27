@@ -1,5 +1,6 @@
 The diagrams below represent eukaryotic gene regulation:  the regulation of eukaryotic gene expression by a combination of molecules before, during, and after gene transcription and mRNA translation.  Answer the questions for each diagram below.
 
+### Regulation of Transcription
 > [!col]
 >> [!col-md]
 >> ![[Pasted image 20230227230119.png]]
@@ -13,8 +14,7 @@ The diagrams below represent eukaryotic gene regulation:  the regulation of euka
 >> 	5. Enhancer Region / Switch
 >> 	6. Promoter Region
 
-
-
+### Post-Transcriptional and Translational Regulation
 > [!col]
 >> [!col-md]
 >> ![[Pasted image 20230227230250.png]]
