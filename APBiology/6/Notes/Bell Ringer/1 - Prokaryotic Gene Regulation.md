@@ -35,5 +35,6 @@ The diagrams below represent operons, clusters of genes that control gene expres
 >> 4. Examine the diagram of the trp operon at left. How is it similar to the diagram of the lac operon above?
 >> 	- It has a repressor, promoter, and operator
 >> 5. Why do you think it is called a corepressor? What is the effect of the corepressor on gene expression?
->> 	- Because both the
+>> 	- Because both the repressor and the corepressor need to be present to actually repress the gene
 >> 6. Is this an inducible or a repressible operon? Justify your answer.
+>> 	- In
