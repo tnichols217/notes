@@ -5,12 +5,12 @@ Width:
 Length:
 
 ## Materials
-1. TRIPLE OVERWHELM: Blender 3D digital sculpting - subserf and curves workflow, HDRI images for lighting, fully procedural materials, cycles render engine
+1. TRIPLE OVERWHELM: Blender 3D digital sculpting - subserf workflow to create man-made forms and curves workflow to create natural shapes, fully handmade procedural materials, cycles render engine
 2. 
 
 ## Processes
 1. Researched, experimented on, and rearranged piano parts, mechanisms, and materials while maintaining form
-2. 
+2. Exper
 
 # 2 - Guitar
 Height: 
