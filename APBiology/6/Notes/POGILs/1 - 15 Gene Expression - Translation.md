@@ -21,4 +21,10 @@
 11. 11
 	1. GUA
 	2. CAU
-	3. 
+	3. ✅
+	4. CCA
+12. It transfers amino acids to the ribosome while matching to the mRNA
+13. 2, the previous and current
+14. Goes and finds more amino acids
+15. Binds water to the end and detaches from the ribosome
+16. It creates a chain of amino acids (protein) simply from DNA, through 
