@@ -15,4 +15,5 @@
 7. 7
 	1. Initiation, Elongation, Termination
 	2. Starting of the process, Building the chain, Stopping the production
-8. 
+8. Cytoplasm / Ribosomes
+9. It is the start codon and begins the 
