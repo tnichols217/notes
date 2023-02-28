@@ -27,4 +27,5 @@
 13. 2, the previous and current
 14. Goes and finds more amino acids
 15. Binds water to the end and detaches from the ribosome
-16. It creates a chain of amino acids (protein) simply from DNA, through 
+16. It creates a chain of amino acids (protein) simply from DNA, through RNA
+17. 
