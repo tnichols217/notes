@@ -16,4 +16,6 @@
 	1. Initiation, Elongation, Termination
 	2. Starting of the process, Building the chain, Stopping the production
 8. Cytoplasm / Ribosomes
-9. It is the start codon and begins the 
+9. It is the start codon and begins the chain of amino acids
+10. It moves down the mRNA, reading it in triplets
+11. 
