@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "0316daf015148d02",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "afe1a49b6a1cb1d2",
             "type": "leaf",
             "state": {
@@ -104,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -259,7 +269,7 @@
       }
     ]
   },
-  "active": "709706595b2c2e86",
+  "active": "0316daf015148d02",
   "lastOpenFiles": [
     "Private/college/Expenses.md",
     "Private/college/Logins.md",
