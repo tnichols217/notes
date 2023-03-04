@@ -8,4 +8,6 @@
 
 ### Mechanics of transcription
 1. 1
-2. 
+2. Ribosome clamps on DNA
+
+### Practicing transcription
