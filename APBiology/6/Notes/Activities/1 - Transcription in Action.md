@@ -8,6 +8,7 @@
 
 ### Mechanics of transcription
 1. 1
-2. Ribosome clamps on DNA
+2. mRNA is made from DNA (after unzipped), mRNA leaves cell, gets processed then goes to the ribsomes where proteins are formed from amino acids with the help of tRNA.
 
 ### Practicing transcription
+1. 
