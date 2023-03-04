@@ -28,5 +28,10 @@ Amino Acid: Thr Leu **Ser** **Stop** **Ser Tyr Asp Ser Asp Gly Gly Val Pro Pro L
 # Hemoglobin
 ## Normal Hemoglobin
 DNA: CAC GTG GAC TGA GGA CTC CTC
+mRNA: GUG CAC CUG ACU CCU GAG GAG
+Amino Acid:
 
 ## Mutated Hemoglobin
+DNA: CAC GTG GAC TGA GGA CAC CTC
+mRNA: 
+Amino Acid: 
