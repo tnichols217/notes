@@ -12,7 +12,7 @@
 
 # Activity log
 ## Activities
-1. [ ] Activity: Transcription in action
+1. [x] Activity: Transcription in action
 2. [ ] Activity: Genetic Variation at the Molecular Level
 3. [ ] Activity: The Effects of Mutations
 4. [ ] Activity: Molecular Genetics of the Color Mutations in Rock Pocket Mice
