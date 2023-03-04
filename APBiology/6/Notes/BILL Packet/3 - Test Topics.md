@@ -41,9 +41,11 @@
     -   Acetylating
         - Spreading of histones apart to activate DNA
     -   Euchromatin versus heterochromatin
-        - Eu - spr
+        - Eu - spread out histones, active
+        - Hetero - closely packed, inactive
 -   Viruses
     -   Lytic versus lysogenic cycle
+        - Lytic - replicate until host cell explodes
     -   Reverse transcription
 -   Biotechnology (purpose, steps)
     -   PCR
