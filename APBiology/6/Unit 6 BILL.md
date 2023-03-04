@@ -1,7 +1,7 @@
 # Unit Essentials
 1. [x] Unit map
 2. [x] Traffic light
-3. [ ] Test topics
+3. [x] Test topics
 4. [ ] Unit summary
 5. [ ] Official AP Biology unit summary
 6. [ ] Topic review guide  

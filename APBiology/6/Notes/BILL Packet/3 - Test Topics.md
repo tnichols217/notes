@@ -53,6 +53,6 @@
     -   PCR
         - Split a DNA with heat, the spray bases everywhere and let it bind by itself
     -   Recombinant DNA
-        - 
+        - Combining DNA from two different samples to create new DNA
     -   Electrophoresis
         - Measure similarities in different DNA samples by using electricity and a gel
