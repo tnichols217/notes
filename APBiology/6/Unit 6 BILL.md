@@ -40,7 +40,7 @@
 3. [ ] Strawberry DNA Extraction Lab (Handouts only)
 
 ## POGILs
-1. [ ] Genetic expression - Translation
+1. [x] Genetic expression - Translation
 
 ## Worksheets
 1. [ ] Translation and Open Reading Frame Practice

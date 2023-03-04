@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "b45ea190964f61ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/6/Notes/Worksheets/1 - Translating and Open Reading Frame Practice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "afe1a49b6a1cb1d2",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/6/Notes/POGILs/1 - 15 Gene Expression - Translation.md",
+                "file": "APBiology/6/Unit 6 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/6/Notes/POGILs/1 - 15 Gene Expression - Translation.md"
+                "file": "APBiology/6/Unit 6 BILL.md"
               }
             }
           },
@@ -250,8 +262,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1268,
-        "y": 250,
+        "x": 911,
+        "y": 70,
         "width": 1576,
         "height": 900,
         "maximize": true,
@@ -259,10 +271,12 @@
       }
     ]
   },
-  "active": "709706595b2c2e86",
+  "active": "f81b3a68c55fd3e2",
   "lastOpenFiles": [
-    "APBiology/6/Unit 6 BILL.md",
+    "APBiology/6/Notes/Worksheets/1 - Translating and Open Reading Frame Practice.md",
     "APBiology/6/Notes/POGILs/1 - 15 Gene Expression - Translation.md",
+    "APBiology/6/Notes/Worksheets",
+    "APBiology/6/Unit 6 BILL.md",
     "Private/college/Expenses.md",
     "Private/college/Logins.md",
     "APBiology/6/Notes/Untitled.md",
