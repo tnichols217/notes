@@ -51,8 +51,8 @@
         - Putting of mRNA back into DNA
 -   Biotechnology (purpose, steps)
     -   PCR
-        - 
+        - Split a DNA with heat, the spray bases everywhere and let it bind by itself
     -   Recombinant DNA
+        - 
     -   Electrophoresis
-        - Measure similari
-    -   transformation
+        - Measure similarities in different DNA samples by using electricity and a gel
