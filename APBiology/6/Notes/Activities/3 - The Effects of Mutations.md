@@ -1,3 +1,4 @@
+# Myostatin
 ## Normal myostatin
 DNA:  TGT GAT GAA CAC TCC ACA GAA TCT CGA TGC TGT CGC TAC CCC CTC ACG
 mRNA: ACA CUA CUU GUG AGG UGU CUU AGA GCU ACG ACA GCG AUG GGG GAG UGC
@@ -24,3 +25,8 @@ Amino Acid: Thr Leu **Ser** **Stop** **Ser Tyr Asp Ser Asp Gly Gly Val Pro Pro L
 7. Missense, because it modifies the amino acid strain without completely breaking it
 8. It may be more effective at promoting growth in the cells or possibly is a broken cell growth inhibitor
 
+# Hemoglobin
+## Normal Hemoglobin
+DNA: CAC GTG GAC TGA GGA CTC CTC
+
+## Mutated Hemoglobin
