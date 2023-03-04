@@ -13,4 +13,6 @@ Amino Acid: Thr Leu **Ser** **Stop** **Ser Tyr Asp Ser Asp Gly Gly Val Pro Pro L
 3. Everything after the second codon is different
 
 
-1. A molecule that plays a part in controlling cell division, 
+1. 1
+	1. A molecule that plays a part in controlling cell division
+	2. 
