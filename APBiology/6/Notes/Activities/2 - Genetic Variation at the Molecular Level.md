@@ -21,4 +21,5 @@ Amino Acid: val ***his*** leu **thr** pro val *glu*
 
 # Check your Hypothesis
 1. Makes it sickle shaped (malformed)
-2. 
+2. It is the same, malshapen
+3. Its the SAME
