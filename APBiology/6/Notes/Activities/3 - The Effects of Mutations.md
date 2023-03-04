@@ -21,4 +21,6 @@ Amino Acid: Thr Leu **Ser** **Stop** **Ser Tyr Asp Ser Asp Gly Gly Val Pro Pro L
 4. Is a growth factor in muscle cells
 5. It could be an insertion or deletion, I cant tell, but it does cause frameshift, because since the incident all the amino acids are changed
 6. Frameshit
-7. 
+7. Missense, because it modifies the amino acid strain without completely breaking it
+8. It may be more effective at promoting growth in the cells or possibly is a broken cell growth inhibitor
+
