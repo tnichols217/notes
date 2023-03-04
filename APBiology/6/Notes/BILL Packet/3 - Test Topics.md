@@ -21,8 +21,12 @@
     -   Types and effects
         - Point - switch one base
         - Insertion - inserts a base
-        - Deletion - remove 
+        - Deletion - remove a base
+        - Frameshift - everything after is changed
+        - Missense - Amino acid changed
+        - Nonsense - Amino acid changed that modifies the start or end of the protein
 -   Differences between transcription in prokaryotes and eukaryotes
+	- 
 -   Differences between DNA in prokaryotes and eukaryotes
 -   Control of gene expression in prokaryotes
     -   Lac and trp operons
