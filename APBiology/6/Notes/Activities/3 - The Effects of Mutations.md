@@ -8,5 +8,9 @@ DNA:  TGT GAC AGA ATC TCG ATG CTG TCG CTA CCC CCT CAC GGT GGA TTT TGA
 mRNA: ACA CUG UCU UAG AGC UAC GAC AGC GAU GGG GGA GUG CCA CCU AAA ACU
 Amino Acid: Thr Leu **Ser** **Stop** **Ser Tyr Asp Ser Asp Gly Gly Val Pro Pro Lys Thr**
 
-1. Everything after the second codon is different
-2. 
+1. 1
+2. 2
+3. Everything after the second codon is different
+
+
+1. A molecule that plays a part in controlling cell division, 
