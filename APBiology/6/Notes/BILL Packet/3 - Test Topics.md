@@ -26,11 +26,15 @@
         - Missense - Amino acid changed
         - Nonsense - Amino acid changed that modifies the start or end of the protein
 -   Differences between transcription in prokaryotes and eukaryotes
-	- 
+	- prokaryotes have circular DNA, and dont do processing on the mRNA
 -   Differences between DNA in prokaryotes and eukaryotes
+	- circular DNA
 -   Control of gene expression in prokaryotes
     -   Lac and trp operons
+        - repressed and inducible genes
     -   Inducible versus repressible operons
+        - inducible - can be turned on - off by default
+        - 
 -   Control of gene expression in eukaryotes
     -   Methylating
     -   Acetylating
