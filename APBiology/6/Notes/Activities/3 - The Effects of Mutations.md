@@ -34,4 +34,7 @@ Amino Acid: Val His Leu Thr Pro Glu Glu
 ## Mutated Hemoglobin
 DNA: CAC GTG GAC TGA GGA CAC CTC
 mRNA: GUG CAC CUG ACU CCU GUG GAG
-Amino Acid: 
+Amino Acid: Val His Leu Thr Pro Val Glu
+
+9. Red Blood Cell malformation
+10. Missense, beca
