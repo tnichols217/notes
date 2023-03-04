@@ -17,4 +17,6 @@ Amino Acid: Thr Leu **Ser** **Stop** **Ser Tyr Asp Ser Asp Gly Gly Val Pro Pro L
 	1. A molecule that plays a part in controlling cell division
 	2. Mice used for testing
 2. Frameshit, caused by addition or deletion because it modifies every amino acid after it
-3. 
+3. Skeletal muscle of mammals
+4. Is a growth factor in muscle cells
+5. It could be an ins
