@@ -38,4 +38,5 @@ Amino Acid: Val His Leu Thr Pro Val Glu
 
 9. Red Blood Cell malformation
 10. Missense, because no start/stop codons were modified
-11. Because it gives them an advantage at surviving 
+11. Because it gives them an advantage at surviving malaria, increasing the probability of survival and reproduction (since malaria is more common there)
+12. We know what it is and how to take care of it

@@ -14,7 +14,7 @@
 ## Activities
 1. [x] Activity: Transcription in action
 2. [x] Activity: Genetic Variation at the Molecular Level
-3. [ ] Activity: The Effects of Mutations
+3. [x] Activity: The Effects of Mutations
 4. [ ] Activity: Molecular Genetics of the Color Mutations in Rock Pocket Mice
 ### MISSING
 
