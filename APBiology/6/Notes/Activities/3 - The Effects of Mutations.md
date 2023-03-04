@@ -37,4 +37,5 @@ mRNA: GUG CAC CUG ACU CCU GUG GAG
 Amino Acid: Val His Leu Thr Pro Val Glu
 
 9. Red Blood Cell malformation
-10. Missense, beca
+10. Missense, because no start/stop codons were modified
+11. Because it gives them an advantage at surviving 
