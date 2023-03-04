@@ -28,4 +28,7 @@
 14. Goes and finds more amino acids
 15. Binds water to the end and detaches from the ribosome
 16. It creates a chain of amino acids (protein) simply from DNA, through RNA
-17. 4x4x4
+17. 17
+	1. 4x4x4 = 64
+	2. 4x4 = 16 (less than 20)
+18. UUUUUUUUUUUU => UUCUUUUUU
