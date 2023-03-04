@@ -1,0 +1,2 @@
+## Hb-b
+DNA: CAC GTG GAC TGA GGA CTC CTC
