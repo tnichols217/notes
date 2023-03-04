@@ -34,11 +34,14 @@
         - repressed and inducible genes
     -   Inducible versus repressible operons
         - inducible - can be turned on - off by default
-        - 
+        - repressible - can be turned off - on by default
 -   Control of gene expression in eukaryotes
     -   Methylating
+        - Adding methane groups to the histones
     -   Acetylating
+        - Spreading of histones apart to activate DNA
     -   Euchromatin versus heterochromatin
+        - Eu - spr
 -   Viruses
     -   Lytic versus lysogenic cycle
     -   Reverse transcription
