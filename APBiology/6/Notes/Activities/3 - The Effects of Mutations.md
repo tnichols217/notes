@@ -1,3 +1,7 @@
-## 
+## Normal myostatin
+DNA:  TGT GAT GAA CAC TCC ACA GAA TCT CGA TGC TGT CGC TAC CCC CTC ACG
+
+## Belgian Blue myostatin
+DNA:  TGT GAC AGA ATC TCG ATG CTG TCG CTA CCC CCT CAC GGT GGA TTT TGA
 
 1. 
