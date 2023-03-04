@@ -1,7 +1,7 @@
 ## Normal myostatin
 DNA:  TGT GAT GAA CAC TCC ACA GAA TCT CGA TGC TGT CGC TAC CCC CTC ACG
 mRNA: ACA CUA CUU GUG AGG UGU CUU AGA GCU ACG ACA GCG AUG GGG GAG UGC
-Amino Acid: Thr Leu Leu Val Arg Cys 
+Amino Acid: Thr Leu Leu Val Arg Cys Leu Arg Ala Thr Thr Ala Met Gly Glu 
 
 ## Belgian Blue myostatin
 DNA:  TGT GAC AGA ATC TCG ATG CTG TCG CTA CCC CCT CAC GGT GGA TTT TGA
