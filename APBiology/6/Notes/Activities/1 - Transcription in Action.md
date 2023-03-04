@@ -11,4 +11,6 @@
 2. mRNA is made from DNA (after unzipped), mRNA leaves cell, gets processed then goes to the ribsomes where proteins are formed from amino acids with the help of tRNA.
 
 ### Practicing transcription
-1. 
+1. 1
+	1. DNA: `TACGGGTTAAAAATCCCGCTACAGGCTTCCGTA`
+	2. 
