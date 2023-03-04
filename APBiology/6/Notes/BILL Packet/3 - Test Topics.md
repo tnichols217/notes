@@ -12,11 +12,16 @@
     -   Names of processes
         - Transcription -> Translation
     -   Descriptions of processes
-        - Reads and copys DNA to mRNA, conver
+        - Reads and copys DNA to mRNA, converts mRNA into proteins with help of tRNA
 -   mRNA processing in eukaryotes
+	- Remove the exons, leaving only the introns, add a sugar hat and A tail
 -   Telomeres/telomerase
+	- The ends of DNA
 -   Mutations
     -   Types and effects
+        - Point - switch one base
+        - Insertion - inserts a base
+        - Deletion - remove 
 -   Differences between transcription in prokaryotes and eukaryotes
 -   Differences between DNA in prokaryotes and eukaryotes
 -   Control of gene expression in prokaryotes
