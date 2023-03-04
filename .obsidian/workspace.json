@@ -68,16 +68,6 @@
             }
           },
           {
-            "id": "0316daf015148d02",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
             "id": "afe1a49b6a1cb1d2",
             "type": "leaf",
             "state": {
@@ -114,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -260,21 +250,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 24,
-        "y": 68,
+        "x": 1268,
+        "y": 250,
         "width": 1576,
-        "height": 1040,
+        "height": 900,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "0316daf015148d02",
+  "active": "709706595b2c2e86",
   "lastOpenFiles": [
+    "APBiology/6/Unit 6 BILL.md",
+    "APBiology/6/Notes/POGILs/1 - 15 Gene Expression - Translation.md",
     "Private/college/Expenses.md",
     "Private/college/Logins.md",
-    "APBiology/6/Notes/POGILs/1 - 15 Gene Expression - Translation.md",
-    "APBiology/6/Unit 6 BILL.md",
     "APBiology/6/Notes/Untitled.md",
     "APBiology/6/Notes/Bell Ringer/3 - Central Dogma FRQ.md",
     "APBiology/6/Notes/Bell Ringer/2 - Eukaryotic Gene Regulation.md",
