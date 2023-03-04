@@ -19,4 +19,6 @@ Amino Acid: Thr Leu **Ser** **Stop** **Ser Tyr Asp Ser Asp Gly Gly Val Pro Pro L
 2. Frameshit, caused by addition or deletion because it modifies every amino acid after it
 3. Skeletal muscle of mammals
 4. Is a growth factor in muscle cells
-5. It could be an ins
+5. It could be an insertion or deletion, I cant tell, but it does cause frameshift, because since the incident all the amino acids are changed
+6. Frameshit
+7. 
