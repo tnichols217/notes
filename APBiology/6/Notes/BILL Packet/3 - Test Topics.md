@@ -7,10 +7,12 @@
 -   Genetic code is universal – what does that mean?
 	- Genetic code remains of the same structure across all organisms
 -   Structure of DNA
-	- Consists of Nucleic Bases, made of the R- group, 
+	- Consists of Nucleic Bases, made of the Phosphate backbone and nucleotides
 -   Central dogma (DNA -> RNA -> protein)
     -   Names of processes
+        - Transcription -> Translation
     -   Descriptions of processes
+        - Reads and copys DNA to mRNA, conver
 -   mRNA processing in eukaryotes
 -   Telomeres/telomerase
 -   Mutations
