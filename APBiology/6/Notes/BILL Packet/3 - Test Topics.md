@@ -44,11 +44,15 @@
         - Eu - spread out histones, active
         - Hetero - closely packed, inactive
 -   Viruses
-    -   Lytic versus lysogenic cycle
-        - Lytic - replicate until host cell explodes
+    -   Lytic versus lysogenic cycle - bacteria replication
+        - Lytic - replicate until host cell explodes, killing the host
+        - Lysogenic - puts DNA into host cell and lets it reproduce, then explode
     -   Reverse transcription
+        - Putting of mRNA back into DNA
 -   Biotechnology (purpose, steps)
     -   PCR
+        - 
     -   Recombinant DNA
     -   Electrophoresis
+        - Measure similari
     -   transformation
