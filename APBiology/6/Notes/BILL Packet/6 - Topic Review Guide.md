@@ -30,7 +30,7 @@
   DNA Structure and Replication
 1. Explain how the experiments that each of the following people/groups of people performed provided evidence that DNA is the genetic material.
 	1. Frederick Griffith
-		- 
+		- Proved that DNA was the carrier of genetic material through experiment with radiolabeled bacteriophages
 	2. Oswald Avery, Maclyn McCarty, and Colin MacLeod
 	3. Alfred Hershey and Martha Chase
 	4. Erwin Chargaff 
