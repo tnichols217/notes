@@ -24,12 +24,13 @@
 		- It is off by default, but in the lack of glucose and surplus of lactose, the gene will turn on to digest the lactose
 - Figure 15.6: Stages in gene expression that can be regulated in eukaryotic cells pg. 298
 	- Power Line: In what ways do eukaryotic cells regulate gene expression?
-		- 
+		- Through histones and repressors/activators
 
 # Recall and Review
   DNA Structure and Replication
 1. Explain how the experiments that each of the following people/groups of people performed provided evidence that DNA is the genetic material.
 	1. Frederick Griffith
+		- 
 	2. Oswald Avery, Maclyn McCarty, and Colin MacLeod
 	3. Alfred Hershey and Martha Chase
 	4. Erwin Chargaff 
