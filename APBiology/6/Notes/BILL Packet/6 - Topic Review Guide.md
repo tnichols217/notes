@@ -96,10 +96,10 @@
 14. Explain how the production of eukaryotic mRNA is like watching a tv show that is on Netflix.
 	- It reads and copies what it sees
 15. Create a graphic organizer that illustrates the differences between the processes of transcription and translation, including how they operate in prokaryotes vs. eukaryotes.
-	- Transcription is DNA -> mRNA while translation is mRNA -> 
+	- Transcription is DNA -> mRNA while translation is mRNA -> proteins
 16. Explain the relationship between protein synthesis and an organism’s phenotype.
+	- Phenotype is a trait that is displayed, protein synthesis is just what is produced from active genes, which may influence the phenotype
 17. Explain how the “one-gene-one protein” hypothesis was derived by Beadle and Tatum.  Why has this hypothesis been refined to “one gene-one polypeptide,” and now “one gene-one (protein) domain?”
-  Mutations
 18. Create a t-chart that explains the difference between somatic mutations and germline mutations.
 19. Create a graphic organizer that illustrates how point mutations differ from chromosomal mutations.  Which one has a greater effect on the organism’s phenotype?
 20. Create a diagram that represents the following types of mutations:
