@@ -4,4 +4,7 @@ mRNA: `AUG UUU CAU CUC GUU GAC UUU CAG GUU ACU AUA GCA GAG AUA UUA CUA AUU AUU A
 Amino A.: `Met Phe His Leu Val Asp Phe Gln Val Thr Ile Ala Glu Ile Leu Leu Ile Ile Met Arg`
 
 1st: the chain of amino acids
-2nd: Creation of helices and 
+2nd: Creation of helices and sheets from interactions between the local amino acids
+3rd: The final shape of a strand of amino acids through interactions with the entire strand of amino acids
+4th: Interaction between multiple strands of amino acids to produce one large protein
+
