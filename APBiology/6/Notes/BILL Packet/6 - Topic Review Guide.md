@@ -86,8 +86,9 @@
 	3. tRNA
 		- RNA that connects sequences of mRNA to amino acids
 	4. rRNA
-		- RNA that folds up 
+		- RNA that folds up into ribosomes in order to facilitate protein production
 	5. RNAi
+		- 
 12. Describe the difference between an intron and an exon. 
 13. Eukaryotic mRNA is often modified before it leaves the nucleus. Describe how this happens.
 14. Explain how the production of eukaryotic mRNA is like watching a tv show that is on Netflix.
