@@ -119,9 +119,9 @@
 22. Explain what would happen to the process of gene expression if the gene for RNA polymerase was mutated.
 	- Likely, no RNA will be able to be made, and therefore no proteins
 23. Each amino acid has a tRNA synthetase enzyme that is responsible for attaching it to a tRNA molecule. Explain what would happen if there was a mutation in the gene encoding one of these enzymes.
-	- 
+	- Certain amino acids will not be able to be used in the production of proteins and the tRNA sequences for that amino acid will be nonfuctional
 24. Describe how proteins can be altered once they have been synthesized at the ribosome and what organelles are involved.
-  Gene Regulation
+	- They may be folded differently, added more parts to it 
 25. Define operon.  Explain how bacterial cells use operons to control gene expression. 
 26. Describe the relationship between the following components of an operon: 
 	1. Promoter
