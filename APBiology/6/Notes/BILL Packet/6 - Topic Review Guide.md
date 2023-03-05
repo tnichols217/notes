@@ -12,11 +12,13 @@
 		- DNA stores the information, RNA copies it and makes it ready to be used in the cell
 - Concept 14.4: Translation is the RNA-directed synthesis of a polypeptide - a closer look pgs. 279-286
 	- Power Line: How does translation generate polypeptides that determine genotypes?
-		- Polypeptides are the 
+		- Polypeptides are the expression of genes, so they are by definition what shows from the genetic code of DNA
 - Concept 14.5: Mutations of one or a few nucleotides can affect protein structure and function pgs. 288-290
 	- Power Line: How does the various types of mutations impact genotype and phenotype?
+		- Mutations can change the genetic code of a gene, changing the resulting protein and therefore the phenotype and genotype if the mutation is sensical
 - Figure 15.3: The trp operon in E. coli - regulated synthesis of repressible enzymes pg. 295
 	- Power Line: How is the trp operon repressible?
+		- 
 - Figure 15.4: The lac operon in E.coli - regulated synthesis of inducible enzymes pg. 296
 	- Power Line: How is the lac operon an inducible?
 - Figure 15.6: Stages in gene expression that can be regulated in eukaryotic cells pg. 298
