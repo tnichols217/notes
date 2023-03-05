@@ -143,10 +143,13 @@
 	2. Promoter
 		- Portion of DNA before the gene that will attract the RNA polymerase to the site
 	3. Silencer
-		- A protein that binds to the promoter to disable its pr
+		- A protein that binds to the promoter to disable its promoting functions
 	4. DNA
+		- The genetic code that is being read and used to produce functional proteins
 29. Explain how transcription factors help to regulate eukaryotic gene expression.
+	- Presence of an enhancer, silencer, and repressors, activators, as well as activity of the histones
 30. Create a t-chart that describes the differences between lytic virus reproduction and lysogenic virus reproduction
+	- 
 31. Describe how the following tools are used to study or modify organismal genomes: 
 	1. Restriction Enzymes
 	2. Plasmids
