@@ -155,6 +155,6 @@
 	1. Restriction Enzymes
 		- Cuts open the DNA with some bases left unpaired at the end (Sticky) and will bind to new inserted DNA
 	2. Plasmids
-		- 
+		- A small piece of DNA in a circle that has the gene, has an origin of replication, 
 	3. Gel Electrophoresis
 	4. Polymerase Chain Reaction (PCR)
