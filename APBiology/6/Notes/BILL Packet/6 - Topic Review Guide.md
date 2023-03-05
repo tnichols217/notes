@@ -70,11 +70,14 @@
 	4. Chromosome
 		- Wound up DNA, ready for replication
 	5. Transcription and Translation
-		- 
+		- Reading the DNA to make protein through RNA
 10. Compare the processes of DNA replication with transcription.  Be sure to include the following things in your comparison: 
 	1. Location of process	
+		- Replication in nucleolus while transcription also happens in the same place, but leaves into the cytoplasm
 	2. Nucleic acids involved
+		- ATCG vs AUCG
 	3. Enzymes responsible
+		- DNA polymera
 11. Create a graphic organizer that explains the relationship between the following molecules: 
 	1. DNA
 	2. mRNA
