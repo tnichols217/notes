@@ -12,7 +12,7 @@
 		- DNA stores the information, RNA copies it and makes it ready to be used in the cell
 - Concept 14.4: Translation is the RNA-directed synthesis of a polypeptide - a closer look pgs. 279-286
 	- Power Line: How does translation generate polypeptides that determine genotypes?
-		- 
+		- Polypeptides are the 
 - Concept 14.5: Mutations of one or a few nucleotides can affect protein structure and function pgs. 288-290
 	- Power Line: How does the various types of mutations impact genotype and phenotype?
 - Figure 15.3: The trp operon in E. coli - regulated synthesis of repressible enzymes pg. 295
