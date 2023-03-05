@@ -3,7 +3,7 @@
 2. [x] Traffic light
 3. [x] Test topics
 4. [ ] Unit summary
-5. [ ] Official AP Biology unit summary
+5. [x] Official AP Biology unit summary
 6. [ ] Topic review guide  
 	- [ ] 6.1 & 6.2 DNA Structure and Replication  
 	- [ ] 6.3 & 6.4 Transcription, RNA Processing and Translation  
