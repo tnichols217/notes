@@ -90,11 +90,13 @@
 	5. RNAi
 		- RNA that binds to other RNA to prevent it from creating proteins, it eventually breaks down each other
 12. Describe the difference between an intron and an exon. 
-	- Introns get used to create the final protein, exons do not
+	- Exons get used to create the final protein, Intons do not
 13. Eukaryotic mRNA is often modified before it leaves the nucleus. Describe how this happens.
-	- Introns are 
+	- Introns are removed, and a cap and poly a tail are added
 14. Explain how the production of eukaryotic mRNA is like watching a tv show that is on Netflix.
+	- It reads and copies what it sees
 15. Create a graphic organizer that illustrates the differences between the processes of transcription and translation, including how they operate in prokaryotes vs. eukaryotes.
+	- Transcription is DNA -> mRNA while translation is mRNA -> 
 16. Explain the relationship between protein synthesis and an organism’s phenotype.
 17. Explain how the “one-gene-one protein” hypothesis was derived by Beadle and Tatum.  Why has this hypothesis been refined to “one gene-one polypeptide,” and now “one gene-one (protein) domain?”
   Mutations
