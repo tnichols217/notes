@@ -155,6 +155,8 @@
 	1. Restriction Enzymes
 		- Cuts open the DNA with some bases left unpaired at the end (Sticky) and will bind to new inserted DNA
 	2. Plasmids
-		- A small piece of DNA in a circle that has the gene, has an origin of replication, restriction sites, 
+		- A small piece of DNA in a circle that has the gene, has an origin of replication, restriction sites, and antibiotic resistence genes, which will be activated in presence of an antibiotic to keep the bacteria alive
 	3. Gel Electrophoresis
+		- A process that involves putting DNA in a gel and using electricity to move the DNA portions to compare and measure lengths of DNA portions
 	4. Polymerase Chain Reaction (PCR)
+		- Rep
