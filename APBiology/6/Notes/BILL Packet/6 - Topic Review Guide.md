@@ -40,37 +40,40 @@
 2. Explain what is meant by “antiparallel” orientation of DNA.
 	- The two strands of DNA point in opposite directions even though they are bound to each other
 3. Describe the four essential functions of the genetic material.  Explain how the structure proposed by Watson and Crick makes these functions possible.
+	- Store hereditary information
+	- Recombining to produce variation
+	- Useful for producing a result (creating proteins)
 	- 
-4. Create a t-chart that compares DNA to RNA.  Include structure, location and function of both molecules in your comparison.
-5. Meselson and Stahl claimed that the replication of DNA was semiconservative.  Describe the evidence they used to support their claim.
-6. Describe what the role of the following enzymes is in DNA replication: 
+1. Create a t-chart that compares DNA to RNA.  Include structure, location and function of both molecules in your comparison.
+2. Meselson and Stahl claimed that the replication of DNA was semiconservative.  Describe the evidence they used to support their claim.
+3. Describe what the role of the following enzymes is in DNA replication: 
 	1. DNA polymerase
 	2. DNA ligase 
 	3. DNA primase
-7. Explain why the leading strand of DNA is replicated continuously, while the lagging strand is replicated discontinuously.
-8. Create a graphic organizer that illustrates the differences between the process of DNA replication in prokaryotes and eukaryotes.
-9. Describe the relationship between the following organizational units of DNA: 
+4. Explain why the leading strand of DNA is replicated continuously, while the lagging strand is replicated discontinuously.
+5. Create a graphic organizer that illustrates the differences between the process of DNA replication in prokaryotes and eukaryotes.
+6. Describe the relationship between the following organizational units of DNA: 
 	1. DNA
 	2. Nucleosomes
 	3. Chromatin
 	4. Chromosome
 	5. Transcription and Translation
-10. Compare the processes of DNA replication with transcription.  Be sure to include the following things in your comparison: 
+7. Compare the processes of DNA replication with transcription.  Be sure to include the following things in your comparison: 
 	1. Location of process	
 	2. Nucleic acids involved
 	3. Enzymes responsible
-11. Create a graphic organizer that explains the relationship between the following molecules: 
+8. Create a graphic organizer that explains the relationship between the following molecules: 
 	1. DNA
 	2. mRNA
 	3. tRNA
 	4. rRNA
 	5. RNAi
-12. Describe the difference between an intron and an exon. 
-13. Eukaryotic mRNA is often modified before it leaves the nucleus. Describe how this happens.
-14. Explain how the production of eukaryotic mRNA is like watching a tv show that is on Netflix.
-15. Create a graphic organizer that illustrates the differences between the processes of transcription and translation, including how they operate in prokaryotes vs. eukaryotes.
-16. Explain the relationship between protein synthesis and an organism’s phenotype.
-17. Explain how the “one-gene-one protein” hypothesis was derived by Beadle and Tatum.  Why has this hypothesis been refined to “one gene-one polypeptide,” and now “one gene-one (protein) domain?”
+9. Describe the difference between an intron and an exon. 
+10. Eukaryotic mRNA is often modified before it leaves the nucleus. Describe how this happens.
+11. Explain how the production of eukaryotic mRNA is like watching a tv show that is on Netflix.
+12. Create a graphic organizer that illustrates the differences between the processes of transcription and translation, including how they operate in prokaryotes vs. eukaryotes.
+13. Explain the relationship between protein synthesis and an organism’s phenotype.
+14. Explain how the “one-gene-one protein” hypothesis was derived by Beadle and Tatum.  Why has this hypothesis been refined to “one gene-one polypeptide,” and now “one gene-one (protein) domain?”
   Mutations
 18. Create a t-chart that explains the difference between somatic mutations and germline mutations.
 19. Create a graphic organizer that illustrates how point mutations differ from chromosomal mutations.  Which one has a greater effect on the organism’s phenotype?
