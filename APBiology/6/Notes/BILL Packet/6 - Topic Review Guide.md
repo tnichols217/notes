@@ -100,6 +100,7 @@
 16. Explain the relationship between protein synthesis and an organism’s phenotype.
 	- Phenotype is a trait that is displayed, protein synthesis is just what is produced from active genes, which may influence the phenotype
 17. Explain how the “one-gene-one protein” hypothesis was derived by Beadle and Tatum.  Why has this hypothesis been refined to “one gene-one polypeptide,” and now “one gene-one (protein) domain?”
+	- Proteins can be made up of more than one polypeptide chain, and sometimes the gene has to be modified drastically before it is made into a protein
 18. Create a t-chart that explains the difference between somatic mutations and germline mutations.
 19. Create a graphic organizer that illustrates how point mutations differ from chromosomal mutations.  Which one has a greater effect on the organism’s phenotype?
 20. Create a diagram that represents the following types of mutations:
