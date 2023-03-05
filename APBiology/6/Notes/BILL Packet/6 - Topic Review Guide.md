@@ -59,29 +59,30 @@
 7. Explain why the leading strand of DNA is replicated continuously, while the lagging strand is replicated discontinuously.
 	- Replication happens in the 5 -> 3 direction, so one strand will be following the strand and one will be going the other direction in chunks
 8. Create a graphic organizer that illustrates the differences between the process of DNA replication in prokaryotes and eukaryotes.
-	- Prokaryotes have circular 
-9. Describe the relationship between the following organizational units of DNA: 
+	- Prokaryotes have circular DNA and only start from one point, they are also significantly faster
+	- Eukaryotes dont have circular DNA and have to
+1. Describe the relationship between the following organizational units of DNA: 
 	1. DNA
 	2. Nucleosomes
 	3. Chromatin
 	4. Chromosome
 	5. Transcription and Translation
-10. Compare the processes of DNA replication with transcription.  Be sure to include the following things in your comparison: 
+2. Compare the processes of DNA replication with transcription.  Be sure to include the following things in your comparison: 
 	1. Location of process	
 	2. Nucleic acids involved
 	3. Enzymes responsible
-11. Create a graphic organizer that explains the relationship between the following molecules: 
+3. Create a graphic organizer that explains the relationship between the following molecules: 
 	1. DNA
 	2. mRNA
 	3. tRNA
 	4. rRNA
 	5. RNAi
-12. Describe the difference between an intron and an exon. 
-13. Eukaryotic mRNA is often modified before it leaves the nucleus. Describe how this happens.
-14. Explain how the production of eukaryotic mRNA is like watching a tv show that is on Netflix.
-15. Create a graphic organizer that illustrates the differences between the processes of transcription and translation, including how they operate in prokaryotes vs. eukaryotes.
-16. Explain the relationship between protein synthesis and an organism’s phenotype.
-17. Explain how the “one-gene-one protein” hypothesis was derived by Beadle and Tatum.  Why has this hypothesis been refined to “one gene-one polypeptide,” and now “one gene-one (protein) domain?”
+4. Describe the difference between an intron and an exon. 
+5. Eukaryotic mRNA is often modified before it leaves the nucleus. Describe how this happens.
+6. Explain how the production of eukaryotic mRNA is like watching a tv show that is on Netflix.
+7. Create a graphic organizer that illustrates the differences between the processes of transcription and translation, including how they operate in prokaryotes vs. eukaryotes.
+8. Explain the relationship between protein synthesis and an organism’s phenotype.
+9. Explain how the “one-gene-one protein” hypothesis was derived by Beadle and Tatum.  Why has this hypothesis been refined to “one gene-one polypeptide,” and now “one gene-one (protein) domain?”
   Mutations
 18. Create a t-chart that explains the difference between somatic mutations and germline mutations.
 19. Create a graphic organizer that illustrates how point mutations differ from chromosomal mutations.  Which one has a greater effect on the organism’s phenotype?
