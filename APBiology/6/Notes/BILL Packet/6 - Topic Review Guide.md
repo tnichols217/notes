@@ -3,13 +3,16 @@
 - Concept 13.2: Many Proteins work together in DNA Replication and Repair pgs. 251-259
 	- Power Line: How is genetic information copied for transmission between generations?
 		- DNA is condensed into chromosomes, then replicated with DNA polymerase, then it is separated to the two poles of the cell when it splits into two.
-		- 
+		- When it is being passed on into gametes, only one of each gene is passed instead of two to each cell, which then gets recombined with the other parent in order to form a full genome
 - Concept 13.3: A chromosome consists of a DNA molecule packed together with proteins pgs. 259-260
 	- Power Line: How does the organization of chromosomes impact DNA Replication?
+		- It effects how the genes are inherited when going through reproduction, as genes closer to each other on the chromosome are less likely to be recombined, meaning the child will likely have both genes together
 - Concept 14.2: Transcription is the DNA-directed synthesis of RNA - a closer look pgs. 274-276
 	- Power Line: What is the importance of the genetic flow from DNA to RNA?
+		- DNA stores the information, RNA copies it and makes it ready to be used in the cell
 - Concept 14.4: Translation is the RNA-directed synthesis of a polypeptide - a closer look pgs. 279-286
 	- Power Line: How does translation generate polypeptides that determine genotypes?
+		- 
 - Concept 14.5: Mutations of one or a few nucleotides can affect protein structure and function pgs. 288-290
 	- Power Line: How does the various types of mutations impact genotype and phenotype?
 - Figure 15.3: The trp operon in E. coli - regulated synthesis of repressible enzymes pg. 295

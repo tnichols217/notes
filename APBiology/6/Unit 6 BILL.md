@@ -35,7 +35,7 @@
 1. [ ] Prokaryotic Gene Regulation (on FlipGrid)
 
 ## Labs (**MISSING**)
-1. [ ] DNA, Proteins & Protein Folding (G-Drive)
+1. [x] DNA, Proteins & Protein Folding (G-Drive)
 2. [ ] Bacterial Transformation (G-Drive)
 3. [ ] Strawberry DNA Extraction Lab (Handouts only)
 
