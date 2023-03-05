@@ -53,9 +53,11 @@
 	1. DNA polymerase
 		- makes DNA from DNA
 	2. DNA ligase 
-		- Patches up the 
+		- Patches up the okazaki fragments
 	3. DNA primase
+		- Gets the DNA polymerase ready to replicated the DNA
 7. Explain why the leading strand of DNA is replicated continuously, while the lagging strand is replicated discontinuously.
+	- Replication happens in the 
 8. Create a graphic organizer that illustrates the differences between the process of DNA replication in prokaryotes and eukaryotes.
 9. Describe the relationship between the following organizational units of DNA: 
 	1. DNA
