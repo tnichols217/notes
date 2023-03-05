@@ -32,12 +32,15 @@
 	1. Frederick Griffith
 		- Did the killing bateria experiment to prove that dead DNA can be picked up and used (R cells replicating dead S cells)
 	2. Oswald Avery, Maclyn McCarty, and Colin MacLeod
-		- Remove protein, RNA, and DNA separately to see which mattered in cell division, and proved that DNA was esse
+		- Remove protein, RNA, and DNA separately to see which mattered in cell division, and proved that DNA was essential
 	3. Alfred Hershey and Martha Chase
 		- Proved that DNA was the carrier of genetic material through experiment with radiolabeled bacteriophages
 	4. Erwin Chargaff 
+		- Proved A and T, and G and C match in DNA by measuring how much of each are in the DNA
 2. Explain what is meant by “antiparallel” orientation of DNA.
+	- The two strands of DNA point in opposite directions even though they are bound to each other
 3. Describe the four essential functions of the genetic material.  Explain how the structure proposed by Watson and Crick makes these functions possible.
+	- 
 4. Create a t-chart that compares DNA to RNA.  Include structure, location and function of both molecules in your comparison.
 5. Meselson and Stahl claimed that the replication of DNA was semiconservative.  Describe the evidence they used to support their claim.
 6. Describe what the role of the following enzymes is in DNA replication: 
