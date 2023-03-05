@@ -15,5 +15,6 @@ Amino A.: `Met Phe His Leu Val Asp Phe Gln Val Thr Ile Ala Glu Ile Leu Leu Ile I
 3. How is protein research contributing to ending this pandemic?
 	- We can learn how proteins interact through the infections throughout the pandemic and learn how to effectively counter it
 4. What is the connection between DNA, RNA, and proteins?
-	- DNA is the information that RNA gets written with, and the information on the RNA get translated into amino acids mak
+	- DNA is the information that RNA gets written with, and the information on the RNA get translated into amino acids making a protein
 5. How do proteins get their shape?
+	- From interactions between the R-groups of each amino acid, pulling and pushing apart or together
