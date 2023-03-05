@@ -153,7 +153,8 @@
 	- Lysogenic: DNA is injected and incoporated, multiple cell cycles undergo, there is a chance that the lytic cycle will be activated after each reproduction
 31. Describe how the following tools are used to study or modify organismal genomes: 
 	1. Restriction Enzymes
-		- 
+		- Cuts open the DNA with some bases left unpaired at the end (Sticky) and will bind to new inserted DNA
 	2. Plasmids
+		- 
 	3. Gel Electrophoresis
 	4. Polymerase Chain Reaction (PCR)
