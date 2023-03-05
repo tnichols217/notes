@@ -18,11 +18,13 @@
 		- Mutations can change the genetic code of a gene, changing the resulting protein and therefore the phenotype and genotype if the mutation is sensical
 - Figure 15.3: The trp operon in E. coli - regulated synthesis of repressible enzymes pg. 295
 	- Power Line: How is the trp operon repressible?
-		- 
+		- When tryptophan is present, the transcription of the gene is turned off
 - Figure 15.4: The lac operon in E.coli - regulated synthesis of inducible enzymes pg. 296
 	- Power Line: How is the lac operon an inducible?
+		- It is off by default, but in the lack of glucose and surplus of lactose, the gene will turn on to digest the lactose
 - Figure 15.6: Stages in gene expression that can be regulated in eukaryotic cells pg. 298
 	- Power Line: In what ways do eukaryotic cells regulate gene expression?
+		- 
 
 # Recall and Review
   DNA Structure and Replication
