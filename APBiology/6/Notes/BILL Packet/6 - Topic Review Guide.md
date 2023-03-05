@@ -2,6 +2,8 @@
 
 - Concept 13.2: Many Proteins work together in DNA Replication and Repair pgs. 251-259
 	- Power Line: How is genetic information copied for transmission between generations?
+		- DNA is condensed into chromosomes, then replicated with DNA polymerase, then it is separated to the two poles of the cell when it splits into two.
+		- 
 - Concept 13.3: A chromosome consists of a DNA molecule packed together with proteins pgs. 259-260
 	- Power Line: How does the organization of chromosomes impact DNA Replication?
 - Concept 14.2: Transcription is the DNA-directed synthesis of RNA - a closer look pgs. 274-276
