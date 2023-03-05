@@ -104,10 +104,14 @@
 18. Create a t-chart that explains the difference between somatic mutations and germline mutations.
 	- Germline happens before the fertilization of the egg, so damaged DNA is passed to the entire new organism, while somatic is after, so only portions are effected by it
 19. Create a graphic organizer that illustrates how point mutations differ from chromosomal mutations.  Which one has a greater effect on the organism’s phenotype?
+	- Chromosomal, because a lot more DNA material is effected by it
 20. Create a diagram that represents the following types of mutations:
 	1. Silent mutation
+		- Different bases, same amino acid
 	2. Missense mutation
+		- Different base, different amino acid
 	3. Nonsense mutation
+		- Different base, early start
 	4. Frameshift mutation
 21. Create a t-chart that compares gene mutations to chromosomal mutations
 22. Explain what would happen to the process of gene expression if the gene for RNA polymerase was mutated.
