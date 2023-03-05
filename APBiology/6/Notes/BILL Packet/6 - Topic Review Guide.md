@@ -57,8 +57,9 @@
 	3. DNA primase
 		- Gets the DNA polymerase ready to replicated the DNA
 7. Explain why the leading strand of DNA is replicated continuously, while the lagging strand is replicated discontinuously.
-	- Replication happens in the 
+	- Replication happens in the 5 -> 3 direction, so one strand will be following the strand and one will be going the other direction in chunks
 8. Create a graphic organizer that illustrates the differences between the process of DNA replication in prokaryotes and eukaryotes.
+	- Prokaryotes have circular 
 9. Describe the relationship between the following organizational units of DNA: 
 	1. DNA
 	2. Nucleosomes
