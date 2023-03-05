@@ -30,9 +30,9 @@
   DNA Structure and Replication
 1. Explain how the experiments that each of the following people/groups of people performed provided evidence that DNA is the genetic material.
 	1. Frederick Griffith
-		- 
+		- Did the killing bateria experiment to prove that dead DNA can be picked up and used (R cells replicating dead )
 	2. Oswald Avery, Maclyn McCarty, and Colin MacLeod
-		- Did the killing bateria experiment to prove that dead DNA can be picked up and used
+		- 
 	3. Alfred Hershey and Martha Chase
 		- Proved that DNA was the carrier of genetic material through experiment with radiolabeled bacteriophages
 	4. Erwin Chargaff 
