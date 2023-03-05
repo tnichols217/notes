@@ -111,9 +111,11 @@
 	2. Missense mutation
 		- Different base, different amino acid
 	3. Nonsense mutation
-		- Different base, early start
+		- Different base, early start or early stop
 	4. Frameshift mutation
+		- Entire Sequence after mutation is effected, changing every amino acid after the mutation
 21. Create a t-chart that compares gene mutations to chromosomal mutations
+	- 
 22. Explain what would happen to the process of gene expression if the gene for RNA polymerase was mutated.
 23. Each amino acid has a tRNA synthetase enzyme that is responsible for attaching it to a tRNA molecule. Explain what would happen if there was a mutation in the gene encoding one of these enzymes.
 24. Describe how proteins can be altered once they have been synthesized at the ribosome and what organelles are involved.
