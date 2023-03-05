@@ -139,9 +139,11 @@
 	- Repressible are active by default and can be turned off, inducible operons are off by default and can be turned on
 28. Describe the relationship between these terms and explain how these terms are used to describe eukaryotic gene regulation.
 	1. Enhancer
-		- A portion of DNA that will bind of
+		- A portion of DNA that will bind to the other side of the RNA polymerase, increasing its effectivity
 	2. Promoter
+		- Portion of DNA before the gene that will attract the RNA polymerase to the site
 	3. Silencer
+		- A protein that binds to the promoter to disable its pr
 	4. DNA
 29. Explain how transcription factors help to regulate eukaryotic gene expression.
 30. Create a t-chart that describes the differences between lytic virus reproduction and lysogenic virus reproduction
