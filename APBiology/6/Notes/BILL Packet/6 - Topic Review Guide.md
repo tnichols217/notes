@@ -77,12 +77,16 @@
 	2. Nucleic acids involved
 		- ATCG vs AUCG
 	3. Enzymes responsible
-		- DNA polymera
+		- DNA polymerase vs RNA polymerase, Ribosomes
 11. Create a graphic organizer that explains the relationship between the following molecules: 
 	1. DNA
+		- origin of genetic info
 	2. mRNA
+		- transcribed DNA
 	3. tRNA
+		- RNA that connects sequences of mRNA to amino acids
 	4. rRNA
+		- RNA that folds up 
 	5. RNAi
 12. Describe the difference between an intron and an exon. 
 13. Eukaryotic mRNA is often modified before it leaves the nucleus. Describe how this happens.
