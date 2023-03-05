@@ -88,9 +88,11 @@
 	4. rRNA
 		- RNA that folds up into ribosomes in order to facilitate protein production
 	5. RNAi
-		- 
+		- RNA that binds to other RNA to prevent it from creating proteins, it eventually breaks down each other
 12. Describe the difference between an intron and an exon. 
+	- Introns get used to create the final protein, exons do not
 13. Eukaryotic mRNA is often modified before it leaves the nucleus. Describe how this happens.
+	- Introns are 
 14. Explain how the production of eukaryotic mRNA is like watching a tv show that is on Netflix.
 15. Create a graphic organizer that illustrates the differences between the processes of transcription and translation, including how they operate in prokaryotes vs. eukaryotes.
 16. Explain the relationship between protein synthesis and an organism’s phenotype.
