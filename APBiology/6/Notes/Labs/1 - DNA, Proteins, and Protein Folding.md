@@ -11,4 +11,7 @@ Amino A.: `Met Phe His Leu Val Asp Phe Gln Val Thr Ile Ala Glu Ile Leu Leu Ile I
 1. Why do you think some amino acids (nonpolar) cluster on the inside of the protein and some are more often found on the outside (polar)? Think about the aqueous environment that proteins usually are in.
 	- The polar amino acids will be more attracted to the water in the cell, so they will rise to the surface of the protein
 2. Why should we continue to study proteins, including their shapes and the DNA that codes for them?
-3. 
+	- So that we can know how they interact in order to more effectively produce synthetic proteins or block bad proteins to living organisms
+3. How is protein research contributing to ending this pandemic?
+4. What is the connection between DNA, RNA, and proteins?
+5. How do proteins get their shape?
