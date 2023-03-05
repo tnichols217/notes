@@ -30,9 +30,11 @@
   DNA Structure and Replication
 1. Explain how the experiments that each of the following people/groups of people performed provided evidence that DNA is the genetic material.
 	1. Frederick Griffith
-		- Proved that DNA was the carrier of genetic material through experiment with radiolabeled bacteriophages
+		- 
 	2. Oswald Avery, Maclyn McCarty, and Colin MacLeod
+		- Did the killing bateria experiment to prove that dead DNA can be picked up and used
 	3. Alfred Hershey and Martha Chase
+		- Proved that DNA was the carrier of genetic material through experiment with radiolabeled bacteriophages
 	4. Erwin Chargaff 
 2. Explain what is meant by “antiparallel” orientation of DNA.
 3. Describe the four essential functions of the genetic material.  Explain how the structure proposed by Watson and Crick makes these functions possible.
