@@ -159,4 +159,4 @@
 	3. Gel Electrophoresis
 		- A process that involves putting DNA in a gel and using electricity to move the DNA portions to compare and measure lengths of DNA portions
 	4. Polymerase Chain Reaction (PCR)
-		- Rep
+		- Repeated heating (to split DNA) and adding of unpaired bases in order to quickly replicate DNA
