@@ -8,3 +8,7 @@ Amino A.: `Met Phe His Leu Val Asp Phe Gln Val Thr Ile Ala Glu Ile Leu Leu Ile I
 3rd: The final shape of a strand of amino acids through interactions with the entire strand of amino acids
 4th: Interaction between multiple strands of amino acids to produce one large protein
 
+1. Why do you think some amino acids (nonpolar) cluster on the inside of the protein and some are more often found on the outside (polar)? Think about the aqueous environment that proteins usually are in.
+	- The polar amino acids will be more attracted to the water in the cell, so they will rise to the surface of the protein
+2. Why should we continue to study proteins, including their shapes and the DNA that codes for them?
+3. 
