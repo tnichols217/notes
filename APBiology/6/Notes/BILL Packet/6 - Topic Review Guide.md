@@ -48,10 +48,12 @@
 	- DNA double strand, antiparallel, ATCG, nucleolus, makes RNA
 	- RNA single strand, AUCG, nucleolus, cytoplasm, makes protein
 5. Meselson and Stahl claimed that the replication of DNA was semiconservative.  Describe the evidence they used to support their claim.
-	- 
+	- When radiolabeling DNA and reproducing, each new strand of DNA will have one radiolabeled strand, and when reproducing again, only half of the remaining strains have one strand of radiolabeled DNA
 6. Describe what the role of the following enzymes is in DNA replication: 
 	1. DNA polymerase
+		- makes DNA from DNA
 	2. DNA ligase 
+		- Patches up the 
 	3. DNA primase
 7. Explain why the leading strand of DNA is replicated continuously, while the lagging strand is replicated discontinuously.
 8. Create a graphic organizer that illustrates the differences between the process of DNA replication in prokaryotes and eukaryotes.
