@@ -13,5 +13,7 @@ Amino A.: `Met Phe His Leu Val Asp Phe Gln Val Thr Ile Ala Glu Ile Leu Leu Ile I
 2. Why should we continue to study proteins, including their shapes and the DNA that codes for them?
 	- So that we can know how they interact in order to more effectively produce synthetic proteins or block bad proteins to living organisms
 3. How is protein research contributing to ending this pandemic?
+	- We can learn how proteins interact through the infections throughout the pandemic and learn how to effectively counter it
 4. What is the connection between DNA, RNA, and proteins?
+	- DNA is the information that RNA gets written with, and the information on the RNA get translated into amino acids mak
 5. How do proteins get their shape?
