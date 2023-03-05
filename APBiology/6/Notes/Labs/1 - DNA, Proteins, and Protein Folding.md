@@ -1,5 +1,7 @@
 DNA: `ATG TTT CAT CTC GTT GAC TTT CAG GTT ACT ATA GCA GAG ATA TTA CTA ATT ATT ATG AGG`
 Template: `TAC AAA GTA GAG CAA CTG AAA GTC CAA TGA TAT CGT CTC TAT AAT GAT TAA TAA TAC TCC`
 mRNA: `AUG UUU CAU CUC GUU GAC UUU CAG GUU ACU AUA GCA GAG AUA UUA CUA AUU AUU AUG AGG`
-Amino A.: `Met Phe His Leu Val Asp Phe Gln Val Thr Ile Ala Glu Ile Leu LeuIle `
-![](https://lh5.googleusercontent.com/vBc2zGvqDJzSV63q2c-BDCsgo-g9Vymo8d5VQQRVXOcndWslHPltPACz9J07qqHDUyS9AvyA-5ynmFXRfjciKUiSqEBsejxNyaMY2ZnYrJ9iO3n45FJ79QD1AU1ZAq7RZo-TDTvVbMFJ5Kd4uokvsQ)
+Amino A.: `Met Phe His Leu Val Asp Phe Gln Val Thr Ile Ala Glu Ile Leu Leu Ile Ile Met Arg`
+
+1st: the chain of amino acids
+2nd: Creation of helices and 
