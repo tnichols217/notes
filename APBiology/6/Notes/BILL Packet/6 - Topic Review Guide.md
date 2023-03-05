@@ -134,10 +134,12 @@
 	4. Structural Genes
 		- Genes that are necessary for structure or functions in the cell
 	5. Regulatory Genes
-		- Genes that are necessary to create proteins that will regu
-27. Create a t-chart that explains how repressible operons differ from inducible operons.   Use the trp and lac operons as examples.
+		- Genes that are necessary to create proteins that will regulate the production or activation of other proteins in the cell
+27. Create a t-chart that explains how repressible operons differ from inducible operons.
+	- Repressible are active by default and can be turned off, inducible operons are off by default and can be turned on
 28. Describe the relationship between these terms and explain how these terms are used to describe eukaryotic gene regulation.
 	1. Enhancer
+		- A portion of DNA that will bind of
 	2. Promoter
 	3. Silencer
 	4. DNA
