@@ -121,11 +121,14 @@
 23. Each amino acid has a tRNA synthetase enzyme that is responsible for attaching it to a tRNA molecule. Explain what would happen if there was a mutation in the gene encoding one of these enzymes.
 	- Certain amino acids will not be able to be used in the production of proteins and the tRNA sequences for that amino acid will be nonfuctional
 24. Describe how proteins can be altered once they have been synthesized at the ribosome and what organelles are involved.
-	- They may be folded differently, added more parts to it 
+	- They may be folded differently, added more parts to it, combined to other proteins
 25. Define operon.  Explain how bacterial cells use operons to control gene expression. 
+	- The portion on the DNA before the gene that will govern whether the DNA is transcribed or not depending on the environment
 26. Describe the relationship between the following components of an operon: 
 	1. Promoter
+		- Attracts the RNA polymerase to the site, before the Operator
 	2. Operator
+		- 
 	3. Repressor
 	4. Structural Genes
 	5. Regulatory Genes
