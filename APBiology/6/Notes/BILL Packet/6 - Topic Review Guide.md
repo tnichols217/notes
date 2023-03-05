@@ -128,10 +128,13 @@
 	1. Promoter
 		- Attracts the RNA polymerase to the site, before the Operator
 	2. Operator
-		- 
+		- The part that is either blocked or unblocked depending on the circumstances
 	3. Repressor
+		- A protein that binds to the operator to block the transcription of the genetic code
 	4. Structural Genes
+		- Genes that are necessary for structure or functions in the cell
 	5. Regulatory Genes
+		- Genes that are necessary to create proteins that will regu
 27. Create a t-chart that explains how repressible operons differ from inducible operons.   Use the trp and lac operons as examples.
 28. Describe the relationship between these terms and explain how these terms are used to describe eukaryotic gene regulation.
 	1. Enhancer
