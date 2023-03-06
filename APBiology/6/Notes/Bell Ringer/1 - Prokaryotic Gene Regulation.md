@@ -13,24 +13,18 @@ The diagrams below represent operons, clusters of genes that control gene expres
 	5. Repressor:
 		- The protein that will bind to the operator to block the RNA polymerase
 
-> [!col]
->> [!col-md]
->> ![[Pasted image 20230227224536.png]]
->
->> [!col-md]
->> 2. What is the effect of the inducer on the repressor? Why is it called an inducer?
->>	- The inducer malforms the active site of the repressor, deactivating the repressor and removing it from the operator
->> 3. Is this an inducible or a repressible operon? Justify your answer.
->> 	- This is a inducible operon, as the repressor is bound to the operator by default, and only deactivated when the inducer is present
+ ![[Pasted image 20230227224536.png]]
 
-> [!col]
->> [!col-md]
->> ![[Pasted image 20230227224602.png]]
->
->> [!col-md]
->> 4. Examine the diagram of the trp operon at left. How is it similar to the diagram of the lac operon above?
->> 	- It has a repressor, promoter, and operator
->> 5. Why do you think it is called a corepressor? What is the effect of the corepressor on gene expression?
->> 	- Because both the repressor and the corepressor need to be present to actually repress the gene
->> 6. Is this an inducible or a repressible operon? Justify your answer.
->> 	- Repressible, as it is on by default, but only blocked when two proteins are present
+2. What is the effect of the inducer on the repressor? Why is it called an inducer?
+	- The inducer malforms the active site of the repressor, deactivating the repressor and removing it from the operator
+3. Is this an inducible or a repressible operon? Justify your answer.
+	- This is a inducible operon, as the repressor is bound to the operator by default, and only deactivated when the inducer is present
+
+![[Pasted image 20230227224602.png]]
+
+4. Examine the diagram of the trp operon at left. How is it similar to the diagram of the lac operon above?
+	- It has a repressor, promoter, and operator
+5. Why do you think it is called a corepressor? What is the effect of the corepressor on gene expression?
+	- Because both the repressor and the corepressor need to be present to actually repress the gene
+6. Is this an inducible or a repressible operon? Justify your answer.
+	- Repressible, as it is on by default, but only blocked when two proteins are present
