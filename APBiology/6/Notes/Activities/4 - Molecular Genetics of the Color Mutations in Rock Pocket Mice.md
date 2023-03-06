@@ -9,6 +9,8 @@ DNA:
 
 mRNA:
 `5' AAC UCC ACC CGC ACA GGC GUU CCU 3'`
+`5' GCC CUG GCC ACC CGG GUG ACU GUG 3'`
+`5' `
 
 Amino Acid:
 `N- Asn Ser Thr Arg Thr Gly Val Pro -C`
