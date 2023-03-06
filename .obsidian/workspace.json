@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "8d45f244da2aa1f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/6/Notes/Worksheets/2 - Big protein synthesis foldable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b71754a9b761dcb6",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/6/Unit 6 BILL.md",
+                "file": "APBiology/6/Notes/Worksheets/2 - Big protein synthesis foldable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/6/Unit 6 BILL.md"
+                "file": "APBiology/6/Notes/Worksheets/2 - Big protein synthesis foldable.md"
               }
             }
           },
@@ -199,12 +211,13 @@
       }
     ]
   },
-  "active": "f81b3a68c55fd3e2",
+  "active": "8d45f244da2aa1f3",
   "lastOpenFiles": [
+    "APBiology/6/Unit 6 BILL.md",
+    "APBiology/6/Notes/Worksheets/2 - Big protein synthesis foldable.md",
     "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
     "APBiology/6/Notes/Labs/1 - DNA, Proteins, and Protein Folding.md",
     "APBiology/6/Documents/Labs/1 - DNA, Proteins & Protein Folding.pdf",
-    "APBiology/6/Unit 6 BILL.md",
     "APBiology/6/Documents/Labs/2 - Bacterial Transformation.pdf",
     "APBiology/6/Notes/Case Study/2 - Gene Expression in Stem Cells.md",
     "APBiology/6/Notes/Case Study/attachments/Pasted image 20230306204540.png",

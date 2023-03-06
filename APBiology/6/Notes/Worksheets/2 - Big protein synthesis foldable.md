@@ -1,0 +1,1 @@
+1. DNA is unwound, then RNA polymerase creates a mac
