@@ -30,5 +30,6 @@
   "obsidian-molecule-renderer",
   "obsidian-excel-to-markdown-table",
   "obsidian-regex-replace",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian-text-format"
 ]
