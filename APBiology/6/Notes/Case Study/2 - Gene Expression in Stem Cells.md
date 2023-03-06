@@ -9,4 +9,6 @@ Dependent variable: Average gene expression
 
 ## Questions
 1. The Gene expression differs greatly between the HFF and iPS cells.
-	- For example in the SO
+	- For example in the SOX2-KLF4 genes, the iPS cells display significantly more gene expression than the HFF cells
+	- The exact opposite can be seen in the COL1A2-TSLP genes, and they appear to be roughly similar on the GAPDH-CDK1 genes
+2. Look at the graph, Red gr
