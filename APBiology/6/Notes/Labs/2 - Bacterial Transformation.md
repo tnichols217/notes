@@ -7,4 +7,5 @@
 4. Able to bind to specific DNA in its environment
 5. It makes the membrane more permeable for the DNA to enter
 6. It neutralizes negatively charged DNA, allowing the cells to be competent
-7. 
+7. 7
+	1. Luria Broth 
