@@ -202,10 +202,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 344,
-        "y": 70,
+        "x": 182,
+        "y": 402,
         "width": 1576,
-        "height": 900,
+        "height": 600,
         "maximize": true,
         "zoom": 0
       }
@@ -213,8 +213,9 @@
   },
   "active": "1eb312489fc4f856",
   "lastOpenFiles": [
-    "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
+    "APBiology/6/Notes/BILL Packet/6 - Topic Review Guide.md",
     "APBiology/6/Notes/Activities/4 - Molecular Genetics of the Color Mutations in Rock Pocket Mice.md",
+    "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
     "APBiology/6/Unit 6 BILL.md",
     "APBiology/6/Notes/Worksheets/1 - Translating and Open Reading Frame Practice.md",
     "APArt/Piece Descriptions.md",
@@ -231,7 +232,6 @@
     "APBiology/6/Documents/BILL Packet/4 - Gene Expression and Regulation_Unit Summary.docx",
     "APBiology/5/Unit 5 BILL.md",
     "APBiology/6/Notes/Labs/1 - DNA, Proteins, and Protein Folding.md",
-    "APBiology/6/Notes/BILL Packet/6 - Topic Review Guide.md",
     "APBiology/6/Notes/BILL Packet/3 - Test Topics.md",
     "Untitled.md",
     "APBiology/6/Notes/Labs/3 - Strawberry DNA Extraction Lab.md",
