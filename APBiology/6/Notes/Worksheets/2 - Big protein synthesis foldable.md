@@ -7,5 +7,6 @@
 	- Polydenyletion happens, where a poly-A tail is added to the 3' end
 	- A cap enzyme is also added to the 5' head
 3. 3
-	- Initiation: Ribsome
-4. 
+	- Initiation: Ribsome binds to the mRNA cap, and find the start codon
+	- Elongation: Matching amino acids are added to the polypeptide chain, matching with the 
+1. 
