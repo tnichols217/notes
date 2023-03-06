@@ -16,6 +16,9 @@ mRNA:
 
 Amino Acid:
 `N- Asn Ser Thr Arg Thr Gly Val Pro -C`
-``
+`N- Ala Leu Ala Thr Arg Val Thr Val -C`
+`N- Ser Ile Val Thr Leu Pro Arg Ala -C`
+`N- His Met Leu Ala                 -C`
+`N- Leu Val His Gln Gly Phe Arg Leu -C`
 
 # Gene Table 2: Mutant MC1R Gene (Dark coat)
