@@ -10,4 +10,6 @@
 7. 7
 	1. Luria Broth solution: Growth medium containing biological macromolecules necessary for growth
 	2. pARA-R solution: Solution with recombinant pARA-R plasmids (with the rfp gene)
-	3. Competent cells: 
+	3. Competent cells: Tube with prepared cells ready to accept DNA
+8. Tube 4
+9. Control group is when all the necessar
