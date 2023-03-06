@@ -6,13 +6,20 @@ Length:
 
 ## Materials
 1. TRIPLE OVERWHELM: Blender 3D digital sculpting - subserf workflow to create man-made forms and curves workflow to create natural shapes, fully handmade procedural materials, cycles render engine
-2. 
+2. Utilized 
 
 ## Processes
 1. Researched, experimented on, and rearranged piano parts, mechanisms, and materials while maintaining form
 2. Experimented extensively on creation of realistic looking wood, metal, and rust materials, as well of use of natural curves
 
 # 2 - Guitar
+## Dimensions
+
+## Materials
+
+
+## Processes
+
 Height: 
 Width: 
 Length: 
