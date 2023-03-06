@@ -34,7 +34,7 @@
 
 ## Labs
 1. [x] DNA, Proteins & Protein Folding (G-Drive)
-2. [ ] Bacterial Transformation (G-Drive)
+2. [x] Bacterial Transformation (G-Drive)
 3. [x] Strawberry DNA Extraction Lab (Handouts only)
 
 ## POGILs

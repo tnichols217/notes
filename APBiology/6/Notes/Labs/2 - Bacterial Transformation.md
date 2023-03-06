@@ -27,4 +27,5 @@
 1. A process where external DNA is merged with competent cells in order to replicate the DNA and possibly proteins
 2. P- doesnt have the recombinant plasmid, and P+ does
 3. True
-4. 
+4. To prevent the test groups to contaminate each other or the environment from contaminating the test groups
+5. Because the membranes will be more permeable to the recombinant plasmids
