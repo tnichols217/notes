@@ -10,7 +10,7 @@ Length:
 
 ## Processes
 1. Researched, experimented on, and rearranged piano parts, mechanisms, n' materials while keeping form
-2. Experiment on creating materials by noticing repeating patterns and attempting different ways of formulating a procedural material that accurately generates similar patterns
+2. Experiment on creating materials by noticing patterns and trying multiple methods of procedurally generating similar patterns
 
 # 2 - Guitar
 ## Dimensions
