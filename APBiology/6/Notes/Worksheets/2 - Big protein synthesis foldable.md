@@ -11,4 +11,5 @@
 	- Elongation: Matching amino acids are added to the polypeptide chain, matching with the codon on the mRNA
 	- Once a stop codon is hit, a water molecule is added to the end of the chain and the chain is released from the ribsome as well as the mRNA
 4. 4
-	- 
+	- The golgi apparatus may take the protein and further modify it by folding it in different ways to change the function and form of the protein.
+	- Phosphylation and 
