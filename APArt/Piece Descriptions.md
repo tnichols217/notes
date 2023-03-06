@@ -10,7 +10,7 @@ Length:
 
 ## Processes
 1. Researched, experimented on, and rearranged piano parts, mechanisms, n' materials while keeping form
-2. Experimented on creation of realistic looking wood, metal, and rust materials and use of natural curves
+2. Experiment on creation of realistic wood, metal, and rust materials and use of natural curves
 
 # 2 - Guitar
 ## Dimensions
