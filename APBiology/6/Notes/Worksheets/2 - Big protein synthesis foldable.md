@@ -13,4 +13,4 @@
 4. 4
 	- The golgi apparatus may take the protein and further modify it by folding it in different ways to change the function and form of the protein.
 	- It may also modify the functional group on the amino acids
-	- Phosphylation and 
+	- Phosphylation and Glycosylation may also happen to the protein
