@@ -12,10 +12,10 @@
 
 # Activity log
 ## Activities
-1. [x] Activity: Transcription in action
-2. [x] Activity: Genetic Variation at the Molecular Level
-3. [x] Activity: The Effects of Mutations
-4. [ ] Activity: Molecular Genetics of the Color Mutations in Rock Pocket Mice
+1. [x] Transcription in action
+2. [x] Genetic Variation at the Molecular Level
+3. [x] The Effects of Mutations
+4. [ ] Molecular Genetics of the Color Mutations in Rock Pocket Mice
 ### MISSING
 
 ## Bell Ringers
