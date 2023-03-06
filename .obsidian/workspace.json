@@ -128,12 +128,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,7 +149,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dd47a3ea497c573f",
+  "active": "c6a55982cacab7f6",
   "lastOpenFiles": [
     "APBiology/6/Unit 6 BILL.pdf",
     "APBiology/6/Notes/Case Study/1 - The Mona Lisa Molecule.md",

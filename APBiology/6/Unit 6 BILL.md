@@ -12,6 +12,7 @@
 	- [x] 6.3 & 6.4 Transcription, RNA Processing and Translation  
 	- [x] 6.5 & 6.6 Gene Regulation and Biotechnology  
 	- [x] 6.7 & 6.8 Mutations and Biotechnology
+	      
 	![[6 - Topic Review Guide]]
 
 # Activity log
