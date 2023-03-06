@@ -9,8 +9,8 @@ Length:
 2. Subserf workflow with low density topology for man-made forms and curves workflow for natural shapes
 
 ## Processes
-1. Researched, experimented on, and rearranged piano parts, mechanisms, and materials while maintaining form
-2. Experimented extensively on creation of realistic looking wood, metal, and rust materials, as well of use of natural curves
+1. Researched, experimented on, and rearranged piano parts, mechanisms, n' materials while keeping form
+2. Experimented on creation of realistic looking wood, metal, and rust materials and use of natural curves
 
 # 2 - Guitar
 ## Dimensions
