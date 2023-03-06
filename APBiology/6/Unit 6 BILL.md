@@ -26,6 +26,7 @@
 ## Case Studies
 1. [x] The Mona Lisa case study
 2. [x] Gene Expression in Stem Cells
+       ![[gene expression]]
 
 ## Doodle Notes
 1. [x] Scientists with their findings related to DNA
@@ -35,12 +36,14 @@
 
 ## Labs
 1. [x] DNA, Proteins & Protein Folding (G-Drive)
+       ![[1 - DNA, Proteins, and Protein Folding]]
 2. [x] Bacterial Transformation (G-Drive)
+       ![[2 - Bacterial Transformation]]
 3. [x] Strawberry DNA Extraction Lab (Handouts only)
 
 ## POGILs
 1. [x] Genetic expression - Translation
-       ![[pogil/1]]
+       ![[1 - Gene Expression - Translation]]
 
 ## Worksheets
 1. [x] Translation and Open Reading Frame Practice
