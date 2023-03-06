@@ -15,7 +15,7 @@
 1. [x] Transcription in action
 2. [x] Genetic Variation at the Molecular Level
 3. [x] The Effects of Mutations
-4. [ ] Molecular Genetics of the Color Mutations in Rock Pocket Mice
+4. [x] Molecular Genetics of the Color Mutations in Rock Pocket Mice
 
 ## Bell Ringers
 1. [x] Prokaryotic gene regulation

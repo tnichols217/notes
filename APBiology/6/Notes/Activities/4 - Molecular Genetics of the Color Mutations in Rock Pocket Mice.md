@@ -42,5 +42,5 @@ Amino Acid:
 `N- Asn Ser Thr CYA Thr Gly Val Pro -C`
 `N- Ala Leu Ala Thr TRP Val Thr Val -C`
 `N- Ser Ile Val Thr Leu Pro TRP Ala -C`
-`N- His Met LEU Ala                 -C`
-`N- Leu Val His Gln Gly Phe Arg Leu -C`
+`N- His Met LEU Ala                 -C` **Silent Mutation**
+`N- Leu Val His HIS Gly Phe Arg Leu -C`
