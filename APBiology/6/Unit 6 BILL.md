@@ -24,7 +24,7 @@
 
 ## Case Studies
 1. [x] The Mona Lisa case study
-2. [ ] Gene Expression in Stem Cells
+2. [x] Gene Expression in Stem Cells
 
 ## Doodle Notes
 1. [x] Scientists with their findings related to DNA
