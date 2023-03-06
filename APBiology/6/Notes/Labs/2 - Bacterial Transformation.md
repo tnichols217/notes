@@ -6,4 +6,5 @@
 	3. ampR indentifies transformed bacteria
 4. Able to bind to specific DNA in its environment
 5. It makes the membrane more permeable for the DNA to enter
-6. It neutraliz
+6. It neutralizes negatively charged DNA, allowing the cells to be competent
+7. 
