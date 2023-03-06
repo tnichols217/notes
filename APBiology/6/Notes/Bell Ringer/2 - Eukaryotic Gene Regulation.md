@@ -1,26 +1,32 @@
 The diagrams below represent eukaryotic gene regulation:  the regulation of eukaryotic gene expression by a combination of molecules before, during, and after gene transcription and mRNA translation.  Answer the questions for each diagram below.
 
 ### Regulation of Transcription
-> [!col]
->> [!col-md]
->> ![[Pasted image 20230227230119.png]]
->
->> [!col-md]
->> 1. What is the regulatory role of each of the following:
->> 	1. Histones
->> 		- Keeps DNA untangled and easy to transcribe
->> 	2. Acetylation of Histones
->> 		- Spreads the histones apart from each other, increasing transcription rates
->> 	3. Methylation of Histones
->> 		- Methyl groups bind to tails of the Histones which can spread them apart, increasing transcription rate
->> 	4. Transcription Factors
->> 		- Things required for transcription to be happening, the more there is the more often transcription happens
->> 	5. Enhancer Region / Switch
->> 		- Section of DNA that will increase and increase the probability of binding to a promoter, are more often known as part of the transcription factors
->> 	6. Promoter Region
->> 		- The beginning of the gene, it attracts the RNA polymerase to start at the beginning of the gene expression
+````col
+```col-md
+![[Pasted image 20230227230119.png]]
+```
+```col-md
+1. What is the regulatory role of each of the following:
+	1. Histones
+		- Keeps DNA untangled and easy to transcribe
+	2. Acetylation of Histones
+		- Spreads the histones apart from each other, increasing transcription rates
+	3. Methylation of Histones
+		- Methyl groups bind to tails of the Histones which can spread them apart, increasing transcription rate
+	4. Transcription Factors
+		- Things required for transcription to be happening, the more there is the more often transcription happens
+	5. Enhancer Region / Switch
+		- Section of DNA that will increase and increase the probability of binding to a promoter, are more often known as part of the transcription factors
+	6. Promoter Region
+		- The beginning of the gene, it attracts the RNA polymerase to start at the beginning of the gene expression
+```
+````
 
 ### Post-Transcriptional and Translational Regulation
+
+````col
+
+````
 > [!col]
 >> [!col-md]
 >> ![[Pasted image 20230227230250.png]]
