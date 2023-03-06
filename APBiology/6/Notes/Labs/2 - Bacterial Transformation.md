@@ -24,4 +24,7 @@
 17. -
 
 ## Reflection
-1. A process wher 
+1. A process where external DNA is merged with competent cells in order to replicate the DNA and possibly proteins
+2. P- doesnt have the recombinant plasmid, and P+ does
+3. True
+4. 
