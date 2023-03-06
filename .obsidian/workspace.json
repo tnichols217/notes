@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "d91428c78773bad9",
+            "id": "1eb312489fc4f856",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/6/Notes/Worksheets/1 - Translating and Open Reading Frame Practice.md",
+                "file": "APBiology/6/Notes/Activities/4 - Molecular Genetics of the Color Mutations in Rock Pocket Mice.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/6/Unit 6 BILL.md",
+                "file": "APBiology/6/Notes/Activities/4 - Molecular Genetics of the Color Mutations in Rock Pocket Mice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/6/Unit 6 BILL.md"
+                "file": "APBiology/6/Notes/Activities/4 - Molecular Genetics of the Color Mutations in Rock Pocket Mice.md"
               }
             }
           },
@@ -211,11 +211,13 @@
       }
     ]
   },
-  "active": "f81b3a68c55fd3e2",
+  "active": "1eb312489fc4f856",
   "lastOpenFiles": [
+    "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
+    "APBiology/6/Notes/Activities/4 - Molecular Genetics of the Color Mutations in Rock Pocket Mice.md",
+    "APBiology/6/Unit 6 BILL.md",
     "APBiology/6/Notes/Worksheets/1 - Translating and Open Reading Frame Practice.md",
     "APArt/Piece Descriptions.md",
-    "APBiology/6/Unit 6 BILL.md",
     "APBiology/6/Documents/Case Study/3 - Stem Cell Gene Expression.pdf",
     "APBiology/6/Documents/Case Study/Stem-Cell-Gene-Expression_Student.pdf",
     "APBiology/6/Documents/Worksheets/2 - Big Protein Synthesis Foldable.pdf",
@@ -223,7 +225,6 @@
     "APBiology/6/Documents/Case Study/2 - Molecular Genetics of the Color Mutations in Rock Pocket Mice.pdf",
     "APBiology/6/Documents/Case Study/2 - Molecular Genetics of the Color Mutations in Rock Pocket Mice (Student Pack).pdf",
     "APBiology/6/Documents/Case Study/Case Study_Molecular Genetics of the Color Mutations in Rock Pocket Mice (Student Pack).pdf",
-    "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
     "APBiology/6/Notes/BILL Packet/4 - Unit Summary.md",
     "APBiology/6/Documents/BILL Packet/6 - Gene Expression and Regulation_Topic Review Guide.docx",
     "APBiology/6/Documents/BILL Packet/5 - Gene Expression and Regulation_CED Unit Summary.pdf",

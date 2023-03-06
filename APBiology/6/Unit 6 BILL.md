@@ -41,5 +41,5 @@
 1. [x] Genetic expression - Translation
 
 ## Worksheets
-1. [ ] Translation and Open Reading Frame Practice
+1. [x] Translation and Open Reading Frame Practice
 2. [ ] Big protein synthesis foldable
