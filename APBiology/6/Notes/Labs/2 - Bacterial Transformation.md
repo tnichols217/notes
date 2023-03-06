@@ -16,4 +16,7 @@
 10. Negative Control group is when all the necessary preparations are done to the investigative group, but no treatment is actually administered, it is expected to show no results
 11. The experimental group is the group with the new treatment, and is used to see how different things produce different results to be compared with the controls
 12. Tube 2, as no treatment (plasmids) were administered to the solution
-
+13. -
+14. -
+15. Yes, the P- tube had no plasmids so it did not show any effect, and the P+ tube did
+16. 

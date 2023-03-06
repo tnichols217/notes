@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "7930121fe37a38ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/6/Notes/Labs/1 - DNA, Proteins, and Protein Folding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b71754a9b761dcb6",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/6/Notes/Labs/1 - DNA, Proteins, and Protein Folding.md",
+                "file": "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/6/Notes/Labs/1 - DNA, Proteins, and Protein Folding.md"
+                "file": "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md"
               }
             }
           },
@@ -211,8 +199,10 @@
       }
     ]
   },
-  "active": "7930121fe37a38ef",
+  "active": "dd47a3ea497c573f",
   "lastOpenFiles": [
+    "APBiology/6/Notes/Labs/1 - DNA, Proteins, and Protein Folding.md",
+    "APBiology/6/Documents/Labs/1 - DNA, Proteins & Protein Folding.pdf",
     "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
     "APBiology/6/Unit 6 BILL.md",
     "APBiology/6/Documents/Labs/2 - Bacterial Transformation.pdf",
@@ -231,10 +221,8 @@
     "APBiology/6/Documents/Case Study/3 - Stem Cell Gene Expression.pdf",
     "APBiology/6/Documents/Case Study/Stem-Cell-Gene-Expression_Student.pdf",
     "APBiology/6/Documents/Worksheets/2 - Big Protein Synthesis Foldable.pdf",
-    "APBiology/6/Documents/Worksheets/15 - Big Protein Synthesis Foldable - Image, Labels and Boxes.pdf",
     "APBiology/6/Notes/BILL Packet/4 - Unit Summary.md",
     "APBiology/5/Unit 5 BILL.md",
-    "APBiology/6/Notes/Labs/1 - DNA, Proteins, and Protein Folding.md",
     "APBiology/6/Notes/BILL Packet/3 - Test Topics.md",
     "Untitled.md",
     "APBiology/6/Notes/Labs/3 - Strawberry DNA Extraction Lab.md",
