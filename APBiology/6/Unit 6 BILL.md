@@ -15,18 +15,25 @@
 ## Activities
 1. [x] Transcription in action
 2. [x] Genetic Variation at the Molecular Level
+       ![[genetic]]
 3. [x] The Effects of Mutations
+       ![[3 - The Effects of Mutations]]
 4. [x] Molecular Genetics of the Color Mutations in Rock Pocket Mice
+       ![[4 - Molecular Genetics of the Color Mutations in Rock Pocket Mice]]
 
 ## Bell Ringers
 1. [x] Prokaryotic gene regulation
+       ![[1 - Prokaryotic Gene Regulation]]
 2. [x] Eukaryotic gene regulation
+       ![[2 - Eukaryotic Gene Regulation]]
 3. [x] Central Dogma FRQ
+       ![[3 - Central Dogma FRQ]]
 
 ## Case Studies
 1. [x] The Mona Lisa case study
+       ![[1 - The Mona Lisa Molecule]]
 2. [x] Gene Expression in Stem Cells
-       ![[gene expression]]
+       ![[2 - Gene Expression in Stem Cells]]
 
 ## Doodle Notes
 1. [x] Scientists with their findings related to DNA
