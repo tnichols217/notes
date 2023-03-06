@@ -231,38 +231,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d91428c78773bad9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "APBiology/6/Notes/Worksheets/1 - Translating and Open Reading Frame Practice.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b71754a9b761dcb6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "APBiology/6/Notes/BILL Packet/6 - Topic Review Guide.md",
-                    "mode": "source",
+                    "file": "APBiology/6/Unit 6 BILL.md",
+                    "mode": "preview",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -328,7 +304,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "APBiology/6/Notes/Worksheets/1 - Translating and Open Reading Frame Practice.md",
+                    "file": "APBiology/6/Unit 6 BILL.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -345,7 +321,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "APBiology/6/Notes/Worksheets/1 - Translating and Open Reading Frame Practice.md"
+                    "file": "APBiology/6/Unit 6 BILL.md"
                   }
                 }
               },
@@ -358,7 +334,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
@@ -380,44 +356,7 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "floating": {
-        "id": "dee257c6f0a953d7",
-        "type": "floating",
-        "children": [
-          {
-            "id": "cfe2fcebc3fa2329",
-            "type": "window",
-            "children": [
-              {
-                "id": "8b4b6df51561df43",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "f81b3a68c55fd3e2",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "APBiology/6/Unit 6 BILL.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical",
-            "x": 344,
-            "y": 70,
-            "width": 1576,
-            "height": 900,
-            "maximize": true,
-            "zoom": 0
-          }
-        ]
-      },
-      "active": "d91428c78773bad9"
+      "active": "dd47a3ea497c573f"
     },
     "ap art": {
       "main": {
@@ -1689,5 +1628,5 @@
       "active": "4a525f6e31ce8430"
     }
   },
-  "active": "biology"
+  "active": "ap art"
 }
