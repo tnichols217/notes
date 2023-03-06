@@ -43,4 +43,3 @@
 ## Worksheets
 1. [ ] Translation and Open Reading Frame Practice
 2. [ ] Big protein synthesis foldable
-### MISSING
