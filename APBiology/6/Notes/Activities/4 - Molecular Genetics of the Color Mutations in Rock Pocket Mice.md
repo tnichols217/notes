@@ -22,13 +22,13 @@ Amino Acid:
 `N- Leu Val His Gln Gly Phe Arg Leu -C`
 
 # Gene Table 2: Mutant MC1R Gene (Dark coat)
-
-DNA:
-`5' TTG AGG TGG acg TGT CCG CAA GGA 3'` **ACG**
-`5' CGG GAC CGG TGG acc CAC TGA CAC 3'`**ACC**
-`5' TCA TAA CAC TGT GAC GGG acc CGA 3'`ACC
-`5' GTG TAC GAA CGT                 3'`
-`5' GAA CAG GTG GTT CCA AAG GCT GAG 3'`
+**Changes are in upper**
+dna:
+`5' ttg agg tgg ACG tgt ccg caa gga 3'`
+`5' cgg gac cgg tgg ACC cac tga cac 3'`
+`5' tca taa cac tgt gac ggg ACC cga 3'`
+`5' gtg tac GAG cgt                 3'`
+`5' gaa cag gtg gtt cca aag gct gag 3'`
 
 mRNA:
 `5' AAC UCC ACC CGC ACA GGC GUU CCU 3'`
