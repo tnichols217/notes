@@ -5,8 +5,8 @@ Width:
 Length:
 
 ## Materials
-1. TRIPLE OVERWHELM: Blender 3D digital sculpting, with fully handmade procedural materials, and the cycles render engine subserf workflow to create man-made forms and curves workflow to create natural shapes, fully handmade procedural materials, cycles render engine
-2. Utilized low density topology with procedural modifiers to create a more optimized model, while combining with loop cuts, edge data modification, and custom bevels to define detail
+1. TRIPLE OVERWHELM: Blender 3D digital sculpting, handmade procedural materials, cycles render engine
+2. Subserf workflow with low density topology for man-made forms and curves workflow for natural shapes
 
 ## Processes
 1. Researched, experimented on, and rearranged piano parts, mechanisms, and materials while maintaining form
