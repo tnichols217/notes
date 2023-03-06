@@ -12,5 +12,5 @@
 	2. pARA-R solution: Solution with recombinant pARA-R plasmids (with the rfp gene)
 	3. Competent cells: Tube with prepared cells ready to accept DNA
 8. Tube 4
-9. Control group is when all the necessary preparations are done to the investigative group, but no treatment is actually administered (recombinant plasmids), so that would mean Tube 2, as all the preparation is done, but without the recombinant plasmids
-10. 
+9.  Control group is the current standard way of producing the result (if done before) to be used a (recombinant plasmids), so that would mean Tube 2, as all the preparation is done, but without the recombinant plasmids
+10. Negative Control group is when all the necessary preparations are done to the investigative group, but no treatment is actually administered
