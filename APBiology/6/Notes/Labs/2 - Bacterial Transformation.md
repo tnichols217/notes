@@ -8,4 +8,6 @@
 5. It makes the membrane more permeable for the DNA to enter
 6. It neutralizes negatively charged DNA, allowing the cells to be competent
 7. 7
-	1. Luria Broth 
+	1. Luria Broth solution: Growth medium containing biological macromolecules necessary for growth
+	2. pARA-R solution: Solution with recombinant pARA-R plasmids (with the rfp gene)
+	3. Competent cells: 
