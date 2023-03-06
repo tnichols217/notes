@@ -16,7 +16,6 @@
 2. [x] Genetic Variation at the Molecular Level
 3. [x] The Effects of Mutations
 4. [ ] Molecular Genetics of the Color Mutations in Rock Pocket Mice
-### MISSING
 
 ## Bell Ringers
 1. [x] Prokaryotic gene regulation
@@ -26,7 +25,6 @@
 ## Case Studies
 1. [x] The Mona Lisa case study
 2. [ ] Gene expression in stem cells
-### MISSING
 
 ## Doodle Notes
 1. [x] Scientists with their findings related to DNA
@@ -34,10 +32,10 @@
 ## Flash Talks
 1. [ ] Prokaryotic Gene Regulation (on FlipGrid)
 
-## Labs (**MISSING**)
+## Labs
 1. [x] DNA, Proteins & Protein Folding (G-Drive)
 2. [ ] Bacterial Transformation (G-Drive)
-3. [ ] Strawberry DNA Extraction Lab (Handouts only)
+3. [x] Strawberry DNA Extraction Lab (Handouts only)
 
 ## POGILs
 1. [x] Genetic expression - Translation
