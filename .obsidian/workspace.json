@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "APBiology/6/Unit 6 BILL.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -149,43 +149,6 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false
     }
-  },
-  "floating": {
-    "id": "dee257c6f0a953d7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cfe2fcebc3fa2329",
-        "type": "window",
-        "children": [
-          {
-            "id": "8b4b6df51561df43",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f81b3a68c55fd3e2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "APBiology/6/Unit 6 BILL.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 844,
-        "y": 198,
-        "width": 1576,
-        "height": 720,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
   },
   "active": "dd47a3ea497c573f",
   "lastOpenFiles": [
