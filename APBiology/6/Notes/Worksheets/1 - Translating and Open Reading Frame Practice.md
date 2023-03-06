@@ -27,4 +27,4 @@ mRNA:
 `5' AGUGG- AUG-AAA-UUU-GGG-CCC-AGA-GCU-CCG-GGU-AGC-GCG-UUA-CAU-UGA 3'`
 
 Amino Acid:
-`N- Met Lys Phe Gly Pro  -C`
+`N- Met Lys Phe Gly Pro Arg Ala Pro Gly Ser Ala Leu His Stop -C`
