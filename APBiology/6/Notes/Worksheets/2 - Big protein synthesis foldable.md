@@ -4,4 +4,8 @@
 	- Termination: Once the polymerase hits a stop codon, it signals that the strand is complete, and depending if it is Rho dependent or not, it either waits for the Rho to come and detach the polymerase, or a hairpin is formed by the RNA binding itself and stalling the polymerase
 2. 2
 	- Introns are removed from the pre-mRNA
-	- Polydenyleton 
+	- Polydenyletion happens, where a poly-A tail is added to the 3' end
+	- A cap enzyme is also added to the 5' head
+3. 3
+	- Initiation: Ribsome
+4. 
