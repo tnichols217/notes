@@ -25,18 +25,17 @@ The diagrams below represent eukaryotic gene regulation:  the regulation of euka
 ### Post-Transcriptional and Translational Regulation
 
 ````col
-
+```col-md
+![[Pasted image 20230227230250.png]]
+```
+```col-md
+1. What is the difference between introns and exons? Which ones are removed during post-transcriptional RNA Splicing?
+	- Introns get removed before the RNA gets made into a polypeptide chain
+	- Exons are exactly what makes up the polypeptide chain at the end
+2. What is the purpose of the 5’Cap and the Poly-A Tail?
+	- The 5' Cap helps maintain the stability of the RNA strain and protects the strain from falling apart
+	- The poly-A tail ensure that whatever transcriber goes through the RNA, there will be enough space at the end to transcribe all the important information
+3. One of the post-translational modifications is degradation of protein.  How could this relate to cell signaling? 
+	-  Allows stagnant signals to be removed after some time and return to normal levels within the cell
+```
 ````
-> [!col]
->> [!col-md]
->> ![[Pasted image 20230227230250.png]]
->
->> [!col-md]
->> 1. What is the difference between introns and exons? Which ones are removed during post-transcriptional RNA Splicing?
->> 	- Introns get removed before the RNA gets made into a polypeptide chain
->> 	- Exons are exactly what makes up the polypeptide chain at the end
->> 2. What is the purpose of the 5’Cap and the Poly-A Tail?
->> 	- The 5' Cap helps maintain the stability of the RNA strain and protects the strain from falling apart
->> 	- The poly-A tail ensure that whatever transcriber goes through the RNA, there will be enough space at the end to transcribe all the important information
->> 3. One of the post-translational modifications is degradation of protein.  How could this relate to cell signaling? 
->> 	-  Allows stagnant signals to be removed after some time and return to normal levels within the cell
