@@ -1,3 +1,4 @@
+## Questions
 1. To facilitate the uptake of DNA that contains a gene of interest
 2. Red fluorescent protein
 3. 3
@@ -19,4 +20,8 @@
 13. -
 14. -
 15. Yes, the P- tube had no plasmids so it did not show any effect, and the P+ tube did
-16. 
+16. Compare it to the controls and see how the results differ
+17. -
+
+## Reflection
+1. A process wher 
