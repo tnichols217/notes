@@ -10,9 +10,12 @@ DNA:
 mRNA:
 `5' AAC UCC ACC CGC ACA GGC GUU CCU 3'`
 `5' GCC CUG GCC ACC CGG GUG ACU GUG 3'`
-`5' `
+`5' AGU AUU GUG ACA CUG CCC CGG GCU 3'`
+`5' CAC AUG CUU GCA                 3'`
+`5' CUU GUC CAC CAA GGU UUC CGA CUC 3'`
 
 Amino Acid:
 `N- Asn Ser Thr Arg Thr Gly Val Pro -C`
+``
 
 # Gene Table 2: Mutant MC1R Gene (Dark coat)
