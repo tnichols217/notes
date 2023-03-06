@@ -1,7 +1,7 @@
 **1.**  Given the following sense strand of DNA sequence, transcribe it into mRNA, showing the orientation of the mRNA i.e. 3' and 5' ends.  Then translate this sequence into protein indicating amino and carboxy termini, be sure to check for an open reading frame as well.
 
 DNA:
-`5' GGG-ATC-GAT-GCC-CCT-TAA-AGA-GTT-TAC-ATA-TTG-CTG-GAG-GCG-TTA-ACC-CCG-GA 3'`
+`5' GGGATCGATGCCCCTTAAAGAGTTTACATATTGCTGGAGGCGTTAACCCCGGA 3'`
 
 mRNA:
 `5' GGGAUCG-AUG-CCC-CUU-AAA-GAG-UUU-ACA-UAU-UGC-UGG-AGG-CGU-UAA-CCCCGGA 3'`
@@ -15,3 +15,7 @@ Amino Acid:
 	3.  Transcribe this ORF into mRNA, indicating the 5' and 3' ends.
 	4.  Translate this mRNA into amino acids, indicating the amino (N) and carboxy (C) termini.
 
+DNA:
+`5' TCAATGTAACGCGCTACCCGGAGCTCTGGGCCCAAATTTCATCCACT 3'`
+
+mRNA:
