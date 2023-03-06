@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/6/Unit 6 BILL.md",
-                "mode": "preview",
+                "file": "APBiology/6/Notes/Bell Ringer/2 - Eukaryotic Gene Regulation.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/6/Unit 6 BILL.md",
+                "file": "APBiology/6/Notes/Bell Ringer/2 - Eukaryotic Gene Regulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/6/Unit 6 BILL.md"
+                "file": "APBiology/6/Notes/Bell Ringer/2 - Eukaryotic Gene Regulation.md"
               }
             }
           },
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,11 +150,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c6a55982cacab7f6",
+  "active": "dd47a3ea497c573f",
   "lastOpenFiles": [
+    "APBiology/6/Unit 6 BILL.md",
     "APBiology/6/Unit 6 BILL.pdf",
     "APBiology/6/Notes/Case Study/1 - The Mona Lisa Molecule.md",
-    "APBiology/6/Unit 6 BILL.md",
     "APBiology/6/Notes/POGILs/1 - Gene Expression - Translation.md",
     "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
     "APBiology/6/Notes/Worksheets/2 - Big protein synthesis foldable.md",
@@ -175,7 +176,6 @@
     "APArt/Piece Descriptions.md",
     "APBiology/6/Documents/Case Study/3 - Stem Cell Gene Expression.pdf",
     "APBiology/6/Documents/Case Study/Stem-Cell-Gene-Expression_Student.pdf",
-    "APBiology/6/Documents/Worksheets/2 - Big Protein Synthesis Foldable.pdf",
     "APBiology/6/Notes/BILL Packet/4 - Unit Summary.md",
     "APBiology/6/Notes/BILL Packet/3 - Test Topics.md",
     "Untitled.md",
