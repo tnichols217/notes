@@ -4,29 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "9289779978577754",
+        "id": "ae175ff9fdd20b33",
         "type": "tabs",
         "children": [
           {
-            "id": "f09f38ac2ca7ff4f",
+            "id": "addcfe84c2987c8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BritLit/Screwtape Letters.md",
-                "mode": "preview",
+                "file": "APArt/Piece Descriptions.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f9848cd90673520f",
+            "id": "e2b095573fcaac02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BritLit/Quotes.md",
-                "mode": "preview",
+                "file": "APArt/Portfolio notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0eaebd664d174b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APArt/Sustained Investigation.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BritLit/Screwtape Letters.md",
+                "file": "APArt/Piece Descriptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BritLit/Screwtape Letters.md"
+                "file": "APArt/Piece Descriptions.md"
               }
             }
           },
@@ -149,8 +161,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f09f38ac2ca7ff4f",
+  "active": "addcfe84c2987c8c",
   "lastOpenFiles": [
+    "BritLit/Screwtape Letters.md",
     "BritLit/Final Prep.md",
     "APArt/Piece Descriptions.md",
     "APBiology/6/Unit 6 BILL.md",
@@ -187,7 +200,6 @@
     "APBiology/6/Notes/Activities/2 - Genetic Variation at the Molecular Level.md",
     "APBiology/6/Notes/Activities/1 - Transcription in Action.md",
     "Private/college/Expenses.md",
-    "Private/college/Logins.md",
-    "APBiology/6/Notes/Untitled.md"
+    "Private/college/Logins.md"
   ]
 }
