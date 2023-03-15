@@ -42,6 +42,7 @@ Length:
 1. DAMAGED RECOLLECTIONS: Blender 3D, curves workflow, procedural materials and textures
 
 ## Processes
+1. Researched kid's interpretation of instruments by visiting 4 year olds and observing their drawings
 
 # 5 - Piano
 ## Dimensions
