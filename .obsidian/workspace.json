@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "APArt/Portfolio notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "APArt/Portfolio notes.md"
+              }
             }
           },
           {
