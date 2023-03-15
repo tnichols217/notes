@@ -28,10 +28,11 @@ Length:
 ## Dimensions
 
 ## Materials
-1. THE EYE OF THE KIT: Blender 3D, subserf workflow for general forms, cycles render engine
-2. Procedural deformation and textures for details on screws, cymbals, and legs, geometry linking for scene optimization
+1. THE EYE OF THE KIT: Blender 3D, subserf workflow for general forms, linked geometry for optimization
+2. Procedural deformation and textures for details on screws, cymbals, and legs. cycles render engine
 
 ## Processes
+1. 
 
 # 4 - Horn
 ## Dimensions
