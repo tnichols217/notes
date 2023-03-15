@@ -16,7 +16,7 @@ Length:
 ## Dimensions
 
 ## Materials
-1. NATURAL DISTRESS: Blender 3D digital sculpting, 
+1. NATURAL DISTRESS: Blender 3D digital sculpting, manually created textures and handmade procedural materials
 
 ## Processes
 
