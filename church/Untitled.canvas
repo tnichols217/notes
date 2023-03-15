@@ -1,4 +1,9 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"65fe52c9efeae1a3","x":-298,"y":7,"width":438,"height":233,"type":"text","text":"# Soundboard"},
+		{"id":"c2b7d1f6556bc4f4","x":-305,"y":-187,"width":250,"height":60,"type":"text","text":"# Snake"}
+	],
+	"edges":[
+		{"id":"0849f9acdfd6bcf4","fromNode":"65fe52c9efeae1a3","fromSide":"top","toNode":"c2b7d1f6556bc4f4","toSide":"bottom"}
+	]
 }
