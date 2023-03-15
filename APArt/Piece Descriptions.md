@@ -17,9 +17,11 @@ Length:
 
 ## Materials
 1. NATURAL DISTRESS: Blender 3D, sculpted textures, and handmade procedural materials, cycles renderer
-2. Initial subserf workflow, curves workflow for strings, multires sculpting for 
+2. Initial subserf workflow, curves workflow for strings, multires sculpting for bark texture
 
 ## Processes
+1. 
+
 
 Height: 
 Width: 
