@@ -20,7 +20,7 @@ Length:
 2. Initial subserf workflow, curves workflow for strings, multires sculpting for bark texture
 
 ## Processes
-1. Researched important characteristics of electr
+1. Researched important characteristics of electric and acoustic guitars, and replicated them 
 
 
 Height: 
