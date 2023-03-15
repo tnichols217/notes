@@ -39,7 +39,7 @@ Length:
 ## Dimensions
 
 ## Materials
-1. 
+1. DAMAGED RECOLLECTIONS: Blender 3D, curves workflow, procedural materials and textures
 
 ## Processes
 
