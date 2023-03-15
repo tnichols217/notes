@@ -43,6 +43,7 @@ Length:
 
 ## Processes
 1. Researched kid's interpretation of instruments by visiting 4 year olds and observing their drawings
+2. Experimented on methods of recreating the shaky hand effect in 3D through texture, shape, and color
 
 # 5 - Piano
 ## Dimensions
