@@ -20,7 +20,7 @@ Length:
 2. Initial subserf workflow, curves workflow for strings, multires sculpting for bark texture
 
 ## Processes
-1. Researched characteristics of electric guitars by surveying people on how much distortion before uncognizability
+1. Researched characteristics of electric guitars by surveying others on how much distortion before uncognizability
 
 
 Height: 
