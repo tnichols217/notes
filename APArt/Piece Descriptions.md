@@ -32,7 +32,8 @@ Length:
 2. Procedural deformation and textures for details on screws, cymbals, and legs. cycles render engine
 
 ## Processes
-1. Researched types and characteristics of different drums, cymbals, astands
+1. Researched types and characteristics of different drums, cymbals, and stands to create custom drums
+2. Experimented on different
 
 # 4 - Horn
 ## Dimensions
