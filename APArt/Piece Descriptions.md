@@ -40,7 +40,7 @@ Length:
 
 ## Materials
 1. DAMAGED RECOLLECTIONS: Blender 3D, curves workflow, subserf workflow for valves, cycles renderer
-2. Fully custom procedural denting and rust generation, procedural materials and textures, HDRI backgroun
+2. Custom procedural denting and rust generation, procedural materials and textures, HDRI reflections
 
 ## Processes
 1. Researched kid's interpretation of instruments by visiting 4 year olds and observing their drawings
