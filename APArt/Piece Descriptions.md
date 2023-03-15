@@ -28,7 +28,7 @@ Length:
 ## Dimensions
 
 ## Materials
-1. THE EYE OF THE KIT: Blender 3D, 
+1. THE EYE OF THE KIT: Blender 3D, subserf workflow
 
 ## Processes
 
