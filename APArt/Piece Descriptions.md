@@ -24,60 +24,45 @@ Length:
 2. Experimented on sculpting bark through iterative processes, refining and improving methods I've used
 
 
-Height: 
-Width: 
-Length: 
-Materials: 
-Blender
-Object mode to create the general shape
-Recursive curves to make the strings
-Sculpt mode to fine tune the shape
-Displacement nodes to add shape details
-Shader nodes to add color and bump
-
-Processes: 
-Looked at trees to figue out how branches are structured.
-Measured a real guitar to get an idea of what size and shape to make the elements.
-
 # 3 - Drums
-Height: 
-Width: 
-Length: 
-Materials: 
-Edit mode for creating the shape of everything
-Processes: 
+## Dimensions
+
+## Materials
+1. 
+
+## Processes
 
 # 4 - Horn
-Height: 
-Width: 
-Length: 
-Materials: 
-Processes: 
+## Dimensions
+
+## Materials
+
+## Processes
 
 # 5 - Piano
-Height: 
-Width: 
-Length: 
-Materials: 
-Processes: 
+## Dimensions
+
+## Materials
+
+## Processes
 
 # 6 - Guitar
-Height: 
-Width: 
-Length: 
-Materials: 
-Processes: 
+## Dimensions
+
+## Materials
+
+## Processes
 
 # 7 - Drum
-Height: 
-Width: 
-Length: 
-Materials: 
-Processes: 
+## Dimensions
+
+## Materials
+
+## Processes
 
 # 8 - Horn
-Height: 
-Width: 
-Length: 
-Materials: 
-Processes: 
+## Dimensions
+
+## Materials
+
+## Processes
