@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "f3e5a046248dcdf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APArt/Piece Descriptions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0eaebd664d174b69",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APArt/Portfolio notes.md",
+                "file": "APArt/Piece Descriptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APArt/Portfolio notes.md"
+                "file": "APArt/Piece Descriptions.md"
               }
             }
           },
@@ -149,13 +162,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "f3e5a046248dcdf3",
   "lastOpenFiles": [
+    "APArt/Portfolio notes.md",
+    "APArt/Sustained Investigation.md",
     "APArt/Piece Descriptions.md",
     "church/Untitled.canvas",
     "church",
-    "APArt/Portfolio notes.md",
-    "APArt/Sustained Investigation.md",
     "BritLit/Screwtape Letters.md",
     "BritLit/Final Prep.md",
     "APBiology/6/Unit 6 BILL.md",
