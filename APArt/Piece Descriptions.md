@@ -21,7 +21,7 @@ Length:
 
 ## Processes
 1. Researched qualities of guitars by surveying others on how much distortion before uncognizability
-2. 
+2. Experimented on scul of bark through an iterative sculpting process, refining and improving methods I know
 
 
 Height: 
