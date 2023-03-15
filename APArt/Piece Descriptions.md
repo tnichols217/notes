@@ -33,7 +33,7 @@ Length:
 
 ## Processes
 1. Researched types and characteristics of different drums, cymbals, and stands to create custom drums
-2. Experimented on layouts of drums to maximize claustropho
+2. Experimented on layouts of drums to maximize claustrophobia, megalophobia, and realism whilst maintaining proportions
 
 # 4 - Horn
 ## Dimensions
