@@ -33,7 +33,7 @@ Length:
 
 ## Processes
 1. Researched types and characteristics of different drums, cymbals, and stands to create custom drums
-2. Experimented on different methods of optimizing scene, to be able to run on my computer
+2. Experimented on 
 
 # 4 - Horn
 ## Dimensions
