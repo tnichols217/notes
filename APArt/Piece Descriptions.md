@@ -29,7 +29,7 @@ Length:
 
 ## Materials
 1. THE EYE OF THE KIT: Blender 3D, subserf workflow for general forms, cycles render engine
-2. Procedural deformation and textures for details on screws, cymbals, and 
+2. Procedural deformation and textures for details on screws, cymbals, and legs
 
 ## Processes
 
