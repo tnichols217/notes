@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "addcfe84c2987c8c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "church/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "e2b095573fcaac02",
             "type": "leaf",
             "state": {
@@ -112,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "church/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "church/Untitled.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -164,7 +146,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "addcfe84c2987c8c",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
     "APArt/Piece Descriptions.md",
     "church/Untitled.canvas",
