@@ -50,7 +50,7 @@ Length:
 ## Dimensions
 
 ## Materials
-1. MINIMALIST MELODIES - Blender 3D, nested curve workflow for subserf 
+1. MINIMALIST MELODIES - Blender 3D, nested curve workflow for strings subserf 
 
 ## Processes
 
