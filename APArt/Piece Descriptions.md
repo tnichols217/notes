@@ -51,7 +51,7 @@ Length:
 
 ## Materials
 1. THE KEY TO SIMPLICITY - Blender 3D, nested curve workflow for strings, subserf workflow for others
-2. 
+2. Generated distortion for wavy effect
 
 ## Processes
 
