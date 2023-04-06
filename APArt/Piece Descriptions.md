@@ -76,7 +76,7 @@ Length:
 2. Original clear plastic texture, procedurally generated waves, vertex editing to fine tune structure
 
 ## Processes
-1. Experimented with 
+1. Experimented with methods of simulating wrinkles by varying stiffness, stretch, and starting shape
 2. 
 
 # 8 - Horn
