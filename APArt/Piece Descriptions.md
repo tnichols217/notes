@@ -54,7 +54,8 @@ Length:
 2. Bevel + subserf workflow for keys for sharper look, generated distortion for wavy effect 
 
 ## Processes
-1. Revised from a more playful 
+1. Revised from a children's toy style to a more professional yet fun look to better convey my emotion
+2. 
 
 # 6 - Guitar
 ## Dimensions
