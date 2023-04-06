@@ -61,7 +61,7 @@ Length:
 ## Dimensions
 
 ## Materials
-1. 8-BIT MEDLEY - Blender 3D, Bevel workfl
+1. 8-BIT MEDLEY - Blender 3D, Bevel workflow for main board, 
 
 ## Processes
 
