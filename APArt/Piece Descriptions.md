@@ -77,7 +77,7 @@ Length:
 
 ## Processes
 1. Experimented with methods of simulating wrinkles by varying stiffness, stretch, and starting shape
-2. Revised from 
+2. Revised from beach ball color scheme to current, and from opaque plastic to transparent
 
 # 8 - Horn
 ## Dimensions
