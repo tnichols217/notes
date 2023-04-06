@@ -50,10 +50,11 @@ Length:
 ## Dimensions
 
 ## Materials
-1. THE KEY TO SIMPLICITY - Blender 3D, nested curve workflow for strings, subserf workflow for others
-2. Generated distortion for wavy effect 
+1. THE KEY TO SIMPLICITY - Blender 3D, nested curve workflow for strings, subserf workflow for body
+2. Bevel + subserf workflow for keys for sharper look, generated distortion for wavy effect 
 
 ## Processes
+1. 
 
 # 6 - Guitar
 ## Dimensions
