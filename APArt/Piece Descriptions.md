@@ -73,7 +73,7 @@ Length:
 
 ## Materials
 1. UNBOUND FLOW - Blender 3D, cloth simulation, subserf workflow for generating initial cloth shapes
-2. 
+2. Original clear plastic texture, procedurally generated waves
 
 ## Processes
 1. 
