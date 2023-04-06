@@ -61,7 +61,8 @@ Length:
 ## Dimensions
 
 ## Materials
-1. 8-BIT MEDLEY - Blender 3D, Bevel workflow for main board, 
+1. 8-BIT MEDLEY - Blender 3D, Bevel workflow for main board, buttons; subserf workflow for D-pads, head
+2. Generated 
 
 ## Processes
 
