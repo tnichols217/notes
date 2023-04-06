@@ -66,7 +66,7 @@ Length:
 
 ## Processes
 1. Researched nostalgic, fun items; settled on the NES controller, representing hours of fun in old games
-2. 
+2. Revised from basic clean textures to a heavily used-looking 
 
 # 7 - Drum
 ## Dimensions
