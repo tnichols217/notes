@@ -87,5 +87,5 @@ Length:
 2. 
 
 ## Processes
-1. 
-2. Revised buttons to become metallic in order to reintroduce more elements of the french horn
+1. Experimented on multiple methods of 
+2. Revised buttons to become metallic in order to reintroduce elements and textures of the french horn
