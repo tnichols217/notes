@@ -55,7 +55,7 @@ Length:
 
 ## Processes
 1. Revised from a children's toy style to a more professional yet fun look to better convey my emotion
-2. Experimented with multiple styles of generated distortion until I created one that was gentle and 
+2. Experimented with styles of generated distortion until I created one that was gentle and relaxing
 
 # 6 - Guitar
 ## Dimensions
