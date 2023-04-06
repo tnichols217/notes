@@ -76,7 +76,7 @@ Length:
 2. Original clear plastic texture, procedurally generated waves, vertex editing to fine tune structure
 
 ## Processes
-1. 
+1. Experimented with 
 2. 
 
 # 8 - Horn
