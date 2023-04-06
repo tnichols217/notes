@@ -88,4 +88,4 @@ Length:
 
 ## Processes
 1. 
-2. Revised color scheme to make colors appear more 
+2. Revised buttons to become metallic
