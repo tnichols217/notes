@@ -72,7 +72,7 @@ Length:
 ## Dimensions
 
 ## Materials
-1. UNBOUND FLOW - Blender 3D, 
+1. UNBOUND FLOW - Blender 3D, cloth simulation
 2. 
 
 ## Processes
