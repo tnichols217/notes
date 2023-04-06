@@ -77,7 +77,7 @@ Length:
 
 ## Processes
 1. Experimented with methods of simulating wrinkles by varying stiffness, stretch, and starting shape
-2. 
+2. Revised from 
 
 # 8 - Horn
 ## Dimensions
