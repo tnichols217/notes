@@ -65,7 +65,8 @@ Length:
 2. Original textures: guitar strings, gray paper accent, rough paper, smudging, scratches, worn paper
 
 ## Processes
-1. Researched nostalgic, fun items and settled on the NES controller, representing hours of fun spent on old games
+1. Researched nostalgic, fun items; settled on the NES controller, representing hours of fun in old games
+2. 
 
 # 7 - Drum
 ## Dimensions
