@@ -54,7 +54,7 @@ Length:
 2. Bevel + subserf workflow for keys for sharper look, generated distortion for wavy effect 
 
 ## Processes
-1. Experimented on removing parts of the piano until it was simple yet detailed and identifiable
+1. Revised from a more playful 
 
 # 6 - Guitar
 ## Dimensions
