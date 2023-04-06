@@ -84,7 +84,7 @@ Length:
 
 ## Materials
 1. 
-2. 
+2. Procedurally created button weave texture; cloth and hair simulation for main stuffedbody
 
 ## Processes
 1. Experimented on methods to create hair texture: procedural displacement/bump, hair simulation
