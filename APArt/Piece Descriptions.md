@@ -88,4 +88,4 @@ Length:
 
 ## Processes
 1. 
-2. 
+2. Revised color scheme to make colors appear more 
