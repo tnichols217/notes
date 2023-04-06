@@ -62,7 +62,7 @@ Length:
 
 ## Materials
 1. 8-BIT MEDLEY - Blender 3D, Bevel workflow for main board, buttons; subserf workflow for D-pads, head
-2. Generated 
+2. Fully generated textures: guitar strings, white accent
 
 ## Processes
 
