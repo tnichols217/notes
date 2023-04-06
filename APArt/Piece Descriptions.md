@@ -87,5 +87,5 @@ Length:
 2. 
 
 ## Processes
-1. Experimented on multiple methods of 
+1. Experimented on methods to create hair texture: procedural displacement/bump, hair simulation
 2. Revised buttons to become metallic in order to reintroduce elements and textures of the french horn
