@@ -72,7 +72,7 @@ Length:
 ## Dimensions
 
 ## Materials
-1. UNBOUND FLOW - Blender 3D, cloth simulation
+1. UNBOUND FLOW - Blender 3D, cloth simulation, subserf workflow for generating initial cloth shapes
 2. 
 
 ## Processes
