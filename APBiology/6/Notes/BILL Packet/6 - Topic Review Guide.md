@@ -127,9 +127,11 @@
 	- Certain amino acids will not be able to be used in the production of proteins and the tRNA sequences for that amino acid will be nonfuctional
 7. Describe how proteins can be altered once they have been synthesized at the ribosome and what organelles are involved.
 	- They may be folded differently, added more parts to it, combined to other proteins
-8. Define operon.  Explain how bacterial cells use operons to control gene expression. 
+
+## Gene Regulation
+1. Define operon.  Explain how bacterial cells use operons to control gene expression. 
 	- The portion on the DNA before the gene that will govern whether the DNA is transcribed or not depending on the environment
-9. Describe the relationship between the following components of an operon: 
+2. Describe the relationship between the following components of an operon: 
 	1. Promoter
 		- Attracts the RNA polymerase to the site, before the Operator
 	2. Operator
@@ -140,9 +142,9 @@
 		- Genes that are necessary for structure or functions in the cell
 	5. Regulatory Genes
 		- Genes that are necessary to create proteins that will regulate the production or activation of other proteins in the cell
-10. Create a t-chart that explains how repressible operons differ from inducible operons.
+3. Create a t-chart that explains how repressible operons differ from inducible operons.
 	- Repressible are active by default and can be turned off, inducible operons are off by default and can be turned on
-11. Describe the relationship between these terms and explain how these terms are used to describe eukaryotic gene regulation.
+4. Describe the relationship between these terms and explain how these terms are used to describe eukaryotic gene regulation.
 	1. Enhancer
 		- A portion of DNA that will bind to the other side of the RNA polymerase, increasing its effectivity
 	2. Promoter
@@ -151,12 +153,12 @@
 		- A protein that binds to the promoter to disable its promoting functions
 	4. DNA
 		- The genetic code that is being read and used to produce functional proteins
-12. Explain how transcription factors help to regulate eukaryotic gene expression.
+5. Explain how transcription factors help to regulate eukaryotic gene expression.
 	- Presence of an enhancer, silencer, and repressors, activators, as well as activity of the histones
-13. Create a t-chart that describes the differences between lytic virus reproduction and lysogenic virus reproduction
+6. Create a t-chart that describes the differences between lytic virus reproduction and lysogenic virus reproduction
 	- Lytic: DNA is injected, created quickly until cell explodes with the bacteriophage
 	- Lysogenic: DNA is injected and incoporated, multiple cell cycles undergo, there is a chance that the lytic cycle will be activated after each reproduction
-14. Describe how the following tools are used to study or modify organismal genomes: 
+7. Describe how the following tools are used to study or modify organismal genomes: 
 	1. Restriction Enzymes
 		- Cuts open the DNA with some bases left unpaired at the end (Sticky) and will bind to new inserted DNA
 	2. Plasmids
