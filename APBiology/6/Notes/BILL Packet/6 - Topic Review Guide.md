@@ -27,6 +27,7 @@
 		- Through histones and repressors/activators
 
 # Recall and Review
+## DNA Structure and Replication
   DNA Structure and Replication
 1. Explain how the experiments that each of the following people/groups of people performed provided evidence that DNA is the genetic material.
 	1. Frederick Griffith
@@ -71,14 +72,16 @@
 		- Wound up DNA, ready for replication
 	5. Transcription and Translation
 		- Reading the DNA to make protein through RNA
-10. Compare the processes of DNA replication with transcription.  Be sure to include the following things in your comparison: 
+
+## Transcription and Translation
+1. Compare the processes of DNA replication with transcription.  Be sure to include the following things in your comparison: 
 	1. Location of process	
 		- Replication in nucleolus while transcription also happens in the same place, but leaves into the cytoplasm
 	2. Nucleic acids involved
 		- ATCG vs AUCG
 	3. Enzymes responsible
 		- DNA polymerase vs RNA polymerase, Ribosomes
-11. Create a graphic organizer that explains the relationship between the following molecules: 
+2. Create a graphic organizer that explains the relationship between the following molecules: 
 	1. DNA
 		- origin of genetic info
 	2. mRNA
@@ -89,23 +92,25 @@
 		- RNA that folds up into ribosomes in order to facilitate protein production
 	5. RNAi
 		- RNA that binds to other RNA to prevent it from creating proteins, it eventually breaks down each other
-12. Describe the difference between an intron and an exon. 
+3. Describe the difference between an intron and an exon. 
 	- Exons get used to create the final protein, Intons do not
-13. Eukaryotic mRNA is often modified before it leaves the nucleus. Describe how this happens.
+4. Eukaryotic mRNA is often modified before it leaves the nucleus. Describe how this happens.
 	- Introns are removed, and a cap and poly a tail are added
-14. Explain how the production of eukaryotic mRNA is like watching a tv show that is on Netflix.
+5. Explain how the production of eukaryotic mRNA is like watching a tv show that is on Netflix.
 	- It reads and copies what it sees
-15. Create a graphic organizer that illustrates the differences between the processes of transcription and translation, including how they operate in prokaryotes vs. eukaryotes.
+6. Create a graphic organizer that illustrates the differences between the processes of transcription and translation, including how they operate in prokaryotes vs. eukaryotes.
 	- Transcription is DNA -> mRNA while translation is mRNA -> proteins
-16. Explain the relationship between protein synthesis and an organism’s phenotype.
+7. Explain the relationship between protein synthesis and an organism’s phenotype.
 	- Phenotype is a trait that is displayed, protein synthesis is just what is produced from active genes, which may influence the phenotype
-17. Explain how the “one-gene-one protein” hypothesis was derived by Beadle and Tatum.  Why has this hypothesis been refined to “one gene-one polypeptide,” and now “one gene-one (protein) domain?”
+8. Explain how the “one-gene-one protein” hypothesis was derived by Beadle and Tatum.  Why has this hypothesis been refined to “one gene-one polypeptide,” and now “one gene-one (protein) domain?”
 	- Proteins can be made up of more than one polypeptide chain, and sometimes the gene has to be modified drastically before it is made into a protein
-18. Create a t-chart that explains the difference between somatic mutations and germline mutations.
+
+## Mutations
+1. Create a t-chart that explains the difference between somatic mutations and germline mutations.
 	- Germline happens before the fertilization of the egg, so damaged DNA is passed to the entire new organism, while somatic is after, so only portions are effected by it
-19. Create a graphic organizer that illustrates how point mutations differ from chromosomal mutations.  Which one has a greater effect on the organism’s phenotype?
+2. Create a graphic organizer that illustrates how point mutations differ from chromosomal mutations.  Which one has a greater effect on the organism’s phenotype?
 	- Chromosomal, because a lot more DNA material is effected by it
-20. Create a diagram that represents the following types of mutations:
+3. Create a diagram that represents the following types of mutations:
 	1. Silent mutation
 		- Different bases, same amino acid
 	2. Missense mutation
@@ -114,17 +119,17 @@
 		- Different base, early start or early stop
 	4. Frameshift mutation
 		- Entire Sequence after mutation is effected, changing every amino acid after the mutation
-21. Create a t-chart that compares gene mutations to chromosomal mutations
+4. Create a t-chart that compares gene mutations to chromosomal mutations
 	- gene mutations are small, chromosomal mutations cause entire sections to be moved around of made ineffective
-22. Explain what would happen to the process of gene expression if the gene for RNA polymerase was mutated.
+5. Explain what would happen to the process of gene expression if the gene for RNA polymerase was mutated.
 	- Likely, no RNA will be able to be made, and therefore no proteins
-23. Each amino acid has a tRNA synthetase enzyme that is responsible for attaching it to a tRNA molecule. Explain what would happen if there was a mutation in the gene encoding one of these enzymes.
+6. Each amino acid has a tRNA synthetase enzyme that is responsible for attaching it to a tRNA molecule. Explain what would happen if there was a mutation in the gene encoding one of these enzymes.
 	- Certain amino acids will not be able to be used in the production of proteins and the tRNA sequences for that amino acid will be nonfuctional
-24. Describe how proteins can be altered once they have been synthesized at the ribosome and what organelles are involved.
+7. Describe how proteins can be altered once they have been synthesized at the ribosome and what organelles are involved.
 	- They may be folded differently, added more parts to it, combined to other proteins
-25. Define operon.  Explain how bacterial cells use operons to control gene expression. 
+8. Define operon.  Explain how bacterial cells use operons to control gene expression. 
 	- The portion on the DNA before the gene that will govern whether the DNA is transcribed or not depending on the environment
-26. Describe the relationship between the following components of an operon: 
+9. Describe the relationship between the following components of an operon: 
 	1. Promoter
 		- Attracts the RNA polymerase to the site, before the Operator
 	2. Operator
@@ -135,9 +140,9 @@
 		- Genes that are necessary for structure or functions in the cell
 	5. Regulatory Genes
 		- Genes that are necessary to create proteins that will regulate the production or activation of other proteins in the cell
-27. Create a t-chart that explains how repressible operons differ from inducible operons.
+10. Create a t-chart that explains how repressible operons differ from inducible operons.
 	- Repressible are active by default and can be turned off, inducible operons are off by default and can be turned on
-28. Describe the relationship between these terms and explain how these terms are used to describe eukaryotic gene regulation.
+11. Describe the relationship between these terms and explain how these terms are used to describe eukaryotic gene regulation.
 	1. Enhancer
 		- A portion of DNA that will bind to the other side of the RNA polymerase, increasing its effectivity
 	2. Promoter
@@ -146,12 +151,12 @@
 		- A protein that binds to the promoter to disable its promoting functions
 	4. DNA
 		- The genetic code that is being read and used to produce functional proteins
-29. Explain how transcription factors help to regulate eukaryotic gene expression.
+12. Explain how transcription factors help to regulate eukaryotic gene expression.
 	- Presence of an enhancer, silencer, and repressors, activators, as well as activity of the histones
-30. Create a t-chart that describes the differences between lytic virus reproduction and lysogenic virus reproduction
+13. Create a t-chart that describes the differences between lytic virus reproduction and lysogenic virus reproduction
 	- Lytic: DNA is injected, created quickly until cell explodes with the bacteriophage
 	- Lysogenic: DNA is injected and incoporated, multiple cell cycles undergo, there is a chance that the lytic cycle will be activated after each reproduction
-31. Describe how the following tools are used to study or modify organismal genomes: 
+14. Describe how the following tools are used to study or modify organismal genomes: 
 	1. Restriction Enzymes
 		- Cuts open the DNA with some bases left unpaired at the end (Sticky) and will bind to new inserted DNA
 	2. Plasmids
