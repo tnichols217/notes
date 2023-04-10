@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APArt/Portfolio notes.md",
+                "file": "APArt/Piece Descriptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APArt/Portfolio notes.md"
+                "file": "APArt/Piece Descriptions.md"
               }
             }
           },
@@ -161,13 +162,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e2b095573fcaac02",
+  "active": "f3e5a046248dcdf3",
   "lastOpenFiles": [
+    "APArt/Portfolio notes.md",
     "APArt/Sustained Investigation.md",
     "APArt/Piece Descriptions.md",
     "APBiology/6/Unit 6 BILL.md",
     "APBiology/6/Notes/BILL Packet/6 - Topic Review Guide.md",
-    "APArt/Portfolio notes.md",
     "Private/college/RD/Checklist.md",
     "Private/college/Logins.md",
     "Private/college/Colleges.md",
