@@ -14,4 +14,5 @@
 2. 2
 	1. It contains four mutations
 	2. They do not have the mutation and the amino acid sequence is the same as the light color's, yet they still display dark fur.
-	3. This shows that they have evolved the same phenotype through different genetic mu
+	3. This shows that they have evolved the same phenotype through different genetic mutations. This also shows that some mutations or evolution are repeatable.
+3. 
