@@ -20,4 +20,4 @@
    Genetic drift: When the population is small enough that it could just change by chance
    Mutation: A random change in the DNA of something, making new genes available to the population.
    Non-random mating: a trait or factor that increases likelihood that a particular specimen will reproduce
-5. 
+5. Gene flow could increase and decrease the population of dark haired mouse within these two populations, as there is a pathway of rocks between the two.
