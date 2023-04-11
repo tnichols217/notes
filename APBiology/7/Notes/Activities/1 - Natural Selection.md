@@ -18,4 +18,5 @@
 3. This is a theory that says the mutations that give a certain population an environmental or reproductive advantage will be more likely to survive to the next generation and will grow in proportion to the non-carriers. This means that "good" traits will be more likely to survive and will overtake the population.
 4. Gene flow: literally just a fancy word for migration
    Genetic drift: When the population is small enough that it could just change by chance
-   Mutation: 
+   Mutation: A random change in the DNA of something, making new genes available to the population.
+   Non-random mating: a trait or f
