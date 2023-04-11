@@ -15,4 +15,5 @@
 	1. It contains four mutations
 	2. They do not have the mutation and the amino acid sequence is the same as the light color's, yet they still display dark fur.
 	3. This shows that they have evolved the same phenotype through different genetic mutations. This also shows that some mutations or evolution are repeatable.
-3. This is a theory that says the mutations that give a certain population an environmental or reproductive advantage will be more likely to survive an
+3. This is a theory that says the mutations that give a certain population an environmental or reproductive advantage will be more likely to survive to the next generation and will grow in proportion to the non-carriers. This means that "good" traits will be more likely to survive and will overtake the population.
+4. 
