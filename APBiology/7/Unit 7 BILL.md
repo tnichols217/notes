@@ -15,28 +15,28 @@
 5. [ ] Activity: Artificial Selection
 
 ## Bell Ringers
-1. [ ] BR: Natural Selection in Giraffes
-2. [ ] BR: Evolutionary Scientists
-3. [ ] BR: Survival of the Fittest
-4. [ ] BR: Furry Evolution FRQ
-5. [ ] BR: Constructing a Phylogenetic Tree
-6. [ ] BR: Mechanisms of Evolution
+1. [ ] Natural Selection in Giraffes
+2. [ ] Evolutionary Scientists
+3. [ ] Survival of the Fittest
+4. [ ] Furry Evolution FRQ
+5. [ ] Constructing a Phylogenetic Tree
+6. [ ] Mechanisms of Evolution
 
 ## Case Studies
-1. [ ] Case Study: Peppered Moth
-2. [ ] Case Study: Fish out of salt water
+1. [ ] Peppered Moth
+2. [ ] Fish out of salt water
 
 ## Doodle Notes
-1. [ ] DNotes: Natural Selection
-2. [ ] DNotes: Natural Selection Types DNotes
-3. [ ] DNotes: Population Genetics
-4. [ ] DNotes: Hardy-Weinberg Equilibrium
-5. [ ] DNotes: Mechanisms of Evolution 1
-6. [ ] DNotes: Mechanisms of Evolution 2
-7. [ ] DNotes: Evidence for Evolution
-8. [ ] DNotes: Comparative Genomics
-9. [ ] DNotes: Antibiotic Resistance
-10. [ ] DNotes: Speciation
+1. [ ] Natural Selection
+2. [ ] Natural Selection Types DNotes
+3. [ ] Population Genetics
+4. [ ] Hardy-Weinberg Equilibrium
+5. [ ] Mechanisms of Evolution 1
+6. [ ] Mechanisms of Evolution 2
+7. [ ] Evidence for Evolution
+8. [ ] Comparative Genomics
+9. [ ] Antibiotic Resistance
+10. [ ] Speciation
 
 ## POGILs
 1. [ ] POGIL: Selection & Speciation
