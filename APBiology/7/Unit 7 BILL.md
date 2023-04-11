@@ -11,8 +11,8 @@
 1. [ ] Natural Selection and Evolution of Rock Pocket Mouse Populations (HHMI)
 2. [ ] Developing an Explanation for Mouse Fur Color (HHMI)
 3. [ ] Allele and Phenotype Frequencies in Rock Pocket Mouse Populations (HHMI)
-4. [ ] Making Cladograms **MISSING**
-5. [ ] Artificial Selection **MISSING**
+4. [ ] Making Cladograms
+5. [ ] Artificial Selection
 
 ## Bell Ringers
 1. [ ] Natural Selection in Giraffes
