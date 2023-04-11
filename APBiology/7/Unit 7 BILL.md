@@ -39,7 +39,7 @@
 10. [ ] Speciation
 
 ## POGILs
-1. [ ] Selection & Speciation
+1. [ ] Selection & Speciation **MISSING**
 
 ## Worksheets
 1. [ ] Hardy-Weinberg Equilibrium
