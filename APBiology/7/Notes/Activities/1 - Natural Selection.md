@@ -1,0 +1,3 @@
+| Mc1r Gene Missense Mutation |     | Pinacate Light Mouse Population | Pinacate Dark Mouse Population | Kenzin Dark Mouse Population | Armendaris Dark Mouse Population | Carrizozo Dark Mouse Population |
+| --------------------------- | --- | ------------------------------- | ------------------------------ | ---------------------------- | -------------------------------- | ------------------------------- |
+| 018                         | mRN    |                                 |                                |                              |                                  |                                 |
