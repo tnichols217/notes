@@ -19,4 +19,5 @@
 4. Gene flow: literally just a fancy word for migration
    Genetic drift: When the population is small enough that it could just change by chance
    Mutation: A random change in the DNA of something, making new genes available to the population.
-   Non-random mating: a trait or f
+   Non-random mating: a trait or factor that increases likelihood that a particular specimen will reproduce
+5. 
