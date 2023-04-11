@@ -4,7 +4,6 @@
 3. [ ] Test topics
 4. [ ] Unit summary
 5. [ ] Official AP Biology unit summary
-6. [ ] Topic review guide **MISSING**
 
 # Activity log:
 ## Activities
@@ -39,7 +38,7 @@
 10. [ ] Speciation
 
 ## POGILs
-1. [ ] Selection & Speciation **MISSING**
+1. [ ] Selection & Speciation
 
 ## Worksheets
 1. [ ] Hardy-Weinberg Equilibrium
