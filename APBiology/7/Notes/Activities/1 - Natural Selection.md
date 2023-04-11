@@ -7,4 +7,7 @@
 | 160                         | mRNA       | CGG                             | UGG                            | CGG                          | CGG                              | CGG                             |
 |                             | Amino Acid | Arg                             | Trp                            | Arg                          | Arg                              | Arg                             |
 | 233                         | mRNA       | CAA                             | CAC                            | CAA                          | CAA                              | CAA                             |
-|                             | Amino Acid | Gln                             | His                            | Gln                             |                                  |                                 |
+|                             | Amino Acid | Gln                             | His                            | Gln                          | Gln                              | Gln                             | 
+
+## Questions
+1. Having color-matched fur with mi
