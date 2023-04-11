@@ -8,27 +8,27 @@
 
 # Activity log:
 1. [ ] Activity: Natural Selection and Evolution of Rock Pocket Mouse Populations (HHMI)
-2. [ ] Natural Selection Dnotes
-3. [ ] Bell Ringer: Natural Selection in Giraffes
 4. [ ] Activity: Developing an Explanation for Mouse Fur Color (HHMI)
-5. [ ] Natural Selection Types DNotes
-6. [ ] Bell Ringer: Evolutionary Scientists
-7. [ ] Case Study 1: Peppered Moth
-8. [ ] Article Reading: Artificial Selection
-9. [ ] Bell Ringer: Survival of the Fittest
-10. [ ] Population Genetics DNotes
-11. [ ] Hardy-Weinberg Equilibrium DNotes
-12. [ ] Hardy-Weinberg Equilibrium Practice Worksheets
-13. [ ] Bell Ringer: Furry Evolution FRQ
 14. [ ] Activity: Allele and Phenotype Frequencies in Rock Pocket Mouse Populations (HHMI)
-15. [ ] Mechanisms of Evolution 1 DNotes
-16. [ ] Mechanisms of Evolution 2 DNotes
-17. [ ] Evidence for Evolution DNotes
-18. [ ] Comparative Genomics DNotes (filled version)
+24. [ ] Activity: Making Cladograms
+3. [ ] BR: Natural Selection in Giraffes
+6. [ ] BR: Evolutionary Scientists
+9. [ ] BR: Survival of the Fittest
+2. [ ] DNotes: Natural Selection
+5. [ ] DNotes: Natural Selection Types DNotes
+7. [ ] Case Study: Peppered Moth
+8. [ ] Article Reading: Artificial Selection
+10. [ ] DNotes: Population Genetics
+11. [ ] DNotes: Hardy-Weinberg Equilibrium
+12. [ ] Worksheet: Hardy-Weinberg Equilibrium
+13. [ ] Bell Ringer: Furry Evolution FRQ
+15. [ ] DNotes: Mechanisms of Evolution 1
+16. [ ] DNotes: Mechanisms of Evolution 2
+17. [ ] DNotes: Evidence for Evolution
+18. [ ] DNotes: Comparative Genomics
 19. [ ] Bell Ringer: Mechanisms of Evolution
 20. [ ] Case Study: Fish out of salt water
-21. [ ] POGIL Worksheet: Selection & Speciation
-22. [ ] Antibiotic Resistance DNotes
-23. [ ] Speciation DNotes
-24. [ ] Activity: Making Cladograms
+21. [ ] POGIL: Selection & Speciation
+22. [ ] DNotes: Antibiotic Resistance
+23. [ ] DNotes: Speciation
 25. [ ] Bell Ringer: Constructing a Phylogenetic Tree
