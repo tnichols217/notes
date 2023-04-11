@@ -4,15 +4,15 @@
 3. [ ] Test topics
 4. [ ] Unit summary
 5. [ ] Official AP Biology unit summary
-6. [ ] Topic review guide
+6. [ ] Topic review guide **MISSING**
 
 # Activity log:
 ## Activities
-1. [ ] Activity: Natural Selection and Evolution of Rock Pocket Mouse Populations (HHMI)
-2. [ ] Activity: Developing an Explanation for Mouse Fur Color (HHMI)
-3. [ ] Activity: Allele and Phenotype Frequencies in Rock Pocket Mouse Populations (HHMI)
-4. [ ] Activity: Making Cladograms
-5. [ ] Activity: Artificial Selection
+1. [ ] Natural Selection and Evolution of Rock Pocket Mouse Populations (HHMI)
+2. [ ] Developing an Explanation for Mouse Fur Color (HHMI)
+3. [ ] Allele and Phenotype Frequencies in Rock Pocket Mouse Populations (HHMI)
+4. [ ] Making Cladograms **MISSING**
+5. [ ] Artificial Selection **MISSING**
 
 ## Bell Ringers
 1. [ ] Natural Selection in Giraffes
@@ -39,7 +39,7 @@
 10. [ ] Speciation
 
 ## POGILs
-1. [ ] POGIL: Selection & Speciation
+1. [ ] Selection & Speciation
 
 ## Worksheets
-1. [ ] Worksheet: Hardy-Weinberg Equilibrium
+1. [ ] Hardy-Weinberg Equilibrium
