@@ -7,5 +7,5 @@
 | Disruptive selection  |                                                                                                                      |
 | Directional selection |                                                                                                                      |
 | Artificial selection  | Brassica oleracea can be bred to create a host of vegetable types such as broccoli, cauliflower and Brussels sprouts |
-| Stabilizing selection |                                                                                                                      |
+| Stabilizing selection | A tendency for a population mean to also become the mode                                                             |
 | Gene flow             | New individuals migrate to an island bringing their own genes                                                        |
