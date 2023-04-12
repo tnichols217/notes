@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ff4d28e3473be172",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/7/Notes/Activities/5 - Artificial Selection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -162,8 +150,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "85384782f525ed9f",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "APBiology/7/Documents/Article Reading/1 - Natural Selection vs Article Selection.docx",
+    "APBiology/7/Documents/Article Reading/5 - Natural Selection vs Article Selection.docx",
+    "APBiology/7/Documents/Article Reading",
     "APBiology/7/Notes/Activities/5 - Artificial Selection.md",
     "APBiology/7/Unit 7 BILL.md",
     "APBiology/7/Notes/Activities/4 - Making Cladograms.md",
@@ -182,8 +173,6 @@
     "APBiology/7/Notes/BILL Packet",
     "APBiology/7/Notes/Bell Ringer",
     "APBiology/7/Notes/Activities",
-    "APBiology/8/Notes/POGIL",
-    "APBiology/8/Notes/Doodle Notes",
     "APBiology/6/Unit 6 BILL.md",
     "APArt/Piece Descriptions.md",
     "APArt/Portfolio notes.md",
@@ -200,7 +189,6 @@
     "APBiology/6/Notes/POGILs/1 - Gene Expression - Translation.md",
     "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
     "APBiology/6/Notes/Worksheets/2 - Big protein synthesis foldable.md",
-    "APBiology/5/Unit 5 BILL.md",
     "APBiology/6/Notes/Case Study/attachments/Pasted image 20230306204540.png",
     "APBiology/6/Notes/Case Study/attachments/Pasted image 20230306204324.png"
   ]

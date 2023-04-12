@@ -18,7 +18,11 @@ date created: 2023-04-12 22:45
 2. [x] Developing an Explanation for Mouse Fur Color (HHMI)
 3. [x] Allele and Phenotype Frequencies in Rock Pocket Mouse Populations (HHMI)
 4. [ ] Making Cladograms
+
+## Article Reading
+
 5. [ ] Artificial Selection
+6. 
 
 ## Bell Ringers
 
