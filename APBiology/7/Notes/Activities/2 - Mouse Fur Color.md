@@ -22,7 +22,9 @@
 >> Individuals in a population or group differ in some trait of interest.
 >
 >> [!col-md-2.5]
->> **Evidence**
+>> - Melaninism is a common mutation across many animals
+>> - Larger populations likely have 
+>> - Black mice exist in the population
 
 > [!col]
 >> [!col-md]
