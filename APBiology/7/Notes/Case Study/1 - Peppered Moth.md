@@ -13,4 +13,4 @@ date created: 2023-04-13 00:09
 ## Questions
 
 1. ![[APBiology/7/Notes/Case Study/1 - Peppered Moth/Table 1]]
-2. 
+2. Predation f
