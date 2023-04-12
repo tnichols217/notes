@@ -18,4 +18,5 @@ date updated: 2023-04-13 00:18
 
 # Part 3
 
-1.
+1. Non-matching moth and tree bark would attract more attention from birds
+2. Non-matching moth and tree bark would attract more attentio
