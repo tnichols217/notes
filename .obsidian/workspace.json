@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/Activities/5 - Artificial Selection.md",
+                "file": "APBiology/7/Unit 7 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/Activities/5 - Artificial Selection.md"
+                "file": "APBiology/7/Unit 7 BILL.md"
               }
             }
           },
@@ -162,10 +162,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ff4d28e3473be172",
+  "active": "85384782f525ed9f",
   "lastOpenFiles": [
-    "APBiology/7/Unit 7 BILL.md",
     "APBiology/7/Notes/Activities/5 - Artificial Selection.md",
+    "APBiology/7/Unit 7 BILL.md",
     "APBiology/7/Notes/Activities/4 - Making Cladograms.md",
     "APBiology/7/Notes/Activities/3 - Allele and Phenotype Frequencies in Rock Pocket Mouse.md",
     "APBiology/7/Notes/Activities/2 - Mouse Fur Color/Table 1.md",
