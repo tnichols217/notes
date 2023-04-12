@@ -27,10 +27,14 @@ date created: 2023-04-12 23:24
 | Canine teeth short Foramen magnum fwd | ✅     |               |          |                 |          |      |         |
 
 ```
-       /- Human
-       /- Rhesus Monkey
+             /- Human
+            /
+           /- Rhesus Monkey
+          /
          /- Kangaroo
+        /
        /- Snapping Turtle
+      /
      /- Bullfrog
     /
    /- Tuna
