@@ -15,4 +15,5 @@ date updated: 2023-04-12 22:25
 
 1. $q = 0.5$ because $q^2=4/16=0.25$ therefore $q=0.5$
 2. $q=0.4$ because $p+q=1$ and $p=0.6$
-3. $p^2=0.04$ because $q^2=640/1000=0.64\therefore q=0.8$ and $p+q=1\therefore $ 
+3. $p^2=0.04$ because $q^2=640/1000=0.64\therefore q=0.8$ and $p+q=1\therefore p=0.2$
+4. 
