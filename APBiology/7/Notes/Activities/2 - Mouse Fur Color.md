@@ -8,11 +8,21 @@
 >> [!col-md]
 >> **Condition**
 >
->> [!col-md]
+>> [!col-md-1.5]
 >> **Description**
 >
-><
+>> [!col-md-2]
+>> **Evidence**
 
+> [!col]
+>> [!col-md]
+>> Variation
+>
+>> [!col-md-1.5]
+>> **Description**
+>
+>> [!col-md-2]
+>> **Evidence**
 
 
 | Condition                              | Description                                                                                                                                                                                                                                                                                                                                                                                                               | Evidence |
