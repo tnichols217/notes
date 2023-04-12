@@ -1,6 +1,6 @@
 ---
 date created: 2023-04-13 00:09
-date updated: 2023-04-13 00:25
+date updated: 2023-04-13 00:36
 ---
 
 # Part 1
@@ -31,5 +31,6 @@ date updated: 2023-04-13 00:25
 3. Yes, it should have some evidence that light moths are being selected for after seeing the data.
 
 # Part 5
+
 1. Birds with shorter wings probably can move faster, and avoid cars coming at them, leading them to have a selective advantage, which can be seen in the population at large
-2. Watch birds with cameras to see if there are many car avoidances from short winged birds.
+2. Watch birds with cameras to see if there is car avoidance from short winged birds.

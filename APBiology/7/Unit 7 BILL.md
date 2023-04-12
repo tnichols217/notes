@@ -35,7 +35,7 @@ date updated: 2023-04-12 23:37
 
 ## Case Studies
 
-1. [ ] Peppered Moth
+1. [x] Peppered Moth
 2. [ ] Fish out of salt water
 
 ## Doodle Notes
