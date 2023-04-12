@@ -25,5 +25,5 @@
 2. Basically the same data as above ^
 3. We have to be more ethical when dealing with humans, so we cannot conduct controlled experiments and rather only observational, which means we cannot prove causation, but only correlation.
 	1. Ethics
-	2. No controlled experiments
-	3. 
+	2. Humans live much longer, meaning the generational gap will be much larger
+	3. Humans don't really have predators or impacted chances of survivals from nature
