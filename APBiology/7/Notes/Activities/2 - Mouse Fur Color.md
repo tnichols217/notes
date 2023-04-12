@@ -35,7 +35,8 @@
 >
 >> [!col-md-2.5]
 >> - Melaninism is a genetic mutation, meaning it is genetically inheritable
->> - Fur color 
+>> - Fur color is governed by genetics
+>> - Mutations in genetics are inheritable
 
 > [!col]
 >> [!col-md]
@@ -45,7 +46,7 @@
 >> More offspring are born than can survive, resulting in competition among individuals within a population. Some individuals with a particular trait are more likely to survive and/or have relatively more offspring compared to individuals that do not have that trait. Selection depends on the specific context of a species. Traits that are beneficial in one environment may cause problems in another environment.
 >
 >> [!col-md-2.5]
->> **Evidence**
+>> - Mice likely do not have a sexual preference when it comes to hair co
 
 > [!col]
 >> [!col-md]
