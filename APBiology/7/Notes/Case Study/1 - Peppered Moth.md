@@ -20,4 +20,5 @@ date updated: 2023-04-13 00:18
 
 1. Non-matching moth and tree bark would attract more attention from birds
 2. Non-matching moth and tree bark would attract more attention from humans
-3. No, because the way birds see and experience vision is very di
+3. No, because the way birds see and experience vision is very different from humans, and they also are not at a standstill and looking for moths whom are told exist
+4. Its non-independent since the same birds are used across different times, and may have a memory o
