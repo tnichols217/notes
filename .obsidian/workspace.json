@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/Case Study/2 - Fish out of salt water/Table 1.md",
+                "file": "APBiology/7/Notes/Case Study/2 - Fish out of salt water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/Case Study/2 - Fish out of salt water/Table 1.md"
+                "file": "APBiology/7/Notes/Case Study/2 - Fish out of salt water.md"
               }
             }
           },
@@ -174,10 +174,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "47b6602f8c258380",
+  "active": "8d107d5b09aebf6e",
   "lastOpenFiles": [
-    "APBiology/7/Notes/Case Study/2 - Fish out of salt water.md",
     "APBiology/7/Notes/Case Study/2 - Fish out of salt water/Table 1.md",
+    "APBiology/7/Notes/Case Study/2 - Fish out of salt water.md",
     "APBiology/7/Notes/Case Study/2 - Fish out of salt water",
     "APBiology/7/Notes/Case Study/attachments/Pasted image 20230413004037.png",
     "APBiology/7/Notes/Case Study/attachments/Pasted image 20230413003954.png",
