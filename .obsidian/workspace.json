@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16b6f7f1093111ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/7/Notes/Bell Ringer/1 - Natural Selection in Giraffes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Unit 7 BILL.md",
+                "file": "APBiology/7/Notes/Bell Ringer/1 - Natural Selection in Giraffes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Unit 7 BILL.md"
+                "file": "APBiology/7/Notes/Bell Ringer/1 - Natural Selection in Giraffes.md"
               }
             }
           },
@@ -150,13 +162,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "16b6f7f1093111ee",
   "lastOpenFiles": [
+    "APBiology/7/Unit 7 BILL.md",
+    "APBiology/7/Notes/Bell Ringer/1 - Natural Selection in Giraffes.md",
     "APBiology/7/Documents/Article Reading/1 - Natural Selection vs Article Selection.docx",
     "APBiology/7/Documents/Article Reading/5 - Natural Selection vs Article Selection.docx",
     "APBiology/7/Documents/Article Reading",
     "APBiology/7/Notes/Activities/5 - Artificial Selection.md",
-    "APBiology/7/Unit 7 BILL.md",
     "APBiology/7/Notes/Activities/4 - Making Cladograms.md",
     "APBiology/7/Notes/Activities/3 - Allele and Phenotype Frequencies in Rock Pocket Mouse.md",
     "APBiology/7/Notes/Activities/2 - Mouse Fur Color/Table 1.md",
@@ -172,7 +185,6 @@
     "APBiology/7/Notes/Case Study",
     "APBiology/7/Notes/BILL Packet",
     "APBiology/7/Notes/Bell Ringer",
-    "APBiology/7/Notes/Activities",
     "APBiology/6/Unit 6 BILL.md",
     "APArt/Piece Descriptions.md",
     "APArt/Portfolio notes.md",
