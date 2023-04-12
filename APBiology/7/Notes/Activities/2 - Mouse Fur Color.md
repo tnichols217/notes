@@ -23,8 +23,8 @@
 >
 >> [!col-md-2.5]
 >> - Melaninism is a common mutation across many animals
->> - Larger populations likely have 
->> - Black mice exist in the population
+>> - Larger populations probably have some dark colored mice due to the common-ness of melaninism
+>> - Black mice likely exist in the population
 
 > [!col]
 >> [!col-md]
@@ -34,7 +34,8 @@
 >> The variation in the trait of interest is at least partially inherited (passed from parents to offspring). The variation stems from random mutations and the recombination that accompanies sexual reproduction. The genetic variation may have arisen many generations in the past.
 >
 >> [!col-md-2.5]
->> **Evidence**
+>> - Melaninism is a genetic mutation, meaning it is genetically inheritable
+>> - Fur color 
 
 > [!col]
 >> [!col-md]
