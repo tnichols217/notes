@@ -56,4 +56,6 @@ Shows
 
 ## Application
 
-1. 
+1. Iguana: near the turtle as they share prior characteristics
+2. Rat: Near the monkey
+3. Goldfish: Near the tuna
