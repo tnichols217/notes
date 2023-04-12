@@ -21,4 +21,4 @@
 10. - *(see above)*
 
 ## Apply what you learned
-1. We would need to collect evidence that proves the claim that light fur is more prevalent in light areas and that dark fur is more prevalent in dark areas. Then we can look for variation across the two populations to see if th
+1. We would need to collect evidence that proves the claim that light fur is more prevalent in light areas and that dark fur is more prevalent in dark areas. Then we can look for variation across the two populations to see if the other variant exists in their non-respective environment. This will prove that there is variation across the population. Then, we will need to prove that fur color for these mice is inhe
