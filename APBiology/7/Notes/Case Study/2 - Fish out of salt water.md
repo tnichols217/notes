@@ -14,3 +14,6 @@ date updated: 2023-04-13 00:41
 
 1. maybe like 7, because most things should remain similar across the same species but some things would be different due to different environmental pressures
 2. ![[APBiology/7/Notes/Case Study/2 - Fish out of salt water/Table 1]]
+3. 6.6, no not really
+4. about 20
+5. 
