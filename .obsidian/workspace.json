@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "e6e590ec7489d924",
+            "id": "3606ad44ed63d131",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/6 - Mechanisms of Evolution.md",
+                "file": "APBiology/7/Notes/Case Study/1 - Peppered Moth.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/6 - Mechanisms of Evolution.md",
+                "file": "APBiology/7/Notes/Case Study/1 - Peppered Moth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/6 - Mechanisms of Evolution.md"
+                "file": "APBiology/7/Notes/Case Study/1 - Peppered Moth.md"
               }
             }
           },
@@ -162,9 +162,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e6e590ec7489d924",
+  "active": "3606ad44ed63d131",
   "lastOpenFiles": [
     "APBiology/7/Unit 7 BILL.md",
+    "APBiology/7/Notes/Case Study/1 - Peppered Moth.md",
     "APBiology/7/Notes/Bell Ringer/6 - Mechanisms of Evolution.md",
     "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md",
     "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree/Table 1.md",
@@ -200,7 +201,6 @@
     "Private/college/Expenses.md",
     "church/Untitled.canvas",
     "BritLit/Screwtape Letters.md",
-    "BritLit/Final Prep.md",
     "APBiology/6/Notes/Case Study/attachments/Pasted image 20230306204540.png",
     "APBiology/6/Notes/Case Study/attachments/Pasted image 20230306204324.png"
   ]
