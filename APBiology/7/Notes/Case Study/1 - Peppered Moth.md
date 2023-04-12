@@ -26,4 +26,5 @@ date updated: 2023-04-13 00:25
 
 # Part 4
 
-1.
+1. ![[APBiology/7/Notes/Case Study/1 - Peppered Moth/Table 2]]
+2. $500*(1-0.18)=4$
