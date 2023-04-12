@@ -1,0 +1,1 @@
+1. The left bump (light color) would likely move to the right over time and decrease as t
