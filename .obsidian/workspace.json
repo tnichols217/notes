@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "47b6602f8c258380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/7/Notes/Case Study/2 - Fish out of salt water/Table 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/Case Study/2 - Fish out of salt water.md",
+                "file": "APBiology/7/Notes/Case Study/2 - Fish out of salt water/Table 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/Case Study/2 - Fish out of salt water.md"
+                "file": "APBiology/7/Notes/Case Study/2 - Fish out of salt water/Table 1.md"
               }
             }
           },
@@ -162,12 +174,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8d107d5b09aebf6e",
+  "active": "47b6602f8c258380",
   "lastOpenFiles": [
+    "APBiology/7/Notes/Case Study/2 - Fish out of salt water.md",
+    "APBiology/7/Notes/Case Study/2 - Fish out of salt water/Table 1.md",
+    "APBiology/7/Notes/Case Study/2 - Fish out of salt water",
     "APBiology/7/Notes/Case Study/attachments/Pasted image 20230413004037.png",
     "APBiology/7/Notes/Case Study/attachments/Pasted image 20230413003954.png",
     "APBiology/7/Unit 7 BILL.md",
-    "APBiology/7/Notes/Case Study/2 - Fish out of salt water.md",
     "APBiology/7/Notes/Case Study/1 - Peppered Moth.md",
     "APBiology/7/Notes/Case Study/1 - Peppered Moth/Table 2.md",
     "APBiology/7/Notes/Case Study/attachments/Pasted image 20230413001750.png",
@@ -200,7 +214,6 @@
     "Private/college/RD/Checklist.md",
     "APBiology/7/Notes/Worksheets",
     "APBiology/7/Notes/POGIL",
-    "APBiology/7/Notes/Doodle Notes",
     "APBiology/6/Unit 6 BILL.md",
     "APArt/Piece Descriptions.md",
     "APArt/Portfolio notes.md",
