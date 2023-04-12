@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree/Table 1.md",
+                "file": "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree/Table 1.md"
+                "file": "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md"
               }
             }
           },
@@ -174,10 +174,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0a1214e47f936bb1",
+  "active": "3bb064acfad6e74c",
   "lastOpenFiles": [
-    "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md",
     "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree/Table 1.md",
+    "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md",
     "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree",
     "APBiology/7/Unit 7 BILL.md",
     "APBiology/7/Notes/Bell Ringer/4 - Furry Evolution FRQ.md",
