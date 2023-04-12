@@ -27,4 +27,8 @@ date updated: 2023-04-13 00:25
 # Part 4
 
 1. ![[APBiology/7/Notes/Case Study/1 - Peppered Moth/Table 2]]
-2. $500*(1-0.18)=4$
+2. $500*(1-0.18)=410$
+3. Yes, it should have some evidence that light moths are being selected for after seeing the data.
+
+# Part 5
+1. 
