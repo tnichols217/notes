@@ -5,7 +5,7 @@
 3. 3
 
 > [!col]
->> [!col-md]
+>> [!col-md-0.5]
 >> **Condition**
 >
 >> [!col-md-1.5]
@@ -15,7 +15,7 @@
 >> **Evidence**
 
 > [!col]
->> [!col-md]
+>> [!col-md-0.5]
 >> Variation
 >
 >> [!col-md-1.5]
@@ -25,7 +25,7 @@
 >> **Evidence**
 
 > [!col]
->> [!col-md]
+>> [!col-md-0.5]
 >> Inheritance
 >
 >> [!col-md-1.5]
@@ -35,7 +35,7 @@
 >> **Evidence**
 
 > [!col]
->> [!col-md]
+>> [!col-md-0.5]
 >> Differential survival and reproduction
 >
 >> [!col-md-1.5]
@@ -45,7 +45,7 @@
 >> **Evidence**
 
 > [!col]
->> [!col-md]
+>> [!col-md-0.5]
 >> Adaption
 >
 >> [!col-md-1.5]
