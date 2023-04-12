@@ -31,4 +31,4 @@ date updated: 2023-04-13 00:25
 3. Yes, it should have some evidence that light moths are being selected for after seeing the data.
 
 # Part 5
-1. 
+1. Birds with shorter wings probably can move faster, and 
