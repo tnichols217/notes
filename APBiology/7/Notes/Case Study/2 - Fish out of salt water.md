@@ -34,4 +34,4 @@ date updated: 2023-04-13 01:14
 # Part 5
 
 1. The $F_{ST}$ would likely decrease as it readapts to the new environment, choosing alleles that would be better for for this environment through natural selection
-2. Its unlikely, but maybe they got flushe
+2. Its unlikely, but maybe they got flushed out of a river into the ocean. They would likely die because it takes generations to acclimate to such a different environment without easing into it.
