@@ -27,5 +27,12 @@ date created: 2023-04-12 23:24
 | Canine teeth short Foramen magnum fwd | ✅     |               |          |                 |          |      |         |
 
 ```
-
+       /
+      /
+     /
+    /
+   /- 
+  /- Tuna
+ /- Lamprey
+/
 ```
