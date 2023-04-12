@@ -36,4 +36,4 @@ date updated: 2023-04-12 22:45
 
 ## Part 3
 
-1. 
+1. As $s
