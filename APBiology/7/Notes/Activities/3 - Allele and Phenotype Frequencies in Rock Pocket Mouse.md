@@ -30,4 +30,4 @@ date updated: 2023-04-12 22:25
 	3. $DD=61\%$
 5. Dark colored, as on the light colored ground, there is still a whole 20% of dark colored mice, whilst on the dark ground, there is only 5% light colored mice. This likely means that dark ground has a higher pressure to have dark colored fur
 6. Their visibility to predators and therefore survival before reproduction
-7. 
+7. This shows that natural selection is nonrandom and can indeed happen similarly in two separate places individually. Similar factors will p
