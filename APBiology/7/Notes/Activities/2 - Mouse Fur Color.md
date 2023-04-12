@@ -62,5 +62,8 @@
 >> - Since dark fur is inheritable, its increased fitness will be more likely to pass on to the next generation
 >> - Over time, more mice will be dark furred as they are more fit for the environment
 
-4. 4
-5. 
+4. -
+5. -
+6. -
+7. -
+8. 
