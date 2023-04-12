@@ -58,7 +58,9 @@
 >> The frequency of the trait that helps individuals survive or leave more offspring will increase in the population over time, as will the alleles that affect the trait. This process can take many generations and extend over very long periods of time.
 >
 >> [!col-md-2.5]
->> - Dark mice are more likely to survive in d
+>> - Dark mice are more likely to survive in dark areas
+>> - Since dark fur is inheritable, its increased fitness will be more likely to pass on to the next generation
+>> - Over time, more mice will be dark furred as they are more fit for the environment
 
 4. 4
 5. 
