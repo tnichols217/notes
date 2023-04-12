@@ -32,7 +32,7 @@
 >> The variation in the trait of interest is at least partially inherited (passed from parents to offspring). The variation stems from random mutations and the recombination that accompanies sexual reproduction. The genetic variation may have arisen many generations in the past.
 >
 >> [!col-md-2]
->> **Evidence
+>> **Evidence**
 
 > [!col]
 >> [!col-md]
@@ -42,13 +42,17 @@
 >> More offspring are born than can survive, resulting in competition among individuals within a population. Some individuals with a particular trait are more likely to survive and/or have relatively more offspring compared to individuals that do not have that trait. Selection depends on the specific context of a species. Traits that are beneficial in one environment may cause problems in another environment.
 >
 >> [!col-md-2]
->> **Evidence
+>> **Evidence**
 
-| Condition   | Description                                                                                                                                                                                                                                               | Evidence |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
-| Variation   | Individuals in a population or group differ in some trait of interest.                                                                                                                                                                                    |          |
-| Inheritance |                                                                                                                                                                                                                                                           |          |
-|             |                                                                                                                                                                                                                                                           |          |
-| Adaption    | The frequency of the trait that helps individuals survive or leave more offspring will increase in the population over time, as will the alleles that affect the trait. This process can take many generations and extend over very long periods of time. |          |
+> [!col]
+>> [!col-md]
+>> Adaption
+>
+>> [!col-md-1.5]
+>> The frequency of the trait that helps individuals survive or leave more offspring will increase in the population over time, as will the alleles that affect the trait. This process can take many generations and extend over very long periods of time.
+>
+>> [!col-md-2]
+>> **Evidence**
+
 4. 4
 5. 
