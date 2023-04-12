@@ -30,7 +30,7 @@ date updated: 2023-04-12 23:37
 2. [x] Evolutionary Scientists
 3. [x] Survival of the Fittest
 4. [x] Furry Evolution FRQ
-5. [ ] Constructing a Phylogenetic Tree
+5. [x] Constructing a Phylogenetic Tree
 6. [ ] Mechanisms of Evolution
 
 ## Case Studies
