@@ -12,4 +12,4 @@
 	3. Variation, this shows that in a larger population there will likely be genetic variation within the population. Additionally, this shows the effects of natural selection through selective fitness, because similar skinned furs hold a higher percentage in their respective environments.
 8. Fur color is effected by the genotype of the MC1R gene. Additionally, the more of allele 2 there are, the more likely the mouse is to have dark fur. Heterozygous mice tend to have fur inbetween light and dark on average.
 	1. Yes, since there is a significant difference between the strata, this shows that the fur color is in part governed by this gene and is therefore inherited. The spread of each strata is miniscule compared to the differences in percent reflectance across strata.
-9. Figure 4 shows a correlation between the frequency of the MC1R allale 2 and frequency of black mice in a population by co
+9. *Figure 4* shows a correlation between the frequency of the MC1R allale 2 and frequency of black mice in a population by comparing it to *Figure 2*. Their visual similarities - the similar peaks in dark mice with peaks in allele 2 frequency show that there is a correl
