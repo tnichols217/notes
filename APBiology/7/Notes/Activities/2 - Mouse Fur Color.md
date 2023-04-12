@@ -11,4 +11,5 @@
 	2. Only the Tule Well, Lava (East), and the O'Neill Pass. this is more likely because the sample size for these populations are larger
 	3. Variation, this shows that in a larger population there will likely be genetic variation within the population. Additionally, this shows the effects of natural selection through selective fitness, because similar skinned furs hold a higher percentage in their respective environments.
 8. Fur color is effected by the genotype of the MC1R gene. Additionally, the more of allele 2 there are, the more likely the mouse is to have dark fur. Heterozygous mice tend to have fur inbetween light and dark on average.
-	1. Yes, since there is a significant difference between the strata, this shows that the fur color is in part governed by this gene and is therefore inherited. The spread of each strata is m
+	1. Yes, since there is a significant difference between the strata, this shows that the fur color is in part governed by this gene and is therefore inherited. The spread of each strata is miniscule compared to the differences in percent reflectance across strata.
+9. 
