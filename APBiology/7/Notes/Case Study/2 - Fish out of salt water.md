@@ -22,4 +22,5 @@ date updated: 2023-04-13 00:41
 # Part 3
 
 1. Organelles within the cells of the respective fish, since they may be required to work at different pH levels
-2. The genome that would code for the cell walls, or proteins that would aid moving molecules across it, as they may differ in the way they deal with p
+2. The genome that would code for the cell walls, or proteins that would aid moving molecules across it, as they may differ in the way they deal with high or low pH molecules
+3. 
