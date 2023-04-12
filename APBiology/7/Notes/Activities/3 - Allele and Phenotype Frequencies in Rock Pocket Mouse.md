@@ -28,4 +28,4 @@ date updated: 2023-04-12 22:25
 	1. $dd=5\%$
 	2. $Dd=34\%$
 	3. $DD=61\%$
-5. 
+5. Dark colored, as on the light colored ground, there is still a whole 20% of dark colored mice, whilst on the dark ground, there is only 5% light colored mice.
