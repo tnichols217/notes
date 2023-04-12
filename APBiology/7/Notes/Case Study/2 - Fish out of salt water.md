@@ -21,4 +21,5 @@ date updated: 2023-04-13 00:41
 
 # Part 3
 
-1. 
+1. Organelles within the cells of the respective fish, since they may be required to work at different pH levels
+2. 
