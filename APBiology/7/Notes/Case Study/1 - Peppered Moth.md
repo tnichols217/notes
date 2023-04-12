@@ -12,4 +12,5 @@ date created: 2023-04-13 00:09
 # Part 2
 ## Questions
 
-1. 
+1. ![[APBiology/7/Notes/Case Study/1 - Peppered Moth/Table 1]]
+2. 
