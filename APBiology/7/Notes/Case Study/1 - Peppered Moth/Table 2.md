@@ -1,2 +1,6 @@
-| Year | Light morphs released | Light morphs eaten | $w_{light}$ | $s_{light}$ | Dark morphs released | Dark morphs eaten | $w_{dark}$ | $s_{dark}    |
-| ---- | --------------------- | ------------------ | ----------- | ----------- | -------------------- | ----------------- | ---------- | --- |
+| Year | Light morphs released | Light morphs eaten | $w_{light}$ | $s_{light}$ | Dark morphs released | Dark morphs eaten | $w_{dark}$ | $s_{dark}$ |
+| ---- | --------------------- | ------------------ | ----------- | ----------- | -------------------- | ----------------- | ---------- | ---------- |
+| 2002 | 706                   | 162                |             |             | 101                  | 32                |            |            |
+| 2003 | 731                   | 204                |             |             | 82                   | 24                |            |            |
+| 2004 | 751                   | 128                |             |             | 53                   | 17                |            |            |
+| 2005 | 763                   | 166                |             |             | 58                   | 18                |            |            |
