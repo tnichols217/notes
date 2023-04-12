@@ -66,5 +66,10 @@
 5. -
 6. -
 7. 7
-	1. 
-2. 
+	1. a
+| Population | Christmas Pass | Tule Well | Lava (West) | Lava (Mid) | Lava (East) | O'Neill Pass |
+| ---------- | -------------- | --------- | ----------- | ---------- | ----------- | ------------ |
+| Soil color | Light          | Light     | Dark        | Dark       | Dark        | Light        |
+| Nuy           |                |           |             |            |             |              |
+
+1. 
