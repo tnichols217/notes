@@ -28,17 +28,17 @@ date created: 2023-04-12 23:24
 
 ```
              /- Human
-            /        (F)
+            /                (Foramen magnum fwd)
            /- Rhesus Monkey
-          /        (Placenta)
+          /                (Placenta)
          /- Kangaroo
-        /        (Mammary Glands)
+        /                (Mammary Glands)
        /- Snapping Turtle
-      /        (Amnion)
+      /                (Amnion)
      /- Bullfrog
-    /        (Paired Legs)
+    /                (Paired Legs)
    /- Tuna
-  /        (Paired Appendages)
+  /                 (Paired Appendages)
  /- Lamprey
-/        (Dorsal Nerve)
+/                 (Dorsal Nerve)
 ```
