@@ -16,4 +16,9 @@ date updated: 2023-04-13 00:41
 2. ![[APBiology/7/Notes/Case Study/2 - Fish out of salt water/Table 1]]
 3. 6.6, no not really
 4. about 20
-5. I would say it is quite close as it would all tend 
+5. I would say it is quite close as it would all tend towards similar phenotypes in a similar environment anyway
+6. Less natural selection would happen because there are less things to select from
+
+# Part 3
+
+1. 
