@@ -13,4 +13,5 @@ date created: 2023-04-13 00:09
 ## Questions
 
 1. ![[APBiology/7/Notes/Case Study/1 - Peppered Moth/Table 1]]
-2. Predation f
+2. Predation from other species, like animals that do not rely on sight for food and instead use things like sound, temperature, or echolocation.
+3. 
