@@ -28,4 +28,4 @@ date updated: 2023-04-13 00:41
 
 # Part 4
 
-1. 
+1. High $F_{ST}$ likely means th
