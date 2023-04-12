@@ -8,4 +8,4 @@
 | Directional selection |                                                                                                                      |
 | Artificial selection  | Brassica oleracea can be bred to create a host of vegetable types such as broccoli, cauliflower and Brussels sprouts |
 | Stabilizing selection |                                                                                                                      |
-| Gene flow             |                                                                                                                      |
+| Gene flow             | New individuals migrate to an island bringing their own genes                                                        |
