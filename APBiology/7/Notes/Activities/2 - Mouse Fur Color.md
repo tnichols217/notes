@@ -1,4 +1,4 @@
-#
+## Procedure
 1. -
 2. 2
 	1. Since we have previously established that menanism is quite a common mutation, it is also likely to have happened to atleast some of the population of rock pocket mice in this area, meaning that a dark fur phenotype exists in this population. Melaninism is also a genetically inherited trait, meaning that such mutations can be passed down to children. Since there is a nearby environment with dark surroundings (the dark rocks) the dark fur of the dark fur mutation mice will have a higher chance of surviving in the area because they will be harder to spot and predate upon. This will give a natural selective pressure towards the darker furred mice. Over time, with this selective pressure, most of the mice living on the dark rocks will have the dark fur.
@@ -16,4 +16,4 @@
 9. *Figure 4* shows a correlation between the frequency of the MC1R allale 2 and frequency of black mice in a population by comparing it to *Figure 2*. Their visual similarities - the similar peaks in dark mice with peaks in allele 2 frequency show that there is a correlation between the two. Since we know that having dark fur cannot influence the genetic information of the mice, we can say that the MC1R gene causes in part the dark fur of the mice. This contributes to natural selection because the MC1R allele 2 is inheritable through its genetic code.
 10. - *(see above)*
 
-## 
+## Apply what you learned
