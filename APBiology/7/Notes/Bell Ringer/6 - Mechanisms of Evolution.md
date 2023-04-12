@@ -1,8 +1,8 @@
 | Term                  | Definition                                                                                                           |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Bottleneck effect     | Small populations are at higher risk for random genetic factors                                                      |
-| Genetic drift         |                                                                                                                      |
-| Founder effect        |                                                                                                                      |
+| Genetic drift         | Cheetahs have little genetic variation due to dwindling populations                                                  |
+| Founder effect        | Dutch-descended S. Africans have a high rate of Huntington’s disease                                                 |
 | Natural selection     | Differential reproductive success; ‘survival of the fittest’                                                         |
 | Disruptive selection  |                                                                                                                      |
 | Directional selection |                                                                                                                      |
