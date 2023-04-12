@@ -29,4 +29,4 @@ date updated: 2023-04-13 00:41
 # Part 4
 
 1. High $F_{ST}$ likely means that there is a difference in those genes
-2. 
+2. Maybe the way that solutes around the cell wo
