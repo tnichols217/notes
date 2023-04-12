@@ -1,6 +1,6 @@
 ---
 date created: 2023-04-12 23:24
-date updated: 2023-04-12 23:31
+date updated: 2023-04-12 23:32
 ---
 
 ## Data Table
@@ -46,4 +46,12 @@ date updated: 2023-04-12 23:31
 /                 (Dorsal Nerve)
 ```
 
-## 
+## Summary
+
+Shows
+
+1. Likely relationships
+2. Possible common ancestors and origins of characteristic
+3. Shared characteristics
+
+#
