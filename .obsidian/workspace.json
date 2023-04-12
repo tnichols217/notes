@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "700fe4f274344d63",
+            "id": "3bb064acfad6e74c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/4 - Furry Evolution FRQ.md",
+                "file": "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/4 - Furry Evolution FRQ.md",
+                "file": "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/4 - Furry Evolution FRQ.md"
+                "file": "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md"
               }
             }
           },
@@ -162,9 +162,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "700fe4f274344d63",
+  "active": "3bb064acfad6e74c",
   "lastOpenFiles": [
     "APBiology/7/Unit 7 BILL.md",
+    "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md",
     "APBiology/7/Notes/Bell Ringer/4 - Furry Evolution FRQ.md",
     "APBiology/7/Notes/Bell Ringer/3 - Survival of the Fittest.md",
     "APBiology/7/Notes/Bell Ringer/2 - Evolutionary Scientists.md",
@@ -200,7 +201,6 @@
     "BritLit/Final Prep.md",
     "APBiology/6/Notes/Bell Ringer/1 - Prokaryotic Gene Regulation.md",
     "APBiology/6/Notes/Bell Ringer/2 - Eukaryotic Gene Regulation.md",
-    "APBiology/6/Notes/Case Study/1 - The Mona Lisa Molecule.md",
     "APBiology/6/Notes/Case Study/attachments/Pasted image 20230306204540.png",
     "APBiology/6/Notes/Case Study/attachments/Pasted image 20230306204324.png"
   ]

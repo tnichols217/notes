@@ -29,7 +29,7 @@ date updated: 2023-04-12 23:37
 1. [x] Natural Selection in Giraffes
 2. [x] Evolutionary Scientists
 3. [x] Survival of the Fittest
-4. [ ] Furry Evolution FRQ
+4. [x] Furry Evolution FRQ
 5. [ ] Constructing a Phylogenetic Tree
 6. [ ] Mechanisms of Evolution
 
