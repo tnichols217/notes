@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3bb064acfad6e74c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a1214e47f936bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree/Table 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md",
+                "file": "APBiology/7/Unit 7 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md"
+                "file": "APBiology/7/Unit 7 BILL.md"
               }
             }
           },
@@ -174,16 +150,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3bb064acfad6e74c",
+  "active": "85384782f525ed9f",
   "lastOpenFiles": [
-    "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree/Table 1.md",
     "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md",
+    "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree/Table 1.md",
+    "APBiology/7/Notes/Bell Ringer/1 - Natural Selection in Giraffes.md",
+    "APBiology/7/Notes/Bell Ringer/2 - Evolutionary Scientists.md",
+    "APBiology/7/Notes/Bell Ringer/3 - Survival of the Fittest.md",
+    "APBiology/7/Notes/Bell Ringer/4 - Furry Evolution FRQ.md",
     "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree",
     "APBiology/7/Unit 7 BILL.md",
-    "APBiology/7/Notes/Bell Ringer/4 - Furry Evolution FRQ.md",
-    "APBiology/7/Notes/Bell Ringer/3 - Survival of the Fittest.md",
-    "APBiology/7/Notes/Bell Ringer/2 - Evolutionary Scientists.md",
-    "APBiology/7/Notes/Bell Ringer/1 - Natural Selection in Giraffes.md",
     "APBiology/7/Documents/Article Reading/1 - Natural Selection vs Article Selection.docx",
     "APBiology/7/Documents/Article Reading/5 - Natural Selection vs Article Selection.docx",
     "APBiology/7/Documents/Article Reading",
