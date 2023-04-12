@@ -1,6 +1,6 @@
 ---
 date created: 2023-04-13 00:37
-date updated: 2023-04-13 00:41
+date updated: 2023-04-13 01:14
 ---
 
 # Part 1
@@ -29,4 +29,8 @@ date updated: 2023-04-13 00:41
 # Part 4
 
 1. High $F_{ST}$ likely means that there is a difference in those genes
-2. Maybe the way that solutes around the cell wo
+2. Maybe the way that solutes around the cell would be different from saltwater to freshwater fish, as there will likely be more solutes in the saltwater fish, meaning they need to me transported out of the cell more often more likely
+
+# Part 5
+
+1. 
