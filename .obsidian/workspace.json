@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "21191c18ea3a4892",
+            "id": "608392ef6d012af9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/2 - Evolutionary Scientists.md",
+                "file": "APBiology/7/Notes/Bell Ringer/3 - Survival of the Fittest.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/2 - Evolutionary Scientists.md",
+                "file": "APBiology/7/Notes/Bell Ringer/3 - Survival of the Fittest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/Bell Ringer/2 - Evolutionary Scientists.md"
+                "file": "APBiology/7/Notes/Bell Ringer/3 - Survival of the Fittest.md"
               }
             }
           },
@@ -162,9 +162,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "21191c18ea3a4892",
+  "active": "608392ef6d012af9",
   "lastOpenFiles": [
     "APBiology/7/Unit 7 BILL.md",
+    "APBiology/7/Notes/Bell Ringer/3 - Survival of the Fittest.md",
     "APBiology/7/Notes/Bell Ringer/2 - Evolutionary Scientists.md",
     "APBiology/7/Notes/Bell Ringer/1 - Natural Selection in Giraffes.md",
     "APBiology/7/Documents/Article Reading/1 - Natural Selection vs Article Selection.docx",
@@ -200,7 +201,6 @@
     "APBiology/6/Notes/Bell Ringer/2 - Eukaryotic Gene Regulation.md",
     "APBiology/6/Notes/Case Study/1 - The Mona Lisa Molecule.md",
     "APBiology/6/Notes/POGILs/1 - Gene Expression - Translation.md",
-    "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
     "APBiology/6/Notes/Case Study/attachments/Pasted image 20230306204540.png",
     "APBiology/6/Notes/Case Study/attachments/Pasted image 20230306204324.png"
   ]

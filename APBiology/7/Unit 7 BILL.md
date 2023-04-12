@@ -27,7 +27,7 @@ date updated: 2023-04-12 23:37
 ## Bell Ringers
 
 1. [x] Natural Selection in Giraffes
-2. [ ] Evolutionary Scientists
+2. [x] Evolutionary Scientists
 3. [ ] Survival of the Fittest
 4. [ ] Furry Evolution FRQ
 5. [ ] Constructing a Phylogenetic Tree
