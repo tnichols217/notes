@@ -1,5 +1,6 @@
 ---
 date created: 2023-04-12 22:45
+date updated: 2023-04-12 23:37
 ---
 
 # Unit Essentials:
@@ -17,12 +18,11 @@ date created: 2023-04-12 22:45
 1. [x] Natural Selection and Evolution of Rock Pocket Mouse Populations (HHMI)
 2. [x] Developing an Explanation for Mouse Fur Color (HHMI)
 3. [x] Allele and Phenotype Frequencies in Rock Pocket Mouse Populations (HHMI)
-4. [ ] Making Cladograms
+4. [x] Making Cladograms
 
 ## Article Reading
 
-5. [ ] Artificial Selection
-6. 
+1. [x] Artificial Selection
 
 ## Bell Ringers
 
