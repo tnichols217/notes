@@ -8,4 +8,5 @@
 6. -
 7. 7
 	1. ![[Table 2]]
-	2. Only the Tule Well, Lava (East), and the O'Neill Pass. this is more likely because the sample size for these populations a
+	2. Only the Tule Well, Lava (East), and the O'Neill Pass. this is more likely because the sample size for these populations are larger
+	3. Variation, this shows that in a larger population there will likely be genetic variation within the population. Additionally, this shows the effects of natural selection through selective fitness, because similar skinned furs ar
