@@ -37,4 +37,4 @@ date updated: 2023-04-12 22:45
 ## Part 3
 
 1. As $s$ increases, $p$ increases more agressively over each generation, as $q$ inversely directly decreases. When $s$ is 0, there is no change as there is no pressure.
-2. The selection constant 
+2. The selection constant $s$ is related to natural selection because it represents the amount of selective pressure upon a certain population, pushing to change the phenotypic ratios 
