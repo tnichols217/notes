@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "7ad8edc3b21aebc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/7/Notes/Activities/2 - Mouse Fur Color.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1d12447c3b6d23ab",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,10 +210,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "780ec2c1e3030aa4",
+  "active": "7ad8edc3b21aebc3",
   "lastOpenFiles": [
-    "APBiology/7/Notes/Activities/1 - Natural Selection.md",
+    "APBiology/7/Notes/Activities/2 - Mouse Fur Color/Table 1.md",
     "APBiology/7/Notes/Activities/2 - Mouse Fur Color.md",
+    "APBiology/7/Notes/Activities/2 - Mouse Fur Color",
+    "APBiology/7/Notes/Activities/1 - Natural Selection.md",
     "Private/college/Logins.md",
     "Private/college/RD/Checklist.md",
     "APBiology/7/Unit 7 BILL.md",
@@ -214,7 +228,6 @@
     "APBiology/7/Notes/Activities",
     "APBiology/8/Notes/POGIL",
     "APBiology/8/Notes/Doodle Notes",
-    "APBiology/8/Notes/Case Study",
     "APBiology/6/Unit 6 BILL.md",
     "APArt/Piece Descriptions.md",
     "APArt/Portfolio notes.md",
@@ -236,8 +249,6 @@
     "APBiology/6/Notes/Case Study/2 - Gene Expression in Stem Cells.md",
     "APBiology/6/Notes/Case Study/attachments/Pasted image 20230306204540.png",
     "APBiology/6/Notes/Case Study/attachments/Pasted image 20230306204324.png",
-    "APBiology/6/Notes/Activities/4 - Molecular Genetics of the Color Mutations in Rock Pocket Mice.md",
-    "APBiology/6/Notes/Worksheets/1 - Translating and Open Reading Frame Practice.md",
-    "APBiology/6/Notes/BILL Packet/4 - Unit Summary.md"
+    "APBiology/6/Notes/Activities/4 - Molecular Genetics of the Color Mutations in Rock Pocket Mice.md"
   ]
 }

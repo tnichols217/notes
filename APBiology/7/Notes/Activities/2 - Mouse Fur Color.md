@@ -75,4 +75,5 @@
 | Total number of mice   | 6              | 85        | 7           | 5          | 45          | 77           |
 | Percentage of tan mice | 100%           | 94.1%     | 0%          | 0%         | 6.67%       | 44.2%        | 
 
+	2. a 
 1. 
