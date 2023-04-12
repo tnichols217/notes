@@ -1,5 +1,6 @@
 ---
 date created: 2023-04-12 23:24
+date updated: 2023-04-12 23:31
 ---
 
 ## Data Table
@@ -26,19 +27,23 @@ date created: 2023-04-12 23:24
 | Placenta                              | ✅     | ✅             |          |                 |          |      |         |
 | Canine teeth short Foramen magnum fwd | ✅     |               |          |                 |          |      |         |
 
+## Claydogram
+
 ```
              /- Human
-            /                (Foramen magnum fwd)
+            /                 (Foramen magnum fwd)
            /- Rhesus Monkey
-          /                (Placenta)
+          /                 (Placenta)
          /- Kangaroo
-        /                (Mammary Glands)
+        /                 (Mammary Glands)
        /- Snapping Turtle
-      /                (Amnion)
+      /                 (Amnion)
      /- Bullfrog
-    /                (Paired Legs)
+    /                 (Paired Legs)
    /- Tuna
   /                 (Paired Appendages)
  /- Lamprey
 /                 (Dorsal Nerve)
 ```
+
+## 
