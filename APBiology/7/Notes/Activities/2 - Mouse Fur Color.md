@@ -67,9 +67,12 @@
 6. -
 7. 7
 	1. a
-| Population | Christmas Pass | Tule Well | Lava (West) | Lava (Mid) | Lava (East) | O'Neill Pass |
-| ---------- | -------------- | --------- | ----------- | ---------- | ----------- | ------------ |
-| Soil color | Light          | Light     | Dark        | Dark       | Dark        | Light        |
-| Nuy           |                |           |             |            |             |              |
+| Population           | Christmas Pass | Tule Well | Lava (West) | Lava (Mid) | Lava (East) | O'Neill Pass |
+| -------------------- | -------------- | --------- | ----------- | ---------- | ----------- | ------------ |
+| Soil color           | Light          | Light     | Dark        | Dark       | Dark        | Light        |
+| Number of tan mice   | 6              | 80        | 0           | 0          | 3           | 34           |
+| Number of dark mice  | 0              | 5         | 7           | 5          | 42          | 43           |
+| Total number of mice | 6              | 85        | 7           | 5          | 45          | 77           |
+|                      |                |           |             |            |             |              |
 
 1. 
