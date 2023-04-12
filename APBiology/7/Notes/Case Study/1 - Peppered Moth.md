@@ -1,6 +1,6 @@
 ---
 date created: 2023-04-13 00:09
-date updated: 2023-04-13 00:18
+date updated: 2023-04-13 00:25
 ---
 
 # Part 1
@@ -22,4 +22,8 @@ date updated: 2023-04-13 00:18
 2. Non-matching moth and tree bark would attract more attention from humans
 3. No, because the way birds see and experience vision is very different from humans, and they also are not at a standstill and looking for moths whom are told exist
 4. Its non-independent since the same birds are used across different times, and may have a memory of the previous trials
-5. Place fake light and dark moths on both light and dark trees, with cameras recording them. Count the number of times birds visit or look at each fake sample and compare the occur 
+5. Place fake light and dark moths on both light and dark trees, with cameras recording them. Count the number of times birds visit or look at each fake sample and compare the occurences.
+
+# Part 4
+
+1.
