@@ -2,4 +2,5 @@
 2. Directional, Disruptive, and Stabilizing
 3. This could be due to random mutation, or having multiple selective environments across the population
 4. 4
-	1. 
+	1. They are on average heavier
+	2. 
