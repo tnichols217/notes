@@ -53,7 +53,7 @@ date updated: 2023-04-13 01:19
 
 ## POGILs
 
-1. [ ] Selection & Speciation
+1. [ ] Selection and Speciation
 
 ## Worksheets
 
