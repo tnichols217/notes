@@ -12,4 +12,6 @@
 6. 6
 	1. The new population is closer to the average, meaning the spread of the weight is less
 	2. Those of average weight
-	3. 
+	3. This could be because heavier ones would be easier to spot and predate upon, and too small would not have muscle mass and cannot evade predators
+7. 7
+	1. 
