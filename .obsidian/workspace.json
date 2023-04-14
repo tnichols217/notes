@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/POGIL/1 - Selection and Speciation/Table 1.md",
+                "file": "APBiology/7/Notes/POGIL/1 - Selection and Speciation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/POGIL/1 - Selection and Speciation/Table 1.md"
+                "file": "APBiology/7/Notes/POGIL/1 - Selection and Speciation.md"
               }
             }
           },
@@ -174,10 +174,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3ac59e93ed54fecd",
+  "active": "bcc0df5eb0384fd4",
   "lastOpenFiles": [
-    "APBiology/7/Notes/POGIL/1 - Selection and Speciation.md",
     "APBiology/7/Notes/POGIL/1 - Selection and Speciation/Table 1.md",
+    "APBiology/7/Notes/POGIL/1 - Selection and Speciation.md",
     "APBiology/7/Notes/POGIL/1 - Selection and Speciation",
     "APBiology/7/Unit 7 BILL.md",
     "APBiology/7/Notes/Activities/4 - Making Cladograms.md",
