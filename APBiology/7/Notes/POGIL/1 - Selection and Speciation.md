@@ -10,4 +10,6 @@
 	2. Either heavier ones or lighter ones, but not average ones
 	3. Heavier ones could have more muscle mass and aid in running away or chasing prey, while lighter ones may be smaller and harder to spot, providing more camo and surprise over prey
 6. 6
-	1. 
+	1. The new population is closer to the average, meaning the spread of the weight is less
+	2. Those of average weight
+	3. 
