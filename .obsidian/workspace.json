@@ -30,45 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7cf8c372e26e6b81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/7/Notes/Worksheets/1 - Hardy-Weinberg Equilibrium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcc0df5eb0384fd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/7/Notes/POGIL/1 - Selection and Speciation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ac59e93ed54fecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/7/Notes/POGIL/1 - Selection and Speciation/Table 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/Worksheets/1 - Hardy-Weinberg Equilibrium.md",
+                "file": "APBiology/7/Unit 7 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/Worksheets/1 - Hardy-Weinberg Equilibrium.md"
+                "file": "APBiology/7/Unit 7 BILL.md"
               }
             }
           },
@@ -186,19 +150,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7cf8c372e26e6b81",
+  "active": "788ca05e9e0a15c0",
   "lastOpenFiles": [
+    "APBiology/7/Notes/POGIL/1 - Selection and Speciation/Table 1.md",
+    "APBiology/7/Unit 7 BILL.md",
+    "APBiology/7/Notes/Worksheets/1 - Hardy-Weinberg Equilibrium.md",
     "APBiology/7/Notes/Worksheets/1 - Hardy-Weinberg Equilibrium.pdf",
     "Private/college/RD/Checklist.md",
     "Private/college/Regular Decision.md",
     "Private/college/Logins.md",
-    "APBiology/7/Notes/Worksheets/1 - Hardy-Weinberg Equilibrium.md",
-    "APBiology/7/Unit 7 BILL.md",
     "APBiology/7/Documents/Worksheets/1 - Hardy Weinberg Equilibrium.pdf",
     "APBiology/7/Documents/Worksheets/1. Hardy Weinberg Problem Set - More Practice.pdf",
     "APBiology/7/Notes/POGIL/1 - Selection and Speciation.md",
     "APBiology/7/Notes/POGIL/1 - Selection and Speciation.pdf",
-    "APBiology/7/Notes/POGIL/1 - Selection and Speciation/Table 1.md",
     "APBiology/7/Notes/POGIL/1 - Selection and Speciation",
     "APBiology/7/Notes/Activities/4 - Making Cladograms.md",
     "APBiology/7/Notes/Activities/4 - Making Cladograms.pdf",
@@ -211,7 +175,6 @@
     "APBiology/7/Notes/Bell Ringer/6 - Mechanisms of Evolution.md",
     "APBiology/7/Notes/Bell Ringer/6 - Mechanisms of Evolution.pdf",
     "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.md",
-    "APBiology/7/Notes/Bell Ringer/5 - Constructing a Phylogenetic Tree.pdf",
     "APBiology/7/Notes/Bell Ringer/1 - Natural Selection in Giraffes.md",
     "APBiology/7/Notes/Bell Ringer/4 - Furry Evolution FRQ.md",
     "APBiology/7/Notes/Bell Ringer/3 - Survival of the Fittest.md",

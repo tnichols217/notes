@@ -57,4 +57,4 @@ date updated: 2023-04-15 00:53
 
 ## Worksheets
 
-1. [ ] Hardy-Weinberg Equilibrium
+1. [x] Hardy-Weinberg Equilibrium
