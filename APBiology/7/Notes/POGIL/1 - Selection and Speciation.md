@@ -8,4 +8,6 @@
 5. 5
 	1. The new population will be larger or smaller than the old average, but not the old average
 	2. Either heavier ones or lighter ones, but not average ones
-	3. This could b
+	3. Heavier ones could have more muscle mass and aid in running away or chasing prey, while lighter ones may be smaller and harder to spot, providing more camo and surprise over prey
+6. 6
+	1. 
