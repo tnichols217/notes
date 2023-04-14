@@ -36,4 +36,4 @@ date created: 2023-04-15 00:07
 16. No, because all it does is make the most common traits even more common, which would not change anything about the population in comparison to other populations
 17. ![[APBiology/7/Notes/POGIL/1 - Selection and Speciation/Table 1]]
 18. They are all of equal frequency
-19. This is considered
+19. This is considered a bottleneck situation, as it is a small population and by chance the phenotypic ratios were changed by random chance (the death of two of the same phenotype) This means that the phenotypic frequency of the light phenotype will 
