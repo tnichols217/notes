@@ -26,4 +26,6 @@ date created: 2023-04-15 00:07
    2. Stabilizing, as both large and small are unfavorable, so the average will thrive
    3. Disruptive, as there is no "best" for the average, but benefits for those on the outskirts of the trait
    4. Directional, as larger salmons are more likely to be predated upon, so only the smaller ones reproduce
-9. 
+9. AB, CD, EF
+10. AB
+11. 
