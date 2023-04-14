@@ -31,4 +31,5 @@ date created: 2023-04-15 00:07
 11. Unable to produce fertile offspring
 12. No, all mules are unable to reproduce so their parents - the horse and donkey - are not of the same species
 13. No, as they are highly unlikely to mate at all so would likely undergo divergent speciation and at some point be unable to produce fertile offspring
-14. Possibly, if a particular population of a species is being direction-ally selected upon, then those in a 
+14. Possibly, if a particular population of a species is being direction-ally selected upon, then those of that species in a different population would be diverging from this population. Over time, they could diverge far enough that they would no longer be able to mate with each other anymore due to custom, environment, or infertility
+15. 
