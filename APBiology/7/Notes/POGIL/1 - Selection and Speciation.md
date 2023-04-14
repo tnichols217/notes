@@ -39,4 +39,4 @@ date created: 2023-04-15 00:07
 19. This is considered a bottleneck situation, as it is a small population and by chance the phenotypic ratios were changed by random chance (the death of two of the same phenotype) This means that the phenotypic frequency of the light phenotype will be lower for coming generations, and will be even more susceptible for random change in future generations
 20. Since there is significantly less light phenotype in this population due to small population size, that phenotype will become less likely to be passed on to the next generation. And in such a small population it is not uncommon that it will be completely lost from the population by random events.
 21. No, you can only inherit phenotypes that are already present within the population. It has a low chance of reappearing through random mutation if being selected for by the environment.
-22. 
+22. No, in a larger population, losing two individuals of a particular allele would be easily stabilized over time, as the impact on a larger population is minuscule.
