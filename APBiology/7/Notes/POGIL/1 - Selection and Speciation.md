@@ -35,4 +35,5 @@ date created: 2023-04-15 00:07
 15. Yes, it would split the population into two groups, those above average and those below. These two populations may be selecting for separate things and may be unlikely to mate. For example, if some of them are selected for colder temperatures, and the other for hotter temperatures, they would likely migrate away, undergo more selective pressures, diverge, and likely never mate or produce fertile offspring due to environmental factors
 16. No, because all it does is make the most common traits even more common, which would not change anything about the population in comparison to other populations
 17. ![[APBiology/7/Notes/POGIL/1 - Selection and Speciation/Table 1]]
-18. 
+18. They are all of equal frequency
+19. This is considered
