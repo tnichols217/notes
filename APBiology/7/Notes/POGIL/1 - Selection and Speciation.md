@@ -29,4 +29,5 @@ date created: 2023-04-15 00:07
 9. AB, CD, EF
 10. AB
 11. Unable to produce fertile offspring
-12. No, mules are unable to reproduce so they are 
+12. No, all mules are unable to reproduce so their parents - the horse and donkey - are not of the same species
+13. No, as they are highly unlikely to mate at all so would li
