@@ -14,5 +14,6 @@
 	2. Those of average weight
 	3. This could be because heavier ones would be easier to spot and predate upon, and too small would not have muscle mass and cannot evade predators
 7. 7
-	1. Directional selection means that over time and generations, a particular phenotypic trait of the population will be selected for as they are more well fit for the environment they fit in.
-	2. Disruptive selection means that over time and generations, a particular phenotypic trait of the population will be selected for as they are more well fit for the environment they fit in.
+	1. Directional selection means that over time and generations, a particular phenotypic trait, more or less than the current averag of the population will be selected for as they are more well fit for the environment they fit in.
+	2. Disruptive selection means that over time and generations, a particular phenotypic trait of the population will be selected against as they are unfit for the environment they fit in, so phenotypes displaying either more or less of that trait would be selected for instead.
+	3. Directional selection means that over time and generations, a particular phenotypic trait of the population will be selected for as they are more well fit for the environment they fit in.
