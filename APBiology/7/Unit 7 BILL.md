@@ -1,6 +1,6 @@
 ---
 date created: 2023-04-12 22:45
-date updated: 2023-04-13 01:19
+date updated: 2023-04-15 00:53
 ---
 
 # Unit Essentials:
@@ -53,7 +53,7 @@ date updated: 2023-04-13 01:19
 
 ## POGILs
 
-1. [ ] Selection and Speciation
+1. [x] Selection and Speciation
 
 ## Worksheets
 
