@@ -22,4 +22,6 @@ date created: 2023-04-15 00:07
    2. Disruptive selection means that over time and generations, a particular phenotypic trait of the population will be selected against as they are unfit for the environment they fit in, so phenotypes displaying either more or less of that trait would be selected for instead.
    3. Directional selection means that over time and generations, the current average phenotypic trait of the population will be selected for as they are more well fit for the environment they fit in.
 8. 8
-   1. 
+   1. Directional, it will select for larger beaks
+   2. Stabilizing, as both large and small are unfavorable, so the average will thrive
+   3. 
