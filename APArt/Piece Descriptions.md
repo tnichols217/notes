@@ -230,7 +230,7 @@ Length:
 
 ### Materials
 
-1. Sedate resolution - Blender 3D, curves and subserf workflow for generating initial cloth shape
+1. SEDATE RESOLUTION - Blender 3D, curves and subserf workflow for generating initial cloth shape
 2. Procedurally created button weave texture; cloth and hair simulation for main stuffed body form
 
 ### Processes
