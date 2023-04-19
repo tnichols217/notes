@@ -40,11 +40,11 @@ date updated: 2023-04-15 00:53
 
 ## Doodle Notes
 
-1. [ ] Natural Selection
-2. [ ] Natural Selection Types DNotes
-3. [ ] Population Genetics
-4. [ ] Hardy-Weinberg Equilibrium
-5. [ ] Mechanisms of Evolution 1
+1. [x] Natural Selection
+2. [x] Natural Selection Types DNotes
+3. [x] Population Genetics
+4. [x] Hardy-Weinberg Equilibrium
+5. [x] Mechanisms of Evolution 1
 6. [ ] Mechanisms of Evolution 2
 7. [ ] Evidence for Evolution
 8. [ ] Comparative Genomics
