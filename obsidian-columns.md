@@ -134,3 +134,43 @@ bb
 cc
 
 dd
+
+# List Structure
+- !!!col
+	- 1
+		![](Assets/Attachments/Placeholder-Male.png)
+	- 3
+		Mr.
+		# John Doe
+		⚙️ **Head of Department**
+		🏢 [Company Link]()
+		📧 john.doe@email.com
+		☎️ [+1 23 3 23 2 23](tel:+)
+# Callout syntax
+> [!col]
+> ![](Assets/Attachments/Placeholder-Male.png)
+> 
+>> [!col-md-3]
+>> Mr.
+>> # John Doe
+>> ⚙️ **Head of Department**
+>> 🏢 [Company Link]()
+>> 📧 john.doe@email.com
+>> ☎️ [+1 23 3 23 2 23](tel:+)
+# Codeblock 
+````col
+```col-md
+![](Assets/Attachments/Placeholder-Male.png)
+```<REMOVE>
+
+```col-md
+flexGrow=3
+===
+Mr.
+# John Doe
+⚙️ **Head of Department**
+🏢 [Company Link]()
+📧 john.doe@email.com
+☎️ [+1 23 3 23 2 23](tel:+)
+```<REMOVE>
+````<REMOVE>
