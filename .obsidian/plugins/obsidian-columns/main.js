@@ -346,6 +346,7 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
     return __async(this, null, function* () {
       loadSettings(this, DEFAULT_SETTINGS);
       let r = document.querySelector(":root");
+      console.log(this.settings.wrapSize.value.toString());
       r.style.setProperty("--obsidian-columns-min-width", this.settings.wrapSize.value.toString() + "px");
       r.style.setProperty("--obsidian-columns-def-span", this.settings.defaultSpan.value.toString());
     });
