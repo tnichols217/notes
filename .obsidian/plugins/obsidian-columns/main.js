@@ -113,7 +113,7 @@ function saveSettings(obj, DEFAULT_SETTINGS2) {
   return __async(this, null, function* () {
     let saveData = {};
     Object.entries(obj.settings).forEach((i) => {
-      saveData[i[0]] = i[1].value;
+      saveData[i[0]] = i[1].value(i[1]).onChange(i[1].value);
     });
     yield obj.saveData(saveData);
   });
@@ -125,9 +125,25 @@ var COLUMNNAME = "col";
 var COLUMNMD = COLUMNNAME + "-md";
 var TOKEN = "!!!";
 var SETTINGSDELIM = "===";
+var MINWIDTHVARNAME = "--obsidian-columns-min-width";
+var DEFSPANVARNAME = "--obsidian-columns-def-span";
 var DEFAULT_SETTINGS = {
-  wrapSize: { value: 100, name: "Minimum width of column", desc: "Columns will have this minimum width before wrapping to a new row. 0 disables column wrapping. Useful for smaller devices" },
-  defaultSpan: { value: 1, name: "The default span of an item", desc: "The default width of a column. If the minimum width is specified, the width of the column will be multiplied by this setting." }
+  wrapSize: {
+    value: 100,
+    name: "Minimum width of column",
+    desc: "Columns will have this minimum width before wrapping to a new row. 0 disables column wrapping. Useful for smaller devices",
+    onChange: (val) => {
+      document.querySelector(":root").style.setProperty(MINWIDTHVARNAME, val.toString() + "px");
+    }
+  },
+  defaultSpan: {
+    value: 1,
+    name: "The default span of an item",
+    desc: "The default width of a column. If the minimum width is specified, the width of the column will be multiplied by this setting.",
+    onChange: (val) => {
+      document.querySelector(":root").style.setProperty(DEFSPANVARNAME, val.toString());
+    }
+  }
 };
 var findSettings = (source, unallowed = ["`"], delim = SETTINGSDELIM) => {
   let lines = source.split("\n");
@@ -351,8 +367,8 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
       yield loadSettings(this, DEFAULT_SETTINGS);
       let r = document.querySelector(":root");
       console.log(this.settings.wrapSize.value.toString());
-      r.style.setProperty("--obsidian-columns-min-width", this.settings.wrapSize.value.toString() + "px");
-      r.style.setProperty("--obsidian-columns-def-span", this.settings.defaultSpan.value.toString());
+      r.style.setProperty(MINWIDTHVARNAME, this.settings.wrapSize.value.toString() + "px");
+      r.style.setProperty(DEFSPANVARNAME, this.settings.defaultSpan.value.toString());
     });
   }
   saveSettings() {
