@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04e94433ada0f0f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/5/Unit 5 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "APBiology/5/Unit 5 BILL.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,8 +155,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "04e94433ada0f0f1",
   "lastOpenFiles": [
+    "APBiology/5/Unit 5 BILL.md",
     "APBiology/7/Notes/Doodle Notes/6 - Mechanisms of Evolution 2 - 2.svg",
     "APBiology/7/Notes/Doodle Notes/6 - Mechanisms of Evolution 2 -2 .svg",
     "APBiology/7/Notes/Doodle Notes/6 - Mechanisms of Evolution 2 - 1.svg",
@@ -162,8 +168,6 @@
     "APBiology/7/Notes/Doodle Notes/3 - Population Genetics -1.svg",
     "APBiology/7/Notes/Doodle Notes/3 - Population Genetics - 2.svg",
     "APBiology/7/Notes/Doodle Notes/3 - Population Genetics.svg",
-    "APBiology/7/Notes/Doodle Notes/2 - Natural Selection Types.svg",
-    "APBiology/5/Unit 5 BILL.md",
     "APArt/Piece Descriptions.md",
     "APArt/Portfolio notes.md",
     "APArt/Sustained Investigation.md",
