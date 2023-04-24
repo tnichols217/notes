@@ -45,11 +45,11 @@ date updated: 2023-04-15 00:53
 3. [x] Population Genetics
 4. [x] Hardy-Weinberg Equilibrium
 5. [x] Mechanisms of Evolution 1
-6. [ ] Mechanisms of Evolution 2
-7. [ ] Evidence for Evolution
-8. [ ] Comparative Genomics
-9. [ ] Antibiotic Resistance
-10. [ ] Speciation
+6. [x] Mechanisms of Evolution 2
+7. [x] Evidence for Evolution
+8. [x] Comparative Genomics
+9. [x] Antibiotic Resistance
+10. [x] Speciation
 
 ## POGILs
 
