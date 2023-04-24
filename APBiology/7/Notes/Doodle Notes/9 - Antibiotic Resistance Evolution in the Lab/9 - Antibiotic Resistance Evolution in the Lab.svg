@@ -7,6 +7,9 @@
    id="svg1460"
    sodipodi:docname="9 - Antibiotic Resistance Evolution in the Lab.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="9 - Antibiotic Resistance Evolution in the Lab.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,8 +27,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="1.1664583"
-     inkscape:cx="422.6469"
-     inkscape:cy="375.06697"
+     inkscape:cx="422.64691"
+     inkscape:cy="375.92428"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
      inkscape:window-x="1600"
@@ -3619,18 +3622,18 @@
      style="white-space:pre;shape-inside:url(#rect1622);fill:#000000"><tspan
        x="64.863281"
        y="79.418502"
-       id="tspan2626">Scientists can demonstrate how natural selection and mutation can cause evolution on a micro-scale
+       id="tspan1744">Scientists can demonstrate how natural selection and mutation can cause evolution on a micro-scale
 </tspan><tspan
        x="64.863281"
        y="94.418502"
-       id="tspan2628">
+       id="tspan1746">
 </tspan><tspan
        x="64.863281"
        y="109.4185"
-       id="tspan2630">If bacteria is spread across a dish, the bacteria will spread over the dish, with the descendants of a single cell covering the </tspan><tspan
+       id="tspan1748">If bacteria is spread across a dish, the bacteria will spread over the dish, with the descendants of a single cell covering the </tspan><tspan
        x="64.863281"
        y="124.4185"
-       id="tspan2632">whole dish</tspan></text>
+       id="tspan1750">whole dish</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3638,38 +3641,38 @@
      style="white-space:pre;shape-inside:url(#rect1678);fill:#000000"><tspan
        x="66.011719"
        y="215.81303"
-       id="tspan2634">If antibiotic is spread in certain </tspan><tspan
+       id="tspan1752">If antibiotic is spread in certain </tspan><tspan
        x="66.011719"
        y="230.81303"
-       id="tspan2636">areas, those bacteria will die
+       id="tspan1754">areas, those bacteria will die
 </tspan><tspan
        x="66.011719"
        y="245.81303"
-       id="tspan2638">
+       id="tspan1756">
 </tspan><tspan
        x="66.011719"
        y="260.81303"
-       id="tspan2640">If the bacteria around the </tspan><tspan
+       id="tspan1758">If the bacteria around the </tspan><tspan
        x="66.011719"
        y="275.81303"
-       id="tspan2642">antibiotic survive, they likely have </tspan><tspan
+       id="tspan1760">antibiotic survive, they likely have </tspan><tspan
        x="66.011719"
        y="290.81303"
-       id="tspan2644">immunity to that antibiotic
+       id="tspan1762">immunity to that antibiotic
 </tspan><tspan
        x="66.011719"
        y="305.81303"
-       id="tspan2646">
+       id="tspan1764">
 </tspan><tspan
        x="66.011719"
        y="320.81303"
-       id="tspan2648">Then, a new lawn will be made </tspan><tspan
+       id="tspan1766">Then, a new lawn will be made </tspan><tspan
        x="66.011719"
        y="335.81303"
-       id="tspan2650">with this resistant bacteria and </tspan><tspan
+       id="tspan1768">with this resistant bacteria and </tspan><tspan
        x="66.011719"
        y="350.81303"
-       id="tspan2652">tested with the antibiotic again</tspan></text>
+       id="tspan1770">tested with the antibiotic again</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3677,26 +3680,26 @@
      style="white-space:pre;shape-inside:url(#rect1684);fill:#000000"><tspan
        x="146.59766"
        y="800.48881"
-       id="tspan2654">Antibiotic resistance is a big problem. Overuse of antibiotics could just lead to more resistant bacteria
+       id="tspan1772">Antibiotic resistance is a big problem. Overuse of antibiotics could just lead to more resistant bacteria
 </tspan><tspan
        x="146.59766"
        y="815.48881"
-       id="tspan2656">
+       id="tspan1774">
 </tspan><tspan
        x="146.59766"
        y="830.48881"
-       id="tspan2658">Antibiotic bacteria can infect people and cause fatal sicknesses
+       id="tspan1776">Antibiotic bacteria can infect people and cause fatal sicknesses
 </tspan><tspan
        x="146.59766"
        y="845.48881"
-       id="tspan2660">
+       id="tspan1778">
 </tspan><tspan
        x="146.59766"
        y="860.48881"
-       id="tspan2662">Research is done into finding new antibiotics to kill bacteria effectively. And antibiotic use is often </tspan><tspan
+       id="tspan1780">Research is done into finding new antibiotics to kill bacteria effectively. And antibiotic use is often </tspan><tspan
        x="146.59766"
        y="875.48881"
-       id="tspan2664">restricted to when necessary</tspan></text>
+       id="tspan1782">restricted to when necessary</tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0,-0.75,0.75,0,-512.70996,766.09944)"
@@ -3704,7 +3707,7 @@
      style="white-space:pre;shape-inside:url(#rect1690);fill:#000000"><tspan
        x="88.300781"
        y="795.34428"
-       id="tspan2666">Effects on Human Health</tspan></text>
+       id="tspan1784">Effects on Human Health</tspan></text>
   <text
      xml:space="preserve"
      transform="matrix(0,-0.75,0.75,0,-544.88782,763.87994)"
@@ -3712,5 +3715,5 @@
      style="white-space:pre;shape-inside:url(#rect1690-3);display:inline;fill:#000000"><tspan
        x="88.300781"
        y="795.34428"
-       id="tspan2668">Trevor</tspan></text>
+       id="tspan1786">Trevor</tspan></text>
 </svg>
