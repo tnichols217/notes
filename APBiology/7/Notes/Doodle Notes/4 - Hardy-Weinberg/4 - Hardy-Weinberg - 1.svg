@@ -7,6 +7,9 @@
    id="svg19721"
    sodipodi:docname="4 - Hardy-Weinberg - 1.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="4 - Hardy-Weinberg - 1.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,11 +27,11 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.82481061"
-     inkscape:cx="408.57865"
-     inkscape:cy="335.22847"
-     inkscape:window-width="1360"
-     inkscape:window-height="768"
-     inkscape:window-x="1920"
+     inkscape:cx="408.57864"
+     inkscape:cy="336.44087"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1600"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg19721" />
@@ -42360,18 +42363,18 @@
      style="white-space:pre;shape-inside:url(#rect19883);fill:#000000"><tspan
        x="70.318359"
        y="78.813033"
-       id="tspan30532">This is a population in HW equilibrium.
+       id="tspan20846">This is a population in HW equilibrium.
 </tspan><tspan
        x="70.318359"
        y="93.813033"
-       id="tspan30534">
+       id="tspan20848">
 </tspan><tspan
        x="70.318359"
        y="108.81303"
-       id="tspan30536">This means that the phenotypic ratios are not changing </tspan><tspan
+       id="tspan20850">This means that the phenotypic ratios are not changing </tspan><tspan
        x="70.318359"
        y="123.81303"
-       id="tspan30538">over time</tspan></text>
+       id="tspan20852">over time</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42379,51 +42382,51 @@
      style="white-space:pre;shape-inside:url(#rect19889);fill:#000000"><tspan
        x="447.375"
        y="80.025924"
-       id="tspan30540">HW equilibrium is defined as when a population:
+       id="tspan20854">HW equilibrium is defined as when a population:
 </tspan><tspan
        x="447.375"
        y="95.025924"
-       id="tspan30542">
+       id="tspan20856">
 </tspan><tspan
        x="447.375"
        y="110.02592"
-       id="tspan30544">1. Has two alleles of an autosomal diploid gene being </tspan><tspan
+       id="tspan20858">1. Has two alleles of an autosomal diploid gene being </tspan><tspan
        x="447.375"
        y="125.02592"
-       id="tspan30546">studied
+       id="tspan20860">studied
 </tspan><tspan
        x="447.375"
        y="140.02592"
-       id="tspan30548">
+       id="tspan20862">
 </tspan><tspan
        x="447.375"
        y="155.02592"
-       id="tspan30550">2. Has allele frequencies that do not change over </tspan><tspan
+       id="tspan20864">2. Has allele frequencies that do not change over </tspan><tspan
        x="447.375"
        y="170.02592"
-       id="tspan30552">time
+       id="tspan20866">time
 </tspan><tspan
        x="447.375"
        y="185.02592"
-       id="tspan30554">
+       id="tspan20868">
 </tspan><tspan
        x="447.375"
        y="200.02592"
-       id="tspan30556">3. Population is considered non-evolving (no change </tspan><tspan
+       id="tspan20870">3. Population is considered non-evolving (no change </tspan><tspan
        x="447.375"
        y="215.02592"
-       id="tspan30558">in phenotypic ratios)
+       id="tspan20872">in phenotypic ratios)
 </tspan><tspan
        x="447.375"
        y="230.02592"
-       id="tspan30560">
+       id="tspan20874">
 </tspan><tspan
        x="447.375"
        y="245.02592"
-       id="tspan30562">4. Follows the ratios of p and q due to being in </tspan><tspan
+       id="tspan20876">4. Follows the ratios of p and q due to being in </tspan><tspan
        x="447.375"
        y="260.02592"
-       id="tspan30564">equilibrium</tspan></text>
+       id="tspan20878">equilibrium</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42431,7 +42434,7 @@
      style="white-space:pre;shape-inside:url(#rect19895);fill:#000000"><tspan
        x="67.894531"
        y="638.94194"
-       id="tspan30566">Population Statistic</tspan></text>
+       id="tspan20880">Population Statistic</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42439,7 +42442,7 @@
      style="white-space:pre;shape-inside:url(#rect19901);fill:#000000"><tspan
        x="337.04688"
        y="637.72905"
-       id="tspan30568">Formula</tspan></text>
+       id="tspan20882">Formula</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42447,7 +42450,7 @@
      style="white-space:pre;shape-inside:url(#rect19907);fill:#000000"><tspan
        x="436.46289"
        y="637.72905"
-       id="tspan30570">Calculate</tspan></text>
+       id="tspan20884">Calculate</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42455,7 +42458,7 @@
      style="white-space:pre;shape-inside:url(#rect19963);fill:#000000"><tspan
        x="66.681641"
        y="677.73881"
-       id="tspan30572">Dominant allele frequency</tspan></text>
+       id="tspan20886">Dominant allele frequency</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42463,7 +42466,7 @@
      style="white-space:pre;shape-inside:url(#rect19969);fill:#000000"><tspan
        x="337.04688"
        y="678.94975"
-       id="tspan30574">p</tspan></text>
+       id="tspan20888">p</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42471,7 +42474,7 @@
      style="white-space:pre;shape-inside:url(#rect19975);fill:#000000"><tspan
        x="436.46289"
        y="677.73881"
-       id="tspan30576">1-0.8 = 0.2</tspan></text>
+       id="tspan20890">1-0.8 = 0.2</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42479,7 +42482,7 @@
      style="white-space:pre;shape-inside:url(#rect19981);fill:#000000"><tspan
        x="66.681641"
        y="720.17241"
-       id="tspan30578">Recessive allele frequency</tspan></text>
+       id="tspan20892">Recessive allele frequency</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42487,7 +42490,7 @@
      style="white-space:pre;shape-inside:url(#rect19987);fill:#000000"><tspan
        x="337.04688"
        y="718.95952"
-       id="tspan30580">q</tspan></text>
+       id="tspan20894">q</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42495,7 +42498,7 @@
      style="white-space:pre;shape-inside:url(#rect19993);fill:#000000"><tspan
        x="435.25195"
        y="718.95952"
-       id="tspan30582">sqrt(0.64) = 0.8</tspan></text>
+       id="tspan20896">sqrt(0.64) = 0.8</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42503,7 +42506,7 @@
      style="white-space:pre;shape-inside:url(#rect19999);fill:#000000"><tspan
        x="65.46875"
        y="758.96928"
-       id="tspan30584">F(BB)</tspan></text>
+       id="tspan20898">F(BB)</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42511,9 +42514,9 @@
      style="white-space:pre;shape-inside:url(#rect20005);fill:#000000"><tspan
        x="334.62305"
        y="758.96928"
-       id="tspan30588">p<tspan
+       id="tspan20902">p<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan30586">2</tspan></tspan></text>
+   id="tspan20900">2</tspan></tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42521,11 +42524,11 @@
      style="baseline-shift:baseline;white-space:pre;shape-inside:url(#rect20014);fill:#000000"><tspan
        x="435.25195"
        y="761.39311"
-       id="tspan30594">0.2<tspan
+       id="tspan20908">0.2<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan30590">2</tspan><tspan
+   id="tspan20904">2</tspan><tspan
    style="baseline-shift:baseline"
-   id="tspan30592"> = 0.04</tspan></tspan></text>
+   id="tspan20906"> = 0.04</tspan></tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42533,7 +42536,7 @@
      style="white-space:pre;shape-inside:url(#rect20025);fill:#000000"><tspan
        x="65.46875"
        y="798.97905"
-       id="tspan30596">F(Bb)</tspan></text>
+       id="tspan20910">F(Bb)</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42541,7 +42544,7 @@
      style="white-space:pre;shape-inside:url(#rect20031);fill:#000000"><tspan
        x="335.83398"
        y="800.18999"
-       id="tspan30598">2pq</tspan></text>
+       id="tspan20912">2pq</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42549,7 +42552,7 @@
      style="white-space:pre;shape-inside:url(#rect20037);fill:#000000"><tspan
        x="436.46289"
        y="798.97905"
-       id="tspan30600">2*0.2*0.8 = 0.32</tspan></text>
+       id="tspan20914">2*0.2*0.8 = 0.32</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42557,7 +42560,7 @@
      style="white-space:pre;shape-inside:url(#rect20043);fill:#000000"><tspan
        x="65.46875"
        y="840.19975"
-       id="tspan30602">F(bb)</tspan></text>
+       id="tspan20916">F(bb)</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42565,9 +42568,9 @@
      style="white-space:pre;shape-inside:url(#rect20049);fill:#000000"><tspan
        x="334.62305"
        y="840.19975"
-       id="tspan30606">q<tspan
+       id="tspan20920">q<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan30604">2</tspan></tspan></text>
+   id="tspan20918">2</tspan></tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42575,7 +42578,7 @@
      style="white-space:pre;shape-inside:url(#rect20058);fill:#000000"><tspan
        x="437.67578"
        y="840.19975"
-       id="tspan30608">0.64</tspan></text>
+       id="tspan20922">0.64</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42583,7 +42586,7 @@
      style="white-space:pre;shape-inside:url(#rect20064);fill:#000000"><tspan
        x="66.681641"
        y="880.20952"
-       id="tspan30610">Dominant phenotype frequency</tspan></text>
+       id="tspan20924">Dominant phenotype frequency</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42591,9 +42594,9 @@
      style="white-space:pre;shape-inside:url(#rect20070);fill:#000000"><tspan
        x="337.04688"
        y="881.42046"
-       id="tspan30614">p<tspan
+       id="tspan20928">p<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan30612">2</tspan> + 2pq</tspan></text>
+   id="tspan20926">2</tspan> + 2pq</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42601,7 +42604,7 @@
      style="white-space:pre;shape-inside:url(#rect20078);fill:#000000"><tspan
        x="436.46289"
        y="878.99663"
-       id="tspan30616">0.36</tspan></text>
+       id="tspan20930">0.36</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42609,7 +42612,7 @@
      style="white-space:pre;shape-inside:url(#rect20084);fill:#000000"><tspan
        x="64.257812"
        y="920.21733"
-       id="tspan30618">Recessive phenotype frequency</tspan></text>
+       id="tspan20932">Recessive phenotype frequency</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42617,9 +42620,9 @@
      style="white-space:pre;shape-inside:url(#rect20090);fill:#000000"><tspan
        x="337.04688"
        y="922.64311"
-       id="tspan30622">q<tspan
+       id="tspan20936">q<tspan
    style="font-size:65%;baseline-shift:super"
-   id="tspan30620">2</tspan></tspan></text>
+   id="tspan20934">2</tspan></tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42627,7 +42630,7 @@
      style="white-space:pre;shape-inside:url(#rect20099);fill:#000000"><tspan
        x="436.46289"
        y="921.43022"
-       id="tspan30624">0.64</tspan></text>
+       id="tspan20938">0.64</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42635,13 +42638,13 @@
      style="white-space:pre;shape-inside:url(#rect20105);fill:#000000"><tspan
        x="632.87305"
        y="621.96733"
-       id="tspan30626">This only works </tspan><tspan
+       id="tspan20940">This only works </tspan><tspan
        x="632.87305"
        y="636.96733"
-       id="tspan30628">when a population </tspan><tspan
+       id="tspan20942">when a population </tspan><tspan
        x="632.87305"
        y="651.96733"
-       id="tspan30630">is in HW equilibrium</tspan></text>
+       id="tspan20944">is in HW equilibrium</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -42649,5 +42652,5 @@
      style="white-space:pre;shape-inside:url(#rect20111);fill:#000000"><tspan
        x="59.408203"
        y="989.32475"
-       id="tspan30632">Trevor</tspan></text>
+       id="tspan20946">Trevor</tspan></text>
 </svg>
