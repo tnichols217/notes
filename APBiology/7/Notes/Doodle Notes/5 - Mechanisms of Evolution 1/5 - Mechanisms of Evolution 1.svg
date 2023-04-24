@@ -7,6 +7,9 @@
    id="svg1316"
    sodipodi:docname="5 - Mechanisms of Evolution 1.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="5 - Mechanisms of Evolution 1.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,11 +27,11 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.82481061"
-     inkscape:cx="408.57865"
-     inkscape:cy="723.19633"
-     inkscape:window-width="1360"
-     inkscape:window-height="768"
-     inkscape:window-x="1920"
+     inkscape:cx="408.57864"
+     inkscape:cy="724.40872"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1600"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1316" />
@@ -3431,15 +3434,15 @@
      style="white-space:pre;shape-inside:url(#rect1478);fill:#000000"><tspan
        x="69.107422"
        y="98.211471"
-       id="tspan2451">Evolution takes place when the allel frequencies (often abbreviated as p and q) change over time in a population
+       id="tspan1622">Evolution takes place when the allel frequencies (often abbreviated as p and q) change over time in a population
 </tspan><tspan
        x="69.107422"
        y="113.21147"
-       id="tspan2453">
+       id="tspan1624">
 </tspan><tspan
        x="69.107422"
        y="128.21147"
-       id="tspan2455">There are many factors that influence evolution in a population</tspan></text>
+       id="tspan1626">There are many factors that influence evolution in a population</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3447,10 +3450,10 @@
      style="white-space:pre;shape-inside:url(#rect1534);fill:#000000"><tspan
        x="236.41797"
        y="263.09819"
-       id="tspan2457">Random fluctuation </tspan><tspan
+       id="tspan1628">Random fluctuation </tspan><tspan
        x="236.41797"
        y="278.09819"
-       id="tspan2459">in allele frequency</tspan></text>
+       id="tspan1630">in allele frequency</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3458,10 +3461,10 @@
      style="white-space:pre;shape-inside:url(#rect1540);fill:#000000"><tspan
        x="384.33008"
        y="260.67241"
-       id="tspan2461">Lowers genetic </tspan><tspan
+       id="tspan1632">Lowers genetic </tspan><tspan
        x="384.33008"
        y="275.67241"
-       id="tspan2463">variation</tspan></text>
+       id="tspan1634">variation</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3469,13 +3472,13 @@
      style="white-space:pre;shape-inside:url(#rect1546);fill:#000000"><tspan
        x="512.8457"
        y="260.67241"
-       id="tspan2465">Usually lowers population fitness as </tspan><tspan
+       id="tspan1636">Usually lowers population fitness as </tspan><tspan
        x="512.8457"
        y="275.67241"
-       id="tspan2467">populations are less able to adapt to </tspan><tspan
+       id="tspan1638">populations are less able to adapt to </tspan><tspan
        x="512.8457"
        y="290.67241"
-       id="tspan2469">environmental change</tspan></text>
+       id="tspan1641">environmental change</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3483,13 +3486,13 @@
      style="white-space:pre;shape-inside:url(#rect1552);fill:#000000"><tspan
        x="236.41797"
        y="357.6646"
-       id="tspan2471">Mating occurs </tspan><tspan
+       id="tspan1643">Mating occurs </tspan><tspan
        x="236.41797"
        y="372.6646"
-       id="tspan2473">between similar </tspan><tspan
+       id="tspan1645">between similar </tspan><tspan
        x="236.41797"
        y="387.6646"
-       id="tspan2475">individuals</tspan></text>
+       id="tspan1647">individuals</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3497,10 +3500,10 @@
      style="white-space:pre;shape-inside:url(#rect1558);fill:#000000"><tspan
        x="384.33008"
        y="360.09038"
-       id="tspan2477">Lowers genetic </tspan><tspan
+       id="tspan1649">Lowers genetic </tspan><tspan
        x="384.33008"
        y="375.09038"
-       id="tspan2479">variation</tspan></text>
+       id="tspan1651">variation</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3508,10 +3511,10 @@
      style="white-space:pre;shape-inside:url(#rect1564);fill:#000000"><tspan
        x="515.26953"
        y="360.09038"
-       id="tspan2481">Usually lowers population fitness, due to </tspan><tspan
+       id="tspan1653">Usually lowers population fitness, due to </tspan><tspan
        x="515.26953"
        y="375.09038"
-       id="tspan2483">higher incidence of lethal alleles</tspan></text>
+       id="tspan1655">higher incidence of lethal alleles</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3519,10 +3522,10 @@
      style="white-space:pre;shape-inside:url(#rect1570);fill:#000000"><tspan
        x="236.41797"
        y="452.231"
-       id="tspan2485">New mutations arise </tspan><tspan
+       id="tspan1657">New mutations arise </tspan><tspan
        x="236.41797"
        y="467.231"
-       id="tspan2487">in a population</tspan></text>
+       id="tspan1659">in a population</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3530,10 +3533,10 @@
      style="white-space:pre;shape-inside:url(#rect1576);fill:#000000"><tspan
        x="384.33008"
        y="452.231"
-       id="tspan2489">Increase genetic </tspan><tspan
+       id="tspan1661">Increase genetic </tspan><tspan
        x="384.33008"
        y="467.231"
-       id="tspan2491">variation</tspan></text>
+       id="tspan1663">variation</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3541,13 +3544,13 @@
      style="white-space:pre;shape-inside:url(#rect1582);fill:#000000"><tspan
        x="512.8457"
        y="452.231"
-       id="tspan2493">Can increase fitness if variety helps the </tspan><tspan
+       id="tspan1665">Can increase fitness if variety helps the </tspan><tspan
        x="512.8457"
        y="467.231"
-       id="tspan2495">population in the event of an </tspan><tspan
+       id="tspan1667">population in the event of an </tspan><tspan
        x="512.8457"
        y="482.231"
-       id="tspan2497">environmental change</tspan></text>
+       id="tspan1669">environmental change</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3555,13 +3558,13 @@
      style="white-space:pre;shape-inside:url(#rect1588);fill:#000000"><tspan
        x="236.41797"
        y="548.01225"
-       id="tspan2499">A population gets </tspan><tspan
+       id="tspan1671">A population gets </tspan><tspan
        x="236.41797"
        y="563.01225"
-       id="tspan2501">individuals from </tspan><tspan
+       id="tspan1673">individuals from </tspan><tspan
        x="236.41797"
        y="578.01225"
-       id="tspan2503">another population</tspan></text>
+       id="tspan1675">another population</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3569,13 +3572,13 @@
      style="white-space:pre;shape-inside:url(#rect1594);fill:#000000"><tspan
        x="386.75586"
        y="550.43608"
-       id="tspan2505">Normally </tspan><tspan
+       id="tspan1677">Normally </tspan><tspan
        x="386.75586"
        y="565.43608"
-       id="tspan2507">increases genetic </tspan><tspan
+       id="tspan1679">increases genetic </tspan><tspan
        x="386.75586"
        y="580.43608"
-       id="tspan2509">variation</tspan></text>
+       id="tspan1681">variation</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3583,13 +3586,13 @@
      style="white-space:pre;shape-inside:url(#rect1600);fill:#000000"><tspan
        x="515.26953"
        y="548.01225"
-       id="tspan2511">Can increase fitness if variety helps the </tspan><tspan
+       id="tspan1683">Can increase fitness if variety helps the </tspan><tspan
        x="515.26953"
        y="563.01225"
-       id="tspan2513">population in the event of an </tspan><tspan
+       id="tspan1685">population in the event of an </tspan><tspan
        x="515.26953"
        y="578.01225"
-       id="tspan2515">environmental change</tspan></text>
+       id="tspan1687">environmental change</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3597,13 +3600,13 @@
      style="white-space:pre;shape-inside:url(#rect1606);fill:#000000"><tspan
        x="233.99219"
        y="642.57866"
-       id="tspan2517">Natural Selection </tspan><tspan
+       id="tspan1689">Natural Selection </tspan><tspan
        x="233.99219"
        y="657.57866"
-       id="tspan2519">selects against one </tspan><tspan
+       id="tspan1691">selects against one </tspan><tspan
        x="233.99219"
        y="672.57866"
-       id="tspan2521">phenotype / allele</tspan></text>
+       id="tspan1693">phenotype / allele</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3611,10 +3614,10 @@
      style="white-space:pre;shape-inside:url(#rect1612);fill:#000000"><tspan
        x="384.33008"
        y="642.57866"
-       id="tspan2523">Lowers genetic </tspan><tspan
+       id="tspan1695">Lowers genetic </tspan><tspan
        x="384.33008"
        y="657.57866"
-       id="tspan2525">variation</tspan></text>
+       id="tspan1697">variation</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3622,13 +3625,13 @@
      style="white-space:pre;shape-inside:url(#rect1618);fill:#000000"><tspan
        x="515.26953"
        y="642.57866"
-       id="tspan2527">Can increase fitness of population in that </tspan><tspan
+       id="tspan1699">Can increase fitness of population in that </tspan><tspan
        x="515.26953"
        y="657.57866"
-       id="tspan2529">environment (but may be less able to </tspan><tspan
+       id="tspan1701">environment (but may be less able to </tspan><tspan
        x="515.26953"
        y="672.57866"
-       id="tspan2531">adapt to change in the future)</tspan></text>
+       id="tspan1703">adapt to change in the future)</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3636,13 +3639,13 @@
      style="white-space:pre;shape-inside:url(#rect1624);fill:#000000"><tspan
        x="233.99219"
        y="739.57085"
-       id="tspan2533">Natural Selection </tspan><tspan
+       id="tspan1705">Natural Selection </tspan><tspan
        x="233.99219"
        y="754.57085"
-       id="tspan2535">supports both </tspan><tspan
+       id="tspan1707">supports both </tspan><tspan
        x="233.99219"
        y="769.57085"
-       id="tspan2537">phenotypes/alleles</tspan></text>
+       id="tspan1709">phenotypes/alleles</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3650,10 +3653,10 @@
      style="white-space:pre;shape-inside:url(#rect1630);fill:#000000"><tspan
        x="386.75586"
        y="737.14506"
-       id="tspan2539">Increases genetic </tspan><tspan
+       id="tspan1711">Increases genetic </tspan><tspan
        x="386.75586"
        y="752.14506"
-       id="tspan2541">variation</tspan></text>
+       id="tspan1713">variation</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3661,13 +3664,13 @@
      style="white-space:pre;shape-inside:url(#rect1636);fill:#000000"><tspan
        x="515.26953"
        y="739.57085"
-       id="tspan2543">Can increase fitness of population in </tspan><tspan
+       id="tspan1715">Can increase fitness of population in </tspan><tspan
        x="515.26953"
        y="754.57085"
-       id="tspan2545">that environment and help it adapt to </tspan><tspan
+       id="tspan1717">that environment and help it adapt to </tspan><tspan
        x="515.26953"
        y="769.57085"
-       id="tspan2547">future changes</tspan></text>
+       id="tspan1719">future changes</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:9px;fill:#000000;stroke-width:0.75"
@@ -3686,10 +3689,10 @@
      style="white-space:pre;shape-inside:url(#rect1646);fill:#000000"><tspan
        x="69.107422"
        y="880.20952"
-       id="tspan2549">Speciation may occur, where part of a population becomes so different that they can no </tspan><tspan
+       id="tspan1721">Speciation may occur, where part of a population becomes so different that they can no </tspan><tspan
        x="69.107422"
        y="895.20952"
-       id="tspan2551">longer reproduce with the old population.</tspan></text>
+       id="tspan1723">longer reproduce with the old population.</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -3697,5 +3700,5 @@
      style="white-space:pre;shape-inside:url(#rect1652);fill:#000000"><tspan
        x="71.53125"
        y="991.75053"
-       id="tspan2553">Trevor</tspan></text>
+       id="tspan1725">Trevor</tspan></text>
 </svg>
