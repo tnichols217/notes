@@ -148,7 +148,8 @@ dd
 		☎️ [+1 23 3 23 2 23](tel:+)
 # Callout syntax
 > [!col]
-> ![](Assets/Attachments/Placeholder-Male.png)
+>> [!col-md-1]
+>> ![](Assets/Attachments/Placeholder-Male.png)
 > 
 >> [!col-md-3]
 >> Mr.
