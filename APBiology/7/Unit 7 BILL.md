@@ -24,13 +24,16 @@ date updated: 2023-04-24 11:44
 2. [x] Evolutionary Scientists
 3. [x] Survival of the Fittest
 4. [x] Furry Evolution FRQ
+       ![[]]
 5. [x] Constructing a Phylogenetic Tree
+       ![[5 - Constructing a Phylogenetic Tree]]
 6. [x] Mechanisms of Evolution
+       ![[6 - Mechanisms of Evolution]]
 
 ## Case Studies
 
 1. [x] Peppered Moth
-       ![[7/Case]]
+       ![[1 - Peppered Moth]]
 2. [x] Fish out of salt water
        ![[2 - Fish out of salt water]]
 
