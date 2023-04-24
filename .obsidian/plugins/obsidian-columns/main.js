@@ -113,7 +113,8 @@ function saveSettings(obj, DEFAULT_SETTINGS2) {
   return __async(this, null, function* () {
     let saveData = {};
     Object.entries(obj.settings).forEach((i) => {
-      saveData[i[0]] = i[1].value(i[1]).onChange(i[1].value);
+      saveData[i[0]] = i[1].value;
+      i[1].onChange(i[1].value);
     });
     yield obj.saveData(saveData);
   });
