@@ -7,6 +7,9 @@
    id="svg2449"
    sodipodi:docname="10 - Comparison Genomics - 1.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="10 - Comparison Genomics - 1.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,8 +27,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="1.6496212"
-     inkscape:cx="542.54879"
-     inkscape:cy="827.76579"
+     inkscape:cx="542.5488"
+     inkscape:cy="828.37199"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
      inkscape:window-x="1600"
@@ -5937,32 +5940,32 @@
      style="white-space:pre;shape-inside:url(#rect2611);fill:#000000"><tspan
        x="497.68945"
        y="96.393112"
-       id="tspan3994">In almost all organisms, the same codons </tspan><tspan
+       id="tspan8242">In almost all organisms, the same codons </tspan><tspan
        x="497.68945"
        y="111.39311"
-       id="tspan3996">code for the same amino acids
+       id="tspan8244">code for the same amino acids
 </tspan><tspan
        x="497.68945"
        y="126.39311"
-       id="tspan3998">
+       id="tspan8246">
 </tspan><tspan
        x="497.68945"
        y="141.39311"
-       id="tspan4000">This also acts as evidence that there is a </tspan><tspan
+       id="tspan8248">This also acts as evidence that there is a </tspan><tspan
        x="497.68945"
        y="156.39311"
-       id="tspan4002">common ancestor
+       id="tspan8250">common ancestor
 </tspan><tspan
        x="497.68945"
        y="171.39311"
-       id="tspan4004">
+       id="tspan8252">
 </tspan><tspan
        x="497.68945"
        y="186.39311"
-       id="tspan4006">It is believed that organisms that deviate </tspan><tspan
+       id="tspan8254">It is believed that organisms that deviate </tspan><tspan
        x="497.68945"
        y="201.39311"
-       id="tspan4008">from the code have a severe disadvantage</tspan></text>
+       id="tspan8256">from the code have a severe disadvantage</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -5970,57 +5973,57 @@
      style="white-space:pre;shape-inside:url(#rect2667);fill:#000000"><tspan
        x="64.863281"
        y="456.47514"
-       id="tspan4010">As more genomes are sequenced, we find that more </tspan><tspan
+       id="tspan8258">As more genomes are sequenced, we find that more </tspan><tspan
        x="64.863281"
        y="471.47514"
-       id="tspan4012">organisms share genetic informtation, suggesting a </tspan><tspan
+       id="tspan8260">organisms share genetic informtation, suggesting a </tspan><tspan
        x="64.863281"
        y="486.47514"
-       id="tspan4014">common ancestor
+       id="tspan8262">common ancestor
 </tspan><tspan
        x="64.863281"
        y="501.47514"
-       id="tspan4016">
+       id="tspan8264">
 </tspan><tspan
        x="64.863281"
        y="516.47514"
-       id="tspan4018">One gene that is highly similar across all organisms is the </tspan><tspan
+       id="tspan8266">One gene that is highly similar across all organisms is the </tspan><tspan
        x="64.863281"
        y="531.47514"
-       id="tspan4020">ribosome, a necessity of life
+       id="tspan8268">ribosome, a necessity of life
 </tspan><tspan
        x="64.863281"
        y="546.47514"
-       id="tspan4022">
+       id="tspan8270">
 </tspan><tspan
        x="64.863281"
        y="561.47514"
-       id="tspan4024">Scientists often take the genetic sequence of the ribosome </tspan><tspan
+       id="tspan8272">Scientists often take the genetic sequence of the ribosome </tspan><tspan
        x="64.863281"
        y="576.47514"
-       id="tspan4026">in different organisms and compare to find how similar </tspan><tspan
+       id="tspan8274">in different organisms and compare to find how similar </tspan><tspan
        x="64.863281"
        y="591.47514"
-       id="tspan4028">they are
+       id="tspan8276">they are
 </tspan><tspan
        x="64.863281"
        y="606.47514"
-       id="tspan4030">
+       id="tspan8278">
 </tspan><tspan
        x="64.863281"
        y="621.47514"
-       id="tspan4032">The similarity of gene sequences can be calculated to find </tspan><tspan
+       id="tspan8280">The similarity of gene sequences can be calculated to find </tspan><tspan
        x="64.863281"
        y="636.47514"
-       id="tspan4034">the genetic difference between the two
+       id="tspan8282">the genetic difference between the two
 </tspan><tspan
        x="64.863281"
        y="651.47514"
-       id="tspan4036">
+       id="tspan8284">
 </tspan><tspan
        x="64.863281"
        y="666.47514"
-       id="tspan4038">Phylogenetic trees are used to visualize this difference</tspan></text>
+       id="tspan8286">Phylogenetic trees are used to visualize this difference</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -6028,5 +6031,5 @@
      style="white-space:pre;shape-inside:url(#rect2673);fill:#000000"><tspan
        x="58.800781"
        y="992.96147"
-       id="tspan4040">Trevor</tspan></text>
+       id="tspan8288">Trevor</tspan></text>
 </svg>

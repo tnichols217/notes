@@ -7,6 +7,9 @@
    id="svg2095"
    sodipodi:docname="10 - Comparison Genomics - 2.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="10 - Comparison Genomics - 2.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,8 +27,8 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="1.067402"
-     inkscape:cx="528.38576"
-     inkscape:cy="782.74168"
+     inkscape:cx="528.38574"
+     inkscape:cy="783.6785"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
      inkscape:window-x="1600"
@@ -4957,27 +4960,27 @@
      style="white-space:pre;shape-inside:url(#rect2257);fill:#000000"><tspan
        x="106.80078"
        y="133.64702"
-       id="tspan6046">Coding regions in the genome are symbolized by arrows
+       id="tspan6876">Coding regions in the genome are symbolized by arrows
 </tspan><tspan
        x="106.80078"
        y="148.64702"
-       id="tspan6048">These are regions that are transcribed into RNA, which gets translated into proteins
+       id="tspan6878">These are regions that are transcribed into RNA, which gets translated into proteins
 </tspan><tspan
        x="106.80078"
        y="163.64702"
-       id="tspan6050">
+       id="tspan6880">
 </tspan><tspan
        x="106.80078"
        y="178.64702"
-       id="tspan6052">In less comples organisms, most of the genome is coding, for more comples it is less
+       id="tspan6882">In less comples organisms, most of the genome is coding, for more comples it is less
 </tspan><tspan
        x="106.80078"
        y="193.64702"
-       id="tspan6054">
+       id="tspan6884">
 </tspan><tspan
        x="106.80078"
        y="208.64702"
-       id="tspan6056">In humans, coding regions are estimated to take up only 2% of the genome</tspan></text>
+       id="tspan6886">In humans, coding regions are estimated to take up only 2% of the genome</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -4985,57 +4988,57 @@
      style="white-space:pre;shape-inside:url(#rect2263);fill:#000000"><tspan
        x="67.453125"
        y="373.481"
-       id="tspan6058">Noncoding regions are shows on the genome as the space </tspan><tspan
+       id="tspan6888">Noncoding regions are shows on the genome as the space </tspan><tspan
        x="67.453125"
        y="388.481"
-       id="tspan6060">between the arrows
+       id="tspan6890">between the arrows
 </tspan><tspan
        x="67.453125"
        y="403.481"
-       id="tspan6062">
+       id="tspan6892">
 </tspan><tspan
        x="67.453125"
        y="418.481"
-       id="tspan6064">Some noncoding DNA is transcribed into functional RNA </tspan><tspan
+       id="tspan6894">Some noncoding DNA is transcribed into functional RNA </tspan><tspan
        x="67.453125"
        y="433.481"
-       id="tspan6066">molecules, like tRNA, rRNA, etc.
+       id="tspan6896">molecules, like tRNA, rRNA, etc.
 </tspan><tspan
        x="67.453125"
        y="448.481"
-       id="tspan6068">
+       id="tspan6898">
 </tspan><tspan
        x="67.453125"
        y="463.481"
-       id="tspan6070">Pseudogenes are also present in noncoding DNA, these are </tspan><tspan
+       id="tspan6900">Pseudogenes are also present in noncoding DNA, these are </tspan><tspan
        x="67.453125"
        y="478.481"
-       id="tspan6072">genes that are likely passed from ancestors but aren't used </tspan><tspan
+       id="tspan6902">genes that are likely passed from ancestors but aren't used </tspan><tspan
        x="67.453125"
        y="493.481"
-       id="tspan6074">anymore
+       id="tspan6904">anymore
 </tspan><tspan
        x="67.453125"
        y="508.481"
-       id="tspan6076">
+       id="tspan6906">
 </tspan><tspan
        x="67.453125"
        y="523.481"
-       id="tspan6078">Introns are portions of genes that are cut out when being made </tspan><tspan
+       id="tspan6908">Introns are portions of genes that are cut out when being made </tspan><tspan
        x="67.453125"
        y="538.481"
-       id="tspan6080">into proteins
+       id="tspan6910">into proteins
 </tspan><tspan
        x="67.453125"
        y="553.481"
-       id="tspan6082">
+       id="tspan6912">
 </tspan><tspan
        x="67.453125"
        y="568.481"
-       id="tspan6084">Noncoding regions vary greatly across organisms, more so than </tspan><tspan
+       id="tspan6914">Noncoding regions vary greatly across organisms, more so than </tspan><tspan
        x="67.453125"
        y="583.481"
-       id="tspan6086">coding regions</tspan></text>
+       id="tspan6916">coding regions</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -5043,5 +5046,5 @@
      style="white-space:pre;shape-inside:url(#rect2269);fill:#000000"><tspan
        x="56.210938"
        y="750.09624"
-       id="tspan6088">Trevor</tspan></text>
+       id="tspan6918">Trevor</tspan></text>
 </svg>

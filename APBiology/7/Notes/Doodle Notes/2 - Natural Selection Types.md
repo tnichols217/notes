@@ -1,0 +1,1 @@
+![[2 - Natural Selection Types.png]]
