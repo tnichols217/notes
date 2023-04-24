@@ -44,12 +44,14 @@ date updated: 2023-04-24 11:44
 8. [x] Comparative Genomics
 9. [x] Antibiotic Resistance
 10. [x] Speciation
+        ![[7/Dood/10 - Spec]]
 
 ## POGILs
 
 1. [x] Selection and Speciation
+       ![[1 - Selection and Speciation]]
 
 ## Worksheets
 
 1. [x] Hardy-Weinberg Equilibrium
-       ![[wor]]
+       ![[1 - Hardy-Weinberg Equilibrium]]
