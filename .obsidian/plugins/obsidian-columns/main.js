@@ -95,14 +95,18 @@ function display(obj, DEFAULT_SETTINGS2, name) {
   }
 }
 function loadSettings(obj, DEFAULT_SETTINGS2) {
-  obj.settings = DEFAULT_SETTINGS2;
-  obj.loadData().then((data) => {
-    if (data) {
-      let items = Object.entries(data);
-      items.forEach((item) => {
-        obj.settings[item[0]].value = item[1];
-      });
-    }
+  return __async(this, null, function* () {
+    return new Promise((resolve, reject) => {
+      obj.settings = DEFAULT_SETTINGS2;
+      obj.loadData().then((data) => {
+        if (data) {
+          let items = Object.entries(data);
+          items.forEach((item) => {
+            obj.settings[item[0]].value = item[1];
+          });
+        }
+      }).then(resolve).catch(reject);
+    });
   });
 }
 function saveSettings(obj, DEFAULT_SETTINGS2) {
@@ -344,7 +348,7 @@ var ObsidianColumns = class extends import_obsidian2.Plugin {
   }
   loadSettings() {
     return __async(this, null, function* () {
-      loadSettings(this, DEFAULT_SETTINGS);
+      yield loadSettings(this, DEFAULT_SETTINGS);
       let r = document.querySelector(":root");
       console.log(this.settings.wrapSize.value.toString());
       r.style.setProperty("--obsidian-columns-min-width", this.settings.wrapSize.value.toString() + "px");
