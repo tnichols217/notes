@@ -5,8 +5,11 @@
    viewBox="0 0 612 792"
    version="1.2"
    id="svg4866"
-   sodipodi:docname="3 - Population Genetics.svg"
+   sodipodi:docname="3 - Population Genetics - 1.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="3 - Population Genetics - 1.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,11 +27,11 @@
      inkscape:document-units="pt"
      showgrid="false"
      inkscape:zoom="0.82481061"
-     inkscape:cx="699.55454"
-     inkscape:cy="723.19633"
-     inkscape:window-width="1360"
-     inkscape:window-height="768"
-     inkscape:window-x="1920"
+     inkscape:cx="699.55453"
+     inkscape:cy="724.40872"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1600"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4866" />
@@ -10310,25 +10313,25 @@
      style="white-space:pre;shape-inside:url(#rect5028);fill:#000000"><tspan
        x="65.46875"
        y="122.45952"
-       id="tspan7643">Scientists use population </tspan><tspan
+       id="tspan5098">Scientists use population </tspan><tspan
        x="65.46875"
        y="137.45952"
-       id="tspan7645">statistics to figure out </tspan><tspan
+       id="tspan5100">statistics to figure out </tspan><tspan
        x="65.46875"
        y="152.45952"
-       id="tspan7647">how common certain </tspan><tspan
+       id="tspan5102">how common certain </tspan><tspan
        x="65.46875"
        y="167.45952"
-       id="tspan7649">alleles are in a </tspan><tspan
+       id="tspan5104">alleles are in a </tspan><tspan
        x="65.46875"
        y="182.45952"
-       id="tspan7651">population and how </tspan><tspan
+       id="tspan5106">population and how </tspan><tspan
        x="65.46875"
        y="197.45952"
-       id="tspan7653">often there are </tspan><tspan
+       id="tspan5108">often there are </tspan><tspan
        x="65.46875"
        y="212.45952"
-       id="tspan7655">population changes</tspan></text>
+       id="tspan5110">population changes</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -10336,21 +10339,21 @@
      style="white-space:pre;shape-inside:url(#rect5034);fill:#000000"><tspan
        x="232.78125"
        y="93.361862"
-       id="tspan7657">There are two alleles in the English peppered </tspan><tspan
+       id="tspan5112">There are two alleles in the English peppered </tspan><tspan
        x="232.78125"
        y="108.36186"
-       id="tspan7659">moth population: dark (D) and light (d)
+       id="tspan5114">moth population: dark (D) and light (d)
 </tspan><tspan
        x="232.78125"
        y="123.36186"
-       id="tspan7661">
+       id="tspan5116">
 </tspan><tspan
        x="232.78125"
        y="138.36186"
-       id="tspan7663">In the early 1800s, there were a lot more light </tspan><tspan
+       id="tspan5118">In the early 1800s, there were a lot more light </tspan><tspan
        x="232.78125"
        y="153.36186"
-       id="tspan7665">colored moths than dark ones</tspan></text>
+       id="tspan5120">colored moths than dark ones</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -10358,35 +10361,35 @@
      style="white-space:pre;shape-inside:url(#rect5040);fill:#000000"><tspan
        x="526.18164"
        y="92.148971"
-       id="tspan7667">F(d) = light moths / total moths
+       id="tspan5122">F(d) = light moths / total moths
 </tspan><tspan
        x="526.18164"
        y="107.14897"
-       id="tspan7669">
+       id="tspan5124">
 </tspan><tspan
        x="526.18164"
        y="122.14897"
-       id="tspan7671">=&gt; 7/10
+       id="tspan5126">=&gt; 7/10
 </tspan><tspan
        x="526.18164"
        y="137.14897"
-       id="tspan7673">
+       id="tspan5128">
 </tspan><tspan
        x="526.18164"
        y="152.14897"
-       id="tspan7675">
+       id="tspan5130">
 </tspan><tspan
        x="526.18164"
        y="167.14897"
-       id="tspan7677">F(D) = dark moths / total moths
+       id="tspan5132">F(D) = dark moths / total moths
 </tspan><tspan
        x="526.18164"
        y="182.14897"
-       id="tspan7679">
+       id="tspan5134">
 </tspan><tspan
        x="526.18164"
        y="197.14897"
-       id="tspan7681">=&gt; 3/10</tspan></text>
+       id="tspan5136">=&gt; 3/10</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -10394,55 +10397,55 @@
      style="white-space:pre;shape-inside:url(#rect5046);fill:#000000"><tspan
        x="66.681641"
        y="718.95952"
-       id="tspan7683">F(DD) = DD moths / Total Moths
+       id="tspan5138">F(DD) = DD moths / Total Moths
 </tspan><tspan
        x="66.681641"
        y="733.95952"
-       id="tspan7685">
+       id="tspan5140">
 </tspan><tspan
        x="66.681641"
        y="748.95952"
-       id="tspan7687">=&gt; 1/10
+       id="tspan5142">=&gt; 1/10
 </tspan><tspan
        x="66.681641"
        y="763.95952"
-       id="tspan7689">
+       id="tspan5144">
 </tspan><tspan
        x="66.681641"
        y="778.95952"
-       id="tspan7691">
+       id="tspan5146">
 </tspan><tspan
        x="66.681641"
        y="793.95952"
-       id="tspan7693">F(Dd) = Dd moths / Total Moths
+       id="tspan5148">F(Dd) = Dd moths / Total Moths
 </tspan><tspan
        x="66.681641"
        y="808.95952"
-       id="tspan7695">
+       id="tspan5150">
 </tspan><tspan
        x="66.681641"
        y="823.95952"
-       id="tspan7697">=&gt; 2/10
+       id="tspan5152">=&gt; 2/10
 </tspan><tspan
        x="66.681641"
        y="838.95952"
-       id="tspan7699">
+       id="tspan5154">
 </tspan><tspan
        x="66.681641"
        y="853.95952"
-       id="tspan7701">
+       id="tspan5156">
 </tspan><tspan
        x="66.681641"
        y="868.95952"
-       id="tspan7703">F(dd) = dd moths / Total Moths
+       id="tspan5158">F(dd) = dd moths / Total Moths
 </tspan><tspan
        x="66.681641"
        y="883.95952"
-       id="tspan7705">
+       id="tspan5160">
 </tspan><tspan
        x="66.681641"
        y="898.95952"
-       id="tspan7707">=&gt; 7/10</tspan></text>
+       id="tspan5162">=&gt; 7/10</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -10450,18 +10453,18 @@
      style="white-space:pre;shape-inside:url(#rect5052);fill:#000000"><tspan
        x="297.03711"
        y="694.71147"
-       id="tspan7709">Allele frequencies are used to measure how population genetics change over </tspan><tspan
+       id="tspan5164">Allele frequencies are used to measure how population genetics change over </tspan><tspan
        x="297.03711"
        y="709.71147"
-       id="tspan7711">time
+       id="tspan5166">time
 </tspan><tspan
        x="297.03711"
        y="724.71147"
-       id="tspan7713">
+       id="tspan5168">
 </tspan><tspan
        x="297.03711"
        y="739.71147"
-       id="tspan7715">p is used for the dominant frequency, and q is for recessive in the alleles</tspan></text>
+       id="tspan5170">p is used for the dominant frequency, and q is for recessive in the alleles</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -10469,35 +10472,35 @@
      style="white-space:pre;shape-inside:url(#rect5108);fill:#000000"><tspan
        x="527.95508"
        y="797.64897"
-       id="tspan7717">p = D alleles / total alleles
+       id="tspan5172">p = D alleles / total alleles
 </tspan><tspan
        x="527.95508"
        y="812.64897"
-       id="tspan7719">
+       id="tspan5174">
 </tspan><tspan
        x="527.95508"
        y="827.64897"
-       id="tspan7721">=&gt; 4/10 = 1/5
+       id="tspan5176">=&gt; 4/10 = 1/5
 </tspan><tspan
        x="527.95508"
        y="842.64897"
-       id="tspan7723">
+       id="tspan5178">
 </tspan><tspan
        x="527.95508"
        y="857.64897"
-       id="tspan7725">
+       id="tspan5180">
 </tspan><tspan
        x="527.95508"
        y="872.64897"
-       id="tspan7727">q = d alleles / total alleles
+       id="tspan5182">q = d alleles / total alleles
 </tspan><tspan
        x="527.95508"
        y="887.64897"
-       id="tspan7729">
+       id="tspan5184">
 </tspan><tspan
        x="527.95508"
        y="902.64897"
-       id="tspan7731">=&gt; 16/20 = 4/5</tspan></text>
+       id="tspan5186">=&gt; 16/20 = 4/5</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -10505,5 +10508,5 @@
      style="white-space:pre;shape-inside:url(#rect5114);fill:#000000"><tspan
        x="207.32031"
        y="991.75053"
-       id="tspan7733">Trevor</tspan></text>
+       id="tspan5188">Trevor</tspan></text>
 </svg>

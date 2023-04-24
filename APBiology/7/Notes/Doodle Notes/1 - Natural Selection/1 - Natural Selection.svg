@@ -7,6 +7,9 @@
    id="svg2820"
    sodipodi:docname="1 - Natural Selection.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="1 - Natural Selection.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,10 +28,10 @@
      showgrid="false"
      inkscape:zoom="1.1664583"
      inkscape:cx="353.20594"
-     inkscape:cy="136.73871"
-     inkscape:window-width="1360"
-     inkscape:window-height="768"
-     inkscape:window-x="1920"
+     inkscape:cy="137.596"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1600"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2820" />
@@ -6308,55 +6311,55 @@
      style="white-space:pre;shape-inside:url(#rect1644);fill:#000000"><tspan
        x="71.15625"
        y="128.36772"
-       id="tspan3230">Natural Selection </tspan><tspan
+       id="tspan3178">Natural Selection </tspan><tspan
        x="71.15625"
        y="143.36772"
-       id="tspan3232">Happens when:
+       id="tspan3180">Happens when:
 </tspan><tspan
        x="71.15625"
        y="158.36772"
-       id="tspan3234">
+       id="tspan3182">
 </tspan><tspan
        x="71.15625"
        y="173.36772"
-       id="tspan3236">1. There is variation in the </tspan><tspan
+       id="tspan3184">1. There is variation in the </tspan><tspan
        x="71.15625"
        y="188.36772"
-       id="tspan3238">phenotypes in a certain </tspan><tspan
+       id="tspan3186">phenotypes in a certain </tspan><tspan
        x="71.15625"
        y="203.36772"
-       id="tspan3240">population
+       id="tspan3188">population
 </tspan><tspan
        x="71.15625"
        y="218.36772"
-       id="tspan3242">
+       id="tspan3190">
 </tspan><tspan
        x="71.15625"
        y="233.36772"
-       id="tspan3244">2. One phenotype has  a </tspan><tspan
+       id="tspan3192">2. One phenotype has  a </tspan><tspan
        x="71.15625"
        y="248.36772"
-       id="tspan3246">particular advantage over </tspan><tspan
+       id="tspan3194">particular advantage over </tspan><tspan
        x="71.15625"
        y="263.36772"
-       id="tspan3248">another either </tspan><tspan
+       id="tspan3196">another either </tspan><tspan
        x="71.15625"
        y="278.36772"
-       id="tspan3250">environmentally or </tspan><tspan
+       id="tspan3198">environmentally or </tspan><tspan
        x="71.15625"
        y="293.36772"
-       id="tspan3252">reproductivally
+       id="tspan3200">reproductivally
 </tspan><tspan
        x="71.15625"
        y="308.36772"
-       id="tspan3254">
+       id="tspan3202">
 </tspan><tspan
        x="71.15625"
        y="323.36772"
-       id="tspan3256">3. The trait is heritable, or </tspan><tspan
+       id="tspan3204">3. The trait is heritable, or </tspan><tspan
        x="71.15625"
        y="338.36772"
-       id="tspan3258">has influence on offspring</tspan></text>
+       id="tspan3206">has influence on offspring</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -6364,21 +6367,21 @@
      style="white-space:pre;shape-inside:url(#rect1650);fill:#000000"><tspan
        x="250.33008"
        y="74.357955"
-       id="tspan3260">The Colorado potato beetle is a pest that eats crops all over the US.
+       id="tspan3208">The Colorado potato beetle is a pest that eats crops all over the US.
 </tspan><tspan
        x="250.33008"
        y="89.357955"
-       id="tspan3262">There is a portion of the population that are resistant to pesticides (and those that </tspan><tspan
+       id="tspan3210">There is a portion of the population that are resistant to pesticides (and those that </tspan><tspan
        x="250.33008"
        y="104.35796"
-       id="tspan3264">arent).
+       id="tspan3212">arent).
 </tspan><tspan
        x="250.33008"
        y="119.35796"
-       id="tspan3266">Resistant beetles have a particular protein that enables them to break down the toxic </tspan><tspan
+       id="tspan3214">Resistant beetles have a particular protein that enables them to break down the toxic </tspan><tspan
        x="250.33008"
        y="134.35796"
-       id="tspan3268">pesticide quickly, allowing them to survive and pass on the trait.</tspan></text>
+       id="tspan3216">pesticide quickly, allowing them to survive and pass on the trait.</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -6386,13 +6389,13 @@
      style="white-space:pre;shape-inside:url(#rect1706);fill:#000000"><tspan
        x="243.47266"
        y="352.12163"
-       id="tspan3270">When beetle populations are sprayed with the pesticide, the resistant beetles have an </tspan><tspan
+       id="tspan3218">When beetle populations are sprayed with the pesticide, the resistant beetles have an </tspan><tspan
        x="243.47266"
        y="367.12163"
-       id="tspan3272">environmental advantage as they have a higher chance of surviving the spraying. They </tspan><tspan
+       id="tspan3220">environmental advantage as they have a higher chance of surviving the spraying. They </tspan><tspan
        x="243.47266"
        y="382.12163"
-       id="tspan3274">therefore have an a greater fitness in this environment and will be selected for.</tspan></text>
+       id="tspan3222">therefore have an a greater fitness in this environment and will be selected for.</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -6400,16 +6403,16 @@
      style="white-space:pre;shape-inside:url(#rect1712);fill:#000000"><tspan
        x="358.34961"
        y="605.88139"
-       id="tspan3276">The surviving population have a higher phenotypic concentration of </tspan><tspan
+       id="tspan3224">The surviving population have a higher phenotypic concentration of </tspan><tspan
        x="358.34961"
        y="620.88139"
-       id="tspan3278">resistant beetles. This altered phenotypic ratio will be carried onto the </tspan><tspan
+       id="tspan3226">resistant beetles. This altered phenotypic ratio will be carried onto the </tspan><tspan
        x="358.34961"
        y="635.88139"
-       id="tspan3280">population, and as the spraying continues, the phenotypic ratio will </tspan><tspan
+       id="tspan3228">population, and as the spraying continues, the phenotypic ratio will </tspan><tspan
        x="358.34961"
        y="650.88139"
-       id="tspan3282">continue to tend towards having more resistant beetles.</tspan></text>
+       id="tspan3230">continue to tend towards having more resistant beetles.</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -6417,42 +6420,42 @@
      style="white-space:pre;shape-inside:url(#rect1718);fill:#000000"><tspan
        x="66.011719"
        y="693.32671"
-       id="tspan3284">In this example, we are seeing Negative Natural </tspan><tspan
+       id="tspan3232">In this example, we are seeing Negative Natural </tspan><tspan
        x="66.011719"
        y="708.32671"
-       id="tspan3286">Selection, as it gives a consequence to a particular </tspan><tspan
+       id="tspan3234">Selection, as it gives a consequence to a particular </tspan><tspan
        x="66.011719"
        y="723.32671"
-       id="tspan3288">phenotype / multiple phenotypes, instead of </tspan><tspan
+       id="tspan3236">phenotype / multiple phenotypes, instead of </tspan><tspan
        x="66.011719"
        y="738.32671"
-       id="tspan3290">giving (a) particual phenotype(s) an advantage </tspan><tspan
+       id="tspan3238">giving (a) particual phenotype(s) an advantage </tspan><tspan
        x="66.011719"
        y="753.32671"
-       id="tspan3292">against the others.
+       id="tspan3240">against the others.
 </tspan><tspan
        x="66.011719"
        y="768.32671"
-       id="tspan3294">
+       id="tspan3242">
 </tspan><tspan
        x="66.011719"
        y="783.32671"
-       id="tspan3296">When an average/middle allele gets selected for, </tspan><tspan
+       id="tspan3244">When an average/middle allele gets selected for, </tspan><tspan
        x="66.011719"
        y="798.32671"
-       id="tspan3298">this is called a Balancing Natural Selection as it </tspan><tspan
+       id="tspan3246">this is called a Balancing Natural Selection as it </tspan><tspan
        x="66.011719"
        y="813.32671"
-       id="tspan3300">pulls more of the population towards the mean, </tspan><tspan
+       id="tspan3248">pulls more of the population towards the mean, </tspan><tspan
        x="66.011719"
        y="828.32671"
-       id="tspan3302">instead of pushing the entire mean higher or </tspan><tspan
+       id="tspan3250">instead of pushing the entire mean higher or </tspan><tspan
        x="66.011719"
        y="843.32671"
-       id="tspan3304">lower. The average allele tends to be closest to the </tspan><tspan
+       id="tspan3252">lower. The average allele tends to be closest to the </tspan><tspan
        x="66.011719"
        y="858.32671"
-       id="tspan3306">heterozygote genotype.</tspan></text>
+       id="tspan3254">heterozygote genotype.</tspan></text>
   <text
      xml:space="preserve"
      transform="scale(0.75)"
@@ -6460,5 +6463,5 @@
      style="white-space:pre;shape-inside:url(#rect1724);fill:#000000"><tspan
        x="661.83203"
        y="929.08256"
-       id="tspan3308">Trevor</tspan></text>
+       id="tspan3256">Trevor</tspan></text>
 </svg>
