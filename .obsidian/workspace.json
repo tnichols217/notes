@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "04e94433ada0f0f1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "APBiology/7/Notes/Doodle Notes/1 - Natural Selection.svg"
-              }
-            }
-          },
-          {
             "id": "da9e1571daa6c52a",
             "type": "leaf",
             "state": {
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,6 +164,8 @@
   },
   "active": "da9e1571daa6c52a",
   "lastOpenFiles": [
+    "APBiology/7/Notes/Doodle Notes/1 - Natural Selection/1 - Natural Selection.svg",
+    "APBiology/7/Notes/Doodle Notes/1 - Natural Selection",
     "APBiology/7/Notes/Doodle Notes/1 - Natural Selection.md",
     "APBiology/7/Notes/Doodle Notes/Untitled.md",
     "APBiology/7/Notes/Doodle Notes/1 - Natural Selection.svg",
@@ -200,7 +192,6 @@
     "APBiology/7/Notes/Doodle Notes/4 - Hardy-Weinberg.pdf",
     "APBiology/7/Notes/Doodle Notes/3 - Population Genetics.pdf",
     "APBiology/7/Notes/Doodle Notes/2 - Natural Selection Types.pdf",
-    "APBiology/7/Notes/Doodle Notes/1 - Natural Selection.pdf",
     "Private/college/Expenses.md",
     "Private/college/RD/Checklist.md",
     "APBiology/7/Notes/POGIL/1 - Selection and Speciation/Table 1.md",
@@ -219,7 +210,6 @@
     "APBiology/7/Notes/Bell Ringer/3 - Survival of the Fittest.md",
     "APBiology/7/Notes/Bell Ringer/2 - Evolutionary Scientists.md",
     "APBiology/7/Notes/Case Study/1 - Peppered Moth.md",
-    "APBiology/7/Notes/Case Study/2 - Fish out of salt water.md",
     "church/Untitled.canvas"
   ]
 }
