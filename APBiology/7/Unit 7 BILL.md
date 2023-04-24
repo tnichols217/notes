@@ -13,6 +13,7 @@ date updated: 2023-04-24 11:44
        ![[2 - Mouse Fur Color]]
 3. [x] Allele and Phenotype Frequencies in Rock Pocket Mouse Populations (HHMI)
 4. [x] Making Cladograms
+       ![[7/A]]
 
 ## Article Reading
 
@@ -21,10 +22,13 @@ date updated: 2023-04-24 11:44
 ## Bell Ringers
 
 1. [x] Natural Selection in Giraffes
+       ![[1 - Natural Selection in Giraffes]]
 2. [x] Evolutionary Scientists
+       ![[2 - Evolutionary Scientists]]
 3. [x] Survival of the Fittest
+       ![[3 - Survival of the Fittest]]
 4. [x] Furry Evolution FRQ
-       ![[]]
+       ![[4 - Furry Evolution FRQ]]
 5. [x] Constructing a Phylogenetic Tree
        ![[5 - Constructing a Phylogenetic Tree]]
 6. [x] Mechanisms of Evolution
