@@ -8,20 +8,9 @@
 	2. Capture and paste two program code segments you developed during the administration of this task that contain a list (or other collection type) being used to manage complexity in your program.
 	   Approx. 200 words (for all subparts of 3b combined, exclusive of program code)
 		1. The first program code segment must show how data have been stored in the list.
-
-**Drop Images Here**
-
-ii.
-
-The second program code segment must show the data in the same list being used, such as creating new data from the existing data or accessing multiple elements in the list, as part of fulfilling the program's purpose.
-
-**Drop Images Here**
-
-Then, provide a written response that does all three of the following:
-
-iii.
-
-Identifies the name of the list being used in this response.
+		2. The second program code segment must show the data in the same list being used, such as creating new data from the existing data or accessing multiple elements in the list, as part of fulfilling the program's purpose.
+		3. Then, provide a written response that does all three of the following:
+		   Identifies the name of the list being used in this response.
 
 0 words
 
