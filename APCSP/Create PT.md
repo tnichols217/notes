@@ -25,6 +25,11 @@ import express, { RequestHandler, Request, Response } from "express";
 import http from "http";
 import { resolve as main } from "./routes/main"
 
+//@ts-ignore
+import monke from "./routes/monke.glb"
+//@ts-ignore
+import hdri from "./routes/hdri.exr"
+
 const app = express()
 
 export type dirList = string[]
@@ -37,7 +42,7 @@ const resTreeTup = {
     ResTreeItem: 1
 } as const
 
-const a: resolveTreeFunction = (req, q, res) => {
+const sendFile: resolveTreeFunction = (req, q, res) => {
     if (req.length == 1) {
         console.log(req)
         res.sendFile(`${__dirname}/${req[0]}`)
@@ -46,31 +51,49 @@ const a: resolveTreeFunction = (req, q, res) => {
     }
 }
 
-const b: resolveTreeItem = (req, q, res) => {
-    res.send(JSON.stringify(q))
-}
-
 const mainWrapper: resolveTreeFunction = (req, q, res) => {
     console.log(req)
     if (req.length == 0) {
         return main(req, q, res)
     } else {
         console.log(req)
-        return a(req, q, res)
+        return sendFile(req, q, res)
     }
+}
+
+const examples: resolveTreeFunction = (req, q, res) => {
+    const obj = ".glb"
+    const env = ".exr"
+    let path = `${__dirname}/files/`
+    let file = ""
+    let ext = ""
+    console.log(req)
+    if (req.length == 0) {
+        file = "monke"
+        ext = obj
+    } else if (req.length == 1) {
+        return res.redirect(`./${req[0]}/view`)
+    } else {
+        if (req[1] == "view") {
+            return main(req, q, res)
+        }
+        file = req[0]
+        ext = req[1] == "env" ? env : obj
+    }
+    path += file + ext
+    res.sendFile(path)
 }
 
 const mapDirs: resolveTree = [
     mainWrapper,
     {
-        a: a,
-        b: [
-            a,
-            {
-                c: a,
-                d: a
-            }
-        ]
+        obj: (req, q, res) => {
+            res.sendFile(`${__dirname}/${monke}`)
+        },
+        env: (req, q, res) => {
+            res.sendFile(`${__dirname}/${hdri}`)
+        },
+        examples: examples
     }
 ]
 
@@ -124,10 +147,6 @@ import { CustomElements } from "basicjsx"
 import main from "./main.client"
 //@ts-ignore
 import css from "./main.css"
-//@ts-ignore
-import monke from "./monke.glb"
-//@ts-ignore
-import hdri from "./hdri.exr"
 
 export const wrapFunction = (func: any, args : string) => {
     console.log(func)
@@ -170,9 +189,9 @@ const Head = () =>
 const Body = () => <body>
     <script type="module">
         {Buffer.from(main, 'base64').toString()}
-        console.log("{monke}");
-        console.log("{hdri}");
     </script>
+    <div id="drop_zone" ondrop="window.dropHandler(event);" ondragover="window.dragOverHandler(event);">
+    </div>
 </body>
 
 export const resolve: resolveTreeFunction = (dir, query, res) => {
@@ -191,25 +210,19 @@ export const resolve: resolveTreeFunction = (dir, query, res) => {
 
 // Three.js for starting the 3d canvas view
 // Built by mrdoob, at https://www.npmjs.com/package/three
-//@ts-ignore
 import * as THREE from 'three';
 // For loading GLTF files (for displaying)
-//@ts-ignore
 import {GLTFLoader} from 'three/addons/loaders/GLTFLoader';
 // For loading EXR files (for background and luminosity)
-//@ts-ignore
 import {EXRLoader} from 'three/addons/loaders/EXRLoader';
 // For basic controls orbiting around the model
-//@ts-ignore
 import {OrbitControls} from 'three/addons/controls/OrbitControls.js';
 // Postprocessing to allow filters and processing of the canvas
 // Built by mrdoob and vanruesc at https://www.npmjs.com/package/postprocessing
-//@ts-ignore
 import * as POSTPROCESSING from "postprocessing"
-// realism-effects to enable SSGI, TRAA, Motion Blur etc
+// realism-effects to enable Motion Blur
 // made by 0beqz at https://github.com/0beqz/realism-effects
-//@ts-ignore
-import { SSGIEffect, TRAAEffect, MotionBlurEffect, VelocityDepthNormalPass } from "realism-effects"
+import { MotionBlurEffect, VelocityDepthNormalPass } from "realism-effects"
 
 /* INIT */
 const camera = new THREE.PerspectiveCamera(70, window.innerWidth / window.innerHeight, 0.01, 10);
@@ -222,21 +235,17 @@ let gltfLoader = new GLTFLoader();
 let exrLoader = new EXRLoader();
 
 let [gltf, ext] = [
-	gltfLoader.loadAsync('./monke-Q3OQ67NS.glb'),
-    exrLoader.loadAsync("./hdri-JEPJQ632.exr"),
+	gltfLoader.loadAsync('./obj'),
+    exrLoader.loadAsync("./env"),
 ]
 
 /* SCENE */
 
-const geometry = new THREE.BoxGeometry(0.2, 0.2, 0.2);
-const material = new THREE.MeshNormalMaterial();
-
-const mesh = new THREE.Mesh(geometry, material);
-scene.add(mesh);
+let gltfFile
 
 gltf.then((gltf) => {
-		const root = gltf.scene;
-		scene.add(root);
+		gltfFile = gltf.scene;
+		scene.add(gltfFile);
 	});
 
 /* RENDERER */
@@ -244,28 +253,29 @@ gltf.then((gltf) => {
 const renderer = new THREE.WebGLRenderer({ antialias: true });
 renderer.setSize(window.innerWidth, window.innerHeight);
 renderer.setAnimationLoop(animation);
-document.body.appendChild(renderer.domElement);
+document.getElementById("drop_zone")?.appendChild(renderer.domElement);
 renderer.toneMapping = THREE.ACESFilmicToneMapping;
 renderer.outputEncoding = THREE.sRGBEncoding;
-
+renderer.shadowMap.enabled = true
 
 const composer = new POSTPROCESSING.EffectComposer(renderer)
 
 // EFFECTS
-
+const renderPass = new POSTPROCESSING.RenderPass( scene, camera )
+composer.addPass( renderPass )
 const velocityDepthNormalPass = new VelocityDepthNormalPass(scene, camera)
 composer.addPass(velocityDepthNormalPass)
 
-const ssgiEffect = new SSGIEffect(scene, camera, velocityDepthNormalPass)
-const traaEffect = new TRAAEffect(scene, camera, velocityDepthNormalPass)
 const motionBlurEffect = new MotionBlurEffect(velocityDepthNormalPass)
-
-const effectPass = new POSTPROCESSING.EffectPass(camera, ssgiEffect, traaEffect, motionBlurEffect)
+const effectPass = new POSTPROCESSING.EffectPass(camera, motionBlurEffect)
 composer.addPass(effectPass)
 
+composer.setSize(window.innerWidth, window.innerHeight);
 
 const pmremGenerator = new THREE.PMREMGenerator(renderer);
 pmremGenerator.compileEquirectangularShader();
+
+/* BACKGROUND */
 
 ext.then((texture) => {
 			texture.mapping = THREE.EquirectangularReflectionMapping;
@@ -292,6 +302,7 @@ function resizeRendererToDisplaySize(renderer, camera) {
 	const needResize = canvas.width !== width || canvas.height !== height;
 	if (needResize) {
 		renderer.setSize(width, height);
+		composer.setSize(width, height);
 		const canvas = renderer.domElement;
 		camera.aspect = canvas.clientWidth / canvas.clientHeight;
 		camera.updateProjectionMatrix();
@@ -303,12 +314,72 @@ function animation(time) {
 
 	resizeRendererToDisplaySize(renderer, camera)
 
-	mesh.rotation.x = time / 2000;
-	mesh.rotation.y = time / 1000;
-
-	renderer.render(scene, camera);
+	
+	// renderer.render(scene, camera);
+	composer.render();
 
 }
+
+/* DRAG AND DROP HANDLERS */
+
+window.dropHandler = function (event) {
+	let backgroundExt = [".exr"]
+	let glExt = [".glb"]
+
+	event.preventDefault();
+	let dt = Array.from(event.dataTransfer.items) ?? []
+	dt = dt.filter((item) => item.kind == "file")
+
+	let newBack = dt.find((item) => backgroundExt.filter((ext) => item.getAsFile().name.endsWith(ext)).length > 0)
+	let newGl = dt.find((item) => glExt.filter((ext) => item.getAsFile().name.endsWith(ext)).length > 0)
+
+	if (newGl) {
+		scene.remove(gltfFile)
+		newGl.getAsFile().arrayBuffer().then((AB) => {
+			gltfLoader.parse(AB, "", (gl) => {
+				gltfFile = gl.scene;
+				scene.add(gltfFile);
+			})
+		})
+	}
+
+	if (newBack) {
+		newBack.getAsFile().arrayBuffer().then((AB) => {
+			let texData = exrLoader.parse(AB)
+
+			// Manually parse new texture for webGl, since there is no buffer loader for EXR files
+			const texture = new THREE.DataTexture();
+
+			let usedKeys = ["encoding", "format", "type"]
+			let imageKeys = ["width", "height", "data"]
+			let texKeys = Object.entries(texData)
+			Object.assign(texture,
+				Object.fromEntries(texKeys.filter(([key, _]) => {
+					return usedKeys.includes(key)
+				})),
+				{
+					image: Object.fromEntries(texKeys.filter(([key, _]) => {
+						return imageKeys.includes(key)
+					})),
+					magFilter: THREE.LinearFilter,
+					minFilter: THREE.LinearFilter,
+					needsUpdate:true
+				}
+			)
+			
+			texture.mapping = THREE.EquirectangularReflectionMapping;
+			scene.environment = texture;
+			scene.background = texture;
+
+			texture.dispose();
+		})
+	}
+}
+
+window.dragOverHandler = function (event) {
+	event.preventDefault();
+}
+
 ```
 
 # express/routes/main.css
