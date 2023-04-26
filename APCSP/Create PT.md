@@ -15,7 +15,7 @@ start()
 
 ```tsx
 // I built this myself (you can see it on npmjs)
-// Built by Trevor Nichols (tnichols217) at https://www.npmjs.com/package/basicjsx
+// Built by [redacted] (tnichols217) at https://www.npmjs.com/package/basicjsx
 import React from "basicjsx"
 // Express http server for running the web server
 // Made by TJ Holowaychuk, can be found at https://www.npmjs.com/package/express
@@ -140,7 +140,7 @@ export const start = () => {
 ```tsx
 import { resolveTreeFunction } from "../resolve"
 // I built this package
-// Built by Trevor Nichols (tnichols217) at https://www.npmjs.com/package/basicjsx
+// Built by [redacted] (tnichols217) at https://www.npmjs.com/package/basicjsx
 import React from "basicjsx"
 import { CustomElements } from "basicjsx"
 //@ts-ignore
