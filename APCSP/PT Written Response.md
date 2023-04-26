@@ -55,4 +55,6 @@ date updated: 2023-04-27 01:46
             - newDir == null (after recusing once)
       1. Identifies the result of each call.
          1. Result of the first call:
+            It would return the function main - the function of the tuple, followed with an empty array as there are no unresolved directories
          2. Result of the second call:
+            
