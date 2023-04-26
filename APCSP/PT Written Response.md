@@ -1,50 +1,30 @@
+---
+date created: 2023-04-27 01:45
+date updated: 2023-04-27 01:45
+---
+
 1. WRITTEN RESPONSES (Created Independently)
    Submit your responses to prompts 3a – 3d, which are described below. Your response to all prompts combined must not exceed 750 words (program code is not included in the word count). Collaboration is not allowed on the written responses.
-	1. Provide a written response that does all three of the following:
-	   Approx. 150 words (for all subparts of 3a combined)
-		1. Describes the overall purpose of the program.
-		2. Describes what functionality of the program is demonstrated in the video.
-		3. Describes the input and output of the program demonstrated in the video.
-	2. Capture and paste two program code segments you developed during the administration of this task that contain a list (or other collection type) being used to manage complexity in your program.
-	   Approx. 200 words (for all subparts of 3b combined, exclusive of program code)
-		1. The first program code segment must show how data have been stored in the list.
-		2. The second program code segment must show the data in the same list being used, such as creating new data from the existing data or accessing multiple elements in the list, as part of fulfilling the program's purpose.
-		3. Then, provide a written response that does all three of the following:
-		   Identifies the name of the list being used in this response.
+   1. Provide a written response that does all three of the following:
+      Approx. 150 words (for all subparts of 3a combined)
+      1. Describes the overall purpose of the program.
+      2. Describes what functionality of the program is demonstrated in the video.
+      3. Describes the input and output of the program demonstrated in the video.
+   2. Capture and paste two program code segments you developed during the administration of this task that contain a list (or other collection type) being used to manage complexity in your program.
+      Approx. 200 words (for all subparts of 3b combined, exclusive of program code)
+      1. The first program code segment must show how data have been stored in the list.
+      2. The second program code segment must show the data in the same list being used, such as creating new data from the existing data or accessing multiple elements in the list, as part of fulfilling the program's purpose.
+      3. Then, provide a written response that does all three of the following:
+         Identifies the name of the list being used in this response.
+      4. Describes what the data contained in the list represent in your program.
+      5. Explains how the selected list manages complexity in your program code by explaining why your program code could not be written, or how it would be written differently, if you did not use the list.
+   3. Capture and paste two program code segments you developed during the administration of this task that contain a student-developed procedure that implements an algorithm used in your program and a call to that procedure.
+      Approx. 200 words (for all subparts of 3c combined, exclusive of program code)
+      1.The first program code segment must be a student-developed procedure that:
 
-0 words
-
-  
-
-iv.
-
-Describes what the data contained in the list represent in your program.
-
-0 words
-
-  
-
-v.
-
-Explains how the selected list manages complexity in your program code by explaining why your program code could not be written, or how it would be written differently, if you did not use the list.
-
-0 words
-
-  
-
-3 c.
-
-Capture and paste two program code segments you developed during the administration of this task that contain a student-developed procedure that implements an algorithm used in your program and a call to that procedure.
-
-Approx. 200 words (for all subparts of 3c combined, exclusive of program code)
-
-i.
-
-The first program code segment must be a student-developed procedure that:
-
--   Defines the procedure's name and return type (if necessary)
--   Contains and uses one or more parameters that have an effect on the functionality of the procedure
--   Implements an algorithm that includes sequencing, selection and iteration
+- Defines the procedure's name and return type (if necessary)
+- Contains and uses one or more parameters that have an effect on the functionality of the procedure
+- Implements an algorithm that includes sequencing, selection and iteration
 
 **Drop Images Here**
 
@@ -62,15 +42,11 @@ Describes in general what the identified procedure does and how it contributes t
 
 0 words
 
-  
-
 iv.
 
 Explains in detailed steps how the algorithm implemented in the identified procedure works. Your explanation must be detailed enough for someone else to recreate it.
 
 0 words
-
-  
 
 3 d.
 
@@ -86,13 +62,9 @@ First call:
 
 0 words
 
-  
-
 Second call:
 
 0 words
-
-  
 
 ii.
 
@@ -102,13 +74,9 @@ Condition(s) tested by first call:
 
 0 words
 
-  
-
 Condition(s) tested by second call:
 
 0 words
-
-  
 
 iii.
 
@@ -117,7 +85,5 @@ Identifies the result of each call.
 Result of the first call:
 
 0 words
-
-  
 
 Result of the second call:
