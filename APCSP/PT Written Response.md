@@ -32,9 +32,12 @@ date updated: 2023-04-27 01:46
          - Defines the procedure's name and return type (if necessary)
          - Contains and uses one or more parameters that have an effect on the functionality of the procedure
          - Implements an algorithm that includes sequencing, selection and iteration
+         ![[Pasted image 20230427021258.png]]
       2. The second program code segment must show where your student-developed procedure is being called in your program.
+         ![[Pasted image 20230427021313.png]]
       3. Then, provide a written response that does both of the following:
          Describes in general what the identified procedure does and how it contributes to the overall functionality of the program.
+         This function takes in 
       4. Explains in detailed steps how the algorithm implemented in the identified procedure works. Your explanation must be detailed enough for someone else to recreate it.
    4. Provides a written response that does all three of the following:
       Approx. 200 words (for all subparts of 3d combined)
