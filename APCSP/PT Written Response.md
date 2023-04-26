@@ -1,16 +1,8 @@
-3. WRITTEN RESPONSES (Created Independently)
-
-Submit your responses to prompts 3a – 3d, which are described below. Your response to all prompts combined must not exceed 750 words (program code is not included in the word count). Collaboration is not allowed on the written responses.
-
-3 a.
-
-Provide a written response that does all three of the following:
-
-Approx. 150 words (for all subparts of 3a combined)
-
-i.
-
-Describes the overall purpose of the program.
+1. WRITTEN RESPONSES (Created Independently)
+   Submit your responses to prompts 3a – 3d, which are described below. Your response to all prompts combined must not exceed 750 words (program code is not included in the word count). Collaboration is not allowed on the written responses.
+	1. Provide a written response that does all three of the following:
+	   Approx. 150 words (for all subparts of 3a combined)
+		1. Describes the overall purpose of the program.
 
 0 words
 
