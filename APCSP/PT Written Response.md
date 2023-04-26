@@ -21,8 +21,9 @@ date updated: 2023-04-27 01:46
          ![[Pasted image 20230427020230.png]]
       3. Then, provide a written response that does all three of the following:
          Identifies the name of the list being used in this response.
-         
+         The lists backgroundExt, glExt, and dt are all examples of lists in this code segment.
       4. Describes what the data contained in the list represent in your program.
+         backgroundExt and glExt both store possible file extensions for environment textures and 3D models respectively. 
       5. Explains how the selected list manages complexity in your program code by explaining why your program code could not be written, or how it would be written differently, if you did not use the list.
    3. Capture and paste two program code segments you developed during the administration of this task that contain a student-developed procedure that implements an algorithm used in your program and a call to that procedure.
       Approx. 200 words (for all subparts of 3c combined, exclusive of program code)
