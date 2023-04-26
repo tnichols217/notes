@@ -1,4 +1,9 @@
+---
+date created: 2023-04-26 10:32
+---
+
 # index.tsx
+
 ```tsx
 import {start} from "./express/resolve"
 
@@ -6,6 +11,7 @@ start()
 ```
 
 # express/resolve.tsx
+
 ```tsx
 // I built this myself (you can see it on npmjs)
 import React from "basicjsx"
@@ -103,6 +109,7 @@ export const start = () => {
 ```
 
 # express/routes/main.tsx
+
 ```tsx
 import { resolveTreeFunction } from "../resolve"
 // I built this package
@@ -173,6 +180,7 @@ export const resolve: resolveTreeFunction = (dir, query, res) => {
 ```
 
 # express/routes/client.ts
+
 ```ts
 /* IMPORTS */
 
@@ -296,6 +304,7 @@ function animation(time) {
 ```
 
 # express/routes/main.css
+
 ```css
 * {
     margin: 0;
@@ -304,7 +313,9 @@ function animation(time) {
 ```
 
 # monke.glb
+
 This is a gltf 3d model file, for loading the 3d model in the viewer
 
 # hdri.exr
-This is an exr 360 environment file for 
+
+This is an exr 360 environment file for loading the background in the scene
