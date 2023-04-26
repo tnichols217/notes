@@ -3,38 +3,11 @@
 	1. Provide a written response that does all three of the following:
 	   Approx. 150 words (for all subparts of 3a combined)
 		1. Describes the overall purpose of the program.
-
-0 words
-
-alignment, normal,
-
-  
-
-ii.
-
-Describes what functionality of the program is demonstrated in the video.
-
-0 words
-
-  
-
-iii.
-
-Describes the input and output of the program demonstrated in the video.
-
-0 words
-
-  
-
-3 b.
-
-Capture and paste two program code segments you developed during the administration of this task that contain a list (or other collection type) being used to manage complexity in your program.
-
-Approx. 200 words (for all subparts of 3b combined, exclusive of program code)
-
-i.
-
-The first program code segment must show how data have been stored in the list.
+		2. Describes what functionality of the program is demonstrated in the video.
+		3. Describes the input and output of the program demonstrated in the video.
+	2. Capture and paste two program code segments you developed during the administration of this task that contain a list (or other collection type) being used to manage complexity in your program.
+	   Approx. 200 words (for all subparts of 3b combined, exclusive of program code)
+		1. The first program code segment must show how data have been stored in the list.
 
 **Drop Images Here**
 
