@@ -46,7 +46,7 @@ date updated: 2023-04-27 01:46
          1. First call:
             Called with ["examples", "monke", "view"] and [main, {examples: ex}]
          2. Second call:
-            Called with ["examples", "giraffe]
+            Called with ["examples", "giraffe", "obj"] and [main, {examples: [ex, {monke: mon, giraffe: gir}]}]
       2. Describes what condition(s) is being tested by each call to the procedure.
          1. Condition(s) tested by first call:
          2. Condition(s) tested by second call:
