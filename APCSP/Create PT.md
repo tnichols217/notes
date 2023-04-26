@@ -1,5 +1,6 @@
 ---
 date created: 2023-04-26 10:32
+date updated: 2023-04-26 10:45
 ---
 
 # index.tsx
@@ -14,10 +15,13 @@ start()
 
 ```tsx
 // I built this myself (you can see it on npmjs)
+// Built by Trevor Nichols (tnichols217) at https://www.npmjs.com/package/basicjsx
 import React from "basicjsx"
 // Express http server for running the web server
+// Made by TJ Holowaychuk, can be found at https://www.npmjs.com/package/express
 import express, { RequestHandler, Request, Response } from "express";
 // Http for using the http protocol (because theres no need for https for this project)
+// Built in module for the node.js environment
 import http from "http";
 import { resolve as main } from "./routes/main"
 
@@ -113,6 +117,7 @@ export const start = () => {
 ```tsx
 import { resolveTreeFunction } from "../resolve"
 // I built this package
+// Built by Trevor Nichols (tnichols217) at https://www.npmjs.com/package/basicjsx
 import React from "basicjsx"
 import { CustomElements } from "basicjsx"
 //@ts-ignore
@@ -179,13 +184,14 @@ export const resolve: resolveTreeFunction = (dir, query, res) => {
 }
 ```
 
-# express/routes/client.ts
+# express/routes/main.client.ts
 
 ```ts
 /* IMPORTS */
 
-//@ts-ignore
 // Three.js for starting the 3d canvas view
+// Built by mrdoob, at https://www.npmjs.com/package/three
+//@ts-ignore
 import * as THREE from 'three';
 // For loading GLTF files (for displaying)
 //@ts-ignore
@@ -197,9 +203,11 @@ import {EXRLoader} from 'three/addons/loaders/EXRLoader';
 //@ts-ignore
 import {OrbitControls} from 'three/addons/controls/OrbitControls.js';
 // Postprocessing to allow filters and processing of the canvas
+// Built by mrdoob and vanruesc at https://www.npmjs.com/package/postprocessing
 //@ts-ignore
 import * as POSTPROCESSING from "postprocessing"
 // realism-effects to enable SSGI, TRAA, Motion Blur etc
+// made by 0beqz at https://github.com/0beqz/realism-effects
 //@ts-ignore
 import { SSGIEffect, TRAAEffect, MotionBlurEffect, VelocityDepthNormalPass } from "realism-effects"
 
