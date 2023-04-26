@@ -8,8 +8,12 @@ date updated: 2023-04-27 01:46
    1. Provide a written response that does all three of the following:
       Approx. 150 words (for all subparts of 3a combined)
       1. Describes the overall purpose of the program.
-      2. Describes what functionality of the program is demonstrated in the video.
-      3. Describes the input and output of the program demonstrated in the video.
+         > [!para]
+         > a
+         
+         
+      1. Describes what functionality of the program is demonstrated in the video.
+      2. Describes the input and output of the program demonstrated in the video.
    2. Capture and paste two program code segments you developed during the administration of this task that contain a list (or other collection type) being used to manage complexity in your program.
       Approx. 200 words (for all subparts of 3b combined, exclusive of program code)
       1. The first program code segment must show how data have been stored in the list.
@@ -36,12 +40,6 @@ date updated: 2023-04-27 01:46
       2. Describes what condition(s) is being tested by each call to the procedure.
          1. Condition(s) tested by first call:
          2. Condition(s) tested by second call:
-      3. 
-
-Identifies the result of each call.
-
-Result of the first call:
-
-0 words
-
-Result of the second call:
+      3. Identifies the result of each call.
+         1. Result of the first call:
+         2. Result of the second call:
