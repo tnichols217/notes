@@ -10,8 +10,9 @@ date updated: 2023-04-27 01:46
       1. Describes the overall purpose of the program.
          This is a simple website that displays 3d files accompanied with a background. It has a few preset models and background for you to explore, but also supports you uploading your own to view on the site. This was originally inspired as a way for me to display and share my 3D art in a way that is more interactive than simple images. This allows me to easily share and exhibit not only my pieces but any 3D model online. With continued development in the future, I may even develop it into a way to exhibit my art in AR.
       1. Describes what functionality of the program is demonstrated in the video.
-         In the video, you can see that 3D model is being moved around, showing the different sides of the model, while having the environment around it effect the lighting on the model. Additionally, you can see the drag and drop feature of the program, allowing you to display your own 3D models and environments. The centerpoint of the program is to view 
+         In the video, you can see that 3D model is being moved around, showing the different sides of the model, while having the environment around it effect the lighting on the model. Additionally, you can see the drag and drop feature of the program, allowing you to display your own 3D models and environments. The centerpoint of the program is to view the 3D and is reflected as the program has a minimal interface, showing only the model.
       2. Describes the input and output of the program demonstrated in the video.
+         The mouse movement can be considered an input to this program, moving the model around to see the other sides of it. The output would be the display of the model
    2. Capture and paste two program code segments you developed during the administration of this task that contain a list (or other collection type) being used to manage complexity in your program.
       Approx. 200 words (for all subparts of 3b combined, exclusive of program code)
       1. The first program code segment must show how data have been stored in the list.
