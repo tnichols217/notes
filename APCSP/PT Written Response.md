@@ -57,4 +57,4 @@ date updated: 2023-04-27 01:46
          1. Result of the first call:
             It would return the function main - the function of the tuple, followed with an empty array as there are no unresolved directories
          2. Result of the second call:
-            
+            It would return the function gir, followed by the array ["obj"], since the "obj" portion of the directory list remains unresolved, while examples and gr
