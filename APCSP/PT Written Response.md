@@ -37,7 +37,7 @@ date updated: 2023-04-27 01:46
          ![[Pasted image 20230427021313.png]]
       3. Then, provide a written response that does both of the following:
          Describes in general what the identified procedure does and how it contributes to the overall functionality of the program.
-         This function takes in 
+         This function takes in a directory list and a resolve tree in order to decide which re
       4. Explains in detailed steps how the algorithm implemented in the identified procedure works. Your explanation must be detailed enough for someone else to recreate it.
    4. Provides a written response that does all three of the following:
       Approx. 200 words (for all subparts of 3d combined)
