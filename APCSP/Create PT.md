@@ -296,5 +296,15 @@ function animation(time) {
 ```
 
 # express/routes/main.css
-```c
+```css
+* {
+    margin: 0;
+    padding: 0;
+}
 ```
+
+# monke.glb
+This is a gltf 3d model file, for loading the 3d model in the viewer
+
+# hdri.exr
+This is an exr 360 environment file for 
