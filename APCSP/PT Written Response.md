@@ -51,7 +51,8 @@ date updated: 2023-04-27 01:46
          1. Condition(s) tested by first call:
             - dir.length == 0
          2. Condition(s) tested by second call:
-            - 
-      3. Identifies the result of each call.
+            - typeof newDir == "function"
+            - newDir == null (after recusing once)
+      1. Identifies the result of each call.
          1. Result of the first call:
          2. Result of the second call:
