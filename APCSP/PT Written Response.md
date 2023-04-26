@@ -44,6 +44,7 @@ date updated: 2023-04-27 01:46
       Approx. 200 words (for all subparts of 3d combined)
       1. Describes two calls to the procedure identified in written response 3c. Each call must pass a different argument(s) that causes a different segment of code in the algorithm to execute.
          1. First call:
+            Called with ["a", "monke", "view"] and 
          2. Second call:
       2. Describes what condition(s) is being tested by each call to the procedure.
          1. Condition(s) tested by first call:
