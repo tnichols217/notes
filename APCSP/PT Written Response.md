@@ -44,12 +44,14 @@ date updated: 2023-04-27 01:46
       Approx. 200 words (for all subparts of 3d combined)
       1. Describes two calls to the procedure identified in written response 3c. Each call must pass a different argument(s) that causes a different segment of code in the algorithm to execute.
          1. First call:
-            Called with ["examples", "monke", "view"] and [main, {examples: ex}]
+            Called with [] and [main, {examples: ex}]
          2. Second call:
             Called with ["examples", "giraffe", "obj"] and [main, {examples: [ex, {monke: mon, giraffe: gir}]}]
       2. Describes what condition(s) is being tested by each call to the procedure.
          1. Condition(s) tested by first call:
+            - dir.length == 0
          2. Condition(s) tested by second call:
+            - 
       3. Identifies the result of each call.
          1. Result of the first call:
          2. Result of the second call:
