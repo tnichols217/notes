@@ -39,7 +39,7 @@ date updated: 2023-04-27 01:46
          Describes in general what the identified procedure does and how it contributes to the overall functionality of the program.
          This function takes in a directory list and a resolve tree in order to decide which resolver will need to be used to reply to the http request coming into the server. For example, if you request 'examples/monke/view', the function would use the resolveTree - an abstract object of resolvers - in order to pick the resolver associated with the 'examples/monke/view' path, since it should display something different than when you decide to visit 'examples/giraffe/view'. This function allows me to spread the routing of a request path out to different functions depending on characteristics of the request path instead of needing one large function to resolve every request.
       4. Explains in detailed steps how the algorithm implemented in the identified procedure works. Your explanation must be detailed enough for someone else to recreate it.
-         This function takes two arguments, a list of strings representing the directory of the request, and a resolve tree, 
+         This function takes two arguments, a list of strings representing the directory of the request, and a resolve tree, a tuple containing a function, and 
    4. Provides a written response that does all three of the following:
       Approx. 200 words (for all subparts of 3d combined)
       1. Describes two calls to the procedure identified in written response 3c. Each call must pass a different argument(s) that causes a different segment of code in the algorithm to execute.
