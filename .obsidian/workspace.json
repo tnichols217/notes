@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APCSP/PT Written Response.md",
+                "file": "APCSP/Create PT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APCSP/PT Written Response.md"
+                "file": "APCSP/Create PT.md"
               }
             }
           },
@@ -162,12 +161,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7051c7b8474f08c4",
+  "active": "4fe9aa1aeb01ca04",
   "lastOpenFiles": [
+    "APCSP/PT Written Response.md",
     "APCSP/attachments/Pasted image 20230427015853.png",
     "APCSP/attachments",
     "APCSP/Create PT.md",
-    "APCSP/PT Written Response.md",
     "APCSP/Create PT.pdf",
     "obsidian-columns.md",
     "APComSci",
@@ -198,7 +197,6 @@
     "APBiology/7/Notes/Doodle Notes/7 - Evidence for Evolution/7 - Evidence for Evolution.png",
     "APBiology/7/Notes/Doodle Notes/6 - Mechanisms of Evolution 2/6 - Mechanisms of Evolution 2 - 1.png",
     "APBiology/7/Notes/Doodle Notes/6 - Mechanisms of Evolution 2/6 - Mechanisms of Evolution 2 - 2.png",
-    "APBiology/7/Notes/Doodle Notes/6 - Mechanisms of Evolution 2/6 - Mechanisms of Evolution 2 - 3.png",
     "APBiology/7/Notes/Doodle Notes/10 - Comparison Genomics",
     "APBiology/7/Notes/Doodle Notes/9 - Antibiotic Resistance Evolution in the Lab",
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics",

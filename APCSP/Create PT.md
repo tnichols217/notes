@@ -324,7 +324,7 @@ function animation(time) {
 
 window.dropHandler = function (event) {
 	let backgroundExt = [".exr"]
-	let glExt = [".glb"]
+	let glExt = [".glb", ".gltf"]
 
 	event.preventDefault();
 	let dt = Array.from(event.dataTransfer.items) ?? []
