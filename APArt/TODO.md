@@ -1,0 +1,2 @@
+- [ ] Get dimentions of all pieces
+- [ ] Write 
