@@ -236,7 +236,7 @@ Length: 0.241m
 
 ### Ideas
 
-1. The French Horn is a complicated and difficult inst
+1. The French Horn is made of a maze of pipes to mess up the sound, making it difficult to master
 
 ## 5 - 7 - Drum
 
