@@ -214,7 +214,7 @@ Length: 0.218m
 
 ### Ideas
 
-1. 
+1. The Horn is made of a maze of pipes to seemingly scramble the sound, making it difficult to master
 
 ## 4 - 6 - Guitar
 
@@ -236,7 +236,7 @@ Length: 0.241m
 
 ### Ideas
 
-1. The French Horn is made of a maze of pipes to mess up the sound, making it difficult to master
+1. 
 
 ## 5 - 7 - Drum
 
