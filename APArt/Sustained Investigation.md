@@ -8,4 +8,4 @@ Why did I change my mind? My sustained investigation investigates the developmen
 
 ## How your sustained investigation shows evidence of practice, experimentation, and revision guided by your questions (600 characters)
 
-Initially I wanted to create pieces that showed the ch
+Initially I wanted to create pieces that showed the chaos of the instruments representing strong feelings of overwhelm and fear, but after much experimentation, 
