@@ -192,7 +192,7 @@ Length: 3.85m
 
 ### Ideas
 
-1. The encompassing and 
+1. The encompassing and demanding nature of the drums invokes 
 
 ## 3 - 4 - Horn
 
