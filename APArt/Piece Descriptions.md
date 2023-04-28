@@ -258,4 +258,4 @@ Length: 1.25m
 
 ### Ideas
 
-1. 
+1. Jamming out on the drums, once experienced, reminds me of the un
