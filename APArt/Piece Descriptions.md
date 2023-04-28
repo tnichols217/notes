@@ -192,7 +192,7 @@ Length: 3.85m
 
 ### Ideas
 
-1. 
+1. The encompassing and 
 
 ## 3 - 4 - Horn
 
