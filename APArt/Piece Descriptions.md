@@ -192,7 +192,7 @@ Length: 3.85m
 
 ### Ideas
 
-1. The encompassing and demanding nature of the drums invokes fear in any unfamiliar people
+1. The encompassing and demanding nature of the drums invokes fear in novice players
 
 ## 3 - 4 - Horn
 
