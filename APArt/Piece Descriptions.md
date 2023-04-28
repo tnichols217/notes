@@ -192,7 +192,7 @@ Length: 3.85m
 
 ### Ideas
 
-1. The encompassing and mentally and physically strenuous nature of the drums invokes fear in novice players
+1. The encompassing and mentally strenuous nature of the drums invokes belittlement in novice players
 
 ## 3 - 4 - Horn
 
