@@ -236,7 +236,7 @@ Length: 0.241m
 
 ### Ideas
 
-1. Mastering the guitar turns playing it from a chore into  is like enjoying hours of nostalgic games
+1. Mastering the guitar turns playing it from a chore into an experience like enjoying hours of nostalgic games
 
 ## 5 - 7 - Drum
 
