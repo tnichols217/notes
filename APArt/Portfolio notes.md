@@ -1,3 +1,4 @@
+## Deadline May 5th
 You’ll submit a portfolio of artwork for evaluation at the end of the school year. You’ll upload digital images of your work and commentary online.
 
 The three Art and Design portfolios (2-D, 3-D, and Drawing) share a basic, two-section structure, which requires you to show a fundamental competence and range of understanding in visual concerns and methods. Each section contributes to the final portfolio score, which is on a 5-point scale.

@@ -170,7 +170,7 @@ Length: 3.67m
 
 ### Ideas
 
-1. As a kid, the sheer complexity and large amount of keys the piano discouraged me 
+1. As a kid, the sheer complexity and large amount of keys the piano had 
 
 ## 2 - 3 - Drums
 
