@@ -170,7 +170,7 @@ Length: 3.67m
 
 ### Ideas
 
-1. Sheer complexity and large amount of keys the piano has deters people from approaching it, so I wanted to illustrate that
+1. The scary nature of pianos can be attributed to the sheer complexity and large amount of keys it has
 
 ## 2 - 3 - Drums
 
