@@ -258,4 +258,4 @@ Length: 1.25m
 
 ### Ideas
 
-1. Jamming out on the drums, once experienced, reminds me of the un
+1. Jamming on the drums once experienced reminds me of the unlimited joy of playing in a pool as a kid
