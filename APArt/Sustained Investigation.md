@@ -8,4 +8,3 @@ Why did I change my mind? My sustained investigation investigates the developmen
 
 ## How your sustained investigation shows evidence of practice, experimentation, and revision guided by your questions (600 characters)
 
-Each piece independently has a unique process associated with investigating causes of stress and discomfort, as well as 
