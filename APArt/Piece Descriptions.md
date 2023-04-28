@@ -236,7 +236,7 @@ Length: 0.241m
 
 ### Ideas
 
-1. 
+1. The French Horn is a complicated and difficult inst
 
 ## 5 - 7 - Drum
 
