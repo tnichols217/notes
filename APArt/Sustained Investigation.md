@@ -8,4 +8,6 @@ Why did I change my mind? My sustained investigation investigates the developmen
 
 ## How your sustained investigation shows evidence of practice, experimentation, and revision guided by your questions (600 characters)
 
+### TODO: remove 
+
 Initially I wanted to create pieces that showed chaos in instruments to represent strong feelings of overwhelm and fear, with heavily distorted pieces, but I found that finding the proper balance between distortion, expression, and emotion and familiarity, relatability, and visual cohesivity was more important to express my ideas. The initial idea for DAMAGED RECOLLECTIONS was to make look like a tangled ball of yarn, however, it removed too many identifiable features of the french horn. After examining children's drawings of french horns, I recognized important features to retain instead
