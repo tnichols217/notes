@@ -195,7 +195,7 @@ Length: 3.85m
 
 ### Ideas
 
-1. To emphasize the encompassing, belittling,  mentally strenuous nature of the drums invokes belittlement in novice players
+1. Emphasize the encompassing, belittling, and mentally strenuous nature of the drums in novice players
 
 ## 3 - 4 - Horn
 
