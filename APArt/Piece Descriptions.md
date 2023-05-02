@@ -131,7 +131,7 @@ Length: 1.25m
 ### TODO: clarify point 2
 
 1. Experimented with methods of simulating wrinkles by varying stiffness, stretch, and starting shape
-2. Revised from beach ball color scheme, and from opaque plastic to more closely follow an actual drum
+2. Revised from beach ball color layout to a distribution following more closely to an actual drum
 
 ## 8 - Horn
 
