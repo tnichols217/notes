@@ -90,7 +90,7 @@ Length: 2.1m
 2. Bevel + subserf workflow for keys for sharper look, generated distortion for wavy effect
 
 ### Processes
-### make "emotion" more specific
+### TODO: make "emotion" more specific
 
 1. Revised from a children's toy style to a more professional yet fun look to better convey my emotion
 2. Experimented with styles of generated distortion until I created one that was gentle and relaxing
@@ -104,7 +104,7 @@ Width: 0.865m
 Length: 0.241m
 
 ### Materials
-### change title
+### TODO: change title
 
 1. 8-BIT MEDLEY - Blender 3D, Bevel workflow for main board, buttons; subserf workflow for D-pads, head
 2. Original textures: guitar strings, gray paper accent, rough paper, smudging, scratches, worn paper
@@ -128,6 +128,7 @@ Length: 1.25m
 2. Original clear plastic texture, procedurally generated waves, vertex editing to fine tune structure
 
 ### Processes
+### TODO: clarify point 2
 
 1. Experimented with methods of simulating wrinkles by varying stiffness, stretch, and starting shape
 2. Revised from beach ball color scheme, and from opaque plastic to more closely follow an actual drum
