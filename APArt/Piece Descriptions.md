@@ -94,7 +94,7 @@ Length: 2.1m
 
 ### FIXED: make "emotion" more specific
 
-1. Revised from a children's toy to a professional yet fun look to convey retrospective sentimentality
+1. Combined children's toy with a professional yet fun look to convey retrospective sentimentality
 2. Experimented with styles of generated distortion until I created one that was gentle and relaxing
 
 ## 6 - Guitar
