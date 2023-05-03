@@ -92,7 +92,7 @@ Length: 2.1m
 ### Processes
 ### TODO: make "emotion" more specific
 
-1. Revised from a children's toy style to a more professional yet fun look to better convey my emotion
+1. Revised from a children's toy style to a more professional yet fun look to convey retrospective
 2. Experimented with styles of generated distortion until I created one that was gentle and relaxing
 
 ## 6 - Guitar
