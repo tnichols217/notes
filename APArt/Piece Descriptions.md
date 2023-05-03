@@ -90,9 +90,9 @@ Length: 2.1m
 2. Bevel + subserf workflow for keys for sharper look, generated distortion for wavy effect
 
 ### Processes
-### TODO: make "emotion" more specific
+### FIXED: make "emotion" more specific
 
-1. Revised from a children's toy to a more professional yet fun look to convey retrospective sentimentality
+1. Revised from a children's toy to a professional yet fun look to convey retrospective sentimentality
 2. Experimented with styles of generated distortion until I created one that was gentle and relaxing
 
 ## 6 - Guitar
@@ -106,7 +106,7 @@ Length: 0.241m
 ### Materials
 ### TODO: change title
 
-1. 8-BIT MEDLEY - Blender 3D, Bevel workflow for main board, buttons; subserf workflow for D-pads, head
+1. 8-BIT NINTENDO - Blender 3D: Bevel workflow for main board, buttons; subserf workflow for Dpads, head
 2. Original textures: guitar strings, gray paper accent, rough paper, smudging, scratches, worn paper
 
 ### Processes
