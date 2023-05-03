@@ -217,7 +217,7 @@ Length: 0.218m
 
 ### Ideas
 
-1. Show how the maze of pipes of a french horn seemingly scramble the sound, making it difficult to master
+1. Show how the maze of pipes of a french horn seemingly scramble the sound, and express its difficulty
 
 ## 4 - 6 - Guitar
 
