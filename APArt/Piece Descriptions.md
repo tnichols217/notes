@@ -104,9 +104,9 @@ Width: 0.865m
 Length: 0.241m
 
 ### Materials
-### TODO: change title
+### FIXED: change title
 
-1. 8-BIT NINTENDO - Blender 3D: Bevel workflow for main board, buttons; subserf workflow for Dpads, head
+1. 8-BIT NINTENDO - Blender 3D: Bevel workflow for main board, buttons; subserf wrkflow for Dpads, head
 2. Original textures: guitar strings, gray paper accent, rough paper, smudging, scratches, worn paper
 
 ### Processes
@@ -229,7 +229,7 @@ Length: 0.241m
 
 ### Materials
 
-1. 8-BIT MEDLEY - Blender 3D, Bevel workflow for main board, buttons; subserf workflow for D-pads, head
+1. 8-BIT NINTENDO - Blender 3D: Bevel workflow for main board, buttons; subserf wrkflow for Dpads, head
 2. Original textures: guitar strings, gray paper accent, rough paper, smudging, scratches, worn paper
 
 ### Processes
