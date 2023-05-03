@@ -15,7 +15,8 @@ How has my view on instruments changed as I learn and mature? My sustained inves
 
 Initially I wanted to create pieces that showed chaos in instruments to represent strong feelings of overwhelm and fear, with heavily distorted pieces, but I found that finding the proper balance between distortion, expression, and emotion and familiarity, relatability, and visual cohesivity was more important to express my ideas. The initial idea for images 6 and 7 was to make the piece look like a tangled ball of yarn, however, it removed too many identifiable features of the french horn. After examining children's drawings of french horns, I recognized important features to retain instead
 
+### TODO: Write tmr (make sure each point is SHORT)
 - research children's perspective for 6-7
 - research sources of nostalgia for 10-11
 - research the ickiness of natural items like moss for 1-2
-- experiment with recreation of 
+- experiment with recreation of intimidation, belittlement, and claustophobia in 4-5
