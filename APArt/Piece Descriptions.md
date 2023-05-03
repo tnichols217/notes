@@ -57,7 +57,7 @@ Length: 3.85m
 ### Processes
 
 1. Researched types and characteristics of different drums, cymbals, and stands to create custom drums
-2. Experimented on layouts of drums to maximize claustro and megalophobia while maintaining proportions
+2. Experimented on layouts of drums to maximize claustro and megalophobia by juxtaposing small chair
 
 ## 4 - Horn
 
@@ -195,7 +195,7 @@ Length: 3.85m
 ### Processes
 
 1. Researched types and characteristics of different drums, cymbals, and stands to create custom drums
-2. Experimented on layouts of drums to maximize claustro and megalophobia while maintaining proportions
+2. Experimented on layouts of drums to maximize claustro and megalophobia by juxtaposing small chair
 
 ### Ideas
 
