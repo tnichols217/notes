@@ -91,7 +91,6 @@ Length: 2.1m
 2. Bevel & subserf workflow for keys for sharper look, generated distortion for wavy effect
 
 ### Processes
-
 ### FIXED: make "emotion" more specific
 
 1. Combined children's toy with a professional yet fun look to convey retrospective sentimentality
