@@ -239,7 +239,7 @@ Length: 0.241m
 
 ### Ideas
 
-1. Compare how the feeling of mastering the guitar is like playing hours of nostalgic games
+1. Compare how the feeling of mastering the guitar is like enjoying hours of nostalgic games on the NES
 
 ## 5 - 7 - Drum
 
