@@ -217,7 +217,7 @@ Length: 0.218m
 
 ### Ideas
 
-1. Show how the maze of pipes of a french horn seemingly scramble the sound, and express its difficulty
+1. Show how the maze of pipes of a french horn seemingly confuse the sound, and express its difficulty
 
 ## 4 - 6 - Guitar
 
@@ -239,7 +239,7 @@ Length: 0.241m
 
 ### Ideas
 
-1. Mastering the guitar turns playing it into an experience like playing hours of nostalgic games
+1. Compare how the feeling of mastering the guitar is like playing hours of nostalgic games
 
 ## 5 - 7 - Drum
 
