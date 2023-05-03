@@ -94,7 +94,7 @@ Length: 2.1m
 
 ### FIXED: make "emotion" more specific
 
-1. Revised from a children's toy to a professional yet fun look by using thinner 
+1. Revised from a children's toy to a fun professional look by incorporating sleek curves, thinner volumes
 2. Experimented with styles of generated distortion until I created one that was gentle and relaxing
 
 ## 6 - Guitar
