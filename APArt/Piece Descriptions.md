@@ -217,7 +217,7 @@ Length: 0.218m
 
 ### Ideas
 
-1. The Horn is made of a maze of pipes to seemingly scramble the sound, making it difficult to master
+1. Show how the maze of pipes of a french horn seemingly scramble the sound, making it difficult to master
 
 ## 4 - 6 - Guitar
 
