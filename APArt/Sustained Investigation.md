@@ -17,5 +17,5 @@ Initially I wanted to create pieces that showed chaos in instruments to represen
 
 - research children's perspective for 6-7
 - research sources of nostalgia for 10-11
-- research the ickiness of natural things for 1-2
+- research the ickiness of natural items like moss for 1-2
 - 
