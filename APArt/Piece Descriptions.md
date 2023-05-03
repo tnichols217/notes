@@ -75,7 +75,7 @@ Length: 0.218m
 ### Processes
 
 1. Researched kid's interpretation of instruments by visiting 4 year olds and observing their drawings
-2. Experiment recreating shaky hand effect in 3D through procedural distortion of shape
+2. Experiment recreating shaky hand effect in 3D through originally created procedural distortion of shape
 
 ## 5 - Piano
 
