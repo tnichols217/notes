@@ -128,7 +128,7 @@ Length: 1.25m
 2. Original clear plastic texture, procedurally generated waves, vertex editing to fine tune structure
 
 ### Processes
-### TODO: clarify point 2
+### FIXED: clarify point 2
 
 1. Experimented with methods of simulating wrinkles by varying stiffness, stretch, and starting shape
 2. Revised from beach ball color layout to a distribution following more closely to an actual drum
@@ -257,7 +257,7 @@ Length: 1.25m
 ### Processes
 
 1. Experimented with methods of simulating wrinkles by varying stiffness, stretch, and starting shape
-2. Revised from beach ball color scheme, and from opaque plastic to more closely follow an actual drum
+2. Revised from beach ball color layout to a distribution following more closely to an actual drum
 
 ### Ideas
 
