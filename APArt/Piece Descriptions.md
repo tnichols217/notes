@@ -113,7 +113,7 @@ Length: 0.241m
 
 ### Processes
 
-1. Researched nostalgic, fun items; settled on the NES controller, representing hours of fun in old games
+1. Researched nostalgic, fun items; settled on the NES controller, due to fimilar
 2. Revised from basic clean textures to a heavily used-looking to convey a sense of an old memories
 
 ## 7 - Drum
