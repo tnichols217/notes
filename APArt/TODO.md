@@ -1,3 +1,1 @@
-- [x] Get dimentions of all pieces
-- [x] Write ideas for selected pieces
 - [ ] Compose images together and upload to AP portfolio

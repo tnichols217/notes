@@ -1,5 +1,6 @@
 ---
 date created: 2023-04-17 15:32
+date updated: 2023-05-03 17:47
 ---
 
 # Piece Description
@@ -90,6 +91,7 @@ Length: 2.1m
 2. Bevel + subserf workflow for keys for sharper look, generated distortion for wavy effect
 
 ### Processes
+
 ### FIXED: make "emotion" more specific
 
 1. Revised from a children's toy to a professional yet fun look to convey retrospective sentimentality
@@ -104,6 +106,7 @@ Width: 0.865m
 Length: 0.241m
 
 ### Materials
+
 ### FIXED: change title
 
 1. 8-BIT NINTENDO - Blender 3D: Bevel workflow for main board, buttons; subserf wrkflow for Dpads, head
@@ -128,6 +131,7 @@ Length: 1.25m
 2. Original clear plastic texture, procedurally generated waves, vertex editing to fine tune structure
 
 ### Processes
+
 ### FIXED: clarify point 2
 
 1. Experimented with methods of simulating wrinkles by varying stiffness, stretch, and starting shape
@@ -261,4 +265,4 @@ Length: 1.25m
 
 ### Ideas
 
-1. Jamming on the drums once experienced reminds me of the unlimited joy of playing in a pool as a kid
+1. Express how jamming on the drums reminds me of the unlimited joy of playing in a pool as a kid
