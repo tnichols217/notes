@@ -7,7 +7,7 @@
 ### FIXED: remove question at the beginning, change deterred
 ### TODO: reduce CC from 631 to 600-
 
-How has my view on instruments changed as I learn and mature? My sustained investigation investigates the development of my emotions on the instruments I play as I myself develop. Instruments overwhelmed me as a child. Their complexity, largeness, and sensitivity truly discouraged me from approaching them when I was younger. As I grow older, the very same instruments begin to hold a more sentimental and enjoyable role in my life, being a reward instead of a punishment. I investigated how my emotions changed over time; how it has effected how I view life, entertainment, and hard work; and the duality of hatred and enjoyment.
+How has my view on instruments changed as I learn and mature? My sustained investigation investigates the development of my emotions on the instruments I play as I myself develop. Instruments overwhelmed me as a child. Their complexity, largeness, and sensitivity truly discouraged me from approaching them when I was younger. As I grow older, the very same instruments begin to hold a more sentimental and enjoyable role in my life, being a reward instead of a punishment. I investigated how my emotions changed over time; how it has affected how I view life, entertainment, and hard work; and the duality of hatred and enjoyment.
 
 ## How your sustained investigation shows evidence of practice, experimentation, and revision guided by your questions (600 characters)
 
