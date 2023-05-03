@@ -88,7 +88,7 @@ Length: 2.1m
 ### Materials
 
 1. THE KEY TO SIMPLICITY - Blender 3D, nested curve workflow for strings, subserf workflow for body
-2. Bevel + subserf workflow for keys for sharper look, generated distortion for wavy effect
+2. Bevel & subserf workflow for keys for sharper look, generated distortion for wavy effect
 
 ### Processes
 
@@ -217,7 +217,7 @@ Length: 0.218m
 ### Processes
 
 1. Researched kid's interpretation of instruments by visiting 4 year olds and observing their drawings
-2. Experimented on methods of recreating the shaky hand effect in 3D through texture, shape, and color
+2. Experiment recreating 3D shaky hand effect through originally created procedural distortion of shape
 
 ### Ideas
 
