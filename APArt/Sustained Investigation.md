@@ -13,5 +13,5 @@ How has my view on instruments changed as I learn and mature? My sustained inves
 
 ### FIXED: remove title
 
-Initially I wanted to create pieces that showed chaos in instruments to represent strong feelings of overwhelm and fear, with heavily distorted pieces, but I found that finding the proper balance between distortion, expression, and emotion and familiarity, relatability, and visual cohesivity was more important to express my ideas. The initial idea for images 8 and 9 was to make the piece look like a tangled ball of yarn, however, it removed too many identifiable features of the french horn. After examining children's drawings of french horns, I recognized important features to retain instead
+Initially I wanted to create pieces that showed chaos in instruments to represent strong feelings of overwhelm and fear, with heavily distorted pieces, but I found that finding the proper balance between distortion, expression, and emotion and familiarity, relatability, and visual cohesivity was more important to express my ideas. The initial idea for images 6 and 7 was to make the piece look like a tangled ball of yarn, however, it removed too many identifiable features of the french horn. After examining children's drawings of french horns, I recognized important features to retain instead
 
