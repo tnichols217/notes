@@ -173,7 +173,7 @@ Length: 3.67m
 
 ### Ideas
 
-1. Express and exaggerate the scary nature of pianos from the sheer complexity and large amount of keys it has
+1. Express and exaggerate the scary nature of pianos from the sheer complexity and large amount of keys
 
 ## 2 - 3 - Drums
 
