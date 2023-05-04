@@ -4,47 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "0f8acec6cd71ebb6",
+        "id": "ae175ff9fdd20b33",
         "type": "tabs",
         "children": [
           {
-            "id": "a8ff471a8ac21906",
+            "id": "e2b095573fcaac02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/7/Unit 7 BILL.md",
+                "file": "APArt/Portfolio notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b25d6f78055d243a",
+            "id": "f3e5a046248dcdf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/8/Unit 8 BILL.md",
+                "file": "APArt/Piece Descriptions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "daf7233cd27e8d20",
+            "id": "8c6cc6bfc7475cd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
+                "file": "APArt/Image Layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32dcf1e0375f8db7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APArt/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0eaebd664d174b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APArt/Sustained Investigation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -86,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ca4cf6357558295d",
@@ -111,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
+                "file": "APArt/Sustained Investigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/8/Notes/Worksheets/1 - Elephants 1.md"
+                "file": "APArt/Sustained Investigation.md"
               }
             }
           },
@@ -141,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,10 +186,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "0eaebd664d174b69",
   "lastOpenFiles": [
-    "APBiology/8/Unit 8 BILL.md",
+    "APArt/Piece Descriptions.md",
+    "APArt/Sustained Investigation.md",
     "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
+    "APBiology/8/Unit 8 BILL.md",
     "APBiology/8/Notes/Worksheets",
     "APBiology/8/Documents/Worksheets/Elephant 3.docx",
     "APBiology/8/Documents/Worksheets/Elephant 2.docx",
@@ -175,9 +200,7 @@
     "APBiology/7/Notes/Activities/2 - Mouse Fur Color/Table 1.md",
     "APCSP/Create PT.md",
     "BritLit/Screwtape Letters.md",
-    "APArt/Sustained Investigation.md",
     "APArt/Image Layout.md",
-    "APArt/Piece Descriptions.md",
     "APArt/Portfolio notes.md",
     "APArt/TODO.md",
     "APCSP/PT Written Response.md",
