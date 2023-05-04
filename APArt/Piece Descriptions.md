@@ -15,7 +15,7 @@ Length: 3.67m
 
 ### Materials
 
-1. TRIPLE OVERWHELM: Blender 3D digital sculpting, handmade procedural materials, cycles render engine
+1. INTIMIDATION: Blender 3D digital sculpting, handmade procedural materials, cycles render engine
 2. Blender 3D—Subserf wrkflow with sparse topology for manmade forms & curves wrkflow for natural forms
 
 ### Processes
@@ -33,7 +33,7 @@ Length: 1.86m
 
 ### Materials
 
-1. NATURAL DISTRESS: Blender 3D, sculpted textures, and handmade procedural materials, cycles renderer
+1. DISGUST: Blender 3D, sculpted textures, and handmade procedural materials, cycles renderer
 2. Blender 3D—Initial subserf workflow, curves workflow for strings, multires sculpting for bark
 
 ### Processes
@@ -51,7 +51,7 @@ Length: 3.85m
 
 ### Materials
 
-1. THE EYE OF THE KIT: Blender 3D, subserf workflow for general forms, linked geometry for optimization
+1. BELITTLEMENT: Blender 3D, subserf workflow for general forms, linked geometry for optimization
 2. Blender 3D—Procedural deformation and textures for details on screws, cymbals, legs. cycles renderer
 
 ### Processes
@@ -69,7 +69,7 @@ Length: 0.218m
 
 ### Materials
 
-1. DAMAGED RECOLLECTIONS: Blender 3D, curves workflow, subserf workflow for valves, cycles renderer
+1. DISORIENTATION: Blender 3D, curves workflow, subserf workflow for valves, cycles renderer
 2. Blender 3D—Custom procedural denting, rust generation, materials and textures, HDRI reflections
 
 ### Processes

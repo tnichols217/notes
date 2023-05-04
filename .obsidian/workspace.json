@@ -186,6 +186,43 @@
       "workspaces:Manage workspace layouts": false
     }
   },
+  "floating": {
+    "id": "56b95683bdf623c8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b903ff72b21ea846",
+        "type": "window",
+        "children": [
+          {
+            "id": "54afb1543d555570",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b29270838fdfd8ca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "APArt/Sustained Investigation.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1944,
+        "y": 33,
+        "width": 1576,
+        "height": 1040,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "f3e5a046248dcdf3",
   "lastOpenFiles": [
     "APArt/Sustained Investigation.md",
