@@ -48,7 +48,7 @@ My SI displays the development of my opinions and feelings on instruments by con
 
 Nostalgia [10-11] and enjoyment [12-13] displace disgust [3] and belittlement [4-5]. [not done]
 
-My SI displays my development of emotions by juxtaposing my original impressions of instruments as a kid [1-7] with our eventual reconciliation [8-15]. What originally represented a blunt mess of scribbles [6-7] in my mind untangles into what resembles the playfulness of a french horn plushie [14-15]. Similarly, my habitual dedication reverses the drum's 
+My SI displays my development of emotions by juxtaposing my original impressions of instruments as a kid [1-7] with our eventual reconciliation [8-15]. What originally represented a blunt mess of scribbles [6-7] in my mind untangles into what resembles the playfulness of a french horn plushie [14-15]. Similarly, my habitual dedication reverses the drums' prior dominant effect—through an overwhelm of complexity—over me, 
 
 
 
