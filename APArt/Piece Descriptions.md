@@ -1,6 +1,6 @@
 ---
 date created: 2023-04-17 15:32
-date updated: 2023-05-03 17:47
+date updated: 2023-05-05 01:30
 ---
 
 # Piece Description
@@ -250,7 +250,7 @@ Length: 1.25m
 ### Materials
 
 1. UNBOUND FLOW - Blender 3D, cloth simulation, subserf workflow for generating initial cloth shapes
-2. Original clear plastic texture, procedurally generated waves, vertex editing to fine tune structure
+2. Blender 3D—Clear plastic texture, procedural generated waves, vertex editing to fine tune structure
 
 ### Processes
 
