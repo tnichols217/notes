@@ -87,7 +87,7 @@ Length: 2.1m
 
 ### Materials
 
-1. THE KEY TO SIMPLICITY - Blender 3D, nested curve workflow for strings, subserf workflow for body
+1. PEACE - Blender 3D, nested curve workflow for strings, subserf workflow for body
 2. Blender 3D—Bevel & subserf workflow for keys for sharper look, generated distortion for wavy effect
 
 ### Processes
@@ -105,7 +105,7 @@ Length: 0.241m
 
 ### Materials
 
-1. 8-BIT NINTENDO - Blender 3D: Bevel workflow for main board, buttons; subserf wrkflow for Dpads, head
+1. NOSTALGIA - Blender 3D: Bevel workflow for main board, buttons; subserf wrkflow for Dpads, head
 2. Blender 3D—Original textures: guitar strings, gray paper accent, smudges, scratches, rough/old paper
 
 ### Processes
@@ -123,7 +123,7 @@ Length: 1.25m
 
 ### Materials
 
-1. UNBOUND FLOW - Blender 3D, cloth simulation, subserf workflow for generating initial cloth shapes
+1. ENJOYMENT - Blender 3D, cloth simulation, subserf workflow for generating initial cloth shapes
 2. Blender 3D—Clear plastic texture, procedural generated waves, vertex editing to fine tune structure
 
 ### Processes
@@ -141,7 +141,7 @@ Length: 0.304m
 
 ### Materials
 
-1. Sedate resolution - Blender 3D, curves and subserf workflow for generating initial cloth shape
+1. PLAYFULNESS - Blender 3D, curves and subserf workflow for generating initial cloth shape
 2. Blender 3D—Procedurally created button weave texture; cloth and hair simulation
 
 ### Processes
@@ -161,7 +161,7 @@ Length: 3.67m
 
 ### Materials
 
-1. TRIPLE OVERWHELM: Blender 3D digital sculpting, handmade procedural materials, cycles render engine
+1. INTIMIDATION: Blender 3D digital sculpting, handmade procedural materials, cycles render engine
 2. Blender 3D—Subserf wrkflow with sparse topology for manmade forms & curves wrkflow for natural forms
 
 ### Processes
@@ -183,7 +183,7 @@ Length: 3.85m
 
 ### Materials
 
-1. THE EYE OF THE KIT: Blender 3D, subserf workflow for general forms, linked geometry for optimization
+1. BELITTLEMENT: Blender 3D, subserf workflow for general forms, linked geometry for optimization
 2. Blender 3D—Procedural deformation and textures for details on screws, cymbals, legs. cycles renderer
 
 ### Processes
