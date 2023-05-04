@@ -20,3 +20,4 @@ Initially I wanted to create pieces that showed chaos in instruments to represen
 - research sources of nostalgia for 10-11
 - research the ickiness of natural items like moss for 1-2
 - experiment with recreation of intimidation, belittlement, and claustophobia in 4-5
+
