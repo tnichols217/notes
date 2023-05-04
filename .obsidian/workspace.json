@@ -186,55 +186,6 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "floating": {
-    "id": "56b95683bdf623c8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d486a6856eb5443e",
-        "type": "window",
-        "children": [
-          {
-            "id": "f4ae19aaa0491d6c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "68f6da97213b9333",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "APArt/Sustained Investigation.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1e41013e56363c4a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "APArt/Piece Descriptions.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 846,
-        "y": 269,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "0eaebd664d174b69",
   "lastOpenFiles": [
     "APArt/Image Layout.md",
