@@ -46,7 +46,9 @@ My SI displays the development of my opinions and feelings on instruments by con
 
 My SI displays the development of my opinions and feelings on instruments by contrasting the changes between my views and impressions on instruments as a kid [1-7] - being intimidated through the display of over-complexity, 
 
-My SI mirrors my transformation by juxtaposition of my initial impressions [1-7] of instruments with our [later] reconciliation [8-15]. Nostalgia [10-11] and enjoyment [12-13] displace disgust [3] and belittlement [4-5]. [To illustrate the contrast,] The polar opposites of a child's mind are related through the contrast of a plushie and scribbles
+My SI mirrors my transformation by juxtaposition of my initial impressions [1-7] of instruments with our [later] reconciliation [8-15]. Nostalgia [10-11] and enjoyment [12-13] displace disgust [3] and belittlement [4-5]. [To illustrate the contrast,]  [14-15] untangles children's scribbles [6-7] into [noun], the comfort
+
+The polar opposites of a child's mind are related through the contrast of a plushie and scribbles
 
 Inverted, the progression portrays an instrumentalist's dual journey: 
 
