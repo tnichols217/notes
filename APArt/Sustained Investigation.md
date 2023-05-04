@@ -23,6 +23,7 @@ Initially I wanted to create pieces that showed chaos in instruments to represen
 #### Questions
 - How has my perception of instruments changed?
 - What have instruments meant to me in the past versus now?
+- How can I simultaneously capture the complex relationship between my progress as an instrumentalist and evolving perspective?
 
 #### Ideas
 - show being intimidated [1-2], disgusted [3], belittled [4-5], and disoriented [6-7]
@@ -40,13 +41,14 @@ Initially I wanted to create pieces that showed chaos in instruments to represen
 - Duality
 - Inverse
 - Antithetical
-- 
 
 My SI displays the development of my opinions and feelings on instruments by contrasting the differences between my view and impression on instruments as a kid [1-7] - being intimidated [1-2], disgusted [3], belittled [4-5], and disoriented [6-7] - to now looking back and instead feeling peaceful [8-9], nostalgic [10-11], enjoyment [12-13], and playful [14-15]. I researched today's children's perspectives on instruments [6-7] to more accurately convey a child's mind and sources of nostalgia in order to associate guitars [10-11] with childhood memories. 
 
 My SI displays the development of my opinions and feelings on instruments by contrasting the changes between my views and impressions on instruments as a kid [1-7] - being intimidated through the display of over-complexity, 
 
 My SI mirrors my transformation by juxtaposition of my initial impressions [1-7] of instruments with our [later] reconciliation [8-15]. 
+
+My inverted pieces represe
 
 intimidation [1-2], disgust [3], belittlement [4-5], and disorientation [6-7]
 
