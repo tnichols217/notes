@@ -29,3 +29,4 @@ Initially I wanted to create pieces that showed chaos in instruments to represen
 - research the ickiness of natural items like moss for 1-2
 - experiment with recreation of intimidation, belittlement, and claustophobia in 4-5
 
+My SI is split into two halves: my view as a child on large and complicated
