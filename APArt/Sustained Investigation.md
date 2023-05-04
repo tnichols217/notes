@@ -10,7 +10,7 @@ date created: 2023-05-04 14:51
 
 ### -
 
-How has my perception of instruments changed? What have instruments meant to me in the past versus now? As a child, instruments overwhelmed me: their complexity, immensity, and sensitivity daunted me. Now, the very same instruments hold a sentimental and enjoyable role in my life—a reward, instead of a punishment. I investigate the development of my emotions on the instruments I play; my views on life, entertainment, and hard work; and the duality of hatred and enjoyment as I myself develop.
+How has my perception of instruments changed? What have instruments meant to me in the past versus now? As a child, instruments overwhelmed me: their complexity, immensity, and sensitivity daunted me. Now, the very same instruments hold a sentimental and enjoyable role in my life—a reward, instead of a punishment. I investigate the development of my emotions on the instruments I play; my views on life, entertainment, and hard work; and the duality of dissonance and harmony. How can I simulateonously capture the complex relationship between my
 
 ## How your sustained investigation shows evidence of practice, experimentation, and revision guided by your questions (600 characters)
 
@@ -46,7 +46,7 @@ My SI displays the development of my opinions and feelings on instruments by con
 
 My SI displays the development of my opinions and feelings on instruments by contrasting the changes between my views and impressions on instruments as a kid [1-7] - being intimidated through the display of over-complexity, 
 
-My SI mirrors my transformation by juxtaposition of my initial impressions [1-7] of instruments with our [later] reconciliation [8-15].
+My SI mirrors my transformation by juxtaposition of my initial impressions [1-7] of instruments with our [later] reconciliation [8-15]. 
 
 intimidation [1-2], disgust [3], belittlement [4-5], and disorientation [6-7]
 
