@@ -205,7 +205,7 @@ Length: 0.218m
 
 ### Materials
 
-1. DAMAGED RECOLLECTIONS: Blender 3D, curves workflow, subserf workflow for valves, cycles renderer
+1. DISORIENTATION: Blender 3D, curves workflow, subserf workflow for valves, cycles renderer
 2. Blender 3D—Custom procedural denting, rust generation, materials and textures, HDRI reflections
 
 ### Processes
@@ -227,7 +227,7 @@ Length: 0.241m
 
 ### Materials
 
-1. 8-BIT NINTENDO - Blender 3D: Bevel workflow for main board, buttons; subserf wrkflow for Dpads, head
+1. NOSTALGIA - Blender 3D: Bevel workflow for main board, buttons; subserf wrkflow for Dpads, head
 2. Blender 3D—Original textures: guitar strings, gray paper accent, smudges, scratches, rough/old paper
 
 ### Processes
@@ -249,7 +249,7 @@ Length: 1.25m
 
 ### Materials
 
-1. UNBOUND FLOW - Blender 3D, cloth simulation, subserf workflow for generating initial cloth shapes
+1. ENJOYMENT - Blender 3D, cloth simulation, subserf workflow for generating initial cloth shapes
 2. Blender 3D—Clear plastic texture, procedural generated waves, vertex editing to fine tune structure
 
 ### Processes
