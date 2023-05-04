@@ -391,7 +391,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "APArt/Portfolio notes.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -403,6 +403,30 @@
                   "type": "markdown",
                   "state": {
                     "file": "APArt/Piece Descriptions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8c6cc6bfc7475cd8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "APArt/Image Layout.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "32dcf1e0375f8db7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "APArt/TODO.md",
                     "mode": "source",
                     "source": false
                   }
@@ -421,7 +445,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           }
         ],
         "direction": "vertical"
@@ -487,7 +511,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "APArt/Piece Descriptions.md",
+                    "file": "APArt/Sustained Investigation.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -504,7 +528,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "APArt/Piece Descriptions.md"
+                    "file": "APArt/Sustained Investigation.md"
                   }
                 }
               },
@@ -539,7 +563,7 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "f3e5a046248dcdf3"
+      "active": "0eaebd664d174b69"
     },
     "brit lit": {
       "main": {
@@ -1661,5 +1685,5 @@
       "active": "4a525f6e31ce8430"
     }
   },
-  "active": "ap art"
+  "active": "biology"
 }
