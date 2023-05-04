@@ -54,7 +54,7 @@ My SI mirrors my transformation by juxtaposing my initial impressions of instrum
 
 Similarly, my own progression reverses the drums untamable dominance to my harnessing of its potential—reframing complexity as a [rewarding/facinating puzzle]
 
-Inverted, the progression portrays an instrumentalist's bidirectional journey: mastery reduces the confrontative immediacy [1-2] into familiar intimacy [8-9] of the piano e.as my abilities crescendo to a forte.
+Inverted, the progression portrays an instrumentalist's bidirectional journey: mastery reduces the confrontative immediacy [1-2] into familiar intimacy [8-9] of the piano as my abilities crescendo to a forte.
 
 
 
