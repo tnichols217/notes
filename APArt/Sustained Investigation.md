@@ -26,8 +26,8 @@ Initially I wanted to create pieces that showed chaos in instruments to represen
 - How can I simultaneously capture the complex relationship between my progress as an instrumentalist and evolving perspective?
 
 #### Ideas
-- show being intimidated [1-2], disgusted [3], belittled [4-5], and disoriented [6-7]
-- compare to being peaceful [8-9], nostalgic [10-11], enjoyment [12-13], and playful [14-15]
+- intimidation [1-2], disgust [3], belittlement [4-5], and disorientation [6-7]
+- peace [8-9], nostalgia [10-11], enjoyment [12-13], and playfulness [14-15].
 
 #### Research
 - research children's perspective for 6-7
@@ -49,6 +49,8 @@ My SI displays the development of my opinions and feelings on instruments by con
 My SI mirrors my transformation by juxtaposition of my initial impressions [1-7] of instruments with our [later] reconciliation [8-15]. 
 
 Inverted, the progression portrays an instrumentalist's dual journey: 
+
+
 
 intimidation [1-2], disgust [3], belittlement [4-5], and disorientation [6-7]
 
