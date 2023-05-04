@@ -10,11 +10,7 @@ date created: 2023-05-04 14:51
 
 ### -
 
-### FIXED: remove question at the beginning, change deterred
-
-### TODO: reduce CC from 631 to 600-
-
-How has my view on instruments changed as I learn and mature? My SI investigates the development of my emotions on the instruments I play as I myself develop. Instruments overwhelmed me as a child: their complexity, largeness, and sensitivity truly discouraged me from approaching them. As I , the very same instruments begin to hold a more sentimental and enjoyable role in my life, being a reward instead of a punishment. I investigated how my emotions changed over time; how it has affected how I view life, entertainment, and hard work; and the duality of hatred and enjoyment.
+Pianos are scary! Instruments overwhelmed me as a child. How has my view on instruments changed as I learn and mature? My SI investigates the development of my emotions on the instruments I play as I myself develop. Instruments overwhelmed me as a child: their complexity, largeness, and sensitivity truly discouraged me from approaching them. As I grew, the very same instruments begin to hold a more sentimental and enjoyable role in my life, being a reward instead of a punishment. I investigated how my emotions changed over time; how it has affected how I view life, entertainment, and hard work; and the duality of hatred and enjoyment.
 
 ## How your sustained investigation shows evidence of practice, experimentation, and revision guided by your questions (600 characters)
 
