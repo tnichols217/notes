@@ -70,7 +70,7 @@ Length: 0.218m
 ### Materials
 
 1. DAMAGED RECOLLECTIONS: Blender 3D, curves workflow, subserf workflow for valves, cycles renderer
-2. Blender 3D—Custom procedural denting and rust generation, procedural materials and textures, HDRI reflections
+2. Blender 3D—Custom procedural denting, rust generation, materials and textures, HDRI reflections
 
 ### Processes
 
@@ -88,7 +88,7 @@ Length: 2.1m
 ### Materials
 
 1. THE KEY TO SIMPLICITY - Blender 3D, nested curve workflow for strings, subserf workflow for body
-2. Bevel & subserf workflow for keys for sharper look, generated distortion for wavy effect
+2. Blender 3D—Bevel & subserf workflow for keys for sharper look, generated distortion for wavy effect
 
 ### Processes
 ### FIXED: make "emotion" more specific
@@ -109,7 +109,7 @@ Length: 0.241m
 ### FIXED: change title
 
 1. 8-BIT NINTENDO - Blender 3D: Bevel workflow for main board, buttons; subserf wrkflow for Dpads, head
-2. Original textures: guitar strings, gray paper accent, rough paper, smudging, scratches, worn paper
+2. Blender 3D—Original textures: guitar strings, gray paper accent, smudging, scratches, worn paper
 
 ### Processes
 
