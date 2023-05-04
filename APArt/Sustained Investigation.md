@@ -24,7 +24,7 @@ How has music's meaning changed
 
 How has my view on instruments changed as I learn and mature?
 
-Instruments. What have they meant to me? How has my perception of them changed? As a child instruments overwhelmed me: their complexity, immensity, and sensitivity daunted me. Now, the very same instruments hold a sentimental and enjoyable role in my life,— a reward, instead of a punishment. I investigate the development of my emotions on the instruments I play; how I view life, entertainment, and hard work; and the duality of hatred and enjoyment as I myself develop.
+Instruments. What have they meant to me? How has my perception of them changed? As a child instruments overwhelmed me: their complexity, immensity, and sensitivity daunted me. Now, the very same instruments hold a sentimental and enjoyable role in my life—a reward, instead of a punishment. I investigate the development of my emotions on the instruments I play; how I view life, entertainment, and hard work; and the duality of hatred and enjoyment as I myself develop.
 
 ## How your sustained investigation shows evidence of practice, experimentation, and revision guided by your questions (600 characters)
 
