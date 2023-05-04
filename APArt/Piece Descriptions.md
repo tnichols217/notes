@@ -27,9 +27,9 @@ Length: 144 in
 
 ### Dimensions
 
-Height: 3.06m
-Width: 1.48m
-Length: 1.86m
+Height: 120 in
+Width: 58 in
+Length: 73 in
 
 ### Materials
 
@@ -45,9 +45,9 @@ Length: 1.86m
 
 ### Dimensions
 
-Height: 1.92m
-Width: 4.77m
-Length: 3.85m
+Height: 76 in
+Width: 188 in
+Length: 152 in
 
 ### Materials
 
@@ -63,7 +63,7 @@ Length: 3.85m
 
 ### Dimensions
 
-Height: 0.217m
+Height: 9
 Width: 0.415m
 Length: 0.218m
 
