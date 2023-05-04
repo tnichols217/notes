@@ -1,10 +1,17 @@
+---
+date created: 2023-05-04 14:51
+---
+
 # Sustained Investigation
+
 ## Questions that guided your sustained investigation (600 characters)
 
 "Pianos are scary!" exclaimed 6 year old me. Instruments overwhelmed me as a child. Their complexity, largeness, and overall creepy vibe truly deterred me from approaching them when I was younger. As I grew up, instruments held a more sentimental and fun role in my life, being a form of entertainment. I investigated how my opinion on instruments has changed over time, from scary to fun, creating two sculptures on each instrument I played, attempting to convey my view on the instruments over  time.
 
 ### -
+
 ### FIXED: remove question at the beginning, change deterred
+
 ### TODO: reduce CC from 631 to 600-
 
 How has my view on instruments changed as I learn and mature? My sustained investigation investigates the development of my emotions on the instruments I play as I myself develop. Instruments overwhelmed me as a child. Their complexity, largeness, and sensitivity truly discouraged me from approaching them when I was younger. As I grow older, the very same instruments begin to hold a more sentimental and enjoyable role in my life, being a reward instead of a punishment. I investigated how my emotions changed over time; how it has affected how I view life, entertainment, and hard work; and the duality of hatred and enjoyment.
@@ -16,6 +23,7 @@ How has my view on instruments changed as I learn and mature? My sustained inves
 Initially I wanted to create pieces that showed chaos in instruments to represent strong feelings of overwhelm and fear, with heavily distorted pieces, but I found that finding the proper balance between distortion, expression, and emotion and familiarity, relatability, and visual cohesivity was more important to express my ideas. The initial idea for images 6 and 7 was to make the piece look like a tangled ball of yarn, however, it removed too many identifiable features of the french horn. After examining children's drawings of french horns, I recognized important features to retain instead
 
 ### TODO: Write tmr (make sure each point is SHORT and sweet)
+
 - research children's perspective for 6-7
 - research sources of nostalgia for 10-11
 - research the ickiness of natural items like moss for 1-2
