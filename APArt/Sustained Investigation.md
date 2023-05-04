@@ -48,7 +48,7 @@ My SI displays the development of my opinions and feelings on instruments by con
 
 My SI mirrors my transformation by juxtaposition of my initial impressions [1-7] of instruments with our [later] reconciliation [8-15]. 
 
-My inverted pieces represe
+Inverted, the progression portrays an instrumentalist's dual journey: 
 
 intimidation [1-2], disgust [3], belittlement [4-5], and disorientation [6-7]
 
