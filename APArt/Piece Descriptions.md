@@ -16,7 +16,7 @@ Length: 3.67m
 ### Materials
 
 1. TRIPLE OVERWHELM: Blender 3D digital sculpting, handmade procedural materials, cycles render engine
-2. Blender 3D-Subserf wrkflow with sparse topology for manmade forms and curves wrkflow for natural forms
+2. Blender 3D-Subserf wrkflow with sparse topology for manmade forms & curves wrkflow for natural forms
 
 ### Processes
 
@@ -34,7 +34,7 @@ Length: 1.86m
 ### Materials
 
 1. NATURAL DISTRESS: Blender 3D, sculpted textures, and handmade procedural materials, cycles renderer
-2. Initial subserf workflow, curves workflow for strings, multires sculpting for bark texture
+2. Blender 3D—Initial subserf workflow, curves workflow for strings, multires sculpting for bark texture
 
 ### Processes
 
