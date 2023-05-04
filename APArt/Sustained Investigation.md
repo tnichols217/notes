@@ -29,4 +29,4 @@ Initially I wanted to create pieces that showed chaos in instruments to represen
 - research the ickiness of natural items like moss for 1-2
 - experiment with recreation of intimidation, belittlement, and claustophobia in 4-5
 
-My SI displays the development of my opinions and feelings on instruments by contrasting the differences between my view and impression on instruments as a kid [1-7] - being intimidated, disgusted, and  to now looking back and 
+My SI displays the development of my opinions and feelings on instruments by contrasting the differences between my view and impression on instruments as a kid [1-7] - being intimidated, disgusted, belittled, and confused to now looking back and 
