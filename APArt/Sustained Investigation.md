@@ -34,4 +34,4 @@ My SI displays the development of my opinions and feelings on instruments by con
 
 My SI displays the development of my opinions and feelings on instruments by contrasting the changes between my views and impressions on instruments as a kid [1-7] - being intimidated through the display of over-complexity, 
 
-My SI mirrors my transformation by juxtaposition of my initial impressions of instruments
+My SI mirrors my transformation by juxtaposition of my initial impressions of instruments with my current 
