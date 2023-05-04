@@ -9,9 +9,9 @@ date updated: 2023-05-05 01:30
 
 ### Dimensions
 
-Height: 3.11m
-Width: 3.14m
-Length: 3.67m
+Height: 122 in
+Width: 124 in
+Length: 144 in
 
 ### Materials
 
