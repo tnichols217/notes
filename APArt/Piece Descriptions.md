@@ -52,7 +52,7 @@ Length: 3.85m
 ### Materials
 
 1. THE EYE OF THE KIT: Blender 3D, subserf workflow for general forms, linked geometry for optimization
-2. Blender 3D—Procedural deformation and textures for details on screws, cymbals, and legs. cycles render engine
+2. Blender 3D—Procedural deformation and textures for details on screws, cymbals, legs. cycles renderer
 
 ### Processes
 
@@ -70,7 +70,7 @@ Length: 0.218m
 ### Materials
 
 1. DAMAGED RECOLLECTIONS: Blender 3D, curves workflow, subserf workflow for valves, cycles renderer
-2. Custom procedural denting and rust generation, procedural materials and textures, HDRI reflections
+2. Blender 3D—Custom procedural denting and rust generation, procedural materials and textures, HDRI reflections
 
 ### Processes
 
