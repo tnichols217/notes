@@ -46,6 +46,10 @@ My SI displays the development of my opinions and feelings on instruments by con
 
 My SI displays the development of my opinions and feelings on instruments by contrasting the changes between my views and impressions on instruments as a kid [1-7] - being intimidated through the display of over-complexity, 
 
-My SI mirrors my transformation by juxtaposition of my initial impressions [1-7] of instruments with our [later] reconciliation [8-15]. being intimidated [1-2], disgusted [3], belittled [4-5], and disoriented [6-7]
+My SI mirrors my transformation by juxtaposition of my initial impressions [1-7] of instruments with our [later] reconciliation [8-15].
 
-peaceful [8-9], nostalgic [10-11], enjoyment [12-13], and playful [14-15].
+intimidation [1-2], disgust [3], belittlement [4-5], and disorientation [6-7]
+
+peace [8-9], nostalgia [10-11], enjoyment [12-13], and playfulness [14-15].
+
+
