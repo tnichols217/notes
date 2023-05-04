@@ -209,8 +209,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "1e41013e56363c4a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "APArt/Piece Descriptions.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -225,9 +238,9 @@
   },
   "active": "0eaebd664d174b69",
   "lastOpenFiles": [
-    "APArt/TODO.md",
     "APArt/Piece Descriptions.md",
     "APArt/Sustained Investigation.md",
+    "APArt/TODO.md",
     "APArt/Image Layout.md",
     "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
     "APBiology/8/Unit 8 BILL.md",
