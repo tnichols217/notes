@@ -50,11 +50,7 @@ Nostalgia [10-11] and enjoyment [12-13] displace disgust [3] and belittlement [4
 
 
 
-My SI mirrors my transformation by juxtaposing my initial impressions of instruments [1-7] with our [later] reconciliation [8-15]. The plushie [14-15] untangles children's scribbles [6-7] into playful simplicity—the comfort and joy it is now. 
-
-Similarly, my own progression reverses the drums untamable dominance to my harnessing of its potential—reframing complexity as a [rewarding/facinating puzzle]
-
-Inverted, the progression portrays an instrumentalist's bidirectional journey: mastery reduces the confrontative immediacy [1-2] into familiar intimacy [8-9] of the piano as my abilities crescendo to a forte.
+My SI mirrors my transformation by juxtaposing my initial impressions of instruments [1-7] with our [later] reconciliation [8-15]. The plushie [14-15] untangles children's scribbles [6-7] into playful simplicity—the comfort and joy it is now. Similarly, my own progression reverses the drums untamable dominance to my harnessing of its potential—reframing complexity as a rewarding puzzle. Inverted, the progression portrays an instrumentalist's bidirectional journey: mastery reduces the confrontative immediacy [1-2] into familiar intimacy [8-9] of the piano as my abilities crescendo to a forte.
 
 
 
