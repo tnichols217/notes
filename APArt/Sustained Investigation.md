@@ -20,6 +20,11 @@ Initially I wanted to create pieces that showed chaos in instruments to represen
 
 ### TODO: Write tmr (make sure each point is SHORT and sweet)
 
+#### Ideas
+- show being intimidated [1-2], disgusted [3], belittled [4-5], and disoriented [6-7]
+- compare to being peaceful [8-9], nostalgic [10-11], enjoyment [12-13], and playful [14-15]
+
+#### Research
 - research children's perspective for 6-7
 - research sources of nostalgia for 10-11
 - research the ickiness of natural items like moss for 1-2
