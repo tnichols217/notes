@@ -20,6 +20,10 @@ Initially I wanted to create pieces that showed chaos in instruments to represen
 
 ### TODO: Write tmr (make sure each point is SHORT and sweet)
 
+#### Questions
+- How has my perception of instruments changed?
+- What have instruments meant to me in the past versus now?
+
 #### Ideas
 - show being intimidated [1-2], disgusted [3], belittled [4-5], and disoriented [6-7]
 - compare to being peaceful [8-9], nostalgic [10-11], enjoyment [12-13], and playful [14-15]
@@ -30,8 +34,13 @@ Initially I wanted to create pieces that showed chaos in instruments to represen
 - research the ickiness of natural items like moss for 1-2
 - experiment with recreation of intimidation, belittlement, and claustophobia in 4-5
 
+#### Connection
+- Juxtaposition
+- Contrast
+- 
+
 My SI displays the development of my opinions and feelings on instruments by contrasting the differences between my view and impression on instruments as a kid [1-7] - being intimidated [1-2], disgusted [3], belittled [4-5], and disoriented [6-7] - to now looking back and instead feeling peaceful [8-9], nostalgic [10-11], enjoyment [12-13], and playful [14-15]. I researched today's children's perspectives on instruments [6-7] to more accurately convey a child's mind and sources of nostalgia in order to associate guitars [10-11] with childhood memories. 
 
 My SI displays the development of my opinions and feelings on instruments by contrasting the changes between my views and impressions on instruments as a kid [1-7] - being intimidated through the display of over-complexity, 
 
-My SI mirrors my transformation by juxtaposition of my initial impressions of instruments with our reconciliation 
+My SI mirrors my transformation by juxtaposition of my initial impressions of instruments with our [later] reconciliation. 
