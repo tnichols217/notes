@@ -99,9 +99,9 @@ Length: 83 in
 
 ### Dimensions
 
-Height: 3
-Width: 0.865m
-Length: 0.241m
+Height: 3 in
+Width: 34 in
+Length: 9 in
 
 ### Materials
 
@@ -117,9 +117,9 @@ Length: 0.241m
 
 ### Dimensions
 
-Height: 0.627m
-Width: 1.69m
-Length: 1.25m
+Height: 25 in
+Width: 167 in
+Length: 49 in
 
 ### Materials
 
@@ -135,7 +135,7 @@ Length: 1.25m
 
 ### Dimensions
 
-Height: 0.149m
+Height: 6
 Width: 0.414m
 Length: 0.304m
 
