@@ -222,8 +222,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -236,7 +235,7 @@
       }
     ]
   },
-  "active": "0eaebd664d174b69",
+  "active": "68f6da97213b9333",
   "lastOpenFiles": [
     "APArt/Piece Descriptions.md",
     "APArt/Sustained Investigation.md",
