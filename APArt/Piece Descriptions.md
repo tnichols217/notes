@@ -16,7 +16,7 @@ Length: 3.67m
 ### Materials
 
 1. TRIPLE OVERWHELM: Blender 3D digital sculpting, handmade procedural materials, cycles render engine
-2. Subserf workflow with low density topology for man-made forms and curves workflow for natural shapes
+2. Blender 3DSubserf workflow with low density topology for man-made forms and curves workflow for natural shapes
 
 ### Processes
 
