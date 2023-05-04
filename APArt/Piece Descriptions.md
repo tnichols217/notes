@@ -91,7 +91,6 @@ Length: 2.1m
 2. Blender 3D—Bevel & subserf workflow for keys for sharper look, generated distortion for wavy effect
 
 ### Processes
-### FIXED: make "emotion" more specific
 
 1. Combined children's toy with a professional yet fun look to convey retrospective sentimentality
 2. Experimented with styles of generated distortion until I created one that was gentle and relaxing
@@ -131,8 +130,6 @@ Length: 1.25m
 
 ### Processes
 
-### FIXED: clarify point 2
-
 1. Experimented with methods of simulating wrinkles by varying stiffness, stretch, and starting shape
 2. Revised from beach ball color layout to a distribution following more closely to an actual drum
 
@@ -147,7 +144,7 @@ Length: 0.304m
 ### Materials
 
 1. Sedate resolution - Blender 3D, curves and subserf workflow for generating initial cloth shape
-2. Procedurally created button weave texture; cloth and hair simulation for main stuffed body form
+2. Blender 3D—Procedurally created button weave texture; cloth and hair simulation
 
 ### Processes
 
