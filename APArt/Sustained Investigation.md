@@ -52,7 +52,7 @@ My SI mirrors my transformation by juxtaposing my initial impressions of instrum
 
 Similarly, 
 
-Inverted, the progression portrays an instrumentalist's dual journey: mastery reduces the confrontative immediacy [1-2] into familiar intimacy [8-9] of the piano even as my abilities crescendo to a forte.
+Inverted, the progression portrays an instrumentalist's dual journey: mastery reduces the confrontative immediacy [1-2] into familiar intimacy [8-9] of the piano as my abilities crescendo to a forte.
 
 intimidation [1-2], disgust [3], belittlement [4-5], and disorientation [6-7]
 peace [8-9], nostalgia [10-11], enjoyment [12-13], and playfulness [14-15].
