@@ -15,47 +15,27 @@ Compare and contrast the seed found in the elephant poop vs those found in soil.
 
 Pose a question as to how elephants might impact the ecosystem.
 
-
-
-Use elephant slide 1 to fill in worksheet
-
-Intro to elephants
-Watch video https://www.youtube.com/watch?v=Aw6GkiCvcWs
+## Intro to elephants
+### Watch video https://www.youtube.com/watch?v=Aw6GkiCvcWs
 
 What surprised you the most about elephants?
 
-
-
 Pose a question about elephants.
 
-
-
-Energy flow through a community
+## Energy flow through a community
 A food web shows feeding relationships among organisms
-    • Arrow means “gives its energy to”
- Describe the flow of energy starting at primary producer using “gives its energy to” each time
+- Arrow means “gives its energy to”
 
+Describe the flow of energy starting at primary producer using “gives its energy to” each time
 
-
-
-
-
-
-
-
-
-
-What happens to energy as it moves through a food chain? The 10 Percent Rule
+### What happens to energy as it moves through a food chain? The 10 Percent Rule
 https://www.youtube.com/watch?v=ScizkxMlEOM
 
 Notes:
 
-
-
 Explain why there aren’t 20 trophic levels in a food chain
 
-
-Elephants as keystone species for biodiversity
+## Elephants as keystone species for biodiversity
 Define biodiversity
 
 Elephants are among the most intelligent of the creatures with whom we share the planet, with complex consciousnesses that are capable of strong emotions. Across Africa they have inspired respect from the people that share the landscape with them, giving them a strong cultural significance. As icons of the continent elephants are tourism magnets, attracting funding that helps protect wilderness areas. They are also keystone species, playing an important role in maintaining the biodiversity of the ecosystems in which they live.
@@ -68,12 +48,6 @@ How are elephants increasing the biodiversity in their community
 
 Watch https://www.youtube.com/watch?v=hRGg5it5FMI
 Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades
-
-Notes
--
--
--
--
 
 Predict 4 or more events that would happen if elephants were removed from an area
 
