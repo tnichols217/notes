@@ -135,9 +135,9 @@ Length: 49 in
 
 ### Dimensions
 
-Height: 6
-Width: 0.414m
-Length: 0.304m
+Height: 6 in
+Width: 16 in
+Length: 12 in
 
 ### Materials
 
@@ -155,9 +155,9 @@ Length: 0.304m
 
 ### Dimensions
 
-Height: 3.11m
-Width: 3.14m
-Length: 3.67m
+Height: 122 in
+Width: 124 in
+Length: 144 in
 
 ### Materials
 
@@ -177,9 +177,9 @@ Length: 3.67m
 
 ### Dimensions
 
-Height: 1.92m
-Width: 4.77m
-Length: 3.85m
+Height: 76 in
+Width: 188 in
+Length: 152 in
 
 ### Materials
 
@@ -199,9 +199,9 @@ Length: 3.85m
 
 ### Dimensions
 
-Height: 0.217m
-Width: 0.415m
-Length: 0.218m
+Height: 9 in
+Width: 16 in
+Length: 9 in
 
 ### Materials
 
@@ -221,9 +221,9 @@ Length: 0.218m
 
 ### Dimensions
 
-Height: 0.0837m
-Width: 0.865m
-Length: 0.241m
+Height: 3 in
+Width: 34 in
+Length: 9 in
 
 ### Materials
 
@@ -243,9 +243,9 @@ Length: 0.241m
 
 ### Dimensions
 
-Height: 0.627m
-Width: 1.69m
-Length: 1.25m
+Height: 25 in
+Width: 167 in
+Length: 49 in
 
 ### Materials
 
