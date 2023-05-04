@@ -1,1 +1,1 @@
-- [ ] Compose images together and upload to AP portfolio
+- [ ] Finish Q2 on sustained Investigation
