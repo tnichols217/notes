@@ -16,7 +16,7 @@ How has my view on instruments changed as I learn and mature? My SI investigates
 
 I investigate the development of my emotions on the instruments I play; how I view life, entertainment, and hard work; and the duality of hatred and enjoyment as I myself develop.
 
-How has my view on instruments changed as I learn and mature? as a child instruments overwhelmed me : their complexity, largeness, and sensitivity truly discouraged me from approaching them. Now, the very same instruments hold a sentimental and enjoyable role in my life, a reward, instead of a punishment. I investigated how my emotions changed over time; how it has affected how I view life, entertainment, and hard work; and the duality of hatred and enjoyment.
+How has my view on instruments changed as I learn and mature? As a child instruments overwhelmed me: their complexity, largeness, and sensitivity truly discouraged me from approaching them. Now, the very same instruments hold a sentimental and enjoyable role in my life, a reward, instead of a punishment. I investigated how my emotions changed over time; how it has affected how I view life, entertainment, and hard work; and the duality of hatred and enjoyment.
 
 ## How your sustained investigation shows evidence of practice, experimentation, and revision guided by your questions (600 characters)
 
