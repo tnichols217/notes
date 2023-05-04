@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APArt/Sustained Investigation.md",
+                "file": "APArt/Piece Descriptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APArt/Sustained Investigation.md"
+                "file": "APArt/Piece Descriptions.md"
               }
             }
           },
@@ -222,7 +222,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -235,10 +236,10 @@
       }
     ]
   },
-  "active": "68f6da97213b9333",
+  "active": "1e41013e56363c4a",
   "lastOpenFiles": [
-    "APArt/Piece Descriptions.md",
     "APArt/Sustained Investigation.md",
+    "APArt/Piece Descriptions.md",
     "APArt/TODO.md",
     "APArt/Image Layout.md",
     "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
