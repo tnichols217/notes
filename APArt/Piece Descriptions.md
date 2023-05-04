@@ -105,8 +105,6 @@ Length: 0.241m
 
 ### Materials
 
-### FIXED: change title
-
 1. 8-BIT NINTENDO - Blender 3D: Bevel workflow for main board, buttons; subserf wrkflow for Dpads, head
 2. Blender 3D—Original textures: guitar strings, gray paper accent, smudges, scratches, rough/old paper
 
@@ -164,7 +162,7 @@ Length: 3.67m
 ### Materials
 
 1. TRIPLE OVERWHELM: Blender 3D digital sculpting, handmade procedural materials, cycles render engine
-2. Subserf workflow with low density topology for man-made forms and curves workflow for natural shapes
+2. Blender 3D—Subserf wrkflow with sparse topology for manmade forms & curves wrkflow for natural forms
 
 ### Processes
 
@@ -186,7 +184,7 @@ Length: 3.85m
 ### Materials
 
 1. THE EYE OF THE KIT: Blender 3D, subserf workflow for general forms, linked geometry for optimization
-2. Procedural deformation and textures for details on screws, cymbals, and legs. cycles render engine
+2. Blender 3D—Procedural deformation and textures for details on screws, cymbals, legs. cycles renderer
 
 ### Processes
 
@@ -208,7 +206,7 @@ Length: 0.218m
 ### Materials
 
 1. DAMAGED RECOLLECTIONS: Blender 3D, curves workflow, subserf workflow for valves, cycles renderer
-2. Custom procedural denting and rust generation, procedural materials and textures, HDRI reflections
+2. Blender 3D—Custom procedural denting, rust generation, materials and textures, HDRI reflections
 
 ### Processes
 
@@ -230,7 +228,7 @@ Length: 0.241m
 ### Materials
 
 1. 8-BIT NINTENDO - Blender 3D: Bevel workflow for main board, buttons; subserf wrkflow for Dpads, head
-2. Original textures: guitar strings, gray paper accent, rough paper, smudging, scratches, worn paper
+2. Blender 3D—Original textures: guitar strings, gray paper accent, smudges, scratches, rough/old paper
 
 ### Processes
 
