@@ -56,3 +56,5 @@ My SI mirrors my transformation by juxtaposing my initial impressions of instrum
 ### Draft 4
 
 My SI displays my development of emotions by juxtaposing my original impressions of instruments as a kid [1-7] with our eventual reconciliation [8-15] and their similarities to how a child would see their toys. What originally represented a blunt mess of scribbles [6-7] in my mind untangles into what resembles the playfulness of a french horn plushie [14-15]. Similarly, my habitual dedication reverses the drums' overwhelm of complexity [4-5], allowing me to harness and reframe what was chaos into what I enjoy like a pool toy [12-13]. Inverted, the series portrays my progression as a musician: mastery reduces the confrontative immediacy [1-2] into familiar intimacy [8-9] of the piano as my abilities crescendo to a forte.
+
+### TODO: reduce CC, reduce "what was"
