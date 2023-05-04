@@ -50,7 +50,7 @@ Nostalgia [10-11] and enjoyment [12-13] displace disgust [3] and belittlement [4
 
 My SI mirrors my transformation by juxtaposing my initial impressions of instruments [1-7] with our [later] reconciliation [8-15]. Images 14-15 untangle children's scribbles [6-7] into playful simplicity—the comfort and joy it is now. 
 
-Similarly, dominance is reversed my belittlement 
+Similarly, dominance is reversed from my belittlement to my enjoyment of drums
 
 Inverted, the progression portrays an instrumentalist's dual journey: mastery reduces the confrontative immediacy [1-2] into familiar intimacy [8-9] of the piano as my abilities crescendo to a forte.
 
