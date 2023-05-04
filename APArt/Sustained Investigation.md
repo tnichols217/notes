@@ -48,14 +48,11 @@ My SI displays the development of my opinions and feelings on instruments by con
 
 Nostalgia [10-11] and enjoyment [12-13] displace disgust [3] and belittlement [4-5]. [not done]
 
-My SI mirrors my transformation by juxtaposing my initial impressions of instruments [1-7] with our [later] reconciliation [8-15]. Images 14-15 untangles children's scribbles [6-7] into playful simplicity—the comfort and joy it is now. 
+My SI mirrors my transformation by juxtaposing my initial impressions of instruments [1-7] with our [later] reconciliation [8-15]. Images 14-15 untangle children's scribbles [6-7] into playful simplicity—the comfort and joy it is now. 
 
 Similarly, 
 
 Inverted, the progression portrays an instrumentalist's dual journey: mastery reduces the confrontative immediacy [1-2] into familiar intimacy [8-9] of the piano even as my abilities crescendo to a forte.
 
 intimidation [1-2], disgust [3], belittlement [4-5], and disorientation [6-7]
-
 peace [8-9], nostalgia [10-11], enjoyment [12-13], and playfulness [14-15].
-
-
