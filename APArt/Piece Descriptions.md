@@ -110,7 +110,7 @@ Length: 9 in
 
 ### Processes
 
-1. Researched nostalgic items, settled on the NES controller due to similarities in emotion with guitar
+1. Researched nostalgic fun items; settled on the NES controller, representing hrs of fun in old games
 2. Revised from basic clean textures to a heavily used-looking to convey a sense of an old memories
 
 ## 7 - Drum
@@ -232,7 +232,7 @@ Length: 9 in
 
 ### Processes
 
-1. Researched nostalgic, fun items; settled on the NES controller, representing hours of fun in old games
+1. Researched nostalgic fun items; settled on the NES controller, representing hrs of fun in old games
 2. Revised from basic clean textures to a heavily used-looking to convey a sense of an old memories
 
 ### Ideas
