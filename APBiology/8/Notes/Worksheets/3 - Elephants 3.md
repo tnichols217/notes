@@ -1,6 +1,6 @@
 ---
 date created: 2023-05-06 20:11
-date updated: 2023-05-06 20:15
+date updated: 2023-05-06 20:20
 ---
 
 # Elephant Worksheet 3
@@ -49,15 +49,19 @@ A researcher collected DNA from five dung samples in an elephant population. She
 | Prasitism    |             |                    |                  |
 
 ### Example 1
+
 Oxpeckers and cattle egrets are two species of birds that land on elephants and spend their days eating lice, ticks, and other parties out of the elephants' skin and hair. The elephants benefit by having dangerous critters removed from their bodies, and the oxpeckers get a snack and a free ride.
 
 ### Example 2
+
 The dung beetle retrieves its nourishment from the elephant’s dung, while on the other hand, the elephants are totally indifferent to what happens to its waste.
 
 ### Example 3
+
 The elephant-specific intestinal fluke Protofasciola robusta, likely to be an ancestral species within the Fasciolidae (Lotfy et al., 2008), has been associated with intestinal tissue damage, hemorrhage and death in free-ranging African elephants
 
 ### Example 4
+
 In Eritrea, a country in the Horn of Africa, olive baboons and elephants have formed a symbiotic relationship. The baboons drink from water holes dug by the elephants, and the elephants rely on baboons sitting in the treetops to alert them to danger.
 
 > [!question] Look at the African continent, make observations on the elephant populations?
@@ -76,31 +80,23 @@ In Eritrea, a country in the Horn of Africa, olive baboons and elephants have fo
 
 > [!question] Is this logistic or exponential growth?
 
-Calculate math and fill in on self grading worksheet.
+## Population formulas review questions
 
-```
-1) A pop of 23,473 elephants has 2,342 births and 473 deaths. What is the growth rate for this population?
+![[Pasted image 20230506202033.png]]
 
+1. A pop of 23,473 elephants has 2,342 births and 473 deaths. What is the growth rate for this population?
 
+2. One thousand two hundred and seventy deer are living on an island that is eight hundred and thirty square kilometers in size. What is the population density of the deer per square kilometer?
 
+3. In 2002, 16.47 million babies were born in China. What was the birth rate (as a percentage and per 1000)?
 
-2) One thousand two hundred and seventy deer are living on an island that is eight hundred and thirty square kilometers in size. What is the population density of the deer per square kilometer?
+4. There are 252 elephants in a population. There is no net immigration or emigration. If 47 elephants die and 32 elephants are born in one month, what is the population size at the end of the month? Round to the nearest whole number.
 
+5. In a population of 600 squirrels, the per capita birth rate in a particular period is 0.06 and the per capita death rate is 0.12. What is the per capita growth rate of the population? Round to the nearest hundredth.
 
+6. If rmax = 1.0 and carrying capacity (K) = 1,500, calculate the population growth rate, where population size (N) = 1,600. What is happening to this population?
 
-3) In 2002, 16.47 million babies were born in China. What was the birth rate (as a percentage and per 1000)?
-
-
-4) There are 252 elephants in a population. There is no net immigration or emigration. If 47 elephants die and 32 elephants are born in one month, what is the population size at the end of the month? Round to the nearest whole number.
-
-
-
-
-5) In a population of 600 squirrels, the per capita birth rate in a particular period is 0.06 and the per capita death rate is 0.12. What is the per capita growth rate of the population? Round to the nearest hundredth. 
-
-
-6) If rmax = 1.0 and carrying capacity (K) = 1,500, calculate the population growth rate, where population size (N) = 1,600. What is happening to this population?
-```
+## Review Questions
 
 A lion kills and eats an elephant. Cellular respiration begins. Say steps out loud as you move your finger across screen (right/left brain).
 
