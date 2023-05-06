@@ -34,41 +34,17 @@ The tusks were shipped from a port in Tanzania. Did they come from elephants in 
 
 > [!question] What’s your evidence?
 
-Source:CSI Wildlife                                Pop A                     Pop B                             Pop C                           Pop D
 The left lane shows a DNA ladder and lanes A–D show the alleles for Marker X present in each elephant population. Remember that each population profile consists of the alleles from several individual dung samples.
+
 A researcher collected DNA from five dung samples in an elephant population. She amplified the sequence corresponding to the STR locus called "Marker X" and determined each allele's size using gel electrophoresis. The data are shown in the table. Samples that have an identical fragment for both alleles are homozygous for Marker X. If the alleles are different, the individual is heterozygous.
-Dung Sample
-Allele 1
-Allele 2
-1
-237 bp
-237 bp
-2
-252 bp
-245 bp
-3
-255 bp
-252 bp
-4
-252 bp
-252 bp
-5
-245 bp
-237 bp
-Which of the lanes shown at left corresponds to the Marker X profile for this population?
 
-Elephants and Other Species
+> [!question] Which of the lanes shown at left corresponds to the Marker X profile for this population?
 
-Relationship
-Description
-Is this a +/+, +/-, +/0?
-Species Example(s)
+## Elephants and Other Species
 
-Mutualism
-
-Commensalism
-
-Parasitism
+| Relationshp | Description | Is this a ++ += +0 | Species Examples |
+| ----------- | ----------- | ------------------ | ---------------- |
+| Mut            |             |                    |                  |
 
 Example 1: Oxpeckers and cattle egrets are two species of birds that land on elephants and spend their days eating lice, ticks, and other parties out of the elephants' skin and hair. The elephants benefit by having dangerous critters removed from their bodies, and the oxpeckers get a snack and a free ride.
 What type of relationship? Fill into chart above
