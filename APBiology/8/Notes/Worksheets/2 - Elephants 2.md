@@ -1,6 +1,6 @@
 ---
 date created: 2023-05-06 18:42
-date updated: 2023-05-06 18:44
+date updated: 2023-05-06 18:47
 ---
 
 # Elephant Worksheet 2
@@ -86,23 +86,15 @@ Therefore, tusklessness in male elephants is a (rare/common) trait.
 
 > [!question] Write an explanation based on natural selection for the high incidence of tusklessness among female elephants in Gorongosa.Highlight vocab: variation, differential reproduction, trait, variation, inherit, DNA
 
-In elephants, no tusks (t) is sex-linked recessive tusks (T). If a tuskless female mates with a male with tusks, what % females and males will be tusk-less?
+## Review Questions
 
-```
-                                                               %__tusk-less females
-                                                               %__tusk-less males 
-```
+In elephants, no tusks (t) is sex-linked recessive tusks (T).
 
-2. In elephants, no tusks (t) is sex-linked recessive tusks (T). If a pure tusked female mates with a male without tusks, what % females and males will be tusk-less?
+> [!question] If a tuskless female mates with a male with tusks, what % females and males will be tusk-less?
 
-   ```
-                                                               %__tusk-less females
-                                                               %__tusk-less males 
-   ```
+> [!question] In elephants, no tusks (t) is sex-linked recessive tusks (T). If a pure tusked female mates with a male without tusks, what % females and males will be tusk-less?
 
-3. In elephants, big ears eyes (E) is dominant to small ears(e). If two heterozygous parents mate, what percent will have small ears?
-
-%__small ears
+> [!question] In elephants, big ears eyes (E) is dominant to small ears(e). If two heterozygous parents mate, what percent will have small ears?
 
 4. In elephants, big ears eyes (E) is dominant to small ears(e). If a homo dominant parent mate with a homo recessive parent, what percent will have small ears?
 
