@@ -13,6 +13,11 @@ div[data-callout^="col-md"].callout {
 }
 
 .columnParent, div[data-callout="col"].callout > div.callout-content {
+    
+    --obsidian-columns-gap: 20px;
+    --obsidian-columns-padding: 15px 20px;
+    --obsidian-columns-min-width: 100px;
+    --obsidian-columns-def-span: 1;
     display: flex;
     padding: var(--obsidian-columns-padding);
     flex-wrap: wrap;
@@ -32,7 +37,6 @@ div[data-callout="col"].callout > div.callout-title, div[data-callout^="col-md"]
     flex-grow: var(--obsidian-columns-def-span);
     flex-basis: calc(var(--obsidian-columns-min-width) * var(--obsidian-columns-def-span));
     width: calc(var(--obsidian-columns-min-width) * var(--obsidian-columns-def-span));
-    color: red;
 }
 
 div[data-callout="col"].callout > div.callout-content > div[data-callout^="col-md" ].callout {
