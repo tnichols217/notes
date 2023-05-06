@@ -1,5 +1,11 @@
+---
+date created: 2023-05-06 18:26
+---
+
 # Elephant Worksheet 1
+
 ## Topics
+
 I can explain how energy flows through an ecosystem (8.2)
 I can explain how elephants serve as keystone species in their ecosystem (8.5)
 I can calculate Simposon’s diversity Index to determine the biodiversity of a community (8.6)
@@ -16,26 +22,31 @@ Compare and contrast the seed found in the elephant poop vs those found in soil.
 Pose a question as to how elephants might impact the ecosystem.
 
 ## Intro to elephants
-### Watch video https://www.youtube.com/watch?v=Aw6GkiCvcWs
+
+### Watch video <https://www.youtube.com/watch?v=Aw6GkiCvcWs>
 
 What surprised you the most about elephants?
 
 Pose a question about elephants.
 
 ## Energy flow through a community
+
 A food web shows feeding relationships among organisms
+
 - Arrow means “gives its energy to”
 
 Describe the flow of energy starting at primary producer using “gives its energy to” each time
 
 ### What happens to energy as it moves through a food chain? The 10 Percent Rule
-https://www.youtube.com/watch?v=ScizkxMlEOM
+
+<https://www.youtube.com/watch?v=ScizkxMlEOM>
 
 Notes:
 
 Explain why there aren’t 20 trophic levels in a food chain
 
 ## Elephants as keystone species for biodiversity
+
 Define biodiversity
 
 Elephants are among the most intelligent of the creatures with whom we share the planet, with complex consciousnesses that are capable of strong emotions. Across Africa they have inspired respect from the people that share the landscape with them, giving them a strong cultural significance. As icons of the continent elephants are tourism magnets, attracting funding that helps protect wilderness areas. They are also keystone species, playing an important role in maintaining the biodiversity of the ecosystems in which they live.
@@ -46,79 +57,43 @@ On the savannahs, elephants feeding on tree sprouts and shrubs help to keep the 
 
 How are elephants increasing the biodiversity in their community
 
-Watch https://www.youtube.com/watch?v=hRGg5it5FMI
+Watch <https://www.youtube.com/watch?v=hRGg5it5FMI>
 Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades
 
 Predict 4 or more events that would happen if elephants were removed from an area
 
 ### Simpson's Diversity Index
 
-Ecosystems such as old-growth forests and rainforests tend to be quite complex in their biodiversity and are stable.  However, not all ecosystems have the same level of biodiversity.  Humans have altered many ecosystems to reduce their complexity and diversity by converting previously unused forests into cropland, for example.  The conversion of forests into croplands reduces biodiversity by creating monocultures (all the same species), which presents several problems.  Nature’s tendency to increase biodiversity through succession is something humans battle in an attempt to maintain these monocultures.  This is often done with the use of pesticides and herbicides which kill off undesirable species, but that also tend to create other problems when these substances are used to make it easy to harvest a crop for human use.  
+Ecosystems such as old-growth forests and rainforests tend to be quite complex in their biodiversity and are stable.  However, not all ecosystems have the same level of biodiversity.  Humans have altered many ecosystems to reduce their complexity and diversity by converting previously unused forests into cropland, for example.  The conversion of forests into croplands reduces biodiversity by creating monocultures (all the same species), which presents several problems.  Nature’s tendency to increase biodiversity through succession is something humans battle in an attempt to maintain these monocultures.  This is often done with the use of pesticides and herbicides which kill off undesirable species, but that also tend to create other problems when these substances are used to make it easy to harvest a crop for human use.
 
 The Simpson’s Diversity Index is used to determine how biodiverse an area is.  The formula we will use looks like this:
 
-The index has values from 0 to 1.  A large index value indicates a higher degree of biodiversity and a stable ecosystem with many niches and little competition, while a lower value indicates a lower degree of biodiversity which may indicate an ecosystem with a few dominant species and a greater degree of competition.  
+The index has values from 0 to 1.  A large index value indicates a higher degree of biodiversity and a stable ecosystem with many niches and little competition, while a lower value indicates a lower degree of biodiversity which may indicate an ecosystem with a few dominant species and a greater degree of competition.
 
 ![[Pasted image 20230506182504.png]]
-  
- 
-=25%  =25% =25%  =25%           =19%     =19%      =50% =12%
 
 Which community is the most diverse? Make a guess and circle community 1 or 2
 
-
-
 Justify your guess
 
+## Simpsons Biodiversity Problem
 
-
-
-
-
-
-
-
-Simpsons Biodiversity Problem
-n = the total number of organisms of a particular species 
+n = the total number of organisms of a particular species
 
 N = total number of organisms of all species
 
-
 With this index, 1 represents infinite diversity and 0, no diversity
 
-
-
-
-
-
-
-Which community has more biodiversity? 
-
+Which community has more biodiversity?
 
 What is your evidence?
 
 Elephants of Zimbabwe
 
+```
+1) Color Zimbabwe on map
+2) Scan, read, and describe
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    1) Color Zimbabwe on map
-    2) Scan, read, and describe
-https://qz.com/africa/2005322/zimbabwe-looks-to-elephant-hunting-for-revenue-lost-during-covid/
+<https://qz.com/africa/2005322/zimbabwe-looks-to-elephant-hunting-for-revenue-lost-during-covid/>
 Describe the state of elephants of Zimbabwe
-
-
-
-
-
