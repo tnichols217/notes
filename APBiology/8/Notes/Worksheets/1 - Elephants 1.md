@@ -1,5 +1,6 @@
 ---
 date created: 2023-05-06 18:26
+date updated: 2023-05-06 18:26
 ---
 
 # Elephant Worksheet 1
@@ -40,8 +41,6 @@ Describe the flow of energy starting at primary producer using “gives its ener
 ### What happens to energy as it moves through a food chain? The 10 Percent Rule
 
 <https://www.youtube.com/watch?v=ScizkxMlEOM>
-
-Notes:
 
 Explain why there aren’t 20 trophic levels in a food chain
 
