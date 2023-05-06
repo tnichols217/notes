@@ -42,28 +42,33 @@ A researcher collected DNA from five dung samples in an elephant population. She
 
 ## Elephants and Other Species
 
-| Relationshp | Description | Is this a ++ += +0 | Species Examples |
-| ----------- | ----------- | ------------------ | ---------------- |
-| Mut            |             |                    |                  |
+| Relationshp  | Description | Is this a ++ += +0 | Species Examples |
+| ------------ | ----------- | ------------------ | ---------------- |
+| Mutualism    |             |                    |                  |
+| Commensalism |             |                    |                  |
+| Prasitism    |             |                    |                  |
 
-Example 1: Oxpeckers and cattle egrets are two species of birds that land on elephants and spend their days eating lice, ticks, and other parties out of the elephants' skin and hair. The elephants benefit by having dangerous critters removed from their bodies, and the oxpeckers get a snack and a free ride.
+### Example 1
+Oxpeckers and cattle egrets are two species of birds that land on elephants and spend their days eating lice, ticks, and other parties out of the elephants' skin and hair. The elephants benefit by having dangerous critters removed from their bodies, and the oxpeckers get a snack and a free ride.
 What type of relationship? Fill into chart above
 
-Example 2: The dung beetle retrieves its nourishment from the elephant’s dung, while on the other hand, the elephants are totally indifferent to what happens to its waste.
+### Example 2
+The dung beetle retrieves its nourishment from the elephant’s dung, while on the other hand, the elephants are totally indifferent to what happens to its waste.
 What type of relationship? Fill into chart above
 
-Example 3: The elephant-specific intestinal fluke Protofasciola robusta, likely to be an ancestral species within the Fasciolidae (Lotfy et al., 2008), has been associated with intestinal tissue damage, hemorrhage and death in free-ranging African elephants (Vitovec et al., 1984; Obanda et al., 2011)
+### Example 3
+The elephant-specific intestinal fluke Protofasciola robusta, likely to be an ancestral species within the Fasciolidae (Lotfy et al., 2008), has been associated with intestinal tissue damage, hemorrhage and death in free-ranging African elephants (Vitovec et al., 1984; Obanda et al., 2011)
 What type of relationship? Fill into chart above
 
-Example 4:In Eritrea, a country in the Horn of Africa, olive baboons and elephants have formed a symbiotic relationship. The baboons drink from water holes dug by the elephants, and the elephants rely on baboons sitting in the treetops to alert them to danger.
+### Example 4
+In Eritrea, a country in the Horn of Africa, olive baboons and elephants have formed a symbiotic relationship. The baboons drink from water holes dug by the elephants, and the elephants rely on baboons sitting in the treetops to alert them to danger.
 What type of relationship? Fill into chart above
 
-Look at the African continent, make observations on the elephant populations?
+> [!question] Look at the African continent, make observations on the elephant populations?
 
-Pose a question about populations in different countries
+> [!question] Pose a question about populations in different countries
 
-What is the rate of growth in this population between 1950 and 1960?Show me the math!!
-Dy/dt
+What is the rate of growth in this population between 1950 and 1960?
 
 Is this logistic or exponential growth?
 
