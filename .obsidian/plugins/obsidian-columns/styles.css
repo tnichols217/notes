@@ -13,11 +13,6 @@ div[data-callout^="col-md"].callout {
 }
 
 .columnParent, div[data-callout="col"].callout > div.callout-content {
-    
-    --obsidian-columns-gap: 20px;
-    --obsidian-columns-padding: 15px 20px;
-    --obsidian-columns-min-width: 100px;
-    --obsidian-columns-def-span: 1;
     display: flex !important;
     padding: var(--obsidian-columns-padding);
     flex-wrap: wrap;
