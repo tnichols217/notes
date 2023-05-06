@@ -64,15 +64,19 @@ In Eritrea, a country in the Horn of Africa, olive baboons and elephants have fo
 
 > [!question] Pose a question about populations in different countries
 
+![[Pasted image 20230506201926.png]]
+
 > [!question] What is the rate of growth in this population between 1950 and 1960?
 
 > [!question] Is this logistic or exponential growth?
+
+![[Pasted image 20230506201935.png]]
 
 > [!question] What is the rate of growth in this population between 1975 and 2000?
 
 > [!question] Is this logistic or exponential growth?
 
-> [!question] Calculate math and fill in on self grading worksheet.
+Calculate math and fill in on self grading worksheet.
 
 ```
 1) A pop of 23,473 elephants has 2,342 births and 473 deaths. What is the growth rate for this population?
