@@ -18,7 +18,6 @@ div[data-callout^="col-md"].callout {
     flex-wrap: wrap;
     gap: var(--obsidian-columns-gap);
     white-space: normal;
-    color: red;
 }
 
 div[data-callout="col"].callout > div.callout-title, div[data-callout^="col-md"].callout > div.callout-title {
