@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "18eb97a7ec1f1bdc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "daf7233cd27e8d20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "344dcee74c63d079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/8/Notes/Worksheets/2 - Elephants 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "0f8acec6cd71ebb6",
         "type": "tabs",
         "children": [
@@ -57,6 +26,30 @@
               "type": "markdown",
               "state": {
                 "file": "APBiology/8/Unit 8 BILL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daf7233cd27e8d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "344dcee74c63d079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/8/Notes/Worksheets/2 - Elephants 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/8/Notes/Worksheets/3 - Elephants 3.md",
+                "file": "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/8/Notes/Worksheets/3 - Elephants 3.md"
+                "file": "APBiology/8/Notes/Worksheets/1 - Elephants 1.md"
               }
             }
           },
@@ -193,17 +186,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a2f59026eab77fa2",
+  "active": "daf7233cd27e8d20",
   "lastOpenFiles": [
+    "APBiology/8/Notes/Worksheets/3 - Elephants 3.md",
+    "APBiology/8/Notes/Worksheets/2 - Elephants 2.md",
     "APBiology/8/Notes/Worksheets/attachments/Pasted image 20230506202033.png",
     "APBiology/8/Notes/Worksheets/attachments/Pasted image 20230506201935.png",
     "APBiology/8/Notes/Worksheets/attachments/Pasted image 20230506201926.png",
     "APBiology/8/Notes/Worksheets/attachments/Pasted image 20230506201217.png",
     "APBiology/8/Notes/Worksheets/attachments/Pasted image 20230506201207.png",
-    "APBiology/8/Notes/Worksheets/2 - Elephants 2.md",
     "APBiology/8/Notes/Worksheets/attachments/Pasted image 20230506184504.png",
     "APBiology/8/Notes/Worksheets/attachments/Pasted image 20230506184442.png",
-    "APBiology/8/Notes/Worksheets/3 - Elephants 3.md",
     "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
     "APBiology/8/Notes/Worksheets/attachments/Pasted image 20230506182504.png",
     "APBiology/8/Notes/Worksheets/attachments",
@@ -214,7 +207,6 @@
     "APArt/TODO.md",
     "APArt/FinalImages/15.jpg",
     "APArt/FinalImages/14.jpg",
-    "APArt/FinalImages/13.jpg",
     "APArt/FinalImages/Final",
     "APArt/FinalImages",
     "APBiology/8/Unit 8 BILL.md",
