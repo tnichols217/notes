@@ -7,10 +7,10 @@ date updated: 2023-05-06 18:26
 
 ## Topics
 
-I can explain how energy flows through an ecosystem (8.2)
-I can explain how elephants serve as keystone species in their ecosystem (8.5)
-I can calculate Simposon’s diversity Index to determine the biodiversity of a community (8.6)
-I can investigate elephant poop and the elephants of Zimbabwe
+- I can explain how energy flows through an ecosystem (8.2)
+- I can explain how elephants serve as keystone species in their ecosystem (8.5)
+- I can calculate Simposon’s diversity Index to determine the biodiversity of a community (8.6)
+- I can investigate elephant poop and the elephants of Zimbabwe
 
 ## Investigate: Elephant Poop
 
@@ -81,11 +81,7 @@ Which community is the most diverse? Make a guess and circle community 1 or 2
 
 Justify your guess
 
-## Simpsons Biodiversity Problem
-
-n = the total number of organisms of a particular species
-
-N = total number of organisms of all species
+## Simpsons Biodiversity Practice Problems
 
 With this index, 1 represents infinite diversity and 0, no diversity
 
@@ -95,10 +91,8 @@ What is your evidence?
 
 Elephants of Zimbabwe
 
-```
-1) Color Zimbabwe on map
-2) Scan, read, and describe
-```
+1. Color Zimbabwe on map
+2. Scan, read, and describe
 
 <https://qz.com/africa/2005322/zimbabwe-looks-to-elephant-hunting-for-revenue-lost-during-covid/>
 Describe the state of elephants of Zimbabwe
