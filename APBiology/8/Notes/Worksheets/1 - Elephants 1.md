@@ -18,9 +18,9 @@ Your teacher won a grant and was gifted elephant poop from the African savanna a
 
 > [!question] Make 2 observations on the elephant poop.
 
-> [!quesCompare and contrast the seed found in the elephant poop vs those found in soil.
+> [!question] Compare and contrast the seed found in the elephant poop vs those found in soil.
 
-Pose a question as to how elephants might impact the ecosystem.
+> [!question] Pose a question as to how elephants might impact the ecosystem.
 
 ## Intro to elephants
 
@@ -38,17 +38,17 @@ A food web shows feeding relationships among organisms
 
 - Arrow means “gives its energy to”
 
-Describe the flow of energy starting at primary producer using “gives its energy to” each time
+> [!question] Describe the flow of energy starting at primary producer using “gives its energy to” each time
 
 ### What happens to energy as it moves through a food chain? The 10 Percent Rule
 
 <https://www.youtube.com/watch?v=ScizkxMlEOM>
 
-Explain why there aren’t 20 trophic levels in a food chain
+> [!question] Explain why there aren’t 20 trophic levels in a food chain
 
 ## Elephants as keystone species for biodiversity
 
-Define biodiversity
+> [!question] Define biodiversity
 
 Elephants are among the most intelligent of the creatures with whom we share the planet, with complex consciousnesses that are capable of strong emotions. Across Africa they have inspired respect from the people that share the landscape with them, giving them a strong cultural significance. As icons of the continent elephants are tourism magnets, attracting funding that helps protect wilderness areas. They are also keystone species, playing an important role in maintaining the biodiversity of the ecosystems in which they live.
 
@@ -56,7 +56,7 @@ During the dry season, elephants use their tusks to dig for water. This not only
 
 On the savannahs, elephants feeding on tree sprouts and shrubs help to keep the plains open and able to support the plains game that inhabit these ecosystems. Wherever they live, elephants leave dung that is full of seeds from the many plants they eat. When this dung is deposited the seeds are sown and grow into new grasses, bushes and trees, boosting the health of the savannah ecosystem.
 
-How are elephants increasing the biodiversity in their community
+> [!question] How are elephants increasing the biodiversity in their community?
 
 Watch <https://www.youtube.com/watch?v=hRGg5it5FMI>
 Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades
