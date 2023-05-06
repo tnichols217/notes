@@ -1,14 +1,18 @@
 ---
 date created: 2023-05-06 20:11
+date updated: 2023-05-06 20:15
 ---
 
 # Elephant Worksheet 3
+
 ## Topics
+
 - I can compare organism relationships
 
 ## Investigate: Gel electrophoresis
 
 ### Gel 1
+
 ![[Pasted image 20230506201207.png]]
 Count the  bands on  sample A, B and C in gel 1
 
@@ -19,13 +23,16 @@ Sample C
 The fragments that traveled the furthest are smaller/larger
 
 ### Gel 2
+
 ![[Pasted image 20230506201217.png]]
-DNA Ladder   Pop A       Pop B          Ivory Sample
-Where in Africa Did the Tusks Come From?
+
+#### Where in Africa Did the Tusks Come From?
+
 The tusks were shipped from a port in Tanzania. Did they come from elephants in that country, or were they transported there from other parts of Africa? You will use data from a reference map of genetic profiles of elephant populations that was built using DNA isolated from dung!
-Using dung DNA to track poachers
-Compare the ivory sample to pop A or pop B. Is the ivory sample more like population A or population B?
-What’s your evidence?
+
+> [!question] Compare the ivory sample to pop A or pop B. Is the ivory sample more like population A or population B?
+
+> [!question] What’s your evidence?
 
 Source:CSI Wildlife                                Pop A                     Pop B                             Pop C                           Pop D
 The left lane shows a DNA ladder and lanes A–D show the alleles for Marker X present in each elephant population. Remember that each population profile consists of the alleles from several individual dung samples.
