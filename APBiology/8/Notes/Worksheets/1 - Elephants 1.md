@@ -64,9 +64,9 @@ Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades
 > [!question] Predict 4 or more events that would happen if elephants were removed from an area
 
 ### Simpson's Diversity Index
-> [!info] Foruma
+> [!info] Simpson's Diversity Index Formula
 > $\text{Diversity Index} = 1-\Sigma{\frac{n}{N}}^2$
->$n = \text{total number of organisms of a particular species}$
+> $n = \text{total number of organisms of a particular species}$
 > $N = \text{total number of organisms of all species}$
 
 Ecosystems such as old-growth forests and rainforests tend to be quite complex in their biodiversity and are stable.  However, not all ecosystems have the same level of biodiversity.  Humans have altered many ecosystems to reduce their complexity and diversity by converting previously unused forests into cropland, for example.  The conversion of forests into croplands reduces biodiversity by creating monocultures (all the same species), which presents several problems.  Nature’s tendency to increase biodiversity through succession is something humans battle in an attempt to maintain these monocultures.  This is often done with the use of pesticides and herbicides which kill off undesirable species, but that also tend to create other problems when these substances are used to make it easy to harvest a crop for human use.
