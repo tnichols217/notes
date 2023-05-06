@@ -75,24 +75,19 @@ The Simpson’s Diversity Index is used to determine how biodiverse an area is. 
 
 The index has values from 0 to 1.  A large index value indicates a higher degree of biodiversity and a stable ecosystem with many niches and little competition, while a lower value indicates a lower degree of biodiversity which may indicate an ecosystem with a few dominant species and a greater degree of competition.
 
+
+## Simpsons Biodiversity Practice Problems
+
 ![[Pasted image 20230506182504.png]]
 
 Which community is the most diverse? Make a guess and circle community 1 or 2
 
 Justify your guess
 
-## Simpsons Biodiversity Practice Problems
-
-With this index, 1 represents infinite diversity and 0, no diversity
-
-Which community has more biodiversity?
-
-What is your evidence?
-
-Elephants of Zimbabwe
+### Elephants of Zimbabwe
 
 1. Color Zimbabwe on map
-2. Scan, read, and describe
+2. Read https://qz.com/africa/2005322/zimbabwe-looks-to-elephant-hunting-for-revenue-lost-during-covid/
 
-<https://qz.com/africa/2005322/zimbabwe-looks-to-elephant-hunting-for-revenue-lost-during-covid/>
+
 Describe the state of elephants of Zimbabwe
