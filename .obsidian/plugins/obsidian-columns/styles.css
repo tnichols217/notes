@@ -32,6 +32,7 @@ div[data-callout="col"].callout > div.callout-title, div[data-callout^="col-md"]
     flex-grow: var(--obsidian-columns-def-span);
     flex-basis: calc(var(--obsidian-columns-min-width) * var(--obsidian-columns-def-span));
     width: calc(var(--obsidian-columns-min-width) * var(--obsidian-columns-def-span));
+    color: red;
 }
 
 div[data-callout="col"].callout > div.callout-content > div[data-callout^="col-md" ].callout {
