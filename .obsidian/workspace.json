@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "344dcee74c63d079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/8/Notes/Worksheets/2 - Elephants 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2f59026eab77fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APBiology/8/Notes/Worksheets/3 - Elephants 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
+                "file": "APBiology/8/Notes/Worksheets/2 - Elephants 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/8/Notes/Worksheets/1 - Elephants 1.md"
+                "file": "APBiology/8/Notes/Worksheets/2 - Elephants 2.md"
               }
             }
           },
@@ -162,8 +186,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "daf7233cd27e8d20",
+  "active": "344dcee74c63d079",
   "lastOpenFiles": [
+    "APBiology/8/Notes/Worksheets/3 - Elephants 3.md",
+    "APBiology/8/Notes/Worksheets/2 - Elephants 2.md",
+    "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
     "APBiology/8/Notes/Worksheets/attachments/Pasted image 20230506182504.png",
     "APBiology/8/Notes/Worksheets/attachments",
     "APArt/Portfolio notes.md",
@@ -180,10 +207,8 @@
     "APArt/FinalImages/9.jpg",
     "APArt/FinalImages/8.jpg",
     "APArt/FinalImages/7.jpg",
-    "APArt/FinalImages/6.jpg",
     "APArt/FinalImages/Final",
     "APArt/FinalImages",
-    "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
     "APBiology/8/Unit 8 BILL.md",
     "APBiology/8/Notes/Worksheets",
     "APBiology/8/Documents/Worksheets/Elephant 3.docx",
@@ -209,7 +234,6 @@
     "APBiology/7/Notes/Doodle Notes/6 - Mechanisms of Evolution 2.md",
     "APBiology/7/Notes/Doodle Notes/7 - Evidence for Evolution.md",
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics.md",
-    "APBiology/7/Notes/Doodle Notes/9 - Antibiotic Resistance Evolution in the Lab.md",
     "church/Untitled.canvas"
   ]
 }
