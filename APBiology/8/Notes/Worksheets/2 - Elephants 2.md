@@ -54,7 +54,7 @@ Optional: Meet the orphan calves
 
 > [!question] Using the data table, what species are at risk of extinction today?
 
-Threats elephants face
+## Threats elephants face
 
 Read information from the San Diego Zoo website regarding population statistics to see what common threats elephants face:   <http://ielc.libguides.com/c.php?g=692888&p=4908857>
 
@@ -62,9 +62,9 @@ Read information from the San Diego Zoo website regarding population statistics 
 
 Watch: How much is your face worth?
 
-What stood out from this PSA?
+> [!question] What stood out from this PSA?
 
-Tusklessness population case study
+### Tusklessness population case study
 
 .
 
