@@ -26,9 +26,12 @@ Pose a question as to how elephants might impact the ecosystem.
 
 ### Watch video <https://www.youtube.com/watch?v=Aw6GkiCvcWs>
 
-What surprised you the most about elephants?
+> [!question]
+> What surprised you the most about elephants?
+>> [!answer]
+>> a
 
-Pose a question about elephants.
+> [!questiPose a question about elephants.
 
 ## Energy flow through a community
 
