@@ -1,5 +1,6 @@
 ---
 date created: 2023-05-06 18:42
+date updated: 2023-05-06 18:44
 ---
 
 # Elephant Worksheet 2
@@ -37,17 +38,21 @@ Elephants are K species. Did you know that they are pregnant for 18-22 months?? 
 Optional: Meet the orphan calves
 <https://elephantswithoutborders.org/elephant-orphanage/meet-the-calves/>
 
-Populations of Elephants
+## Populations of Elephants
 
-What makes a population?
+> [!question] What makes a population?
 
-What are density dependent factors that affect elephants?
+> [!question] What are density dependent factors that affect elephants?
 
-What are density independent factors that affect elephants?
+> [!question] What are density independent factors that affect elephants?
 
-Using info from graph, How have African elephant populations changed over time?
+![[Pasted image 20230506184442.png]]
 
-Using the data table, what species are at risk of extinction today?
+> [!question] Using info from graph, How have African elephant populations changed over time?
+
+![[Pasted image 20230506184504.png]]
+
+> [!question] Using the data table, what species are at risk of extinction today?
 
 Threats elephants face
 
