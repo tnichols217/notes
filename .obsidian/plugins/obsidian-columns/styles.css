@@ -12,13 +12,14 @@ div[data-callout^="col-md"].callout {
     border-style: none;
 }
 
-/* .columnParent, div[data-callout="col"].callout > div.callout-content {
+.columnParent, div[data-callout="col"].callout > div.callout-content {
     display: flex;
     padding: var(--obsidian-columns-padding);
     flex-wrap: wrap;
     gap: var(--obsidian-columns-gap);
     white-space: normal;
-} */
+    color: red;
+}
 
 div[data-callout="col"].callout > div.callout-title, div[data-callout^="col-md"].callout > div.callout-title {
     display: none;
