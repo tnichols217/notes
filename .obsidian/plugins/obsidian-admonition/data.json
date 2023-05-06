@@ -74,6 +74,30 @@
       "injectColor": true,
       "noTitle": false,
       "copy": true
+    },
+    "Question": {
+      "type": "Question",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "question",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Question",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "Answer": {
+      "type": "Answer",
+      "color": "96, 113, 240",
+      "icon": {
+        "type": "rpg",
+        "name": "circle-of-circles"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": true,
