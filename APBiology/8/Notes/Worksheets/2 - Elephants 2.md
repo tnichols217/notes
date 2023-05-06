@@ -1,6 +1,6 @@
 ---
 date created: 2023-05-06 18:42
-date updated: 2023-05-06 18:47
+date updated: 2023-05-06 18:49
 ---
 
 # Elephant Worksheet 2
@@ -90,21 +90,16 @@ Therefore, tusklessness in male elephants is a (rare/common) trait.
 
 In elephants, no tusks (t) is sex-linked recessive tusks (T).
 
-> [!question] If a tuskless female mates with a male with tusks, what % females and males will be tusk-less?
-
-> [!question] In elephants, no tusks (t) is sex-linked recessive tusks (T). If a pure tusked female mates with a male without tusks, what % females and males will be tusk-less?
-
-> [!question] In elephants, big ears eyes (E) is dominant to small ears(e). If two heterozygous parents mate, what percent will have small ears?
-
+1. If a tuskless female mates with a male with tusks, what % females and males will be tusk-less?
+2. In elephants, no tusks (t) is sex-linked recessive tusks (T). If a pure tusked female mates with a male without tusks, what % females and males will be tusk-less?
+3. In elephants, big ears eyes (E) is dominant to small ears(e). If two heterozygous parents mate, what percent will have small ears?
 4. In elephants, big ears eyes (E) is dominant to small ears(e). If a homo dominant parent mate with a homo recessive parent, what percent will have small ears?
 
 %__small ears
 
-Elephants of Tanzania
+### Elephants of Tanzania
 
-```
-1) Color Tanzania on map
-2) Scan, read, and describe https://tanzania.wcs.org/Species/Elephant.aspx
-```
+1. Color Tanzania on map
+2. Read <https://tanzania.wcs.org/Species/Elephant.aspx>
 
-Describe the state of elephants of Zimbabwe
+> [!question] Describe the state of elephants of Zimbabwe
