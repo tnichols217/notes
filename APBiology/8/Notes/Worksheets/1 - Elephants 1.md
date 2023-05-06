@@ -51,7 +51,7 @@ Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades
 
 Predict 4 or more events that would happen if elephants were removed from an area
 
-
+### Simpson's Diversity Index
 
 Ecosystems such as old-growth forests and rainforests tend to be quite complex in their biodiversity and are stable.  However, not all ecosystems have the same level of biodiversity.  Humans have altered many ecosystems to reduce their complexity and diversity by converting previously unused forests into cropland, for example.  The conversion of forests into croplands reduces biodiversity by creating monocultures (all the same species), which presents several problems.  Nature’s tendency to increase biodiversity through succession is something humans battle in an attempt to maintain these monocultures.  This is often done with the use of pesticides and herbicides which kill off undesirable species, but that also tend to create other problems when these substances are used to make it easy to harvest a crop for human use.  
 
@@ -59,41 +59,9 @@ The Simpson’s Diversity Index is used to determine how biodiverse an area is. 
 
 The index has values from 0 to 1.  A large index value indicates a higher degree of biodiversity and a stable ecosystem with many niches and little competition, while a lower value indicates a lower degree of biodiversity which may indicate an ecosystem with a few dominant species and a greater degree of competition.  
 
-
-
-
-
-
-
-
-Let’s practice Simpsons
-
-
-Community 1--                                                         
-1- [ (n/N)2 + (n/N)2 + (n/N)2]
-1 – [ (325/1000)2 + (305/1000)2 + (370/1000)2]
-1 – [ 0.106 + 0.0930 + 0.137]
-1 – [0.336]
-Answer: 0.664
-
-What is the Simpson Diversity Index for Community 2?
-Community 2-- 
-1- [ (n/N)2 + (n/N)2 + (n/N)2]
--
-
-
-
-What conclusion can you draw about community 1 vs community 2?
-
-
-
-
-
-Community 1
-Community 2
+![[Pasted image 20230506182504.png]]
   
  
-  
 =25%  =25% =25%  =25%           =19%     =19%      =50% =12%
 
 Which community is the most diverse? Make a guess and circle community 1 or 2
