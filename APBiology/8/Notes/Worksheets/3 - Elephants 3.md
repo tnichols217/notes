@@ -50,34 +50,29 @@ A researcher collected DNA from five dung samples in an elephant population. She
 
 ### Example 1
 Oxpeckers and cattle egrets are two species of birds that land on elephants and spend their days eating lice, ticks, and other parties out of the elephants' skin and hair. The elephants benefit by having dangerous critters removed from their bodies, and the oxpeckers get a snack and a free ride.
-What type of relationship? Fill into chart above
 
 ### Example 2
 The dung beetle retrieves its nourishment from the elephant’s dung, while on the other hand, the elephants are totally indifferent to what happens to its waste.
-What type of relationship? Fill into chart above
 
 ### Example 3
-The elephant-specific intestinal fluke Protofasciola robusta, likely to be an ancestral species within the Fasciolidae (Lotfy et al., 2008), has been associated with intestinal tissue damage, hemorrhage and death in free-ranging African elephants (Vitovec et al., 1984; Obanda et al., 2011)
-What type of relationship? Fill into chart above
+The elephant-specific intestinal fluke Protofasciola robusta, likely to be an ancestral species within the Fasciolidae (Lotfy et al., 2008), has been associated with intestinal tissue damage, hemorrhage and death in free-ranging African elephants
 
 ### Example 4
 In Eritrea, a country in the Horn of Africa, olive baboons and elephants have formed a symbiotic relationship. The baboons drink from water holes dug by the elephants, and the elephants rely on baboons sitting in the treetops to alert them to danger.
-What type of relationship? Fill into chart above
 
 > [!question] Look at the African continent, make observations on the elephant populations?
 
 > [!question] Pose a question about populations in different countries
 
-What is the rate of growth in this population between 1950 and 1960?
+> [!question] What is the rate of growth in this population between 1950 and 1960?
 
-Is this logistic or exponential growth?
+> [!question] Is this logistic or exponential growth?
 
-What is the rate of growth in this population between 1975 and 2000?Show me the math!!
-Dy/dt
+> [!question] What is the rate of growth in this population between 1975 and 2000?
 
-Is this logistic or exponential growth?
+> [!question] Is this logistic or exponential growth?
 
-Calculate math and fill in on self grading worksheet. Show me the math!!
+> [!question] Calculate math and fill in on self grading worksheet.
 
 ```
 1) A pop of 23,473 elephants has 2,342 births and 473 deaths. What is the growth rate for this population?
