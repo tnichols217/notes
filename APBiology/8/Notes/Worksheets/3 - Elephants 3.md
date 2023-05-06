@@ -19,6 +19,7 @@ Sample C
 The fragments that traveled the furthest are smaller/larger
 
 ### Gel 2
+![[Pasted image 20230506201217.png]]
 DNA Ladder   Pop A       Pop B          Ivory Sample
 Where in Africa Did the Tusks Come From?
 The tusks were shipped from a port in Tanzania. Did they come from elephants in that country, or were they transported there from other parts of Africa? You will use data from a reference map of genetic profiles of elephant populations that was built using DNA isolated from dung!
