@@ -39,12 +39,12 @@ Explain why there aren’t 20 trophic levels in a food chain
 Define biodiversity
 
 Elephants are among the most intelligent of the creatures with whom we share the planet, with complex consciousnesses that are capable of strong emotions. Across Africa they have inspired respect from the people that share the landscape with them, giving them a strong cultural significance. As icons of the continent elephants are tourism magnets, attracting funding that helps protect wilderness areas. They are also keystone species, playing an important role in maintaining the biodiversity of the ecosystems in which they live.
+
 During the dry season, elephants use their tusks to dig for water. This not only allows the elephants to survive in dry environments and when droughts strike, but also provides water for other animals that share harsh habitats.When forest elephants eat, they create gaps in the vegetation. These gaps allow new plants to grow and create pathways for other smaller animals to use. They are also one of the major ways in which trees disperse their seeds; some species rely entirely upon elephants for seed dispersal.
-On the savannahs, elephants feeding on tree sprouts and shrubs help to keep the plains open and able to support the plains game that inhabit these ecosystems.
-Wherever they live, elephants leave dung that is full of seeds from the many plants they eat. When this dung is deposited the seeds are sown and grow into new grasses, bushes and trees, boosting the health of the savannah ecosystem.
+
+On the savannahs, elephants feeding on tree sprouts and shrubs help to keep the plains open and able to support the plains game that inhabit these ecosystems. Wherever they live, elephants leave dung that is full of seeds from the many plants they eat. When this dung is deposited the seeds are sown and grow into new grasses, bushes and trees, boosting the health of the savannah ecosystem.
 
 How are elephants increasing the biodiversity in their community
-
 
 Watch https://www.youtube.com/watch?v=hRGg5it5FMI
 Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades
