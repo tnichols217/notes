@@ -64,31 +64,27 @@ Watch: How much is your face worth?
 
 > [!question] What stood out from this PSA?
 
-### Tusklessness population case study
-
-.
+## Tusklessness population case study
 
 Watch the video clip at <http://www.hhmi.org/biointeractive/selection-tuskless-elephants>
 
-Use the following data and information from the video to answer the questions that follow.
+> [!question] What is unusual about the elephant populations found in Gorongosa now?
 
-What is unusual about the elephant populations found in Gorongosa now?
+> [!question] How does an elephant use its tusks?
 
-How does an elephant use its tusks?
-
-What would probably happen to a male elephant that doesn’t have tusks?
+> [!question] What would probably happen to a male elephant that doesn’t have tusks?
 
 Therefore, tusklessness in male elephants is a (rare/common) trait.
 
-How did the civil war affect elephant populations?
+> [!question] How did the civil war affect elephant populations?
 
-Dr. Poole noticed a high proportion of tuskless elephants after the war.  But why did males still have their tusks?
+> [!question] Dr. Poole noticed a high proportion of tuskless elephants after the war.  But why did males still have their tusks?
 
-What was the selective pressure that increased the numbers of tuskless elephants?
+> [!question] What was the selective pressure that increased the numbers of tuskless elephants?
 
-Explain how this selective pressure shifted the population to be more tuskless.
+> [!question] Explain how this selective pressure shifted the population to be more tuskless.
 
-Write an explanation based on natural selection for the high incidence of tusklessness among female elephants in Gorongosa.Highlight vocab: variation, differential reproduction, trait, variation, inherit, DNA
+> [!question] Write an explanation based on natural selection for the high incidence of tusklessness among female elephants in Gorongosa.Highlight vocab: variation, differential reproduction, trait, variation, inherit, DNA
 
 In elephants, no tusks (t) is sex-linked recessive tusks (T). If a tuskless female mates with a male with tusks, what % females and males will be tusk-less?
 
