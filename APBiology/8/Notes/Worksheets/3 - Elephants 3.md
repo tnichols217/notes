@@ -1,6 +1,6 @@
 ---
 date created: 2023-05-06 20:11
-date updated: 2023-05-06 20:20
+date updated: 2023-05-06 20:22
 ---
 
 # Elephant Worksheet 3
@@ -98,19 +98,17 @@ In Eritrea, a country in the Horn of Africa, olive baboons and elephants have fo
 
 ## Review Questions
 
-A lion kills and eats an elephant. Cellular respiration begins. Say steps out loud as you move your finger across screen (right/left brain).
+A lion kills and eats an elephant. Cellular respiration begins. Describe the steps of cellular respiration.
 
 How is ATP made in glycolysis, Krebs, and ETC?
+
 How do elephants react to being chased?
-Say steps out loud as you move your finger across screen (right/left brain)
 
 What molecules amplify the signal?
 
-Elephant population of South Africa
+## Elephant population of South Africa
 
-```
-1) Color South Africa on map
-2) Double Scan and read and describe
-```
+1. Color South Africa on map
+2. Double Scan and read and describe
 
 Describe the elephant population of South Africa
