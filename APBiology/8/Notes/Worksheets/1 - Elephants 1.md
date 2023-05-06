@@ -16,9 +16,9 @@ I can investigate elephant poop and the elephants of Zimbabwe
 
 Your teacher won a grant and was gifted elephant poop from the African savanna and soil from there as well. Your teacher rocks!!
 
-Make 2 observations on the elephant poop.
+> [!question] Make 2 observations on the elephant poop.
 
-Compare and contrast the seed found in the elephant poop vs those found in soil.
+> [!quesCompare and contrast the seed found in the elephant poop vs those found in soil.
 
 Pose a question as to how elephants might impact the ecosystem.
 
@@ -26,12 +26,11 @@ Pose a question as to how elephants might impact the ecosystem.
 
 ### Watch video <https://www.youtube.com/watch?v=Aw6GkiCvcWs>
 
-> [!question]
-> What surprised you the most about elephants?
->> [!answer]
->> a
+> [!question] What surprised you the most about elephants?
+> a
 
-> [!questiPose a question about elephants.
+> [!question] Pose a question about elephants.
+> a
 
 ## Energy flow through a community
 
