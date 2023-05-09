@@ -31,10 +31,10 @@ Your teacher won a grant and was gifted elephant poop from the African savanna a
 ### Watch video <https://www.youtube.com/watch?v=Aw6GkiCvcWs>
 
 > [!question] What surprised you the most about elephants?
-> Elephants 
+> Elephants drink so much water. Like why?
 
 > [!question] Pose a question about elephants.
-> a
+> What selective pressures pushed elephants to have that particular body shape.
 
 ## Energy flow through a community
 
@@ -43,6 +43,7 @@ A food web shows feeding relationships among organisms
 - Arrow means “gives its energy to”
 
 > [!question] Describe the flow of energy starting at primary producer using “gives its energy to” each time
+> 
 
 ### What happens to energy as it moves through a food chain? The 10 Percent Rule
 
