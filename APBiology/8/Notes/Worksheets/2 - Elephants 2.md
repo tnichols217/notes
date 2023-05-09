@@ -113,11 +113,15 @@ Therefore, tusklessness in male elephants is a rare trait.
 In elephants, no tusks (t) is sex-linked recessive tusks (T).
 
 1. If a tuskless female mates with a male with tusks, what % females and males will be tusk-less?
+	- 0% tuskless F
+	- 100% tuskless M
 2. In elephants, no tusks (t) is sex-linked recessive tusks (T). If a pure tusked female mates with a male without tusks, what % females and males will be tusk-less?
+	- 0% tuskless F
+	- 0% tuskless M
 3. In elephants, big ears eyes (E) is dominant to small ears(e). If two heterozygous parents mate, what percent will have small ears?
+	- 25% small ears
 4. In elephants, big ears eyes (E) is dominant to small ears(e). If a homo dominant parent mate with a homo recessive parent, what percent will have small ears?
-
-%__small ears
+	- 0% small ears
 
 ### Elephants of Tanzania
 
@@ -125,3 +129,4 @@ In elephants, no tusks (t) is sex-linked recessive tusks (T).
 2. Read <https://tanzania.wcs.org/Species/Elephant.aspx>
 
 > [!question] Describe the state of elephants of Zimbabwe
+> Population declines due to poaching for ivory.

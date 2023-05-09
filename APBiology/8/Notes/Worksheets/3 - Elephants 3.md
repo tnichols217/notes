@@ -16,8 +16,8 @@ date updated: 2023-05-06 20:22
 ![[Pasted image 20230506201207.png]]
 Count the  bands on  sample A, B and C in gel 1
 
-Sample A
-Sample B
+Sample A => 5
+Sample B => 4
 Sample C
 
 The fragments that traveled the furthest are smaller/larger
