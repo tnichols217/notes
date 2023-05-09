@@ -106,3 +106,4 @@ The index has values from 0 to 1.  A large index value indicates a higher degree
 2. Read https://qz.com/africa/2005322/zimbabwe-looks-to-elephant-hunting-for-revenue-lost-during-covid/
 
 > [!question] Describe the state of elephants of Zimbabwe
+> Zimbabwe is selling rights to hunt elephants in hope that they will have money to protect them??
