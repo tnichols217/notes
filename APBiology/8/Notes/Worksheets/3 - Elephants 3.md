@@ -18,9 +18,9 @@ Count the  bands on  sample A, B and C in gel 1
 
 Sample A => 5
 Sample B => 4
-Sample C
+Sample C => 4
 
-The fragments that traveled the furthest are smaller/larger
+The fragments that traveled the furthest are **smaller**
 
 ### Gel 2
 
@@ -31,22 +31,25 @@ The fragments that traveled the furthest are smaller/larger
 The tusks were shipped from a port in Tanzania. Did they come from elephants in that country, or were they transported there from other parts of Africa? You will use data from a reference map of genetic profiles of elephant populations that was built using DNA isolated from dung!
 
 > [!question] Compare the ivory sample to pop A or pop B. Is the ivory sample more like population A or population B?
+> A
 
 > [!question] What’s your evidence?
+> The bands from the electrophoresis line up better 
 
 The left lane shows a DNA ladder and lanes A–D show the alleles for Marker X present in each elephant population. Remember that each population profile consists of the alleles from several individual dung samples.
 
 A researcher collected DNA from five dung samples in an elephant population. She amplified the sequence corresponding to the STR locus called "Marker X" and determined each allele's size using gel electrophoresis. The data are shown in the table. Samples that have an identical fragment for both alleles are homozygous for Marker X. If the alleles are different, the individual is heterozygous.
 
 > [!question] Which of the lanes shown at left corresponds to the Marker X profile for this population?
+> Lane 1 and 5
 
 ## Elephants and Other Species
 
-| Relationshp  | Description | Is this a ++ += +0 | Species Examples |
-| ------------ | ----------- | ------------------ | ---------------- |
-| Mutualism    |             |                    |                  |
-| Commensalism |             |                    |                  |
-| Prasitism    |             |                    |                  |
+| Relationshp  | Description               | Is this a ++ += +0 | Species Examples |
+| ------------ | ------------------------- | ------------------ | ---------------- |
+| Mutualism    | Both benefit              | ++                 | 1, 4             |
+| Commensalism | One benefits              | +0                 | 2                |
+| Paracitism   | One benefits, one suffers | +-                 | 3                | 
 
 ### Example 1
 
@@ -65,6 +68,7 @@ The elephant-specific intestinal fluke Protofasciola robusta, likely to be an an
 In Eritrea, a country in the Horn of Africa, olive baboons and elephants have formed a symbiotic relationship. The baboons drink from water holes dug by the elephants, and the elephants rely on baboons sitting in the treetops to alert them to danger.
 
 > [!question] Look at the African continent, make observations on the elephant populations?
+> 
 
 > [!question] Pose a question about populations in different countries
 
