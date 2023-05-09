@@ -18,18 +18,20 @@ Your teacher won a grant and was gifted elephant poop from the African savanna a
 
 > [!question] Make 2 observations on the elephant poop.
 > 1. Seeds that are processed often remain intact after expulsion
-> 2. They heo
+> 2. They help plants grow
 
 > [!question] Compare and contrast the seed found in the elephant poop vs those found in soil.
+> The ones from the shit tend to grow better because they have more access to nutrients
 
 > [!question] Pose a question as to how elephants might impact the ecosystem.
+> How does their shit promote the environment and spread of plants?
 
 ## Intro to elephants
 
 ### Watch video <https://www.youtube.com/watch?v=Aw6GkiCvcWs>
 
 > [!question] What surprised you the most about elephants?
-> a
+> Elephants 
 
 > [!question] Pose a question about elephants.
 > a
