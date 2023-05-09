@@ -43,17 +43,19 @@ A food web shows feeding relationships among organisms
 - Arrow means “gives its energy to”
 
 > [!question] Describe the flow of energy starting at primary producer using “gives its energy to” each time
-> Grass and trees give energy to the primary consumers - elephants and zebras,
+> Grass and trees give energy to the primary consumers - elephants and zebras, which get eaten and transfer the energy to hyenas (secondary) and lions (tertiary)
 
 ### What happens to energy as it moves through a food chain? The 10 Percent Rule
 
 <https://www.youtube.com/watch?v=ScizkxMlEOM>
 
 > [!question] Explain why there aren’t 20 trophic levels in a food chain
+> The amount of energy that gets sent to the next level is significantly less than the previous level, so the more levels, the less energy that level will have
 
 ## Elephants as keystone species for biodiversity
 
 > [!question] Define biodiversity
+> 
 
 Elephants are among the most intelligent of the creatures with whom we share the planet, with complex consciousnesses that are capable of strong emotions. Across Africa they have inspired respect from the people that share the landscape with them, giving them a strong cultural significance. As icons of the continent elephants are tourism magnets, attracting funding that helps protect wilderness areas. They are also keystone species, playing an important role in maintaining the biodiversity of the ecosystems in which they live.
 
