@@ -32,10 +32,13 @@ Elephants live in tightly-bonded female-led herds. This is led by the oldest and
 > [!question] Using the graphs,  provide at least 2 pieces of evidence to support claim
 > Those with siblings tend to have larger standard body mass implying better fitness. With a Female as elder, it also increases chances of survival, whilst the opposite decreases.
 
-Elephants are K species. Did you know that they are pregnant for 18-22 months?? How might this slow the conservation effort to save elephants?
+Elephants are K species. Did you know that they are pregnant for 18-22 months??
+
+> [!question] How might this slow the conservation effort to save elephants?
+> Their generation time is much longer, meaning it takes longer to rebound the population
 
 > [!question] What is the advantage to k-selection? Disadvantage?
-> 
+> Increases survival
 
 > [!question] What is the advantage to r-selection? Disadvantage?
 
