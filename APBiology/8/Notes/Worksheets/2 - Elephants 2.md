@@ -18,16 +18,19 @@ date updated: 2023-05-06 18:49
 -Elephants use their tusks all the time. “Prying bark from trees; digging for water, roots, or minerals; [or] fighting other bull elephants—tusks perform a variety of functions.”
 
 > [!question] Measure the elephant tusk shown in diagram in cm
+> 10cm
 
 The pulp cavity is connected to the elephant’s face. How much of the tusk is in the elephant’s skull?
 
 > [!question] Look at a 3D model of an elephant skull. Pose a question about elephant tusks
+> How did their structure evolve to support strong tusks.
 
 ## Claim: Cooperative Behavior increases fitness and success of young elephants.
 
 Elephants live in tightly-bonded female-led herds. This is led by the oldest and often largest female in the herd, called a matriarch. Herds usually consist of 8-100 individuals, depending on terrain and family size. When a calf is born, it is raised and protected by the whole matriarchal herd.
 
 > [!question] Using the graphs,  provide at least 2 pieces of evidence to support claim
+> 
 
 Elephants are K species. Did you know that they are pregnant for 18-22 months?? How might this slow the conservation effort to save elephants?
 
