@@ -30,7 +30,7 @@ The pulp cavity is connected to the elephant’s face. How much of the tusk is i
 Elephants live in tightly-bonded female-led herds. This is led by the oldest and often largest female in the herd, called a matriarch. Herds usually consist of 8-100 individuals, depending on terrain and family size. When a calf is born, it is raised and protected by the whole matriarchal herd.
 
 > [!question] Using the graphs,  provide at least 2 pieces of evidence to support claim
-> Those with siblings tend to have larger standard 
+> Those with siblings tend to have larger standard body mass implying better fitness. 
 
 Elephants are K species. Did you know that they are pregnant for 18-22 months?? How might this slow the conservation effort to save elephants?
 
