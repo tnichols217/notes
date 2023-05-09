@@ -94,15 +94,19 @@ Watch the video clip at <http://www.hhmi.org/biointeractive/selection-tuskless-e
 Therefore, tusklessness in male elephants is a rare trait.
 
 > [!question] How did the civil war affect elephant populations?
-> Increased the tuskless population
+> Increased the tusked population
 
 > [!question] Dr. Poole noticed a high proportion of tuskless elephants after the war.  But why did males still have their tusks?
+> Tuskless elephants could not fight for themselves, so they lost.
 
 > [!question] What was the selective pressure that increased the numbers of tuskless elephants?
+> Hunting for ivory
 
 > [!question] Explain how this selective pressure shifted the population to be more tuskless.
+> It killed off all the tusked ones so then the allele frequency of the tuskless population increased.
 
 > [!question] Write an explanation based on natural selection for the high incidence of tusklessness among female elephants in Gorongosa.Highlight vocab: variation, differential reproduction, trait, variation, inherit, DNA
+> They dont need to fight, so they increased in population due to the hunting, yet tusked males survived because they can basically destroy all the tuskless ones. 
 
 ## Review Questions
 
