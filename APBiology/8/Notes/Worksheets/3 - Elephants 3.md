@@ -1,6 +1,6 @@
 ---
 date created: 2023-05-06 20:11
-date updated: 2023-05-06 20:22
+date updated: 2023-05-09 13:13
 ---
 
 # Elephant Worksheet 3
@@ -34,7 +34,7 @@ The tusks were shipped from a port in Tanzania. Did they come from elephants in 
 > A
 
 > [!question] What’s your evidence?
-> The bands from the electrophoresis line up better 
+> The bands from the electrophoresis line up better
 
 The left lane shows a DNA ladder and lanes A–D show the alleles for Marker X present in each elephant population. Remember that each population profile consists of the alleles from several individual dung samples.
 
@@ -49,7 +49,7 @@ A researcher collected DNA from five dung samples in an elephant population. She
 | ------------ | ------------------------- | ------------------ | ---------------- |
 | Mutualism    | Both benefit              | ++                 | 1, 4             |
 | Commensalism | One benefits              | +0                 | 2                |
-| Paracitism   | One benefits, one suffers | +-                 | 3                | 
+| Paracitism   | One benefits, one suffers | +-                 | 3                |
 
 ### Example 1
 
@@ -94,30 +94,30 @@ In Eritrea, a country in the Horn of Africa, olive baboons and elephants have fo
 ![[Pasted image 20230506202033.png]]
 
 1. A pop of 23,473 elephants has 2,342 births and 473 deaths. What is the growth rate for this population?
-	- 1869
+   - 1869
 2. One thousand two hundred and seventy deer are living on an island that is eight hundred and thirty square kilometers in size. What is the population density of the deer per square kilometer?
-	- 1.53
+   - 1.53
 3. In 2002, 16.47 million babies were born in China. What was the birth rate (as a percentage and per 1000)?
-	- 1.29%
+   - 1.29%
 4. There are 252 elephants in a population. There is no net immigration or emigration. If 47 elephants die and 32 elephants are born in one month, what is the population size at the end of the month? Round to the nearest whole number.
-	- 237
+   - 237
 5. In a population of 600 squirrels, the per capita birth rate in a particular period is 0.06 and the per capita death rate is 0.12. What is the per capita growth rate of the population? Round to the nearest hundredth.
-	- -0.06
+   - -0.06
 6. If rmax = 1.0 and carrying capacity (K) = 1,500, calculate the population growth rate, where population size (N) = 1,600. What is happening to this population?
-	- population is in decline, since above carrying capacity
+   - population is in decline, since above carrying capacity
 
 ## Review Questions
 
 A lion kills and eats an elephant. Cellular respiration begins. Describe the steps of cellular respiration.
 
 1. How is ATP made in glycolysis, Krebs, and ETC?
-	- In cytoplasm
-	- In mitochondria
-	- Through differential presures
+   - In cytoplasm
+   - In mitochondria
+   - Through differential presures
 2. How do elephants react to being chased?
-	- Secrete hormones like adrenaline that promote the production of energy
+   - Secrete hormones like adrenaline that promote the production of energy
 3. What molecules amplify the signal?
-	- cAMP, kinases
+   - cAMP, kinases
 
 ## Elephant population of South Africa
 

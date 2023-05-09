@@ -1,6 +1,6 @@
 ---
 date created: 2023-05-06 18:42
-date updated: 2023-05-06 18:49
+date updated: 2023-05-09 13:13
 ---
 
 # Elephant Worksheet 2
@@ -106,22 +106,22 @@ Therefore, tusklessness in male elephants is a rare trait.
 > It killed off all the tusked ones so then the allele frequency of the tuskless population increased.
 
 > [!question] Write an explanation based on natural selection for the high incidence of tusklessness among female elephants in Gorongosa.Highlight vocab: variation, differential reproduction, trait, variation, inherit, DNA
-> They dont need to fight, so they increased in population due to the hunting, yet tusked males survived because they can basically destroy all the tuskless ones. 
+> They dont need to fight, so they increased in population due to the hunting, yet tusked males survived because they can basically destroy all the tuskless ones.
 
 ## Review Questions
 
 In elephants, no tusks (t) is sex-linked recessive tusks (T).
 
 1. If a tuskless female mates with a male with tusks, what % females and males will be tusk-less?
-	- 0% tuskless F
-	- 100% tuskless M
+   - 0% tuskless F
+   - 100% tuskless M
 2. In elephants, no tusks (t) is sex-linked recessive tusks (T). If a pure tusked female mates with a male without tusks, what % females and males will be tusk-less?
-	- 0% tuskless F
-	- 0% tuskless M
+   - 0% tuskless F
+   - 0% tuskless M
 3. In elephants, big ears eyes (E) is dominant to small ears(e). If two heterozygous parents mate, what percent will have small ears?
-	- 25% small ears
+   - 25% small ears
 4. In elephants, big ears eyes (E) is dominant to small ears(e). If a homo dominant parent mate with a homo recessive parent, what percent will have small ears?
-	- 0% small ears
+   - 0% small ears
 
 ### Elephants of Tanzania
 
