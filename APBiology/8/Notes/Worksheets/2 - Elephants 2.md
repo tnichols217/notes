@@ -49,14 +49,18 @@ Optional: Meet the orphan calves
 ## Populations of Elephants
 
 > [!question] What makes a population?
+> Groups of individuals of the same species that rely on similar resources that occupy the same area
 
 > [!question] What are density dependent factors that affect elephants?
+> Competition for land, resources, disease
 
 > [!question] What are density independent factors that affect elephants?
+> Natural Disasters
 
 ![[Pasted image 20230506184442.png]]
 
 > [!question] Using info from graph, How have African elephant populations changed over time?
+> 
 
 ![[Pasted image 20230506184504.png]]
 
