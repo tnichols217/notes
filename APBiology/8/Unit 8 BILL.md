@@ -7,5 +7,6 @@ date created: 2023-05-04 13:21
 ## Worksheets
 
 1. [ ] Elephants 1
+       ![[1 - Elephants 1]]
 2. [ ] Elephants 2
 3. [ ] Elephants 3

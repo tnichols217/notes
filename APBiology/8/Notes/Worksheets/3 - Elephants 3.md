@@ -115,8 +115,9 @@ A lion kills and eats an elephant. Cellular respiration begins. Describe the ste
 	- In mitochondria
 	- Through differential presures
 2. How do elephants react to being chased?
-	- 
+	- Secrete hormones like adrenaline that promote the production of energy
 3. What molecules amplify the signal?
+	- cAMP, kinases
 
 ## Elephant population of South Africa
 
@@ -124,3 +125,4 @@ A lion kills and eats an elephant. Cellular respiration begins. Describe the ste
 2. Double Scan and read and describe
 
 > [!question] Describe the elephant population of South Africa
+> People interrupted elephants' cycle, which prevented them from migrating, which led them to be too large for the area, putting them above the carrying capacity and decreasing their population.
