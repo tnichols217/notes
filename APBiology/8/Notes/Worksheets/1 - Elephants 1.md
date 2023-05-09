@@ -17,6 +17,8 @@ date updated: 2023-05-06 18:26
 Your teacher won a grant and was gifted elephant poop from the African savanna and soil from there as well. Your teacher rocks!!
 
 > [!question] Make 2 observations on the elephant poop.
+> 1. Seeds that are processed often remain intact after expulsion
+> 2. They heo
 
 > [!question] Compare and contrast the seed found in the elephant poop vs those found in soil.
 
