@@ -64,12 +64,14 @@ During the dry season, elephants use their tusks to dig for water. This not only
 On the savannahs, elephants feeding on tree sprouts and shrubs help to keep the plains open and able to support the plains game that inhabit these ecosystems. Wherever they live, elephants leave dung that is full of seeds from the many plants they eat. When this dung is deposited the seeds are sown and grow into new grasses, bushes and trees, boosting the health of the savannah ecosystem.
 
 > [!question] How are elephants increasing the biodiversity in their community?
-> They basically plant and promote plant growth, leading to a boom in primary produces which introduces 
+> They basically plant and promote plant growth, leading to a boom in primary produces which introduces more energy into the system.
 
 Watch <https://www.youtube.com/watch?v=hRGg5it5FMI>
 Some Animals Are More Equal than Others: Keystone Species and Trophic Cascades
 
 > [!question] Predict 4 or more events that would happen if elephants were removed from an area
+> 1. Population of plants would decrease
+> 2. Amount of 
 
 ### Simpson's Diversity Index
 > [!info] Simpson's Diversity Index Formula
