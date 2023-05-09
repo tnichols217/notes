@@ -43,7 +43,7 @@ A food web shows feeding relationships among organisms
 - Arrow means “gives its energy to”
 
 > [!question] Describe the flow of energy starting at primary producer using “gives its energy to” each time
-> 
+> Grass and trees give energy to the primary consumers - elephants and zebras,
 
 ### What happens to energy as it moves through a food chain? The 10 Percent Rule
 
