@@ -94,9 +94,11 @@ The index has values from 0 to 1.  A large index value indicates a higher degree
 
 ![[Pasted image 20230506182504.png]]
 
-> [!question] Which community is the most diverse? Make a guess and circle community 1 or 2
+> [!question] Which community is the most diverse?
+> Community 1 because it is the most balanced.
 
-Justify your guess
+> [!question] Justify your guess
+> It has the most balanced populations of different organisms
 
 ### Elephants of Zimbabwe
 
