@@ -38,9 +38,10 @@ Elephants are K species. Did you know that they are pregnant for 18-22 months??
 > Their generation time is much longer, meaning it takes longer to rebound the population
 
 > [!question] What is the advantage to k-selection? Disadvantage?
-> Increases survival
+> Increases survival of offspring, but decreases adaptability.
 
 > [!question] What is the advantage to r-selection? Disadvantage?
+> More offspring and increases adaptability, but decreased survival rate.
 
 Optional: Meet the orphan calves
 <https://elephantswithoutborders.org/elephant-orphanage/meet-the-calves/>
