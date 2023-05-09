@@ -60,11 +60,12 @@ Optional: Meet the orphan calves
 ![[Pasted image 20230506184442.png]]
 
 > [!question] Using info from graph, How have African elephant populations changed over time?
-> 
+> Decreased significantly over time
 
 ![[Pasted image 20230506184504.png]]
 
 > [!question] Using the data table, what species are at risk of extinction today?
+> African Forest Elephant
 
 ## Threats elephants face
 
@@ -75,14 +76,17 @@ Read information from the San Diego Zoo website regarding population statistics 
 Watch: How much is your face worth?
 
 > [!question] What stood out from this PSA?
+> The tusks are attached to their skull, so to take them then you have to rip off their faces.
 
 ## Tusklessness population case study
 
 Watch the video clip at <http://www.hhmi.org/biointeractive/selection-tuskless-elephants>
 
 > [!question] What is unusual about the elephant populations found in Gorongosa now?
+> Increased significantly due to artificial selection
 
 > [!question] How does an elephant use its tusks?
+> 
 
 > [!question] What would probably happen to a male elephant that doesn’t have tusks?
 
