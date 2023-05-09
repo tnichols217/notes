@@ -86,13 +86,15 @@ Watch the video clip at <http://www.hhmi.org/biointeractive/selection-tuskless-e
 > Increased significantly due to artificial selection
 
 > [!question] How does an elephant use its tusks?
-> 
+> Dig holes, fight, and hunt.
 
 > [!question] What would probably happen to a male elephant that doesn’t have tusks?
+> Can't fight or hunt.
 
-Therefore, tusklessness in male elephants is a (rare/common) trait.
+Therefore, tusklessness in male elephants is a rare trait.
 
 > [!question] How did the civil war affect elephant populations?
+> Increased the tuskless population
 
 > [!question] Dr. Poole noticed a high proportion of tuskless elephants after the war.  But why did males still have their tusks?
 
