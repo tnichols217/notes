@@ -98,19 +98,25 @@ In Eritrea, a country in the Horn of Africa, olive baboons and elephants have fo
 2. One thousand two hundred and seventy deer are living on an island that is eight hundred and thirty square kilometers in size. What is the population density of the deer per square kilometer?
 	- 1.53
 3. In 2002, 16.47 million babies were born in China. What was the birth rate (as a percentage and per 1000)?
-6. There are 252 elephants in a population. There is no net immigration or emigration. If 47 elephants die and 32 elephants are born in one month, what is the population size at the end of the month? Round to the nearest whole number.
-7. In a population of 600 squirrels, the per capita birth rate in a particular period is 0.06 and the per capita death rate is 0.12. What is the per capita growth rate of the population? Round to the nearest hundredth.
-8. If rmax = 1.0 and carrying capacity (K) = 1,500, calculate the population growth rate, where population size (N) = 1,600. What is happening to this population?
+	- 1.29%
+4. There are 252 elephants in a population. There is no net immigration or emigration. If 47 elephants die and 32 elephants are born in one month, what is the population size at the end of the month? Round to the nearest whole number.
+	- 237
+5. In a population of 600 squirrels, the per capita birth rate in a particular period is 0.06 and the per capita death rate is 0.12. What is the per capita growth rate of the population? Round to the nearest hundredth.
+	- -0.06
+6. If rmax = 1.0 and carrying capacity (K) = 1,500, calculate the population growth rate, where population size (N) = 1,600. What is happening to this population?
+	- population is in decline, since above carrying capacity
 
 ## Review Questions
 
 A lion kills and eats an elephant. Cellular respiration begins. Describe the steps of cellular respiration.
 
-How is ATP made in glycolysis, Krebs, and ETC?
-
-How do elephants react to being chased?
-
-What molecules amplify the signal?
+1. How is ATP made in glycolysis, Krebs, and ETC?
+	- In cytoplasm
+	- In mitochondria
+	- Through differential presures
+2. How do elephants react to being chased?
+	- 
+3. What molecules amplify the signal?
 
 ## Elephant population of South Africa
 
