@@ -119,7 +119,7 @@ Length: 9 in
 
 ### Ideas
 
-
+My guitar pieces similarly display the journey of my relationship with my guitar.
 
 ## 7 - Drum
 
