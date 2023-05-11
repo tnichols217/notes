@@ -95,6 +95,10 @@ Length: 83 in
 1. Combined children's toy with a professional yet fun look to convey retrospective sentimentality
 2. Experimented with styles of generated distortion until I created one that was gentle and relaxing
 
+### Ideas
+
+I tried to display the disparity between 
+
 ## 6 - Guitar
 
 ### Dimensions

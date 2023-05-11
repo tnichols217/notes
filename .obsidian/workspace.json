@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APArt/Sustained Investigation.md",
+                "file": "APArt/Piece Descriptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APArt/Sustained Investigation.md"
+                "file": "APArt/Piece Descriptions.md"
               }
             }
           },
@@ -186,8 +186,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0eaebd664d174b69",
+  "active": "f3e5a046248dcdf3",
   "lastOpenFiles": [
+    "APArt/Sustained Investigation.md",
     "APArt/Image Layout.md",
     "APArt/Piece Descriptions.md",
     "APArt/Portfolio notes.md",
@@ -212,7 +213,6 @@
     "APBiology/8/Notes/Worksheets/attachments/Pasted image 20230506184442.png",
     "APBiology/8/Notes/Worksheets/attachments/Pasted image 20230506182504.png",
     "APBiology/8/Notes/Worksheets/attachments",
-    "APArt/Sustained Investigation.md",
     "APArt/TODO.md",
     "APArt/FinalImages/15.jpg",
     "APArt/FinalImages/14.jpg",
