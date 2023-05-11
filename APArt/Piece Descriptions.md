@@ -141,7 +141,7 @@ Length: 49 in
 
 ### Ideas
 
-I first began learning the drums when I was much younger. The size disparity between me and the drums was 
+I first began learning the drums when I was much younger. The size disparity between me and the drums was... let's say greater than optimal. Not only could I not have set the stool any higher (due to not being able to reach the pedals) I don
 
 ## 8 - Horn
 
