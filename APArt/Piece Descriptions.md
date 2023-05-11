@@ -163,7 +163,7 @@ Length: 12 in
 
 ### Ideas
 
-The french horn was the last instrument I bagan learning out of the instruments in this portfolio. My first experience with the french horn consisted mostly of me attempting the trace the path of the air through the instrument, but failing miserably particularly around the valves. Not much about the french horn made sense other than you blow into it and it makes sound. By showing little children a french horn and asking them to draw it from memory, most of them managed to scribble a roughly circular shape with a clear 
+The french horn was the last instrument I bagan learning out of the instruments in this portfolio. My first experience with the french horn consisted mostly of me attempting the trace the path of the air through the instrument, but failing miserably particularly around the valves. Not much about the french horn made sense other than you blow into it and it makes sound. By showing little children a french horn and asking them to draw it from memory, most of them managed to scribble a roughly circular shape although with a clear input and a large bell on the other side. I also noticed that they drew the bell in the 
 
 # Selected Works
 
