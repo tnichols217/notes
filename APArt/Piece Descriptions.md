@@ -97,7 +97,7 @@ Length: 83 in
 
 ### Ideas
 
-Through my piano images, I attempted to convey the journey from 
+Through my piano images, I attempted to convey the journey from intimidation to peace in my interactions with the piano. When I was younger—and physically smaller, the visual business of 
 
 ## 6 - Guitar
 
