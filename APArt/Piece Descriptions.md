@@ -97,7 +97,7 @@ Length: 83 in
 
 ### Ideas
 
-I tried to display the disparity between 
+In the first piano piece I tried to convey 
 
 ## 6 - Guitar
 
