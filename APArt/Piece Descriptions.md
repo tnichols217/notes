@@ -163,7 +163,7 @@ Length: 12 in
 
 ### Ideas
 
-
+The french horn was the last instrument I bagan learning out of the instruments in this portfolio. 
 
 # Selected Works
 
