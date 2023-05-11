@@ -119,7 +119,7 @@ Length: 9 in
 
 ### Ideas
 
-My guitar pieces similarly display the journey of my relationship with the guitar. Initially, guitars invoked feelings of disgust and scariness primarily through their unwieldy shape and skin-tearing strings. In the first piece, I represent the hostility of the guitar through the barbed wires as well as the morphing of its shape into a dead tree to emphasize its scariness and disgust to me as a child. On the other end of the spectrum, the guitar now holds a sentimental and nostalgic place in my memories. Guitars no longer scare nor disgust me but instead offer a way of escape and enjoyment—much like nostalgic games for many. My enjoyment of the guitar is directly represented in the shape of the controller for the classic Nintendo NES—invoking both satisfaction and 
+My guitar pieces similarly display the journey of my relationship with the guitar. Initially, guitars invoked feelings of disgust and scariness primarily through their unwieldy shape and skin-tearing strings. In the first piece, I represent the hostility of the guitar through the barbed wires as well as the morphing of its shape into a dead tree to emphasize its scariness and disgust to me as a child. On the other end of the spectrum, the guitar now holds a sentimental and nostalgic place in my memories. Guitars no longer scare nor disgust me but instead offer a way of escape and enjoyment—much like old games for many. My enjoyment of the guitar is directly represented in the shape of the controller for the classic Nintendo NES—invoking both satisfaction and nostalgia in its viewers.
 
 ## 7 - Drum
 
