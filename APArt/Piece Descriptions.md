@@ -119,7 +119,7 @@ Length: 9 in
 
 ### Ideas
 
-My guitar pieces similarly display the journey of my relationship with my guitar.
+My guitar pieces similarly display the journey of my relationship with the guitar. Initially, guitars invoked feelings of disgust and 
 
 ## 7 - Drum
 
