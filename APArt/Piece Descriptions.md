@@ -139,6 +139,10 @@ Length: 49 in
 1. Experimented with methods of simulating wrinkles by varying stiffness, stretch, and starting shape
 2. Revised from beach ball color layout to a distribution following more closely to an actual drum
 
+### Ideas
+
+
+
 ## 8 - Horn
 
 ### Dimensions
