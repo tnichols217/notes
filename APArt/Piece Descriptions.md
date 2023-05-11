@@ -141,7 +141,7 @@ Length: 49 in
 
 ### Ideas
 
-I first began learning the drums when I was younger
+I first began learning the drums when I was much younger. The size disparity between me and the drums was 
 
 ## 8 - Horn
 
