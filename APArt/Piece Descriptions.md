@@ -97,7 +97,7 @@ Length: 83 in
 
 ### Ideas
 
-Through my p
+Through my piano images, I attempted to convey the journey from 
 
 ## 6 - Guitar
 
