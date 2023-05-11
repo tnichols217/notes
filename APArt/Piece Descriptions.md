@@ -97,7 +97,7 @@ Length: 83 in
 
 ### Ideas
 
-In the first piano piece I tried to convey 
+Through my p
 
 ## 6 - Guitar
 
