@@ -141,7 +141,7 @@ Length: 49 in
 
 ### Ideas
 
-I first began 
+I first began learning the drums when I was younger
 
 ## 8 - Horn
 
