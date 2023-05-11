@@ -97,7 +97,7 @@ Length: 83 in
 
 ### Ideas
 
-Through my piano images, I attempted to convey the journey from intimidation to peace in my interactions with the piano. When I was younger—and physically smaller—the visual busy-ness of the piano, as well as its internal complex mechanisms both confused and scared me away from it. In the first piece, I exaggerated physical aspects of the piano that influenced my emotions the most, namely the mechanisms and keys, as well as combining it with a natural woody look to add the sense of mystery around the piano that I felt as a kid. Being older now, I view the piano from the complete opposite point of view. From both a technical understanding of how it works as well as practice on the usage of it, the complexities and scariness of the piano has been stripped away
+Through my piano images, I attempted to convey the journey from intimidation to peace in my interactions with the piano. When I was younger—and physically smaller—the visual busy-ness of the piano, as well as its internal complex mechanisms both confused and scared me away from it. In the first piece, I exaggerated physical aspects of the piano that influenced my emotions the most, namely the mechanisms and keys, as well as combining it with a natural woody look to add the sense of mystery around the piano that I felt as a kid. Being older now, I view the piano from the complete opposite point of view. From both a technical understanding of how it works as well as practice on the usage of it, the complexities and scariness of the piano has been stripped away; I convey this sense of simplicity and peace with the piano through a visually simple and pleasing representation of a piano.
 
 ## 6 - Guitar
 
