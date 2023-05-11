@@ -141,7 +141,7 @@ Length: 49 in
 
 ### Ideas
 
-I first began learning the drums when I was much younger. The size disparity between me and the drums was... let's say greater than optimal. Not only were the drums physically much larger than me, they were probably also much louder. As fun as they were even as a kid, they still scared me on some level—like how ants probably feel that at any time a human could come and crush them. In my piece I completely 
+I first began learning the drums when I was much younger. The size disparity between me and the drums was... let's say greater than optimal. Not only were the drums physically much larger than me, they were probably also much louder. As fun as they were even as a kid, they still scared me on some level—like how ants probably feel that at any time a human could come and crush them. In my piece I completely exaggerated the size of the drums to convey the sense of belittlement I felt as a kid. The overwhelming nature
 
 ## 8 - Horn
 
