@@ -16,9 +16,9 @@
 > 
 > “True,” I said, though it was not. 
 > 
-> She pointed out what passed for landmarks. I did not tel her I had been in Kordvenna early in the day, sounding these places. Corwi did not try to disguise her police clothes because that way those who saw us, who might otherwise think we were there to entrap them, would know that was not our intent; and the fact that we were not in a bruise, as we caled the black-and-blue police cars, told them that neither were we there to harass them. Intricate contracts! 
-> Most of those around us were in Besźel so we saw them. Poverty deshaped the already staid,
-> drab cuts and colours that enduringly characterise Besź clothes—what has been caled the city’s fashionless fashion. Of the exceptions, some we realised when we glanced were elsewhere, so unsaw, but the younger Besź were also more colourful, their clothes more pictured, than their parents. 
+> She pointed out what passed for landmarks. I did not tel her I had been in Kordvenna early in the day, sounding these places. Corwi did not try to disguise her police clothes because that way those who saw us, who might otherwise think we were there to entrap them, would know that was not our intent; and the fact that we were not in a bruise, as we caled the black-and-blue police cars, told them that neither were we there to harass them. Intricate contracts!
+> 
+> Most of those around us were in Besźel so we saw them. Poverty deshaped the already staid, drab cuts and colours that enduringly characterise Besź clothes—what has been caled the city’s fashionless fashion. Of the exceptions, some we realised when we glanced were elsewhere, so unsaw, but the younger Besź were also more colourful, their clothes more pictured, than their parents. 
 > 
 > The majority of the Besź men and women (does this need saying?) were doing nothing butwalking from one place to another, from late-shift work, from homes to other homes or shops. Stil, though, the way we watched what we passed made it a threatening geography, and there were sufficient furtive actions occurring that that did not feel like the rankest paranoia.
 > 
@@ -28,6 +28,7 @@
 > She took us through a darkened place where the balance of crosshatch shifted, and
 > we were silent until the streetlamps around us became again taler and familiarly deco-angled.
 > Under those lights—the street we were on visible in a perspective curve away from us—women
-> stood by the wals seling sex. They watched our approach guardedly. “I didn’t have much luck,” 
-> Corwi said. 
+> stood by the wals seling sex. They watched our approach guardedly.
+> 
+> “I didn’t have much luck,” Corwi said. 
 
