@@ -4,8 +4,7 @@
 > 
 > Around 8:00 PM, the experiment began: seniors completely inconspicuously began filing onto school grounds, gathering in clumps much like little bacterial colonies on an agar plate.
 > 
-> T+ 10 minutes these aggressive colonies began infecting the school ground 
-
+> T+ 10 minutes these aggressive colonies began infecting the school ground: inflating pink balloons throughout the stairways and classrooms, throwing pink streamers all around the railings, painting posters pink, vandilising 
 
 Chris Jang: "I was hoping for our prank to be more like the previous class's who's rubber duckies we still see around today. But maybe not as polluting."
 
