@@ -1,7 +1,8 @@
 The following excerpt is from The City and The City by China Mieville in 2009. In this passage
-    	Information we need to interpret the passage
 
-Read the passage carefully. Then, in a well-written essay, analyze how	Author	uses literary techniques and elements to  Verb (portray/analyze) the complex ………….      
+the narrator is a detective 
+
+Read the passage carefully. Then, in a well-written essay, analyze how Mieville uses literary techniques and elements to  **Verb** (portray/analyze) the complex ………….      
 > [!para]
 > It was close to ten o’clock in the evening, more than forty hours since we had found the victim. Corwi drove—she made no effort to disguise her uniform, despite that we had an unmarked car through the streets around Gunter Strász. I had not been home until very late the previous night, and after a morning on my own in these same streets now I was there again.
 > 
