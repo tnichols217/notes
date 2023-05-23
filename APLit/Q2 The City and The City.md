@@ -1,11 +1,17 @@
 
 > [!para]
 > # The following excerpt is from The City and The City by China Mieville in 2009. In this passage the narrator is a detective visiting a crime scene. Read the passage carefully. Then, in a well-written essay, analyze how Mieville uses literary techniques and elements to portray the narrator's complex perception of the city, Besź.
+>  
 > 
-> ###### Respond to the prompt with a thesis that presents a defensible interpretation.
-> ###### Select and use evidence to support your line of reasoning.
-> ## Explain how the evidence supports your line of reasoning.
-> ## Use appropriate grammar and punctuation in communicating your argument.
+> Respond to the prompt with a thesis that presents a defensible interpretation.
+> 
+> Select and use evidence to support your line of reasoning.
+> 
+> Explain how the evidence supports your line of reasoning.
+> 
+> Use appropriate grammar and punctuation in communicating your argument.
+> 
+>  
 > 
 > It was close to ten o’clock in the evening, more than forty hours since we had found the victim. Corwi drove—she made no effort to disguise her uniform, despite that we had an unmarked car through the streets around Gunter Strász. I had not been home until very late the previous night, and after a morning on my own in these same streets now I was there again.
 > 
