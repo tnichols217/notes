@@ -1,2 +1,5 @@
 # The pinkening
-On the night of the 21st of May, 2023, the entire Dalat High School was turned upside down as the Senior Prank underwent. As the academic year was nearing its end, the Seniors took one last effort to leave their mark on the school before their departure.
+> [!para]
+> On the night of the 21st of May, 2023, the entire Dalat High School was turned upside down as the Senior Prank underwent. As the academic year was nearing its end, the Seniors took one last effort to leave their mark on the school before their departure.
+> 
+> Around 8:00 PM seniors completely inconspicuously began filing onto school grounds, gathering in clumps much like little bacteria on an agar plate.
