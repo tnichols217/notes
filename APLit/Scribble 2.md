@@ -8,7 +8,9 @@
 > 
 > T+ 1 hour both auxiliary stairwells in the school have been fully infected are are no longer functional. The functioning pathways have been completely blocked with pink balloons, and in the words on David Kim (12), "it was very pink."
 > 
-> T+ 1.5 hours the pink carpet has been taped down to the main stairway at school as the poster symbolizing Dalat's unity under a single motto gets completely defaced with imprints of each individu
+> T+ 1.5 hours the pink carpet has been taped down to the main stairway at school as the poster symbolizing Dalat's unity under a single motto gets completely defaced with imprints of each individual bacterial cell.
+> 
+> T+ 2 hours the redecoration of school windows have finished, complete with inspirational and life changing quotes such as "The 11th commandmant: Thou shalt not assume"
 
 Chris Jang: "I was hoping for our prank to be more like the previous class's who's rubber duckies we still see around today. But maybe not as polluting."
 
