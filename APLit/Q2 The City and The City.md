@@ -1,6 +1,11 @@
-The following excerpt is from The City and The City by China Mieville in 2009. In this passage the narrator is a detective visiting a crime scene.
-Read the passage carefully. Then, in a well-written essay, analyze how Mieville uses literary techniques and elements to portray the narrator's complex perception of the city, Besź.
+
 > [!para]
+The following excerpt is from The City and The City by China Mieville in 2009. In this passage the narrator is a detective visiting a crime scene. Read the passage carefully. Then, in a well-written essay, analyze how Mieville uses literary techniques and elements to portray the narrator's complex perception of the city, Besź.
+> Respond to the prompt with a thesis that presents a defensible interpretation.
+> Select and use evidence to support your line of reasoning.
+> Explain how the evidence supports your line of reasoning.
+> Use appropriate grammar and punctuation in communicating your argument.
+> 
 > It was close to ten o’clock in the evening, more than forty hours since we had found the victim. Corwi drove—she made no effort to disguise her uniform, despite that we had an unmarked car through the streets around Gunter Strász. I had not been home until very late the previous night, and after a morning on my own in these same streets now I was there again.
 > 
 > There were places of crosshatch in the larger streets and a few elsewhere, but that far out the bulk of the area was total. Few antique Besź stylings, few steep roofs or many-paned windows: these were hobbled factories and warehouses. A handful of decades old, often broken-glassed, at half capacity if open. Boarded facades. Grocery shops fronted with wire. Older fronts in tumbledown of classical Besź style. Some houses colonised and made chapels and drug houses: some burnt out and left as crude carbon renditions of themselves.
