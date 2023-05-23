@@ -4,7 +4,7 @@
 > 
 > Around 8:00 PM, the experiment began: seniors completely inconspicuously began filing onto school grounds, gathering in clumps much like little bacterial colonies on an agar plate.
 > 
-> T+ 10 minutes
+> T+ 10 minutes these aggressive colonies began infecting the school ground 
 
 
 Chris Jang: "I was hoping for our prank to be more like the previous class's who's rubber duckies we still see around today. But maybe not as polluting."
