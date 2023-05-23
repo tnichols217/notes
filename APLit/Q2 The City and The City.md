@@ -1,4 +1,3 @@
-
 > [!para]
 > # The following excerpt is from The City and The City by China Mieville in 2009. In this passage the narrator is a detective visiting a crime scene. Read the passage carefully. Then, in a well-written essay, analyze how Mieville uses literary techniques and elements to portray the narrator's complex perception of the city, Besź.
 >  
@@ -45,4 +44,3 @@
 > stood by the wals seling sex. They watched our approach guardedly.
 > 
 > “I didn’t have much luck,” Corwi said. 
-
