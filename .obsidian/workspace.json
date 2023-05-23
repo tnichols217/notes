@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "94cd3199fbe19d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APLit/Q2 The City and The City.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f9848cd90673520f",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APLit/Scribble 2.md",
+                "file": "APLit/Q2 The City and The City.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APLit/Scribble 2.md"
+                "file": "APLit/Q2 The City and The City.md"
               }
             }
           },
@@ -162,11 +174,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5d36521280334439",
+  "active": "94cd3199fbe19d57",
   "lastOpenFiles": [
+    "APLit/Scribble 2.md",
+    "APLit/Q2 The City and The City.md",
     "APLit/Scribble 2.docx",
     "BritLit/Quotes.md",
-    "APLit/Scribble 2.md",
     "APLit/Things Fall Apart - Exile Q3 Essay.md",
     "BritLit/Screwtape Letters.md",
     "APArt/Piece Descriptions.md",
@@ -201,7 +214,6 @@
     "APArt/FinalImages",
     "APBiology/8/Notes/Worksheets",
     "APBiology/8/Documents/Worksheets/Elephant 3.docx",
-    "APBiology/8/Documents/Worksheets/Elephant 2.docx",
     "APCSP/Create PT.md",
     "APCSP/PT Written Response.md",
     "obsidian-columns.md",
