@@ -28,3 +28,12 @@ drab cuts and colours that enduringly characterise Besź clothes—what has been
 fashionless fashion. Of the exceptions, some we realised when we glanced were elsewhere, so
 unsaw, but the younger Besź were also more colourful, their clothes more pictured, than their
 parents. 
+The majority of the Besź men and women (does this need saying?) were doing nothing butwalking from one place to another, from late-shift work, from homes to other homes or shops.
+Stil, though, the way we watched what we passed made it a threatening geography, and there
+were sufficient furtive actions occurring that that did not feel like the rankest paranoia. 
+“This morning I found a few of the locals I used to talk to,” Corwi said. “Asked if they’d heard
+anything.” She took us through a darkened place where the balance of crosshatch shifted, and
+we were silent until the streetlamps around us became again taler and familiarly deco-angled.
+Under those lights—the street we were on visible in a perspective curve away from us—women
+stood by the wals seling sex. They watched our approach guardedly. “I didn’t have much luck,” 
+Corwi said. 
