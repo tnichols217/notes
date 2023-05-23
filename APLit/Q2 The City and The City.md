@@ -1,13 +1,7 @@
 > [!para]
-> It was close to ten o’clock in the evening, more than forty hours since we had found the victim. Corwi drove—she made no effort to disguise her uniform, despite that we had an unmarked car through the streets around Gunter Strász. I had not been home until very late the previousnight, and after a morning on my own in these same streets now I was there again.
+> It was close to ten o’clock in the evening, more than forty hours since we had found the victim. Corwi drove—she made no effort to disguise her uniform, despite that we had an unmarked car through the streets around Gunter Strász. I had not been home until very late the previous night, and after a morning on my own in these same streets now I was there again.
 > 
-> There were places of crosshatch in the larger streets and a few elsewhere, but that far out the
-> bulk of the area was total. Few antique Besź stylings, few steep roofs or many-paned windows:
-> these were hobbled factories and warehouses. A handful of decades old, often broken-glassed,
-> at half capacity if open. Boarded facades. Grocery shops fronted with wire. Older fronts in
-> tumbledown of classical Besź 
-> style. Some houses colonised and made chapels and drug houses: some burnt out and left as
-> crude carbon renditions of themselves. 
+> There were places of crosshatch in the larger streets and a few elsewhere, but that far out the bulk of the area was total. Few antique Besź stylings, few steep roofs or many-paned windows: these were hobbled factories and warehouses. A handful of decades old, often broken-glassed, at half capacity if open. Boarded facades. Grocery shops fronted with wire. Older fronts in tumbledown of classical Besź style. Some houses colonised and made chapels and drug houses: some burnt out and left as crude carbon renditions of themselves. 
 > The area was not crowded, but it was far from empty. Those who were out looked like landscape,
 > like they were always there. There had been fewer that morning but not very markedly. 
 > “Did you see Shukman working on the body?” 
