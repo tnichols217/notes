@@ -14,12 +14,4 @@
 > 
 > The morning after, the ultimate effect of the disease could be seen in full force. Initially as all stairwells have been incapacitated, they were immediately remedied by the school antibodies, however the other symptoms of infection were not treated till much later. As students flood in school gates, they find themselves surprised at what has happened to their own high school, and how badly they failed to protect their own. In the words of Moriah Winsor (12), she recommends that this prank is "not advised for the globophobics" as the balloons fly all around the school.
 > 
-> In retrospect, several seniors hoped that we would have a more impactful prank upon the school. As Chris Jang expertly formulates: "I was hoping for our prank to be more like the previous class's who's rubber duckies we still see around today. But maybe not as polluting." As much as the prank was enjoyed, the senior class collectively 
-
-Chris Jang: "I was hoping for our prank to be more like the previous class's who's rubber duckies we still see around today. But maybe not as polluting."
-
-"We could've had more pink. Sorry, we should've had more pink."
-
-David Kim: "It was very pink."
-
-Moriah Winsor: "Not advised for globophiobics."
+> In retrospect, several seniors hoped that we would have a more impactful prank upon the school. As Chris Jang expertly formulates: "I was hoping for our prank to be more like the previous class's who's rubber duckies we still see around today. But maybe not as polluting." As much as the prank was enjoyed, the senior class collectively hopes that they set an example, both good and bad for future years.
