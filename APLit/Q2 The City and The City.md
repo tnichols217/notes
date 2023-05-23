@@ -1,4 +1,4 @@
-The following excerpt is from The City and The City + Year               	. In this passage
+The following excerpt is from The City and The City by China Mieville in 2009. In this passage
     	Information we need to interpret the passage
 
 Read the passage carefully. Then, in a well-written essay, analyze how	Author	uses literary techniques and elements to  Verb (portray/analyze) the complex ………….      
