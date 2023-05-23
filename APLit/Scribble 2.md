@@ -10,7 +10,7 @@
 > 
 > T+ 1.5 hours the pink carpet has been taped down to the main stairway at school as the poster symbolizing Dalat's unity under a single motto gets completely defaced with imprints of each individual bacterial cell.
 > 
-> T+ 2 hours the redecoration of school windows have finished, complete with inspirational and life changing quotes such as "The 11th commandmant: Thou shalt not assume"
+> T+ 2 hours the redecoration of school windows have finished, complete with inspirational and life changing quotes such as "The 11th commandmant: Thou shalt not assume" At this point the cleanup almost con
 
 Chris Jang: "I was hoping for our prank to be more like the previous class's who's rubber duckies we still see around today. But maybe not as polluting."
 
