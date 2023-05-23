@@ -7,6 +7,8 @@
 > T+ 10 minutes these aggressive colonies began infecting the school ground: inflating pink balloons throughout the stairways and classrooms, throwing pink streamers all around the railings, painting posters pink, vandalizing windows with pink windows, and even rolling out a pink carpet. As Chris Jang (12) says: "We could've had more pink. Sorry, we SHOULD've had more pink."
 > 
 > T+ 1 hour both auxiliary stairwells in the school have been fully infected are are no longer functional. The functioning pathways have been completely blocked with pink balloons, and in the words on David Kim (12), "it was very pink."
+> 
+> T+ 1.5 hours the pink carpet has been taped down to the main stairway at school as the poster symbolizing Dalat's unity under a single motto gets completely defaced with imprints of each individu
 
 Chris Jang: "I was hoping for our prank to be more like the previous class's who's rubber duckies we still see around today. But maybe not as polluting."
 
