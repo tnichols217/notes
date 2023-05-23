@@ -4,13 +4,13 @@
 > 
 > Around 8:00 PM, the experiment began: seniors completely inconspicuously began filing onto school grounds, gathering in clumps much like little bacterial colonies on an agar plate.
 > 
-> T+ 10 minutes these aggressive colonies began infecting the school ground: inflating pink balloons throughout the stairways and classrooms, throwing pink streamers all around the railings, painting posters pink, vandalizing windows with pink windows, and even rolling out a pink carpet. As Chris Jang (12) says: "We could've had more pink. Sorry, we SHOULD've had more pink."
+> T+ 10 minutes — these aggressive colonies began infecting the school ground: inflating pink balloons throughout the stairways and classrooms, throwing pink streamers all around the railings, painting posters pink, vandalizing windows with pink windows, and even rolling out a pink carpet. As Chris Jang (12) says: "We could've had more pink. Sorry, we SHOULD've had more pink."
 > 
-> T+ 1 hour both auxiliary stairwells in the school have been fully infected are are no longer functional. The functioning pathways have been completely blocked with pink balloons, and in the words on David Kim (12), "it was very pink."
+> T+ 1 hour — both auxiliary stairwells in the school have been fully infected are are no longer functional. The functioning pathways have been completely blocked with pink balloons, and in the words on David Kim (12), "it was very pink."
 > 
-> T+ 1.5 hours the pink carpet has been taped down to the main stairway at school as the poster symbolizing Dalat's unity under a single motto gets completely defaced with imprints of each individual bacterial cell.
+> T+ 1.5 hours — the pink carpet has been taped down to the main stairway at school as the poster symbolizing Dalat's unity under a single motto gets completely defaced with imprints of each individual bacterial cell.
 > 
-> T+ 2 hours the redecoration of school windows have finished, complete with inspirational and life changing quotes such as "The 11th commandmant: Thou shalt not assume" At this point the cleanup almost concludes as the bacteria move on to a new host.
+> T+ 2 hours — the redecoration of school windows have finished, complete with inspirational and life changing quotes such as "The 11th commandmant: Thou shalt not assume" At this point the cleanup almost concludes as the bacteria move on to a new host.
 > 
 > The morning after, the ultimate effect of the disease could be seen in full force. Initially as all stairwells have been incapacitated, they were immediately remedied by the school antibodies, however the other symptoms of infection were not treated till much later. As students flood in school gates, they find themselves surprised at what has happened to their own high school, and how badly they failed to protect their own. In the words of Moriah Winsor (12), she recommends that this prank is "not advised for the globophobics" as the balloons fly all around the school.
 > 
