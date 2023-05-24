@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spiritual DIsciplines/Untitled.md",
+                "file": "ChristAndCulture/Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spiritual DIsciplines/Untitled.md"
+                "file": "ChristAndCulture/Final.md"
               }
             }
           },
@@ -150,10 +149,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6e017c1f3f2180ac",
+  "active": "8773e87cec1fc904",
   "lastOpenFiles": [
-    "ChristAndCulture/Final.md",
     "Spiritual DIsciplines/Untitled.md",
+    "ChristAndCulture/Final.md",
     "Spiritual DIsciplines",
     "APLit/Q2 The City and The City.md",
     "APLit/Q2 The City and The City.pdf",
