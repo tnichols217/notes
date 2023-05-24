@@ -610,8 +610,32 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "BritLit/Screwtape Letters.md",
+                    "file": "APLit/Things Fall Apart - Exile Q3 Essay.md",
                     "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5d36521280334439",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "APLit/Scribble 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "94cd3199fbe19d57",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "APLit/Q2 The City and The City.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -628,7 +652,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -694,7 +719,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "BritLit/Screwtape Letters.md",
+                    "file": "APLit/Q2 The City and The City.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -711,7 +736,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "BritLit/Screwtape Letters.md"
+                    "file": "APLit/Q2 The City and The City.md"
                   }
                 }
               },
@@ -746,7 +771,7 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "f09f38ac2ca7ff4f"
+      "active": "94cd3199fbe19d57"
     },
     "media lit": {
       "main": {
@@ -1715,5 +1740,5 @@
       "active": "4a525f6e31ce8430"
     }
   },
-  "active": "brit lit"
+  "active": "christ and culture"
 }
