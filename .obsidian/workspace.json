@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8773e87cec1fc904",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChristAndCulture/Final.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6e017c1f3f2180ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spiritual DIsciplines/Untitled.md",
+                "file": "Spiritual DIsciplines/Book Report 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChristAndCulture/Final.md",
+                "file": "Spiritual DIsciplines/Book Report 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChristAndCulture/Final.md"
+                "file": "Spiritual DIsciplines/Book Report 2.md"
               }
             }
           },
@@ -149,10 +137,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8773e87cec1fc904",
+  "active": "6e017c1f3f2180ac",
   "lastOpenFiles": [
-    "Spiritual DIsciplines/Untitled.md",
     "ChristAndCulture/Final.md",
+    "Spiritual DIsciplines/Book Report 2.md",
     "Spiritual DIsciplines",
     "APLit/Q2 The City and The City.md",
     "APLit/Q2 The City and The City.pdf",
