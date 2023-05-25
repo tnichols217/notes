@@ -5,5 +5,5 @@
 
 ![[structure.png]]
 - The lac operon consists of a CAP site, Promoter, Operator, and the genes.
-- The lac operon is classified as a inducible operon as it is repressed by default 
+- The lac operon is classified as a inducible operon as it is repressed by default. This means that you will need an activator to remove the repressor, which is bound to the operator to block the transcription. The repressor is self regulated, and will be present and bound to the operator b
 ![[loop.png]]
