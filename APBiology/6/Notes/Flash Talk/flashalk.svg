@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.1946698"
-     inkscape:cx="220.30649"
-     inkscape:cy="985.34186"
+     inkscape:zoom="4.3893395"
+     inkscape:cx="-788.3874"
+     inkscape:cy="938.97953"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
      inkscape:window-x="1600"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g14172" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <marker
@@ -60,9 +60,9 @@
        refY="0"
        orient="auto-start-reverse"
        inkscape:stockid="RoundedArrow"
-       markerWidth="6.1347524"
-       markerHeight="5.93049514"
-       viewBox="0 0 6.1347524 5.93049514"
+       markerWidth="6.1347523"
+       markerHeight="5.9304948"
+       viewBox="0 0 6.1347524 5.9304951"
        inkscape:isstock="true"
        inkscape:collect="always"
        preserveAspectRatio="xMidYMid">
@@ -412,9 +412,9 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan18147"><tspan
+               id="tspan19638"><tspan
                  style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-                 id="tspan18145">CAP</tspan></tspan></text>
+                 id="tspan19636">CAP</tspan></tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487"
@@ -433,9 +433,9 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-3);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan18151"><tspan
+               id="tspan19642"><tspan
                  style="font-weight:bold"
-                 id="tspan18149">Promoter</tspan></tspan></text>
+                 id="tspan19640">Promoter</tspan></tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-2"
@@ -454,9 +454,9 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan18155"><tspan
+               id="tspan19646"><tspan
                  style="font-weight:bold"
-                 id="tspan18153">Operator</tspan></tspan></text>
+                 id="tspan19644">Operator</tspan></tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-2-7"
@@ -475,13 +475,13 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-9);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan18163"><tspan
+               id="tspan19654"><tspan
                  style="font-weight:bold"
-                 id="tspan18157">lac</tspan><tspan
+                 id="tspan19648">lac</tspan><tspan
                  style="font-style:italic"
-                 id="tspan18159"> </tspan><tspan
+                 id="tspan19650"> </tspan><tspan
                  style="font-weight:bold"
-                 id="tspan18161">genes</tspan></tspan></text>
+                 id="tspan19652">genes</tspan></tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-2-7-0"
@@ -506,9 +506,9 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1);display:inline;fill:#000000"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan18167"><tspan
+         id="tspan19658"><tspan
            style="font-weight:bold"
-           id="tspan18165">Repressor</tspan></tspan></text>
+           id="tspan19656">Repressor</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,68.639793,9.1050362)"
@@ -516,10 +516,10 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23);display:inline;fill:#000000"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan18169">Self-regulated </tspan><tspan
+         id="tspan19660">Self-regulated </tspan><tspan
          x="82.480469"
          y="335.97174"
-         id="tspan18171">through lacl gene</tspan></text>
+         id="tspan19662">through lacl gene</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,137.59489,8.2230908)"
@@ -527,16 +527,16 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23-2);display:inline;fill:#000000;stroke-width:1.00157;stroke-dasharray:none"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan18173">Produces lactic </tspan><tspan
+         id="tspan19664">Produces lactic </tspan><tspan
          x="82.480469"
          y="335.97174"
-         id="tspan18175">enzymes, which </tspan><tspan
+         id="tspan19666">enzymes, which </tspan><tspan
          x="82.480469"
          y="369.30512"
-         id="tspan18177">reduces cAMP and </tspan><tspan
+         id="tspan19668">reduces cAMP and </tspan><tspan
          x="82.480469"
          y="402.63849"
-         id="tspan18179">lactose present</tspan></text>
+         id="tspan19670">lactose present</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,47.273469,36.98159)"
@@ -544,7 +544,7 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23-5);display:inline;fill:#000000"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan18181">Allolactose</tspan></text>
+         id="tspan19672">Allolactose</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.875281,48.063647)"
@@ -552,9 +552,9 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2);display:inline;fill:#000000"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan18185"><tspan
+         id="tspan19676"><tspan
            style="font-weight:bold"
-           id="tspan18183">Activator</tspan></tspan></text>
+           id="tspan19674">Activator</tspan></tspan></text>
     <path
        id="rect6189"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -578,9 +578,9 @@
          style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-2);display:inline;fill:#000000"><tspan
            x="82.480469"
            y="302.63837"
-           id="tspan18189"><tspan
+           id="tspan19680"><tspan
              style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-             id="tspan18187">CAP</tspan></tspan></text>
+             id="tspan19678">CAP</tspan></tspan></text>
     </g>
     <path
        id="path6686"
@@ -593,411 +593,457 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-2-6);display:inline;fill:#000000"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan18193"><tspan
+         id="tspan19684"><tspan
            style="font-weight:bold"
-           id="tspan18191">cAMP</tspan></tspan></text>
+           id="tspan19682">cAMP</tspan></tspan></text>
     <g
-       id="g14162"
-       transform="translate(45.633267,46.039654)">
+       id="g18412"
+       transform="translate(-52.636161)">
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-25.650723,110.7978)"
+         transform="matrix(0.26458333,0,0,0.26458333,20.637326,156.33155)"
          id="text165-62-8-0-9-7"
          style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4);display:inline;fill:#000000"><tspan
            x="82.480469"
            y="302.63837"
-           id="tspan18201"><tspan
+           id="tspan19688"><tspan
              style="font-weight:bold"
-             id="tspan18195">Transcription of </tspan><tspan
+             id="tspan19686">Transcription
+</tspan></tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19696"><tspan
+             style="font-weight:bold"
+             id="tspan19690">of </tspan><tspan
              style="font-style:italic"
-             id="tspan18197">lac </tspan><tspan
+             id="tspan19692">lac </tspan><tspan
              style="font-weight:bold"
-             id="tspan18199">genes</tspan></tspan></text>
+             id="tspan19694">genes</tspan></tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="rect487-4"
-         width="98.010841"
-         height="12.779068"
-         x="-7.8433862"
-         y="182.62924" />
+         width="55.815807"
+         height="20.622"
+         x="37.789883"
+         y="228.6689" />
     </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-124.35311,130.26061)"
-       id="text165-62-8-0-9-7-6"
-       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-0);display:inline;fill:#000000"><tspan
-         x="82.480469"
-         y="302.63837"
-         id="tspan18205"><tspan
-           style="font-weight:bold"
-           id="tspan18203">Unblocked
-</tspan></tspan><tspan
-         x="82.480469"
-         y="335.97174"
-         id="tspan18209"><tspan
-           style="font-weight:bold"
-           id="tspan18207">operator</tspan></tspan></text>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       id="rect487-4-4"
-       width="77.337181"
-       height="12.779068"
-       x="-105.77982"
-       y="202.1097" />
     <g
-       id="g14172"
-       style="stroke-width:1;stroke-dasharray:none"
-       transform="translate(-10.345349,43.186101)">
+       id="g18401"
+       transform="translate(-29.742037)">
+      <g
+         id="g18278">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-124.35311,130.26061)"
+           id="text165-62-8-0-9-7-6"
+           style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-0);display:inline;fill:#000000"><tspan
+             x="82.480469"
+             y="302.63837"
+             id="tspan19700"><tspan
+               style="font-weight:bold"
+               id="tspan19698">Unblocked
+</tspan></tspan><tspan
+             x="82.480469"
+             y="335.97174"
+             id="tspan19704"><tspan
+               style="font-weight:bold"
+               id="tspan19702">operator</tspan></tspan></text>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect487-4-4"
+           width="44.60239"
+           height="20.621778"
+           x="-106.15174"
+           y="202.59807" />
+      </g>
+    </g>
+    <g
+       id="g18406"
+       transform="translate(-6.4038547)">
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,-139.10792,140.69291)"
+         transform="matrix(0.26458333,0,0,0.26458333,-148.0385,183.87901)"
          id="text165-62-8-0-9-7-69"
          style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
            x="82.480469"
            y="302.63837"
-           id="tspan18211">RNA polymerase
+           id="tspan19706">RNA polymerase
 </tspan><tspan
            x="82.480469"
            y="335.97174"
-           id="tspan18213">bound to promoter</tspan></text>
+           id="tspan19708">bound to promoter</tspan></text>
       <rect
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="rect487-4-4-3"
-         width="125.75739"
-         height="12.779068"
-         x="-119.64458"
-         y="212.54199" />
+         width="71.881386"
+         height="21.622002"
+         x="-129.98993"
+         y="255.71635" />
     </g>
     <g
-       id="g14412">
-      <g
-         id="g14288"
-         transform="translate(0,2.5924391)">
-        <g
-           id="g14193"
-           style="stroke-width:1;stroke-dasharray:none"
-           transform="translate(0,7.5544363)">
-          <text
-             xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,-255.90461,160.45254)"
-             id="text165-62-8-0-9-7-69-7"
-             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-3);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
-               x="82.480469"
-               y="302.63837"
-               id="tspan18215">RNA polymerase present</tspan></text>
-          <rect
-             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             id="rect487-4-4-0"
-             width="86.20285"
-             height="12.779068"
-             x="-235.92921"
-             y="232.30162" />
-        </g>
-        <g
-           id="g14198"
-           style="stroke-width:1;stroke-dasharray:none"
-           transform="translate(3.954628,1.5082687)">
-          <text
-             xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,-255.65061,193.8693)"
-             id="text165-62-8-0-9-7-69-5"
-             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
-               x="82.480469"
-               y="302.63837"
-               id="tspan18217">CAP bound to CAP site</tspan></text>
-          <rect
-             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             id="rect487-4-4-0-7"
-             width="79.383102"
-             height="12.779068"
-             x="-236.47397"
-             y="264.90698" />
-        </g>
-      </g>
-      <g
-         id="g14298"
-         transform="translate(19.095293,-6.0652599)">
-        <g
-           id="g14203"
-           style="stroke-width:1;stroke-dasharray:none"
-           transform="translate(0,1.3807553)">
-          <text
-             xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,-356.55017,188.43652)"
-             id="text165-62-8-0-9-7-69-5-5"
-             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4-2);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
-               x="82.480469"
-               y="302.63837"
-               id="tspan18219">CAP present</tspan></text>
-          <rect
-             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             id="rect487-4-4-0-8"
-             width="46.307327"
-             height="12.779068"
-             x="-337.52911"
-             y="260.4126" />
-        </g>
-        <g
-           id="g14208"
-           style="stroke-width:1;stroke-dasharray:none"
-           transform="translate(-8.1876068,-3.3055643)">
-          <text
-             xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,-351.00486,219.65734)"
-             id="text165-62-8-0-9-7-69-5-5-7"
-             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4-2-4);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
-               x="82.480469"
-               y="302.63837"
-               id="tspan18221">cAMP present</tspan></text>
-          <rect
-             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             id="rect487-4-4-0-8-6"
-             width="52.104111"
-             height="12.779068"
-             x="-332.2399"
-             y="291.65811" />
-        </g>
-      </g>
-    </g>
-    <g
-       id="g14392">
-      <g
-         id="g14188"
-         transform="translate(14.51444,48.55725)">
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,-364.33635,94.982964)"
-           id="text165-62-8-0-9-7-5-4-6"
-           style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1-5-7);display:inline;fill:#000000"><tspan
-             x="82.480469"
-             y="302.63837"
-             id="tspan18225"><tspan
-               style="font-weight:bold"
-               id="tspan18223">Allolactose present</tspan></tspan></text>
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           id="rect487-4-4-0-8-8"
-           width="73.927307"
-           height="12.779068"
-           x="-345.79379"
-           y="166.83205" />
-      </g>
-      <g
-         id="g14278"
-         transform="translate(0,10.326173)">
-        <g
-           id="g14177"
-           transform="translate(-5.1561737,38.231077)">
-          <text
-             xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,-240.14395,94.982964)"
-             id="text165-62-8-0-9-7-5-4"
-             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1-5);display:inline;fill:#000000"><tspan
-               x="82.480469"
-               y="302.63837"
-               id="tspan18229"><tspan
-                 style="font-weight:bold"
-                 id="tspan18227">Activator present</tspan></tspan></text>
-          <rect
-             style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             id="rect487-4-4-0-8-84"
-             width="67.448547"
-             height="12.779068"
-             x="-221.39589"
-             y="166.83205" />
-        </g>
-        <g
-           id="g14183"
-           style="stroke-width:1;stroke-dasharray:none"
-           transform="translate(-7.500248,50.026797)">
-          <text
-             xml:space="preserve"
-             transform="matrix(0.26458333,0,0,0.26458333,-242.08611,56.128042)"
-             id="text165-62-8-0-9-7-5"
-             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
-               x="82.480469"
-               y="302.63837"
-               id="tspan18233"><tspan
-   style="font-style:italic"
-   id="tspan18231">lac</tspan> repressor present</tspan></text>
-          <rect
-             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             id="rect487-4-4-0-8-3"
-             width="76.314217"
-             height="12.779068"
-             x="-223.48465"
-             y="127.97713" />
-        </g>
-      </g>
-    </g>
-    <g
-       id="g14213"
-       transform="translate(51.659587,46.039654)">
+       id="g18384">
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,98.678121,110.7978)"
+         transform="matrix(0.26458333,0,0,0.26458333,-255.80341,170.59941)"
+         id="text165-62-8-0-9-7-69-7"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-3);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan19710">RNA polymerase
+</tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19712">present</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4-4-0"
+         width="58.923862"
+         height="21.622"
+         x="-235.92921"
+         y="242.43675" />
+    </g>
+    <g
+       id="g18379"
+       transform="translate(-3.4098816)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-251.10118,197.98173)"
+         id="text165-62-8-0-9-7-69-5"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan19714">CAP bound
+</tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19716">to CAP site</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4-4-0-7"
+         width="42.7337"
+         height="21.622"
+         x="-232.51933"
+         y="269.00769" />
+    </g>
+    <g
+       id="g18369">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-337.27352,183.76376)"
+         id="text165-62-8-0-9-7-69-5-5"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4-2);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan19718">CAP
+</tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19720">present</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4-4-0-8"
+         width="31.599344"
+         height="21.622"
+         x="-318.43381"
+         y="255.7281" />
+    </g>
+    <g
+       id="g18374"
+       transform="translate(2.898406)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-339.66351,210.29825)"
+         id="text165-62-8-0-9-7-69-5-5-7"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4-2-4);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan19722">cAMP
+</tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19724">present</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4-4-0-8-6"
+         width="32.573837"
+         height="21.622002"
+         x="-321.33221"
+         y="282.28729" />
+    </g>
+    <g
+       id="g18364"
+       transform="translate(13.345551)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-349.67611,143.05195)"
+         id="text165-62-8-0-9-7-5-4-6"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1-5-7);display:inline;fill:#000000"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan19728"><tspan
+             style="font-weight:bold"
+             id="tspan19726">Allolactose
+</tspan></tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19732"><tspan
+             style="font-weight:bold"
+             id="tspan19730">present</tspan></tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4-4-0-8-8"
+         width="45.234684"
+         height="20.622"
+         x="-331.27936"
+         y="215.3893" />
+    </g>
+    <g
+       id="g18389"
+       transform="translate(-8.8771415)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-245.23191,143.05194)"
+         id="text165-62-8-0-9-7-5-4"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1-5);display:inline;fill:#000000"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan19736"><tspan
+             style="font-weight:bold"
+             id="tspan19734">Activator
+</tspan></tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19740"><tspan
+             style="font-weight:bold"
+             id="tspan19738">present</tspan></tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.00002;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4-4-0-8-84"
+         width="38.755924"
+         height="20.62199"
+         x="-226.55206"
+         y="215.3893" />
+    </g>
+    <g
+       id="g18395"
+       transform="translate(-4.9443207)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-249.51739,116.49275)"
+         id="text165-62-8-0-9-7-5"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan19744"><tspan
+   style="font-style:italic"
+   id="tspan19742">lac</tspan> repressor
+</tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19746">present</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4-4-0-8-3"
+         width="49.309395"
+         height="21.622"
+         x="-230.98489"
+         y="188.33009" />
+    </g>
+    <g
+       id="g18417"
+       transform="translate(-185.02551,100.93227)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,150.33145,156.34919)"
          id="text165-62-8-0-9"
          style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1);display:inline;fill:#000000"><tspan
            x="82.480469"
            y="302.63837"
-           id="tspan18237"><tspan
+           id="tspan19750"><tspan
              style="font-weight:bold"
-             id="tspan18235">Production of lactic enzymes</tspan></tspan></text>
+             id="tspan19748">Production of
+</tspan></tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19754"><tspan
+             style="font-weight:bold"
+             id="tspan19752">lactic enzymes</tspan></tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="rect487-4-4-0-8-1"
-         width="107.00307"
-         height="12.779068"
-         x="117.7608"
-         y="182.62924" />
+         width="57.333485"
+         height="20.622"
+         x="169.42039"
+         y="228.6689" />
     </g>
     <g
-       id="g14423"
-       transform="translate(46.033295,2.153858)">
-      <g
-         id="g14224"
-         transform="translate(71.607348,34.201816)">
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,224.46518,134.55513)"
-           id="text165-62-8-0-9-0"
-           style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-5);display:inline;fill:#000000"><tspan
-             x="82.480469"
-             y="302.63837"
-             id="tspan18241"><tspan
-               style="font-weight:bold"
-               id="tspan18239">Reduces lactose</tspan></tspan></text>
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           id="rect487-4-4-0-8-4"
-           width="61.65176"
-           height="12.779068"
-           x="243.73389"
-           y="205.59282" />
-      </g>
-      <g
-         id="g14219"
-         style="stroke-width:1;stroke-dasharray:none"
-         transform="translate(44.969067,55.562818)">
-        <text
-           xml:space="preserve"
-           transform="matrix(0.26458333,0,0,0.26458333,224.41579,86.134931)"
-           id="text165-62-8-0-9-4"
-           style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-8);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
-             x="82.480469"
-             y="302.63837"
-             id="tspan18243">Reduces cAMP and increases ATP</tspan></text>
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           id="rect487-4-4-0-8-9"
-           width="115.86875"
-           height="12.779068"
-           x="243.26367"
-           y="157.17262" />
-      </g>
-    </g>
-    <g
-       id="g14230"
-       transform="translate(124.75879,36.355674)">
+       id="g18427"
+       transform="translate(-491.92104,100.93227)">
       <text
          xml:space="preserve"
-         transform="matrix(0.26458333,0,0,0.26458333,311.52235,134.55513)"
+         transform="matrix(0.26458333,0,0,0.26458333,341.99776,170.42253)"
+         id="text165-62-8-0-9-0"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-5);display:inline;fill:#000000"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan19758"><tspan
+             style="font-weight:bold"
+             id="tspan19756">Reduces
+</tspan></tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19762"><tspan
+             style="font-weight:bold"
+             id="tspan19760">lactose</tspan></tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4-4-0-8-4"
+         width="34.405823"
+         height="20.622"
+         x="361.37451"
+         y="241.94849" />
+    </g>
+    <g
+       id="g18422"
+       transform="translate(-465.31255,100.93227)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,316.38859,143.86334)"
+         id="text165-62-8-0-9-4"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-8);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan19764">Reduces cAMP
+</tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19766">and increases ATP</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4-4-0-8-9"
+         width="67.404739"
+         height="21.622"
+         x="334.26602"
+         y="214.8893" />
+    </g>
+    <g
+       id="g18433"
+       transform="translate(-662.0274,100.93227)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,436.55196,170.42253)"
          id="text165-62-8-0-9-0-2"
          style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-5-3);display:inline;fill:#000000"><tspan
            x="82.480469"
            y="302.63837"
-           id="tspan18247"><tspan
+           id="tspan19770"><tspan
              style="font-weight:bold"
-             id="tspan18245">Reduces allolactose</tspan></tspan></text>
+             id="tspan19768">Reduces
+</tspan></tspan><tspan
+           x="82.480469"
+           y="335.97174"
+           id="tspan19774"><tspan
+             style="font-weight:bold"
+             id="tspan19772">allolactose</tspan></tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="rect487-4-4-0-8-2"
-         width="74.268295"
-         height="12.779068"
-         x="330.94922"
-         y="205.59282" />
+         width="43.405643"
+         height="20.622"
+         x="455.70801"
+         y="241.94849" />
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
-       d="m -257.35204,221.77883 17.7798,0"
+       d="m -272.69913,225.70029 22.89461,0"
        id="path14425"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-1)"
-       d="m 135.80072,235.05843 h 17.7798"
+       d="m 134.83626,237.99956 h 17.7798"
        id="path14425-2"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-1-7)"
-       d="m 423.02629,248.33803 h 17.7798"
+       d="m -130.54653,353.19176 h -17.7798"
        id="path14425-2-2"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14648)"
-       d="m -272.12651,262.11762 h 17.39508 v 13.27963 l 15.66362,0"
+       d="m -286.83447,266.5391 27.11322,0 v 13.27963 h 15.66362"
        id="path14644"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m -269.22812,288.67682 h 14.49669 l 0,-13.27957"
+       d="m -285.85996,293.0983 26.13871,0 v -13.27957"
        id="path14694"
        sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14648-6)"
-       d="m -149.72636,248.83803 9.26662,-4e-5 v 13.27963 l 4.07005,0"
-       id="path14644-9"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m -153.13624,275.39722 12.6765,-3e-5 v -13.27957"
-       id="path14694-2"
-       sodipodi:nodetypes="ccc" />
     <g
-       id="g15010">
+       id="g18437"
+       transform="translate(-7.891586)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14648-6)"
+         d="m -169.11377,253.24775 17.2234,-4e-5 v 13.27963 l 14.69708,0"
+         id="path14644-9"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m -185.30392,279.8187 33.41355,-0.0118 v -13.27957"
+         id="path14694-2"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g15010"
+       transform="translate(-31.949147,3.9214804)">
       <path
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14648-6-6)"
-         d="m -159.10352,221.7788 27.0381,4e-5 v -13.27963 l 14.19686,0"
+         d="m -164.72414,221.77881 28.31866,3e-5 v -13.27963 l 18.53692,0"
          id="path14644-9-4"
          sodipodi:nodetypes="cccc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m -154.67068,195.21961 22.60526,3e-5 v 13.27957"
+         d="m -154.67068,195.21961 18.2652,3e-5 v 13.27957"
          id="path14694-2-9"
          sodipodi:nodetypes="ccc" />
     </g>
     <g
        id="g15010-4"
-       transform="matrix(1,0,0,-1,141.24153,443.80765)">
+       transform="matrix(1,0,0,-1,86.749655,446.74878)">
       <path
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14648-6-6-5)"
-         d="m -169.68417,235.30842 h 37.61921 v -26.80921 h 14.1964"
+         d="m -178.04104,233.83982 43.8048,-1.4e-4 v -26.80921 h 17.33089"
          id="path14644-9-4-8"
          sodipodi:nodetypes="cccc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m -145.47406,181.69017 h 13.4091 v 26.80904"
+         d="m -151.26205,180.22143 17.02581,0 v 26.80904"
          id="path14694-2-9-7"
          sodipodi:nodetypes="ccc" />
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15362)"
-       d="m 276.42344,235.05843 h 31.97516 v 13.28005 l 39.47352,0"
+       d="m -15.605115,339.91217 h -20.552083 v 13.28005 h -45.440803"
        id="path15358"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15500)"
-       d="m 308.3986,235.05843 v -13.77995 l 18.27233,0"
+       d="m -36.157198,339.91217 v -13.77995 h -18.27233"
        id="path15496"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Stop)"
-       d="m 492.84215,254.72755 0,49.26267 h -843.37717 l 0,-82.21174 h 15.33432"
-       id="path16993"
-       sodipodi:nodetypes="ccccc" />
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15500)"
+       d="m 13.061623,249.29089 0,61.02111"
+       id="path18770"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Stop)"
-       d="m 450.13478,221.27883 h 97.49094 v 94.13448 h -842.90615 v -17.10756"
-       id="path17123"
-       sodipodi:nodetypes="ccccc" />
+       d="m -131.04653,326.63256 h -171.0999 V 308.1288"
+       id="path18888"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Stop)"
+       d="M -206.31939,353.19176 H -349.60281 V 225.70048 l 25.31642,0"
+       id="path19016"
+       sodipodi:nodetypes="cccc" />
   </g>
 </svg>
