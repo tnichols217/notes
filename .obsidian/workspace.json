@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b25d6f78055d243a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/8/Unit 8 BILL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daf7233cd27e8d20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/8/Notes/Worksheets/1 - Elephants 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "344dcee74c63d079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APBiology/8/Notes/Worksheets/2 - Elephants 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2f59026eab77fa2",
             "type": "leaf",
             "state": {
@@ -173,8 +137,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b25d6f78055d243a",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "APBiology/6/Notes/Untitled",
     "Forensic Science/Final/Short Story.md",
     "Forensic Science/Chapter 2/Evidence Classification.md",
     "Forensic Science/Final",
@@ -220,7 +185,6 @@
     "APCSP/Create PT.md",
     "APCSP/PT Written Response.md",
     "obsidian-columns.md",
-    "APBiology/5/Unit 5 BILL.md",
     "church/Untitled.canvas"
   ]
 }
