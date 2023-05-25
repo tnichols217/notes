@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.38796647"
-     inkscape:cx="931.78155"
-     inkscape:cy="1130.2523"
+     inkscape:zoom="1.5518659"
+     inkscape:cx="-418.52844"
+     inkscape:cy="1242.6976"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
      inkscape:window-x="1600"
@@ -35,6 +35,24 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Stop"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="1"
+       markerHeight="8"
+       viewBox="0 0 1 8"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path171" />
+    </marker>
     <marker
        style="overflow:visible"
        id="marker15500"
@@ -391,12 +409,12 @@
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,0.77089148,3.0985629)"
              id="text165"
-             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167);fill:#000000"><tspan
+             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan16480"><tspan
+               id="tspan17309"><tspan
                  style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-                 id="tspan16478">CAP</tspan></tspan></text>
+                 id="tspan17307">CAP</tspan></tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487"
@@ -415,9 +433,9 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-3);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan16484"><tspan
+               id="tspan17313"><tspan
                  style="font-weight:bold"
-                 id="tspan16482">Promoter</tspan></tspan></text>
+                 id="tspan17311">Promoter</tspan></tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-2"
@@ -436,9 +454,9 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan16488"><tspan
+               id="tspan17317"><tspan
                  style="font-weight:bold"
-                 id="tspan16486">Operator</tspan></tspan></text>
+                 id="tspan17315">Operator</tspan></tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-2-7"
@@ -457,13 +475,13 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-9);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan16496"><tspan
+               id="tspan17325"><tspan
                  style="font-weight:bold"
-                 id="tspan16490">lac</tspan><tspan
+                 id="tspan17319">lac</tspan><tspan
                  style="font-style:italic"
-                 id="tspan16492"> </tspan><tspan
+                 id="tspan17321"> </tspan><tspan
                  style="font-weight:bold"
-                 id="tspan16494">genes</tspan></tspan></text>
+                 id="tspan17323">genes</tspan></tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-2-7-0"
@@ -488,9 +506,9 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1);display:inline;fill:#000000"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan16500"><tspan
+         id="tspan17329"><tspan
            style="font-weight:bold"
-           id="tspan16498">Repressor</tspan></tspan></text>
+           id="tspan17327">Repressor</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,68.639793,9.1050362)"
@@ -498,10 +516,10 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23);display:inline;fill:#000000"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan16502">Self-regulated </tspan><tspan
+         id="tspan17331">Self-regulated </tspan><tspan
          x="82.480469"
          y="335.97174"
-         id="tspan16504">through lacl gene</tspan></text>
+         id="tspan17333">through lacl gene</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,137.59489,8.2230908)"
@@ -509,16 +527,16 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23-2);display:inline;fill:#000000;stroke-width:1.00157;stroke-dasharray:none"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan16506">Produces lactic </tspan><tspan
+         id="tspan17335">Produces lactic </tspan><tspan
          x="82.480469"
          y="335.97174"
-         id="tspan16508">enzymes, which </tspan><tspan
+         id="tspan17337">enzymes, which </tspan><tspan
          x="82.480469"
          y="369.30512"
-         id="tspan16510">reduces cAMP and </tspan><tspan
+         id="tspan17339">reduces cAMP and </tspan><tspan
          x="82.480469"
          y="402.63849"
-         id="tspan16512">lactose present</tspan></text>
+         id="tspan17341">lactose present</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,47.273469,36.98159)"
@@ -526,7 +544,7 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23-5);display:inline;fill:#000000"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan16514">Allolactose</tspan></text>
+         id="tspan17343">Allolactose</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,20.875281,48.063647)"
@@ -534,9 +552,9 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2);display:inline;fill:#000000"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan16518"><tspan
+         id="tspan17347"><tspan
            style="font-weight:bold"
-           id="tspan16516">Activator</tspan></tspan></text>
+           id="tspan17345">Activator</tspan></tspan></text>
     <path
        id="rect6189"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -560,9 +578,9 @@
          style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-2);display:inline;fill:#000000"><tspan
            x="82.480469"
            y="302.63837"
-           id="tspan16522"><tspan
+           id="tspan17351"><tspan
              style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-             id="tspan16520">CAP</tspan></tspan></text>
+             id="tspan17349">CAP</tspan></tspan></text>
     </g>
     <path
        id="path6686"
@@ -575,9 +593,9 @@
        style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-2-6);display:inline;fill:#000000"><tspan
          x="82.480469"
          y="302.63837"
-         id="tspan16526"><tspan
+         id="tspan17355"><tspan
            style="font-weight:bold"
-           id="tspan16524">cAMP</tspan></tspan></text>
+           id="tspan17353">cAMP</tspan></tspan></text>
     <g
        id="g14162"
        transform="translate(45.633267,46.039654)">
@@ -588,13 +606,13 @@
          style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4);display:inline;fill:#000000"><tspan
            x="82.480469"
            y="302.63837"
-           id="tspan16534"><tspan
+           id="tspan17363"><tspan
              style="font-weight:bold"
-             id="tspan16528">Transcription of </tspan><tspan
+             id="tspan17357">Transcription of </tspan><tspan
              style="font-style:italic"
-             id="tspan16530">lac </tspan><tspan
+             id="tspan17359">lac </tspan><tspan
              style="font-weight:bold"
-             id="tspan16532">genes</tspan></tspan></text>
+             id="tspan17361">genes</tspan></tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="rect487-4"
@@ -615,9 +633,9 @@
            style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-0);display:inline;fill:#000000"><tspan
              x="82.480469"
              y="302.63837"
-             id="tspan16538"><tspan
+             id="tspan17367"><tspan
                style="font-weight:bold"
-               id="tspan16536">Unblocked operator</tspan></tspan></text>
+               id="tspan17365">Unblocked operator</tspan></tspan></text>
         <rect
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="rect487-4-4"
@@ -637,7 +655,7 @@
            style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
              x="82.480469"
              y="302.63837"
-             id="tspan16540">RNA polymerase bound to promoter</tspan></text>
+             id="tspan17369">RNA polymerase bound to promoter</tspan></text>
         <rect
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="rect487-4-4-3"
@@ -663,7 +681,7 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-3);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan16542">RNA polymerase present</tspan></text>
+               id="tspan17371">RNA polymerase present</tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-4-4-0"
@@ -683,7 +701,7 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan16544">CAP bound to CAP site</tspan></text>
+               id="tspan17373">CAP bound to CAP site</tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-4-4-0-7"
@@ -707,7 +725,7 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4-2);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan16546">CAP present</tspan></text>
+               id="tspan17375">CAP present</tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-4-4-0-8"
@@ -727,7 +745,7 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4-2-4);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan16548">cAMP present</tspan></text>
+               id="tspan17377">cAMP present</tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-4-4-0-8-6"
@@ -750,9 +768,9 @@
            style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1-5-7);display:inline;fill:#000000"><tspan
              x="82.480469"
              y="302.63837"
-             id="tspan16552"><tspan
+             id="tspan17381"><tspan
                style="font-weight:bold"
-               id="tspan16550">Allolactose present</tspan></tspan></text>
+               id="tspan17379">Allolactose present</tspan></tspan></text>
         <rect
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="rect487-4-4-0-8-8"
@@ -774,9 +792,9 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1-5);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan16556"><tspan
+               id="tspan17385"><tspan
                  style="font-weight:bold"
-                 id="tspan16554">Activator present</tspan></tspan></text>
+                 id="tspan17383">Activator present</tspan></tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-4-4-0-8-84"
@@ -796,9 +814,9 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan16560"><tspan
+               id="tspan17389"><tspan
    style="font-style:italic"
-   id="tspan16558">lac</tspan> repressor present</tspan></text>
+   id="tspan17387">lac</tspan> repressor present</tspan></text>
           <rect
              style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
              id="rect487-4-4-0-8-3"
@@ -819,9 +837,9 @@
          style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1);display:inline;fill:#000000"><tspan
            x="82.480469"
            y="302.63837"
-           id="tspan16564"><tspan
+           id="tspan17393"><tspan
              style="font-weight:bold"
-             id="tspan16562">Production of lactic enzymes</tspan></tspan></text>
+             id="tspan17391">Production of lactic enzymes</tspan></tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="rect487-4-4-0-8-1"
@@ -843,9 +861,9 @@
            style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-5);display:inline;fill:#000000"><tspan
              x="82.480469"
              y="302.63837"
-             id="tspan16568"><tspan
+             id="tspan17397"><tspan
                style="font-weight:bold"
-               id="tspan16566">Reduces lactose</tspan></tspan></text>
+               id="tspan17395">Reduces lactose</tspan></tspan></text>
         <rect
            style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="rect487-4-4-0-8-4"
@@ -865,7 +883,7 @@
            style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-8);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
              x="82.480469"
              y="302.63837"
-             id="tspan16570">Reduces cAMP and increases ATP</tspan></text>
+             id="tspan17399">Reduces cAMP and increases ATP</tspan></text>
         <rect
            style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="rect487-4-4-0-8-9"
@@ -885,9 +903,9 @@
          style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-5-3);display:inline;fill:#000000"><tspan
            x="82.480469"
            y="302.63837"
-           id="tspan16574"><tspan
+           id="tspan17403"><tspan
              style="font-weight:bold"
-             id="tspan16572">Reduces allolactose</tspan></tspan></text>
+             id="tspan17401">Reduces allolactose</tspan></tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="rect487-4-4-0-8-2"
@@ -968,5 +986,15 @@
        d="m 308.3986,235.05843 v -13.77995 l 18.27233,0"
        id="path15496"
        sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Stop)"
+       d="m 492.84215,254.72755 0,49.26267 h -843.37717 l 0,-82.21174 h 15.33432"
+       id="path16993"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Stop)"
+       d="m 450.13478,221.27883 h 97.49094 v 94.13448 h -842.90615 v -17.10756"
+       id="path17123"
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
