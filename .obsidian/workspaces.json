@@ -1077,31 +1077,18 @@
             "type": "tabs",
             "children": [
               {
-                "id": "496842336a935e56",
+                "id": "6e017c1f3f2180ac",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "APBiology/4/Unit 4 BILL.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8773e87cec1fc904",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ChristAndCulture/Final.md",
+                    "file": "Spiritual DIsciplines/Book Report 2.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -1143,7 +1130,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 300
+        "width": 300,
+        "collapsed": true
       },
       "right": {
         "id": "ca4cf6357558295d",
@@ -1167,7 +1155,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "ChristAndCulture/Final.md",
+                    "file": "Spiritual DIsciplines/Book Report 2.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -1184,7 +1172,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "ChristAndCulture/Final.md"
+                    "file": "Spiritual DIsciplines/Book Report 2.md"
                   }
                 }
               },
@@ -1204,7 +1192,22 @@
         "width": 300,
         "collapsed": true
       },
-      "active": "8773e87cec1fc904"
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": false,
+          "audio-recorder:Start/stop recording": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "6e017c1f3f2180ac"
     },
     "sandm": {
       "main": {
@@ -1740,5 +1743,5 @@
       "active": "4a525f6e31ce8430"
     }
   },
-  "active": "christ and culture"
+  "active": "forensic science"
 }
