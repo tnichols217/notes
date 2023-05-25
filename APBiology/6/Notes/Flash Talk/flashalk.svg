@@ -399,7 +399,10 @@
      transform="translate(575.64169,38.385467)">
     <g
        id="g24174"
-       transform="translate(-464.86872,-16.23805)">
+       transform="translate(-464.86872,-16.23805)"
+       inkscape:export-filename="structure.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:50;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          id="rect23941"
@@ -430,9 +433,9 @@
                    style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167);display:inline;fill:#000000"><tspan
                      x="82.480469"
                      y="302.63837"
-                     id="tspan25779"><tspan
+                     id="tspan26115"><tspan
                        style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-                       id="tspan25777">CAP</tspan></tspan></text>
+                       id="tspan26113">CAP</tspan></tspan></text>
                 <rect
                    style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                    id="rect487"
@@ -451,9 +454,9 @@
                    style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-3);display:inline;fill:#000000"><tspan
                      x="82.480469"
                      y="302.63837"
-                     id="tspan25783"><tspan
+                     id="tspan26119"><tspan
                        style="font-weight:bold"
-                       id="tspan25781">Promoter</tspan></tspan></text>
+                       id="tspan26117">Promoter</tspan></tspan></text>
                 <rect
                    style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                    id="rect487-2"
@@ -472,9 +475,9 @@
                    style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35);display:inline;fill:#000000"><tspan
                      x="82.480469"
                      y="302.63837"
-                     id="tspan25787"><tspan
+                     id="tspan26123"><tspan
                        style="font-weight:bold"
-                       id="tspan25785">Operator</tspan></tspan></text>
+                       id="tspan26121">Operator</tspan></tspan></text>
                 <rect
                    style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                    id="rect487-2-7"
@@ -493,13 +496,13 @@
                    style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-9);display:inline;fill:#000000"><tspan
                      x="82.480469"
                      y="302.63837"
-                     id="tspan25795"><tspan
+                     id="tspan26131"><tspan
                        style="font-weight:bold"
-                       id="tspan25789">lac</tspan><tspan
+                       id="tspan26125">lac</tspan><tspan
                        style="font-style:italic"
-                       id="tspan25791"> </tspan><tspan
+                       id="tspan26127"> </tspan><tspan
                        style="font-weight:bold"
-                       id="tspan25793">genes</tspan></tspan></text>
+                       id="tspan26129">genes</tspan></tspan></text>
                 <rect
                    style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                    id="rect487-2-7-0"
@@ -524,9 +527,9 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan25799"><tspan
+               id="tspan26135"><tspan
                  style="font-weight:bold"
-                 id="tspan25797">Repressor</tspan></tspan></text>
+                 id="tspan26133">Repressor</tspan></tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,68.639793,9.1050362)"
@@ -534,10 +537,10 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan25801">Self-regulated </tspan><tspan
+               id="tspan26137">Self-regulated </tspan><tspan
                x="82.480469"
                y="335.97174"
-               id="tspan25803">through lacl gene</tspan></text>
+               id="tspan26139">through lacl gene</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,137.59489,8.2230908)"
@@ -545,16 +548,16 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23-2);display:inline;fill:#000000;stroke-width:1.00157;stroke-dasharray:none"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan25805">Produces lactic </tspan><tspan
+               id="tspan26141">Produces lactic </tspan><tspan
                x="82.480469"
                y="335.97174"
-               id="tspan25807">enzymes, which </tspan><tspan
+               id="tspan26143">enzymes, which </tspan><tspan
                x="82.480469"
                y="369.30512"
-               id="tspan25809">reduces cAMP and </tspan><tspan
+               id="tspan26145">reduces cAMP and </tspan><tspan
                x="82.480469"
                y="402.63849"
-               id="tspan25811">lactose present</tspan></text>
+               id="tspan26147">lactose present</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,47.273469,36.98159)"
@@ -562,7 +565,7 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23-5);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan25813">Allolactose</tspan></text>
+               id="tspan26149">Allolactose</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.26458333,0,0,0.26458333,20.875281,48.063647)"
@@ -570,9 +573,9 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan25817"><tspan
+               id="tspan26153"><tspan
                  style="font-weight:bold"
-                 id="tspan25815">Activator</tspan></tspan></text>
+                 id="tspan26151">Activator</tspan></tspan></text>
           <path
              id="rect6189"
              style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -596,9 +599,9 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-2);display:inline;fill:#000000"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25821"><tspan
+                 id="tspan26157"><tspan
                    style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
-                   id="tspan25819">CAP</tspan></tspan></text>
+                   id="tspan26155">CAP</tspan></tspan></text>
           </g>
           <path
              id="path6686"
@@ -611,9 +614,9 @@
              style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-2-6);display:inline;fill:#000000"><tspan
                x="82.480469"
                y="302.63837"
-               id="tspan25825"><tspan
+               id="tspan26161"><tspan
                  style="font-weight:bold"
-                 id="tspan25823">cAMP</tspan></tspan></text>
+                 id="tspan26159">cAMP</tspan></tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -622,11 +625,11 @@
            style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-3-6);display:inline;fill:#000000;stroke-width:0.437922"><tspan
              x="82.480469"
              y="302.63837"
-             id="tspan25831"><tspan
+             id="tspan26167"><tspan
                style="font-style:italic"
-               id="tspan25827">lac</tspan><tspan
+               id="tspan26163">lac</tspan><tspan
                style="font-weight:bold"
-               id="tspan25829"> operon</tspan></tspan></text>
+               id="tspan26165"> operon</tspan></tspan></text>
         <path
            style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            d="M 52.764637,22.164179 H 179.61193"
@@ -635,7 +638,10 @@
     </g>
     <g
        id="g24805"
-       transform="translate(-464.86872)">
+       transform="translate(-464.86872)"
+       inkscape:export-filename="loop.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:50;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          id="rect24230"
@@ -662,19 +668,19 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4);display:inline;fill:#000000"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25835"><tspan
+                 id="tspan26171"><tspan
                    style="font-weight:bold"
-                   id="tspan25833">Transcription
+                   id="tspan26169">Transcription
 </tspan></tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25843"><tspan
+                 id="tspan26179"><tspan
                    style="font-weight:bold"
-                   id="tspan25837">of </tspan><tspan
+                   id="tspan26173">of </tspan><tspan
                    style="font-style:italic"
-                   id="tspan25839">lac </tspan><tspan
+                   id="tspan26175">lac </tspan><tspan
                    style="font-weight:bold"
-                   id="tspan25841">genes</tspan></tspan></text>
+                   id="tspan26177">genes</tspan></tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4"
@@ -695,15 +701,15 @@
                  style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-0);display:inline;fill:#000000"><tspan
                    x="82.480469"
                    y="302.63837"
-                   id="tspan25847"><tspan
+                   id="tspan26183"><tspan
                      style="font-weight:bold"
-                     id="tspan25845">Unblocked
+                     id="tspan26181">Unblocked
 </tspan></tspan><tspan
                    x="82.480469"
                    y="335.97174"
-                   id="tspan25851"><tspan
+                   id="tspan26187"><tspan
                      style="font-weight:bold"
-                     id="tspan25849">operator</tspan></tspan></text>
+                     id="tspan26185">operator</tspan></tspan></text>
               <rect
                  style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                  id="rect487-4-4"
@@ -723,11 +729,11 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25853">RNA polymerase
+                 id="tspan26189">RNA polymerase
 </tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25855">bound to promoter</tspan></text>
+                 id="tspan26191">bound to promoter</tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-3"
@@ -745,11 +751,11 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-3);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25857">RNA polymerase
+                 id="tspan26193">RNA polymerase
 </tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25859">present</tspan></text>
+                 id="tspan26195">present</tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-0"
@@ -768,11 +774,11 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25861">CAP bound
+                 id="tspan26197">CAP bound
 </tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25863">to CAP site</tspan></text>
+                 id="tspan26199">to CAP site</tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-0-7"
@@ -790,11 +796,11 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4-2);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25865">CAP
+                 id="tspan26201">CAP
 </tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25867">present</tspan></text>
+                 id="tspan26203">present</tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-0-8"
@@ -813,11 +819,11 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4-2-4);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25869">cAMP
+                 id="tspan26205">cAMP
 </tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25871">present</tspan></text>
+                 id="tspan26207">present</tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:0.999998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-0-8-6"
@@ -836,15 +842,15 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1-5-7);display:inline;fill:#000000"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25875"><tspan
+                 id="tspan26211"><tspan
                    style="font-weight:bold"
-                   id="tspan25873">Allolactose
+                   id="tspan26209">Allolactose
 </tspan></tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25879"><tspan
+                 id="tspan26215"><tspan
                    style="font-weight:bold"
-                   id="tspan25877">present</tspan></tspan></text>
+                   id="tspan26213">present</tspan></tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-0-8-8"
@@ -863,15 +869,15 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1-5);display:inline;fill:#000000"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25883"><tspan
+                 id="tspan26219"><tspan
                    style="font-weight:bold"
-                   id="tspan25881">Activator
+                   id="tspan26217">Activator
 </tspan></tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25887"><tspan
+                 id="tspan26223"><tspan
                    style="font-weight:bold"
-                   id="tspan25885">present</tspan></tspan></text>
+                   id="tspan26221">present</tspan></tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:2.00002;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-0-8-84"
@@ -890,13 +896,13 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25891"><tspan
+                 id="tspan26227"><tspan
    style="font-style:italic"
-   id="tspan25889">lac</tspan> repressor
+   id="tspan26225">lac</tspan> repressor
 </tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25893">present</tspan></text>
+                 id="tspan26229">present</tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-0-8-3"
@@ -915,15 +921,15 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1);display:inline;fill:#000000"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25897"><tspan
+                 id="tspan26233"><tspan
                    style="font-weight:bold"
-                   id="tspan25895">Production of
+                   id="tspan26231">Production of
 </tspan></tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25901"><tspan
+                 id="tspan26237"><tspan
                    style="font-weight:bold"
-                   id="tspan25899">lactic enzymes</tspan></tspan></text>
+                   id="tspan26235">lactic enzymes</tspan></tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-0-8-1"
@@ -942,15 +948,15 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-5);display:inline;fill:#000000"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25905"><tspan
+                 id="tspan26241"><tspan
                    style="font-weight:bold"
-                   id="tspan25903">Reduces
+                   id="tspan26239">Reduces
 </tspan></tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25909"><tspan
+                 id="tspan26245"><tspan
                    style="font-weight:bold"
-                   id="tspan25907">lactose</tspan></tspan></text>
+                   id="tspan26243">lactose</tspan></tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-0-8-4"
@@ -969,11 +975,11 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-8);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25911">Reduces cAMP
+                 id="tspan26247">Reduces cAMP
 </tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25913">and increases ATP</tspan></text>
+                 id="tspan26249">and increases ATP</tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-0-8-9"
@@ -992,15 +998,15 @@
                style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-5-3);display:inline;fill:#000000"><tspan
                  x="82.480469"
                  y="302.63837"
-                 id="tspan25917"><tspan
+                 id="tspan26253"><tspan
                    style="font-weight:bold"
-                   id="tspan25915">Reduces
+                   id="tspan26251">Reduces
 </tspan></tspan><tspan
                  x="82.480469"
                  y="335.97174"
-                 id="tspan25921"><tspan
+                 id="tspan26257"><tspan
                    style="font-weight:bold"
-                   id="tspan25919">allolactose</tspan></tspan></text>
+                   id="tspan26255">allolactose</tspan></tspan></text>
             <rect
                style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                id="rect487-4-4-0-8-2"
@@ -1104,9 +1110,9 @@
            style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-3-6-0-1);display:inline;fill:#000000;stroke-width:0.437922"><tspan
              x="82.480469"
              y="302.63837"
-             id="tspan25925"><tspan
+             id="tspan26261"><tspan
                style="font-weight:bold"
-               id="tspan25923">Self-regulation loop</tspan></tspan></text>
+               id="tspan26259">Self-regulation loop</tspan></tspan></text>
         <path
            style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            d="M 19.390223,162.65098 H 212.85936"
