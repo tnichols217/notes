@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="437.4386mm"
+   height="312.68542mm"
+   viewBox="0 0 437.4386 312.68543"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="flashalk.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.38796647"
+     inkscape:cx="931.78155"
+     inkscape:cy="1130.2523"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker15500"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347524"
+       markerHeight="5.93049514"
+       viewBox="0 0 6.1347524 5.93049514"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path15498" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker15362"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path15360" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14648"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path14646" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="203.30367"
+       height="40.918484"
+       id="rect167" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="203.30367"
+       height="40.918484"
+       id="rect167-3" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="203.30367"
+       height="40.918484"
+       id="rect167-35" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="203.30367"
+       height="40.918484"
+       id="rect167-9" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="203.30367"
+       height="40.918484"
+       id="rect167-9-9" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="203.30367"
+       height="40.918484"
+       id="rect167-35-2" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="203.30367"
+       height="40.918484"
+       id="rect167-35-1" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="203.30367"
+       height="40.918484"
+       id="rect167-35-1-2" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="225.17484"
+       height="69.168747"
+       id="rect167-35-1-23" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="225.17484"
+       height="69.168747"
+       id="rect167-35-1-23-5" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="203.30367"
+       height="40.918484"
+       id="rect167-2" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="203.30367"
+       height="40.918484"
+       id="rect167-2-8" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="203.30367"
+       height="40.918484"
+       id="rect167-2-6" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="245.48247"
+       height="146.52596"
+       id="rect167-35-1-23-2" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90282"
+       height="280.62992"
+       id="rect167-35-1-2-1" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-4" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-8" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-5" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-5-3" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-4-0" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-4-1" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-4-1-5" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-4-1-5-7" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-4-5" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-4-5-3" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-4-5-4" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-4-5-4-2" />
+    <rect
+       x="82.481354"
+       y="278.37457"
+       width="455.90283"
+       height="280.62991"
+       id="rect167-35-1-2-1-4-5-4-2-4" />
+    <marker
+       style="overflow:visible"
+       id="marker14648-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path14646-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14648-6-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path14646-8-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker14648-6-6-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path14646-8-6-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367-7-2" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(123.43743,12.95752)">
+    <g
+       id="g5820"
+       transform="translate(-63.423651,-13.639495)">
+      <g
+         id="g5798">
+        <g
+           id="g5653">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,0.77089148,3.0985629)"
+             id="text165"
+             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167);fill:#000000"><tspan
+               x="82.480469"
+               y="302.63837"
+               id="tspan16480"><tspan
+                 style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+                 id="tspan16478">CAP</tspan></tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect487"
+             width="23.870333"
+             height="12.779068"
+             x="17.601357"
+             y="74.26326" />
+        </g>
+        <g
+           id="g5648"
+           transform="translate(1.6070367,-0.11314392)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,27.520738,3.1764263)"
+             id="text165-6"
+             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-3);display:inline;fill:#000000"><tspan
+               x="82.480469"
+               y="302.63837"
+               id="tspan16484"><tspan
+                 style="font-weight:bold"
+                 id="tspan16482">Promoter</tspan></tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect487-2"
+             width="41.471687"
+             height="12.779068"
+             x="45.647034"
+             y="74.376404" />
+        </g>
+        <g
+           id="g5643"
+           transform="translate(3.7990908,-0.35425568)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,80.499967,2.6449565)"
+             id="text165-62"
+             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35);display:inline;fill:#000000"><tspan
+               x="82.480469"
+               y="302.63837"
+               id="tspan16488"><tspan
+                 style="font-weight:bold"
+                 id="tspan16486">Operator</tspan></tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect487-2-7"
+             width="55.697441"
+             height="12.779068"
+             x="90.709053"
+             y="74.617516" />
+        </g>
+        <g
+           id="g5638"
+           transform="translate(0,-0.35425568)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,215.58828,2.7684289)"
+             id="text165-1"
+             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-9);display:inline;fill:#000000"><tspan
+               x="82.480469"
+               y="302.63837"
+               id="tspan16496"><tspan
+                 style="font-weight:bold"
+                 id="tspan16490">lac</tspan><tspan
+                 style="font-style:italic"
+                 id="tspan16492"> </tspan><tspan
+                 style="font-weight:bold"
+                 id="tspan16494">genes</tspan></tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect487-2-7-0"
+             width="195.18217"
+             height="12.779068"
+             x="155.98798"
+             y="74.617516" />
+        </g>
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-2-7-0-0"
+         width="342.74423"
+         height="21.941418"
+         x="13.01364"
+         y="69.682083" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,19.312486,10.609151)"
+       id="text165-62-8"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1);display:inline;fill:#000000"><tspan
+         x="82.480469"
+         y="302.63837"
+         id="tspan16500"><tspan
+           style="font-weight:bold"
+           id="tspan16498">Repressor</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,68.639793,9.1050362)"
+       id="text165-62-8-7"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23);display:inline;fill:#000000"><tspan
+         x="82.480469"
+         y="302.63837"
+         id="tspan16502">Self-regulated </tspan><tspan
+         x="82.480469"
+         y="335.97174"
+         id="tspan16504">through lacl gene</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,137.59489,8.2230908)"
+       id="text165-62-8-7-93"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23-2);display:inline;fill:#000000;stroke-width:1.00157;stroke-dasharray:none"><tspan
+         x="82.480469"
+         y="302.63837"
+         id="tspan16506">Produces lactic </tspan><tspan
+         x="82.480469"
+         y="335.97174"
+         id="tspan16508">enzymes, which </tspan><tspan
+         x="82.480469"
+         y="369.30512"
+         id="tspan16510">reduces cAMP and </tspan><tspan
+         x="82.480469"
+         y="402.63849"
+         id="tspan16512">lactose present</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,47.273469,36.98159)"
+       id="text165-62-8-7-9"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-23-5);display:inline;fill:#000000"><tspan
+         x="82.480469"
+         y="302.63837"
+         id="tspan16514">Allolactose</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,20.875281,48.063647)"
+       id="text165-62-8-0"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2);display:inline;fill:#000000"><tspan
+         x="82.480469"
+         y="302.63837"
+         id="tspan16518"><tspan
+           style="font-weight:bold"
+           id="tspan16516">Activator</tspan></tspan></text>
+    <path
+       id="rect6189"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 31.084408,82.203251 v 19.064989 h 19.771403 a 8.0772581,8.0772581 0 0 1 8.077026,-8.077546 8.0772581,8.0772581 0 0 1 8.077543,8.077546 H 86.781783 V 82.203251 Z" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path6246"
+       cx="58.933094"
+       cy="114.40882"
+       r="6.0472574" />
+    <g
+       id="g6592">
+      <path
+         id="path6512"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m -48.222798,82.203251 a 14.225755,14.225755 0 0 0 14.225488,14.22601 14.225755,14.225755 0 0 0 14.226005,-14.22601 z" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-62.762683,10.090884)"
+         id="text165-2"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-2);display:inline;fill:#000000"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan16522"><tspan
+             style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold'"
+             id="tspan16520">CAP</tspan></tspan></text>
+    </g>
+    <path
+       id="path6686"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m -46.929856,98.429165 a 14.179805,14.264928 0 0 0 -1.247216,5.828215 14.179805,14.264928 0 0 0 14.179664,14.26478 14.179805,14.264928 0 0 0 14.179664,-14.26478 14.179805,14.264928 0 0 0 -1.237757,-5.82695 17.357929,17.46213 0 0 1 -12.941907,5.82695 17.357929,17.46213 0 0 1 -12.932448,-5.828215 z" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-65.609965,31.930713)"
+       id="text165-2-1"
+       style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-2-6);display:inline;fill:#000000"><tspan
+         x="82.480469"
+         y="302.63837"
+         id="tspan16526"><tspan
+           style="font-weight:bold"
+           id="tspan16524">cAMP</tspan></tspan></text>
+    <g
+       id="g14162"
+       transform="translate(45.633267,46.039654)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-25.650723,110.7978)"
+         id="text165-62-8-0-9-7"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4);display:inline;fill:#000000"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan16534"><tspan
+             style="font-weight:bold"
+             id="tspan16528">Transcription of </tspan><tspan
+             style="font-style:italic"
+             id="tspan16530">lac </tspan><tspan
+             style="font-weight:bold"
+             id="tspan16532">genes</tspan></tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4"
+         width="98.010841"
+         height="12.779068"
+         x="-7.8433862"
+         y="182.62924" />
+    </g>
+    <g
+       id="g14376">
+      <g
+         id="g14167"
+         transform="translate(5.4557979,45.489628)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-129.80891,84.770981)"
+           id="text165-62-8-0-9-7-6"
+           style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-0);display:inline;fill:#000000"><tspan
+             x="82.480469"
+             y="302.63837"
+             id="tspan16538"><tspan
+               style="font-weight:bold"
+               id="tspan16536">Unblocked operator</tspan></tspan></text>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect487-4-4"
+           width="77.337181"
+           height="12.779068"
+           x="-111.23562"
+           y="156.62007" />
+      </g>
+      <g
+         id="g14172"
+         style="stroke-width:1;stroke-dasharray:none"
+         transform="translate(-10.345349,43.186101)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-139.10792,140.69291)"
+           id="text165-62-8-0-9-7-69"
+           style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+             x="82.480469"
+             y="302.63837"
+             id="tspan16540">RNA polymerase bound to promoter</tspan></text>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect487-4-4-3"
+           width="125.75739"
+           height="12.779068"
+           x="-119.64458"
+           y="212.54199" />
+      </g>
+    </g>
+    <g
+       id="g14412">
+      <g
+         id="g14288"
+         transform="translate(0,2.5924391)">
+        <g
+           id="g14193"
+           style="stroke-width:1;stroke-dasharray:none"
+           transform="translate(0,7.5544363)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-255.90461,160.45254)"
+             id="text165-62-8-0-9-7-69-7"
+             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-3);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+               x="82.480469"
+               y="302.63837"
+               id="tspan16542">RNA polymerase present</tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect487-4-4-0"
+             width="86.20285"
+             height="12.779068"
+             x="-235.92921"
+             y="232.30162" />
+        </g>
+        <g
+           id="g14198"
+           style="stroke-width:1;stroke-dasharray:none"
+           transform="translate(3.954628,1.5082687)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-255.65061,193.8693)"
+             id="text165-62-8-0-9-7-69-5"
+             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+               x="82.480469"
+               y="302.63837"
+               id="tspan16544">CAP bound to CAP site</tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect487-4-4-0-7"
+             width="79.383102"
+             height="12.779068"
+             x="-236.47397"
+             y="264.90698" />
+        </g>
+      </g>
+      <g
+         id="g14298"
+         transform="translate(19.095293,-6.0652599)">
+        <g
+           id="g14203"
+           style="stroke-width:1;stroke-dasharray:none"
+           transform="translate(0,1.3807553)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-356.55017,188.43652)"
+             id="text165-62-8-0-9-7-69-5-5"
+             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4-2);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+               x="82.480469"
+               y="302.63837"
+               id="tspan16546">CAP present</tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect487-4-4-0-8"
+             width="46.307327"
+             height="12.779068"
+             x="-337.52911"
+             y="260.4126" />
+        </g>
+        <g
+           id="g14208"
+           style="stroke-width:1;stroke-dasharray:none"
+           transform="translate(-8.1876068,-3.3055643)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-351.00486,219.65734)"
+             id="text165-62-8-0-9-7-69-5-5-7"
+             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-5-4-2-4);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+               x="82.480469"
+               y="302.63837"
+               id="tspan16548">cAMP present</tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect487-4-4-0-8-6"
+             width="52.104111"
+             height="12.779068"
+             x="-332.2399"
+             y="291.65811" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14392">
+      <g
+         id="g14188"
+         transform="translate(14.51444,48.55725)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,-364.33635,94.982964)"
+           id="text165-62-8-0-9-7-5-4-6"
+           style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1-5-7);display:inline;fill:#000000"><tspan
+             x="82.480469"
+             y="302.63837"
+             id="tspan16552"><tspan
+               style="font-weight:bold"
+               id="tspan16550">Allolactose present</tspan></tspan></text>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect487-4-4-0-8-8"
+           width="73.927307"
+           height="12.779068"
+           x="-345.79379"
+           y="166.83205" />
+      </g>
+      <g
+         id="g14278"
+         transform="translate(0,10.326173)">
+        <g
+           id="g14177"
+           transform="translate(-5.1561737,38.231077)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-240.14395,94.982964)"
+             id="text165-62-8-0-9-7-5-4"
+             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1-5);display:inline;fill:#000000"><tspan
+               x="82.480469"
+               y="302.63837"
+               id="tspan16556"><tspan
+                 style="font-weight:bold"
+                 id="tspan16554">Activator present</tspan></tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:2.00001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect487-4-4-0-8-84"
+             width="67.448547"
+             height="12.779068"
+             x="-221.39589"
+             y="166.83205" />
+        </g>
+        <g
+           id="g14183"
+           style="stroke-width:1;stroke-dasharray:none"
+           transform="translate(-7.500248,50.026797)">
+          <text
+             xml:space="preserve"
+             transform="matrix(0.26458333,0,0,0.26458333,-242.08611,56.128042)"
+             id="text165-62-8-0-9-7-5"
+             style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-4-1);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+               x="82.480469"
+               y="302.63837"
+               id="tspan16560"><tspan
+   style="font-style:italic"
+   id="tspan16558">lac</tspan> repressor present</tspan></text>
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect487-4-4-0-8-3"
+             width="76.314217"
+             height="12.779068"
+             x="-223.48465"
+             y="127.97713" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14213"
+       transform="translate(51.659587,46.039654)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,98.678121,110.7978)"
+         id="text165-62-8-0-9"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1);display:inline;fill:#000000"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan16564"><tspan
+             style="font-weight:bold"
+             id="tspan16562">Production of lactic enzymes</tspan></tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4-4-0-8-1"
+         width="107.00307"
+         height="12.779068"
+         x="117.7608"
+         y="182.62924" />
+    </g>
+    <g
+       id="g14423"
+       transform="translate(46.033295,2.153858)">
+      <g
+         id="g14224"
+         transform="translate(71.607348,34.201816)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,224.46518,134.55513)"
+           id="text165-62-8-0-9-0"
+           style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-5);display:inline;fill:#000000"><tspan
+             x="82.480469"
+             y="302.63837"
+             id="tspan16568"><tspan
+               style="font-weight:bold"
+               id="tspan16566">Reduces lactose</tspan></tspan></text>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect487-4-4-0-8-4"
+           width="61.65176"
+           height="12.779068"
+           x="243.73389"
+           y="205.59282" />
+      </g>
+      <g
+         id="g14219"
+         style="stroke-width:1;stroke-dasharray:none"
+         transform="translate(44.969067,55.562818)">
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,224.41579,86.134931)"
+           id="text165-62-8-0-9-4"
+           style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-8);display:inline;fill:#000000;stroke-width:3.77953;stroke-dasharray:none"><tspan
+             x="82.480469"
+             y="302.63837"
+             id="tspan16570">Reduces cAMP and increases ATP</tspan></text>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect487-4-4-0-8-9"
+           width="115.86875"
+           height="12.779068"
+           x="243.26367"
+           y="157.17262" />
+      </g>
+    </g>
+    <g
+       id="g14230"
+       transform="translate(124.75879,36.355674)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,311.52235,134.55513)"
+         id="text165-62-8-0-9-0-2"
+         style="font-size:26.6667px;white-space:pre;shape-inside:url(#rect167-35-1-2-1-5-3);display:inline;fill:#000000"><tspan
+           x="82.480469"
+           y="302.63837"
+           id="tspan16574"><tspan
+             style="font-weight:bold"
+             id="tspan16572">Reduces allolactose</tspan></tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect487-4-4-0-8-2"
+         width="74.268295"
+         height="12.779068"
+         x="330.94922"
+         y="205.59282" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m -257.35204,221.77883 17.7798,0"
+       id="path14425"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-1)"
+       d="m 135.80072,235.05843 h 17.7798"
+       id="path14425-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-1-7)"
+       d="m 423.02629,248.33803 h 17.7798"
+       id="path14425-2-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14648)"
+       d="m -272.12651,262.11762 h 17.39508 v 13.27963 l 15.66362,0"
+       id="path14644"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m -269.22812,288.67682 h 14.49669 l 0,-13.27957"
+       id="path14694"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14648-6)"
+       d="m -149.72636,248.83803 9.26662,-4e-5 v 13.27963 l 4.07005,0"
+       id="path14644-9"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m -153.13624,275.39722 12.6765,-3e-5 v -13.27957"
+       id="path14694-2"
+       sodipodi:nodetypes="ccc" />
+    <g
+       id="g15010">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14648-6-6)"
+         d="m -159.10352,221.7788 27.0381,4e-5 v -13.27963 l 14.19686,0"
+         id="path14644-9-4"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m -154.67068,195.21961 22.60526,3e-5 v 13.27957"
+         id="path14694-2-9"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g15010-4"
+       transform="matrix(1,0,0,-1,141.24153,443.80765)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14648-6-6-5)"
+         d="m -169.68417,235.30842 h 37.61921 v -26.80921 h 14.1964"
+         id="path14644-9-4-8"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m -145.47406,181.69017 h 13.4091 v 26.80904"
+         id="path14694-2-9-7"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15362)"
+       d="m 276.42344,235.05843 h 31.97516 v 13.28005 l 39.47352,0"
+       id="path15358"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker15500)"
+       d="m 308.3986,235.05843 v -13.77995 l 18.27233,0"
+       id="path15496"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
