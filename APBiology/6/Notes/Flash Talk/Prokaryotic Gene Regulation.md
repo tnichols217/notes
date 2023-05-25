@@ -17,4 +17,5 @@ date created: 2023-05-25 22:39
 
 - The regulation loop of the lac operon is similar to a negative feedback loop.
 - This regulation allows procaryotes to maintain a certain level of any biological molecule within the cell. In the case of the lac operon, this is the presence of allolactose and the lack of ATP.
-- The lac genes produce lactic enzymes, which are able to digest lactose to use as energy, however these genes are
+- The lac genes produce lactic enzymes, which are able to digest lactose to use as energy, however these genes are only transcribed when allolactose is present, and ATP is absent — signalling the need for energy.
+- As the lactose content of the cell decreases and ATP increases, this inhibits the further expression of the lac operon, meaning no more lactic enzymes w
