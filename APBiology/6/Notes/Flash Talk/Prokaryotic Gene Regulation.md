@@ -16,4 +16,4 @@ date created: 2023-05-25 22:39
 ![[loop.png]]
 
 - The regulation loop of the lac operon is similar to a negative feedback loop.
--
+- This regulation allows procaryotes to maintain a certain level of any biological molecule within the cell. In the case of the lac operon, this is 
