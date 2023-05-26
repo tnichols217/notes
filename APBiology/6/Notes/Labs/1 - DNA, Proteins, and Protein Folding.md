@@ -18,3 +18,5 @@ Amino A.: `Met Phe His Leu Val Asp Phe Gln Val Thr Ile Ala Glu Ile Leu Leu Ile I
 	- DNA is the information that RNA gets written with, and the information on the RNA get translated into amino acids making a protein
 5. How do proteins get their shape?
 	- From interactions between the R-groups of each amino acid, pulling and pushing apart or together
+
+![[Pasted image 20230526093528.png]]![[Pasted image 20230526093534.png]]![[Pasted image 20230526093539.png]]![[Pasted image 20230526093543.png]]
