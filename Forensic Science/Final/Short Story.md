@@ -1,0 +1,1 @@
+The sun as poking through the clouds, harshly needling the warm pavement where detective Jane stood. She looked down upon the dead body of Richard Johnston, a successful and well-known businessman. She looks up and sees the condo he habits
