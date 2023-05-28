@@ -35,9 +35,11 @@
             "id": "1e8543f1480b8d51",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparison Genomics - 3.svg"
+                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparison Genomics - 3.svg",
+                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparison Genomics - 3.svg"
+                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics.md"
               }
             }
           },
@@ -160,9 +162,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "1e8543f1480b8d51",
   "lastOpenFiles": [
-    "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparison Genomics - 3.png",
+    "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparitive Genomics - 1.png",
+    "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparitive Genomics - 3.svg",
+    "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparitive Genomics - 3.png",
     "APBiology/7/Notes/Doodle Notes/10 - Comparison Genomics.md",
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics.md",
     "APBiology/6/Unit 6 BILL.md",
@@ -188,8 +192,6 @@
     "APBiology/6/Notes/Flash Talk/loop.png",
     "APBiology/6/Notes/Flash Talk/structure.png",
     "APBiology/6/Notes/Flash Talk/g23051.png",
-    "APBiology/6/Notes/Flash Talk/g22959.png",
-    "APBiology/6/Notes/Flash Talk/flashalk.svg",
     "APBiology/8/Unit 8 BILL.md",
     "Forensic Science/Chapter 2/Evidence Classification.md",
     "Spiritual DIsciplines/Book Report 2.md",
