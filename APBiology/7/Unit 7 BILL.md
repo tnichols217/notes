@@ -63,7 +63,7 @@ date updated: 2023-04-24 11:51
 9. [x] Antibiotic Resistance
    ![[9 - Antibiotic Resistance Evolution in the Lab]]
 10. [x] Speciation
-    ![[10 - Comparison Genomics]]
+    ![[10 - Speciation]]
 
 ## POGILs
 
