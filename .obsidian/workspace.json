@@ -35,11 +35,9 @@
             "id": "1e8543f1480b8d51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics.md",
-                "mode": "source",
-                "source": false
+                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparison Genomics - 3.svg"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics.md",
+                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparison Genomics - 3.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics.md"
+                "file": "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparison Genomics - 3.svg"
               }
             }
           },
@@ -162,8 +160,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1e8543f1480b8d51",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparison Genomics - 3.png",
+    "APBiology/7/Notes/Doodle Notes/10 - Comparison Genomics.md",
+    "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics.md",
     "APBiology/6/Unit 6 BILL.md",
     "APBiology/8/Notes/Worksheets/3 - Elephants 3.md",
     "Forensic Science/Final/Short Story.md",
@@ -207,9 +208,6 @@
     "APBiology/7/Unit 7 BILL.md",
     "APBiology/7/Notes/Activities/2 - Mouse Fur Color/Table 1.md",
     "APBiology/7/Notes/Activities/2 - Mouse Fur Color/Drawing 2023-05-07 00.26.41.excalidraw.md",
-    "APBiology/7/Notes/Activities/2 - Mouse Fur Color.md",
-    "APArt/TODO.md",
-    "APCSP/Create PT.md",
     "church/Untitled.canvas"
   ]
 }
