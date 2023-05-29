@@ -8,4 +8,6 @@
 > 
 > The next day Jane enters the lab. She examines the small paper bags laid out on the table in front of her. First, she takes the bag labeled "fiber". She carefully cut the bottom of the bag to ensure not to break the seal. She pulls out the card that the fiber is carefully taped to. This fiber was removed from the scene with sterile forceps and placed and taped carefully onto the card to ensure no accidental movement or tampering could occur. She places the card under the microscope and begins counting to establish the thread count. Then she notes down the orange color of the fiber as well as its frizzy nature, suggesting that it is a natural fiber. She then observes the fiber diameter and sends off the fiber to the infrared spectroscopy lab.
 > 
-> Next, she pulls out the bag labeled "hair". Similar to the fiber, it was collected with forceps and placed onto a white card. 
+> Next, she pulls out the bag labeled "hair". Similar to the fiber, it was collected with forceps and placed onto a white card. She also places this card under the microscope to determine other characteristics of it: its red color, thin diameter, and strong ovularity. Jane looked up and down the hair, especially examining the tips to look for any traces of follicle, but unluckily, none were found.
+> 
+> She looked at the last two remaining bags labeled "blood" and 
