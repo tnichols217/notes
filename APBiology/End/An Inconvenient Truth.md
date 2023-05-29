@@ -8,9 +8,9 @@
 8. The concern with global warming is that this layer of atmosphere is being thickened by the pollution that is being put up there, trapping more of the outgoing infrared radiation, causing the atmosphere to heat up worldwide.
 9. Carbon dioxide levels go up and down once each year because most of the vegetation in the world is North of the equator and so when the Northern hemisphere is tilted toward the sun, photosynthesis (which uses Carbon Dioxide from the air) increases.
 10. Many glaciers all around the world have been retreating or shrinking.
-11. Glaciers are important because _________% of the people in the world get their drinking water from river and spring systems that are fed over 50% by water coming off of the glaciers.
-12. Scientists hope to look at cores of ice to determine how much _________________ was in the atmosphere the year the snow that created that ice fell and look at the isotopes (forms) of oxygen to determine the temperature at that time.
-13. When looking at the ice core data, carbon dioxide and _________________ seem to have a correlation (or they seem to match up).
+11. Glaciers are important because 50% of the people in the world get their drinking water from river and spring systems that are fed over 50% by water coming off of the glaciers.
+12. Scientists hope to look at cores of ice to determine how much CO2 was in the atmosphere the year the snow that created that ice fell and look at the isotopes (forms) of oxygen to determine the temperature at that time.
+13. When looking at the ice core data, carbon dioxide and temperature seem to have a correlation (or they seem to match up).
 14. We have temperature records since the American Civil War. The 10 hottest years in that record are within the last ___________ years.
 15. When the oceans get warmer, this can cause _____________________ storms.
 16. We seem to be having not only more precipitation, but also more of it coming in _____ __________ big storm events.
