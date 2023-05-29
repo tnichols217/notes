@@ -15,7 +15,7 @@
 15. When the oceans get warmer, this can cause bigger storms.
 16. We seem to be having not only more precipitation, but also more of it coming in heavy stronger big storm events.
 17. In 2005, Mumbai, India, had 37.1 inches of rain in 24 hours.
-18. **In** spite of the increased flooding, there have also been increased _________________.
+18. In spite of the increased flooding, there have also been increased heatwaves.
 19. Water evaporation increases with increased temperature.
 20. The Polar ice cap has diminished 40 % in 40 years.
 21. When sunlight hits ice, more than 90% of it is reflected. When sunlight hits water, more than 90% is absorbed.
@@ -24,9 +24,12 @@
 24. Sea-based ice melting will not cause an increase in ocean levels, while land-based ice melting will.
 25. When lakes form in sheets of ice, they create what we call subglacial lakes. The water goes down to the bottom and it lubricates where the ice meets be bedrock.
 26. What are the three biggest factors that Mr. Gore is concerned about causing an environmental problem? Climate Change, Biodiversity, and Pollution
-27. Almost ______% of all the carbon dioxide that goes up each year into the atmosphere comes from forest burning.
+27. Almost 15% of all the carbon dioxide that goes up each year into the atmosphere comes from forest burning.
 28. Mr. Gore lists what he thinks are three questions the public brings to the global warming issue?
-	1. Isn’t there a disagreement among scientists about whether the problem is ____________ or not?
-	2. Don’t we have to choose between the ___________ and the environment?
-	3. If we accept that this problem is real, maybe it’s just too _________ to do anything about.
+	1. Isn’t there a disagreement among scientists about whether the problem is anthropogenic or not?
+	2. Don’t we have to choose between the economy and the environment?
+	3. If we accept that this problem is real, maybe it’s just too difficult to do anything about.
 29. What are three things you can do to help protect the environment?
+    Use more environmentally friendly modes of transport
+    Dont waste energy
+    Dont burn things
