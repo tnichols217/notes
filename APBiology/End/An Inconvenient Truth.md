@@ -11,10 +11,10 @@
 11. Glaciers are important because 50% of the people in the world get their drinking water from river and spring systems that are fed over 50% by water coming off of the glaciers.
 12. Scientists hope to look at cores of ice to determine how much CO2 was in the atmosphere the year the snow that created that ice fell and look at the isotopes (forms) of oxygen to determine the temperature at that time.
 13. When looking at the ice core data, carbon dioxide and temperature seem to have a correlation (or they seem to match up).
-14. We have temperature records since the American Civil War. The 10 hottest years in that record are within the last ___________ years.
-15. When the oceans get warmer, this can cause _____________________ storms.
-16. We seem to be having not only more precipitation, but also more of it coming in _____ __________ big storm events.
-17. In 2005, Mumbai, India, had _____ inches of rain in 24 hours.
+14. We have temperature records since the American Civil War. The 10 hottest years in that record are within the last 14 years.
+15. When the oceans get warmer, this can cause bigger storms.
+16. We seem to be having not only more precipitation, but also more of it coming in heavy stronger big storm events.
+17. In 2005, Mumbai, India, had 37.1 inches of rain in 24 hours.
 18. In spite of the increased flooding, there have also been increased _________________.
 19. _______ evaporation increases with increased temperature.
 20. The Polar ice cap has diminished _________ % in 40 years.
