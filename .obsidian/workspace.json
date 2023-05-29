@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
-    "collapsed": true
+    "width": 390.5
   },
   "right": {
     "id": "ca4cf6357558295d",
@@ -187,8 +186,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4f6fed8de8dc55d8",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "APBiology/End/An Inconvenient Truth.pdf",
     "APBiology/7/Unit 7 BILL.md",
     "APBiology/End/An Inconvenient Truth.md",
     "APBiology/End",
@@ -234,7 +234,6 @@
     "APLit/Q2 The City and The City.md",
     "APLit/Scribble 2.md",
     "BritLit/Quotes.md",
-    "APLit/Things Fall Apart - Exile Q3 Essay.md",
     "church/Untitled.canvas"
   ]
 }

@@ -1,5 +1,5 @@
 1. When was the first picture of the Earth taken from space? 1946
-2. **Within** _______ months of that picture, the modern environmental movement had begun.
+2. Within 6 months of that picture, the modern environmental movement had begun.
 3. The picture of the Earth taken from Apollo 17 on December 11, 1972 is the most commonly published picture in history.
 4. We now believe that the continents of South America and Africa were once joined in a landmass called Pangea.
 5. The most vulnerable part of the Earth’s ecological system is the atmosphere because it is so thin.
