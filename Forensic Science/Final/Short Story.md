@@ -6,4 +6,4 @@
 > 
 > Once the photographer stepped out, Jane disgustedly reentered the crime scene. She stands above the body looking down, searching for any interesting pieces of evidence near the body. She and a fellow investigator walk in circles around each other and the body, with increasing distance between them as they scan the ground for anything that could be of aid. This method of searching allows them to finely comb over the entire scene even if the scene is small. Each strand of hair and fiber were documented and marked on the scene. The photographer then photographed their locations with a small scale from three positions, with three distances for each position before they were packaged in neat little paper envelopes. She attempted to dust for fingerprints on the floor, but was unsuccessful and could not find anything noteworthy.
 > 
-> The next day Jane enters the lab. She examines the 
+> The next day Jane enters the lab. She examines the small paper bags laid out on the table in front of her. First, she takes the bag labeled "fiber". She carefully cut the bottom of the bag to ensure not to break the seal. 
