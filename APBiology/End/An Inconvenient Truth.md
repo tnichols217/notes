@@ -22,8 +22,8 @@
 22. The Earth’s climate is a like a big engine for the redistributing of heat energy from the equator to the poles by the means of ocean and wind currents.
 23. FALSE: A worldwide average temperature increase would increase temperature the same amount in all areas of the world.
 24. Sea-based ice melting will not cause an increase in ocean levels, while land-based ice melting will.
-25. When lakes form in sheets of ice, they create what we call ___________________. The water goes down to the bottom and it lubricates where the ice meets be bedrock.
-26. What are the three biggest factors that Mr. Gore is concerned about causing an environmental problem?
+25. When lakes form in sheets of ice, they create what we call subglacial lakes. The water goes down to the bottom and it lubricates where the ice meets be bedrock.
+26. What are the three biggest factors that Mr. Gore is concerned about causing an environmental problem? Climate Change, Biodiversity, and Pollution
 27. Almost ______% of all the carbon dioxide that goes up each year into the atmosphere comes from forest burning.
 28. Mr. Gore lists what he thinks are three questions the public brings to the global warming issue?
 	1. Isn’t there a disagreement among scientists about whether the problem is ____________ or not?
