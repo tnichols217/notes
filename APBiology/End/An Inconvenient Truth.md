@@ -15,13 +15,13 @@
 15. When the oceans get warmer, this can cause bigger storms.
 16. We seem to be having not only more precipitation, but also more of it coming in heavy stronger big storm events.
 17. In 2005, Mumbai, India, had 37.1 inches of rain in 24 hours.
-18. In spite of the increased flooding, there have also been increased _________________.
-19. _______ evaporation increases with increased temperature.
-20. The Polar ice cap has diminished _________ % in 40 years.
-21. When sunlight hits ice, more than ________% of it is reflected. When sunlight hits water, more than 90% is absorbed.
-22. The Earth’s climate is a like a big engine for the redistributing of _____________ from the equator to the poles by the means of ocean and wind currents.
-23. T or F A worldwide average temperature increase would increase temperature the same amount in all areas of the world.
-24. Sea-based ice melting will ___________ cause an increase in ocean levels, while land-based ice melting will.
+18. **In** spite of the increased flooding, there have also been increased _________________.
+19. Water evaporation increases with increased temperature.
+20. The Polar ice cap has diminished 40 % in 40 years.
+21. When sunlight hits ice, more than 90% of it is reflected. When sunlight hits water, more than 90% is absorbed.
+22. The Earth’s climate is a like a big engine for the redistributing of heat energy from the equator to the poles by the means of ocean and wind currents.
+23. FALSE: A worldwide average temperature increase would increase temperature the same amount in all areas of the world.
+24. Sea-based ice melting will not cause an increase in ocean levels, while land-based ice melting will.
 25. When lakes form in sheets of ice, they create what we call ___________________. The water goes down to the bottom and it lubricates where the ice meets be bedrock.
 26. What are the three biggest factors that Mr. Gore is concerned about causing an environmental problem?
 27. Almost ______% of all the carbon dioxide that goes up each year into the atmosphere comes from forest burning.
