@@ -18,4 +18,8 @@
 > 
 > As the investigation unfolded, Jane discovered a hidden safe in Richard's penthouse, containing documents pointing to embezzlement within the company. The evidence suggested that Victoria had been diverting funds into offshore accounts, leaving Richard in the dark.
 > 
-> Just as Jane was about to confront Victoria, a breakthrough occurred. The forensic analysis revealed that a single hair found at the crime scene matched the characteristics of Michael's. Sarah brought Michael in for questioning, and under pressure, he confessed to being involved in the embezzlement scheme.
+> Just as Jane was about to confront Victoria, a breakthrough occurred. The forensic analysis revealed that a single hair found at the crime scene matched the characteristics of Michael's. Sarah brought Michael in for questioning, and under pressure, he confessed to being involved in the embezzlement scheme. However the fact that the fiber matched those of Victoria's dress remains. 
+> 
+> Further analysis of the hair and fiber evidence revealed a third individual's presence at the crime scene. Jane realized there was another player involved, manipulating the situation from behind the scenes. Jane uncovered a hidden connection between Victoria and Michael. They had been secretly conspiring against Richard, with each suspect believing the other would take the blame. Their plot was to eliminate Richard, obtain his fortune, and disappear together.
+> 
+> Tracing the money from the records found in the safe and combining it with the forensic evidence from the crime scene, Jane 
