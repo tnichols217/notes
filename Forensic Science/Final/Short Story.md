@@ -1,5 +1,6 @@
-
 > [!para]
+> # The murder of Richard Johnston
+> 
 > The sun as poking through the clouds, harshly needling the warm pavement where detective Jane stood. She looked down upon the dead body of Richard Johnston, a successful and well-known businessman. She looks up and sees the condo he habits behind the strong glare of the sun.
 > 
 > The scene was still, unmoving, frozen in the hot sun at most. The scene was taped off to prevent unwanted visitors from disturbing the site. Jane meticulously inquired the few people strolling through the park where the body lay, yet none claim to have seen the act itself. Jane steps out of the scene and begins the crime scene log, ensuring nothing suspicious happens around the murder as the forensic photographer steps in to document the scene.
@@ -22,4 +23,6 @@
 > 
 > Further analysis of the hair and fiber evidence revealed a third individual's presence at the crime scene. Jane realized there was another player involved, manipulating the situation from behind the scenes. Jane uncovered a hidden connection between Victoria and Michael. They had been secretly conspiring against Richard, with each suspect believing the other would take the blame. Their plot was to eliminate Richard, obtain his fortune, and disappear together.
 > 
-> Tracing the money from the records found in the safe and combining it with the forensic evidence from the crime scene, Jane begins building the case against Victoria and Michael. Using phone records and email history, they finally put enough evidence together to incriminate Victoria and Michael.
+> Tracing the money from the records found in the safe and combining it with the forensic evidence from the crime scene, Jane begins building the case against Victoria and Michael. Using phone records and email history, they finally put enough evidence together to incriminate Victoria and Michael. In the end, justice prevailed, and Victoria and Michael were charged with Richard's murder and the financial crimes they had committed.
+> 
+> # The End.
