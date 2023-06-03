@@ -97,6 +97,15 @@ AA
 ```
 ````
 
+````col
+```col-md
+![[loop.png]]
+```
+```col-md
+![[loop.png]]
+```
+````
+
 > [!col]
 > > [!col-md]
 > > aa
