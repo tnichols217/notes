@@ -85,12 +85,14 @@ console.log(msg)
 >> This column is now 3 times the width of the first column
 
 ````col
+textAlign=right
+===
 ```col-md
+textAlign=center
+===
 AA
 ```
 ```col-md
-textAlign=end
-===
 AA
 ```
 ````
