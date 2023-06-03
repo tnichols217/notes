@@ -99,12 +99,20 @@ AA
 
 ````col
 ```col-md
+aa
 ![[loop.png]]
 ```
 ```col-md
+aa
 ![loop.png](loop.png)
 ```
 ````
+
+aa
+![loop.png](loop.png)
+
+aa
+
 
 > [!col]
 > > [!col-md]
