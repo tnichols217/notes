@@ -102,7 +102,7 @@ AA
 ![[loop.png]]
 ```
 ```col-md
-![[loop.png]]
+![loop.png](loop.png)
 ```
 ````
 
