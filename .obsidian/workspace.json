@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "48be91c1ba7e3563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-columns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c1110556191ce1d3",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forensic Science/Final/Short Story.md"
+                "file": "obsidian-columns.md"
               }
             }
           }
@@ -140,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ca4cf6357558295d",
@@ -165,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forensic Science/Final/Short Story.md",
+                "file": "obsidian-columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,14 +218,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4981c8bc0fb1832a",
+  "active": "48be91c1ba7e3563",
   "lastOpenFiles": [
+    "Forensic Science/Final/Short Story.md",
     "Forensic Science/Final/Short Story.pdf",
     "APBiology/End/An Inconvenient Truth.md",
     "APBiology/End/An Inconvenient Truth.pdf",
     "APBiology/7/Unit 7 BILL.md",
     "APBiology/End",
-    "Forensic Science/Final/Short Story.md",
     "APBiology/7/Notes/Doodle Notes/10 - Speciation.md",
     "APBiology/7/Notes/Doodle Notes/10 - Speciation/10 - Speciation - 3.png",
     "APBiology/7/Notes/Doodle Notes/10 - Speciation/10 - Speciation.png",
@@ -247,7 +258,6 @@
     "APBiology/6/Notes/Labs/attachments",
     "APBiology/6/Notes/Flash Talk/Prokaryotic Gene Regulation.md",
     "APBiology/6/Notes/Flash Talk/FlashTalk.mov",
-    "APBiology/6/Notes/Flash Talk/FlashTalkAudio.mp3",
     "APBiology/8/Unit 8 BILL.md",
     "Forensic Science/Chapter 2/Evidence Classification.md",
     "Spiritual DIsciplines/Book Report 2.md",
