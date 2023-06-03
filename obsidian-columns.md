@@ -112,7 +112,7 @@ aa
 ![loop.png](loop.png)
 
 aa
-
+![[loop.png]]
 
 > [!col]
 > > [!col-md]
