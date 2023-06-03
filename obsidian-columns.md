@@ -13,6 +13,7 @@ flexGrow=1
 >>  - example MD code
 >>  - more stuff
 ``````
+===
 ``````col-md
 flexGrow=2.5
 ===
