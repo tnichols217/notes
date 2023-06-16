@@ -1443,6 +1443,18 @@
                 }
               },
               {
+                "id": "48be91c1ba7e3563",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian-columns.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "c1110556191ce1d3",
                 "type": "leaf",
                 "state": {
@@ -1455,7 +1467,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "vertical"
@@ -1507,7 +1519,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Forensic Science/Final/Short Story.md"
+                    "file": "obsidian-columns.md"
                   }
                 }
               }
@@ -1515,8 +1527,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 300,
-        "collapsed": true
+        "width": 300
       },
       "right": {
         "id": "ca4cf6357558295d",
@@ -1540,7 +1551,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Forensic Science/Final/Short Story.md",
+                    "file": "obsidian-columns.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -1582,7 +1593,7 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "4981c8bc0fb1832a"
+      "active": "48be91c1ba7e3563"
     },
     "ap lit": {
       "main": {
@@ -1769,5 +1780,5 @@
       "active": "4a525f6e31ce8430"
     }
   },
-  "active": "forensic science"
+  "active": "college"
 }
