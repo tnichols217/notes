@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "5191cbe3b8597469",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "448e16bb4749c573",
             "type": "leaf",
             "state": {
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,6 +127,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "8bdcf67e9ec56c08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -206,7 +224,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5bd8fff90087897a",
+  "active": "5191cbe3b8597469",
   "lastOpenFiles": [
     "Private/college/RD/Checklist.pdf",
     "Private/college/Expenses.md",
