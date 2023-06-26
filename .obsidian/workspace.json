@@ -49,19 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/college/RD/Checklist.md",
+                "file": "college/Writing Seminar.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5191cbe3b8597469",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
               }
             }
           },
@@ -90,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/RD/Checklist.md"
+                "file": "college/Writing Seminar.md"
               }
             }
           }
@@ -182,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/RD/Checklist.md",
+                "file": "college/Writing Seminar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,8 +214,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5191cbe3b8597469",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "Private/college/RD/Checklist.md",
+    "college/Writing Seminar.md",
     "Private/college/RD/Checklist.pdf",
     "Private/college/Expenses.md",
     "obsidian-columns.md",
@@ -266,12 +258,10 @@
     "APBiology/6/Notes/Labs/1 - DNA, Proteins, and Protein Folding.md",
     "APBiology/6/Notes/Labs/attachments",
     "APBiology/6/Notes/Flash Talk/Prokaryotic Gene Regulation.md",
-    "APBiology/6/Notes/Flash Talk/FlashTalk.mov",
     "APBiology/8/Unit 8 BILL.md",
     "Forensic Science/Chapter 2/Evidence Classification.md",
     "Spiritual DIsciplines/Book Report 2.md",
     "ChristAndCulture/Final.md",
-    "APLit/Q2 The City and The City.md",
     "church/Untitled.canvas"
   ]
 }
