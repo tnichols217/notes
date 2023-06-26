@@ -3,6 +3,7 @@
 
 - people claim they know how to multitask
 	- Leads to reduction in concentration of both tasks
+- Most people use their phones at social gatherings, yet most people also said phones hurt social gatherings
 - 
 
 > [!para]
