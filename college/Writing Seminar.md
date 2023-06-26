@@ -18,4 +18,4 @@
 > 
 > Another growing problem with the modern generation is the idea of Dopamine addiction. On the topic of the presence of phones, Turkle states "You can put your attention wherever you want it to be. You can always be heard. You never have to be bored." The idea that entertainment and dopamine is readily available at any time essentially destructs any attention span that the modern generation may have. This similar degradation in attention length has similar effects of not giving your full attention when "multitasking" and similarly decreases conversation quality.
 > 
-> The statistics that Turkle provides on both usage of phones 
+> The statistics that Turkle provides on both usage of phones during social gatherings and their opinions on 
