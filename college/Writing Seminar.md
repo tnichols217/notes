@@ -10,4 +10,7 @@
 > - Decreased conversation quality leads to a decrease in empathy
 
 > [!para]
-> This except from Sherry Turkle's "Stop Googling. Let's Talk" outlines the various effects of the usage of phones during face-to-face conversations. Turkle claims that the usage of phones during face-to-face conversation decreases the quality of the in-person conversation, which in turn prevents the topic of conversation from ever diving any deeper than surface level. She argues that this is due to people incorrectly believing that they have the ability to multitask by both participating in the conversation whilst being active on their phone. This reduction in concentra
+> # 
+> This except from Sherry Turkle's "Stop Googling. Let's Talk" outlines the various effects of the usage of phones during face-to-face conversations. Turkle claims that the usage of phones during face-to-face conversation decreases the quality of the in-person conversation, which in turn prevents the topic of conversation from ever diving any deeper than surface level. She argues that this is due to people incorrectly believing that they have the ability to multitask by both participating in the conversation whilst being active on their phone. This reduction in concentration on the physical conversation leads to the decrease in quality. 
+> 
+> 
