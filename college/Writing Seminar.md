@@ -10,4 +10,4 @@
 > - Decreased conversation quality leads to a decrease in empathy
 
 > [!para]
-> 
+> This except from Sherry Turk
