@@ -5,6 +5,8 @@
 	- Leads to reduction in concentration of both tasks
 - Most people use their phones at social gatherings, yet most people also said phones hurt social gatherings
 - Reduction of time on phone during conversation improves face to face conversation quality
+- The presence of a phone disconnects people and keeps conversation topics light
+- Decreased conversation quality leads to a decrease in empathy
 - 
 
 > [!para]
