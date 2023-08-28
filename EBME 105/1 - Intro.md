@@ -71,4 +71,5 @@ Development process:
 	- Targeted medicines
 - Big data and analytical medicines
 - Imaging and better representations for research
-- Neural interfaces
+- Neural (or Brain Computer) interfaces
+- 
