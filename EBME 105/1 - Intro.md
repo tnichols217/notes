@@ -41,4 +41,5 @@ Development process:
 7. Validation
 
 # What is BME
-- Application of multiple fields of engineering to understand and solve bio
+- Application of multiple fields of engineering to understand and solve biological processes and problems
+- Works in intersection
