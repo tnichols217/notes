@@ -111,8 +111,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28c69e3aca2b1263",
@@ -199,8 +198,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "28942e6507e0526e",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "Chem 111",
     "college/Stop Googling Lets Talk.md",
     "Calc 3/1 - Vectors.md",
     "Calc 3",
@@ -246,7 +246,6 @@
     "APBiology/6/Notes/Labs/1 - DNA, Proteins, and Protein Folding.md",
     "APBiology/6/Notes/Flash Talk/Prokaryotic Gene Regulation.md",
     "APBiology/8/Unit 8 BILL.md",
-    "Forensic Science/Chapter 2/Evidence Classification.md",
     "church/Untitled.canvas"
   ]
 }
