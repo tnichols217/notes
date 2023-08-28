@@ -33,4 +33,5 @@ date created: 2023-08-28 09:52
 	1. $\vec{v}=\begin{bmatrix}a\\b\end{bmatrix}$
 	   $c\vec{v}=\begin{bmatrix}ca\\cb\end{bmatrix}$
 	2. If $c$ is negative, the direction of the vector flips and the magnitude multiplies by $c$
-3. Subtraction of vectors is the same o
+3. Subtraction of vectors is the same as addition, except the second operand is negated
+	1. $\vec{v}-\vec{w} = \vec{}
