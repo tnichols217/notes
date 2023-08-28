@@ -5,7 +5,9 @@
 
 >[!col]
 >> [!col-md]
->> #Scalars
+>> # Scalars
+>> Effectively just real numbers
+>> Single property: m
 >
 >> [!col-md]
 >> # Vectors
