@@ -42,4 +42,7 @@ date created: 2023-08-28 09:52
 Most commonly, for 3D space we follow the right hand rule. on your right hand when your hand curls it moves from $x$ to $y$, and when your thumb points up, that is $z$
 
 ## The Origin
-The origin is the point at which all 
+The origin is the point at which all components of the vector is zero.
+All axes and coordinate planes pass through the origin.
+
+## Coordinate Planes
