@@ -6,3 +6,5 @@ All chemicals have a strong structure function connection, where structure direc
 A machine that can measure intensities of the colors of the visual spectrum
 
 ## X-ray Spectroscopy
+See the electronic structure of molecules by using X-rays.
+It can measure where and 
