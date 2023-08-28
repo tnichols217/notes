@@ -15,7 +15,7 @@ date created: 2023-08-28 09:52
 > >
 > > # Vectors
 > >
-> > Described by two properties: magnitude and direction
+> > Described by two properties: **magnitude** and **direction**
 > > Forces are described by vectors, with direction and magnitude
 > > Shown with $\vec{AB} = <x_1 - x_0, y_1 - y_0>$
 
@@ -27,4 +27,4 @@ date created: 2023-08-28 09:52
 3. Vectors of the same components are equal, even if the initial points are different
 
 # Operations with Vectors
-1. Addition
+1. Addition is simply the 
