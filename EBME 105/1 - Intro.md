@@ -39,4 +39,3 @@ Development process:
 5. System Architechture
 6. Verification
 7. Validation
-
