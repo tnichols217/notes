@@ -72,4 +72,4 @@ Development process:
 - Big data and analytical medicines
 - Imaging and better representations for research
 - Neural (or Brain Computer) interfaces
-- 
+- Wearable Devices
