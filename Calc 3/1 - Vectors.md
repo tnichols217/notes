@@ -8,4 +8,4 @@
 >> # Vectors
 >> Described by two properties: magnitude and direction
 >> Forces are described by vectors, with direction and magnitude
->> Shown with $\arrow{A}$
+>> Shown with $\vector{AB} = <x_1 - x_0 - >$
