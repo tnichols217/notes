@@ -69,4 +69,6 @@ Development process:
 - Robotics and assistive technology
 - Smart drugs
 	- Targeted medicines
-- Big data and analytical 
+- Big data and analytical medicines
+- Imaging and better representations for research
+- Neural interfaces
