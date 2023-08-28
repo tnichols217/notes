@@ -30,7 +30,7 @@ date updated: 2023-08-28 15:35
 > [!idea]
 > Learn enough about BME to know if it is feasible as a career for me
 
-# Design Project Requirements
+## Design Project Requirements
 Development process:
 1. Team Contract
 2. User Need
@@ -40,7 +40,7 @@ Development process:
 6. Verification
 7. Validation
 
-# What is BME
+# What is BME?
 - Application of multiple fields of engineering to understand and solve biological processes and problems
 - Works in intersection with
 	1. Mechanical
@@ -58,11 +58,12 @@ Development process:
 	- Improvement in assistive technologies (imaging, modelling)
 	- More older people
 
-# Engineering History
+## Engineering History
 1. Civil Engineering - building shit for society
 2. Mechanical Engineering - making and designing physical things, started because of steam power
 3. Electrical Engineering - Studying the flow of electrons to solve issues
 4. Chemical Engineering - Making fluids, chemicals, solvents to solve different problems
 6. Biomedical Engineering - Combining literally everything else to solve problems in the body
 
-# Wh
+# Where is BME going?
+- Robotics
