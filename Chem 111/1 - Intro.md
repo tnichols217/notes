@@ -10,4 +10,4 @@ See the electronic structure of molecules by using X-rays.
 It can measure where electrons are and move to when excited.
 
 # Dimensional Analysis
-If we know that $
+If we know that $1\text{yard}=3\text{feet}$. Then we 
