@@ -43,9 +43,17 @@ Development process:
 # What is BME
 - Application of multiple fields of engineering to understand and solve biological processes and problems
 - Works in intersection with
+	1. Mechanical
+	2. Electrical
+	3. Computer Science
+- Also includes
+	1. Anattomy
+	2. Physiology
+	3. Biology
+	4. Ch
 
 # Engineering History
 1. Civil Engineering - building shit
 2. Mechanical Engineering - making physical things work
 3. Electrical Engineering - Studying the flow of electrons to solve issues
-4. Biomedical Engineering - Combining literally everything else to solve problems 
+4. Biomedical Engineering - Combining literally everything else to solve problems in the body
