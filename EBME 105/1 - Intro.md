@@ -54,7 +54,7 @@ Development process:
 	5. Mathematics
 
 # Engineering History
-1. Civil Engineering - building shit
+1. Civil Engineering - building shit for society
 2. Mechanical Engineering - making physical things work
 3. Electrical Engineering - Studying the flow of electrons to solve issues
 4. Biomedical Engineering - Combining literally everything else to solve problems in the body
