@@ -7,7 +7,9 @@
 >> [!col-md]
 >> # Scalars
 >> Effectively just real numbers
->> Single property: m
+>> Single property: magnitude or length
 >
 >> [!col-md]
 >> # Vectors
+>> Described by two properties: magnitude and direction
+>> Forces a
