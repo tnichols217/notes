@@ -39,4 +39,5 @@ date created: 2023-08-28 09:52
 
 # Vectors in 3D space
 ## Right hand rule
-Most commonly, for 3D space we follow the right hand rule. on your right hand when your hand curls it moves from x to y, and when your thumb points up, th
+Most commonly, for 3D space we follow the right hand rule. on your right hand when your hand curls it moves from $x$ to $y$, and when your thumb points up, that is $z$
+
