@@ -14,4 +14,4 @@ If we know that $1\text{yard}=3\text{feet}$. Then we can create a fraction that 
 $1=\frac{1\text{yard}}{3\text{feet}}=\frac{3\text{feet}}{1\text{yard}}$
 
 # Density and Temperature
-De
+$\text{Density}=\frac{\text{Mass}}{\text{Volume}}$
