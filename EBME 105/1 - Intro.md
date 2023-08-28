@@ -12,4 +12,6 @@
 4. Have a basic understanding of subtopics:
 	1. Biomaterials
 	2. Biomechanics
-	3. Biomedical 
+	3. Biomedical Devices and instrumentation
+	4. Biomedical computing and analysis
+5. Apply the concepts in 3 to  4
