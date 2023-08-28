@@ -1,4 +1,4 @@
-| Scalars                    | Vectors |
-| -------------------------- | ------- |
-| Real Numbers               |         |
-| Single value, an intensity | Multiple         |
+| Scalars                    | Vectors                                          |
+| -------------------------- | ------------------------------------------------ |
+| Real Numbers               |                                                  |
+| Single value, an intensity | Described by two values: magnitude and direction | 
