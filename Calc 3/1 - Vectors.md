@@ -46,4 +46,5 @@ The origin is the point at which all components of the vector is zero.
 All axes and coordinate planes pass through the origin.
 
 ## Coordinate Planes
-A coordinate plane of two axes consists of all points that can be made 
+A coordinate plane of two axes consists of all points that can be made by scaling and adding those two axes.
+The plane does not extend into any other axis, so all components of other axes are 0
