@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APMusicTheory/First Inversion Triads.md",
+                "file": "Chem 111/1 - Intro.md",
                 "mode": "preview",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APMusicTheory/First Inversion Triads.md"
+                "file": "Chem 111/1 - Intro.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APMusicTheory/First Inversion Triads.md",
+                "file": "Chem 111/1 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +155,7 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "APMusicTheory/First Inversion Triads.md",
     "APMusicTheory/Intervals in the bass.md",
     "APMusicTheory/Seventh Chords.md",
     "EBME 105/1 - Intro.md",
@@ -200,7 +201,6 @@
     "APBiology/6/Unit 6 BILL.md",
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparitive Genomics - 1.png",
     "APBiology/7/Notes/Doodle Notes/10 - Comparison Genomics.md",
-    "APBiology/8/Notes/Worksheets/3 - Elephants 3.md",
     "church/Untitled.canvas"
   ]
 }
