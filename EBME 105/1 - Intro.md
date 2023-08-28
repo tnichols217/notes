@@ -55,7 +55,8 @@ Development process:
 - Relatively new field, so there is a lot of investment and research being poured into it
 	- More often devices are used to medicine now
 	- More deterministic and applicable than chemical medicines
-	- Improvement in assistive technologie
+	- Improvement in assistive technologies (imaging, modelling)
+	- More older people
 
 # Engineering History
 1. Civil Engineering - building shit for society
