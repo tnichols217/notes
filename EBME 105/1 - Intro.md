@@ -8,4 +8,8 @@
 	1. Scientists
 	2. Engineers
 	3. Clinicians
-3. 
+3. 3
+4. Have a basic understanding of subtopics:
+	1. Biomaterials
+	2. Biomechanics
+	3. Biomedical 
