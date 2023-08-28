@@ -46,3 +46,4 @@ The origin is the point at which all components of the vector is zero.
 All axes and coordinate planes pass through the origin.
 
 ## Coordinate Planes
+A coordinate plane of two 
