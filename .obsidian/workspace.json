@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "college/Stop Googling Lets Talk.md",
+                "file": "Calc 3/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "college/Stop Googling Lets Talk.md"
+                "file": "Calc 3/Untitled.md"
               }
             }
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "college/Stop Googling Lets Talk.md",
+                "file": "Calc 3/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,14 +193,18 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "college/Stop Googling Lets Talk.md",
+    "Calc 3/Untitled.md",
+    "Calc 3",
     "college/Stop Googling Lets Talk.pdf",
     "college/Writing Seminar.md",
-    "college/Stop Googling Lets Talk.md",
     "college/Writing Seminar.pdf",
     "Private/college/RD/Checklist.md",
     "Private/college/RD/Checklist.pdf",
@@ -234,8 +238,6 @@
     "APBiology/7/Notes/Doodle Notes/10 - Speciation",
     "APBiology/7/Documents/Doodle Notes/10 - Speciation.pdf",
     "APBiology/7/Documents/Doodle Notes/8 - Comparison Genomics (KEY).pdf",
-    "APBiology/7/Documents/Doodle Notes/8 - Comparison Genomics.pdf",
-    "APBiology/7/Documents/Doodle Notes/Speciation DNotes.pdf",
     "APBiology/6/Unit 6 BILL.md",
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparitive Genomics - 1.png",
     "APBiology/7/Notes/Doodle Notes/10 - Comparison Genomics.md",
