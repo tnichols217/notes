@@ -25,4 +25,6 @@ date created: 2023-08-28 09:52
 2. Has a **magnitude**, the length of the vector or the distance between the two points
    1. Can be calculated by using Pythagoras across the terminus
 3. Vectors of the same components are equal, even if the initial points are different
-4. 
+
+# Operations with Vectors
+1. Addition
