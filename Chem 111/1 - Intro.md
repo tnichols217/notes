@@ -19,4 +19,5 @@ Temperature is the average kinetic energy within the substance, always use $K$
 
 # Sigfigs
 Leading 0's do not count towards sigfigs
-Captive zeroes 
+Captive zeroes do count towards sigfis
+Trailing 0's are significant if there is a decimal point, if not it
