@@ -32,5 +32,5 @@ date created: 2023-08-28 09:52
 2. Multiplication with a scalar just multiplies each component by the scalar
 	1. $\vec{v}=\begin{bmatrix}a\\b\end{bmatrix}$
 	   $c\vec{v}=\begin{bmatrix}ca\\cb\end{bmatrix}$
-	2. If c is negative, the direction of the vector flips
+	2. If c is negative, the direction of the vector flips and the magnitude multiplies by $c$
 3. 
