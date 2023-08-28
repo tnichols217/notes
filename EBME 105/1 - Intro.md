@@ -45,7 +45,7 @@ Development process:
 - Works in intersection with
 
 # Engineering History
-1. Civil Engineering
-2. Mechanical Engineering
-3. Electrical Engineering
-4. Biomedical Engineering
+1. Civil Engineering - building shit
+2. Mechanical Engineering - making physical things work
+3. Electrical Engineering - Studying the flow of electrons to solve issues
+4. Biomedical Engineering - Combining literally everything else to solve problems 
