@@ -36,4 +36,7 @@ date created: 2023-08-28 09:52
 	2. If $c$ is negative, the direction of the vector flips and the magnitude multiplies by $c$
 3. Subtraction of vectors is the same as addition, except the second operand is negated
 	1. $\vec{v}-\vec{w} = \vec{v}+(-\vec{w})$
-4. 
+
+# Vectors in 3D space
+## Right hand rule
+Most commonly, for 3D spa
