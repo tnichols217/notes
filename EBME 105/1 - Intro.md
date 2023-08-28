@@ -19,4 +19,7 @@
 	3. Biomedical Devices and instrumentation
 	4. Biomedical computing and analysis
 5. Apply the concepts in 3 to fields in 4
-6. Understand if BME
+6. Understand if BME is an area of interest for me
+
+>[!idea]
+> Learn enoug
