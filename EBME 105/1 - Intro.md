@@ -57,5 +57,6 @@ Development process:
 1. Civil Engineering - building shit for society
 2. Mechanical Engineering - making and designing physical things, started because of steam power
 3. Electrical Engineering - Studying the flow of electrons to solve issues
-4. Biomedical Engineering - Combining literally everything else to solve problems in the body
+4. Chemical Engineering - Making fluids, chemicals, solvents to solve different problems
+6. Biomedical Engineering - Combining literally everything else to solve problems in the body
 
