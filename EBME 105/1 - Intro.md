@@ -34,4 +34,8 @@ date updated: 2023-08-28 15:35
 Development process:
 1. Team Contract
 2. User Need
-3. Brainstorming and Comn
+3. Brainstorming and Concept Generation
+4. Concept Selection
+5. System Architechture
+6. Verification
+7. Validation
