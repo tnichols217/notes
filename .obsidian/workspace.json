@@ -111,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -198,7 +199,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5bd8fff90087897a",
+  "active": "28942e6507e0526e",
   "lastOpenFiles": [
     "college/Stop Googling Lets Talk.md",
     "Calc 3/1 - Vectors.md",

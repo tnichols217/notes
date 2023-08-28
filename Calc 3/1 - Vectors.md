@@ -1,8 +1,3 @@
-| Scalars                    | Vectors                                          |
-| -------------------------- | ------------------------------------------------ |
-| Real Numbers               |                                                  |
-| Single value, an intensity | Described by two values: magnitude and direction | 
-
 >[!col]
 >> [!col-md]
 >> # Scalars
@@ -12,4 +7,4 @@
 >> [!col-md]
 >> # Vectors
 >> Described by two properties: magnitude and direction
->> Forces a
+>> Forces are described by vectors, with direction and magnitude
