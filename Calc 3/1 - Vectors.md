@@ -24,5 +24,5 @@ date created: 2023-08-28 09:52
 1. Has an **initial point** and **terminal point**, where the vector starts and ends
 2. Has a **magnitude**, the length of the vector or the distance between the two points
    1. Can be calculated by using Pythagoras across the terminus
-3. Vectors of the same components are equal, even if the initial points 
-are different
+3. Vectors of the same components are equal, even if the initial points are different
+4. 
