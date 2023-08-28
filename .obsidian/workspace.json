@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APMusicTheory/Seventh Chords.md",
+                "file": "APMusicTheory/First Inversion Triads.md",
                 "mode": "preview",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APMusicTheory/Seventh Chords.md"
+                "file": "APMusicTheory/First Inversion Triads.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APMusicTheory/Seventh Chords.md",
+                "file": "APMusicTheory/First Inversion Triads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +155,8 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "APMusicTheory/Intervals in the bass.md",
+    "APMusicTheory/Seventh Chords.md",
     "EBME 105/1 - Intro.md",
     "Chem 111/1 - Intro.md",
     "EBME 105",
@@ -199,8 +201,6 @@
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparitive Genomics - 1.png",
     "APBiology/7/Notes/Doodle Notes/10 - Comparison Genomics.md",
     "APBiology/8/Notes/Worksheets/3 - Elephants 3.md",
-    "APBiology/6/Notes/Labs/1 - DNA, Proteins, and Protein Folding.md",
-    "APBiology/6/Notes/Flash Talk/Prokaryotic Gene Regulation.md",
     "church/Untitled.canvas"
   ]
 }
