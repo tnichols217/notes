@@ -9,10 +9,14 @@
 	2. Engineers
 	3. Clinicians
 3. Have a basic understanding of:
-	1. 
+	1. Engineering design
+	2. Structure-function relationships
+	3. Biomimicry
+	4. Biocompatibility
 4. Have a basic understanding of subtopics:
 	1. Biomaterials
 	2. Biomechanics
 	3. Biomedical Devices and instrumentation
 	4. Biomedical computing and analysis
-5. Apply the concepts in 3 to  fields in 4
+5. Apply the concepts in 3 to fields in 4
+6. Understand if BME
