@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EBME 105/1 - Intro.md",
+                "file": "APMusicTheory/Seventh Chords.md",
                 "mode": "preview",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EBME 105/1 - Intro.md"
+                "file": "APMusicTheory/Seventh Chords.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EBME 105/1 - Intro.md",
+                "file": "APMusicTheory/Seventh Chords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,8 +155,8 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
-    "Chem 111/1 - Intro.md",
     "EBME 105/1 - Intro.md",
+    "Chem 111/1 - Intro.md",
     "EBME 105",
     "Math 223/1 - Vectors.md",
     "Chem 111",
