@@ -7,4 +7,5 @@ A machine that can measure intensities of the colors of the visual spectrum
 
 ## X-ray Spectroscopy
 See the electronic structure of molecules by using X-rays.
-It can measure where and 
+It can measure where electrons are and move to when excited.
+
