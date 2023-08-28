@@ -53,6 +53,8 @@ Development process:
 	4. Chemistry
 	5. Mathematics
 - Relatively new field, so there is a lot of investment and research being poured into it
+	- More often devices are used to medicine now
+	- More determ
 
 # Engineering History
 1. Civil Engineering - building shit for society
