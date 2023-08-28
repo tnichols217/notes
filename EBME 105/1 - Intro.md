@@ -8,10 +8,11 @@
 	1. Scientists
 	2. Engineers
 	3. Clinicians
-3. 3
+3. Have a basic understanding of:
+	1. 
 4. Have a basic understanding of subtopics:
 	1. Biomaterials
 	2. Biomechanics
 	3. Biomedical Devices and instrumentation
 	4. Biomedical computing and analysis
-5. Apply the concepts in 3 to  4
+5. Apply the concepts in 3 to  fields in 4
