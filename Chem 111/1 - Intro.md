@@ -9,3 +9,5 @@ A machine that can measure intensities of the colors of the visual spectrum
 See the electronic structure of molecules by using X-rays.
 It can measure where electrons are and move to when excited.
 
+# Dimensional Analysis
+If we know that $
