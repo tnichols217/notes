@@ -29,7 +29,7 @@ date created: 2023-08-28 09:52
 # Operations with Vectors
 1. Addition is simply the sum of the components of the vector
 	1. The same as putting the tail onto the head of the other and drawing the vector from the first head to the last tail
-	2. $\vec{v}=\begin{bmatrix}a\\b\end{bmatrix}, \vec{w}=\begin{bmatrix}a\\b\end{bmatrix}
+	2. $\vec{v}=\begin{bmatrix}a\\b\end{bmatrix}, \vec{w}=\begin{bmatrix}a\\b\end{bmatrix}$
 2. Multiplication with a scalar just multiplies each component by the scalar
 	1. $\vec{v}=\begin{bmatrix}a\\b\end{bmatrix}$
 	   $c\vec{v}=\begin{bmatrix}ca\\cb\end{bmatrix}$
@@ -41,3 +41,5 @@ date created: 2023-08-28 09:52
 ## Right hand rule
 Most commonly, for 3D space we follow the right hand rule. on your right hand when your hand curls it moves from $x$ to $y$, and when your thumb points up, that is $z$
 
+## The Origin
+The origin is the point at which all 
