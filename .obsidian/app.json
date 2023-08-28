@@ -19,8 +19,6 @@
     "Sus",
     "M7M"
   ],
-  "spellcheckLanguages": [
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "alwaysUpdateLinks": true
 }
