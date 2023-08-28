@@ -31,3 +31,7 @@ date updated: 2023-08-28 15:35
 > Learn enough about BME to know if it is feasible as a career for me
 
 # Design Project Requirements
+Development process:
+1. Team Contract
+2. User Need
+3. Brainstorming and Comn
