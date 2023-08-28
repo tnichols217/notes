@@ -12,5 +12,6 @@
 
 ## Properties
 1. Has an **initial point** and **terminal point**, where the vector starts and ends
-2. 
+2. Has a **magnitude**, the length of the vector or the distance between the two points
+	1. Can be calculated by the 
 3. 
