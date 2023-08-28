@@ -5,4 +5,4 @@ All chemicals have a strong structure function connection, where structure direc
 ## UV/Vis
 A machine that can measure intensities of the colors of the visual spectrum
 
-## X-ray Spe
+## X-ray Spectroscopy
