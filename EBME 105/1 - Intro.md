@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-28 15:30
-date updated: 2023-08-28 15:35
+date updated: 2023-08-28 17:10
 ---
 
 # Learning Objectives
@@ -31,7 +31,9 @@ date updated: 2023-08-28 15:35
 > Learn enough about BME to know if it is feasible as a career for me
 
 ## Design Project Requirements
+
 Development process:
+
 1. Team Contract
 2. User Need
 3. Brainstorming and Concept Generation
@@ -41,34 +43,37 @@ Development process:
 7. Validation
 
 # What is BME?
+
 - Application of multiple fields of engineering to understand and solve biological processes and problems
 - Works in intersection with
-	1. Mechanical
-	2. Electrical
-	3. Computer Science
+  1. Mechanical
+  2. Electrical
+  3. Computer Science
 - Also includes
-	1. Anattomy
-	2. Physiology
-	3. Biology
-	4. Chemistry
-	5. Mathematics
+  1. Anattomy
+  2. Physiology
+  3. Biology
+  4. Chemistry
+  5. Mathematics
 - Relatively new field, so there is a lot of investment and research being poured into it
-	- More often devices are used to medicine now
-	- More deterministic and applicable than chemical medicines
-	- Improvement in assistive technologies (imaging, modelling)
-	- More older people
+  - More often devices are used to medicine now
+  - More deterministic and applicable than chemical medicines
+  - Improvement in assistive technologies (imaging, modelling)
+  - More older people
 
 ## Engineering History
+
 1. Civil Engineering - building shit for society
 2. Mechanical Engineering - making and designing physical things, started because of steam power
 3. Electrical Engineering - Studying the flow of electrons to solve issues
 4. Chemical Engineering - Making fluids, chemicals, solvents to solve different problems
-6. Biomedical Engineering - Combining literally everything else to solve problems in the body
+5. Biomedical Engineering - Combining literally everything else to solve problems in the body
 
 # Where is BME going?
+
 - Robotics and assistive technology
 - Smart drugs
-	- Targeted medicines
+  - Targeted medicines
 - Big data and analytical medicines
 - Imaging and better representations for research
 - Neural (or Brain Computer) interfaces
