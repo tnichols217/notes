@@ -66,4 +66,7 @@ Development process:
 6. Biomedical Engineering - Combining literally everything else to solve problems in the body
 
 # Where is BME going?
-- Robotics
+- Robotics and assistive technology
+- Smart drugs
+	- Targeted medicines
+- Big data and analytical 
