@@ -4,3 +4,5 @@ All chemicals have a strong structure function connection, where structure direc
 # Energy of Excitation
 ## UV/Vis
 A machine that can measure intensities of the colors of the visual spectrum
+
+## X-ray Spe
