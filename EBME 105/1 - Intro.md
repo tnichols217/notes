@@ -50,10 +50,12 @@ Development process:
 	1. Anattomy
 	2. Physiology
 	3. Biology
-	4. Ch
+	4. Chemistry
+	5. Mathematics
 
 # Engineering History
 1. Civil Engineering - building shit
 2. Mechanical Engineering - making physical things work
 3. Electrical Engineering - Studying the flow of electrons to solve issues
 4. Biomedical Engineering - Combining literally everything else to solve problems in the body
+
