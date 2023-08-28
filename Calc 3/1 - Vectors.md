@@ -30,4 +30,5 @@ date created: 2023-08-28 09:52
 1. Addition is simply the sum of the components of the vector
 	1. The same as putting the tail onto the head of the other and drawing the vector from the first head to the last tail
 2. Multiplication with a scalar just multiplies each component by the scalar
-	1. $\vec{v}=<a,$
+	1. $\vec{v}=<a, b>$
+	   
