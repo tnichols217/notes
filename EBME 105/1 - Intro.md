@@ -4,4 +4,8 @@
 	2. Designed
 	3. Fabricated
 	4. Used
-2. Learn the difference between how med
+2. Learn the difference between how med tech is interacted with by:
+	1. Scientists
+	2. Engineers
+	3. Clinicians
+3. 
