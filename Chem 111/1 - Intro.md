@@ -16,3 +16,5 @@ $1=\frac{1\text{yard}}{3\text{feet}}=\frac{3\text{feet}}{1\text{yard}}$
 # Density and Temperature
 $\text{Density}=\frac{\text{Mass}}{\text{Volume}}$
 Temperature is the average kinetic energy within the substance, always use $K$
+
+# Making Measurements
