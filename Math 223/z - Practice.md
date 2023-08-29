@@ -1,4 +1,4 @@
-$\int_0^1\cos{(\frac{\pi}{3}(t+2))}dt$
+$\int\cos{(\frac{\pi}{3}(t+2))}dt|_0^2$
 $u=t+2$
 $du=dt$
 \int_
