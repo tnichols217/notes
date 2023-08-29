@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 111/1 - Intro.md",
+                "file": "EBME 105/1 - Intro.md",
                 "mode": "preview",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chem 111/1 - Intro.md"
+                "file": "EBME 105/1 - Intro.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem 111/1 - Intro.md",
+                "file": "EBME 105/1 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,11 +155,11 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "Chem 111/1 - Intro.md",
     "APMusicTheory/First Inversion Triads.md",
     "APMusicTheory/Intervals in the bass.md",
     "APMusicTheory/Seventh Chords.md",
     "EBME 105/1 - Intro.md",
-    "Chem 111/1 - Intro.md",
     "EBME 105",
     "Math 223/1 - Vectors.md",
     "Chem 111",
