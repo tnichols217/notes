@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Ch8/Cellular Respiration.md",
-                "mode": "source",
+                "file": "Biology/Ch11/11.2 Complex Inheritence.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Ch8/Cellular Respiration.md"
+                "file": "Biology/Ch11/11.2 Complex Inheritence.md"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Ch8/Cellular Respiration.md",
+                "file": "Biology/Ch11/11.2 Complex Inheritence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,6 +188,11 @@
   },
   "active": "81e11805c2b12d9b",
   "lastOpenFiles": [
+    "Biology/Ch11/11.1 Basic Patterns in Human Inheritence.md",
+    "Biology/Ch8/Photosynthesis.md",
+    "Biology/Ch8/Energy.md",
+    "Biology/Ch8/Chemical Formulas.md",
+    "Biology/Ch8/Cellular Respiration.md",
     "Math 223/z - Practice.md",
     "EBME 105/1 - Intro.md",
     "Chem 111/1 - Intro.md",
@@ -227,12 +232,7 @@
     "APBiology/7/Notes/Doodle Notes/7 - Evidence for Evolution.md",
     "APBiology/7/Notes/Doodle Notes/6 - Mechanisms of Evolution 2.md",
     "APBiology/7/Notes/Doodle Notes/5 - Mechanisms of Evolution 1.md",
-    "APBiology/7/Notes/Doodle Notes/4 - Hardy-Weinberg.md",
-    "APBiology/7/Notes/Doodle Notes/3 - Population Genetics.md",
-    "APBiology/7/Notes/Doodle Notes/2 - Natural Selection Types.md",
-    "APBiology/7/Notes/Doodle Notes/1 - Natural Selection.md",
     "APBiology/7/Notes/Doodle Notes/10 - Speciation",
-    "APBiology/6/Unit 6 BILL.md",
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparitive Genomics - 1.png",
     "church/Untitled.canvas"
   ]
