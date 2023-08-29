@@ -19,21 +19,8 @@
               }
             },
             "group": "9191d2cac28a436c"
-          },
-          {
-            "id": "81e11805c2b12d9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Ch11/11.2 Complex Inheritence.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d3a3af3d3f01fe32",
@@ -112,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Ch11/11.2 Complex Inheritence.md"
+                "file": "Math 223/z - Practice.md"
               }
             }
           }
@@ -144,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Ch11/11.2 Complex Inheritence.md",
+                "file": "Math 223/z - Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,8 +173,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "81e11805c2b12d9b",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "Biology/Ch11/11.2 Complex Inheritence.md",
     "Biology/Ch11/11.1 Basic Patterns in Human Inheritence.md",
     "Biology/Ch8/Photosynthesis.md",
     "Biology/Ch8/Energy.md",
@@ -231,7 +219,6 @@
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics.md",
     "APBiology/7/Notes/Doodle Notes/7 - Evidence for Evolution.md",
     "APBiology/7/Notes/Doodle Notes/6 - Mechanisms of Evolution 2.md",
-    "APBiology/7/Notes/Doodle Notes/5 - Mechanisms of Evolution 1.md",
     "APBiology/7/Notes/Doodle Notes/10 - Speciation",
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparitive Genomics - 1.png",
     "church/Untitled.canvas"
