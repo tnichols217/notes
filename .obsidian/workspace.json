@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EBME 105/1 - Intro.md",
-                "mode": "preview",
+                "file": "Math 223/z - Practice.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EBME 105/1 - Intro.md"
+                "file": "Math 223/z - Practice.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EBME 105/1 - Intro.md",
+                "file": "Math 223/z - Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,11 +155,12 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "EBME 105/1 - Intro.md",
+    "Math 223/z - Practice.md",
     "Chem 111/1 - Intro.md",
     "APMusicTheory/First Inversion Triads.md",
     "APMusicTheory/Intervals in the bass.md",
     "APMusicTheory/Seventh Chords.md",
-    "EBME 105/1 - Intro.md",
     "EBME 105",
     "Math 223/1 - Vectors.md",
     "Chem 111",
@@ -200,7 +201,6 @@
     "APBiology/7/Notes/Doodle Notes/10 - Speciation",
     "APBiology/6/Unit 6 BILL.md",
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparitive Genomics - 1.png",
-    "APBiology/7/Notes/Doodle Notes/10 - Comparison Genomics.md",
     "church/Untitled.canvas"
   ]
 }
