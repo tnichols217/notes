@@ -1,1 +1,1 @@
-$\int_0^1cos()$
+$\int_0^1\cos{(\frac{\pi{})}$
