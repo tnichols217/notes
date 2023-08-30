@@ -1,13 +1,16 @@
 ---
 date created: 2023-08-30 10:53
+date updated: 2023-08-30 11:05
 ---
 
 # Units
+
 A unit is a scale of which a measurement is made in
 
 All answers and measurements should have units, with a few minor exceptions (like ratios)
 
 ## SI units
+
 - mass: kg
 - length: m
 - time: s
@@ -16,6 +19,7 @@ All answers and measurements should have units, with a few minor exceptions (lik
 - electrical charge: J
 
 ## Metric Prefixes
+
 | name  | prefix | amount    |
 | ----- | ------ | --------- |
 | mega  | M      | $10^6$    |
@@ -23,7 +27,7 @@ All answers and measurements should have units, with a few minor exceptions (lik
 | deka  | da     | $10$      |
 | deci  | d      | $10^{-1}$ |
 | centi | c      | $10^{-2}$ |
-| mili  | m      | $10^{-3}$ | 
+| mili  | m      | $10^{-3}$ |
 
 # Substance
 
@@ -33,8 +37,14 @@ All answers and measurements should have units, with a few minor exceptions (lik
 **Elementary Substance**: Substances made up of only one type of atom (with the same atomic number)
 **Compound Substance**: Substance made with more than one type of atom
 **Chemical Formula**: Elements listed with number of atoms as the subscript
+
 - ie: $H_2O(l)$ or $NaCl(s)$
 
 # Periodic Table
+
 ## Electronegativity
-The lower and lefter an atom is on the table, the less electronegativ
+
+The lower and lefter an atom is on the table, the less electronegative it is, meaning it is more metallic
+
+## 
+
