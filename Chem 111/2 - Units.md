@@ -52,6 +52,6 @@ The lower and lefter an atom is on the table, the less electronegative it is, me
 
 There are three phases:
 
-1. Solid
-2. Liquid
+1. Solid - Definite volume and shape
+2. Liquid - Definitel volume but not shape
 3. Gas
