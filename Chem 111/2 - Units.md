@@ -65,3 +65,4 @@ There are three phases:
 **Chemical Properties**: Only evident if substance goes through a chemical change
 
 - Combustion
+- **Chemical **
