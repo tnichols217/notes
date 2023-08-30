@@ -46,12 +46,13 @@ All answers and measurements should have units, with a few minor exceptions (lik
 
 The lower and lefter an atom is on the table, the less electronegative it is, meaning it is more metallic
 
-##
-
-# States of Matter
-
+# Matter
+## Phases
 There are three phases:
 
 1. Solid - Definite volume and shape
 2. Liquid - Definite volume but not shape
 3. Gas - No definite volume or shape
+
+## Properties
+**Physical Properties**: Ovs
