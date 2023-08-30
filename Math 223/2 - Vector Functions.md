@@ -10,5 +10,5 @@ $\vec{r}(t)=\langle x(t), y(t), z(t)\rangle$ is an example of a vector-function 
 
 ## Lines
 
-$\vec{l}(t)=\vec{P_0}+t*\vec{v}$
+$\vec{l}(t)=\vec{P_0}+t\vec{v}$
 Where $P_0$ is a point on the line and $\vec{v}$ is a vector parallel to the line.
