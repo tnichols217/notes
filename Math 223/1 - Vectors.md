@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-28 09:52
-date updated: 2023-08-30 10:13
+date updated: 2023-08-30 10:18
 ---
 
 > [!col]
@@ -50,6 +50,7 @@ Is the same as addition, except the second operand is negated
 $\vec{v}-\vec{w} = \vec{v}+(-\vec{w})$
 
 ## Dot Product
+
 The sum of element-wise multiplication in a vector
 $\vec{a}=\langle a_1,a_2,a_3\rangle$
 $\vec{b}=\langle b_1,b_2,b_3\rangle$
@@ -57,8 +58,9 @@ $\vec{a}\cdot\vec{b}=a_1b_2+a_2b_2+a_3b_3$
 $\vec{a}\cdot\vec{a}=|\vec{a}|^2$
 
 1. Dotting by 0 always gives 0
-2. Dotting is communicative
-3. 
+2. Dotting is communicative and associative
+3. If $\theta$
+
 # Vectors in 3D space
 
 ## Right hand rule
