@@ -22,5 +22,9 @@ All answers and measurements should have units, with a few minor exceptions (lik
 | kilo  | k      | $10^3$    |
 | deka  | da     | $10$      |
 | deci  | d      | $10^{-1}$ |
-| centi | c      | $10^{-3}$ |
-| mili  | m      |           |
+| centi | c      | $10^{-2}$ |
+| mili  | m      | $10^{-3}$ | 
+
+# Substance
+
+**Substan**
