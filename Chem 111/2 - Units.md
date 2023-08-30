@@ -15,4 +15,8 @@ All answers and measurements should have units, with a few minor exceptions (lik
 - substance: mol
 - electrical charge: J
 
-## Metric 
+## Metric Prefixes
+| name | prefix | amount |
+| ---- | ------ | ------ |
+| mega | M      | $10^6$ |
+| kilo | k      | $10^$       |
