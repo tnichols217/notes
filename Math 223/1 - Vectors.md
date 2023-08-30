@@ -59,7 +59,7 @@ $\vec{a}\cdot\vec{a}=|\vec{a}|^2$
 
 1. Dotting by 0 always gives 0
 2. Dotting is communicative and associative
-3. If $\theta$
+3. If $\theta$ is angle between $\vec{a}$ and $\vec{b}, then $\vec{a}\cdot\vec{b}
 
 # Vectors in 3D space
 
