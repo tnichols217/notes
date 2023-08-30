@@ -1,4 +1,4 @@
-svg.function-plot line, svg.function-plot path, svg.function-plot text {
+svg.function-plot g.axis line, svg.function-plot g.axis path, svg.function-plot g.axis text {
     stroke: var(--text-normal);
     fill: var(--text-normal);
 }
