@@ -37,3 +37,4 @@ All answers and measurements should have units, with a few minor exceptions (lik
 
 # Periodic Table
 ## Electronegativity
+The lower and lefter an atom is on the table, the less electronegativ
