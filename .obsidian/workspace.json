@@ -17,7 +17,27 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "db44901e978fe2b8"
+          }
+        ]
+      },
+      {
+        "id": "fa2047257169d80f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "295c2a938f81cc08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math 223/Textbook/12.1 - Vectors.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "db44901e978fe2b8"
           }
         ]
       }
