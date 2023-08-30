@@ -51,7 +51,8 @@ $\vec{v}-\vec{w} = \vec{v}+(-\vec{w})$
 
 ## Dot Product
 The sum of element-wise multiplication in a vector
-$\vec$
+$\vec{a}=\langle a_1,a_2,a_3\rangle$
+$\vec{b}=\langle b_1,b_2,b_3\rangle$
 
 # Vectors in 3D space
 
