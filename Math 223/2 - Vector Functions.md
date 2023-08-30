@@ -4,4 +4,4 @@ $\vec{r}(t)=\langle x(t), y(t), z(t)\rangle$ is an example of a vector-function 
 # Common Function Forms
 ## Lines
 $\vec{l}(t)=\vec{P_0}+t*\vec{v}$
-Where $P_0$ is a point on the line and 
+Where $P_0$ is a point on the line and $\vec{v}$ is a vector parallel to the line.
