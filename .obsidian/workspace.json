@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 223/Textbook/12.1 - Vectors.md",
+                "file": "Math 223/1 - Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 223/Textbook/12.1 - Vectors.md",
+                "file": "Math 223/1 - Vectors.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 223/Textbook/12.1 - Vectors.md"
+                "file": "Math 223/1 - Vectors.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 223/Textbook/12.1 - Vectors.md",
+                "file": "Math 223/1 - Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +173,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
-    "Math 223/1 - Vectors.md",
     "Math 223/Textbook/12.1 - Vectors.md",
+    "Math 223/1 - Vectors.md",
     "Math 223/Textbook",
     "Biology/Ch8/Cellular Respiration.md",
     "Math 223/z - Practice.md",
