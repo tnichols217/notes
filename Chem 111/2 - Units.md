@@ -29,4 +29,5 @@ All answers and measurements should have units, with a few minor exceptions (lik
 
 **Substance**: A kind of matter with uniform properties
 **Atom**: Fundamental unit of a substance
-**Molecult**: 
+**Molecule**: Two or more atoms held in specific shape by attractive forces
+**Elementary Substance**: Substances made up of 
