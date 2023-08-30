@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-30 10:53
-date updated: 2023-08-30 11:05
+date updated: 2023-08-30 11:09
 ---
 
 # Units
@@ -46,5 +46,12 @@ All answers and measurements should have units, with a few minor exceptions (lik
 
 The lower and lefter an atom is on the table, the less electronegative it is, meaning it is more metallic
 
-## 
+##
 
+# States of Matter
+
+There are three phases:
+
+1. Solid
+2. Liquid
+3. Gas
