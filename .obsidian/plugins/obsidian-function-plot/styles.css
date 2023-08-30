@@ -2,10 +2,10 @@
     .x.axis {
       .tick {
         line {
-            stroke: --text-normal;
+            stroke: var(--text-normal);
         }
         text {
-            fill: --text-normal;
+            fill: var(--text-normal);
         }
       }
     }
@@ -13,10 +13,10 @@
     .y.axis {
       .tick {
         line {
-            stroke: --text-normal;
+            stroke: var(--text-normal);
         }
         text {
-            fill: --text-normal;
+            fill: var(--text-normal);
         }
       }
     }
