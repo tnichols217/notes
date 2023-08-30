@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-30 10:53
-date updated: 2023-08-30 11:12
+date updated: 2023-08-30 11:14
 ---
 
 # Units
@@ -29,7 +29,15 @@ All answers and measurements should have units, with a few minor exceptions (lik
 | centi | c      | $10^{-2}$ |
 | mili  | m      | $10^{-3}$ |
 
-# Substance
+# Periodic Table
+
+## Electronegativity
+
+The lower and lefter an atom is on the table, the less electronegative it is, meaning it is more metallic
+
+# Matter
+
+## Substances
 
 **Substance**: A kind of matter with uniform properties
 **Atom**: Fundamental unit of a substance
@@ -39,14 +47,6 @@ All answers and measurements should have units, with a few minor exceptions (lik
 **Chemical Formula**: Elements listed with number of atoms as the subscript
 
 - ie: $H_2O(l)$ or $NaCl(s)$
-
-# Periodic Table
-
-## Electronegativity
-
-The lower and lefter an atom is on the table, the less electronegative it is, meaning it is more metallic
-
-# Matter
 
 ## Phases
 
@@ -67,3 +67,4 @@ There are three phases:
 - Combustion
 - **Chemical Change** requires new substance before and after in order to measure a chemical property
 
+## Mixture
