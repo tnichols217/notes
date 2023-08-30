@@ -25,5 +25,5 @@ Where $P_0$ is a point on the line and $\vec{v}$ is a vector parallel to the lin
 2. $\vec{P_0}=\langle-2, 0, -2\rangle$
    $\vec{P_1}=\langle4, 3, 7\rangle$
    $\vec{v}=\langle6, 3, 9\rangle$
-   $\vec{r}(t)=\langle-2, 0, -2\rangle + t\langle4, 3, 7\rangle$
+   $\vec{r}(t)=\langle-2, 0, -2\rangle + t\langle2,1,3\rangle$
 
