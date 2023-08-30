@@ -30,4 +30,4 @@ All answers and measurements should have units, with a few minor exceptions (lik
 **Substance**: A kind of matter with uniform properties
 **Atom**: Fundamental unit of a substance
 **Molecule**: Two or more atoms held in specific shape by attractive forces
-**Elementary Substance**: Substances made up of 
+**Elementary Substance**: Substances made up of only one type of atom (with the same atomic number)
