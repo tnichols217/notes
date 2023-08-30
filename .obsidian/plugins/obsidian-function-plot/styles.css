@@ -2,6 +2,6 @@ svg.function-plot g.axis line, svg.function-plot g.axis path, svg.function-plot 
     stroke: var(--text-normal);
 }
 
-svg.function-plot g.axis text {
+svg.function-plot g.axis text, text.title {
     fill: var(--text-normal);
 }
