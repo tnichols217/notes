@@ -79,12 +79,11 @@ The plane does not extend into any other axis, so all components of other axes a
 
 ```function-plot
 {
-data: [{
-    fn: function (scope) {
-      return {
-        lo: scope.x.lo,
-        hi: scope.x.hi
-      }
+  data: [{
+    fn: '1 / x',
+    derivative: {
+      fn: '-1 / x / x',
+      updateOnMouseMove: true
     }
   }]
 }
