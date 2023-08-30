@@ -65,4 +65,5 @@ There are three phases:
 **Chemical Properties**: Only evident if substance goes through a chemical change
 
 - Combustion
-- **Chemical **
+- **Chemical Change** requires new substance before and after in order to measure a chemical property
+
