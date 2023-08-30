@@ -10,3 +10,8 @@ svg.function-plot {
         }
     }
 }
+
+
+text {
+    fill: var(--text-normal);
+}
