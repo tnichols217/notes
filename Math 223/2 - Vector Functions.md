@@ -27,3 +27,4 @@ Where $P_0$ is a point on the line and $\vec{v}$ is a vector parallel to the lin
    $\vec{v}=\langle6, 3, 9\rangle$
    $\vec{r}(t)=\langle-2, 0, -2\rangle + t\langle2,1,3\rangle$
 
+##
