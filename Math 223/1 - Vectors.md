@@ -81,10 +81,7 @@ The plane does not extend into any other axis, so all components of other axes a
 {
 data: 
 [{
-    // uses interval arithmetic by default
     fn: function (scope) {
-      // scope.x = {lo: Number, hi: number}
-      // simulate a line e.g. y = x
       return {
         lo: scope.x.lo,
         hi: scope.x.hi
