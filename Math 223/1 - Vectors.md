@@ -79,8 +79,7 @@ The plane does not extend into any other axis, so all components of other axes a
 
 ```function-plot
 {
-data: 
-[{
+data: [{
     fn: function (scope) {
       return {
         lo: scope.x.lo,
