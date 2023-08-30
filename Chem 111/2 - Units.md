@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-30 10:53
-date updated: 2023-08-30 11:09
+date updated: 2023-08-30 11:12
 ---
 
 # Units
@@ -47,7 +47,9 @@ All answers and measurements should have units, with a few minor exceptions (lik
 The lower and lefter an atom is on the table, the less electronegative it is, meaning it is more metallic
 
 # Matter
+
 ## Phases
+
 There are three phases:
 
 1. Solid - Definite volume and shape
@@ -55,5 +57,8 @@ There are three phases:
 3. Gas - No definite volume or shape
 
 ## Properties
+
 **Physical Properties**: Observed without change in composition of substance
 **Chemical Properties**: Only evident if substance goes through a chemical change
+
+- Combustion
