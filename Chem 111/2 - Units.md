@@ -16,7 +16,9 @@ All answers and measurements should have units, with a few minor exceptions (lik
 - electrical charge: J
 
 ## Metric Prefixes
-| name | prefix | amount |
-| ---- | ------ | ------ |
-| mega | M      | $10^6$ |
-| kilo | k      | $10^$       |
+| name | prefix | amount  |
+| ---- | ------ | ------- |
+| mega | M      | $10^6$  |
+| kilo | k      | $10^3$  |
+| deka | da     | $10$    |
+| deci | d      | $10^-1$ |
