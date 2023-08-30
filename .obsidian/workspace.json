@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 223/Textbook/12.1 - Vectors.md"
+                "file": "Math 223/1 - Vectors.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 223/Textbook/12.1 - Vectors.md",
+                "file": "Math 223/1 - Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,15 +173,52 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5bd8fff90087897a",
+  "floating": {
+    "id": "ff93a34305a81d52",
+    "type": "floating",
+    "children": [
+      {
+        "id": "caa049c4c3deb398",
+        "type": "window",
+        "children": [
+          {
+            "id": "3f6be4f92cad7dda",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b437dd7245f5c6c4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Math 223/1 - Vectors.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 854,
+        "height": 1067,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b437dd7245f5c6c4",
   "lastOpenFiles": [
+    "Math 223/Textbook/12.1 - Vectors.md",
     "Math 223/Overview.md",
     "Chem 111/Overview.md",
     "Chem 111/1 - Intro.md",
     "Chem 111/2 - Units.md",
     "Math 223/1 - Vectors.md",
     "Math 223/2 - Vector Functions.md",
-    "Math 223/Textbook/12.1 - Vectors.md",
     "Math 223/Textbook",
     "Biology/Ch8/Cellular Respiration.md",
     "Math 223/z - Practice.md",
