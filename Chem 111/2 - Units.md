@@ -72,7 +72,3 @@ There are three phases:
 **Heterogeneous Mixture**: A mixture that has distinguishable parts
 **Homogeneous Mixture**: A mixture that does not have distinguishable parts, often called a solution
 **Pure Substance**: Cannot be separated without a chemical change
-
-```molecule
-water
-```
