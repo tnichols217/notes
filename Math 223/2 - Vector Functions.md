@@ -17,4 +17,4 @@ Where $P_0$ is a point on the line and $\vec{v}$ is a vector parallel to the lin
 $\vec{P_0}=\langle4, 0, 8\rangle$
 $\vec{v}=\langle1, 0, 1\rangle$
 
-$\vec{r}(t)=\langle4, 0, 8\rangle + t\langle1, -$
+$\vec{r}(t)=\langle4, 0, 8\rangle + t\langle1, 0, 1\rangle$
