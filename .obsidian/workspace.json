@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graph",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28c69e3aca2b1263",
@@ -174,7 +173,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "28942e6507e0526e",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
     "Math 223/1 - Vectors.md",
     "Math 223/Textbook/12.1 - Vectors.md",
