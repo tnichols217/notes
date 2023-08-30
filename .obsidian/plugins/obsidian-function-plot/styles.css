@@ -1,6 +1,6 @@
 svg.function-plot {
 
-    g.y.axis {
+    g.axis {
         line {
             stroke: var(--text-normal);
         }
