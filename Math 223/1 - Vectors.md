@@ -49,7 +49,7 @@ Is the same as addition, except the second operand is negated
 1. $\vec{v}-\vec{w} = \vec{v}+(-\vec{w})$
 
 ## Dot Product
-
+The sum of elementwise multiplication in a vector
 # Vectors in 3D space
 
 ## Right hand rule
