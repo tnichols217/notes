@@ -1,24 +1,13 @@
-.function-plot {
-    .x.axis {
-      .tick {
-        line {
-            stroke: var(--text-normal);
-        }
-        text {
-            fill: var(--text-normal);
-        }
-      }
-    }
-  
+svg.function-plot {
+
+    .x.axis,
     .y.axis {
-      .tick {
         line {
             stroke: var(--text-normal);
         }
+
         text {
             fill: var(--text-normal);
         }
-      }
     }
-  }
-  
+}
