@@ -15,11 +15,11 @@ Where $P_0$ is a point on the line and $\vec{v}$ is a vector parallel to the lin
 
 ## Practice
 1. 
-$\vec{P_0}=\langle4, 0, 8\rangle$
-$\vec{v}=\langle1, 0, 1\rangle$
-$\vec{r}(t)=\langle4, 0, 8\rangle + t\langle1, 0, 1\rangle$
+	$\vec{P_0}=\langle4, 0, 8\rangle$
+	$\vec{v}=\langle1, 0, 1\rangle$
+	$\vec{r}(t)=\langle4, 0, 8\rangle + t\langle1, 0, 1\rangle$
 
 2. 
-$\vec{P_0}=\langle4, 0, 8\rangle$
-$\vec{v}=\langle1, 0, 1\rangle$
-$\vec{r}(t)=\langle4, 0, 8\rangle + t\langle1, 0, 1\rangle$
+	$\vec{P_0}=\langle-2, 0, -2\rangle$
+	$\vec{v}=\langle4, 3, 7\rangle$
+	$\vec{r}(t)=\langle4, 0, 8\rangle + t\langle1, 0, 1\rangle$
