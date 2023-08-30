@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -173,7 +174,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5bd8fff90087897a",
+  "active": "28942e6507e0526e",
   "lastOpenFiles": [
     "Math 223/1 - Vectors.md",
     "Math 223/Textbook/12.1 - Vectors.md",
