@@ -1,12 +1,10 @@
 svg.function-plot {
 
-    g.axis {
-        line, path {
-            stroke: var(--text-normal);
-        }
+    line, path {
+        stroke: var(--text-normal);
+    }
 
-        text {
-            fill: var(--text-normal);
-        }
+    text {
+        fill: var(--text-normal);
     }
 }
