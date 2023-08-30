@@ -14,4 +14,5 @@ $\vec{r}(t)=\vec{P_0}+t\vec{v}$
 Where $P_0$ is a point on the line and $\vec{v}$ is a vector parallel to the line.
 
 ## Practice
-$\vec{P_0}=$
+$\vec{P_0}=\langle4, 0, 8\rangle$
+$\vec{v}=\langle1, 0, 1\r$
