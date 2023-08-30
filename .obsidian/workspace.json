@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 223/1 - Vectors.md",
+                "file": "Math 223/Textbook/12.1 - Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 223/1 - Vectors.md",
+                "file": "Math 223/Textbook/12.1 - Vectors.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 223/1 - Vectors.md"
+                "file": "Math 223/Textbook/12.1 - Vectors.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 223/1 - Vectors.md",
+                "file": "Math 223/Textbook/12.1 - Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,9 +173,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
-    "Math 223/Untitled",
+    "Math 223/1 - Vectors.md",
+    "Math 223/Textbook/12.1 - Vectors.md",
+    "Math 223/Textbook",
     "Biology/Ch8/Cellular Respiration.md",
     "Math 223/z - Practice.md",
     "Biology/Ch11/11.2 Complex Inheritence.md",
@@ -189,7 +191,6 @@
     "APMusicTheory/Intervals in the bass.md",
     "APMusicTheory/Seventh Chords.md",
     "EBME 105",
-    "Math 223/1 - Vectors.md",
     "Chem 111",
     "college/Stop Googling Lets Talk.md",
     "Math 223",
@@ -219,7 +220,6 @@
     "APBiology/7/Notes/Doodle Notes/9 - Antibiotic Resistance Evolution in the Lab.md",
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics.md",
     "APBiology/7/Notes/Doodle Notes/7 - Evidence for Evolution.md",
-    "APBiology/7/Notes/Doodle Notes/10 - Speciation",
     "APBiology/7/Notes/Doodle Notes/8 - Comparitive Genomics/8 - Comparitive Genomics - 1.png",
     "church/Untitled.canvas"
   ]
