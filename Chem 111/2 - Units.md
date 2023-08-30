@@ -34,3 +34,6 @@ All answers and measurements should have units, with a few minor exceptions (lik
 **Compound Substance**: Substance made with more than one type of atom
 **Chemical Formula**: Elements listed with number of atoms as the subscript
 - ie: $H_2O(l)$ or $NaCl(s)$
+
+# Periodic Table
+## Electronegativity
