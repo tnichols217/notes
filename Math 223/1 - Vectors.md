@@ -1,5 +1,6 @@
 ---
 date created: 2023-08-28 09:52
+date updated: 2023-08-30 10:13
 ---
 
 > [!col]
@@ -27,26 +28,40 @@ date created: 2023-08-28 09:52
 3. Vectors of the same components are equal, even if the initial points are different
 
 # Operations with Vectors
+
 ## Addition
+
 The sum of the components of the vector
+
 1. The same as putting the tail onto the head of the other and drawing the vector from the first head to the last tail
-2. $$\begin{flalign}\vec{v}=\begin{bmatrix}a\\b\end{bmatrix}\\ \vec{w}=\begin{bmatrix}c\\d\end{bmatrix}\\ \vec{v}+\vec{w}=\begin{bmatrix}a+c\\b+d\end{bmatrix}\end{flalign}$$
+2. $\begin{flalign}\vec{v}=\begin{bmatrix}a\\b\end{bmatrix}\\ \vec{w}=\begin{bmatrix}c\\d\end{bmatrix}\\ \vec{v}+\vec{w}=\begin{bmatrix}a+c\\b+d\end{bmatrix}\end{flalign}$
+
 ## Multiplication with a scalar
+
 Multiplies each component by the scalar
-	1. $\vec{v}=\begin{bmatrix}a\\b\end{bmatrix}$
-	   $c\vec{v}=\begin{bmatrix}ca\\cb\end{bmatrix}$
-	2. If $c$ is negative, the direction of the vector flips and the magnitude multiplies by $c$
-3. Subtraction of vectors is the same as addition, except the second operand is negated
-	1. $\vec{v}-\vec{w} = \vec{v}+(-\vec{w})$
+1. $\vec{v}=\begin{bmatrix}a\\b\end{bmatrix}$
+$c\vec{v}=\begin{bmatrix}ca\\cb\end{bmatrix}$
+2. If $c$ is negative, the direction of the vector flips and the magnitude multiplies by $c$
+
+## Subtraction
+
+Is the same as addition, except the second operand is negated
+1. $\vec{v}-\vec{w} = \vec{v}+(-\vec{w})$
+
+## Dot Product
 
 # Vectors in 3D space
+
 ## Right hand rule
+
 Most commonly, for 3D space we follow the right hand rule. on your right hand when your hand curls it moves from $x$ to $y$, and when your thumb points up, that is $z$
 
 ## The Origin
+
 The origin is the point at which all components of the vector is zero.
 All axes and coordinate planes pass through the origin.
 
 ## Coordinate Planes
+
 A coordinate plane of two axes consists of all points that can be made by scaling and adding those two axes.
 The plane does not extend into any other axis, so all components of other axes are 0
