@@ -39,17 +39,20 @@ The sum of the components of the vector
 ## Multiplication with a scalar
 
 Multiplies each component by the scalar
-1. $\vec{v}=\begin{bmatrix}a\\b\end{bmatrix}$
+$\vec{v}=\begin{bmatrix}a\\b\end{bmatrix}$
 $c\vec{v}=\begin{bmatrix}ca\\cb\end{bmatrix}$
-2. If $c$ is negative, the direction of the vector flips and the magnitude multiplies by $c$
+
+If $c$ is negative, the direction of the vector flips and the magnitude multiplies by $c$
 
 ## Subtraction
 
 Is the same as addition, except the second operand is negated
-1. $\vec{v}-\vec{w} = \vec{v}+(-\vec{w})$
+$\vec{v}-\vec{w} = \vec{v}+(-\vec{w})$
 
 ## Dot Product
-The sum of elementwise multiplication in a vector
+The sum of element-wise multiplication in a vector
+$\vec$
+
 # Vectors in 3D space
 
 ## Right hand rule
