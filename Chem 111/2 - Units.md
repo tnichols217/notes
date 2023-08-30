@@ -1,6 +1,6 @@
 ---
 date created: 2023-08-30 10:53
-date updated: 2023-08-30 11:14
+date updated: 2023-08-30 11:16
 ---
 
 # Units
@@ -68,6 +68,7 @@ There are three phases:
 - **Chemical Change** requires new substance before and after in order to measure a chemical property
 
 ## Mixtures
+
 **Heterogeneous Mixture**: A mixture that has distinguishable parts
 **Homogeneous Mixture**: A mixture that does not have distinguishable parts, often called a solution
-	**Pure Substance**
+**Pure Substance**: Cannot be separated without a chemical change
