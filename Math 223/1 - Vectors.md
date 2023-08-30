@@ -53,7 +53,7 @@ $\vec{v}-\vec{w} = \vec{v}+(-\vec{w})$
 The sum of element-wise multiplication in a vector
 $\vec{a}=\langle a_1,a_2,a_3\rangle$
 $\vec{b}=\langle b_1,b_2,b_3\rangle$
-$\vec{a}\cdot$
+$\vec{a}\cdot\vec{b}=\langle a_1b_2,a_2b_2,a_3,b_3\rangle$
 # Vectors in 3D space
 
 ## Right hand rule
