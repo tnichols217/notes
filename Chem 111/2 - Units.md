@@ -69,4 +69,5 @@ There are three phases:
 
 ## Mixtures
 **Heterogeneous Mixture**: A mixture that has distinguishable parts
-**H**
+**Homogeneous Mixture**: A mixture that does not have distinguishable parts, often called a solution
+	**Pure Substance**
