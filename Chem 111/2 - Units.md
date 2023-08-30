@@ -59,6 +59,9 @@ There are three phases:
 ## Properties
 
 **Physical Properties**: Observed without change in composition of substance
+
+- Melting point
+
 **Chemical Properties**: Only evident if substance goes through a chemical change
 
 - Combustion
