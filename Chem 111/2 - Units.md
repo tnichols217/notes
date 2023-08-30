@@ -67,4 +67,6 @@ There are three phases:
 - Combustion
 - **Chemical Change** requires new substance before and after in order to measure a chemical property
 
-## Mixture
+## Mixtures
+**Heterogeneous Mixture**: A mixture that has distinguishable parts
+**H**
