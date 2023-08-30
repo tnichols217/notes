@@ -13,7 +13,8 @@ $\vec{r}(t)=\langle x(t), y(t), z(t)\rangle$ is an example of a vector-function 
 
 $\vec{r}(t)=\vec{P_0}+t\vec{v}$
 Where $P_0$ is a point on the line and $\vec{v}$ is a vector parallel to the line.
-- Multiplying $\vec{v}$ by any constant does not change the equation as the vect
+- Multiplying $\vec{v}$ by any constant does not change the equation as the vector is still parallel to the line
+- Moving $\vec{P_0}$ somewhere else on the line
 
 ### Practice
 
