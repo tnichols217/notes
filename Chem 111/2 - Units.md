@@ -27,4 +27,6 @@ All answers and measurements should have units, with a few minor exceptions (lik
 
 # Substance
 
-**Substan**
+**Substance**: A kind of matter with uniform properties
+**Atom**: Fundamental unit of a substance
+**Molecult**: 
