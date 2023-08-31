@@ -19,3 +19,4 @@
 ## Axonometric
 - A view down from a corner of the building in 3 dimensions
 - Is orthographic
+- Is a type of isometric vi
