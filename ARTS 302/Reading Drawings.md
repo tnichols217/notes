@@ -15,3 +15,7 @@
 - Also no perspective
 - Often in symmetrical buildings, the elevation and section are split on the same image
 - Things that have been sliced are often left white, with uncut objects remaining dark
+
+## Axonometric
+- A view from a corner of the building in 3 dimentions
+- Is orthographic
