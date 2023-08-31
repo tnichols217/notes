@@ -15,7 +15,7 @@
 - Also no perspective
 - Often in symmetrical buildings, the elevation and section are split on the same image
 - Things that have been sliced are often left white, with uncut objects remaining dark
-- Darker outlines tend to be more permanent, and lighter lines tend to be temporaru 
+- Darker outlines tend to be more permanent, and lighter lines tend to be temporary or objects not being sliced
 - Sections are labels on the plan so that we can see where they slice through the building
 
 ## Axonometric
