@@ -41,6 +41,7 @@
 - Non-permanent object
 
 ## Light Lines
-- 
+- Details in objects
+
 ## Dashed lines
 - Objects before the slice
