@@ -1,12 +1,13 @@
 ## Elevation
 - Views from thee side of the building (or the side of the road)
 - There is no perspective, it is orthogonal
+- There is no slicing in the elevation
 
 ## Plan
 - The view of the walls from the top down view of the building
 - No perspective, perfectly top down
 - Heavy or filled in objects mean walls or solids that ascend upwards
-- The slice is often chosen to give the most information about the interior of the building
+- The slice is often chosen to give the most information about the interior of the building, like windows, doors, pillars, walls
 
 ## Section
 - Viewing a slice of the building from the side to see what is going on in the inside
