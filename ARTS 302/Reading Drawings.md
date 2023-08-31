@@ -16,7 +16,7 @@
 
 ### Roof Plan
 - Top down view of the building with a roof
-- U
+- Used in construction drawings
 
 ## Section
 - Viewing a slice of the building from the side to see what is going on in the inside
@@ -31,4 +31,5 @@
 - Is orthographic
 - Is a type of isometric view
 
-
+# Line Weight
+## 
