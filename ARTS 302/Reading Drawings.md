@@ -17,5 +17,5 @@
 - Things that have been sliced are often left white, with uncut objects remaining dark
 
 ## Axonometric
-- A view from a corner of the building in 3 dimensions
+- A view down from a corner of the building in 3 dimensions
 - Is orthographic
