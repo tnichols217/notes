@@ -1,3 +1,4 @@
+# Views
 ## Elevation
 - Views from thee side of the building (or the side of the road)
 - There is no perspective, it is orthogonal
@@ -14,4 +15,3 @@
 - Also no perspective
 - Often in symmetrical buildings, the elevation and section are split on the same image
 - Things that have been sliced are often left white, with uncut objects remaining dark
-- 
