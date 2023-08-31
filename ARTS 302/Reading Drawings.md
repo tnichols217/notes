@@ -1,7 +1,7 @@
 # Views
 ## Elevation
 - Views from thee side of the building (or the side of the road)
-- There is no perspective, it is orthogonal
+- There is no perspective, it is orthographic
 - There is no slicing in the elevation
 
 ## Plan
@@ -17,5 +17,5 @@
 - Things that have been sliced are often left white, with uncut objects remaining dark
 
 ## Axonometric
-- A view from a corner of the building in 3 dimentions
+- A view from a corner of the building in 3 dimensions
 - Is orthographic
