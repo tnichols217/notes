@@ -32,4 +32,9 @@
 - Is a type of isometric view
 
 # Line Weight
-## 
+## Heavy Lines
+- Solid objects
+- Objects being sliced
+
+## Medium Lines
+- Li
