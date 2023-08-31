@@ -9,3 +9,6 @@
 ## Section
 - Viewing a slice of the building from the side to see what is going on in the inside
 - Also no perspective
+- Often in symmetrical buildings, the elevation and section are split on the same image
+- 
+
