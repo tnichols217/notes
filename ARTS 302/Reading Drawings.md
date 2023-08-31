@@ -37,4 +37,10 @@
 - Objects being sliced
 
 ## Medium Lines
-- Li
+- Objects in the stance
+- Non-permanent object
+
+## Light Lines
+- 
+## Dashed lines
+- Objects before the slice
