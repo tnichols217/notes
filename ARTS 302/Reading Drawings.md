@@ -15,9 +15,9 @@
 - Also no perspective
 - Often in symmetrical buildings, the elevation and section are split on the same image
 - Things that have been sliced are often left white, with uncut objects remaining dark
+- Sections are labels on the plan so that we can see where they slice through the building
 
 ## Axonometric
 - A view down from a corner of the building in 3 dimensions
 - Is orthographic
 - Is a type of isometric view
-- 
