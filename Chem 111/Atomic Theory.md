@@ -5,3 +5,5 @@ Mass and energy cannot be created or destroyed, you can only convert it from one
 Ratios of masses of atoms will always be whole numbers
 Ratios of volumes also works in whole numbers
 
+# The AMU (atomic mass unit)
+Used to describe the mass of an atom
