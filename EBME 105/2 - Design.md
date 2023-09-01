@@ -10,6 +10,9 @@ date updated: 2023-09-01 15:58
 
 # Design Process
 
+The process that is followed in order to design a product that solves specifications
+
+
 ## User Needs
 
 The needs or problem that needs to be solved
@@ -117,7 +120,7 @@ The prototype that is ready for real-world testing
 - Completely remove ALL ambiguity and realize all plans
 - Try it out to find out if it works or not
 - Moves from theory into real world practice
-- Records and documents all problems and solutions
+- **Records and documents** all problems and solutions
 
 #### Testing
 Testing to see if the product works on multiple levels in order:
