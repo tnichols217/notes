@@ -1,5 +1,6 @@
 ---
 date created: 2023-09-01 15:30
+date updated: 2023-09-01 15:31
 ---
 
 # What is Engineering Design
@@ -8,6 +9,8 @@ date created: 2023-09-01 15:30
 2. Mostly uses an iterative approach to apply knowledge to problems and needs
 
 # Design Process
+
+
 
 ## User Needs
 
@@ -24,7 +27,7 @@ Realizing the design input into a tangible product
 
 ## Design Output
 
-The final ste
+The prototype that is ready for real-world testing
 
 ### Verification
 
@@ -32,6 +35,7 @@ Comparing the design back to the input to verify that it was build correctly
 
 ## Final Device
 
+The final device that is ready to be used and sold in the real-world
 
 ### Validation
 
