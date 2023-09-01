@@ -15,12 +15,18 @@ date updated: 2023-09-01 15:32
 The needs or problem that needs to be solved.
 Specifies the requirements of the process
 
+### Types
+- Needs (MUST have)
+- Wants (SHOULD have)
+- Gee Wiz (COULD have)
+
 - Categorizes requirements, wants, nice to haves
 - Also specifies what is safe and possible
 
 ### Solving ambiguity
 Ensure that all requirements are solidly defined and specified
-Later in the process, having well defined ideas are useful for both organization and 
+Later in the process, having well defined ideas are useful for organization
+
 
 ## Design Input
 
