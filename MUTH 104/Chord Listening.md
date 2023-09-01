@@ -5,12 +5,12 @@ K:C
 [C_EG]|[C_E_G]|[CEG]|[CEG]|[CE^G]|[C_EG]|
 ```
 
-minor
-diminished
-major
-major
-augmented
-minor
+1. minor
+2. diminished
+3. major
+4. major
+5. augmented
+6. minor
 
 ```music-abc
 X: 1
@@ -22,5 +22,5 @@ K:C
 X: 1
 L:1/1
 K:C
-^"C7"[CEG_B]|^"F6-5"[Ac_ef]|^"G7"[DFGB]|^"Eb7"[_D_EG_B]
+^"C7"[CEG_B]|^"F6-5"[Ac_ef]|^"G4-3"[DFGB]|^"Eb4-2"[_D_EG_B]
 ```
