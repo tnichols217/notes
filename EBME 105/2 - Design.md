@@ -97,6 +97,7 @@ Rates ideas by
 - Separates and specifies which parts are in which system or module
 - Begin sketching and create diagrams to organize
 
+#### 
 ## Design Output
 
 The prototype that is ready for real-world testing
