@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-01 15:30
-date updated: 2023-09-01 15:32
+date updated: 2023-09-01 15:38
 ---
 
 # What is Engineering Design
@@ -16,20 +16,26 @@ The needs or problem that needs to be solved
 Specifies the requirements of the process
 
 ### Solving ambiguity
+
 Ensure that all requirements are solidly defined and specified
 Later in the process, having well defined ideas are useful for organization
 
 ### Implementation
+
 #### Types
+
 - Needs (MUST have)
 - Wants (SHOULD have)
 - Gee Wiz (COULD have)
 - Also specifies what is safe and possible
 
 #### User Empathy
+
 Understanding the user and what they want from a perspective of what is possible
 
-
+#### Design
+- Often designed with **form** and function both in mind
+- 
 
 ## Design Input
 
