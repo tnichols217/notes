@@ -24,11 +24,16 @@ Later in the process, having well defined ideas are useful for organization
 
 #### Functional Specs
 
+Moving from Word => Numbers in order to specify 
+
 ##### Types
 
 ###### Qualitative
 
-- Strong, fast, accessible, durable
+- Strong
+- fast
+- accessible
+- durable
 
 ###### Technical Specs (Quantitative)
 
