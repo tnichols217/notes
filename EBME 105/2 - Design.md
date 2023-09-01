@@ -19,27 +19,24 @@ Specifies the requirements of the process
 
 Ensure that all requirements are solidly defined and specified
 Later in the process, having well defined ideas are useful for organization
+Need to move from words to numbers to strongly specify requirements
 
 ### Implementation
 
-#### Functional Specs
-
-Moving from Words (Qualitative) => Numbers (Quantitative) in order to specify requirements
-
-##### Qualitative
+#### Qualitative
 
 - Strong
 - fast
 - accessible
 - durable
 
-##### Technical Specs (Quantitative)
+#### Technical Specs (Quantitative)
 
 - Holds 100kg
 - Less than 5$
 - Can be accelerated to 5g
 
-##### Categories
+#### Categories
 
 - Needs (MUST have)
 - Wants (SHOULD have)
