@@ -95,7 +95,7 @@ Rates ideas by
 
 - Break down large problems into smaller problems once a main idea has been made
 - Separates and specifies which parts are in which system or module
-- 
+- Begin sketching and create diagrams
 
 ## Design Output
 
