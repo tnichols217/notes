@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-01 15:30
-date updated: 2023-09-01 15:40
+date updated: 2023-09-01 15:41
 ---
 
 # What is Engineering Design
@@ -29,6 +29,12 @@ Later in the process, having well defined ideas are useful for organization
 ###### Qualitative
 
 - Strong, fast, accessible, durable
+
+###### Technical Specs (Quantitative)
+
+- Holds 100kg
+- Less than 5$
+- Can be accelerated to 5g
 
 ##### Categories
 
