@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 111/Atomic Theory.md",
+                "file": "APMusicTheory/First Inversion Triads.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 111/Atomic Theory.md",
+                "file": "APMusicTheory/First Inversion Triads.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chem 111/Atomic Theory.md"
+                "file": "APMusicTheory/First Inversion Triads.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem 111/Atomic Theory.md",
+                "file": "APMusicTheory/First Inversion Triads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +175,10 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
-    "Math 223/Textbook/12.1 - Vector Operations.md",
+    "APMusicTheory/Chord Progressions.md",
+    "APMusicTheory/Chord Inversions.md",
     "Chem 111/Atomic Theory.md",
+    "Math 223/Textbook/12.1 - Vector Operations.md",
     "Math 223/Textbook/12.1 - Vector Symbols.md",
     "Math 223/1 - Vectors.md",
     "Math 223/2 - Vector Functions.md",
@@ -207,8 +209,6 @@
     "college/Writing Seminar.pdf",
     "Private/college/RD/Checklist.md",
     "Private/college/RD/Checklist.pdf",
-    "Private/college/Expenses.md",
-    "obsidian-columns.md",
     "Forensic Science/Final/Short Story.pdf",
     "APBiology/End/An Inconvenient Truth.pdf",
     "APBiology/7/Notes/Doodle Notes/10 - Speciation/10 - Speciation - 3.png",
