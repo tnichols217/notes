@@ -20,7 +20,7 @@ Specifies the requirements of the process
 
 ### Solving ambiguity
 Ensure that all requirements are solidly defined and specified
-Later in the process, 
+Later in the process, having well defined ideas are useful for both organization and 
 
 ## Design Input
 
