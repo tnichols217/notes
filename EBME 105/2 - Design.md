@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-01 15:30
-date updated: 2023-09-01 15:41
+date updated: 2023-09-01 15:48
 ---
 
 # What is Engineering Design
@@ -68,13 +68,19 @@ Realizing the design input into a tangible product
 - Set boundaries
 
 #### Brainstorming
+
 ##### Vertical / Convergent
 
 - Eliminating stupid ideas
 - Realigns designs to goals
 - More rigid
 
-##### 
+##### Horizontal / Divergent
+
+- Non-judgemental
+- Creative
+- Semi-random
+- Generating any idea, even unrealistic at first
 
 ## Design Output
 
