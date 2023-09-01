@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa2047257169d80f",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APMusicTheory/Seventh Chords.md"
+                "file": "MUTH 104/Chord Listening.md"
               }
             }
           }
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APMusicTheory/Seventh Chords.md",
+                "file": "MUTH 104/Chord Listening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,8 +185,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8d40f6d157ea1ed3",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "APMusicTheory/Seventh Chords.md",
     "MUTH 104/Chord Listening.md",
     "APMusicTheory/Cadences and Musical Ideas.md",
     "MUTH 104",
@@ -216,7 +216,6 @@
     "Biology/Ch8/Energy.md",
     "Biology/Ch8/Chemical Formulas.md",
     "EBME 105/1 - Intro.md",
-    "APMusicTheory/Seventh Chords.md",
     "EBME 105",
     "Chem 111",
     "Math 223",
