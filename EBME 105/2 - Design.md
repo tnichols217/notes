@@ -118,6 +118,17 @@ The prototype that is ready for real-world testing
 - Try it out to find out if it works or not
 - Moves from theory into real world practice
 
+#### Testing
+Testing to see if the product works on multiple levels in order:
+- Props
+- Bench Testing
+- Sim.
+- Tissues
+- Acute Animal
+- Cadaver
+- Chronic Animal
+- Live Human
+
 ### Verification
 
 Comparing the design back to the input to verify that it was build correctly
