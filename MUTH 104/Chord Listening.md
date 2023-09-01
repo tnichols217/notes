@@ -22,5 +22,5 @@ K:C
 X: 1
 L:1/1
 K:C
-^"C7"[CEG_B]|^"F7"[Ac_ef]|^"G7"[DFGB]|^"Eb7"[_D_EG_B]
+^"C7"[CEG_B]|^"F6-5"[Ac_ef]|^"G7"[DFGB]|^"Eb7"[_D_EG_B]
 ```
