@@ -66,7 +66,16 @@ Realizing the design input into a tangible product
 - Be Persistent
 - Don't eliminate stupid ideas early
 - Set boundaries
-- 
+
+#### Brainstorming
+##### Vertical / Convergent
+
+- Eliminating stupid ideas
+- Realigns designs to goals
+- More rigid
+
+##### 
+
 ## Design Output
 
 The prototype that is ready for real-world testing
