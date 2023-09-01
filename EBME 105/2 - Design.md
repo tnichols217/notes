@@ -5,11 +5,18 @@
 # Design Process
 ## User Needs
 The needs or problem that needs to be solved.
-Specifies the requirements of the proc
+Specifies the requirements of the process
+
 ## Design Input
+
 
 ## Design Process
 
 ## Design Output
 
+### Verification
+Comparing the design back to the input to verify that it was build correctly
 ## Final Device
+
+### Validation
+Checking whether the final device actually solves the user needs and meets requirements
