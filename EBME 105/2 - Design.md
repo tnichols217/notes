@@ -24,18 +24,16 @@ Later in the process, having well defined ideas are useful for organization
 
 #### Functional Specs
 
-Moving from Word => Numbers in order to specify 
+Moving from Words (Qualitative) => Numbers (Quantitative) in order to specify requirements
 
-##### Types
-
-###### Qualitative
+##### Qualitative
 
 - Strong
 - fast
 - accessible
 - durable
 
-###### Technical Specs (Quantitative)
+##### Technical Specs (Quantitative)
 
 - Holds 100kg
 - Less than 5$
