@@ -156,4 +156,16 @@ Checking whether the final device actually solves the user needs and meets requi
 - Ensuring that the product actually solves problems
 - Check whether you build the correct product
 
-## Document Na
+## Document Naming
+### Team Types
+- IN - Instructor
+- LC - Lecturer
+- EX - Examples
+- TM - Template and Forms
+- RF - Referencees
+- VD - Video Recordsings
+
+### Content Types
+- 000 - General
+- 100 - Design Concepts
+- 200 - Bio
