@@ -60,6 +60,13 @@ Initial design idea that proposes an idea to satisfy the user needs
 
 Realizing the design input into a tangible product
 
+### Implementation
+
+- Be imaginative and creative
+- Be Persistent
+- Don't eliminate stupid ideas early
+- Set boundaries
+- 
 ## Design Output
 
 The prototype that is ready for real-world testing
