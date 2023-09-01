@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-01 15:30
-date updated: 2023-09-01 15:38
+date updated: 2023-09-01 15:40
 ---
 
 # What is Engineering Design
@@ -24,10 +24,13 @@ Later in the process, having well defined ideas are useful for organization
 
 #### Functional Specs
 
-##### Qualitative
-- Strong, 
+##### Types
 
-#### Types
+###### Qualitative
+
+- Strong, fast, accessible, durable
+
+##### Categories
 
 - Needs (MUST have)
 - Wants (SHOULD have)
@@ -39,6 +42,7 @@ Later in the process, having well defined ideas are useful for organization
 Understanding the user and what they want from a perspective of what is possible
 
 #### Design
+
 - Often designed with **form** and function both in mind
 - Collaborates with Industrial design to make something that is acceptable for the user
 
