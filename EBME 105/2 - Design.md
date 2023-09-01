@@ -16,6 +16,8 @@ date updated: 2023-09-01 15:31
 
 The needs or problem that needs to be solved.
 Specifies the requirements of the process
+- Categorizes requirements, wants, nice to haves
+- Also specifies what is safe and possible
 
 ## Design Input
 
