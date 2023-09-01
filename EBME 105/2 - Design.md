@@ -12,7 +12,7 @@ date updated: 2023-09-01 15:32
 
 ## User Needs
 
-The needs or problem that needs to be solved.
+The needs or problem that needs to be solved
 Specifies the requirements of the process
 
 ### Types
@@ -20,7 +20,6 @@ Specifies the requirements of the process
 - Wants (SHOULD have)
 - Gee Wiz (COULD have)
 
-- Categorizes requirements, wants, nice to haves
 - Also specifies what is safe and possible
 
 ### Solving ambiguity
