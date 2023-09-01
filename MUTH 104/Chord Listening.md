@@ -22,5 +22,5 @@ K:C
 X: 1
 L:1/1
 K:C
-[CEG_B]|[Ac_ef]|[DFGB]|[_EG_Bd]
+[CEG_B]|[Ac_ef]|[DFGB]|[_D_EG_B]
 ```
