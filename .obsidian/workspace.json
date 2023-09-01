@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Chord Listening.md",
+                "file": "EBME 105/2 - Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Chord Listening.md",
+                "file": "EBME 105/2 - Design.md",
                 "mode": "preview",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Chord Listening.md"
+                "file": "EBME 105/2 - Design.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Chord Listening.md",
+                "file": "EBME 105/2 - Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,9 +187,10 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "MUTH 104/Chord Listening.md",
+    "EBME 105/2 - Design.md",
     "APMusicTheory/Cadences and Musical Ideas.md",
     "APMusicTheory/Chord Inversions.md",
-    "MUTH 104/Chord Listening.md",
     "APMusicTheory/First Inversion Triads.md",
     "APMusicTheory/Seventh Chords.md",
     "MUTH 104",
@@ -215,7 +216,6 @@
     "Biology/Ch8/Photosynthesis.md",
     "Biology/Ch8/Energy.md",
     "Biology/Ch8/Chemical Formulas.md",
-    "EBME 105/1 - Intro.md",
     "EBME 105",
     "Chem 111",
     "Math 223",
