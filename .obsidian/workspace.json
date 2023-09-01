@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 223/Textbook/12.1 - Vector Operations.md",
+                "file": "Chem 111/Atomic Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 223/Textbook/12.1 - Vector Operations.md",
+                "file": "Chem 111/Atomic Theory.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 223/Textbook/12.1 - Vector Operations.md"
+                "file": "Chem 111/Atomic Theory.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 223/Textbook/12.1 - Vector Operations.md",
+                "file": "Chem 111/Atomic Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +175,9 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
-    "Math 223/Textbook/12.1 - Vector Symbols.md",
     "Math 223/Textbook/12.1 - Vector Operations.md",
+    "Chem 111/Atomic Theory.md",
+    "Math 223/Textbook/12.1 - Vector Symbols.md",
     "Math 223/1 - Vectors.md",
     "Math 223/2 - Vector Functions.md",
     "ARTS 302/Reading Drawings.md",
@@ -208,7 +209,6 @@
     "Private/college/RD/Checklist.pdf",
     "Private/college/Expenses.md",
     "obsidian-columns.md",
-    "Forensic Science/Final/Short Story.md",
     "Forensic Science/Final/Short Story.pdf",
     "APBiology/End/An Inconvenient Truth.pdf",
     "APBiology/7/Notes/Doodle Notes/10 - Speciation/10 - Speciation - 3.png",
