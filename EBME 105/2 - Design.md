@@ -11,9 +11,10 @@ date updated: 2023-09-01 15:58
 # Design Process
 
 The process that is followed in order to design a product that solves specifications
-- Ensure the entire process is documented for testing, design, and brainstorming
+- **Ensure the entire process is documented** for testing, design, and brainstorming
 - Records all decisions and rationale
-- Communicate throughout the proces
+- Communicate throughout the process
+- Legal records of who did what
 
 ## User Needs
 
@@ -154,3 +155,5 @@ Checking whether the final device actually solves the user needs and meets requi
 
 - Ensuring that the product actually solves problems
 - Check whether you build the correct product
+
+## Document Na
