@@ -134,7 +134,8 @@ Testing to see if the product works on multiple levels in order:
 
 Comparing the design back to the input to verify that it was build correctly
 
-
+- Testing against the technical specifications
+- A series of detailed tests tat ensures all technically specified specifications are reliable, a
 
 ## Final Device
 
