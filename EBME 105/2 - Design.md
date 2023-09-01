@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-01 15:30
-date updated: 2023-09-01 15:58
+date updated: 2023-09-01 16:12
 ---
 
 # What is Engineering Design
@@ -11,6 +11,7 @@ date updated: 2023-09-01 15:58
 # Design Process
 
 The process that is followed in order to design a product that solves specifications
+
 - **Ensure the entire process is documented** for testing, design, and brainstorming
 - Records all decisions and rationale
 - Communicate throughout the process
@@ -126,7 +127,9 @@ The prototype that is ready for real-world testing
 - **Records and documents** all problems and solutions
 
 #### Testing
+
 Testing to see if the product works on multiple levels in order:
+
 - Props
 - Bench Testing
 - Sim.
@@ -157,15 +160,21 @@ Checking whether the final device actually solves the user needs and meets requi
 - Check whether you build the correct product
 
 ## Document Naming
+
 ### Team Types
+
 - IN - Instructor
 - LC - Lecturer
 - EX - Examples
 - TM - Template and Forms
-- RF - Referencees
-- VD - Video Recordsings
+- RF - References
+- VD - Video Recordings
 
 ### Content Types
+
 - 000 - General
 - 100 - Design Concepts
-- 200 - Bio
+- 200 - Biomaterials
+- 300 - Biomechanics
+- 400 - Biomedical Computing
+- 500 - Devices and Instrumentation
