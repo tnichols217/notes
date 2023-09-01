@@ -22,6 +22,11 @@ Later in the process, having well defined ideas are useful for organization
 
 ### Implementation
 
+#### Functional Specs
+
+##### Qualitative
+- Strong, 
+
 #### Types
 
 - Needs (MUST have)
@@ -35,7 +40,7 @@ Understanding the user and what they want from a perspective of what is possible
 
 #### Design
 - Often designed with **form** and function both in mind
-- 
+- Collaborates with Industrial design to make something that is acceptable for the user
 
 ## Design Input
 
