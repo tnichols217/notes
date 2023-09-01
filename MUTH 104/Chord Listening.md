@@ -16,5 +16,5 @@ minor
 X: 1
 L:1/1
 K:C
-[^FAd]|[_B,_EG]|[]
+[^FAd]|[_B,_EG]|[^C^E^G]|
 ```
