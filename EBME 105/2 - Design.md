@@ -104,10 +104,16 @@ Rates ideas by
 - Circuits
 - Flowcharting
 - Sources
+- Documentation
 
 ## Design Output
 
 The prototype that is ready for real-world testing
+
+### Implementation
+
+#### Prototype
+- Completely remove ALL ambbiguity 
 
 ### Verification
 
