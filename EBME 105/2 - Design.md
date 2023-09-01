@@ -97,7 +97,14 @@ Rates ideas by
 - Separates and specifies which parts are in which system or module
 - Begin sketching and create diagrams to organize
 
-#### 
+#### Detailed Design
+
+- Parts
+- Drawings
+- Circuits
+- Flowcharting
+- Sources
+
 ## Design Output
 
 The prototype that is ready for real-world testing
