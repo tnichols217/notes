@@ -135,7 +135,7 @@ Testing to see if the product works on multiple levels in order:
 Comparing the design back to the input to verify that it was build correctly
 
 - Testing against the technical specifications
-- A series of detailed tests tat ensures all technically specified specifications are reliable, a
+- A series of detailed tests tat ensures all technically specified specifications are reliable, accurate, and correct
 
 ## Final Device
 
@@ -144,3 +144,6 @@ The final device that is ready to be used and sold in the real-world
 ### Validation
 
 Checking whether the final device actually solves the user needs and meets requirements
+
+- Ensuring that the product actually solves problems
+- Check whether you build the correct product
