@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-01 15:30
-date updated: 2023-09-01 15:48
+date updated: 2023-09-01 15:49
 ---
 
 # What is Engineering Design
@@ -81,6 +81,15 @@ Realizing the design input into a tangible product
 - Creative
 - Semi-random
 - Generating any idea, even unrealistic at first
+
+#### Concept Evaluation
+
+Rates ideas by
+
+- Meeting requirements
+- Cost
+- Time
+- Which goals does it meet? Needs or wants?
 
 ## Design Output
 
