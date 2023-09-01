@@ -91,7 +91,12 @@ Rates ideas by
 - Time
 - Which goals does it meet? Needs or wants?
 
-#### Architecture and Systems 
+#### Architecture and Systems level design
+
+- Break down large problems into smaller problems once a main idea has been made
+- Separates and specifies which parts are in which system or module
+- 
+
 ## Design Output
 
 The prototype that is ready for real-world testing
