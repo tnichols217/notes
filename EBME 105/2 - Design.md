@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-01 15:30
-date updated: 2023-09-01 15:31
+date updated: 2023-09-01 15:32
 ---
 
 # What is Engineering Design
@@ -10,14 +10,17 @@ date updated: 2023-09-01 15:31
 
 # Design Process
 
-
-
 ## User Needs
 
 The needs or problem that needs to be solved.
 Specifies the requirements of the process
+
 - Categorizes requirements, wants, nice to haves
 - Also specifies what is safe and possible
+
+### Solving ambiguity
+Ensure that all requirements are solidly defined and specified
+Later in the process, 
 
 ## Design Input
 
