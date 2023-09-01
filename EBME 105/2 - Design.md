@@ -117,6 +117,7 @@ The prototype that is ready for real-world testing
 - Completely remove ALL ambiguity and realize all plans
 - Try it out to find out if it works or not
 - Moves from theory into real world practice
+- Records and documents all problems and solutions
 
 #### Testing
 Testing to see if the product works on multiple levels in order:
@@ -132,6 +133,8 @@ Testing to see if the product works on multiple levels in order:
 ### Verification
 
 Comparing the design back to the input to verify that it was build correctly
+
+
 
 ## Final Device
 
