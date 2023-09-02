@@ -21,6 +21,16 @@
             "group": "db44901e978fe2b8"
           },
           {
+            "id": "98a01837cd999c99",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "8d40f6d157ea1ed3",
             "type": "leaf",
             "state": {
@@ -32,7 +42,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fa2047257169d80f",
@@ -185,7 +196,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5bd8fff90087897a",
+  "active": "98a01837cd999c99",
   "lastOpenFiles": [
     "MUTH 104/Chord Listening.md",
     "EBME 105/2 - Design.md",
