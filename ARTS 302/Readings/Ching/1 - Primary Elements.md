@@ -13,6 +13,8 @@ Extending an element in a direction increases its **dimention**
 
 ### Line
 
+![[1 - Line]]
+
 ### Plane
 
 ### Volume

@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point 1.md"
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1 - Line 1.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -30,7 +30,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point 1.md"
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1 - Line 1.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point 1.md"
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1 - Line 1.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point 1.md",
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1 - Line 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,8 @@
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
     "ARTS 302/Readings/Ching/1 - Primary Elements.md",
-    "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point 1.md",
+    "ARTS 302/Readings/Ching/1 - Primary Elements/1 - Line 1.md",
+    "ARTS 302/Readings/Ching/1 - Primary Elements/1 - Line.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements",
     "ARTS 302/Readings/Untitled.md",
@@ -202,7 +203,6 @@
     "Math 223/Textbook",
     "Biology/Ch8/Cellular Respiration.md",
     "Math 223/z - Practice.md",
-    "Biology/Ch11/11.2 Complex Inheritence.md",
     "EBME 105",
     "Chem 111",
     "Math 223",
