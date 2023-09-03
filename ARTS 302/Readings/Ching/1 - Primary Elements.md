@@ -17,4 +17,6 @@ Extending an element in a direction increases its **dimention**
 
 ### Plane
 
+![[2 - Plane]]
+
 ### Volume
