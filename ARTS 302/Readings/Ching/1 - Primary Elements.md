@@ -22,7 +22,8 @@ Extending an element in a direction increases its **dimention**
 
 #### Point-like forms
 ![[0 - Point forms]]
-A point in 3D space can look like a circle, pilla
+- A point in 3D space can look like a circle, cylinder, or even a sphere. They have similar characteristics to points as marking areas as centers or to create tension.
+- Two points creates both a line going **through** them and a perpendicular going **between** then
 ### Line
 
 ![[1 - Line]]
