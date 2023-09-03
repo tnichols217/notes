@@ -35,7 +35,7 @@ Extending an element in a direction increases its **dimention**
 - lines **join**, **link**, and **surround** other objects
   - Articulate and contour surfaces
 - Has no width or depth, but possesses a length
-- 
+- Vertical lines express equilibrium with gravity
 
 ### Plane
 
