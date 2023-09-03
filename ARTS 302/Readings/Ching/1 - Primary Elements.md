@@ -20,6 +20,9 @@ Extending an element in a direction increases its **dimention**
 - Uncentered points create **aggression** and **tension**
 	- Centered points creates **stability** and **rest**
 
+#### Point-like forms
+
+
 ### Line
 
 ![[1 - Line]]
