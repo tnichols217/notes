@@ -21,7 +21,7 @@ Extending an element in a direction increases its **dimention**
 	- Centered points creates **stability** and **rest**
 
 #### Point-like forms
-
+![[0 - Point forms]]
 
 ### Line
 
