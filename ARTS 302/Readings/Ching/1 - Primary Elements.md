@@ -42,6 +42,8 @@ Extending an element in a direction increases its **dimention**
 - Lines can also outline a space or volume
 - Lines can be imagined across symmetry
 - Walkways also join and link 3D spaces
+- Lines signify edges or a grid on a plan
+- Texture depends on weight and 
 
 ### Plane
 
