@@ -11,9 +11,11 @@
             "id": "5bd8fff90087897a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md"
+                "file": "Math 223/Practice Problems/12.1.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "db44901e978fe2b8"
@@ -28,9 +30,11 @@
             "id": "295c2a938f81cc08",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md"
+                "file": "Math 223/Practice Problems/12.1.md",
+                "mode": "preview",
+                "source": false
               }
             },
             "group": "db44901e978fe2b8"
@@ -95,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md"
+                "file": "Math 223/Practice Problems/12.1.md"
               }
             }
           }
@@ -127,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md",
+                "file": "Math 223/Practice Problems/12.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,12 +173,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "295c2a938f81cc08",
   "lastOpenFiles": [
-    "Math 223/Untitled",
+    "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md",
+    "Math 223/Practice Problems/12.1.md",
+    "Math 223/Practice Problems",
     "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md",
     "Math 223/z - Practice.md",
-    "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/1 - Line.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements.md",
     "ARTS 302/Reading Drawings.md",
@@ -206,7 +211,6 @@
     "EBME 105",
     "Chem 111",
     "Math 223",
-    "college/Stop Googling Lets Talk.pdf",
     "APBiology/7/Notes/Doodle Notes/10 - Speciation/10 - Speciation - 3.png",
     "APBiology/7/Notes/Doodle Notes/10 - Speciation/10 - Speciation.png",
     "APBiology/7/Documents/Doodle Notes/10 - Speciation.png",
