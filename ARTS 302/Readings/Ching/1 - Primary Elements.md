@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-02 20:02
-date updated: 2023-09-02 20:18
+date updated: 2023-09-02 20:20
 ---
 
 # Primary Elements
@@ -12,9 +12,11 @@ Extending an element in a direction increases its **dimention**
 ### Point
 
 ![[0 - Point]]
+
 - Marks a position
 - No ***size***, ***depth***, or ***area***
 - Is **static**, **central**, and **directionless**
+
 ### Line
 
 ![[1 - Line]]
