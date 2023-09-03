@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md"
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -30,7 +30,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md"
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md"
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md",
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,10 +169,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "295c2a938f81cc08",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
-    "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md",
+    "Math 223/Untitled",
     "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md",
+    "Math 223/z - Practice.md",
+    "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/1 - Line.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements.md",
     "ARTS 302/Reading Drawings.md",
@@ -200,8 +202,6 @@
     "Math 223/2 - Vector Functions.md",
     "ARTS 302",
     "Math 223/Overview.md",
-    "Chem 111/Overview.md",
-    "Chem 111/1 - Intro.md",
     "Math 223/Textbook",
     "EBME 105",
     "Chem 111",
