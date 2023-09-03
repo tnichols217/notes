@@ -16,7 +16,8 @@ Extending an element in a direction increases its **dimention**
 - Marks a position
 - No ***size***, ***depth***, or ***area***
 - Is **static**, **central**, and **directionless**
-- 
+- Can mark **centers**, ends of lines, or corners
+
 
 ### Line
 
