@@ -13,6 +13,8 @@ Extending an element in a direction increases its **dimention**
 
 ![[0 - Point]]
 - Marks a position
+- No ***size***, ***depth***, or ***area***
+- Is **static**, **central**, and **directionless**
 ### Line
 
 ![[1 - Line]]
