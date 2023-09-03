@@ -40,6 +40,8 @@ Extending an element in a direction increases its **dimention**
 	- Horizontal lines express stability and rest
 	- Oblique lines express the rising or falling motion
 - Lines can also outline a space or volume
+- Lines can be imagined across symmetry
+- Walkways also join and link 3D spaces
 
 ### Plane
 
