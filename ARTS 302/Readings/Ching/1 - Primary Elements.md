@@ -17,7 +17,8 @@ Extending an element in a direction increases its **dimention**
 - No ***size***, ***depth***, or ***area***
 - Is **static**, **central**, and **directionless**
 - Can mark **centers**, ends of lines, or corners
-
+- Uncentered points create **aggression** and **tension**
+	- Centered points creates **stability** and **rest**
 
 ### Line
 
