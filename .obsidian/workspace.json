@@ -11,9 +11,11 @@
             "id": "5bd8fff90087897a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point forms.md"
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "db44901e978fe2b8"
@@ -28,9 +30,11 @@
             "id": "295c2a938f81cc08",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point forms.md"
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "db44901e978fe2b8"
@@ -95,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point forms.md"
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md"
               }
             }
           }
@@ -127,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point forms.md",
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,11 +173,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "295c2a938f81cc08",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point forms.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements.md",
     "ARTS 302/Reading Drawings.md",
-    "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point forms.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/0 - Point.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/3 - Volume.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/2 - Plane.md",

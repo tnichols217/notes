@@ -22,7 +22,7 @@ Extending an element in a direction increases its **dimention**
 
 #### Point-like forms
 ![[0 - Point forms]]
-
+A point in 3D space can look like a circle, pilla
 ### Line
 
 ![[1 - Line]]
