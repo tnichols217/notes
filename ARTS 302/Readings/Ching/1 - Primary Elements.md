@@ -36,9 +36,10 @@ Extending an element in a direction increases its **dimention**
   - Articulate and contour surfaces
 - Has no width or depth, but possesses a length
 - Orientation
-	- Vertical lines express equilibrium with gravity and mark points 
+	- Vertical lines express equilibrium with gravity and mark points in space
 	- Horizontal lines express stability and rest
 	- Oblique lines express the rising or falling motion
+- Lines can also outline a space or volume
 
 ### Plane
 
