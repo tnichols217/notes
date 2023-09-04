@@ -54,7 +54,7 @@ Extending an element in a direction increases its **dimention**
 - The bottom right graphic illustrates the transition between pillars and a wall
 - Often walls of pillars are used as the the exterior facade of a building
 - Walls of pillars both act as support and an example of how the area is semi-permeable
-- Pillars also can act as a 
+- Pillars also can act as a rhythmic measurement of space
 ### Plane
 
 ![[2 - Plane]]
