@@ -73,6 +73,11 @@ Extending an element in a direction increases its **dimention**
 
 ##### Overhead Planes
 
+- Normally out of reach
+- Can symbolize the sky or anything above
+- Provides shelter
+- 
+
 ##### Wall Planes
 
 - Can be Exterior or Interior
