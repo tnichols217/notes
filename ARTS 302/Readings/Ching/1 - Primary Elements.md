@@ -47,6 +47,10 @@ Extending an element in a direction increases its **dimention**
 
 #### Plane forming lines
 
+![[1.5 - Plane Forming Lines]]
+
+- Two lines create an envisioned plane
+- Multiple pi
 ### Plane
 
 ![[2 - Plane]]
