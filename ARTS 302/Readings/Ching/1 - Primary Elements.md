@@ -98,4 +98,7 @@ Extending an element in a direction increases its **dimention**
 ![[3 - Volume]]
 
 - An extended plane
+- Consist of points, lines, and planes
+- Can be solid or void
+- Can be the space created internally, or the space taken up
 - 
