@@ -76,7 +76,7 @@ Extending an element in a direction increases its **dimention**
 - Normally out of reach
 - Can symbolize the sky or anything above
 - Provides shelter
-- 
+- Can form overhangs to provide outdoor shelter and relate heavier to the ground
 
 ##### Wall Planes
 
@@ -96,3 +96,6 @@ Extending an element in a direction increases its **dimention**
 ### Volume
 
 ![[3 - Volume]]
+
+- An extended plane
+- 
