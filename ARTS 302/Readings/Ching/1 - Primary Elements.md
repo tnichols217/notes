@@ -50,7 +50,9 @@ Extending an element in a direction increases its **dimention**
 ![[1.5 - Plane Forming Lines]]
 
 - Two lines create an envisioned plane
-- Multiple pi
+- Multiple pillars can create a symbolic wall
+- The bottom right graphic illustrates the transition between pillars and a wall
+- Often walls of pillars are used as the the exterior facade of a building
 ### Plane
 
 ![[2 - Plane]]
