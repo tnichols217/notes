@@ -27,3 +27,16 @@
 ### IT Technician Intern
 **Aug 2022 - Aug 2023 | Dalat International School | Tanjung Bungah, Penang, Malaysia**
 
+- **Maintained inventory records** for all IT equipment within the organization's network environment
+- Installed and configured computer systems, including operating systems, applications, and peripheral device drivers
+- Utilized **Unifi** network management software to find and fix network errors
+- **Developed backend and frontend software** for school services including web management and record and data management
+
+### Audio Visual Technician
+**Aug 2020 - Aug 2023 | Penang Bible Church | Georgetown, Penang, Malaysia**
+
+- **Constructed custom cables** for connecting components within an AV system
+- Implemented **preventative maintenance** procedures on audiovisual systems in order to reduce breakdowns or malfunctions
+- **Designed and implemented an AV system** from scratch to suit a space, needs, and budget
+- Ran **livestreams** and live audio processing for live events
+- Wrote and ran routine checks and repairs to an AV system
