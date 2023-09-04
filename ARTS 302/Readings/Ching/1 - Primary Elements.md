@@ -66,7 +66,7 @@ Extending an element in a direction increases its **dimention**
 - There are three kinds of planes
 	- Overhead Planes - roofs, ceilings
 	- Wall Planes
-	- Base Plane - ground, floor
+	- Base Plane - ground, floor, support
 
 ### Volume
 
