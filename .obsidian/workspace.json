@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 223/Practice Problems/1 - Problem Set 1.md",
+                "file": "CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 223/Practice Problems/1 - Problem Set 1.md",
+                "file": "CV.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 223/Practice Problems/1 - Problem Set 1.md"
+                "file": "CV.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 223/Practice Problems/1 - Problem Set 1.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,14 +175,14 @@
   },
   "active": "295c2a938f81cc08",
   "lastOpenFiles": [
-    "Math 223/Practice Problems/1 - Problem Set 1.pdf",
-    "Math 223/Practice Problems/12.2.md",
-    "Math 223/Practice Problems/1 - Problem Set 1.md",
-    "Math 223/Practice Problems/12.1.md",
-    "Math 223/Textbook/12.1 - Vector Operations.md",
-    "Math 223/1 - Vectors.md",
+    "MATH 223/Practice Problems/1 - Problem Set 1.md",
+    "MATH 223/Practice Problems/1 - Problem Set 1.pdf",
+    "MATH 223/Practice Problems/12.2.md",
+    "MATH 223/Practice Problems/12.1.md",
+    "MATH 223/Textbook/12.1 - Vector Operations.md",
+    "MATH 223/1 - Vectors.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md",
-    "Math 223/Practice Problems",
+    "MATH 223/Practice Problems",
     "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md",
     "Math 223/z - Practice.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/1 - Line.md",
@@ -207,10 +207,9 @@
     "APMusicTheory/Chord Progressions.md",
     "Chem 111/Atomic Theory.md",
     "ARTS 302",
-    "Math 223/Textbook",
+    "MATH 223/Textbook",
     "EBME 105",
     "Chem 111",
-    "Math 223",
     "APBiology/7/Notes/Doodle Notes/10 - Speciation/10 - Speciation - 3.png",
     "APBiology/7/Notes/Doodle Notes/10 - Speciation/10 - Speciation.png",
     "APBiology/7/Documents/Doodle Notes/10 - Speciation.png",
