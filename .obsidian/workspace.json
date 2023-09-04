@@ -11,11 +11,9 @@
             "id": "5bd8fff90087897a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
-                "mode": "source",
-                "source": false
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -30,11 +28,9 @@
             "id": "295c2a938f81cc08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
-                "mode": "preview",
-                "source": false
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -99,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md"
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md"
               }
             }
           }
@@ -131,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +169,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5bd8fff90087897a",
+  "active": "295c2a938f81cc08",
   "lastOpenFiles": [
+    "ARTS 302/Readings/Ching/1 - Primary Elements.md",
+    "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md",
     "ARTS 302/Reading Drawings.md",
     "CV.md",
     "CV.pdf",
@@ -209,8 +207,6 @@
     "Private/duo/for trevor/hewwo.md",
     "Private/duo/for trevor/half a year later.md",
     "Private/duo/for trevor/5 months ago...md",
-    "Private/duo/build your own adventure/files/2.md",
-    "Private/duo/build your own adventure/files/2.2.md",
     "Private/duo/attachments/Pasted image 20220523123422.png",
     "Private/duo/attachments/Pasted image 20220523122810.png",
     "Private/duo/attachments/Pasted image 20220523120456.png",
