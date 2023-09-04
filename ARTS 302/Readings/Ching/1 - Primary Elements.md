@@ -63,7 +63,10 @@ Extending an element in a direction increases its **dimention**
 - Use foreshortening to display angles
 - Surface color, pattern, and texture effect visual weight
 - Planes express limits of volumes
-- 
+- There are three kinds of planes
+	- Overhead Planes - roofs, ceilings
+	- Wall Planes
+	- Base Plane - ground, floor
 
 ### Volume
 
