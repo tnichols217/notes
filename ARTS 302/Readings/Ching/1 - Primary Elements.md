@@ -75,6 +75,11 @@ Extending an element in a direction increases its **dimention**
 
 ##### Base Plane
 
+- Provides support
+- Can be a ground plane or a floor plane
+- Can be stepped to fit the terrain
+- 
+
 ### Volume
 
 ![[3 - Volume]]
