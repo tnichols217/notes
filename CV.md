@@ -39,4 +39,21 @@
 - Implemented **preventative maintenance** procedures on audiovisual systems in order to reduce breakdowns or malfunctions
 - **Designed and implemented an AV system** from scratch to suit a space, needs, and budget
 - Ran **livestreams** and live audio processing for live events
-- Wrote and ran routine checks and repairs to an AV system
+- Wrote and ran **routine checks** and repairs to an AV system
+
+## Education
+**Bachelor of Science (B.S.) in Computer Science Candidate**
+Expected graduation in Jul 2027 | Case Western Reserve University - Cleveland, OH, US
+
+## Skills
+
+- 3D Animation
+- Adobe Illustrator
+- Web Applications
+- Blender
+    
+
+- Node.js
+    
+
+- Nix CI/CD
