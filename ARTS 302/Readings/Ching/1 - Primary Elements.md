@@ -73,12 +73,16 @@ Extending an element in a direction increases its **dimention**
 
 ##### Wall Planes
 
+- Can be Exterior or Interior
+- Establish boundaries
+- Mold interiors
+- 
+
 ##### Base Plane
 
 - Provides support
 - Can be a ground plane or a floor plane
 - Can be stepped to fit the terrain
-- 
 
 ### Volume
 
