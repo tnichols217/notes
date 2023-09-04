@@ -76,6 +76,7 @@ Extending an element in a direction increases its **dimention**
 - Can be Exterior or Interior
 - Establish boundaries
 - Mold interiors
+- Can be structural or a strong directional influence
 - 
 
 ##### Base Plane
