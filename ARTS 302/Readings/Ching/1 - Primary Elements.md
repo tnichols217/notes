@@ -60,6 +60,10 @@ Extending an element in a direction increases its **dimention**
 ![[2 - Plane]]
 
 - Planes are extended lines
+- Use foreshortening to display angles
+- Surface color, pattern, and texture effect visual weight
+- Planes express limits of volumes
+- 
 
 ### Volume
 
