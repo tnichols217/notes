@@ -68,6 +68,13 @@ Extending an element in a direction increases its **dimention**
 	- Wall Planes
 	- Base Plane - ground, floor, support
 
+#### Planar Elements
+##### Overhead Planes
+
+##### Wall Planes
+
+##### Base Plane
+
 ### Volume
 
 ![[3 - Volume]]
