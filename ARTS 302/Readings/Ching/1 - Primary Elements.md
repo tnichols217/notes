@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-02 20:02
-date updated: 2023-09-03 03:39
+date updated: 2023-09-03 22:46
 ---
 
 # Primary Elements
@@ -55,6 +55,7 @@ Extending an element in a direction increases its **dimention**
 - Often walls of pillars are used as the the exterior facade of a building
 - Walls of pillars both act as support and an example of how the area is semi-permeable
 - Pillars also can act as a rhythmic measurement of space
+
 ### Plane
 
 ![[2 - Plane]]
@@ -64,11 +65,12 @@ Extending an element in a direction increases its **dimention**
 - Surface color, pattern, and texture effect visual weight
 - Planes express limits of volumes
 - There are three kinds of planes
-	- Overhead Planes - roofs, ceilings
-	- Wall Planes
-	- Base Plane - ground, floor, support
+  - Overhead Planes - roofs, ceilings
+  - Wall Planes
+  - Base Plane - ground, floor, support
 
 #### Planar Elements
+
 ##### Overhead Planes
 
 ##### Wall Planes
@@ -77,7 +79,8 @@ Extending an element in a direction increases its **dimention**
 - Establish boundaries
 - Mold interiors
 - Can be structural or a strong directional influence
-- 
+- Define the qualities of space
+- Walls enclose and provide privacy, while windows and doorways break isolation
 
 ##### Base Plane
 
