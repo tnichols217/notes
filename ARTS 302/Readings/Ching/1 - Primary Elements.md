@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-02 20:02
-date updated: 2023-09-03 22:46
+date updated: 2023-09-03 22:49
 ---
 
 # Primary Elements
@@ -101,4 +101,3 @@ Extending an element in a direction increases its **dimention**
 - Consist of points, lines, and planes
 - Can be solid or void
 - Can be the space created internally, or the space taken up
-- 
