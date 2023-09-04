@@ -59,6 +59,8 @@ Extending an element in a direction increases its **dimention**
 
 ![[2 - Plane]]
 
+- Planes are extended lines
+
 ### Volume
 
 ![[3 - Volume]]
