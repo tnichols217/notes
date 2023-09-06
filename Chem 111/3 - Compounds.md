@@ -10,6 +10,12 @@
 - When naming or writing a formula, the more metallic species (also the cation) comes first ($\text{NaCl}$)
 - Binary ionic compounds will be a most reduced ratio that is non-charged overall
 
+## Naming Binary Ionic Compounds
+1. Cation then Anion
+2. Cation is just the parent elements name
+3. Anion is named by taking the first syllable of the Anion and adding *-ide*
+4. No prefixes
+
 # Covalent Compounds
 - Synonymous with molecular compounds
 - Nonmetals bonded to nonmetals
