@@ -5,6 +5,10 @@
 - Bonded by electrostatic forces
 - Formulas are just ratios and not molecules
 
+## Ionic Bonding
+- Metals normally donate electrons whilst the nonmetal receives
+- 
+
 # Covalent Compounds
 - Synonymous with molecular compounds
 - Nonmetals bonded to nonmetals
