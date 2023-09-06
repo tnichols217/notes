@@ -8,7 +8,7 @@
 ## Ionic Bonding
 - Metals normally donate electrons whilst the nonmetal receives
 - When naming or writing a formula, the more metallic species (also the cation) comes first ($\text{NaCl}$)
-- 
+- Binary ionic compounds will be a most reduced ratio that is non-charged overall
 
 # Covalent Compounds
 - Synonymous with molecular compounds
