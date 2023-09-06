@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
+                "file": "APBiology/1/Notes/3 - Properties of Water.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
+                "file": "APBiology/1/Notes/3 - Properties of Water.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "pH",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -99,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md"
+                "file": "APBiology/1/Notes/3 - Properties of Water.md"
               }
             }
           }
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
+                "file": "APBiology/1/Notes/3 - Properties of Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,10 +176,10 @@
   },
   "active": "295c2a938f81cc08",
   "lastOpenFiles": [
+    "ARTS 302/Readings/Ching/1 - Primary Elements.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md",
     "MATH 223/Practice Problems/12.1.md",
     "MATH 223/Practice Problems/1 - Problem Set 1.md",
-    "ARTS 302/Readings/Ching/1 - Primary Elements.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/2 - Plane.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/1 - Line.md",
     "ARTS 302/Reading Drawings.md",
