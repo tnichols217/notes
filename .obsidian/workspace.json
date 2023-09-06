@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 111/3 - Compounds.md",
+                "file": "APMusicTheory/Cadences and Musical Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 111/3 - Compounds.md",
+                "file": "APMusicTheory/Cadences and Musical Ideas.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chem 111/3 - Compounds.md"
+                "file": "APMusicTheory/Cadences and Musical Ideas.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem 111/3 - Compounds.md",
+                "file": "APMusicTheory/Cadences and Musical Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +175,8 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
-    "MATH 223/Textbook/12.1 - Vector Operations.md",
     "Chem 111/3 - Compounds.md",
+    "MATH 223/Textbook/12.1 - Vector Operations.md",
     "MATH 223/1 - Vectors.md",
     "MATH 223/Textbook/12.1 - Vector Symbols.md",
     "MATH 223/2 - Vector Functions.md",
