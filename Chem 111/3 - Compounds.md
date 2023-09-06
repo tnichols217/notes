@@ -19,5 +19,5 @@
 
 # Compounds with common names
 - Water ($\text{H}_2\text{O}$)
-- Ammonia (NH_3)
+- Ammonia ($\text{NH}_3$)
 - Ozone ($\text{O}_3$)
