@@ -12,4 +12,8 @@
 - Electrons clump between the atoms
 
 # Organic Compounds
-- Carbon containing compounds (minus $CO_2$)
+- Carbon containing compounds (minus $\text{CO}_2$ and $\text{CO}$)
+
+# Acids / Bases
+- Acids donate $\text{H}^+$ whilst Bases recieves
+- Base
