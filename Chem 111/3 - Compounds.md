@@ -24,7 +24,9 @@
 
 ## Naming Covalent Compounds
 - More metallic is names first
-- Second element is nameed 
+- Second element is named with an *-ide*
+- Prefixes must be used to denote quantities
+- *mono-* is not necessary for the first element
 
 # Organic Compounds
 - Carbon containing compounds (minus $\text{CO}_2$ and $\text{CO}$)
