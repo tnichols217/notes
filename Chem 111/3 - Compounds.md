@@ -9,4 +9,7 @@
 - Synonymous with molecular compounds
 - Nonmetals bonded to nonmetals
 - Electrons are shared between atoms
-- 
+- Electrons clump between the atoms
+
+# Organic Compounds
+- Carbon containing compounds (minus $CO_2$)
