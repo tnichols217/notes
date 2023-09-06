@@ -6,5 +6,7 @@
 - Formulas are just ratios and not molecules
 
 # Covalent Compounds
-- Synonymous with molecular cojpound
+- Synonymous with molecular compounds
+- Nonmetals bonded to nonmetals
+- Electrons are shared between atoms
 - 
