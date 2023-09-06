@@ -15,5 +15,9 @@
 - Carbon containing compounds (minus $\text{CO}_2$ and $\text{CO}$)
 
 # Acids / Bases
-- Acids donate $\text{H}^+$ whilst Bases recieves
-- Base
+- Acids donate $\text{H}^+$ whilst Bases receives
+
+# Compounds with common names
+- Water ($\text{H}_2\text{O}$)
+- Ammonia (NH_3)
+- Ozone ($\text{O}_3$)
