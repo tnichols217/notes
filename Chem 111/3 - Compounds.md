@@ -22,6 +22,10 @@
 - Electrons are shared between atoms
 - Electrons clump between the atoms
 
+## Naming Covalent Compounds
+- More metallic is names first
+- Second element is nameed 
+
 # Organic Compounds
 - Carbon containing compounds (minus $\text{CO}_2$ and $\text{CO}$)
 
