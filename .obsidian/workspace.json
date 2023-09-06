@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/1/Notes/3 - Properties of Water.md",
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APBiology/1/Notes/3 - Properties of Water.md",
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28c69e3aca2b1263",
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APBiology/1/Notes/3 - Properties of Water.md"
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md"
               }
             }
           }
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APBiology/1/Notes/3 - Properties of Water.md",
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +175,8 @@
   },
   "active": "295c2a938f81cc08",
   "lastOpenFiles": [
+    "MATH 223/2 - Vector Functions.md",
+    "APBiology/1/Notes/3 - Properties of Water.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md",
     "MATH 223/Practice Problems/12.1.md",
@@ -210,8 +211,6 @@
     "Private/duo/notes/essay3.md",
     "Private/duo/notes/essay2.md",
     "Private/duo/notes/essay1.md",
-    "Private/duo/notes/Long Messages.md",
-    "Private/duo/instructions.md",
     "Private/duo/attachments/Pasted image 20220523123422.png",
     "Private/duo/attachments/Pasted image 20220523122810.png",
     "Private/duo/attachments/Pasted image 20220523120456.png",
