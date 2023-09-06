@@ -7,6 +7,7 @@
 
 ## Ionic Bonding
 - Metals normally donate electrons whilst the nonmetal receives
+- When naming or writing a formula, the more metallic species (also the cation) comes first ($\text{NaCl}$)
 - 
 
 # Covalent Compounds
