@@ -51,7 +51,7 @@
 - 2 carbon: *eth-*
 - 3 carbon: *prop-*
 - 4 carbon: *but-*
-- 5 carbon: *pent-*
+:D- 5 carbon: *pent-*
 
 # Common compounds with names
 - Water ($\text{H}_2\text{O}$)
