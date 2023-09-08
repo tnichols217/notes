@@ -42,6 +42,9 @@
 - Name it by starrting with *hydro-* and ending it with *-ic acid*
 - Only an acid if it is in aq state
 
+### Acids with Oxygen
+- 
+
 # Common compounds with names
 - Water ($\text{H}_2\text{O}$)
 - Ammonia ($\text{NH}_3$)
