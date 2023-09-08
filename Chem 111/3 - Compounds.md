@@ -34,7 +34,7 @@
 # Acids / Bases
 - Acids donate $\text{H}^+$ whilst Bases receives
 
-# Compounds with common names
+# Common compounds with names
 - Water ($\text{H}_2\text{O}$)
 - Ammonia ($\text{NH}_3$)
 - Ozone ($\text{O}_3$)
