@@ -36,7 +36,7 @@
 
 ## Acids
 - If the first symbol is a Hydrogen it tends to be an inorganic acid
-- If it ends with a COOH it tends to be an organic acid
+- If it ends with a **COOH** it tends to be an organic acid
 
 ### Acids without Oxygen
 - Name it by starrting with *hydro-* and ending it with *-ic acid*
