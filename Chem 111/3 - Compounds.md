@@ -34,6 +34,10 @@
 # Acids / Bases
 - Acids donate $\text{H}^+$ whilst Bases receives
 
+## Acids
+- If the first symbol is a Hydrogen it tends to be an inorganic acid
+- If it ends with a COOH it tends to be an organic acid
+
 # Common compounds with names
 - Water ($\text{H}_2\text{O}$)
 - Ammonia ($\text{NH}_3$)
