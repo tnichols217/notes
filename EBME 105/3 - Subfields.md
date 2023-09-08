@@ -23,7 +23,8 @@
 ## Mechanisms & Manufacturing
 
 # Devices & Instrumentation
-
+- Aligned with Electrical Engineering
+- Focuses on electrical devices and measuring biological
 ## Imaging
 
 ## Instrumentation
