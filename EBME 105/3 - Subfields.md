@@ -11,6 +11,7 @@
 # Biomedial Computing
 
 # Biomechanics
+- More rlated to Mech E.
 ## Biomechanics
 
 ## Mechanisms & Manufacturing
