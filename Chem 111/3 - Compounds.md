@@ -43,7 +43,8 @@
 - Only an acid if it is in aq state
 
 ### Acids with Oxygen
-- 
+- If the anion ends in *-ate*, change it to *-ic acid*
+- If the anion ends in *-ite*, change it to *-ous acid*
 
 # Common compounds with names
 - Water ($\text{H}_2\text{O}$)
