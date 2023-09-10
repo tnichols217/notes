@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/12.3.md"
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/12.3.md",
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,19 +201,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 2310,
-        "y": 14,
-        "width": 682,
+        "x": 741,
+        "y": 450,
+        "width": 683,
         "height": 922,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "5bd8fff90087897a",
+  "active": "2c9ad63ac6f29f9e",
   "lastOpenFiles": [
-    "MATH 223/Textbook/12.1 - Vector Operations.md",
     "MATH 223/Practice Problems/12.3.md",
+    "MATH 223/Textbook/12.1 - Vector Operations.md",
     "MATH 223/Practice Problems/12.5.md",
     "MATH 223/Practice Problems/12.4.md",
     "MATH 223/Practice Problems/12.1.md",
