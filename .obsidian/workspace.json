@@ -11,11 +11,9 @@
             "id": "5bd8fff90087897a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH 223/Practice Problems/12.4.md",
-                "mode": "source",
-                "source": false
+                "file": "MATH 223/Practice Problems/12.4/47.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -30,11 +28,9 @@
             "id": "295c2a938f81cc08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH 223/Practice Problems/12.4.md",
-                "mode": "preview",
-                "source": false
+                "file": "MATH 223/Practice Problems/12.4/47.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -99,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/12.4.md"
+                "file": "MATH 223/Practice Problems/12.4/47.md"
               }
             }
           }
@@ -131,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/12.4.md",
+                "file": "MATH 223/Practice Problems/12.4/47.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,10 +206,12 @@
       }
     ]
   },
-  "active": "5bd8fff90087897a",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
-    "MATH 223/Textbook/12.1 - Vector Operations.md",
     "MATH 223/Practice Problems/12.4.md",
+    "MATH 223/Practice Problems/12.4/47.md",
+    "MATH 223/Practice Problems/12.4",
+    "MATH 223/Textbook/12.1 - Vector Operations.md",
     "MATH 223/Textbook/12.1 - Vector Symbols.md",
     "MATH 223/Practice Problems/12.5.md",
     "MATH 223/Practice Problems/12.3.md",
@@ -237,8 +235,6 @@
     "CV.pdf",
     "Private/duo/videos watched/general/putting yourself first.md",
     "Private/duo/videos watched/@simonesquared/talking about self love and confidence.md",
-    "Private/duo/videos watched/@simonesquared/red flag in guys.md",
-    "Private/duo/videos watched/@psych2go/harsh truths you need to accept.md",
     "Private/duo/videos watched/general",
     "Private/duo/videos watched/@simonesquared",
     "Private/duo/videos watched/@psych2go",
@@ -247,7 +243,6 @@
     "Private/duo/notes/sorryAgain.pdf",
     "Private/duo/notes/sorry.pdf",
     "Private/duo/notes/essay4.pdf",
-    "Private/duo/notes/essay3.pdf",
     "Private/duo/attachments/Pasted image 20220523123422.png",
     "Private/duo/attachments/Pasted image 20220523122810.png",
     "Private/duo/attachments/Pasted image 20220523120456.png",
