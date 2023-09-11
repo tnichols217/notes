@@ -1,3 +1,8 @@
+---
+date created: 2023-09-11 10:47
+date updated: 2023-09-11 10:47
+---
+
 # Percentage Composition
 
 - What percentage of the mass of a compound is made up of that element
@@ -5,5 +10,8 @@
 # Empirical Formula
 
 - The smallest simple whole number ratio between the elements of a molecule or formula unit
-- Be sure to use atomic mass to convert between moles (empirical formula) and grams (mass percentage)
 
+# Converting between Percentage Composition and Empirical Formulas
+
+- Be sure to use atomic mass to convert between moles (empirical formula) and grams (mass percentage)
+- Simplify the ratio to whole numbers for empirical formulas, and to a percentage for mass percentage
