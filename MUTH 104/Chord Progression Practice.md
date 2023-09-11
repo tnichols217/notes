@@ -8,5 +8,5 @@ K:F
 X: 1
 L:1/1
 K:E
-|[EGeb][CGec'][CAec'][]
+|[EGeb][CGec'][CAec'][B,Adb][EGeb]
 ```
