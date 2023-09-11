@@ -5,4 +5,4 @@
 # Empirical Formula
 
 - The smallest simple whole number ratio between the elements of a molecule or formula unit
-- 
+
