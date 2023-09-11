@@ -201,10 +201,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 741,
-        "y": 450,
-        "width": 683,
-        "height": 922,
+        "x": 740,
+        "y": 144,
+        "width": 686,
+        "height": 923,
         "maximize": true,
         "zoom": 0
       }
