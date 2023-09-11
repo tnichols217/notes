@@ -20,4 +20,8 @@ date updated: 2023-09-11 10:59
 
 - Use information of the molar mass to scale the empirical formula to become the molecular formula
 
-# Combustion analysis
+# Combustion Analysis
+
+- Normally contain C, H and O
+- Exhaust is $CO_2$ and $H_2O$
+- 
