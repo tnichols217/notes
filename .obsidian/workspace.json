@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APMusicTheory/Chord Progressions.md",
+                "file": "APMusicTheory/Secondary Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APMusicTheory/Chord Progressions.md",
+                "file": "APMusicTheory/Secondary Functions.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APMusicTheory/Chord Progressions.md"
+                "file": "APMusicTheory/Secondary Functions.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APMusicTheory/Chord Progressions.md",
+                "file": "APMusicTheory/Secondary Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,6 +212,8 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "APMusicTheory/Non-Chord Tones (NCTs).md",
+    "APMusicTheory/Chord Progressions.md",
     "APMusicTheory/Cadences and Musical Ideas.md",
     "MUTH 104/Chord Progression Practice.md",
     "APMusicTheory/Vocal Ranges.md",
@@ -219,10 +221,8 @@
     "APMusicTheory/Seventh Chords.md",
     "APMusicTheory/Secondary Functions.md",
     "APMusicTheory/Second Inversion Triads.md",
-    "APMusicTheory/Non-Chord Tones (NCTs).md",
     "APMusicTheory/Intervals in the bass.md",
     "APMusicTheory/First Inversion Triads.md",
-    "APMusicTheory/Chord Progressions.md",
     "APMusicTheory/Chord Inversions.md",
     "MUTH 104/Practice.md",
     "MUTH 104/Chord Listening.md",
