@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/12.4.md"
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/12.4.md",
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,11 +178,11 @@
     "type": "floating",
     "children": [
       {
-        "id": "40bdcecb217eaf20",
+        "id": "f33a60eaf79276ad",
         "type": "window",
         "children": [
           {
-            "id": "fdfd826955fdc34a",
+            "id": "cd17b0d29763e7a7",
             "type": "tabs",
             "children": [
               {
@@ -201,20 +201,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 740,
-        "y": 144,
-        "width": 686,
-        "height": 923,
+        "x": 2350,
+        "y": 12,
+        "width": 682,
+        "height": 922,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "5bd8fff90087897a",
+  "active": "2c9ad63ac6f29f9e",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/12.5.md",
-    "MATH 223/Practice Problems/12.4.md",
+    "MATH 223/Textbook/12.1 - Vector Symbols.md",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
+    "MATH 223/Practice Problems/12.4.md",
+    "MATH 223/Practice Problems/12.5.md",
     "MATH 223/Practice Problems/12.3.md",
     "MATH 223/Practice Problems/12.1.md",
     "EBME 105/3 - Subfields.md",
@@ -222,7 +223,6 @@
     "MUTH 104/Chord Listening.md",
     "Chem 111/4 - Molecules.md",
     "Chem 111/3 - Compounds.md",
-    "MATH 223/Textbook/12.1 - Vector Symbols.md",
     "APMusicTheory/Cadences and Musical Ideas.md",
     "MATH 223/1 - Vectors.md",
     "MATH 223/2 - Vector Functions.md",
