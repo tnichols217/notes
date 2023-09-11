@@ -25,4 +25,5 @@ date updated: 2023-09-11 10:59
 - Normally contain C, H and O
 - Exhaust is $CO_2$ and $H_2O$
 - The rapid addition of Oxygen to a compound
+- Assume all Carbon goes to $CO_2$ and Hydrogen goes to $H_2O$, Oxygen is unbounded
 - 
