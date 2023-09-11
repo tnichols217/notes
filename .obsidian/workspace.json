@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Chord Progression Practice.md",
+                "file": "APMusicTheory/Cadences and Musical Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Chord Progression Practice.md",
+                "file": "APMusicTheory/Cadences and Musical Ideas.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Chord Progression Practice.md"
+                "file": "APMusicTheory/Cadences and Musical Ideas.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Chord Progression Practice.md",
+                "file": "APMusicTheory/Cadences and Musical Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,6 +212,7 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "MUTH 104/Chord Progression Practice.md",
     "APMusicTheory/Vocal Ranges.md",
     "APMusicTheory/Vocabulary.md",
     "APMusicTheory/Seventh Chords.md",
@@ -224,7 +225,6 @@
     "APMusicTheory/Chord Inversions.md",
     "APMusicTheory/Cadences and Musical Ideas.md",
     "MUTH 104/Practice.md",
-    "MUTH 104/Chord Progression Practice.md",
     "MUTH 104/Chord Listening.md",
     "Chem 111/5 - Empirical Analysis.md",
     "Chem 111/3 - Compounds.md",
