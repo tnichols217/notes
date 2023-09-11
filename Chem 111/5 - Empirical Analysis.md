@@ -15,3 +15,5 @@ date updated: 2023-09-11 10:47
 
 - Be sure to use atomic mass to convert between moles (empirical formula) and grams (mass percentage)
 - Simplify the ratio to whole numbers for empirical formulas, and to a percentage for mass percentage
+
+# Co
