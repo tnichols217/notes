@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/12.3.md",
+                "file": "MATH 223/Practice Problems/12.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/12.3.md",
-                "mode": "source",
+                "file": "MATH 223/Practice Problems/12.5.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/12.3.md"
+                "file": "MATH 223/Practice Problems/12.5.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/12.3.md",
+                "file": "MATH 223/Practice Problems/12.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,6 +212,7 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "MATH 223/Practice Problems/12.3.md",
     "MATH 223/Practice Problems/12.5.md",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
     "MATH 223/Practice Problems/12.4.md",
@@ -219,7 +220,6 @@
     "MATH 223/Practice Problems/12.4/47.svg",
     "MATH 223/Practice Problems/12.4",
     "MATH 223/Textbook/12.1 - Vector Symbols.md",
-    "MATH 223/Practice Problems/12.3.md",
     "MATH 223/Practice Problems/12.1.md",
     "EBME 105/3 - Subfields.md",
     "MUTH 104/Practice.md",
