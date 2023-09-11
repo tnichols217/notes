@@ -18,3 +18,4 @@ date updated: 2023-09-11 10:47
 
 # Converting between molecular and empirical formulae
 
+- Use information of the molar mass to scale the empirical formula to 
