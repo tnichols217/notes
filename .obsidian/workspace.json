@@ -20,8 +20,19 @@
               }
             },
             "group": "db44901e978fe2b8"
+          },
+          {
+            "id": "6c1f251ee0db9951",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fa2047257169d80f",
@@ -151,6 +162,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "fab61ddc92276028",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -212,7 +233,7 @@
       }
     ]
   },
-  "active": "5bd8fff90087897a",
+  "active": "6c1f251ee0db9951",
   "lastOpenFiles": [
     "MUTH 104/Assignments/1/1.pdf",
     "MUTH 104/Assignments/1/C.pdf",
