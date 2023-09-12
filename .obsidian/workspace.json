@@ -12,11 +12,9 @@
             "id": "5bd8fff90087897a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "STAT 345/1.4.md",
-                "mode": "source",
-                "source": false
+                "file": "STAT 345/Drawing 2023-09-12 14.35.22.excalidraw.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -32,11 +30,9 @@
             "id": "295c2a938f81cc08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "STAT 345/1.4.md",
-                "mode": "source",
-                "source": false
+                "file": "STAT 345/Drawing 2023-09-12 14.35.22.excalidraw.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -101,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/1.4.md"
+                "file": "STAT 345/Drawing 2023-09-12 14.35.22.excalidraw.md"
               }
             }
           }
@@ -133,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/1.4.md",
+                "file": "STAT 345/Drawing 2023-09-12 14.35.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,10 +218,11 @@
       }
     ]
   },
-  "active": "5bd8fff90087897a",
+  "active": "295c2a938f81cc08",
   "lastOpenFiles": [
+    "STAT 345/1.4 Random Variables.md",
+    "STAT 345/Drawing 2023-09-12 14.35.22.excalidraw.md",
     "MUTH 104/Assignments/1/C.md",
-    "STAT 345/1.4.md",
     "STAT 345",
     "Untitled.md",
     "Untitled 1.md",
@@ -264,7 +261,6 @@
     "APMusicTheory/Second Inversion Triads.md",
     "APMusicTheory/Intervals in the bass.md",
     "APMusicTheory/First Inversion Triads.md",
-    "APMusicTheory/Chord Inversions.md",
     "MATH 223/Practice Problems/12.4/47.svg",
     "Private/duo/attachments/Pasted image 20220523123422.png",
     "Private/duo/attachments/Pasted image 20220523122810.png",
