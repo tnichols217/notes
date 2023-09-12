@@ -12,9 +12,11 @@
             "id": "5bd8fff90087897a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "STAT 345/Drawing 2023-09-12 14.35.22.excalidraw.md"
+                "file": "STAT 345/1.4 Random Variables.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "db44901e978fe2b8"
@@ -30,9 +32,11 @@
             "id": "295c2a938f81cc08",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "STAT 345/Drawing 2023-09-12 14.35.22.excalidraw.md"
+                "file": "STAT 345/1.4 Random Variables.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "db44901e978fe2b8"
@@ -97,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Drawing 2023-09-12 14.35.22.excalidraw.md"
+                "file": "STAT 345/1.4 Random Variables.md"
               }
             }
           }
@@ -129,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Drawing 2023-09-12 14.35.22.excalidraw.md",
+                "file": "STAT 345/1.4 Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,10 +222,10 @@
       }
     ]
   },
-  "active": "295c2a938f81cc08",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
-    "STAT 345/1.4 Random Variables.md",
     "STAT 345/Drawing 2023-09-12 14.35.22.excalidraw.md",
+    "STAT 345/1.4 Random Variables.md",
     "MUTH 104/Assignments/1/C.md",
     "STAT 345",
     "Untitled.md",
