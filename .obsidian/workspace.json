@@ -12,9 +12,11 @@
             "id": "5bd8fff90087897a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MUTH 104/Assignments/1/B.pdf"
+                "file": "MUTH 104/Assignments/1/C.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "db44901e978fe2b8"
@@ -30,9 +32,11 @@
             "id": "295c2a938f81cc08",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MUTH 104/Assignments/1/B.pdf"
+                "file": "MUTH 104/Assignments/1/C.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "db44901e978fe2b8"
@@ -97,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Assignments/1/B.pdf"
+                "file": "MUTH 104/Assignments/1/C.md"
               }
             }
           }
@@ -129,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Assignments/1/B.pdf",
+                "file": "MUTH 104/Assignments/1/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,12 +212,13 @@
       }
     ]
   },
-  "active": "b67808c7c498bc42",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "MUTH 104/Assignments/1/A.pdf",
+    "MUTH 104/Assignments/1/C.md",
+    "MUTH 104/Assignments/1/B.pdf",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords.pdf",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
-    "MUTH 104/Assignments/1/B.pdf",
-    "MUTH 104/Assignments/1/C.md",
     "MUTH 104/Assignments/1/RN Analysis Assignment 1b.pdf",
     "MUTH 104/Chord Listening.md",
     "MATH 223/Practice Problems/12.5.md",
@@ -250,8 +255,6 @@
     "MATH 223/Practice Problems/12.4/47.svg",
     "MATH 223/Practice Problems/12.4",
     "CV.pdf",
-    "Private/duo/videos watched/general",
-    "Private/duo/videos watched/@simonesquared",
     "Private/duo/attachments/Pasted image 20220523123422.png",
     "Private/duo/attachments/Pasted image 20220523122810.png",
     "Private/duo/attachments/Pasted image 20220523120456.png",
