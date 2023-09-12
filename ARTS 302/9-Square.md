@@ -1,4 +1,6 @@
 - Number of patience and meditation
 - Number of harmony and perfection
 - Symbolizes power of the holy spirit and creation in rythm
-- The product o
+- The product of 3x3
+- Last simple number, symbolizing finalization
+- 
