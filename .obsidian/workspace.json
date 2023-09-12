@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Assignments/1/C.md",
+                "file": "MUTH 104/Assignments/1/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Assignments/1/C.md",
+                "file": "MUTH 104/Assignments/1/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Assignments/1/C.md"
+                "file": "MUTH 104/Assignments/1/1.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Assignments/1/C.md",
+                "file": "MUTH 104/Assignments/1/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,12 +214,14 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
-    "MUTH 104/Assignments/1/A.pdf",
+    "MUTH 104/Assignments/1/1.pdf",
     "MUTH 104/Assignments/1/C.md",
+    "MUTH 104/Assignments/1/1.md",
     "MUTH 104/Assignments/1/B.pdf",
+    "MUTH 104/Assignments/1/RN Analysis Assignment 1b.pdf",
+    "MUTH 104/Assignments/1/A.pdf",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords.pdf",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
-    "MUTH 104/Assignments/1/RN Analysis Assignment 1b.pdf",
     "MUTH 104/Chord Listening.md",
     "MATH 223/Practice Problems/12.5.md",
     "APMusicTheory/Seventh Chords.md",
@@ -251,7 +253,6 @@
     "APMusicTheory/Chord Inversions.md",
     "MUTH 104/Practice.md",
     "Chem 111/5 - Empirical Analysis.md",
-    "Chem 111/3 - Compounds.md",
     "MATH 223/Practice Problems/12.4/47.svg",
     "MATH 223/Practice Problems/12.4",
     "CV.pdf",
