@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APMusicTheory/Secondary Functions.md",
+                "file": "MATH 223/Practice Problems/12.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APMusicTheory/Secondary Functions.md",
+                "file": "MATH 223/Practice Problems/12.4.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APMusicTheory/Secondary Functions.md"
+                "file": "MATH 223/Practice Problems/12.4.md"
               }
             }
           }
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "ca4cf6357558295d",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APMusicTheory/Secondary Functions.md",
+                "file": "MATH 223/Practice Problems/12.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,6 +212,7 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "APMusicTheory/Secondary Functions.md",
     "APMusicTheory/Non-Chord Tones (NCTs).md",
     "APMusicTheory/Chord Progressions.md",
     "APMusicTheory/Cadences and Musical Ideas.md",
@@ -219,7 +220,6 @@
     "APMusicTheory/Vocal Ranges.md",
     "APMusicTheory/Vocabulary.md",
     "APMusicTheory/Seventh Chords.md",
-    "APMusicTheory/Secondary Functions.md",
     "APMusicTheory/Second Inversion Triads.md",
     "APMusicTheory/Intervals in the bass.md",
     "APMusicTheory/First Inversion Triads.md",
