@@ -12,11 +12,9 @@
             "id": "5bd8fff90087897a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MUTH 104/Assignments/1/A.md",
-                "mode": "source",
-                "source": false
+                "file": "MUTH 104/Assignments/1/B.pdf"
               }
             },
             "group": "db44901e978fe2b8"
@@ -32,11 +30,9 @@
             "id": "295c2a938f81cc08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MUTH 104/Assignments/1/A.md",
-                "mode": "preview",
-                "source": false
+                "file": "MUTH 104/Assignments/1/B.pdf"
               }
             },
             "group": "db44901e978fe2b8"
@@ -101,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Assignments/1/A.md"
+                "file": "MUTH 104/Assignments/1/B.pdf"
               }
             }
           }
@@ -133,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Assignments/1/A.md",
+                "file": "MUTH 104/Assignments/1/B.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,20 +208,24 @@
       }
     ]
   },
-  "active": "5bd8fff90087897a",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords.pdf",
+    "MATH 223/Textbook/12.1 - Vector Operations.md",
+    "MUTH 104/Assignments/1/B.pdf",
+    "MUTH 104/Assignments/1/C.md",
+    "MUTH 104/Assignments/1/RN Analysis Assignment 1b.pdf",
+    "MUTH 104/Chord Listening.md",
+    "MATH 223/Practice Problems/12.5.md",
     "APMusicTheory/Seventh Chords.md",
     "MUTH 104/Assignments/1/A.md",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_2.svg",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_1.svg",
-    "MUTH 104/Assignments/1/C.md",
-    "MATH 223/Practice Problems/12.5.md",
     "MUTH 104/Assignments/1",
     "MATH 223/Practice Problems/2 - Problem Set 2.md",
     "MUTH 104/Assignments/Untitled.md",
     "MUTH 104/Assignments",
     "MATH 223/Practice Problems/2 - Problem Set 2.pdf",
-    "MATH 223/Textbook/12.1 - Vector Operations.md",
     "MATH 223/Practice Problems/12.5/33.md",
     "MATH 223/Practice Problems/12.5/33.svg",
     "MATH 223/Practice Problems/12.5/33.png",
@@ -245,17 +245,13 @@
     "APMusicTheory/First Inversion Triads.md",
     "APMusicTheory/Chord Inversions.md",
     "MUTH 104/Practice.md",
-    "MUTH 104/Chord Listening.md",
     "Chem 111/5 - Empirical Analysis.md",
     "Chem 111/3 - Compounds.md",
-    "Chem 111/4 - Molecules.md",
     "MATH 223/Practice Problems/12.4/47.svg",
     "MATH 223/Practice Problems/12.4",
     "CV.pdf",
     "Private/duo/videos watched/general",
     "Private/duo/videos watched/@simonesquared",
-    "Private/duo/videos watched/@psych2go",
-    "Private/duo/videos watched",
     "Private/duo/attachments/Pasted image 20220523123422.png",
     "Private/duo/attachments/Pasted image 20220523122810.png",
     "Private/duo/attachments/Pasted image 20220523120456.png",
