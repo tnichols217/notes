@@ -12,9 +12,11 @@
             "id": "5bd8fff90087897a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/12.5/33.md"
+                "file": "MATH 223/Practice Problems/12.5.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "db44901e978fe2b8"
@@ -30,9 +32,11 @@
             "id": "295c2a938f81cc08",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/12.5/33.md"
+                "file": "MATH 223/Practice Problems/12.5.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "db44901e978fe2b8"
@@ -97,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/12.5/33.md"
+                "file": "MATH 223/Practice Problems/12.5.md"
               }
             }
           }
@@ -129,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/12.5/33.md",
+                "file": "MATH 223/Practice Problems/12.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,10 +212,12 @@
       }
     ]
   },
-  "active": "295c2a938f81cc08",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/12.5.md",
     "MATH 223/Practice Problems/12.5/33.md",
+    "MATH 223/Practice Problems/12.5/33.svg",
+    "MATH 223/Practice Problems/12.5.md",
+    "MATH 223/Practice Problems/12.5/33.png",
     "MATH 223/Practice Problems/12.5",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
     "MATH 223/Practice Problems/12.4.md",
@@ -239,7 +245,6 @@
     "MATH 223/Practice Problems/12.4/47.svg",
     "MATH 223/Practice Problems/12.4",
     "MATH 223/Textbook/12.1 - Vector Symbols.md",
-    "MATH 223/Practice Problems/12.1.md",
     "CV.pdf",
     "Private/duo/videos watched/general",
     "Private/duo/videos watched/@simonesquared",
@@ -254,8 +259,6 @@
     "Private/sandm/attachments/Pasted image 20230110144148.png",
     "Private/sandm/attachments/Pasted image 20230110144137.png",
     "Private/sandm/attachments/Pasted image 20230110143913.png",
-    "Private/sandm/attachments/Pasted image 20230110143857.png",
-    "Private/sandm/attachments/Pasted image 20230110140834.png",
     "church/Untitled.canvas"
   ]
 }
