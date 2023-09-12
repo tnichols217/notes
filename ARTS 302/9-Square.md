@@ -3,4 +3,6 @@
 - Symbolizes power of the holy spirit and creation in rythm
 - The product of 3x3
 - Last simple number, symbolizing finalization
+- Sacred in Egypt and Greece
+- Symbolizes humans
 - 
