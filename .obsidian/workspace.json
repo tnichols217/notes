@@ -14,25 +14,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Assignments/1/C.md",
+                "file": "STAT 345/1.4.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "db44901e978fe2b8"
-          },
-          {
-            "id": "6c1f251ee0db9951",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa2047257169d80f",
@@ -45,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Assignments/1/C.md",
+                "file": "STAT 345/1.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Assignments/1/C.md"
+                "file": "STAT 345/1.4.md"
               }
             }
           }
@@ -144,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Assignments/1/C.md",
+                "file": "STAT 345/1.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,12 +222,16 @@
       }
     ]
   },
-  "active": "6c1f251ee0db9951",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "MUTH 104/Assignments/1/C.md",
+    "STAT 345/1.4.md",
+    "STAT 345",
+    "Untitled.md",
+    "Untitled 1.md",
     "MUTH 104/Assignments/1/1.pdf",
     "MUTH 104/Assignments/1/C.pdf",
     "MUTH 104/Assignments/1/1.md",
-    "MUTH 104/Assignments/1/C.md",
     "MUTH 104/Assignments/1/B.pdf",
     "MUTH 104/Assignments/1/RN Analysis Assignment 1b.pdf",
     "MUTH 104/Assignments/1/A.pdf",
@@ -258,7 +251,6 @@
     "MATH 223/Practice Problems/12.5/33.md",
     "MATH 223/Practice Problems/12.5/33.svg",
     "MATH 223/Practice Problems/12.5/33.png",
-    "MATH 223/Practice Problems/12.5",
     "MATH 223/Practice Problems/12.4.md",
     "MATH 223/Practice Problems/12.4/Drawing 2023-09-11 21.59.34.excalidraw.md",
     "MATH 223/Practice Problems/12.4/Drawing 2023-09-11 21.59.34.excalidraw.svg",
@@ -273,10 +265,7 @@
     "APMusicTheory/Intervals in the bass.md",
     "APMusicTheory/First Inversion Triads.md",
     "APMusicTheory/Chord Inversions.md",
-    "MUTH 104/Practice.md",
-    "Chem 111/5 - Empirical Analysis.md",
     "MATH 223/Practice Problems/12.4/47.svg",
-    "MATH 223/Practice Problems/12.4",
     "Private/duo/attachments/Pasted image 20220523123422.png",
     "Private/duo/attachments/Pasted image 20220523122810.png",
     "Private/duo/attachments/Pasted image 20220523120456.png",
