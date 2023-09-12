@@ -1,0 +1,3 @@
+- Number of patience and meditation
+- Number of harmony and perfection
+- Symbolizes power of the holy spirit and creation in rythm
