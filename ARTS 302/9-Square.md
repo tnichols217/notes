@@ -5,4 +5,3 @@
 - Last simple number, symbolizing finalization
 - Sacred in Egypt and Greece
 - Symbolizes humans
-- 
