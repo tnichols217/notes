@@ -32,6 +32,8 @@ The location of a form relative to other forms. Gives an idea of space or compac
 
 ### Orientation
 
-
+The viewpoint of which the form is seen from. It effects what details are highlighted in the form.
 
 ### Visual Inertia
+
+
