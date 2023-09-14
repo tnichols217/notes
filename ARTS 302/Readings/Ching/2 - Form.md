@@ -14,9 +14,11 @@ The outline or silhouette of a form. Gives a rough understanding of its 3D shape
 
 ### Size
 
-The height, wi
+The height, width, and depth of the form in comparison to the other objects around it.
 
 ### Color
+
+The hue, saturation, or just value of the form being depicted. In architectural drawings, they tend to just be a range of values
 
 ### Texture
 
