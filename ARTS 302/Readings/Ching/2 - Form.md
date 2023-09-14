@@ -13,6 +13,8 @@ Form is the external appearance or structure of a work. It refers to the interna
 
 The outline or silhouette of a form. Gives a rough understanding of its 3D shape.
 
+- Primary means of recognition of a form
+- 
 ### Size
 
 The height, width, and depth of the form in comparison to the other objects around it.
