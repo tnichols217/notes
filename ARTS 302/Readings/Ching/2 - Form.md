@@ -1,5 +1,6 @@
 ---
 date created: 2023-09-13 23:15
+date updated: 2023-09-13 23:22
 ---
 
 # Form
@@ -36,4 +37,4 @@ The viewpoint of which the form is seen from. It effects what details are highli
 
 ### Visual Inertia
 
-
+The degree or lack of stability in a form. It created a perceived motion or resolution of position. It depends on rotation, position, and relation to gravity or other forces.
