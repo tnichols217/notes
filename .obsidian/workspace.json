@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/9-Square.md",
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/9-Square.md",
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/9-Square.md"
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/9-Square.md",
+                "file": "ARTS 302/Readings/Ching/1 - Primary Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,47 +185,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "cfbd9c89088d1aa5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f33a60eaf79276ad",
-        "type": "window",
-        "children": [
-          {
-            "id": "cd17b0d29763e7a7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2c9ad63ac6f29f9e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1707,
-        "height": 1067,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
-    "STAT 345/1.4 Random Variables.md",
     "ARTS 302/9-Square.md",
+    "MATH 223/Textbook/12.1 - Vector Operations.md",
+    "STAT 345/1.4 Random Variables.md",
     "STAT 345/Sample Spaces.md",
     "STAT 345/Sample Spaces.svg",
     "MUTH 104/Assignments/1/C.md",
@@ -239,7 +203,6 @@
     "MUTH 104/Assignments/1/RN Analysis Assignment 1b.pdf",
     "MUTH 104/Assignments/1/A.pdf",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords.pdf",
-    "MATH 223/Textbook/12.1 - Vector Operations.md",
     "MUTH 104/Chord Listening.md",
     "MATH 223/Practice Problems/12.5.md",
     "APMusicTheory/Seventh Chords.md",
