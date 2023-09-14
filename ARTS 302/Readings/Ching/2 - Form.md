@@ -18,9 +18,11 @@ The height, width, and depth of the form in comparison to the other objects arou
 
 ### Color
 
-The hue, saturation, or just value of the form being depicted. In architectural drawings, they tend to just be a range of values
+The hue, saturation, or just value of the form being depicted. In architectural drawings, they tend to just be a range of values to show 3D contour and shadows.
 
 ### Texture
+
+The visual and tactile property of a form given by the size, shape, arrangement, and proportion of the parts as well as the 
 
 ## Relational Properties
 
