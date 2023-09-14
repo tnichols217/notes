@@ -1,7 +1,13 @@
+---
+date created: 2023-09-13 23:15
+---
+
 # Form
+
 Form is the external appearance or structure of a work. It refers to the internal solid or just the surface of an object. It is primarily defined by shape, size, color, and texture.
 
 ## Intrinsic Properties
+
 ### Shape
 
 
