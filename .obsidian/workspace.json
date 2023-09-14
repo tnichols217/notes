@@ -12,11 +12,9 @@
             "id": "5bd8fff90087897a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ARTS 302/Readings/Ching/2 - Form.md",
-                "mode": "source",
-                "source": false
+                "file": "ARTS 302/Readings/Ching/2 - Form/Shape.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -32,11 +30,9 @@
             "id": "295c2a938f81cc08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "ARTS 302/Readings/Ching/2 - Form.md",
-                "mode": "preview",
-                "source": false
+                "file": "ARTS 302/Readings/Ching/2 - Form/Shape.md"
               }
             },
             "group": "db44901e978fe2b8"
@@ -101,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Readings/Ching/2 - Form.md"
+                "file": "ARTS 302/Readings/Ching/2 - Form/Shape.md"
               }
             }
           }
@@ -133,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Readings/Ching/2 - Form.md",
+                "file": "ARTS 302/Readings/Ching/2 - Form/Shape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +181,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5bd8fff90087897a",
+  "active": "295c2a938f81cc08",
   "lastOpenFiles": [
-    "ARTS 302/Readings/Ching/1 - Primary Elements.md",
     "ARTS 302/Readings/Ching/2 - Form.md",
+    "ARTS 302/Readings/Ching/2 - Form/Shape.md",
+    "ARTS 302/Readings/Ching/2 - Form",
+    "ARTS 302/Readings/Ching/1 - Primary Elements.md",
     "ARTS 302/9-Square.md",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
     "STAT 345/1.4 Random Variables.md",
@@ -215,7 +213,6 @@
     "MATH 223/Practice Problems/2 - Problem Set 2.md",
     "MUTH 104/Assignments/Untitled.md",
     "MUTH 104/Assignments",
-    "MATH 223/Practice Problems/2 - Problem Set 2.pdf",
     "MATH 223/Practice Problems/12.5/33.md",
     "MATH 223/Practice Problems/12.5/33.svg",
     "MATH 223/Practice Problems/12.5/33.png",
@@ -228,7 +225,6 @@
     "APMusicTheory/Cadences and Musical Ideas.md",
     "MUTH 104/Chord Progression Practice.md",
     "APMusicTheory/Vocal Ranges.md",
-    "APMusicTheory/Vocabulary.md",
     "MATH 223/Practice Problems/12.4/47.svg",
     "Private/duo/attachments/Pasted image 20220523123422.png",
     "Private/duo/attachments/Pasted image 20220523122810.png",
