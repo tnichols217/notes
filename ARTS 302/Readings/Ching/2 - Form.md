@@ -22,12 +22,16 @@ The hue, saturation, or just value of the form being depicted. In architectural 
 
 ### Texture
 
-The visual and tactile property of a form given by the size, shape, arrangement, and proportion of the parts as well as the 
+The visual and tactile property of a form given by the size, shape, arrangement, and proportion of the parts as well as the weight, sparsity, and type of stroke used to depict the form.
 
 ## Relational Properties
 
 ### Position
 
+The location of a form relative to other forms. Gives an idea of space or compactness depending on its relation to other pieces.
+
 ### Orientation
+
+
 
 ### Visual Inertia
