@@ -18,7 +18,8 @@ The outline or silhouette of a form. Gives a rough understanding of its 3D shape
 - To architecture shape matters for
 	- Enclosing planes: floors, walls
 	- Opening: doors, windows
-	- Silhoue
+	- Silhouettes of buildings
+
 ### Size
 
 The height, width, and depth of the form in comparison to the other objects around it.
