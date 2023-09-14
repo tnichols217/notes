@@ -20,6 +20,10 @@ The outline or silhouette of a form. Gives a rough understanding of its 3D shape
 	- Opening: doors, windows
 	- Silhouettes of buildings
 
+#### Primary Shapes
+
+
+
 ### Size
 
 The height, width, and depth of the form in comparison to the other objects around it.
