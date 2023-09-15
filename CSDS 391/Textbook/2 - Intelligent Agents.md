@@ -92,3 +92,6 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 	- Problem generator
 	- Critic
 - Feedback improves the learning element to maximize the critic's output
+- The problem generator explores unknown situations
+
+
