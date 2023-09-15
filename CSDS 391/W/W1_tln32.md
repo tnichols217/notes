@@ -236,3 +236,4 @@ There are an infinite amount of positions that the robot could be in. If we are 
 
 ## b
 
+Any curved path can be approximated with multiple line segments, a
