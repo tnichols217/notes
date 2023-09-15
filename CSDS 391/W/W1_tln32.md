@@ -236,4 +236,4 @@ There are an infinite amount of positions that the robot could be in. If we are 
 
 ## b
 
-Any curved path can be approximated with multiple line segments, and the sum of the lengths of the line segments will always be shorter than the length of the curve. Since the scene only consists of polygons, if a curve approximation line intersects a polygon, you can adjust the approximation to go through the vertices between the cut and the original curve. Since the verticies are between the approximation and the curve it is still shorter than the cu
+Any curved path can be approximated with multiple line segments, and the sum of the lengths of the line segments will always be shorter than the length of the curve. Since the scene only consists of polygons, if a curve approximation line intersects a polygon, you can adjust the approximation to go through the vertices between the cut and the original curve. Since the vertices are between the approximation and the curve it is still shorter than the curve. Any vertex that is not touching a vertex can be nudged towards the side with an angle less than 180 until a segment or 
