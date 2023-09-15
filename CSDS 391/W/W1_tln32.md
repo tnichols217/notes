@@ -152,3 +152,7 @@ chatGPT is unable to interact with the real world or even generate images repres
 
 ## Playing Soccer
 
+### PEAS
+
+Performance: scoring goals and preventing opponent goals would be the goal of the game.
+Environment: The soccer field, other players
