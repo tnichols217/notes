@@ -14,4 +14,11 @@ An **agent** is anything that can perceive its environment (through sensors) and
 - AI is often trained and rewarded in a consequentialist nature, only training on the final output
 - Make sure that you reward and punish an AI on what you **want the result to be** and not what you **want the AI to do**
 
-## Rat
+## Rationality
+
+- For an AI, depends on
+	- Measurement of success
+	- Knowledge of environment
+	- Available actions
+	- Percept sequence
+- The agent should 
