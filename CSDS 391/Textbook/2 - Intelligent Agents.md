@@ -80,6 +80,8 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 ### Utility-based
 
 - A performance standard is defined for the model
-- A 
+- A predictive utility function is internalized to the model
 - The agent aims to maximize its expected utility
-- Is a
+- More predictable and rational than goal-based
+
+@
