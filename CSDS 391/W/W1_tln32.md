@@ -222,3 +222,4 @@ There are 8 possible positions on the 2x2 cube, with 3 possible rotations, and 8
 
 ## a
 
+It is probably possible to calculate the exact size of the state space, but not easily as the amount of valid moves 
