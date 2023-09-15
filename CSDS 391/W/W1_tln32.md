@@ -162,4 +162,7 @@ Sensors: Eyes to see the ball, other people, and the field
 ### Task Environment Properties
 
 - Partially Observable, cannot know everything about the game
+- Multiagent, interacting with other people
+- Competitive against the other team, and cooperative with your own
+- Nondeterministic, we cannot know everything about every interaction
 - 
