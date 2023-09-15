@@ -5,4 +5,6 @@ date created: 2023-09-15 05:00
 
 An **agent** is anything that can perceive its environment (through sensors) and act upon it (through actuators)
 
-- Percept s
+- **Percept sequences** is the history of perception of an agent
+- **Agent function** is what maps percept sequences into actions
+- 
