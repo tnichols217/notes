@@ -98,5 +98,10 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 
 ### Atomic Representation
 
-- Changes are atomic and indivisable
-- No internal structure to 
+- Changes are atomic and indivisible
+- No internal structure to separate inputs
+
+### Factored Representation
+
+- Describes each state with variables and attributes
+- 
