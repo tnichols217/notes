@@ -155,4 +155,6 @@ chatGPT is unable to interact with the real world or even generate images repres
 ### PEAS
 
 Performance: scoring goals and preventing opponent goals would be the goal of the game.
-Environment: The soccer field, other players
+Environment: The soccer field and other players. It is dynamic as the players will move, interact, and learn from you
+Actuators: Legs to move and kick the ball, arms to block if goal-keeper
+Sensors: Eyes to 
