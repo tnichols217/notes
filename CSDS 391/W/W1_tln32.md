@@ -84,7 +84,7 @@ if i dropped a feather and a bowling ball at the same time off my balcony, which
 > 
 > This concept was famously demonstrated by Galileo Galilei when he conducted experiments involving falling objects from the Leaning Tower of Pisa (although it's debated whether he actually performed these experiments). In the absence of air resistance, the rate of descent is determined solely by gravity, and all objects experience the same acceleration, causing them to hit the ground simultaneously when dropped from the same height.
 
-chatGPT failed to recognize the context of this situation and instead defaulted back to a popular question asking the same thing in the context lacking air resistence. 
+chatGPT failed to recognize the context of this situation and instead defaulted back to a popular question asking the same thing in the context lacking air resistance. This shows some level of simple memorization without novel thought, acting more like a search engine than displaying a thought process.
 
 ## Overall Displays of Intelligence
 
@@ -97,3 +97,4 @@ chatGPT failed to recognize the context of this situation and instead defaulted 
 
 1. Cannot take an opinion like a human can
 2. Occasionally lacks proper reasoning and logic
+3. Memorizat
