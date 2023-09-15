@@ -196,4 +196,8 @@ Sensors: Eyes to check performance and guide hands, Touch to feel the yarn to ad
 
 ### Performance
 
-Performance can be calculated by the progression of stitches and penalized for the 
+Performance can be calculated by the progression of stitches and penalized for uneven or unaesthetic stitches
+
+# 3
+
+In a world of $S$ states and and $
