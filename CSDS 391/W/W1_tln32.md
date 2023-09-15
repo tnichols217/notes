@@ -172,4 +172,10 @@ Sensors: Eyes to see the ball, other people, and the field
 
 ### Performance
 
-Performance can easily be calculated by a few game metrics, like ball posession
+Performance can easily be calculated by a few game metrics, like ball possession, shots on target, blocks, passes, and even score
+
+## Knitting a Sweater
+
+### PEAS
+
+Performance: More knot
