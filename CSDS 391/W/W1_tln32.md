@@ -86,6 +86,22 @@ if i dropped a feather and a bowling ball at the same time off my balcony, which
 
 chatGPT failed to recognize the context of this situation and instead defaulted back to a popular question asking the same thing in the context lacking air resistance. This shows some level of simple memorization without novel thought, acting more like a search engine than displaying a thought process.
 
+## 5
+
+whats funny about the meme where a horse is standing on a balcony with the caption of juan
+
+> The humor in the meme you're describing likely comes from its absurdity and the unexpected combination of elements. Let's break it down:
+> 
+> 1. **Unusual Situation:** Horses are typically not found standing on balconies. The image of a horse standing on a balcony is bizarre and unexpected, creating an element of surprise.
+>     
+> 2. **Caption:** The caption "Juan" adds to the humor because it's a simple, single name that doesn't provide any context or explanation. It leaves viewers wondering who Juan is and why the horse is associated with that name. The lack of context can be funny in its own right.
+>     
+> 3. **Surrealism:** The meme might fall under the category of surreal humor, where everyday objects and situations are presented in a strange, dreamlike, or absurd manner. This can be amusing because it deviates so far from our usual expectations of reality.
+>    
+> In essence, the humor in this meme arises from its absurd and unexpected juxtaposition of a horse on a balcony with a seemingly unrelated caption. It's the element of surprise and the absurdity of the situation that make it funny to some people. Humor can be highly subjective, so not everyone may find this meme funny, but those who do are likely enjoying the surreal and unexpected nature of the image and caption combination.
+
+
+
 ## Overall Displays of Intelligence
 
 1. Understand and predict the future of physical system
@@ -97,4 +113,5 @@ chatGPT failed to recognize the context of this situation and instead defaulted 
 
 1. Cannot take an opinion like a human can
 2. Occasionally lacks proper reasoning and logic
-3. Memorizat
+3. Memorization and recitation are not displays of novel thought
+4. 
