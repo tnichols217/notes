@@ -49,5 +49,6 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 		- Fully observable: knows the entire environment
 		- Partially observable: knows limited information about the environment
 	- Known
-		- Known: understa
+		- Known: understanding the environment based on sensor data
+		- Unknown: not having been trained in such an environment before
 
