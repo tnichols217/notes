@@ -22,4 +22,5 @@ An **agent** is anything that can perceive its environment (through sensors) and
 	- Available actions
 	- Percept sequence
 - The agent should select the best option based on the percept sequence and environment to maximize success
-- Balancing is important, especially to ensure that the AI does not avoid perceriving dangers to reduce 
+- Balancing is important, especially to ensure that the AI does not avoid perceiving dangers to reduce punishment
+- 
