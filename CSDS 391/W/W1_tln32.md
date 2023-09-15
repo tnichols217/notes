@@ -36,4 +36,4 @@ If you had to assign a color to computer science, what would it be and why?
 > 
 > Of course, this is a symbolic association, and computer science itself doesn't have a literal color. Different people might associate different colors based on their experiences and perceptions.
 
-chatGPT displays intelli
+chatGPT displays intelligence in this scenario by being able to produce a result with a logical line of reasoning. 
