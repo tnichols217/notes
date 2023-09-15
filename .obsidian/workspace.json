@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/1.md",
+                "file": "CSDS 391/Textbook/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/1.md",
+                "file": "CSDS 391/Textbook/2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/1.md"
+                "file": "CSDS 391/Textbook/2.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/1.md",
+                "file": "CSDS 391/Textbook/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,8 +187,9 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/1 - Intro to AI.md",
+    "CSDS 391/Textbook/2.md",
     "CSDS 391/W1.md",
-    "CSDS 391/Textbook/1.md",
     "CSDS 391/Textbook",
     "STAT 345/Textbook",
     "STAT 345/1.4 Random Variables.md",
@@ -230,7 +231,6 @@
     "APMusicTheory/Secondary Functions.md",
     "APMusicTheory/Non-Chord Tones (NCTs).md",
     "APMusicTheory/Chord Progressions.md",
-    "APMusicTheory/Cadences and Musical Ideas.md",
     "MATH 223/Practice Problems/12.4/47.svg",
     "Private/duo/attachments/Pasted image 20220523123422.png",
     "church/Untitled.canvas"
