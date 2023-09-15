@@ -200,4 +200,5 @@ Performance can be calculated by the progression of stitches and penalized for u
 
 # 3
 
-In a world of $S$ states and and $
+Simple reflex agents make the same decision given the same state every
+In a world of $S$ states and and $A$ actions in each case. 
