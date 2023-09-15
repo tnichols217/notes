@@ -110,6 +110,12 @@ which question did I ask you today did you find the most enjoyable to think abou
 
 chatGPT completely fails to have or even emulate human emotions
 
+## 7
+
+what was the first question i asked you
+
+> The first question you asked in this conversation was: "If you had to assign a color to computer science, what would it be and why?"
+
 
 
 ## Overall Displays of Intelligence

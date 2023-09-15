@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa2047257169d80f",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/1 - Intro to AI.md"
+                "file": "CSDS 391/W/W1_tln32.md"
               }
             }
           }
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/1 - Intro to AI.md",
+                "file": "CSDS 391/W/W1_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +197,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "679dbf3e1712c0dd",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
-    "CSDS 391/W/W1_tln32.md",
     "CSDS 391/Textbook/1 - Intro to AI.md",
+    "CSDS 391/W/W1_tln32.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
     "CSDS 391/W",
     "CSDS 391/Textbook",
