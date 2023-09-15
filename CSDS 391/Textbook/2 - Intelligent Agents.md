@@ -104,4 +104,11 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 ### Factored Representation
 
 - Describes each state with variables and attributes, holding values
-- Changes in state are described with changes u
+- Changes in state are described with changes in values
+
+### Structured Representation
+
+- State is represent by the relationship of objects
+- Changes in state are represented with a change in the relation of observable objects
+
+
