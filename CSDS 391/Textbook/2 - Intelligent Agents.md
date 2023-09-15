@@ -79,4 +79,4 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 
 ### Utility-based
 
-
+- A utility function is defined for the model, 
