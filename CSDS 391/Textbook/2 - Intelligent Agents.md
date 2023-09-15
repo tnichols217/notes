@@ -62,7 +62,9 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 - Much less data needed to be processed
 - Follows simple condition-action rules
 - Highly unstable and uninformed
+- Sometimes needs a little randomization to break out of an infinite feedback loop
 
 ### Model-based Reflex
 
-- 
+- Build a memory of the environment
+- Update environment ch
