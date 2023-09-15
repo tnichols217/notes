@@ -108,7 +108,9 @@ which question did I ask you today did you find the most enjoyable to think abou
 
 > As a machine learning model, I don't have personal preferences or emotions, so I don't experience enjoyment or have the capacity to find questions more enjoyable to think about. My purpose is to provide information, answer questions to the best of my knowledge and abilities, and assist users with their inquiries without personal bias or preference. If you have more questions or need information on any topic, please feel free to ask, and I'll do my best to assist you.
 
-chatGPT completely fails to 
+chatGPT completely fails to have or even emulate human emotions
+
+
 
 ## Overall Displays of Intelligence
 
@@ -123,4 +125,5 @@ chatGPT completely fails to
 1. Cannot make an opinion like a human can
 2. Occasionally lacks proper reasoning and logic
 3. Memorization and recitation are not displays of novel thought
-4. 
+4. Does not have emotion
+5. 
