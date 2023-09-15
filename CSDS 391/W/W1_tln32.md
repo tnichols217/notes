@@ -16,6 +16,4 @@ If i take two drops of ink and drop them into the ocean next to each other, what
 >     
 > In summary, when you drop two drops of ink into the vast ocean, they will quickly mix, disperse, and become highly diluted in the surrounding seawater. The impact on the ocean's overall properties and appearance will be minimal due to the immense volume of water in the ocean compared to the tiny amount of ink.
 
-
-
-## Does not exhibit intelligence
+In this case, chatGPT displays intelligence by seemingly being able to understand and simulate how the ink would interact with the ocean without simply stating that the color of the water would be colored with the ink. It shows 
