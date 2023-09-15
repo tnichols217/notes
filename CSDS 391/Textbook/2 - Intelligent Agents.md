@@ -24,4 +24,6 @@ An **agent** is anything that can perceive its environment (through sensors) and
 - The agent should select the best option based on the percept sequence and environment to maximize success
 - Balancing is important, especially to ensure that the AI does not avoid perceiving dangers to reduce punishment
 - **Autonomy** is using **percept sequences to modify actions** that would be based on prior knowledge otherwise
-- 
+
+## Task Environment
+
