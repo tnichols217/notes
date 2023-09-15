@@ -52,3 +52,10 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 		- Known: understanding the environment based on sensor data
 		- Unknown: not having been trained in such an environment before
 
+
+## Types of agents
+
+### Simple Reflex
+
+- Ignores percept history and acts on current inputs
+- Much less data needed to be processed
