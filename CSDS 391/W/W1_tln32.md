@@ -226,4 +226,7 @@ It is probably possible to calculate the exact size of the state space, but not 
 
 ## b
 
-If we assume that any of the 32 pieces on the board could be in any of the 64 positions, without accounting for legal moves to get there or checks. That leaves us with $64!/32!$ positions. Each piece could either be captured or not, which leaves us with $2^{32}$ states. Totally this would leave us with $2^{32}64!/32!$ states
+If we assume that any of the 32 pieces on the board could be in any of the 64 positions, without accounting for legal moves to get there or checks. That leaves us with $64!/32!$ positions. Each piece could either be captured or not, which leaves us with $2^{32}$ states. Totally this would leave us with $2^{32}64!/32!$ states.
+
+# 8
+
