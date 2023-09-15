@@ -27,3 +27,9 @@ An **agent** is anything that can perceive its environment (through sensors) and
 
 ## Task Environment
 
+The world that the AI lives in, consisting of the inputs, outputs, and modifiable objects
+
+- Performance
+- Environment
+- Actuators
+- Sensor
