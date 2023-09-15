@@ -168,4 +168,8 @@ Sensors: Eyes to see the ball, other people, and the field
 - Sequential, previous decisions and plays in the game effects the future of the game
 - Dynamic, the environment changes and moves as the game progresses
 - Continuous, there are no turns in soccer, just continuous play
-- Known, all necessary understandings of the interactions of soccer are underst
+- Known, all necessary understandings of the interactions of soccer are understood
+
+### Performance
+
+Performance can easily be calculated by a few game metrics, like ball posession
