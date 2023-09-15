@@ -200,5 +200,4 @@ Performance can be calculated by the progression of stitches and penalized for u
 
 # 3
 
-Simple reflex agents make the same decision given the same state every
-In a world of $S$ states and and $A$ actions in each case. 
+Simple reflex agents make the same decision given the same state every time. In a world of $S$ states and and $A$ actions in each case, there will be $$
