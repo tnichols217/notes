@@ -14,22 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W1_tln32.md",
+                "file": "CSDS 391/W/W1-Q1.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "db44901e978fe2b8"
-          },
-          {
-            "id": "b1751dfb30b1366b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           },
           {
             "id": "679dbf3e1712c0dd",
@@ -55,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa2047257169d80f",
@@ -69,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W1_tln32.md",
+                "file": "CSDS 391/W/W1-Q1.md",
                 "mode": "preview",
                 "source": false
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W1_tln32.md"
+                "file": "CSDS 391/W/W1-Q1.md"
               }
             }
           }
@@ -168,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W1_tln32.md",
+                "file": "CSDS 391/W/W1-Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,11 +209,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b1751dfb30b1366b",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "CSDS 391/W/W1-Q1.pdf",
+    "CSDS 391/W/W1_tln32.md",
+    "CSDS 391/W/W1-Q1.md",
     "CSDS 391/W/W1_tln32.pdf",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
-    "CSDS 391/W/W1_tln32.md",
     "CSDS 391/Textbook/1 - Intro to AI.md",
     "Chem 111/6 - Stoichiometry.md",
     "CSDS 391/W",
@@ -249,7 +240,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "MUTH 104/Assignments/1/1.pdf",
-    "MUTH 104/Assignments/1/C.pdf",
     "MUTH 104/Assignments/1/1.md",
     "MUTH 104/Chord Listening.md",
     "MATH 223/Practice Problems/12.5.md",
@@ -265,7 +255,6 @@
     "MATH 223/Practice Problems/12.4.md",
     "MATH 223/Practice Problems/12.4/Drawing 2023-09-11 21.59.34.excalidraw.md",
     "MATH 223/Practice Problems/12.4/Drawing 2023-09-11 21.59.34.excalidraw.svg",
-    "APMusicTheory/Secondary Functions.md",
     "MATH 223/Practice Problems/12.4/47.svg",
     "Private/duo/attachments/Pasted image 20220523123422.png",
     "church/Untitled.canvas"
