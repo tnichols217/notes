@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-15 05:00
-date updated: 2023-09-15 08:31
+date updated: 2023-09-15 08:54
 ---
 
 # Intelligent Agents
@@ -87,10 +87,10 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 ### Learning
 
 - Broken down into
-	- Learning element
-	- Performance element
-	- Problem generator
-	- Critic
+  - Learning element
+  - Performance element
+  - Problem generator
+  - Critic
 - Feedback improves the learning element to maximize the critic's output
 - The problem generator explores unknown situations
 
@@ -110,5 +110,3 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 
 - State is represent by the relationship of objects
 - Changes in state are represented with a change in the relation of observable objects
-
-
