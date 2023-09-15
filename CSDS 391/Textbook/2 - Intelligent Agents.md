@@ -84,4 +84,6 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 - The agent aims to maximize its expected utility
 - More predictable and rational than goal-based
 
-@
+### Learning
+
+- 
