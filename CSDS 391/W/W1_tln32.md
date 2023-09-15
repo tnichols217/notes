@@ -118,6 +118,10 @@ what was the first question i asked you
 
 chatGPT manages to display memory recall by remembering the first question I asked it in the conversation
 
+## 8
+
+
+
 ## Overall Displays of Intelligence
 
 1. Understand and predict the future of physical system
