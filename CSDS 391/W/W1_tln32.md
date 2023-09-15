@@ -159,4 +159,7 @@ Environment: The soccer field and other players. It is dynamic as the players wi
 Actuators: Legs to move and kick the ball, arms to block if goal-keeper
 Sensors: Eyes to see the ball, other people, and the field
 
-### 
+### Task Environment Properties
+
+- Partially Observable, cannot know everything about the game
+- 
