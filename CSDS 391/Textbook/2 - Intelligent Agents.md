@@ -32,4 +32,8 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 - Performance
 - Environment
 - Actuators
-- Sensor
+- Sensors
+	- Fully observable: knows the entire environment
+	- Partially observable: knows limited information about the environment
+- 
+
