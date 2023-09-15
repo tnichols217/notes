@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/1 - Intro to AI.md",
-                "mode": "preview",
+                "file": "Chem 111/6 - Stoichiometry.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/1 - Intro to AI.md"
+                "file": "Chem 111/6 - Stoichiometry.md"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/1 - Intro to AI.md",
+                "file": "Chem 111/6 - Stoichiometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +200,9 @@
   },
   "active": "679dbf3e1712c0dd",
   "lastOpenFiles": [
-    "CSDS 391/W/W1_tln32.md",
     "CSDS 391/Textbook/1 - Intro to AI.md",
+    "Chem 111/6 - Stoichiometry.md",
+    "CSDS 391/W/W1_tln32.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
     "CSDS 391/W",
     "CSDS 391/Textbook",
