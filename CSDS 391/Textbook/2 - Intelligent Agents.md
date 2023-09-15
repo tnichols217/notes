@@ -89,4 +89,6 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 - Broken down into
 	- Learning element
 	- Performance element
-	- 
+	- Problem generator
+	- Critic
+- Feedback improves the learning element to maximize the critic's output
