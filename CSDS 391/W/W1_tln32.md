@@ -208,4 +208,4 @@ If $k+1$ states are remembered including the current state, there will be $S^{k+
 
 # 5
 
-If we include the blank tile as a possible state of a position, there are 9 possible states per position on the board of 9 positions, but there can only exist one of each tile, therefore there will be a maximum of $9!$ states. However, all of those cases can be resolved to either the solved case or the pairity 
+If we include the blank tile as a possible state of a position, there are 9 possible states per position on the board of 9 positions, but there can only exist one of each tile, therefore there will be a maximum of $9!$ states. However, all of those cases can be resolved to either the solved case or the parity case where two adjacent tiles are 
