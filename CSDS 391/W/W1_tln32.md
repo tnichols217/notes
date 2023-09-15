@@ -189,5 +189,6 @@ Sensors: Eyes to check performance and guide hands, Touch to feel the yarn to ad
 - Single-agent, there are no other people or agents
 - Neither competitive nor cooperative
 - Deterministic, stitches will functionally turn out the same every time given the same treatment
-- 
+- Episodic, each stitch is individual from each other
 - Static, the environment does not move or change
+- Discrete,
