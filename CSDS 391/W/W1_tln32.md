@@ -230,3 +230,6 @@ If we assume that any of the 32 pieces on the board could be in any of the 64 po
 
 # 8
 
+## a
+
+There are an infinite amount of positions that the robot could be in. If we are assuming that $x$ and $y$ are integers and only integer locations are valid, then there will be $(x+1)(y+1)$ va
