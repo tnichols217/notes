@@ -43,3 +43,9 @@ If you had to assign a color to computer science, what would it be and why? What
 chatGPT displays intelligence in this scenario by being able to produce a result with a logical line of reasoning on a somewhat subjective question.
 
 chatGPT does not show intelligence in the manner that it does not take a personal opinion - like a human would - on an opinionated question and opted instead for a "best fit" for the situation.
+
+## Overall Displays of Intelligence
+
+1. Understand and predict the future of physical system
+
+## Overall Displays of Non-intelligence
