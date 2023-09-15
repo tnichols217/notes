@@ -116,7 +116,7 @@ what was the first question i asked you
 
 > The first question you asked in this conversation was: "If you had to assign a color to computer science, what would it be and why?"
 
-
+chatGPT manages to display memory recall by remembering the first question I asked it in the conversation
 
 ## Overall Displays of Intelligence
 
@@ -124,7 +124,7 @@ what was the first question i asked you
 2. Use a logical line of reasoning to come to a conclusion
 3. Extend previous knowledge to novel questions
 4. Explain human emotions
-5. 
+5. Display memory recall
 
 ## Overall Displays of Non-intelligence
 
