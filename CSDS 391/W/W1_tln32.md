@@ -226,4 +226,4 @@ It is probably possible to calculate the exact size of the state space, but not 
 
 ## b
 
-If we assume that any of the piece on the board could be in any position
+If we assume that any of the 32 pieces on the board could be in any of the 64 positions, without accounting for legal moves to get there or checks. 
