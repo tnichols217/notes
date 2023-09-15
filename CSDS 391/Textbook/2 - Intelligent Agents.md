@@ -104,4 +104,4 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 ### Factored Representation
 
 - Describes each state with variables and attributes, holding values
-- 
+- Changes in state are described with changes u
