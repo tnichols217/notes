@@ -22,6 +22,16 @@
             "group": "db44901e978fe2b8"
           },
           {
+            "id": "b1751dfb30b1366b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
+          },
+          {
             "id": "679dbf3e1712c0dd",
             "type": "leaf",
             "state": {
@@ -45,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fa2047257169d80f",
@@ -209,7 +220,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5bd8fff90087897a",
+  "active": "b1751dfb30b1366b",
   "lastOpenFiles": [
     "CSDS 391/W/W1_tln32.pdf",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
