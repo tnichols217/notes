@@ -59,3 +59,6 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 
 - Ignores percept history and acts on current inputs
 - Much less data needed to be processed
+- Follows simple condition-action rules
+
+### 
