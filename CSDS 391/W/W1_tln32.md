@@ -72,13 +72,16 @@ Given a world where the force of gravity is always 10 degrees off axis from how 
 
 chatGPT displays intelligence by being able to extend knowledge onto a question that it would most likely not have been trained on, showing learning and application of prior knowledge to answer a new question.
 
-chatGPT does not display intelligence by seemingly not taking a logical route to coming to conclusions, like how "maps and navigation systems would need to be adjusted" or "compasses would behave differently" whilst maps are are not dependent on the direction of gravity and neither are c
+chatGPT does not display intelligence by seemingly not taking a logical route to coming to conclusions, like how "maps and navigation systems would need to be adjusted" or "compasses would behave differently" whilst maps are are not dependent on the direction of gravity and neither are compasses.
 
 ## Overall Displays of Intelligence
 
 1. Understand and predict the future of physical system
 2. Use a logical line of reasoning to come to a conclusion
+3. Extend previous knowledge to novel questions
+4. 
 
 ## Overall Displays of Non-intelligence
 
 1. Cannot take an opinion like a human can
+2. Occasionally lacks proper reasoning and logic
