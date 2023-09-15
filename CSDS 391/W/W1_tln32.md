@@ -130,7 +130,7 @@ draw me a sphere
 > 
 > If you need an actual visual representation of a sphere, I would recommend using drawing software or referring to an image search online to find pictures of spheres.
 
-chatGPT is unable to interact with the real world or even generate images representing the real world, meaning on a fundamental level it does not have experiences like huma
+chatGPT is unable to interact with the real world or even generate images representing the real world, meaning on a fundamental level it does not have experiences like humans do
 
 ## Overall Displays of Intelligence
 
@@ -146,4 +146,7 @@ chatGPT is unable to interact with the real world or even generate images repres
 2. Occasionally lacks proper reasoning and logic
 3. Memorization and recitation are not displays of novel thought
 4. Does not have emotion
-5. 
+5. Is not in the real world and therefore has no personal experience
+
+# 2
+
