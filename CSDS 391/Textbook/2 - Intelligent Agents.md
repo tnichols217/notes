@@ -94,4 +94,9 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 - Feedback improves the learning element to maximize the critic's output
 - The problem generator explores unknown situations
 
+## Representations of agents
 
+### Atomic Representation
+
+- Changes are atomic and indivisable
+- No internal structure to 
