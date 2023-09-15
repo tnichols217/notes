@@ -21,4 +21,5 @@ An **agent** is anything that can perceive its environment (through sensors) and
 	- Knowledge of environment
 	- Available actions
 	- Percept sequence
-- The agent should 
+- The agent should select the best option based on the percept sequence and environment to maximize success
+- 
