@@ -204,4 +204,7 @@ Simple reflex agents make the same decision given the same state every time. In 
 
 # 4
 
-If $k+1$ states are remembered including the current state, there will be $S^{k+1}$ different inputs to the simple reflex agent. 
+If $k+1$ states are remembered including the current state, there will be $S^{k+1}$ different inputs to the simple reflex agent. If there are $A$ possible actions per input, there will be $A^{S^{k+1}}$ identifiable simple reflex agents
+
+# 5
+
