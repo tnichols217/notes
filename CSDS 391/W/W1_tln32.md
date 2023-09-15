@@ -120,7 +120,17 @@ chatGPT manages to display memory recall by remembering the first question I ask
 
 ## 8
 
+draw me a sphere
 
+> I'm sorry for any confusion, but I'm a text-based AI model and cannot draw or create visual images. However, I can help you visualize a sphere in text:
+> 
+> A sphere is a three-dimensional geometric shape that is perfectly round, like a ball. It has no edges or corners. To represent a sphere in text, you can use descriptive language:
+> 
+> Imagine a perfectly round object, like a ball or a globe. It has the same distance from its center point to any point on its surface. This object is called a sphere.
+> 
+> If you need an actual visual representation of a sphere, I would recommend using drawing software or referring to an image search online to find pictures of spheres.
+
+chatGPT is unable to interact with the real world or even generate images representing the real world, meaning on a fundamental level it does not have experiences like huma
 
 ## Overall Displays of Intelligence
 
