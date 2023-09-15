@@ -35,3 +35,5 @@ If you had to assign a color to computer science, what would it be and why?
 > 4. **Universal Appeal:** Blue is generally a universally liked color and is often associated with trust and reliability, which aligns with the reliability and trustworthiness expected from computer systems and software.
 > 
 > Of course, this is a symbolic association, and computer science itself doesn't have a literal color. Different people might associate different colors based on their experiences and perceptions.
+
+chatGPT displays intelli
