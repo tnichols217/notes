@@ -70,7 +70,9 @@ Given a world where the force of gravity is always 10 degrees off axis from how 
 > 
 > Overall, a world with a consistent 10-degree offset in gravity from our current understanding would be a profoundly different place. It would require significant adjustments in technology, infrastructure, and human behavior to accommodate the unique gravitational conditions.
 
-chatGPT displays intelligence by being able to extend knowledge onto a ques
+chatGPT displays intelligence by being able to extend knowledge onto a question that it would most likely not have been trained on, showing learning and application of prior knowledge to answer a new question.
+
+
 
 ## Overall Displays of Intelligence
 
