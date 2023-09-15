@@ -69,4 +69,8 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 - Build a memory of the environment (**transition model**)
 - Update environment changes
 - **Sensor model** is learning how sensors interact differently in different environments
+- A little more data, but also more informed about the environment
+
+### Goal-based
+
 - 
