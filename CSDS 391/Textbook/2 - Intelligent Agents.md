@@ -33,9 +33,10 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 - Environment
 	- Single-agent: does not need to interact with other agents or intelligent beings
 	- Multi-agent: needs to interact and learn from other agents
+	- Static: Environment does not change without the agent's actual
 - Actuators
 	- Deterministic: New state of environment after actuation completely depends on the action
-	- Nondeterministic: New state of environment after actuation is influenced but not defined by the action
+	- Nondeterministic (stochastic): New state of environment after actuation is influenced but not defined by the action
 - Sensors
 	- Fully observable: knows the entire environment
 	- Partially observable: knows limited information about the environment
