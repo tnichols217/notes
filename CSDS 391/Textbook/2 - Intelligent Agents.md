@@ -1,6 +1,8 @@
 ---
 date created: 2023-09-15 05:00
+date updated: 2023-09-15 08:31
 ---
+
 # Intelligent Agents
 
 An **agent** is anything that can perceive its environment (through sensors) and act upon it (through actuators)
@@ -17,10 +19,10 @@ An **agent** is anything that can perceive its environment (through sensors) and
 ## Rationality
 
 - For an AI, depends on
-	- Measurement of success
-	- Knowledge of environment
-	- Available actions
-	- Percept sequence
+  - Measurement of success
+  - Knowledge of environment
+  - Available actions
+  - Percept sequence
 - The agent should select the best option based on the percept sequence and environment to maximize success
 - Balancing is important, especially to ensure that the AI does not avoid perceiving dangers to reduce punishment
 - **Autonomy** is using **percept sequences to modify actions** that would be based on prior knowledge otherwise
@@ -31,27 +33,26 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 
 - Performance
 - Environment
-	- Multi-agency
-		- Single-agent: does not need to interact with other agents or intelligent beings
-		- Multi-agent: needs to interact and learn from other agents
-	- Dynamic
-		- Dynamic: Environment changes even without influence from the agent
-		- Static: Environment does not change without the agent's actuation
-	- Discretion
-		- Discrete: defined time steps and action phases
-		- Continuous: constantly acting and acting upon sensors
+  - Multi-agency
+    - Single-agent: does not need to interact with other agents or intelligent beings
+    - Multi-agent: needs to interact and learn from other agents
+  - Dynamic
+    - Dynamic: Environment changes even without influence from the agent
+    - Static: Environment does not change without the agent's actuation
+  - Discretion
+    - Discrete: defined time steps and action phases
+    - Continuous: constantly acting and acting upon sensors
 - Actuators
-	- Determinism
-		- Deterministic: New state of environment after actuation completely depends on the action
-		- Nondeterministic (stochastic): New state of environment after actuation is influenced but not defined by the action
+  - Determinism
+    - Deterministic: New state of environment after actuation completely depends on the action
+    - Nondeterministic (stochastic): New state of environment after actuation is influenced but not defined by the action
 - Sensors
-	- Observational
-		- Fully observable: knows the entire environment
-		- Partially observable: knows limited information about the environment
-	- Known
-		- Known: understanding the environment based on sensor data
-		- Unknown: not having been trained in such an environment before
-
+  - Observational
+    - Fully observable: knows the entire environment
+    - Partially observable: knows limited information about the environment
+  - Known
+    - Known: understanding the environment based on sensor data
+    - Unknown: not having been trained in such an environment before
 
 ## Types of agents
 
@@ -60,5 +61,8 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 - Ignores percept history and acts on current inputs
 - Much less data needed to be processed
 - Follows simple condition-action rules
+- Highly unstable and uninformed
 
-### 
+### Model-based Reflex
+
+- 
