@@ -109,7 +109,7 @@ chatGPT seems to be able to understand and explain human emotions by explaining 
 1. Understand and predict the future of physical system
 2. Use a logical line of reasoning to come to a conclusion
 3. Extend previous knowledge to novel questions
-4. 
+4. Explain 
 
 ## Overall Displays of Non-intelligence
 
