@@ -38,7 +38,8 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 		- Dynamic: Environment changes even without influence from the agent
 		- Static: Environment does not change without the agent's actuation
 	- Discretion
-		- 
+		- Discrete: defined time steps and action phases
+		- Continuous: constantly acting and acting upon sensors
 - Actuators
 	- Determinism
 		- Deterministic: New state of environment after actuation completely depends on the action
@@ -47,5 +48,6 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 	- Observational
 		- Fully observable: knows the entire environment
 		- Partially observable: knows limited information about the environment
-- 
+	- Known
+		- Known: understa
 
