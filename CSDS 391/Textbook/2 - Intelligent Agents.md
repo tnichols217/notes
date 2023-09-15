@@ -31,6 +31,8 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 
 - Performance
 - Environment
+	- Single-agent: does not need to interact with other agents or intelligent beings
+	- Multi-agent: needs to interact and learn from other agents
 - Actuators
 - Sensors
 	- Fully observable: knows the entire environment
