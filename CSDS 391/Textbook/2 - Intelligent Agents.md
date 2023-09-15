@@ -31,9 +31,13 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 
 - Performance
 - Environment
-	- Single-agent: does not need to interact with other agents or intelligent beings
-	- Multi-agent: needs to interact and learn from other agents
-	- Static: Environment does not change without the agent's actual
+	- Multiagency
+		- Single-agent: does not need to interact with other agents or intelligent beings
+		- Multi-agent: needs to interact and learn from other agents
+		- 
+	- Dynamic: Environment changes even without influence from the agent
+	- Static: Environment does not change without the agent's actuation
+	- 
 - Actuators
 	- Deterministic: New state of environment after actuation completely depends on the action
 	- Nondeterministic (stochastic): New state of environment after actuation is influenced but not defined by the action
