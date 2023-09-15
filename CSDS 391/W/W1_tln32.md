@@ -1,5 +1,6 @@
 ---
 date created: 2023-09-15 13:06
+date updated: 2023-09-15 13:49
 ---
 
 # 1
@@ -239,7 +240,11 @@ There are an infinite amount of positions that the robot could be in. If we are 
 Any curved path can be approximated with multiple line segments, and the sum of the lengths of the line segments will always be shorter than the length of the curve. Since the scene only consists of polygons, if a curve approximation line intersects a polygon, you can adjust the approximation to go through the vertices between the cut and the original curve. Since the vertices are between the approximation and the curve it is still shorter than the curve. Any vertex that is not touching a vertex can be nudged towards the side with an angle less than 180 until a segment or vertex touches a polygon. If a vertex is not on a polygon, then it can be nudged toward its obtuse side and still reduce the overall length. Using these statements, an optimal line's vertices's obtuse side must be hugging a polygon. If not, it can be nudged in that direction with a length reduction.
 
 # 9
+
 ## a
+
 If you use the distance function $d(x) = 1$ in Uniform cost search, it will be exactly the same as breadth first search.
 
 ## b
+
+If you set the selector function for best-first to be the first element of the children, it will be exactly the same as depth-first search.
