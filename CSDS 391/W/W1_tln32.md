@@ -212,4 +212,4 @@ If we include the blank tile as a possible state of a position, there are 9 poss
 
 # 6
 
-There are 8 possible positions on the 2x2 cube, with 3 possible rotations, and 8 total pi
+There are 8 possible positions on the 2x2 cube, with 3 possible rotations, and 8 total pieces. This means that there are $(8!)3^8$
