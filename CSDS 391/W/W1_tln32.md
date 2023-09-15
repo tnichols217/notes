@@ -236,4 +236,4 @@ There are an infinite amount of positions that the robot could be in. If we are 
 
 ## b
 
-Any curved path can be approximated with multiple line segments, and the sum of the lengths of the line segments will always be shorter than the length of the curve. Since the scene only consists of polygons, if a line intersects a polygon, 
+Any curved path can be approximated with multiple line segments, and the sum of the lengths of the line segments will always be shorter than the length of the curve. Since the scene only consists of polygons, if a curve appro line intersects a polygon, 
