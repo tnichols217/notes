@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/1.4 Random Variables.md",
+                "file": "CSDS 391/W1.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/1.4 Random Variables.md",
+                "file": "CSDS 391/W1.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/1.4 Random Variables.md"
+                "file": "CSDS 391/W1.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/1.4 Random Variables.md",
+                "file": "CSDS 391/W1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +187,10 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "STAT 345/1.4 Random Variables.md",
+    "CSDS 391/W1.md",
+    "CSDS 391",
+    "Untitled",
     "ARTS 302/Readings/Ching/2 - Form/Shape.md",
     "ARTS 302/Readings/Ching/2 - Form/Shape.svg",
     "ARTS 302/Readings/Ching/2 - Form/attachments/Pasted Image 20230914000538_042.png",
@@ -196,7 +200,6 @@
     "ARTS 302/Readings/Ching/1 - Primary Elements.md",
     "ARTS 302/9-Square.md",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
-    "STAT 345/1.4 Random Variables.md",
     "STAT 345/Sample Spaces.md",
     "STAT 345/Sample Spaces.svg",
     "MUTH 104/Assignments/1/C.md",
@@ -209,14 +212,12 @@
     "MUTH 104/Assignments/1/B.pdf",
     "MUTH 104/Assignments/1/RN Analysis Assignment 1b.pdf",
     "MUTH 104/Assignments/1/A.pdf",
-    "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords.pdf",
     "MUTH 104/Chord Listening.md",
     "MATH 223/Practice Problems/12.5.md",
     "APMusicTheory/Seventh Chords.md",
     "MUTH 104/Assignments/1/A.md",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_2.svg",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_1.svg",
-    "MUTH 104/Assignments/1",
     "MATH 223/Practice Problems/2 - Problem Set 2.md",
     "MUTH 104/Assignments/Untitled.md",
     "MATH 223/Practice Problems/12.5/33.md",
