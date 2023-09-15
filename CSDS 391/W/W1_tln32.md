@@ -232,7 +232,7 @@ If we assume that any of the 32 pieces on the board could be in any of the 64 po
 
 ## a
 
-There are an infinite amount of positions that the robot could be in. If we are assuming that $x$ and $y$ are integers and only integer locations are valid, then there will be $(x+1)(y+1)$ valid positions (assuming 0 is a valid index). There will be an infinite amount of pathes to the goal as there is nothing stopping the path from creating a loop, meaning it can loop $n$ times before
+There are an infinite amount of positions that the robot could be in. If we are assuming that $x$ and $y$ are integers and only integer locations are valid, then there will be $(x+1)(y+1)$ valid positions (assuming 0 is a valid index). There will be an infinite amount of pathes to the goal as there is nothing stopping the path from creating a loop, meaning it can loop $n$ times before breaking and proceeding to the goal.
 
 ## b
 
