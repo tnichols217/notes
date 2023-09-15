@@ -178,4 +178,5 @@ Performance can easily be calculated by a few game metrics, like ball possession
 
 ### PEAS
 
-Performance: More knot
+Performance: More knots in the knit of the sweater would be good, inconsistent knots would be negative
+Environm
