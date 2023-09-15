@@ -74,6 +74,18 @@ chatGPT displays intelligence by being able to extend knowledge onto a question 
 
 chatGPT does not display intelligence by seemingly not taking a logical route to coming to conclusions, like how "maps and navigation systems would need to be adjusted" or "compasses would behave differently" whilst maps are are not dependent on the direction of gravity and neither are compasses.
 
+## 4
+
+if i dropped a feather and a bowling ball at the same time off my balcony, which would hit the ground first
+
+> In the absence of any other forces (like air resistance), both the feather and the bowling ball would hit the ground at the same time if dropped simultaneously from the same height.
+> 
+> This may seem counterintuitive, as we typically observe that heavy objects fall faster than lighter ones. However, it's the effect of air resistance that makes it appear this way in our everyday experience. In a vacuum or in a situation with minimal air resistance, all objects, regardless of their mass, fall at the same rate due to gravity.
+> 
+> This concept was famously demonstrated by Galileo Galilei when he conducted experiments involving falling objects from the Leaning Tower of Pisa (although it's debated whether he actually performed these experiments). In the absence of air resistance, the rate of descent is determined solely by gravity, and all objects experience the same acceleration, causing them to hit the ground simultaneously when dropped from the same height.
+
+chatGPT failed to recognize the context of this situation and 
+
 ## Overall Displays of Intelligence
 
 1. Understand and predict the future of physical system
