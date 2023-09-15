@@ -165,4 +165,6 @@ Sensors: Eyes to see the ball, other people, and the field
 - Multiagent, interacting with other people
 - Competitive against the other team, and cooperative with your own
 - Nondeterministic, we cannot know everything about every interaction
-- 
+- Sequential, previous decisions and plays in the game effects the future of the game
+- Dynamic, the environment changes and moves as the game progresses
+- Continuous, 
