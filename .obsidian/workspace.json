@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "fa2047257169d80f",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/1 - Intro to AI.md"
+                "file": "CSDS 391/W/W1_tln32.md"
               }
             }
           }
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/1 - Intro to AI.md",
+                "file": "CSDS 391/W/W1_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,11 +209,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c70cea149caf3c93",
+  "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/1 - Intro to AI.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
     "Chem 111/6 - Stoichiometry.md",
-    "CSDS 391/Textbook/1 - Intro to AI.md",
     "CSDS 391/W/W1_tln32.md",
     "CSDS 391/W",
     "CSDS 391/Textbook",
