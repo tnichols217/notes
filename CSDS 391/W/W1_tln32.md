@@ -44,8 +44,17 @@ chatGPT displays intelligence in this scenario by being able to produce a result
 
 chatGPT does not show intelligence in the manner that it does not take a personal opinion - like a human would - on an opinionated question and opted instead for a "best fit" for the situation.
 
+## 3
+
+Given a world where the force of gravity is always 10 degrees off axis from how we know it in our world now, what would this imply in the acting of day to day life
+
+
+
 ## Overall Displays of Intelligence
 
 1. Understand and predict the future of physical system
+2. Use a logical line of reasoning to come to a conclusion
 
 ## Overall Displays of Non-intelligence
+
+1. Cannot take an opinion like a human can
