@@ -194,3 +194,6 @@ Sensors: Eyes to check performance and guide hands, Touch to feel the yarn to ad
 - Discrete, processing does not need to happen continously
 - Known, the environment is well known for the purposes of knitting
 
+### Performance
+
+Performance can be calculated by the progression of stitches and penalized for the 
