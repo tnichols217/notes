@@ -222,4 +222,8 @@ There are 8 possible positions on the 2x2 cube, with 3 possible rotations, and 8
 
 ## a
 
-It is probably possible to calculate the exact size of the state space, but not easily as the amount of valid moves 
+It is probably possible to calculate the exact size of the state space, but not easily as the amount of valid moves varies depending on the state of the game.
+
+## b
+
+If we assume that any of the piece on the board could be in any position
