@@ -187,4 +187,7 @@ Sensors: Eyes to check performance and guide hands, Touch to feel the yarn to ad
 
 - Fully observable, the stitch can be seen at all times
 - Single-agent, there are no other people or agents
+- Neither competitive nor cooperative
+- Deterministic, stitches will functionally turn out the same every time given the same treatment
 - 
+- Static, the environment does not move or change
