@@ -66,5 +66,6 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 
 ### Model-based Reflex
 
-- Build a memory of the environment
-- Update environment ch
+- Build a memory of the environment (**transition model**)
+- Update environment changes
+- 
