@@ -20,7 +20,7 @@ In this case, chatGPT displays intelligence by seemingly being able to understan
 
 ## 2
 
-If you had to assign a color to computer science, what would it be and why?
+If you had to assign a color to computer science, what would it be and why? What color do you think computer science is
 
 > Assigning a color to computer science is a subjective exercise, and different people might have different interpretations based on their perspectives and experiences. However, one commonly associated color with computer science is **"Electric Blue."**
 > 
@@ -40,8 +40,6 @@ If you had to assign a color to computer science, what would it be and why?
 > 
 > In the end, there is no universally "correct" color for computer science, and it largely depends on individual perspectives and cultural influences.
 
-
-
 chatGPT displays intelligence in this scenario by being able to produce a result with a logical line of reasoning on a somewhat subjective question.
 
-chatGPT does not show intelligence in the manner that it does not take a personal opinion on an opinionated question and opted instead for a "best fit" for the situation
+chatGPT does not show intelligence in the manner that it does not take a personal opinion - like a human would - on an opinionated question and opted instead for a "best fit" for the situation.
