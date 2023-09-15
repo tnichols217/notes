@@ -102,6 +102,10 @@ whats funny about the meme where a horse is standing on a balcony with the capti
 
 chatGPT seems to be able to understand and explain human emotions by explaining the humorous parts of a joke correctly
 
+## 6
+
+what kind of sounds do you consider humourous
+
 
 
 ## Overall Displays of Intelligence
@@ -109,7 +113,8 @@ chatGPT seems to be able to understand and explain human emotions by explaining 
 1. Understand and predict the future of physical system
 2. Use a logical line of reasoning to come to a conclusion
 3. Extend previous knowledge to novel questions
-4. Explain 
+4. Explain human emotions
+5. 
 
 ## Overall Displays of Non-intelligence
 
