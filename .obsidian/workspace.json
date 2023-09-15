@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/1 - Intro to AI.md",
+                "file": "CSDS 391/W/W1_tln32.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/1 - Intro to AI.md",
+                "file": "CSDS 391/W/W1_tln32.md",
                 "mode": "preview",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/1 - Intro to AI.md"
+                "file": "CSDS 391/W/W1_tln32.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/1 - Intro to AI.md",
+                "file": "CSDS 391/W/W1_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,10 +187,10 @@
   },
   "active": "5bd8fff90087897a",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/1 - Intro to AI.md",
     "CSDS 391/W/W1_tln32.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
     "CSDS 391/W",
-    "CSDS 391/Textbook/1 - Intro to AI.md",
     "CSDS 391/Textbook",
     "STAT 345/Textbook",
     "STAT 345/1.4 Random Variables.md",
