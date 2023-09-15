@@ -212,3 +212,4 @@ If we include the blank tile as a possible state of a position, there are 9 poss
 
 # 6
 
+If we assume that all pieces could be in any position on the cube without accounting for pairity
