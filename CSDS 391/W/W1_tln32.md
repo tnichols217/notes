@@ -191,4 +191,6 @@ Sensors: Eyes to check performance and guide hands, Touch to feel the yarn to ad
 - Deterministic, stitches will functionally turn out the same every time given the same treatment
 - Episodic, each stitch is individual from each other
 - Static, the environment does not move or change
-- Discrete,
+- Discrete, processing does not need to happen continously
+- Known, the environment is well known for the purposes of knitting
+
