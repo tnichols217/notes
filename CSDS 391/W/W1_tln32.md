@@ -185,4 +185,6 @@ Sensors: Eyes to check performance and guide hands, Touch to feel the yarn to ad
 
 ### Task Environment Properties
 
+- Fully observable, the stitch can be seen at all times
+- Single-agent, there are no other people or agents
 - 
