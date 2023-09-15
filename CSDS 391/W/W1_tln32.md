@@ -100,7 +100,7 @@ whats funny about the meme where a horse is standing on a balcony with the capti
 >    
 > In essence, the humor in this meme arises from its absurd and unexpected juxtaposition of a horse on a balcony with a seemingly unrelated caption. It's the element of surprise and the absurdity of the situation that make it funny to some people. Humor can be highly subjective, so not everyone may find this meme funny, but those who do are likely enjoying the surreal and unexpected nature of the image and caption combination.
 
-
+chatGPT seems to be able to understand and explain human emotions by explaining 
 
 ## Overall Displays of Intelligence
 
