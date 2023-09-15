@@ -179,4 +179,6 @@ Performance can easily be calculated by a few game metrics, like ball possession
 ### PEAS
 
 Performance: More knots in the knit of the sweater would be good, inconsistent knots would be negative
-Environm
+Environment: Physical properties of the yarn and knitting needles
+Actuators: Hands and fingers to manipulate and create the stitch
+Sensors: Eyes to check performance and guide hands, 
