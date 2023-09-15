@@ -77,4 +77,6 @@ The world that the AI lives in, consisting of the inputs, outputs, and modifiabl
 - More flexible
 - Can be difficult to bridge the gap from beginning to reaching the goal
 
-### 
+### Utility-based
+
+
