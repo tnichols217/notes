@@ -13,11 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/2 - Intelligent Agents.md",
+                "file": "STAT 345/Textbook/1.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "ff4b794bee87e419"
+          }
+        ]
+      },
+      {
+        "id": "da5d28d5baac0c64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e27489a5fec85a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT 345/Textbook/1.md",
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "ff4b794bee87e419"
           }
         ]
       }
@@ -79,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W1-Q1.md"
+                "file": "STAT 345/Textbook/1.md"
               }
             }
           }
@@ -111,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W1-Q1.md",
+                "file": "STAT 345/Textbook/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,11 +183,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "CSDS 391/W/W1-Q1.md",
+    "STAT 345/Textbook/1.md",
     "CSDS 391/W/W1-Q1.pdf",
     "CSDS 391/W/W1_tln32.md",
-    "CSDS 391/W/W1-Q1.md",
     "CSDS 391/W/W1_tln32.pdf",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
     "CSDS 391/Textbook/1 - Intro to AI.md",
@@ -193,7 +214,6 @@
     "STAT 345",
     "Untitled.md",
     "Untitled 1.md",
-    "MUTH 104/Assignments/1/1.pdf",
     "MUTH 104/Assignments/1/1.md",
     "MUTH 104/Chord Listening.md",
     "MATH 223/Practice Problems/12.5.md",
