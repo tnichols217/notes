@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/1.md",
+                "file": "STAT 345/1.4 Random Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/1.md",
+                "file": "STAT 345/1.4 Random Variables.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/1.md"
+                "file": "STAT 345/1.4 Random Variables.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/1.md",
+                "file": "STAT 345/1.4 Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,9 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "CSDS 391/W/W1-Q1.md",
     "STAT 345/Textbook/1.md",
+    "STAT 345/1.4 Random Variables.md",
+    "CSDS 391/W/W1-Q1.md",
     "CSDS 391/W/W1-Q1.pdf",
     "CSDS 391/W/W1_tln32.md",
     "CSDS 391/W/W1_tln32.pdf",
@@ -196,7 +197,6 @@
     "CSDS 391/W",
     "CSDS 391/Textbook",
     "STAT 345/Textbook",
-    "STAT 345/1.4 Random Variables.md",
     "CSDS 391",
     "Untitled",
     "ARTS 302/Readings/Ching/2 - Form/Shape.md",
