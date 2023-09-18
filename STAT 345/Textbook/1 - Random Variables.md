@@ -8,3 +8,4 @@
 
 ## Induced Probability Function
 
+A Probability function that t
