@@ -1,5 +1,8 @@
+# Random Variables
 
 > [!def]
 > **Random Variable**
 > A function that maps a Sample Space $S$ into the real numbers
-> Ex: number of people voting ye
+> 
+> Ex: number of people voting yes (sum of yes's)
+
