@@ -55,8 +55,8 @@ The PMF/PDF of a random variable if and only if
 
 - $f_x(x)\ge0\qquad f_x\le R$
 - Either
-  - $\Sigma f(x)=1$
-  - $\int_{-\infty}^\infty f(x)dx=1$
+  - $\Sigma f(x)=1$ (PMF)
+  - $\int_{-\infty}^\infty f(x)dx=1$ (PDF)
 
 ### The Probability Mass Function
 
