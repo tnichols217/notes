@@ -1,9 +1,13 @@
+---
+date created: 2023-09-18 19:31
+---
+
 # Random Variables
 
 > [!def]
 > **Random Variable**
 > A function that maps a Sample Space $S$ into the real numbers
-> 
+>
 > Ex: number of people voting yes (sum of yes's)
 
 ## Induced Probability Function
@@ -16,9 +20,7 @@ $P_\chi(X=x_i)=P(\{s_j\in S:X(s_j)=x_i\})$ for countable $\chi$
 $P_\chi(X\in A)=P(\{s\in S: X(s)\in A\})$
 That the probability of $X=x_i$ on $\chi$ is equal to the probability of set with values that get transformed to $x_i$ by function $X$
 
-## Cumulative Distributive Function
-
-# The Cumulative Distribution Function
+## Cumulative Distributive Function $F$
 
 $F_X(x)=P_X(X\le x)\qquad\forall x\in R$
 
@@ -29,7 +31,7 @@ $F_X(x)=P_X(X\le x)\qquad\forall x\in R$
 - $F(x)$ is right continuous
 - $F(x)$ is uniquely identifiable for all probability functions
 
-## CDF Theorem
+### CDF Theorem
 
 $P(a<X\le b)=P(\{X\le b\}\setminus\{X\le a\})$
 $=P(\{X\le b\})-P(\{X\le b\}\cap\{X\le a\})$
@@ -42,11 +44,11 @@ $=P(a\le X\le b)$
 $=P(a\le X<b)$
 $=P(a<X<b)$
 
-## The Exponential CDF
+### The Exponential CDF
 
 $F(X)=\cases{0\qquad\qquad\ \ x<0\\1-e^{-x}\qquad x\ge0}$
 
-# PMFs and PDFs
+## PMFs and PDFs
 
 Are the PMF/PDF of a random variable if and only if
 
@@ -55,7 +57,7 @@ Are the PMF/PDF of a random variable if and only if
   - $\Sigma f(x)=1$
   - $\int_{-\infty}^\infty f(x)dx=1$
 
-## The Probability Mass Function
+### The Probability Mass Function
 
 $f(x)=P_X(X=x)$
 $F(x)=\sum\limits_{u\le x}f(u)$
@@ -66,7 +68,7 @@ To inverse:
 
 Is the probability that a distribution takes a particular value (for discrete distributions)
 
-## The Probability Density Function
+### The Probability Density Function
 
 $F_X(x)=\int_{-\infty}^{x}f_X(u)du\qquad\forall x\in R$
 
