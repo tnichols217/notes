@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/1.md"
+                "file": "STAT 345/Textbook/1.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/1.md",
+                "file": "STAT 345/Textbook/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,10 +240,10 @@
       }
     ]
   },
-  "active": "c70cea149caf3c93",
+  "active": "045a5581df70bcee",
   "lastOpenFiles": [
-    "STAT 345/Textbook/1.md",
     "STAT 345/Homework/1.md",
+    "STAT 345/Textbook/1.md",
     "APMusicTheory/Cadences and Musical Ideas.md",
     "MUTH 104/Assignments/2/A.pdf",
     "MUTH 104/Assignments/2/MUTH 104 Assignment 2a.pdf",
