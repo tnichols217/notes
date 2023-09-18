@@ -6,3 +6,5 @@
 > 
 > Ex: number of people voting yes (sum of yes's)
 
+## Induced Probability Function
+
