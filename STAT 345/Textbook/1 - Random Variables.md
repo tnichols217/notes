@@ -50,7 +50,7 @@ $F(X)=\cases{0\qquad\qquad\ \ x<0\\1-e^{-x}\qquad x\ge0}$
 
 ## PMFs and PDFs
 
-Are the PMF/PDF of a random variable if and only if
+The PMF/PDF of a random variable if and only if
 
 - $f_x(x)\ge0\qquad f_x\le R$
 - Either
