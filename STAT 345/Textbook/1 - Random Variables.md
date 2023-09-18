@@ -23,7 +23,7 @@ That the probability of $X=x_i$ on $\chi$ is equal to the probability of set wit
 ## Cumulative Distributive Function $F$
 
 $F_X(x)=P_X(X\le x)\qquad\forall x\in R$
-Defined as the sum of every possibility below 
+Defined as the sum of every possibility below a value
 
 - $F_X(x)$ must be defined for all $x\in R$
 - Same for discrete (step function) and continuous (continuous function
