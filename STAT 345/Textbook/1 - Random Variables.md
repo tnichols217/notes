@@ -62,6 +62,7 @@ The PMF/PDF of a random variable if and only if
 
 $f(x)=P_X(X=x)$
 $F(x)=\sum\limits_{u\le x}f(u)$
+The probability that a point equals a value 
 
 To inverse:
 
