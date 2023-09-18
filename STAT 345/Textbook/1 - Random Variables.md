@@ -72,6 +72,7 @@ Is the probability that a distribution takes a particular value (for discrete di
 ### The Probability Density Function
 
 $F_X(x)=\int_{-\infty}^{x}f_X(u)du\qquad\forall x\in R$
+The integral of the CDF
 
 To inverse:
 
