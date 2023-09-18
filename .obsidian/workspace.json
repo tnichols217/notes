@@ -11,9 +11,11 @@
             "id": "c70cea149caf3c93",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "STAT 345/Homework/1/2b.md"
+                "file": "STAT 345/Homework/1.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "ff4b794bee87e419"
@@ -28,9 +30,11 @@
             "id": "7e27489a5fec85a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "STAT 345/Homework/1/2b.md"
+                "file": "STAT 345/Homework/1.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "ff4b794bee87e419"
@@ -184,20 +188,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "192a2815dac78365",
+        "id": "0cf2562d964647ed",
         "type": "window",
         "children": [
           {
-            "id": "08869133827e0b85",
+            "id": "e00686218678ec96",
             "type": "tabs",
             "children": [
               {
-                "id": "03bd74d08da9b4cd",
+                "id": "9623855c59bb1ab2",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "STAT 345/Homework/1/2a.md"
+                    "file": "STAT 345/Homework/1/2b.md"
                   }
                 }
               }
@@ -205,8 +209,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 2731,
-        "y": 20,
+        "x": 376,
+        "y": -116,
         "width": 683,
         "height": 922,
         "maximize": true,
@@ -214,11 +218,11 @@
       }
     ]
   },
-  "active": "b67808c7c498bc42",
+  "active": "9623855c59bb1ab2",
   "lastOpenFiles": [
-    "STAT 345/Homework/1/2a.md",
-    "STAT 345/Homework/1/2b.md",
     "STAT 345/Homework/1.md",
+    "STAT 345/Homework/1/2b.md",
+    "STAT 345/Homework/1/2a.md",
     "STAT 345/Textbook/1.md",
     "STAT 345/Homework/1/2a.svg",
     "STAT 345/Homework/1",
