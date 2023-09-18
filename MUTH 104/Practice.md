@@ -17,5 +17,5 @@ K:C
 X: 1
 L:1/1
 K:F
-[Bdfg]|[K:EM]a
+[Bdfg]|[K:EM][cefa]|[]
 ```
