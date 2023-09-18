@@ -33,8 +33,7 @@
             },
             "group": "624099c39846c0fc"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "da5d28d5baac0c64",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/1.md"
+                "file": "STAT 345/Textbook/1.md"
               }
             }
           }
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/1.md",
+                "file": "STAT 345/Textbook/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,13 +209,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "17517b0bcdab4551",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "STAT 345/Homework/1.md",
     "MUTH 104/Practice.md",
     "STAT 345/Textbook/1.md",
     "STAT 345/1.4 Random Variables.md",
     "STAT 345/Homework/2.md",
-    "STAT 345/Homework/1.md",
     "STAT 345/Homework/1/2b.md",
     "MATH 223/Practice Problems/12.7.md",
     "MATH 223/Practice Problems/12.6.md",
