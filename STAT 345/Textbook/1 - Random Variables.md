@@ -10,4 +10,5 @@
 
 With a random variable $X$ on $S$ with range $\chi=\{x_1,...,x_m\}$
 We can define the induces probability function $P_\chi$ in $\chi$
-We observe $X=x_i$
+We observe $X=x_i$ if
+$P_\chi(X=x_i)=P({s_j\in S:X(s_j)=x_i})$
