@@ -206,16 +206,16 @@
                     "source": false
                   }
                 },
-                "group": "5e5a2c1a0360bef1"
+                "group": "2c04663c3f9f82d2"
               }
             ]
           },
           {
-            "id": "d17dd4488f1415c9",
+            "id": "e00e1837ba0d044e",
             "type": "tabs",
             "children": [
               {
-                "id": "e55447edb5612950",
+                "id": "c989f978830053e1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -225,7 +225,7 @@
                     "source": false
                   }
                 },
-                "group": "5e5a2c1a0360bef1"
+                "group": "2c04663c3f9f82d2"
               }
             ]
           }
@@ -240,7 +240,7 @@
       }
     ]
   },
-  "active": "e55447edb5612950",
+  "active": "045a5581df70bcee",
   "lastOpenFiles": [
     "STAT 345/Homework/1.md",
     "STAT 345/Textbook/1.md",
