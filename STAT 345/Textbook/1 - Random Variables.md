@@ -8,4 +8,5 @@
 
 ## Induced Probability Function
 
+With a random variable $X$ on $S$ with range $$
 A Probability function that takes 
