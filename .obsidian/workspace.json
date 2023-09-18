@@ -33,8 +33,7 @@
             },
             "group": "624099c39846c0fc"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "da5d28d5baac0c64",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Practice.md"
+                "file": "STAT 345/Textbook/1.md"
               }
             }
           }
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Practice.md",
+                "file": "STAT 345/Textbook/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,8 +210,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "48cb5d0f42e659a2",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "MUTH 104/Practice.md",
     "STAT 345/Textbook/1.md",
     "STAT 345/1.4 Random Variables.md",
     "STAT 345/Homework/2.md",
@@ -253,7 +253,6 @@
     "STAT 345/Sample Spaces.md",
     "STAT 345/Sample Spaces.svg",
     "MUTH 104/Assignments/1/C.md",
-    "Untitled.md",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_2.svg",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_1.svg",
     "MATH 223/Practice Problems/12.5/33.svg",
