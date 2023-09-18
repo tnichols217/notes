@@ -183,45 +183,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "a17eec7368830c9f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0cf2562d964647ed",
-        "type": "window",
-        "children": [
-          {
-            "id": "e00686218678ec96",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9623855c59bb1ab2",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "STAT 345/Homework/1/2b.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 376,
-        "y": -116,
-        "width": 683,
-        "height": 922,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "STAT 345/Homework/1/2b.md",
+    "STAT 345/Homework/1.pdf",
     "STAT 345/Homework/1/2b.svg",
+    "STAT 345/Homework/1/2b.md",
     "STAT 345/Homework/1.md",
     "STAT 345/Homework/1/2a.md",
     "STAT 345/Textbook/1.md",
