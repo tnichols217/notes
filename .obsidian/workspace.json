@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/1.md",
+                "file": "STAT 345/Textbook/1 - Set Symbols.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/1.md",
+                "file": "STAT 345/Textbook/1 - Set Symbols.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/1.md"
+                "file": "STAT 345/Textbook/1 - Set Symbols.md"
               }
             }
           }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/1.md",
+                "file": "STAT 345/Textbook/1 - Set Symbols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,6 +213,7 @@
   "lastOpenFiles": [
     "STAT 345/Textbook/1 - Set Theory.md",
     "STAT 345/Textbook/1.md",
+    "STAT 345/Textbook/1 - Set Symbols.md",
     "STAT 345/Homework/1.md",
     "MUTH 104/Practice.md",
     "STAT 345/1.4 Random Variables.md",
@@ -250,7 +251,6 @@
     "ARTS 302/Readings/Ching/2 - Form.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements.md",
     "ARTS 302/9-Square.md",
-    "STAT 345/Sample Spaces.md",
     "STAT 345/Sample Spaces.svg",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_2.svg",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_1.svg",
