@@ -49,7 +49,7 @@ $=P(a<X<b)$
 
 $F(X)=\cases{0\qquad\qquad\ \ x<0\\1-e^{-x}\qquad x\ge0}$
 
-## PMFs and PDFs
+## PMFs and PDFs $f$
 
 The PMF/PDF of a random variable if and only if
 
