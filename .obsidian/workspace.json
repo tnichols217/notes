@@ -33,7 +33,8 @@
             },
             "group": "624099c39846c0fc"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "da5d28d5baac0c64",
@@ -65,8 +66,7 @@
             },
             "group": "624099c39846c0fc"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/1.md"
+                "file": "MUTH 104/Practice.md"
               }
             }
           }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/1.md",
+                "file": "MUTH 104/Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,10 +210,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c70cea149caf3c93",
+  "active": "17517b0bcdab4551",
   "lastOpenFiles": [
-    "MUTH 104/Practice.md",
     "STAT 345/Textbook/1.md",
+    "MUTH 104/Practice.md",
     "STAT 345/1.4 Random Variables.md",
     "STAT 345/Homework/2.md",
     "STAT 345/Homework/1.md",
