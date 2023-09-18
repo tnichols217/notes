@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Homework/1.md",
+                "file": "STAT 345/Homework/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Homework/1.md",
+                "file": "STAT 345/Homework/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/1.md"
+                "file": "STAT 345/Homework/2.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/1.md",
+                "file": "STAT 345/Homework/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +185,11 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "STAT 345/Homework/1.md",
+    "STAT 345/Homework/2.md",
     "STAT 345/Homework/1.pdf",
     "STAT 345/Homework/1/2b.svg",
     "STAT 345/Homework/1/2b.md",
-    "STAT 345/Homework/1.md",
     "STAT 345/Homework/1/2a.md",
     "STAT 345/Textbook/1.md",
     "STAT 345/Homework/1/2a.svg",
@@ -208,7 +209,6 @@
     "Chem 111/6 - Stoichiometry.md",
     "CSDS 391/W",
     "CSDS 391/Textbook",
-    "STAT 345/Textbook",
     "ARTS 302/Readings/Ching/2 - Form/Shape.md",
     "ARTS 302/Readings/Ching/2 - Form/Shape.svg",
     "ARTS 302/Readings/Ching/2 - Form/attachments/Pasted Image 20230914000538_042.png",
