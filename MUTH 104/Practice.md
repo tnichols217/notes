@@ -12,3 +12,10 @@ K:C
 6. Dom 7
 7. min 7
 8. Maj 7
+
+```music-abc
+X: 1
+L:1/1
+K:F
+|
+```
