@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/1 - Set Symbols.md",
+                "file": "STAT 345/Textbook/1 - Set Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/1 - Set Symbols.md",
+                "file": "STAT 345/Textbook/1 - Set Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/1 - Set Symbols.md"
+                "file": "STAT 345/Textbook/1 - Set Theory.md"
               }
             }
           }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/1 - Set Symbols.md",
+                "file": "STAT 345/Textbook/1 - Set Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,9 +211,9 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "STAT 345/Textbook/1 - Set Theory.md",
     "STAT 345/Textbook/1 - Set Symbols.md",
     "STAT 345/Textbook/1.md",
+    "STAT 345/Textbook/1 - Set Theory.md",
     "STAT 345/Homework/1.md",
     "MUTH 104/Practice.md",
     "STAT 345/1.4 Random Variables.md",
