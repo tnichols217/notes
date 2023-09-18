@@ -10,4 +10,4 @@
 
 With a random variable $X$ on $S$ with range $\chi=\{x_1,...,x_m\}$
 We can define the induces probability function $P_\chi$ in $\chi$
-A Probability function that takes 
+We observe $X=x_i$
