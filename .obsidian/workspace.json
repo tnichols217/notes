@@ -19,19 +19,6 @@
               }
             },
             "group": "ff4b794bee87e419"
-          },
-          {
-            "id": "17517b0bcdab4551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT 345/Homework/1.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "624099c39846c0fc"
           }
         ]
       },
@@ -51,19 +38,6 @@
               }
             },
             "group": "ff4b794bee87e419"
-          },
-          {
-            "id": "48cb5d0f42e659a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT 345/Homework/1.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "624099c39846c0fc"
           }
         ]
       }
@@ -209,16 +183,53 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
+  "floating": {
+    "id": "a17eec7368830c9f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e9a954c8dd45181e",
+        "type": "window",
+        "children": [
+          {
+            "id": "2292aba9618f7994",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7227d50567a7519f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "STAT 345/Textbook/1 - Probability Theory.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 340,
+        "y": 132,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "STAT 345/Textbook/1 - Random Variables.md",
     "STAT 345/Textbook/1 - Probability Theory.md",
+    "STAT 345/Homework/2.md",
+    "STAT 345/Homework/1.md",
+    "STAT 345/Textbook/1 - Random Variables.md",
     "STAT 345/1.4 Random Variables.md",
     "STAT 345/Textbook/1 - Set Symbols.md",
     "STAT 345/Textbook/1 - Set Theory.md",
-    "STAT 345/Homework/1.md",
     "MUTH 104/Practice.md",
-    "STAT 345/Homework/2.md",
     "STAT 345/Homework/1/2b.md",
     "MATH 223/Practice Problems/12.7.md",
     "MATH 223/Practice Problems/12.6.md",
