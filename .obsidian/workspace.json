@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/1/2b.md"
+                "file": "STAT 345/Homework/1.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/1/2b.md",
+                "file": "STAT 345/Homework/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,10 +218,11 @@
       }
     ]
   },
-  "active": "9623855c59bb1ab2",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "STAT 345/Homework/1.md",
     "STAT 345/Homework/1/2b.md",
+    "STAT 345/Homework/1/2b.svg",
+    "STAT 345/Homework/1.md",
     "STAT 345/Homework/1/2a.md",
     "STAT 345/Textbook/1.md",
     "STAT 345/Homework/1/2a.svg",
@@ -261,11 +262,9 @@
     "MUTH 104/Assignments/1/A.md",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_2.svg",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_1.svg",
-    "MATH 223/Practice Problems/2 - Problem Set 2.md",
     "MATH 223/Practice Problems/12.5/33.svg",
     "MATH 223/Practice Problems/12.5/33.png",
     "MATH 223/Practice Problems/12.4/Drawing 2023-09-11 21.59.34.excalidraw.svg",
-    "MATH 223/Practice Problems/12.4/47.svg",
     "church/Untitled.canvas"
   ]
 }
