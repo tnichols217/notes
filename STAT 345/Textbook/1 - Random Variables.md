@@ -16,3 +16,62 @@ $P_\chi(X=x_i)=P(\{s_j\in S:X(s_j)=x_i\})$ for countable $\chi$
 $P_\chi(X\in A)=P(\{s\in S: X(s)\in A\})$
 That the probability of $X=x_i$ on $\chi$ is equal to the probability of set with values that get transformed to $x_i$ by function $X$
 
+## Cumulative Distributive Function
+
+# The Cumulative Distribution Function
+
+$F_X(x)=P_X(X\le x)\qquad\forall x\in R$
+
+- $F_X(x)$ must be defined for all $x\in R$
+- Same for discrete (step function) and continuous (continuous function
+- $\lim\limits_{x\rightarrow-\inf}F(x)=0\qquad\lim\limits_{x\rightarrow\inf}F(x)=1$
+- $F(x)$ does not decrease over $x$
+- $F(x)$ is right continuous
+- $F(x)$ is uniquely identifiable for all probability functions
+
+## CDF Theorem
+
+$P(a<X\le b)=P(\{X\le b\}\setminus\{X\le a\})$
+$=P(\{X\le b\})-P(\{X\le b\}\cap\{X\le a\})$
+$=P(\{X\le b\})-P(\{X\le a\})$
+$=F(b)-F(a)$
+
+For continuous distributions of $X$
+$P(a<X\le b)$
+$=P(a\le X\le b)$
+$=P(a\le X<b)$
+$=P(a<X<b)$
+
+## The Exponential CDF
+
+$F(X)=\cases{0\qquad\qquad\ \ x<0\\1-e^{-x}\qquad x\ge0}$
+
+# PMFs and PDFs
+
+Are the PMF/PDF of a random variable if and only if
+
+- $f_x(x)\ge0\qquad f_x\le R$
+- Either
+  - $\Sigma f(x)=1$
+  - $\int_{-\infty}^\infty f(x)dx=1$
+
+## The Probability Mass Function
+
+$f(x)=P_X(X=x)$
+$F(x)=\sum\limits_{u\le x}f(u)$
+
+To inverse:
+
+> $f(x)=F(x)-\lim\limits_{u\uparrow x}F(u)$
+
+Is the probability that a distribution takes a particular value (for discrete distributions)
+
+## The Probability Density Function
+
+$F_X(x)=\int_{-\infty}^{x}f_X(u)du\qquad\forall x\in R$
+
+To inverse:
+
+> $f(x)=\frac{d}{dx}F(x)$
+
+Is defined only for continuous distributions
