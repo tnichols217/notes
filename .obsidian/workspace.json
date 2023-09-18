@@ -183,6 +183,43 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
+  "floating": {
+    "id": "a17eec7368830c9f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "51efcd8790e62217",
+        "type": "window",
+        "children": [
+          {
+            "id": "f3730ebcffa40188",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "045a5581df70bcee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "STAT 345/Textbook/1.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2336,
+        "y": 24,
+        "width": 684,
+        "height": 920,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
     "STAT 345/Textbook/1.md",
