@@ -11,9 +11,11 @@
             "id": "c70cea149caf3c93",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MUTH 104/Assignments/2/A.pdf"
+                "file": "CSDS 391/Textbook/2 - Intelligent Agents.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "ff4b794bee87e419"
@@ -28,9 +30,11 @@
             "id": "7e27489a5fec85a5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MUTH 104/Assignments/2/A.pdf"
+                "file": "CSDS 391/Textbook/2 - Intelligent Agents.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "ff4b794bee87e419"
@@ -95,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Assignments/2/A.pdf"
+                "file": "CSDS 391/Textbook/2 - Intelligent Agents.md"
               }
             }
           }
@@ -127,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Assignments/2/A.pdf",
+                "file": "CSDS 391/Textbook/2 - Intelligent Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +234,8 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/1 - Intro to AI.md",
+    "MUTH 104/Assignments/2/A.pdf",
     "MUTH 104/Assignments/1/1.pdf",
     "STAT 345/Textbook/1 - Probability Theory.md",
     "STAT 345/Homework/2.md",
@@ -254,7 +260,6 @@
     "STAT 345/Homework/1/2a.svg",
     "STAT 345/Homework/1",
     "APMusicTheory/Cadences and Musical Ideas.md",
-    "MUTH 104/Assignments/2/A.pdf",
     "MUTH 104/Assignments/2/MUTH 104 Assignment 2a.pdf",
     "MUTH 104/Assignments/2",
     "STAT 345/Homework",
@@ -263,9 +268,7 @@
     "CSDS 391/W/W1_tln32.md",
     "CSDS 391/W/W1_tln32.pdf",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
-    "CSDS 391/Textbook/1 - Intro to AI.md",
     "Chem 111/6 - Stoichiometry.md",
-    "CSDS 391/W",
     "ARTS 302/Readings/Ching/2 - Form/Shape.md",
     "ARTS 302/Readings/Ching/2 - Form/Shape.svg",
     "ARTS 302/Readings/Ching/2 - Form/attachments/Pasted Image 20230914000538_042.png",
