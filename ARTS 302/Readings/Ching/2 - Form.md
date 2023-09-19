@@ -47,4 +47,7 @@ The viewpoint of which the form is seen from. It effects what details are highli
 The degree or lack of stability in a form. It created a perceived motion or resolution of position. It depends on rotation, position, and relation to gravity or other forces.
 
 ## Primary Objects
-# Primary Shapes
+### Shapes
+
+### Solids
+
