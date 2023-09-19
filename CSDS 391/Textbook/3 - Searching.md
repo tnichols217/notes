@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-18 23:09
-date updated: 2023-09-18 23:25
+date updated: 2023-09-19 00:23
 ---
 
 # Searching
@@ -31,6 +31,7 @@ Uses the result to execute the simulated result
 ## Properties of a Search Model
 
 A search model consists of the following modules:
+
 - A state space - often represented as a graph
 - An initial state
 - A goal state
@@ -47,9 +48,14 @@ Often a state space can be represented as a graph, with the initial state being 
 ## Types of popular search methods
 
 ### Depth first search
-- Does not guarantee most optimal route
-- Memory efficient 
+
+- Does not guarantee most optimal route upon first find of the goal
+- Memory efficient
 
 1. Pick a child to explore, and move to that child
 2. From that child, repeat step 1 until there are no more children or you have reached the goal state
 3. Move up one parent until there are unexplored children and go back to step 1 from that state
+
+### Breadth first search
+
+- Guarantees the most optimal route
