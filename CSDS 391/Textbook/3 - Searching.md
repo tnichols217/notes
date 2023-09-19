@@ -45,7 +45,7 @@ Where you make a path from the initial state to the goal state by performing act
 
 Often a state space can be represented as a graph, with the initial state being the top of the graph and possible actions being children of each node. Visualizing the solution to reach the goal state would be to connect a line from the top of the graph to the solution node.
 
-## Types of popular search methods
+## Common search methods
 
 ### Depth first search
 
@@ -61,7 +61,9 @@ Often a state space can be represented as a graph, with the initial state being 
 - Guarantees the most optimal route
 - Uses a lot of memory
 
-1. Generate a list from all child nodes
+1. Generate a list from all child nodes of explored nodes
 2. Sort list using a heuristic if existing
 3. Explore the top node based on sorting
-4. Repeat step 1 until 
+4. Repeat step 1 until goal state is found
+
+### Best-first search
