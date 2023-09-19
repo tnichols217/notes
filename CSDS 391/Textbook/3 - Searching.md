@@ -142,7 +142,7 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 - Similar to A* except uses an iterative deepening approach
 - Uses less memory at the expense of higher compute time
-- Uses the 
+- Uses the $f$-cost of the smallest node that exceeded the previous cutoff
 
 ## Search Contours
 
