@@ -20,10 +20,6 @@ The outline or silhouette of a form. Gives a rough understanding of its 3D shape
 	- Opening: doors, windows
 	- Silhouettes of buildings
 
-#### Primary Shapes
-
-
-
 ### Size
 
 The height, width, and depth of the form in comparison to the other objects around it.
@@ -49,3 +45,6 @@ The viewpoint of which the form is seen from. It effects what details are highli
 ### Visual Inertia
 
 The degree or lack of stability in a form. It created a perceived motion or resolution of position. It depends on rotation, position, and relation to gravity or other forces.
+
+## Primary Objects
+# Primary Shapes
