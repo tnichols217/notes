@@ -79,4 +79,12 @@ Often a state space can be represented as a graph, with the initial state being 
 ## Search Data Structures
 
 ### Node
+#### State
 
+The current state of the 
+
+#### Parent
+
+#### Action
+
+#### Path Cost
