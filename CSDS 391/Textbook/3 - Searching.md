@@ -147,7 +147,9 @@ How much memory or storage the algorithm uses in order to produce a result.
 ### Recursive best-first search RBFS
 
 - Attempts to mimic a best first search
-- Explores down until it hits the $fLimit$, then backs up 
+- Explores down until it hits the $fLimit$, then backs up, picking the second lowest estimated score
+- Uses the distance from start as well as estimated distance to end to organize nodes
+- Uses much less 
 
 ## Search Contours
 
