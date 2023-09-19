@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-18 23:09
-date updated: 2023-09-19 00:23
+date updated: 2023-09-19 00:45
 ---
 
 # Searching
@@ -79,12 +79,17 @@ Often a state space can be represented as a graph, with the initial state being 
 ## Search Data Structures
 
 ### Node
+
 #### State
 
-The current state
+The current node that the state represents
 
 #### Parent
 
+A pointer to the parent of this node
+
 #### Action
+
+
 
 #### Path Cost
