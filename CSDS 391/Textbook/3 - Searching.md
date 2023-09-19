@@ -77,3 +77,5 @@ Often a state space can be represented as a graph, with the initial state being 
 4. Repeat step 1 until goal state is found
 
 ## Search Data Structures
+
+

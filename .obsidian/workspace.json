@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/1 - Probability Theory.md"
+                "file": "CSDS 391/Textbook/3 - Searching.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/1 - Probability Theory.md",
+                "file": "CSDS 391/Textbook/3 - Searching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,10 +232,10 @@
       }
     ]
   },
-  "active": "7227d50567a7519f",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/3 - Searching.md",
     "STAT 345/Textbook/1 - Probability Theory.md",
+    "CSDS 391/Textbook/3 - Searching.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
     "ARTS 302/Readings/Ching/2 - Form.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements.md",
