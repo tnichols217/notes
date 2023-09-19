@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/2 - Form.md",
+                "file": "CSDS 391/Textbook/3 - Searching.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/2 - Form.md",
+                "file": "CSDS 391/Textbook/3 - Searching.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Readings/Ching/2 - Form.md"
+                "file": "CSDS 391/Textbook/3 - Searching.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Readings/Ching/2 - Form.md",
+                "file": "CSDS 391/Textbook/3 - Searching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,9 +234,10 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "ARTS 302/Readings/Ching/1 - Primary Elements.md",
-    "ARTS 302/Readings/Ching/2 - Form.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
+    "CSDS 391/Textbook/3 - Searching.md",
+    "ARTS 302/Readings/Ching/2 - Form.md",
+    "ARTS 302/Readings/Ching/1 - Primary Elements.md",
     "CSDS 391/Textbook/1 - Intro to AI.md",
     "MUTH 104/Assignments/2/A.pdf",
     "MUTH 104/Assignments/1/1.pdf",
@@ -271,7 +272,6 @@
     "CSDS 391/W/W1_tln32.md",
     "CSDS 391/W/W1_tln32.pdf",
     "Chem 111/6 - Stoichiometry.md",
-    "ARTS 302/Readings/Ching/2 - Form/Shape.md",
     "ARTS 302/Readings/Ching/2 - Form/Shape.svg",
     "ARTS 302/Readings/Ching/2 - Form/attachments/Pasted Image 20230914000538_042.png",
     "STAT 345/Sample Spaces.svg",
