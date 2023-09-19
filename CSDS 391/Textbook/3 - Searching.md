@@ -21,4 +21,8 @@ Specifying possible actions and states - an abstraction of the relevant world.
 
 ### Search
 
-The agent simulates possi
+The agent simulates possible solutions and returns a result when its done
+
+### Execution
+
+Uses the result to execu
