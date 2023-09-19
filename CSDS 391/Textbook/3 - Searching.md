@@ -149,7 +149,10 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Attempts to mimic a best first search
 - Explores down until it hits the $fLimit$, then backs up, picking the second lowest estimated score
 - Uses the distance from start as well as estimated distance to end to organize nodes
-- Uses much less 
+- Uses much less memory, better option if A* is too heavy
+- Reexplores a lot of nodes (waste of resouce)
+
+
 
 ## Search Contours
 
