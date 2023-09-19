@@ -227,6 +227,9 @@ A queue where the last node to be added get popped first
 
 ### Precomputation
 
-- Precomputing and storing optimal pathes between landmarks
+- Precomputing and storing costs between verticies and other short routes
 
+#### L
+
+- Precomputing and storing optimal pathes between landmarks
 
