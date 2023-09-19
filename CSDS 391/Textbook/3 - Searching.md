@@ -88,11 +88,14 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 - Guarantees the most optimal route
 - Uses a lot of memory
+- Is a type of breadth first search
 
 1. Generate a list from all child nodes of explored nodes
-2. Sort list by distance from starting node
+2. Sort list by evaluation function
 3. Explore the closest child
 4. Repeat step 1 until goal state is found
+
+### Dij
 
 ## Search Data Structures
 
