@@ -121,11 +121,13 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 - Most common algorithm
 - Uses the sum of the current distance from the initial node and the estimated cost to the target node as its heuristic
-- If the heuris
+- If the heuristic is admissible, then A* search is complete and optimal based on the triangle inequality
 
 #### Admissible Heuristics
 
-- Never overestimates the possible 
+- Never overestimates the possible path to the goal state
+
+#### Triangle Inequality
 
 ## Search Data Structures
 
