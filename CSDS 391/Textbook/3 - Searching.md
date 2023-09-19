@@ -32,4 +32,7 @@ Uses the result to execute the simulated result
 
 A search model consists of the following modules:
 - A state space
-- An initio
+- An initial state
+- A goal state
+- Possible actions
+- 
