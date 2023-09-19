@@ -67,3 +67,11 @@ Often a state space can be represented as a graph, with the initial state being 
 4. Repeat step 1 until goal state is found
 
 ### Best-first search
+
+- Guarantees the most optimal route
+- Uses a lot of memory
+
+1. Generate a list from all child nodes of explored nodes
+2. Sort list using a heuristic if existing
+3. Explore the top node based on sorting
+4. Repeat step 1 until goal state is found
