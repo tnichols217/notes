@@ -157,6 +157,10 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Similar to A*, except when reaching the memory limit, the worse node is thrown away
 - If a branch comes to a dead end or is proven subobtimal (due to triangle inequality), it can be thrown away and the memory used to reexplore
 
+### Bidirectional Heuristic Search
+
+- Performs an informed search from both the beginning and the end working to meet
+
 ## Search Contours
 
 An imagined map of where a search function searches first, with rings of how long it takes before a search function going to explore that node.
