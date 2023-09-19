@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/1 - Random Variables.md"
+                "file": "STAT 345/Homework/2.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/1 - Random Variables.md",
+                "file": "STAT 345/Homework/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,26 +206,7 @@
                     "source": false
                   }
                 }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 340,
-        "y": 132,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      },
-      {
-        "id": "0392373f0ffc5a02",
-        "type": "window",
-        "children": [
-          {
-            "id": "90a443c1ee738ba8",
-            "type": "tabs",
-            "children": [
+              },
               {
                 "id": "d6c7ac495bd415f8",
                 "type": "leaf",
@@ -251,11 +232,11 @@
       }
     ]
   },
-  "active": "d6c7ac495bd415f8",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "STAT 345/Homework/2.md",
-    "STAT 345/Textbook/1 - Random Variables.md",
     "STAT 345/Textbook/1 - Probability Theory.md",
+    "STAT 345/Textbook/1 - Random Variables.md",
+    "STAT 345/Homework/2.md",
     "STAT 345/Homework/1.md",
     "STAT 345/1.4 Random Variables.md",
     "STAT 345/Textbook/1 - Set Symbols.md",
