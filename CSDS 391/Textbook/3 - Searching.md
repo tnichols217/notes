@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-18 23:09
-date updated: 2023-09-19 01:08
+date updated: 2023-09-19 01:23
 ---
 
 # Searching
@@ -53,7 +53,7 @@ If the algorithm returns the correct result, or is possible of returning a corre
 
 ### Optimality
 
-If the algorithm returns the best result within reasonable time and space. 
+If the algorithm returns the best result within reasonable time and space.
 
 ### Time Complexity
 
@@ -81,9 +81,8 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Uses a lot of memory
 
 1. Generate a list from all child nodes of explored nodes
-2. Sort list using a heuristic if existing
-3. Explore the top node based on sorting
-4. Repeat step 1 until goal state is found
+2. Explore all children nodes
+3. Repeat step 1 until goal state is found
 
 ### Best-first search
 
@@ -142,5 +141,3 @@ A queue where the earliest node to be added gets popped first
 #### LIFO Queue
 
 A queue where the last node to be added get popped first
-
-
