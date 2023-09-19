@@ -111,6 +111,10 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Once they meet or "see" each other then a path has been found
 - Often combined with uniform cost search as less exploring needs to be done
 
+### Greedy best first search
+
+- Incorporate an estimated cost to goal from each node when creating the heuristic
+
 ## Search Data Structures
 
 ### Frontier
