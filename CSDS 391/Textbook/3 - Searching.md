@@ -30,3 +30,4 @@ Uses the result to execute the simulated result
 
 ## Properties of a Search Model
 
+A search model 
