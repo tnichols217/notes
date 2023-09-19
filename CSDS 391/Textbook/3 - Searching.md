@@ -62,6 +62,8 @@ Often measured as a function of the size of the input in terms of the most expen
 
 ### Space Complexity
 
+How much memory or storage the algorithm uses in order to produce a result.
+
 ## Common search methods
 
 ### Depth first search
