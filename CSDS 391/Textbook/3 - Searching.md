@@ -31,7 +31,7 @@ Uses the result to execute the simulated result
 ## Properties of a Search Model
 
 A search model consists of the following modules:
-- A state space
+- A state space - often represented as a graph
 - An initial state
 - A goal state
 - Possible actions
