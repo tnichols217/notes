@@ -110,4 +110,12 @@ The children nodes
 
 Possible actions
 
-####
+### Queues
+
+#### Priority Queue
+
+A queue where the best node according to a heuristic is popped first
+
+#### FIFO Queue
+
+A queue where the earliest node to be added gets popped firs
