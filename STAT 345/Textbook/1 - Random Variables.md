@@ -25,8 +25,9 @@ That the probability of $X=x_i$ on $\chi$ is equal to the probability of set wit
 
 Defined as a function that meets the criteria:
 
-$X^{-1}(x)=$
+$X^{-1}(y)=\{\}$
 
+Maps results of $X$ back to the samples that 
 ## Cumulative Distributive Function $F$
 
 $F_X(x)=P_X(X\le x)\qquad\forall x\in R$
