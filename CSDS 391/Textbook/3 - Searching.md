@@ -114,6 +114,11 @@ How much memory or storage the algorithm uses in order to produce a result.
 ### Greedy best first search
 
 - Incorporate an estimated cost to goal from each node when creating the heuristic
+- For example taking an absolute distance from that node to the target without exploring to get an estimate
+
+### A* search
+
+- Most 
 
 ## Search Data Structures
 
