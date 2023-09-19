@@ -23,7 +23,9 @@ That the probability of $X=x_i$ on $\chi$ is equal to the probability of set wit
 
 ## Inverse Mapping $X^{-1}$
 
+Defined as a function that meets the criteria:
 
+$X^{-1}(x)=$
 
 ## Cumulative Distributive Function $F$
 
