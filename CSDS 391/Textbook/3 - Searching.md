@@ -90,6 +90,10 @@ A pointer to the parent of this node
 
 #### Action
 
-
+The action applied to get to this state
 
 #### Path Cost
+
+Total cost of getting from the initial position to this state
+
+#### 
