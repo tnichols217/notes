@@ -53,7 +53,11 @@ If the algorithm returns the correct result, or is possible of returning a corre
 
 ### Optimality
 
+If the algorithm returns the best result within reasonable time and space. 
+
 ### Time Complexity
+
+
 
 ### Space Complexity
 
