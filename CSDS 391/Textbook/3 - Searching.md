@@ -72,6 +72,8 @@ Often a state space can be represented as a graph, with the initial state being 
 - Uses a lot of memory
 
 1. Generate a list from all child nodes of explored nodes
-2. Sort list using a heuristic if existing
-3. Explore the top node based on sorting
+2. Sort list by distance from starting node
+3. Explore the closest child
 4. Repeat step 1 until goal state is found
+
+
