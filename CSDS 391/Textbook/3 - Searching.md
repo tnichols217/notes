@@ -227,7 +227,7 @@ A queue where the last node to be added get popped first
 
 ### Subproblems
 
-- Often times a larger problem can be divided up
+- Often times a larger problem can be divided up into smaller chunks which can be precomputed or computed faster than the entire problem at once
 
 ### Precomputation
 

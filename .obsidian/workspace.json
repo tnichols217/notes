@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/3 - Searching.md",
+                "file": "CSDS 391/Textbook/4 - Complex Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/3 - Searching.md",
+                "file": "CSDS 391/Textbook/4 - Complex Search.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/3 - Searching.md"
+                "file": "CSDS 391/Textbook/4 - Complex Search.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/3 - Searching.md",
+                "file": "CSDS 391/Textbook/4 - Complex Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,8 +234,9 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "STAT 345/Textbook/1 - Probability Theory.md",
     "CSDS 391/Textbook/3 - Searching.md",
+    "CSDS 391/Textbook/4 - Complex Search.md",
+    "STAT 345/Textbook/1 - Probability Theory.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
     "ARTS 302/Readings/Ching/2 - Form.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements.md",
@@ -271,7 +272,6 @@
     "CSDS 391/W/W1-Q1.pdf",
     "CSDS 391/W/W1_tln32.md",
     "CSDS 391/W/W1_tln32.pdf",
-    "Chem 111/6 - Stoichiometry.md",
     "ARTS 302/Readings/Ching/2 - Form/Shape.svg",
     "ARTS 302/Readings/Ching/2 - Form/attachments/Pasted Image 20230914000538_042.png",
     "STAT 345/Sample Spaces.svg",
