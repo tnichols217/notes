@@ -127,8 +127,6 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 - Never overestimates the possible path to the goal state
 
-#### Triangle Inequality
-
 ## Search Data Structures
 
 ### Frontier
