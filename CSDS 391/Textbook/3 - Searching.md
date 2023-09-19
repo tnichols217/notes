@@ -17,4 +17,4 @@ Specifying the target or goal to reach
 
 ### Problem Formulation
 
-
+Specifying possible actions and states - an abstraction of the relevant world. 
