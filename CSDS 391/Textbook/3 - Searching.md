@@ -124,6 +124,10 @@ How much memory or storage the algorithm uses in order to produce a result.
 - If the heuristic is admissible, then A* search is complete and optimal based on the triangle inequality
 - Uses a lot of memory
 
+#### Admissible Heuristics
+
+- Never overestimates the possible path to the goal state
+
 ### Weighted A* search
 
 - Similar to A* except the estimated target cost is weighted above 1 compared to the distance from initial state weight
@@ -139,10 +143,6 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Similar to A* except uses an iterative deepening approach
 - Uses less memory at the expense of higher compute time
 - 
-
-#### Admissible Heuristics
-
-- Never overestimates the possible path to the goal state
 
 ## Search Contours
 
