@@ -144,6 +144,10 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Uses less memory at the expense of higher compute time
 - Uses the $f$-cost of the smallest node that exceeded the previous cutoff
 
+### Recursive best-first search RBFS
+
+- 
+
 ## Search Contours
 
 An imagined map of where a search function searches first, with rings of how long it takes before a search function going to explore that node.
