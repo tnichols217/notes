@@ -57,7 +57,8 @@ If the algorithm returns the best result within reasonable time and space.
 
 ### Time Complexity
 
-
+How long it takes for the algorithm to arrive at a solution or the optimal solution.
+Often measured as a function of the size of the input in terms of the most expensive operation (swaps, movement, searches)
 
 ### Space Complexity
 
