@@ -47,6 +47,9 @@ Often a state space can be represented as a graph, with the initial state being 
 ## Types of popular search methods
 
 ### Depth first search
+- Does not guarantee most optimal route
+- Memory efficient 
+
 1. Pick a child to explore, and move to that child
 2. From that child, repeat step 1 until there are no more children or you have reached the goal state
-3. 
+3. Move up one parent until there are unexplored children and go back to step 1 from that state
