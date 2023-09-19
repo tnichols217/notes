@@ -30,4 +30,6 @@ Uses the result to execute the simulated result
 
 ## Properties of a Search Model
 
-A search model 
+A search model consists of the following modules:
+- A state space
+- An initio
