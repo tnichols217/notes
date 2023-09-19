@@ -103,7 +103,13 @@ How much memory or storage the algorithm uses in order to produce a result.
 ### Depth limited search
 
 - Perform depth first search until a limit (pretend that things at the limit have no children)
-- Then pick a different node to be
+- Then pick a different node to begin from again
+
+### Bidirectional search
+
+- Performing an algorithm from both the beginning and end state, with the end working backwards
+- Once they meet or "see" each other then a path has been found
+- Often combined with uniform cost search as less exploring needs to be done
 
 ## Search Data Structures
 
