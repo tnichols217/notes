@@ -166,7 +166,7 @@ How much memory or storage the algorithm uses in order to produce a result.
 		- Have the goal update to the other frontier
 	- front to end
 		- Have the goal remain to be the other side (root or goal)
-- For front to front, the 
+- For front to front, the heuristic is often max(2g, g+h)
 
 ## Search Contours
 
