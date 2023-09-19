@@ -102,6 +102,9 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 ### Depth limited search
 
+- Perform depth first search until a limit (pretend that things at the limit have no children)
+- Then pick a different node to be
+
 ## Search Data Structures
 
 ### Frontier
