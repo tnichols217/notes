@@ -28,7 +28,7 @@ Defined as a function that meets the criteria:
 $X^{-1}(y)=\{x\in S:X(x)=y\}$
 
 Maps results of $X$ back to all the possible samples that could have made that result.
-If the function mapping is 1-to-1, then the inverse will always be a singular value instead of a set of values..
+If the function mapping is 1-to-1, then the inverse will always be a singular value instead of a set of values.
 
 ## Cumulative Distributive Function $F$
 
