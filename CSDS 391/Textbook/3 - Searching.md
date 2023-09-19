@@ -81,7 +81,7 @@ Often a state space can be represented as a graph, with the initial state being 
 ### Node
 #### State
 
-The current state of the 
+The current state
 
 #### Parent
 
