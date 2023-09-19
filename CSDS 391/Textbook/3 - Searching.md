@@ -28,3 +28,5 @@ The agent simulates possible solutions and returns a result when its done
 
 Uses the result to execute the simulated result
 
+## Properties of a Search Model
+
