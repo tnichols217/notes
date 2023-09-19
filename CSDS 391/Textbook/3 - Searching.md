@@ -98,7 +98,9 @@ How much memory or storage the algorithm uses in order to produce a result.
 ### Dijkstra's algorithm / uniform-cost search
 
 - Is the same as Best-first search where the evaluation function is the path distance from the starting node
-- 
+- More applicable for real world use, as paths are not normally of equal cost
+
+### Depth limited search
 
 ## Search Data Structures
 
