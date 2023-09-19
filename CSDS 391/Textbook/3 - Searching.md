@@ -35,4 +35,8 @@ A search model consists of the following modules:
 - An initial state
 - A goal state
 - Possible actions
-- 
+- A transition model
+- Action cost model
+
+Where you make a path from the initial state to the goal state by performing actions·
+
