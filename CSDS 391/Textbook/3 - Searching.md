@@ -40,3 +40,6 @@ A search model consists of the following modules:
 
 Where you make a path from the initial state to the goal state by performing actions. An optimal solution is
 
+## Graphs
+
+Often a state space can be represented as a graph, which 
