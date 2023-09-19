@@ -136,6 +136,8 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 ### Iterative Deepening A* (IDA*) search
 
+- Similar to A* except uses an iterative deepening approach
+- Uses less memory at the expense of higher compute time
 - 
 
 #### Admissible Heuristics
