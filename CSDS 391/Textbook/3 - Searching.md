@@ -45,6 +45,8 @@ Where you make a path from the initial state to the goal state by performing act
 
 Often a state space can be represented as a graph, with the initial state being the top of the graph and possible actions being children of each node. Visualizing the solution to reach the goal state would be to connect a line from the top of the graph to the solution node.
 
+## Performance 
+
 ## Common search methods
 
 ### Depth first search
@@ -118,4 +120,10 @@ A queue where the best node according to a heuristic is popped first
 
 #### FIFO Queue
 
-A queue where the earliest node to be added gets popped firs
+A queue where the earliest node to be added gets popped first
+
+#### LIFO Queue
+
+A queue where the last node to be added get popped first
+
+
