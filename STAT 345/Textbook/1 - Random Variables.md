@@ -7,6 +7,7 @@ date created: 2023-09-18 19:31
 > [!def]
 > **Random Variable**
 > A function that maps a Sample Space $S$ into the real numbers
+> Maps countable spaces to discrete numbers and uncountable spaces to continuous numbers
 >
 > Ex: number of people voting yes (sum of yes's)
 
