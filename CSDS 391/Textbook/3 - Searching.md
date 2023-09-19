@@ -134,7 +134,7 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Similar to A* except limits the size of the unexplored nodes to a certain number and discards the rest
 - Much lower memory consumption at the cost of a less optimal result and may not be complete
 
-### Iterative Deepening A* (IDA*) search
+### Iterative Deepening A\* (IDA\*) search
 
 - Similar to A* except uses an iterative deepening approach
 - Uses less memory at the expense of higher compute time
