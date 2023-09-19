@@ -147,7 +147,7 @@ How much memory or storage the algorithm uses in order to produce a result.
 ### Recursive best-first search RBFS
 
 - Attempts to mimic a best first search
-- Explores down until it hits the $fLimit$, then 
+- Explores down until it hits the $fLimit$, then backs up 
 
 ## Search Contours
 
