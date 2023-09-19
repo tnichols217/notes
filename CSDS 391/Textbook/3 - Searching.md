@@ -127,6 +127,10 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 - Never overestimates the possible path to the goal state
 
+## Search Contours
+
+An imagined map of where a search function searches first, with rings of how long it takes before a search function going to explore that node.
+
 ## Search Data Structures
 
 ### Frontier
