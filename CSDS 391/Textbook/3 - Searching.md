@@ -123,6 +123,10 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Uses the sum of the current distance from the initial node and the estimated cost to the target node as its heuristic
 - If the heuristic is admissible, then A* search is complete and optimal based on the triangle inequality
 
+### Weighted A* search
+
+- Similar to A* except the estimated target cost is weighted above 1 comp
+
 #### Admissible Heuristics
 
 - Never overestimates the possible path to the goal state
