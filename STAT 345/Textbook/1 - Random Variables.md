@@ -27,7 +27,8 @@ Defined as a function that meets the criteria:
 
 $X^{-1}(y)=\{\}$
 
-Maps results of $X$ back to the samples that 
+Maps results of $X$ back to all the possible samples that could have made that result.
+
 ## Cumulative Distributive Function $F$
 
 $F_X(x)=P_X(X\le x)\qquad\forall x\in R$
