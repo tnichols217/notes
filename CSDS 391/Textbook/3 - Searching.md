@@ -225,6 +225,10 @@ A queue where the last node to be added get popped first
 - Often characterized by their **effective branching factor**, a ratio of how much this heuristic tends to make branches at each node
 - Often better if the EBF is minimized to produce an optimal result with little computation
 
+### Subproblems
+
+- Often times a larger problem can be divided up
+
 ### Precomputation
 
 - Precomputing and storing costs between verticies and other short routes
@@ -233,6 +237,8 @@ A queue where the last node to be added get popped first
 
 - Precomputing and storing optimal pathes between landmarks
 
-### Differential Heuristic
+#### Differential Heuristic
 
-Using a 
+- Using a precomputed path but subtracting off the end of it
+- Differential because of the subtraction
+
