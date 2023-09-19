@@ -1,5 +1,6 @@
 ---
 date created: 2023-09-18 23:09
+date updated: 2023-09-18 23:25
 ---
 
 # Searching
@@ -17,7 +18,7 @@ Specifying the target or goal to reach
 
 ### Problem Formulation
 
-Specifying possible actions and states - an abstraction of the relevant world. 
+Specifying possible actions and states - an abstraction of the relevant world. In a place that is deterministic and consistent.
 
 ### Search
 
@@ -25,4 +26,5 @@ The agent simulates possible solutions and returns a result when its done
 
 ### Execution
 
-Uses the result to execu
+Uses the result to execute the simulated result
+
