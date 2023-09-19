@@ -95,7 +95,10 @@ How much memory or storage the algorithm uses in order to produce a result.
 3. Explore the closest child
 4. Repeat step 1 until goal state is found
 
-### Dij
+### Dijkstra's algorithm / uniform-cost search
+
+- Is the same as Best-first search where the evaluation function is the path distance from the starting node
+- 
 
 ## Search Data Structures
 
