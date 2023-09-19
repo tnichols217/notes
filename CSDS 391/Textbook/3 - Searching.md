@@ -229,7 +229,10 @@ A queue where the last node to be added get popped first
 
 - Precomputing and storing costs between verticies and other short routes
 
-#### L
+#### Landmarking
 
 - Precomputing and storing optimal pathes between landmarks
 
+### Differential Heuristic
+
+Using a 
