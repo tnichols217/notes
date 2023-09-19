@@ -21,6 +21,10 @@ $P_\chi(X=x_i)=P(\{s_j\in S:X(s_j)=x_i\})$ for countable $\chi$
 $P_\chi(X\in A)=P(\{s\in S: X(s)\in A\})$
 That the probability of $X=x_i$ on $\chi$ is equal to the probability of set with values that get transformed to $x_i$ by function $X$
 
+## Inverse Mapping $X^{-1}$
+
+
+
 ## Cumulative Distributive Function $F$
 
 $F_X(x)=P_X(X\le x)\qquad\forall x\in R$
