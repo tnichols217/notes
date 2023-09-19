@@ -113,12 +113,15 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 ### Greedy best first search
 
-- Incorporate an estimated cost to goal from each node when creating the heuristic
+- Use an estimated cost to goal from each node when creating the heuristic
 - For example taking an absolute distance from that node to the target without exploring to get an estimate
+- Then pick the node that is estimated to be the closest to the goal
 
 ### A* search
 
-- Most 
+- Most common algorithm
+- Uses the sum of the current distance from the initial node and the estimated cost to the target node as its heuristic
+- 
 
 ## Search Data Structures
 
