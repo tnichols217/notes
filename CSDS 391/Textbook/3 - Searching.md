@@ -76,4 +76,4 @@ Often a state space can be represented as a graph, with the initial state being 
 3. Explore the closest child
 4. Repeat step 1 until goal state is found
 
-
+## Search Data Structures
