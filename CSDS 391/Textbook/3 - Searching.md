@@ -38,5 +38,5 @@ A search model consists of the following modules:
 - A transition model
 - Action cost model
 
-Where you make a path from the initial state to the goal state by performing actions·
+Where you make a path from the initial state to the goal state by performing actions. An optimal solution is
 
