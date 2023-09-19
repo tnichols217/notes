@@ -11,11 +11,9 @@
             "id": "c70cea149caf3c93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "STAT 345/Homework/2.md",
-                "mode": "source",
-                "source": false
+                "file": "MUTH 104/Assignments/2/A.pdf"
               }
             },
             "group": "ff4b794bee87e419"
@@ -30,11 +28,9 @@
             "id": "7e27489a5fec85a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "STAT 345/Homework/2.md",
-                "mode": "source",
-                "source": false
+                "file": "MUTH 104/Assignments/2/A.pdf"
               }
             },
             "group": "ff4b794bee87e419"
@@ -99,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/2.md"
+                "file": "MUTH 104/Assignments/2/A.pdf"
               }
             }
           }
@@ -131,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/2.md",
+                "file": "MUTH 104/Assignments/2/A.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,10 +230,11 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "MUTH 104/Assignments/1/1.pdf",
+    "STAT 345/Textbook/1 - Probability Theory.md",
+    "STAT 345/Homework/2.md",
     "STAT 345/Homework/2.pdf",
     "STAT 345/Homework/1.md",
-    "STAT 345/Homework/2.md",
-    "STAT 345/Textbook/1 - Probability Theory.md",
     "STAT 345/Textbook/1 - Random Variables.md",
     "STAT 345/1.4 Random Variables.md",
     "STAT 345/Textbook/1 - Set Symbols.md",
@@ -269,7 +266,6 @@
     "CSDS 391/Textbook/1 - Intro to AI.md",
     "Chem 111/6 - Stoichiometry.md",
     "CSDS 391/W",
-    "CSDS 391/Textbook",
     "ARTS 302/Readings/Ching/2 - Form/Shape.md",
     "ARTS 302/Readings/Ching/2 - Form/Shape.svg",
     "ARTS 302/Readings/Ching/2 - Form/attachments/Pasted Image 20230914000538_042.png",
