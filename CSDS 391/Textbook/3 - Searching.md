@@ -45,7 +45,17 @@ Where you make a path from the initial state to the goal state by performing act
 
 Often a state space can be represented as a graph, with the initial state being the top of the graph and possible actions being children of each node. Visualizing the solution to reach the goal state would be to connect a line from the top of the graph to the solution node.
 
-## Performance 
+## Performance metrics
+
+### Completeness
+
+If the algorithm returns the correct result, or is possible of returning a correct result if it exists
+
+### Optimality
+
+### Time Complexity
+
+### Space Complexity
 
 ## Common search methods
 
