@@ -125,7 +125,12 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 ### Weighted A* search
 
-- Similar to A* except the estimated target cost is weighted above 1 comp
+- Similar to A* except the estimated target cost is weighted above 1 compared to the distance from initial state weight
+- Gives multiple times speedup at the cost of a slightly less optimal result
+
+### Beam search
+
+- Similar to A*
 
 #### Admissible Heuristics
 
