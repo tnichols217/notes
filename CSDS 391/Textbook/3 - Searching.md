@@ -78,4 +78,5 @@ Often a state space can be represented as a graph, with the initial state being 
 
 ## Search Data Structures
 
+### Node
 
