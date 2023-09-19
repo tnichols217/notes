@@ -121,7 +121,11 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 - Most common algorithm
 - Uses the sum of the current distance from the initial node and the estimated cost to the target node as its heuristic
-- 
+- If the heuris
+
+#### Admissible Heuristics
+
+- Never overestimates the possible 
 
 ## Search Data Structures
 
