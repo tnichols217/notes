@@ -159,7 +159,14 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 ### Bidirectional Heuristic Search
 
-- Performs an informed search from both the beginning and the end working to meet
+- Performs an informed search from both the beginning and the end working to meet in the middle
+- Cannot be proven to be optimal
+- Has two types:
+	- front to front
+		- Have the goal update to the other frontier
+	- front to end
+		- Have the goal remain to be the other side (root or goal)
+- For front to front, the 
 
 ## Search Contours
 
