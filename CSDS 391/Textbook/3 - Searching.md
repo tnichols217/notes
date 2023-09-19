@@ -122,6 +122,7 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Most common algorithm
 - Uses the sum of the current distance from the initial node and the estimated cost to the target node as its heuristic
 - If the heuristic is admissible, then A* search is complete and optimal based on the triangle inequality
+- Uses a lot of memory
 
 ### Weighted A* search
 
@@ -130,7 +131,8 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 ### Beam search
 
-- Similar to A*
+- Similar to A* except limits the size of the unexplored nodes to a certain number and discards the rest
+- Much lower memory consumption at the cost of a less optimal result and may not be complete
 
 #### Admissible Heuristics
 
