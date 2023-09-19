@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-18 23:09
-date updated: 2023-09-19 00:45
+date updated: 2023-09-19 01:08
 ---
 
 # Searching
@@ -78,7 +78,7 @@ Often a state space can be represented as a graph, with the initial state being 
 
 ## Search Data Structures
 
-### Node
+### Frontier
 
 #### State
 
@@ -96,4 +96,18 @@ The action applied to get to this state
 
 Total cost of getting from the initial position to this state
 
-#### 
+### Node
+
+#### Parent
+
+The parent node
+
+#### Children
+
+The children nodes
+
+#### Actions
+
+Possible actions
+
+####
