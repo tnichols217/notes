@@ -220,4 +220,9 @@ A queue where the earliest node to be added gets popped first
 
 A queue where the last node to be added get popped first
 
-##
+## Heuristics
+
+- Often characterized by their **effective branching factor**, a ratio of how much this heuristic tends to make branches at each node
+- Often better if the EBF is minimized to produce an optimal result with little computation
+
+
