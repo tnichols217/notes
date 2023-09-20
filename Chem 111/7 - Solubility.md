@@ -35,4 +35,8 @@
 > ---
 > **Mole fraction**
 > mol A / total moles
+> ---
+> **Normality**
+> Number of equilalents of solute per liter of solution
+> - Equivalent - moles of substance that wil react with or replace one mol of %H^+$
 > 
