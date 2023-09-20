@@ -10,4 +10,5 @@
 - Strength of bonds
 - Temp => higher faster
 - Surface area => higher faster
+- Stirring increases surface area
 - 
