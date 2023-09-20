@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/12.7/25.md"
+                "file": "MATH 223/Practice Problems/12.7.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/12.7/25.md",
+                "file": "MATH 223/Practice Problems/12.7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,10 +272,11 @@
       }
     ]
   },
-  "active": "fe41958939892d77",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/12.7.md",
     "MATH 223/Practice Problems/12.7/25.md",
+    "MATH 223/Practice Problems/12.7/25.svg",
+    "MATH 223/Practice Problems/12.7.md",
     "MATH 223/Practice Problems/12.7/19.md",
     "MATH 223/Practice Problems/12.7/19.svg",
     "MATH 223/Practice Problems/12.4/Drawing 2023-09-11 21.59.34.excalidraw.svg",
@@ -309,7 +310,6 @@
     "STAT 345/Homework/1/2a.md",
     "STAT 345/Homework/1/2a.svg",
     "STAT 345/Homework/1",
-    "APMusicTheory/Cadences and Musical Ideas.md",
     "MUTH 104/Assignments/2/MUTH 104 Assignment 2a.pdf",
     "MUTH 104/Assignments/2",
     "STAT 345/Homework",
@@ -319,7 +319,6 @@
     "STAT 345/Sample Spaces.svg",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_2.svg",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_1.svg",
-    "MATH 223/Practice Problems/12.5/33.svg",
     "church/Untitled.canvas"
   ]
 }
