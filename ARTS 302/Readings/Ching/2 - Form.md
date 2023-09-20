@@ -55,7 +55,9 @@ The degree or lack of stability in a form. It created a perceived motion or reso
 
 #### Square
 
-#### 
+#### Pentagon
+
+#### Hexagon
 
 ### Solids
 
