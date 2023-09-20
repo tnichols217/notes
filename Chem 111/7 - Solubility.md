@@ -4,4 +4,5 @@
 - Temperature
 	- Gasses increase in temp => decrease in solubility
 	- Solids and liquids, not a rule, but most increase in temp => increase in solubility
-- Pressure increase in pressure => 
+- Pressure increase in pressure => increase in solubility proportionally
+
