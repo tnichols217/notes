@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/4 - Complex Search.md",
+                "file": "MATH 223/Practice Problems/12.7.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/4 - Complex Search.md",
+                "file": "MATH 223/Practice Problems/12.7.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/4 - Complex Search.md"
+                "file": "MATH 223/Practice Problems/12.7.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/4 - Complex Search.md",
+                "file": "MATH 223/Practice Problems/12.7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,8 +234,8 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/3 - Searching.md",
     "CSDS 391/Textbook/4 - Complex Search.md",
+    "CSDS 391/Textbook/3 - Searching.md",
     "STAT 345/Textbook/1 - Probability Theory.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
     "ARTS 302/Readings/Ching/2 - Form.md",
