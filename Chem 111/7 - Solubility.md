@@ -19,4 +19,7 @@
 > Amount of solute in a given quantity of a solvent or solution
 > ---
 > **Mass Percentage**
-> (g of solute/100g of solution)*1*
+> (g of solute/100g of solution)\*100%
+> ---
+> **Volume Percentage**
+> (mL of solute/100mL of solution)\*100%
