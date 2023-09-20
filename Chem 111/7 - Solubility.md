@@ -11,4 +11,12 @@
 - Temp => higher faster
 - Surface area => higher faster
 - Stirring increases surface area
-- 
+
+## Concentration
+
+> [!def]
+> **Concentration**
+> Amount of solute in a given quantity of a solvent or solution
+> ---
+> **Mass Percentage**
+> (g of solute/100g of solution)*1*
