@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/12.7/19.md"
+                "file": "MATH 223/Practice Problems/12.7/25.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/12.7/19.md",
+                "file": "MATH 223/Practice Problems/12.7/25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,8 +247,19 @@
                     "file": "MATH 223/Practice Problems/12.7/19.md"
                   }
                 }
+              },
+              {
+                "id": "fe41958939892d77",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "MATH 223/Practice Problems/12.7/25.md"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -261,10 +272,12 @@
       }
     ]
   },
-  "active": "3a2d2a2be082268d",
+  "active": "fe41958939892d77",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/12.7.md",
     "MATH 223/Practice Problems/12.7/19.md",
+    "MATH 223/Practice Problems/12.7/25.md",
+    "MATH 223/Practice Problems/12.7.md",
+    "MATH 223/Practice Problems/12.7/19.svg",
     "MATH 223/Practice Problems/12.4/Drawing 2023-09-11 21.59.34.excalidraw.svg",
     "MATH 223/Practice Problems/12.7",
     "CSDS 391/Textbook/4 - Complex Search.md",
@@ -300,7 +313,6 @@
     "MUTH 104/Assignments/2/MUTH 104 Assignment 2a.pdf",
     "MUTH 104/Assignments/2",
     "STAT 345/Homework",
-    "CSDS 391/W/W1-Q1.md",
     "CSDS 391/W/W1-Q1.pdf",
     "ARTS 302/Readings/Ching/2 - Form/Shape.svg",
     "ARTS 302/Readings/Ching/2 - Form/attachments/Pasted Image 20230914000538_042.png",
@@ -308,7 +320,6 @@
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_2.svg",
     "MUTH 104/Assignments/1/MUTH 104 Identifying Triads and Seventh Chords_1.svg",
     "MATH 223/Practice Problems/12.5/33.svg",
-    "MATH 223/Practice Problems/12.5/33.png",
     "church/Untitled.canvas"
   ]
 }
