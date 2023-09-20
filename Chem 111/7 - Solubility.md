@@ -32,4 +32,7 @@
 > ---
 > **Molality (m)**
 > mol solute / kg solvent
+> ---
+> **Mole fraction**
+> mol A / total moles
 > 
