@@ -31,5 +31,5 @@
 > mol of solute/L solution
 > ---
 > **Molality (m)**
-> mol
+> mol solute / kg solvent
 > 
