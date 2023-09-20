@@ -23,3 +23,6 @@
 > ---
 > **Volume Percentage**
 > (mL of solute/100mL of solution)\*100%
+> ---
+> **Parts per million (ppm)**
+> g of solute per one million g of solution
