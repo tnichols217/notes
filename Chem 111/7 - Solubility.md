@@ -38,5 +38,5 @@
 > ---
 > **Normality**
 > Number of equilalents of solute per liter of solution
-> - Equivalent - moles of substance that wil react with or replace one mol of %H^+$
-> 
+> - Equivalent - moles of substance that wil react with or replace one mol of $\text{H}^+$
+
