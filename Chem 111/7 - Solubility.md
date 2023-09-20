@@ -26,3 +26,10 @@
 > ---
 > **Parts per million (ppm)**
 > g of solute per one million g of solution
+> ---
+> **Molarity (M)**
+> mol of solute/L solution
+> ---
+> **Molality (m)**
+> mol
+> 
