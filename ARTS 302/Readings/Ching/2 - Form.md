@@ -178,6 +178,7 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 ### Centralized
 
 - Multiple sub-forms around a centralized main form
+- Geometrically regular
 - Dense and visually dominant
 - Often require a primitive form as it is easily identifiable and self-centering
 
@@ -195,5 +196,7 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 - Can be grown into a network
 
 ### Clustered
+
+- A group of forms set apart from the area 
 
 ### Grid
