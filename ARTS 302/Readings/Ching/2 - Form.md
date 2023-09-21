@@ -150,3 +150,13 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 - Attaching or adding forms to connect to an already existing form
 - Retains the least identity
 
+#### Spacial Tension
+
+- Some space is between the forms
+- Often forms have a similarity between th
+
+#### Edge-to-edge contact
+
+#### Face-to-face contact
+
+#### Interlocking volumes
