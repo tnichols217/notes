@@ -209,4 +209,10 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 ## Articulation of Form
 
-- Contrasting surfaces artifula
+- Often is about how distinct edges in a form are
+- Contrasting surfaces highly articulate form and edges
+- Rounded corners reduce articulation
+
+### Corners
+
+- 
