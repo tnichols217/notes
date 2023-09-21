@@ -83,6 +83,8 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 #### Sphere
 
+- 
+
 #### Cylinder
 
 #### Cone
