@@ -197,6 +197,9 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 ### Clustered
 
-- A group of forms set apart from the area 
+- A group of forms set apart from the area through close proximity
+- May or may not be touching each other
+- Do not have geometrical regularity like a central form
 
 ### Grid
+
