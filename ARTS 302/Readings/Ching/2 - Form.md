@@ -228,4 +228,12 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 #### One-sided opening
 
-- Gives the idea of a p
+- Gives the idea of a passing wall
+- Highlights the edge that does not get opened
+- Weakens volume visualization
+- Strengthens planar surfaces
+- Weakens corners
+
+#### Two-sided opening
+
+
