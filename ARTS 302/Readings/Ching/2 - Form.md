@@ -62,7 +62,10 @@ The degree or lack of stability in a form. It created a perceived motion or reso
 
 #### Square
 
-- Represents rationality
+- Represents rationality and pureness
+- Rectangles are derivations of squares
+- When flat or perfectly diagonal, it exists in a balanced state
+- When 
 
 #### Pentagon
 
