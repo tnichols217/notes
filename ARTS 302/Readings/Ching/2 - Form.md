@@ -130,14 +130,19 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 ## Shape Transformations
 
-### Dimentional
+### Dimensional
 
 - A modification of one or more dimensions of a form
 - Tends to retain original identity
+- Also inclu
 
 ### Subtractive
 
 - Created by subtracting a form from another form
-- Retains individual identity, but not as 
+- Retains individual identity, but not as much as dimensional transformation
 
 ### Additive
+
+- Attaching or adding forms to connect to an already existing form
+- Retains the least identity
+- 
