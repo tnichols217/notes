@@ -207,4 +207,6 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 - A series of forms organized in a grid-like shape
 - Could be subtractive forms from a large form at a regular interval
 
+## Articulation of Form
 
+- Contrasting surfaces artifula
