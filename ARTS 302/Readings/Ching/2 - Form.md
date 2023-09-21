@@ -53,9 +53,12 @@ The degree or lack of stability in a form. It created a perceived motion or reso
 
 - Centralized structure
 - Self centering
-- 
+- Can induce rotary motion when things are placed across its edge
 
 #### Triangle
+
+- Signifies Stability
+- 
 
 #### Square
 
