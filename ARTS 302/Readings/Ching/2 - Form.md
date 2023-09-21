@@ -237,5 +237,11 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 #### Two-sided opening
 
 - Strongly deteriorates articulation of corners
-- Reduces visualization of the volume
+- Allows insight into the volume, but also deteriorates its presence
+- Allows the mixing of volumes
+
+#### Rounded corners
+
+- Soften contours
+- Decreases corner articulation
 - 
