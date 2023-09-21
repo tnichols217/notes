@@ -248,6 +248,8 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 ### Surfaces
 
-#### Color
+#### Contrast in material
+
+- Differing materials, colors, or textures highlights a surface
 
 
