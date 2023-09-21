@@ -232,8 +232,10 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 - Highlights the edge that does not get opened
 - Weakens volume visualization
 - Strengthens planar surfaces
-- Weakens corners
+- Weakens articulation of corners
 
 #### Two-sided opening
 
-
+- Strongly deteriorates articulation of corners
+- Reduces visualization of the volume
+- 
