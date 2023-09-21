@@ -173,4 +173,16 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 - Volumes penetrate each others space
 - Does not need shared traits for the addition to be felt
 
-## Form 
+## Form Relationships
+
+### Centralized
+
+
+
+### Linear
+
+### Radial
+
+### Clustered
+
+### Grid
