@@ -177,7 +177,9 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 ### Centralized
 
-
+- Multiple sub-forms around a centralized main form
+- Dense and visually dominant
+- 
 
 ### Linear
 
