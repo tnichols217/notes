@@ -97,7 +97,8 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 #### Cone
 
 - Revolution of a triangle
-- 
+- Stable on its base, unstable when tilted
+- Induces movement when on it
 
 #### Pyramid
 
