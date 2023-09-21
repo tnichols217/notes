@@ -113,4 +113,5 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 - Lacks movement or direction
 - Stable on all sides
 - Can be unbalanced when placed at a non-perfect diagonal
-- 
+
+
