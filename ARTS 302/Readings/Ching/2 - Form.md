@@ -85,7 +85,7 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 - The revolution of a circle
 - Self centering in a 3D environment
-- 
+- Can induce a movement when on an unlevel 
 
 #### Cylinder
 
