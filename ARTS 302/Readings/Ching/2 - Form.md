@@ -183,7 +183,10 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 ### Linear
 
+- Multiple forms lined up in a straight line or bent curve
 - May appear repetitive in nature
+- Can define edges of spaces
+- May be vertical like a landmark
 - 
 
 ### Radial
