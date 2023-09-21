@@ -134,12 +134,15 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 - A modification of one or more dimensions of a form
 - Tends to retain original identity
-- Also inclu
+- Also includes shearing or scaling only a portion of a form
 
 ### Subtractive
 
 - Created by subtracting a form from another form
 - Retains individual identity, but not as much as dimensional transformation
+- Sometimes the ground plane is the subtractive form
+- Allows viewer to visualize the full form
+- 
 
 ### Additive
 
