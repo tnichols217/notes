@@ -79,4 +79,12 @@ The degree or lack of stability in a form. It created a perceived motion or reso
 
 ### Solids
 
-Shaped can be lofted, extruded, or rotated, or revolved
+Shaped can be lofted, extruded, rotated, or revolved to form basic solids
+
+#### Sphere
+
+#### Cylinder
+
+#### Cone
+
+####
