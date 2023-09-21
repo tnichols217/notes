@@ -258,4 +258,7 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 - Frontal views increase strength and weight of a surface
 - Oblique views increase distortion and decreases visual weight
 
-#### 
+#### Relative Scale
+
+- Things in vicinity give a sense of scale and grandness or an area or surface
+- Windows, doors
