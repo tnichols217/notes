@@ -179,9 +179,12 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 - Multiple sub-forms around a centralized main form
 - Dense and visually dominant
-- 
+- Often require a primitive form as it is easily identifiable and self-centering
 
 ### Linear
+
+- May appear repetitive in nature
+- 
 
 ### Radial
 
