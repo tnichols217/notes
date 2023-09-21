@@ -118,4 +118,5 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 ### Regular Shapes
 
-
+- Any primitive shape
+- Combinatiions of primitive shapes 
