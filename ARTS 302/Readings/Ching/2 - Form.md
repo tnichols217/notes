@@ -120,4 +120,7 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 - Any primitive shape
 - Combinatiions of primitive shapes that maintain symmetricality
+
+### Irregular Shapes
+
 - 
