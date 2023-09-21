@@ -90,6 +90,7 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 #### Cylinder
 
+- The revolution of a rectangle
 - 
 
 #### Cone
