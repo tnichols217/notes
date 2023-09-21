@@ -251,5 +251,11 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 #### Contrast in material
 
 - Differing materials, colors, or textures highlights a surface
+- Increases or decreases the weight of that surface
 
+#### View
 
+- Frontal views increase strength and weight of a surface
+- Oblique views increase distortion and decreases visual weight
+
+#### 
