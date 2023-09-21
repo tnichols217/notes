@@ -74,6 +74,7 @@ The degree or lack of stability in a form. It created a perceived motion or reso
 ### Curved surfaces
 
 - Expresses fluidity
+- Symmetricalness expresses stability and equilibrium
 - 
 
 ### Solids
