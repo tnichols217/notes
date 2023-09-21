@@ -98,7 +98,8 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 - Revolution of a triangle
 - Stable on its base, unstable when tilted
-- Induces movement when on it
+- Induces movement when on its side
+- Has equilibrium when directly on its point
 
 #### Pyramid
 
