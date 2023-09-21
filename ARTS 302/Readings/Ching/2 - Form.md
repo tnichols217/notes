@@ -91,7 +91,8 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 #### Cylinder
 
 - The revolution of a rectangle
-- 
+- Stable if resting on a flat side
+- Can also induce movement when on its curved surface
 
 #### Cone
 
