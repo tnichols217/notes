@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-13 23:15
-date updated: 2023-09-21 05:39
+date updated: 2023-09-21 05:49
 ---
 
 # Form
@@ -30,21 +30,21 @@ The height, width, and depth of the form in comparison to the other objects arou
 
 The hue, saturation, or just value of the form being depicted. In architectural drawings, they tend to just be a range of values to show 3D contour and shadows.
 
-### Texture
+#### Texture
 
 The visual and tactile property of a form given by the size, shape, arrangement, and proportion of the parts as well as the weight, sparsity, and type of stroke used to depict the form.
 
-## Relational Properties
+### Relational Properties
 
-### Position
+#### Position
 
 The location of a form relative to other forms. Gives an idea of space or compactness depending on its relation to other pieces.
 
-### Orientation
+#### Orientation
 
 The viewpoint of which the form is seen from. It effects what details are highlighted in the form.
 
-### Visual Inertia
+#### Visual Inertia
 
 The degree or lack of stability in a form. It created a perceived motion or resolution of position. It depends on rotation, position, and relation to gravity or other forces.
 
@@ -145,7 +145,7 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 - Sometimes the ground plane is the subtractive form
 - Allows viewer to visualize the full form
 - If edges are removed, identity is lost
-- 
+-
 
 ### Additive
 
@@ -172,3 +172,5 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 - Volumes penetrate each others space
 - Does not need shared traits for the addition to be felt
+
+## Form 
