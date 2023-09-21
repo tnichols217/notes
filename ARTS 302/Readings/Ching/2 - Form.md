@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-13 23:15
-date updated: 2023-09-13 23:22
+date updated: 2023-09-21 05:39
 ---
 
 # Form
@@ -16,9 +16,9 @@ The outline or silhouette of a form. Gives a rough understanding of its 3D shape
 - Primary means of recognition of a form
 - Depends on visual contrast to the background
 - To architecture shape matters for
-	- Enclosing planes: floors, walls
-	- Opening: doors, windows
-	- Silhouettes of buildings
+  - Enclosing planes: floors, walls
+  - Opening: doors, windows
+  - Silhouettes of buildings
 
 ### Size
 
@@ -47,6 +47,7 @@ The viewpoint of which the form is seen from. It effects what details are highli
 The degree or lack of stability in a form. It created a perceived motion or resolution of position. It depends on rotation, position, and relation to gravity or other forces.
 
 ## Primary Objects
+
 ### Shapes
 
 #### Circle
@@ -75,7 +76,7 @@ The degree or lack of stability in a form. It created a perceived motion or reso
 
 - Expresses fluidity
 - Symmetricalness expresses stability and equilibrium
-- 
+-
 
 ### Solids
 
@@ -123,4 +124,12 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 ### Irregular Shapes
 
-- A combination of forms that lack
+- A combination of forms that lacks symmetry
+- More dynamic
+- Can contain regular shapes, and regular shapes can contain it
+
+## Shape Transformations
+
+### Dimentional
+
+### 
