@@ -205,4 +205,6 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 - Most often a square grid, but may take other shapes
 - A series of forms organized in a grid-like shape
-- Could be subtractive forms from a 
+- Could be subtractive forms from a large form at a regular interval
+
+
