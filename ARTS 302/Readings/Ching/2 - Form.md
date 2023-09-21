@@ -103,5 +103,9 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 #### Pyramid
 
+- A loft from a polygon to a single point
+- Stable on its base
+- In balance when 
+
 #### Cube
 
