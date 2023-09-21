@@ -123,4 +123,4 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 ### Irregular Shapes
 
-- 
+- A combination of forms that lack
