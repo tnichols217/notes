@@ -110,4 +110,6 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 #### Cube
 
-- 
+- Lacks movement or direction
+- Stable on all sides
+- Can be unbalanced when 
