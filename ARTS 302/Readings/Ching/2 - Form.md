@@ -261,4 +261,4 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 #### Relative Scale
 
 - Things in vicinity give a sense of scale and grandness or an area or surface
-- Windows, doors
+- Windows or doors aid sense of scale
