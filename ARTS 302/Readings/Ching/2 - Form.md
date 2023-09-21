@@ -92,9 +92,12 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 - The revolution of a rectangle
 - Stable if resting on a flat side
-- Can also induce movement when on its curved surface
+- Can also induce movement when on its curved surface and on a slanted surface
 
 #### Cone
+
+- Revolution of a triangle
+- 
 
 #### Pyramid
 
