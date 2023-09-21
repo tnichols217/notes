@@ -7,9 +7,11 @@ date updated: 2023-09-21 05:39
 
 Form is the external appearance or structure of a work. It refers to the internal solid or just the surface of an object. It is primarily defined by shape, size, color, and texture.
 
-## Visual Properties
+## Properties of forms
 
-### Shape
+### Visual Properties
+
+#### Shape
 
 The outline or silhouette of a form. Gives a rough understanding of its 3D shape.
 
@@ -20,11 +22,11 @@ The outline or silhouette of a form. Gives a rough understanding of its 3D shape
   - Opening: doors, windows
   - Silhouettes of buildings
 
-### Size
+#### Size
 
 The height, width, and depth of the form in comparison to the other objects around it.
 
-### Color
+#### Color
 
 The hue, saturation, or just value of the form being depicted. In architectural drawings, they tend to just be a range of values to show 3D contour and shadows.
 
@@ -169,4 +171,4 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 #### Interlocking volumes
 
 - Volumes penetrate each others space
-- Does not need shared traits for the addition to be 
+- Does not need shared traits for the addition to be felt
