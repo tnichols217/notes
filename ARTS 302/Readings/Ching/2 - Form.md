@@ -69,11 +69,13 @@ The degree or lack of stability in a form. It created a perceived motion or reso
 
 #### Other regular shapes
 
-- The pentagon and hexagon can be derivations of a circle, with certain
+- The pentagon and hexagon can be derivations of a circle, with certain equilibrium points
 
-#### Pentagon
+### Curved surfaces
 
-#### Hexagon
+- Expresses fluidity
+- 
 
 ### Solids
+
 
