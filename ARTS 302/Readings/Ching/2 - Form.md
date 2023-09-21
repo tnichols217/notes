@@ -59,9 +59,10 @@ The degree or lack of stability in a form. It created a perceived motion or reso
 
 - Signifies Stability
 - Can be balanced in a precarious state
-- 
 
 #### Square
+
+- Represents rationality
 
 #### Pentagon
 
