@@ -163,6 +163,10 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 #### Face-to-face contact
 
-- 
+- Shares a planar surface
+- Connects the volumes
 
 #### Interlocking volumes
+
+- Volumes penetrate each others space
+- Does not need shared traits for the addition to be 
