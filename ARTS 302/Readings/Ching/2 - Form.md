@@ -142,10 +142,11 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 - Retains individual identity, but not as much as dimensional transformation
 - Sometimes the ground plane is the subtractive form
 - Allows viewer to visualize the full form
+- If edges are removed, identity is lost
 - 
 
 ### Additive
 
 - Attaching or adding forms to connect to an already existing form
 - Retains the least identity
-- 
+
