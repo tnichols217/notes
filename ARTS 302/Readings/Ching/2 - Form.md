@@ -215,4 +215,10 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 ### Corners
 
-- 
+#### Sharp corners
+
+- Most common and simple
+- Articulate corners
+- Often highlights the volume as well
+
+#### 
