@@ -153,10 +153,16 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 #### Spacial Tension
 
 - Some space is between the forms
-- Often forms have a similarity between th
+- Often forms have a similarity between them that allows for recognition as a whole
 
 #### Edge-to-edge contact
 
+- Share a common edge
+- Smallest form of "touching" forms
+- Provides a pivot point
+
 #### Face-to-face contact
+
+- 
 
 #### Interlocking volumes
