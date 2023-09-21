@@ -244,4 +244,10 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 - Soften contours
 - Decreases corner articulation
-- 
+- Strengthens the definition of form
+
+### Surfaces
+
+#### Color
+
+
