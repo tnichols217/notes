@@ -58,6 +58,7 @@ The degree or lack of stability in a form. It created a perceived motion or reso
 #### Triangle
 
 - Signifies Stability
+- Can be balanced in a precarious state
 - 
 
 #### Square
