@@ -190,7 +190,9 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 ### Radial
 
-- 
+- Multiple linear forms radiating out from a core element
+- Core is highly symbolic and a point of interest
+- Can be grown into a network
 
 ### Clustered
 
