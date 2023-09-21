@@ -65,7 +65,11 @@ The degree or lack of stability in a form. It created a perceived motion or reso
 - Represents rationality and pureness
 - Rectangles are derivations of squares
 - When flat or perfectly diagonal, it exists in a balanced state
-- When 
+- Otherwise, it is in a precarious state
+
+#### Other regular shapes
+
+- The pentagon and hexagon can be derivations of a circle, with certain
 
 #### Pentagon
 
