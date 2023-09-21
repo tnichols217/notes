@@ -105,7 +105,9 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 
 - A loft from a polygon to a single point
 - Stable on its base
-- In balance when 
+- In balance when on its base or any plane
+- Very angular
 
 #### Cube
 
+- 
