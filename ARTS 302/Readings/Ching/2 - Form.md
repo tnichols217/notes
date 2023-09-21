@@ -221,4 +221,11 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 - Articulate corners
 - Often highlights the volume as well
 
-#### 
+#### Positive features
+
+- More strongly highlights the corner
+- Less weight on the volume
+
+#### One-sided opening
+
+- Gives the idea of a p
