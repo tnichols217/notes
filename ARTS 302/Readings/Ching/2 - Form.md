@@ -187,9 +187,10 @@ Shaped can be lofted, extruded, rotated, or revolved to form basic solids
 - May appear repetitive in nature
 - Can define edges of spaces
 - May be vertical like a landmark
-- 
 
 ### Radial
+
+- 
 
 ### Clustered
 
