@@ -20,3 +20,7 @@ date created: 2023-09-23 18:23
 - Can find a reasonable solution in big sets of data
 
 ## Optimization Problem
+
+> [!def]
+> **Optimization Problem**
+> A problem whose solution is to find the best state according to an objective function (maximizing the objective function across )
