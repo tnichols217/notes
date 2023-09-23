@@ -12,4 +12,7 @@ date created: 2023-09-23 18:23
 
 > [!def]
 > **Local Search**
-> An algorithm that operates only on the current state and a target goal state.
+> An algorithm that operates only on the current state and a target goal state
+
+- Is not systematic, may never explore some areas
+- May re-explore areas 
