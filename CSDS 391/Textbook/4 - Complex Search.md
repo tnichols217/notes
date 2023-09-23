@@ -1,5 +1,6 @@
 ---
 date created: 2023-09-23 18:23
+date updated: 2023-09-23 18:29
 ---
 
 # Complex Search
@@ -23,4 +24,9 @@ date created: 2023-09-23 18:23
 
 > [!def]
 > **Optimization Problem**
-> A problem whose solution is to find the best state according to an objective function (maximizing the objective function across )
+> A problem whose solution is to find the best state according to an objective function
+>
+> - Maximizing the objective function across all inputs
+
+- Uses an objective function to measure performance
+- The goal is to find a se
