@@ -17,4 +17,5 @@ date created: 2023-09-23 18:23
 - Is not systematic, may never explore some areas
 - May explore previously visited areas
 - Much lower memory cost, more efficient for huge data sets
-- Can find a reasonable solution in big sets
+- Can find a reasonable solution in big sets of data
+
