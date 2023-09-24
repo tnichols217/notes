@@ -70,11 +70,14 @@ A constraint involving any amount of variables (does not need to include all var
 
 ### Node Consistency
 
-A variable is node-consistent if all unary constraints are satisfied upon its domain
+A variable is node-consistent if all **unary constraints** are satisfied upon its domain
 
 - Easiest to achieve
 - Simply set the domain to be the $\cap$ of all unary constraints and original domain
 
 ### Arc Consistency
 
-A variable is arc-consistent
+A variable is arc-consistent is all **binary constraints** are satisfied upon its domain
+A graph is arc-consistent if all of its variables are
+
+- 
