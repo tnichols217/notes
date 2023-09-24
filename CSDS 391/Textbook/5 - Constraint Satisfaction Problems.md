@@ -81,4 +81,5 @@ A variable is arc-consistent is all **binary constraints** are satisfied upon it
 A graph is arc-consistent if all of its variables are
 
 - Relatively easy to solve
-- Loop through every edge and check if it is consistent, if not remove that from the domain of each variable, takes $O(cd$
+- Loop through every edge and check if it is consistent, if not remove that from the domain of each variable, takes $O(cd^3)$
+
