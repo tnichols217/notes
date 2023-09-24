@@ -46,7 +46,7 @@ This way a search procedure could be evaluated upon the graph to find a complete
 
 > [!def]
 > **Constraint Hypergraph**
-> 
+> A way of graphing and visualizing contraints by drawing edges where 
 
 ### Unary Constraint
 
