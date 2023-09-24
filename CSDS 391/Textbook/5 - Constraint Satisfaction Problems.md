@@ -77,7 +77,7 @@ A variable is node-consistent if all **unary constraints** are satisfied upon it
 
 ### Arc Consistency
 
-A variable is arc-consistent is all **binary constraints** are satisfied upon each value in its domain
+A variable is arc-consistent is all **binary constraints** can be satisfied upon each value in its domain
 A graph is arc-consistent if all of its variables are
 
 - Relatively easy to solve
@@ -85,5 +85,5 @@ A graph is arc-consistent if all of its variables are
 
 ### Path Consistency
 
-A variable is arc-consistent is all **binary constraints** are satisfied upon each value in its domain
+A variable is path-consistent is all **binary constraints** can be satisfied upon each triplet of values in its domain
 
