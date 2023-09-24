@@ -210,4 +210,8 @@ Removing a part of the problem, then remerging it later
 
 #### Tree Decomposition
 
-Splitting the graph into a tree by grouping multiple nodes into a meta-node in a tree
+Splitting the graph into a tree by grouping multiple nodes into a meta-node in a tree such that
+
+1. Every original variable must appear in the new tree
+2. Every variable edge must be shown on the graph
+3. 
