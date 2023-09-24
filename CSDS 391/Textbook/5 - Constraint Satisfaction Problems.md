@@ -202,4 +202,5 @@ Adds importance to a particular constraint, so that the topology is not entirely
 #### Cutset Conditioning
 
 1. Pick a subset of nodes (**cycle cutset**) such that their removal produces a tree
-2. 
+2. For all solutions of the slimmed tree
+	1. 
