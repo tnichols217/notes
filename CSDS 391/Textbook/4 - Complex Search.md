@@ -73,4 +73,8 @@ The possibility of multiple states after an action are called **AND** states, as
 - Can also be solved with A* and other algorithms with minor modifications
 - Possible for you to keep retrying an action until it works
 
-### 
+## Online Search
+
+When you do actions and simulations semi-concurrently
+
+- More useful for unstable or dynamic environ
