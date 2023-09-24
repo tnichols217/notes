@@ -52,4 +52,9 @@ A constraint that only involves a single variable
 ### Binary Constraint
 
 A constraint involving the relationship of two variables
-- 
+
+A Binary CSP contains only Binary and Unary Constraints
+
+### Global Constraint
+
+A constraint involving any about of variables
