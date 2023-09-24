@@ -22,8 +22,7 @@ Deal with assigning values to a set of variables such that they satisfy a set of
 
 **Variables** could have **domains** that are simply discrete and finite or as complex as continuous and infinite
 
-**Constraints** relate 
-
+**Constraints** give relations of variables, where the solution to the CSP is the set of variables that satisfy these constraints
 
 ## Constraint Graphs
 
