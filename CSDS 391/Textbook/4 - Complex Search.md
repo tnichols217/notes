@@ -66,4 +66,5 @@ These problems must be solved with a conditional plan, so that when conditions a
 
 ### And-Or Search Trees
 
-
+- Actions that the agent may choose that will go down the state tree are called **OR** actions
+- The possibilit
