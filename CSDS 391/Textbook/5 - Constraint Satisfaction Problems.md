@@ -169,3 +169,6 @@ When a node fails, mark down the nodes that failed a constraint so that forward 
 
 ### Local Search for CSPs
 
+1. Begin with a random complete assignment of variable
+2. Pick a random conflicted variable
+3. Modify the value of the
