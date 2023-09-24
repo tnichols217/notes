@@ -58,7 +58,7 @@ Keeping track of multiple ($k$) best states instead of just one
 
 Using a set's solutions to create children solutions through recombination. Bad solutions are dropped and some randomness is added (mutations) each generation.
 
-## Search with Nondeterministic Actions
+## Search with Nondeterministic Actions and Partially Observable Environments
 
 When an agent cannot be fully sure what state they are in or able to go to, but knows limited information about the properties of the state (**belief state**).
 
