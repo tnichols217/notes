@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 13:51
-date updated: 2023-09-24 13:51
+date updated: 2023-09-24 13:58
 ---
 
 # Constraint Satisfaction Problems
@@ -44,9 +44,14 @@ This way a search procedure could be evaluated upon the graph to find a complete
 
 ## Types of Constraints
 
+> [!def]
+> **Constraint Propagation**
+> Reducing a variable's domain based on constraints
+
 ### Unary Constraint
 
 A constraint that only involves a single variable
+
 - Easy to solve and restrict
 
 ### Binary Constraint
@@ -58,4 +63,5 @@ A Binary CSP contains only Binary and Unary Constraints
 ### Global Constraint
 
 A constraint involving any amount of variables (does not need to include all variable)
+
 - Much more difficult to solve as they involve a lot of variables
