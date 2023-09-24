@@ -133,7 +133,7 @@ Similar to a recursive depth-first search
 
 > [!def]
 > **Minimum-remaining-value (MRV) heuristic**
-> If possible, it tends to be more optimal to choose variables that reduce the remaining states the **least**
+> Pick the first variable that has the smallest possib
 >
 > ---
 >
