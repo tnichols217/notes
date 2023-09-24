@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 13:51
-date updated: 2023-09-24 14:03
+date updated: 2023-09-24 14:32
 ---
 
 # Constraint Satisfaction Problems
@@ -51,8 +51,9 @@ This way a search procedure could be evaluated upon the graph to find a complete
 ### Preference Constraint
 
 A preferred constraint, with a weight of how important it is
+
 - Normally one of the last constraints to be solved as it isn't solid
-- 
+- Must use an optimization search after constraint propagation to find the best solution
 
 ### Unary Constraint
 
@@ -115,4 +116,9 @@ A graph is $k$-consistent if domains of every variable satisfy constraints of $k
 - Path consistency is only considered 3-consistent if there are no constraints of three variables (binary constraints only)
 
 ## Searches for CSPs
+
+Often after completing 
+
+### Backtracking Search for CSPs
+
 
