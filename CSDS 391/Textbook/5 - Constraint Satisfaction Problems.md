@@ -214,4 +214,5 @@ Splitting the graph into a tree by grouping multiple nodes into a meta-node in a
 
 1. Every original variable must appear in the new tree
 2. Every variable edge must be shown on the graph
-3. 
+3. If a variable appears in two nodes in the tree, it must appear in every node along the path connecting those node
+4. 
