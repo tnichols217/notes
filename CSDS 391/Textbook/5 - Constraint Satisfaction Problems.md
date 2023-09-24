@@ -44,6 +44,10 @@ This way a search procedure could be evaluated upon the graph to find a complete
 
 ## Types of Constraints
 
+> [!def]
+> **Constraint Hypergraph**
+> 
+
 ### Unary Constraint
 
 A constraint that only involves a single variable
