@@ -70,4 +70,7 @@ Actions that the agent may choose that will go down the state tree are called **
 The possibility of multiple states after an action are called **AND** states, as when enacting an action, there could be multiple states it leads to.
 
 - Important to know how to deal with loops
-- 
+- Can also be solved with A* and other algorithms with minor modifications
+- Possible for you to keep retrying an action until it works
+
+### 
