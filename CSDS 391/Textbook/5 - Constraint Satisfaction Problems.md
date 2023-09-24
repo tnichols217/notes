@@ -68,4 +68,4 @@ A constraint involving any amount of variables (does not need to include all var
 > **Constraint Propagation**
 > Reducing a variable's domain based on constraints
 
-###
+### Node Consistency
