@@ -97,4 +97,4 @@ Named path because this implies that the path between two variables is consisten
 A graph is $k$-consistent if domains of every variable satisfy constraints of $k$ variables and down
 
 - $k$-consistency implies $(k-1)$-consistency
-- 
+- Path consistency is only considered 3-consistent if there are no constraints of three variables (binary constraints only)
