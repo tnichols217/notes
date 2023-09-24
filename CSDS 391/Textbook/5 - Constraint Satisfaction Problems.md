@@ -165,4 +165,4 @@ Backtrack to the last node that assigned a variable which is in conflict with th
 
 #### Constraint Learning
 
-
+When a node fails, mark down the nodes that failed a constraint so that forward checking and back jumping can avoid it
