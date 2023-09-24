@@ -216,4 +216,6 @@ Splitting the graph into a tree by grouping multiple nodes into a meta-node in a
 2. Every variable edge must be shown on the graph
 3. If a variable appears in two nodes in the tree, it must appear in every node along the path connecting those node
 
-Effectively 
+Effectively solves possible states for each constraint then merges them with the tree solver
+
+
