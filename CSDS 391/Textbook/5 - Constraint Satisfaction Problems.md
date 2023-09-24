@@ -147,4 +147,6 @@ Similar to a recursive depth-first search
 
 #### Forward Checking
 
+Whenever a variable is assigned, delete every arc-inconsistent value from every other variable
+
 
