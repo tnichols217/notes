@@ -218,4 +218,6 @@ Splitting the graph into a tree by grouping multiple nodes into a meta-node in a
 
 Effectively solves possible states for each constraint then merges them with the tree solver
 
+#### Symmetry Breaking Constraints
 
+Adding constraint 
