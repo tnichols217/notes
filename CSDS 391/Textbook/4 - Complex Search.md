@@ -36,4 +36,5 @@ date updated: 2023-09-23 18:29
 ## Hill-Climbing and Gradient Descent
 
 - Takes a state and heads in the direction with the steepest change either up or down
-- Often will get stuck 
+- Often will get stuck at local maxima
+- 
