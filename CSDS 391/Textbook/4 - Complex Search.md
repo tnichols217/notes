@@ -33,15 +33,18 @@ date updated: 2023-09-23 18:29
 - Often for larger input sets, local search is used as it works on large sets and does not care about the path
 - The goal is to find the global maximum or minimum
 
-## Hill-Climbing and Gradient Descent
+### Hill-Climbing and Gradient Descent
 
 - Takes a state and heads in the direction with the steepest change either up or down
 
-### Often has problems with 
+#### Often has problems with 
 
 - Local maxima and failing to find higher maxima
 - Ridges, as they must go down before going up
 - Plateaus, as the function does not know where to go to go up
 
+### Simulated Annealing
 
+- Combining an optimal move with a random walk to allow for more exploration
+- 
 
