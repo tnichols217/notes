@@ -41,4 +41,7 @@ date updated: 2023-09-23 18:29
 
 - Local maxima and failing to find higher maxima
 - Ridges, as they must go down before going up
-- 
+- Plateaus, as the function does not know where to go to go up
+
+
+
