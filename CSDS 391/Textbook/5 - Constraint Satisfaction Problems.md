@@ -210,4 +210,4 @@ Removing a part of the problem, then remerging it later
 
 #### Tree Decomposition
 
-Splitting the graph into a tree by grouping multiple nodes into a meta-node 
+Splitting the graph into a tree by grouping multiple nodes into a meta-node in a tree
