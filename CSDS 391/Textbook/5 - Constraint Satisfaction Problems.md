@@ -210,4 +210,4 @@ Removing a part of the problem, then remerging it later
 
 #### Tree Decomposition
 
-
+Splitting 
