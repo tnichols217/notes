@@ -188,6 +188,9 @@ Adds importance to a particular constraint, so that the topology is not entirely
 > [!def]
 > **Independent Subproblems**
 > When a cluster of nodes are completely detached from another cluster of nodes and may be solve independently
+> 
 > ---
+> **Directional Arc Consistency**
+> Under a particular order of the variables of a CSP, all variables are arc consistent with all v
 
 
