@@ -20,9 +20,9 @@ Deal with assigning values to a set of variables such that they satisfy a set of
 
 ## Components of a CSP
 
-Variables could be as simple 
-Simple CSPs could have discrete finite valid values for variables, whilst complex ones may have continuous, infinite valid values
+**Variables** could have **domains** that are simply discrete and finite or as complex as continuous and infinite
 
+**Constraints** relate 
 
 
 ## Constraint Graphs
