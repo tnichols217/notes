@@ -44,10 +44,6 @@ This way a search procedure could be evaluated upon the graph to find a complete
 
 ## Types of Constraints
 
-> [!def]
-> **Constraint Propagation**
-> Reducing a variable's domain based on constraints
-
 ### Unary Constraint
 
 A constraint that only involves a single variable
@@ -65,3 +61,11 @@ A Binary CSP contains only Binary and Unary Constraints
 A constraint involving any amount of variables (does not need to include all variable)
 
 - Much more difficult to solve as they involve a lot of variables
+
+## Types of Consistencies
+
+> [!def]
+> **Constraint Propagation**
+> Reducing a variable's domain based on constraints
+
+###
