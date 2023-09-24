@@ -69,4 +69,3 @@ These problems must be solved with a conditional plan, so that when conditions a
 - Actions that the agent may choose that will go down the state tree are called **OR** actions
 - The possibility of multiple states after an action are called **AND** states, as when enacting an action, there could be multiple states it leads to
 
-
