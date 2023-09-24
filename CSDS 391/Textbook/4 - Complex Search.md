@@ -48,7 +48,7 @@ date updated: 2023-09-23 18:29
 > Combining an optimal move with a random walk to allow for more exploration
 > ---
 > **Local beam search**
-> Keepu
+> Keeping track of multiple ($k$) best states instead of just one
 
 ### Simulated Annealing
 
