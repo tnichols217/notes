@@ -56,4 +56,6 @@ Keeping track of multiple ($k$) best states instead of just one
 
 ### Evolutionary Algorithms
 
-Using a set's solutions to create children solutions through recombination. Bad 
+Using a set's solutions to create children solutions through recombination. Bad solutions are dropped and some randomness is added (mutations) each generation.
+
+
