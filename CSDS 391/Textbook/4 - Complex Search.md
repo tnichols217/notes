@@ -64,4 +64,6 @@ When an agent cannot be fully sure what state they are in or able to go to, but 
 
 These problems must be solved with a conditional plan, so that when conditions are met or the path changes, it will be able to account and solve the problem. Much like how a habitual walk will slightly differ day to day, therefore we look around to account for changes in environment.
 
-### And-Or 
+### And-Or Search Trees
+
+
