@@ -42,4 +42,9 @@ Often it is useful to construct a graph where each edge marks the continuum betw
 
 This way a search procedure could be evaluated upon the graph to find a complete assignment
 
-## Constraints
+## Types of Constraints
+
+### Unary Constraint
+
+A constraint that only involves a single variable
+- Easy to solve and restrict
