@@ -117,7 +117,9 @@ A graph is $k$-consistent if domains of every variable satisfy constraints of $k
 
 ## Searches for CSPs
 
-Often after completing constraint propagation, there will still be a lot of possibilities for each variebl
+Often after completing constraint propagation, there will still be a lot of possibilities for each variable, we will then need to search for just a or the best solution
+
+Also note that CSPs
 
 ### Backtracking Search for CSPs
 
