@@ -201,6 +201,8 @@ Adds importance to a particular constraint, so that the topology is not entirely
 
 #### Cutset Conditioning
 
+Removing a part of the problem, then remerging it later
+
 1. Pick a subset of nodes (**cycle cutset**) such that their removal produces a tree
 2. For all solutions of the slimmed tree
 	1. Perform constraint propagation on the cutset
