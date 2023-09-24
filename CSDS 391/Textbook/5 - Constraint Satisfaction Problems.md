@@ -133,9 +133,14 @@ Similar to a recursive depth-first search
 
 > [!def]
 > **Minimum-remaining-value (MRV) heuristic**
-> Pick the first variable that has the smallest possib
+> Pick the first variable that has the smallest possible state space so that a fail state can eliminate the tree quickly
 >
 > ---
 >
 > **Degree heuristic**
 > Choose the variable that is involved in the most constraints to reduce the search branching factor first
+> 
+> ---
+> 
+> **Least-constraining-value heuristic**
+> If possible, it tends to be more optimal to choose variables that reduce the remaining states the **least** after choosing the first variable to find any solut
