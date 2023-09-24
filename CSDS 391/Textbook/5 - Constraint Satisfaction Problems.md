@@ -65,7 +65,7 @@ A constraint involving any amount of variables (does not need to include all var
 Common global constraints include
 
 - $\text{Alldiff}$, all variables involved must have different values
-- $\text{Atmost}$, sum of variables 
+- $\text{Atmost}$, sum of variables must be below a resource constraint
 
 ## Types of Consistencies
 
