@@ -75,7 +75,9 @@ The possibility of multiple states after an action are called **AND** states, as
 
 ## Online Search
 
-When you do actions and simulations semi-concurrently
+> [!def]
+> **Online Search**
+> When you do actions and simulations semi-concurrently
 
 - More useful for unstable or dynamic environments, as the environment may change while simulations undergo
 
