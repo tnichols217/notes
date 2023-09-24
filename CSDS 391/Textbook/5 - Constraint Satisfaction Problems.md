@@ -126,4 +126,6 @@ Also note that CSPs's are communicative, where the order of variable selection d
 Similar to a recursive depth-first search
 - memory efficient
 - when reaching an invalid or failure state, the recursions unravel until a node with valid children
-- if there are no preference constraints, then return first solution will be 
+- if there are no preference constraints, then return the first solution to be found
+
+
