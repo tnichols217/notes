@@ -68,14 +68,14 @@ A constraint involving any amount of variables (does not need to include all var
 > **Constraint Propagation**
 > Reducing a variable's domain based on constraints
 
-### Node Consistency
+### Node Consistency (1-consistency)
 
 A variable is node-consistent if all **unary constraints** are satisfied upon its domain
 
 - Easiest to achieve
 - Simply set the domain to be the $\cap$ of all unary constraints and original domain
 
-### Arc Consistency
+### Arc Consistency (2-consistency)
 
 A variable is arc-consistent is all **binary constraints** can be satisfied upon each value in its domain
 A graph is arc-consistent if all of its variables are
@@ -92,3 +92,6 @@ Named path because this implies that the path between two variables is consisten
 - More difficult to solve
 - Must loop through every triplet and check constraints
 
+### $k$-consistency
+
+A graph is $k$-consistent if every 
