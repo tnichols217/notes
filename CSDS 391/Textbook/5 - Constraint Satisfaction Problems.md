@@ -48,3 +48,8 @@ This way a search procedure could be evaluated upon the graph to find a complete
 
 A constraint that only involves a single variable
 - Easy to solve and restrict
+
+### Binary Constraint
+
+A constraint involving the relationship of two variables
+- 
