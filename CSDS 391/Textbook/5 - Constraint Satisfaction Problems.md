@@ -172,4 +172,8 @@ When a node fails, mark down the nodes that failed a constraint so that forward 
 1. Begin with a random complete assignment of variable
 2. Pick a random conflicted variable
 3. Modify the value of the variable such that the number of conflicts is at a minimum (**min-conflicts heuristic**)
-4. 
+
+#### Tabu Search
+
+Keep a small list of recently visited states and their heuristic to prevent revisitation
+
