@@ -103,3 +103,5 @@ A graph is $k$-consistent if domains of every variable satisfy constraints of $k
 
 - $k$-consistency implies $(k-1)$-consistency
 - Path consistency is only considered 3-consistent if there are no constraints of three variables (binary constraints only)
+
+
