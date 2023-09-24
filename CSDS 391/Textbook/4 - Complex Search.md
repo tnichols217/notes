@@ -81,5 +81,4 @@ When you do actions and simulations semi-concurrently
 
 ### Problems with Online Search
 
-- May take a wrong path and be hard to return back
-- 
+- May take a wrong path and be hard to (or impossible to) return back
