@@ -220,4 +220,4 @@ Effectively solves possible states for each constraint then merges them with the
 
 #### Symmetry Breaking Constraints
 
-Adding constraint 
+Adding constraints to remove possible value symmetries
