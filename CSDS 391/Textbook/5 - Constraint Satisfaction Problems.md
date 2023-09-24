@@ -149,4 +149,6 @@ Similar to a recursive depth-first search
 
 Whenever a variable is assigned, delete every arc-inconsistent value from every other variable
 
+##### MAC (Maintaining Arc Consistency)
 
+An algorithm that iterates over every edge instead of just edges relating to other variables, as it removes 
