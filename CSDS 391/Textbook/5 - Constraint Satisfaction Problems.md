@@ -155,4 +155,4 @@ An algorithm that iterates over every edge instead of just edges relating to oth
 
 #### Chronological Backtracking
 
-
+Backtrack to the 
