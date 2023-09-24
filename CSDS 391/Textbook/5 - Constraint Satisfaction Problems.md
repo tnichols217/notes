@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 13:51
-date updated: 2023-09-24 14:32
+date updated: 2023-09-24 14:43
 ---
 
 # Constraint Satisfaction Problems
@@ -124,6 +124,7 @@ Also note that CSPs's are communicative, where the order of variable selection d
 ### Backtracking Search for CSPs
 
 Similar to a recursive depth-first search
+
 - memory efficient
 - when reaching an invalid or failure state, the recursions unravel until a node with valid children
 - if there are no preference constraints, then return the first solution to be found
@@ -133,7 +134,8 @@ Similar to a recursive depth-first search
 > [!def]
 > **Minimum-remaining-value (MRV) heuristic**
 > If possible, it tends to be more optimal to choose variables that reduce the remaining states the **least**
-> 
+>
 > ---
-> 
-> **Degree H**
+>
+> **Degree heuristic**
+> Choose the variable that is involved in the most constraints to reduce the search branching factor first
