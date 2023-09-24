@@ -57,4 +57,5 @@ A Binary CSP contains only Binary and Unary Constraints
 
 ### Global Constraint
 
-A constraint involving any about of variables
+A constraint involving any amount of variables (does not need to include all variable)
+- Much more difficult to solve as they involve a lot of variables
