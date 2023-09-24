@@ -159,4 +159,8 @@ An algorithm that iterates over every edge instead of just edges relating to oth
 
 Backtrack to the most recent node that still has valid children
 
+##### Conflict-directed Backtracking
+
+Backtrack to the last node that assigned a variable which is in conflict with the failed node
+
 
