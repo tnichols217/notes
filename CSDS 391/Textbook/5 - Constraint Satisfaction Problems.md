@@ -1,1 +1,1 @@
-# Constraint Satisfactoin
+# Constraint Satisfaction Problems
