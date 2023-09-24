@@ -177,3 +177,6 @@ When a node fails, mark down the nodes that failed a constraint so that forward 
 
 Keep a small list of recently visited states and their heuristic to prevent revisitation
 
+#### Constraint weighting
+
+Adds importance to a particular constraint, so that 
