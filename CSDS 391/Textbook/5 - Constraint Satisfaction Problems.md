@@ -18,6 +18,10 @@ Deal with assigning values to a set of variables such that they satisfy a set of
 > **Partial Solution**
 > A Partial Assignment that is consistent
 
+## Variables
+
+Simple CSPs 
+
 ## Constraint Graphs
 
 Often it is useful to construct a graph where each edge marks the continuum between the extremities of a constraint
