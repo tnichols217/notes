@@ -198,3 +198,7 @@ Adds importance to a particular constraint, so that the topology is not entirely
 
 1. Sort tree of nodes into a linear line
 2. Loop through each node and ensure they are consistent with prior variables
+
+#### Cutset Conditioning
+
+1. Pick a subset of nodes such that th
