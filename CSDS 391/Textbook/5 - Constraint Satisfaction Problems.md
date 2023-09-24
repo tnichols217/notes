@@ -18,9 +18,12 @@ Deal with assigning values to a set of variables such that they satisfy a set of
 > **Partial Solution**
 > A Partial Assignment that is consistent
 
-## Variables
+## Components of a CSP
 
-Simple CSPs 
+Variables could be as simple 
+Simple CSPs could have discrete finite valid values for variables, whilst complex ones may have continuous, infinite valid values
+
+
 
 ## Constraint Graphs
 
