@@ -32,3 +32,5 @@ date updated: 2023-09-23 18:29
 - The goal is to find a set of inputs that will maximize the objective function
 - Often for larger input sets, local search is used as it works on large sets and does not care about the path
 - The goal is to find the global maximum
+
+## 
