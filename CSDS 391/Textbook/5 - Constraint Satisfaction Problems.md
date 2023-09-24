@@ -87,4 +87,8 @@ A graph is arc-consistent if all of its variables are
 
 A variable is path-consistent is all **binary constraints** can be satisfied upon each triplet of values in its domain
 
-Named path because this implies that the path between two 
+Named path because this implies that the path between two variables is consistent through a third variable
+
+- More difficult to solve
+- Must loop through every triplet and check constraints
+
