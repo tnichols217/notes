@@ -123,4 +123,6 @@ Also note that CSPs's are communicative, where the order of variable selection d
 
 ### Backtracking Search for CSPs
 
-Similar to a 
+Similar to a recursive depth-first search
+- memory efficient
+- when reaching an invalid or failure 
