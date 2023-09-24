@@ -70,4 +70,4 @@ A constraint involving any amount of variables (does not need to include all var
 
 ### Node Consistency
 
-
+A variable is node-consistent if all unary oper
