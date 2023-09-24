@@ -201,4 +201,5 @@ Adds importance to a particular constraint, so that the topology is not entirely
 
 #### Cutset Conditioning
 
-1. Pick a subset of nodes such that their removal produces a tree
+1. Pick a subset of nodes (**cycle cutset**) such that their removal produces a tree
+2. 
