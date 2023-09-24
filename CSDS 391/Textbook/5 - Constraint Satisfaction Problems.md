@@ -153,4 +153,6 @@ Whenever a variable is assigned, delete every arc-inconsistent value from every 
 
 An algorithm that iterates over every edge instead of just edges relating to other variables, as it can propagate new deletions to other edges too
 
+#### Chronological Backtracking
+
 
