@@ -203,4 +203,9 @@ Adds importance to a particular constraint, so that the topology is not entirely
 
 1. Pick a subset of nodes (**cycle cutset**) such that their removal produces a tree
 2. For all solutions of the slimmed tree
-	1. 
+	1. Perform constraint propagation on the cutset
+	2. If the cutset still has values, return the cutset merged with the slimmed tree
+
+#### Tree Decomposition
+
+
