@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 13:51
-date updated: 2023-09-24 14:43
+date updated: 2023-09-24 16:11
 ---
 
 # Constraint Satisfaction Problems
@@ -139,9 +139,9 @@ Similar to a recursive depth-first search
 >
 > **Degree heuristic**
 > Choose the variable that is involved in the most constraints to reduce the search branching factor first
-> 
+>
 > ---
-> 
+>
 > **Least-constraining-value heuristic**
 > If possible, it tends to be more optimal to choose variables that reduce the remaining states the **least** after choosing the first variable to find any solution as fast a possible
 
@@ -188,9 +188,13 @@ Adds importance to a particular constraint, so that the topology is not entirely
 > [!def]
 > **Independent Subproblems**
 > When a cluster of nodes are completely detached from another cluster of nodes and may be solve independently
-> 
+>
 > ---
+>
 > **Directional Arc Consistency**
-> Under a particular order of the variables of a CSP, all variables are arc consistent with all v
+> Under a particular order of the variables of a CSP, all variables are arc consistent with all variables before it
 
+#### Tree Solver
 
+1. Sort tree of nodes into a linear line
+2. Loop through each node and ensure they are consistent with prior variables
