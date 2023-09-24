@@ -183,4 +183,11 @@ Keep a small list of recently visited states and their heuristic to prevent revi
 
 Adds importance to a particular constraint, so that the topology is not entirely flat, and that the search will focus on keeping a particular constraint solved
 
-### 
+### CSP Search Structure
+
+> [!def]
+> **Independent Subproblems**
+> When a cluster of nodes are completely detached from another cluster of nodes and may be solve independently
+> ---
+
+
