@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 13:51
-date updated: 2023-09-24 13:58
+date updated: 2023-09-24 14:03
 ---
 
 # Constraint Satisfaction Problems
@@ -70,4 +70,11 @@ A constraint involving any amount of variables (does not need to include all var
 
 ### Node Consistency
 
-A variable is node-consistent if all unary oper
+A variable is node-consistent if all unary constraints are satisfied upon its domain
+
+- Easiest to achieve
+- Simply set the domain to be the $\cap$ of all unary constraints and original domain
+
+### Arc Consistency
+
+A variable is arc-consistent
