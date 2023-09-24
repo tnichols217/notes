@@ -94,4 +94,7 @@ Named path because this implies that the path between two variables is consisten
 
 ### $k$-consistency
 
-A graph is $k$-consistent if every 
+A graph is $k$-consistent if domains of every variable satisfy constraints of $k$ variables and down
+
+- $k$-consistency implies $(k-1)$-consistency
+- 
