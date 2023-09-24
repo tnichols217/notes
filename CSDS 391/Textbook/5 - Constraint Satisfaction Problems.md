@@ -128,4 +128,8 @@ Similar to a recursive depth-first search
 - when reaching an invalid or failure state, the recursions unravel until a node with valid children
 - if there are no preference constraints, then return the first solution to be found
 
-#### 
+#### Variable Ordering
+
+If possible, it tends to be more optimal to choose variables that reduce the remaining states the **least**
+
+- 
