@@ -130,6 +130,10 @@ Similar to a recursive depth-first search
 
 #### Variable Ordering
 
-If possible, it tends to be more optimal to choose variables that reduce the remaining states the **least**
-
-- 
+> [!def]
+> **Minimum-remaining-value (MRV) heuristic**
+> If possible, it tends to be more optimal to choose variables that reduce the remaining states the **least**
+> 
+> ---
+> 
+> **Degree H**
