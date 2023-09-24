@@ -60,4 +60,6 @@ Using a set's solutions to create children solutions through recombination. Bad 
 
 ## Search with Nondeterministic Actions
 
+When an agent cannot be fully sure what state they are in or able to go to, but knows limited information about the properties of the state (**belief state**).
 
+These problems must be solved with
