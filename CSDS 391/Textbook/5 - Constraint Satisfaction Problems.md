@@ -6,16 +6,17 @@ Deal with assigning values to a set of variables such that they satisfy a set of
 > **Constraint Satisfaction Problem**
 > Assigning values to a set of variables such that they satisfy a set of constraints
 > ---
-> **Consistent S**
+> **Consistent Assignment**
+> A set of values that satisfies all constraints
 > ---
 > **Complete Assignment**
-> A set a values of the set of variables that satisfy all constraints
+> A full set a values of the set of variables that is consistent
 > ---
 > **Partial Assignment**
 > A set of values that are assigned to not all of the variable
 > ---
 > **Partial Solution**
-> A Partial Assignment that still satisfies the related constraints
+> A Partial Assignment that is consistent
 
 ## Constraint Graphs
 
