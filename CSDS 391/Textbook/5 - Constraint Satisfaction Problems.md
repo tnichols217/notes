@@ -46,7 +46,11 @@ This way a search procedure could be evaluated upon the graph to find a complete
 
 > [!def]
 > **Constraint Hypergraph**
-> A way of graphing and visualizing contraints by drawing edges where 
+> A way of graphing and visualizing contraints by drawing hyperedges where constraints intersect variables and values
+
+### Preference Constraint
+
+A preferred constraint, with a weight of how important it is
 
 ### Unary Constraint
 
