@@ -145,4 +145,4 @@ Similar to a recursive depth-first search
 > **Least-constraining-value heuristic**
 > If possible, it tends to be more optimal to choose variables that reduce the remaining states the **least** after choosing the first variable to find any solution as fast a possible
 
-
+#### Forward Checking
