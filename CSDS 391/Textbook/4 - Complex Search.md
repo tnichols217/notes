@@ -43,13 +43,6 @@ date updated: 2023-09-23 18:29
 - Ridges, as they must go down before going up
 - Plateaus, as the function does not know where to go to go up
 
-> [!def]
-> **Simulated Annealing**
-> Combining an optimal move with a random walk to allow for more exploration
-> ---
-> **Local beam search**
-> Keeping track of multiple ($k$) best states instead of just one
-
 ### Simulated Annealing
 
 - Combining an optimal move with a random walk to allow for more exploration
@@ -59,4 +52,6 @@ date updated: 2023-09-23 18:29
 - Keeping track of multiple ($k$) best states instead of just one
 #### Often has problems with
 
-- Clustering the $k$ states, making it ju
+- Clustering the $k$ states, making it just a $k$ times speed reduction
+
+
