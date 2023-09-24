@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 13:51
-date updated: 2023-09-24 16:11
+date updated: 2023-09-24 17:00
 ---
 
 # Constraint Satisfaction Problems
@@ -205,8 +205,8 @@ Removing a part of the problem, then remerging it later
 
 1. Pick a subset of nodes (**cycle cutset**) such that their removal produces a tree
 2. For all solutions of the slimmed tree
-	1. Perform constraint propagation on the cutset
-	2. If the cutset still has values, return the cutset merged with the slimmed tree
+   1. Perform constraint propagation on the cutset
+   2. If the cutset still has values, return the cutset merged with the slimmed tree
 
 #### Tree Decomposition
 
@@ -221,3 +221,6 @@ Effectively solves possible states for each constraint then merges them with the
 #### Symmetry Breaking Constraints
 
 Adding constraints to remove possible value symmetries
+
+- Allows faster solving by faster filtering
+- Removes duplicated like the permutations of the colors in the 4 color map problem
