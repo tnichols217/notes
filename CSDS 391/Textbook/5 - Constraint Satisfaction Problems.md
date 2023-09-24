@@ -51,6 +51,8 @@ This way a search procedure could be evaluated upon the graph to find a complete
 ### Preference Constraint
 
 A preferred constraint, with a weight of how important it is
+- Normally one of the last constraints to be solved as it isn't solid
+- 
 
 ### Unary Constraint
 
