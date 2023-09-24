@@ -6,6 +6,8 @@ Deal with assigning values to a set of variables such that they satisfy a set of
 > **Constraint Satisfaction Problem**
 > Assigning values to a set of variables such that they satisfy a set of constraints
 > ---
+> **Consistent S**
+> ---
 > **Complete Assignment**
 > A set a values of the set of variables that satisfy all constraints
 > ---
@@ -17,4 +19,7 @@ Deal with assigning values to a set of variables such that they satisfy a set of
 
 ## Constraint Graphs
 
-Often it is useful to construct a graph where each edge marks the other extremity 
+Often it is useful to construct a graph where each edge marks the continuum between the extremities of a constraint
+
+This way a search procedure could be evaluated upon the graph to find a complete assignment
+
