@@ -173,10 +173,14 @@ When a node fails, mark down the nodes that failed a constraint so that forward 
 2. Pick a random conflicted variable
 3. Modify the value of the variable such that the number of conflicts is at a minimum (**min-conflicts heuristic**)
 
+- Can be used as an online search
+
 #### Tabu Search
 
 Keep a small list of recently visited states and their heuristic to prevent revisitation
 
 #### Constraint weighting
 
-Adds importance to a particular constraint, so that 
+Adds importance to a particular constraint, so that the topology is not entirely flat, and that the search will focus on keeping a particular constraint solved
+
+
