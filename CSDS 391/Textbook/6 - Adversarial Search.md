@@ -109,4 +109,4 @@ Picks the move that will gave the most advantage to the agent assuming the other
 
 ### Alpha-Beta Pruning
 
-
+Since one player plays to maximize utility whilst the other plays to minimize
