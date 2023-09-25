@@ -193,4 +193,9 @@ These optimizations to move ordering can be combined to improve minimax and alph
 
 > [!def]
 > **Selection Policy**
-> A function that produces 
+> A function that produces a list of significant possibilities of plays to explore and test
+> 
+> ---
+> ****
+
+1. **Selection**: 
