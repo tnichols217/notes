@@ -155,6 +155,10 @@ Prunes nodes that appear to have poor evaluation before exploring deeper. Can be
 - Speeds up computation
 - Introduces more uncertainty and possibility of missing a good move
 
+##### Late Move Reduction
+
+Explore later moves to a lesser depth
+
 ### Move Ordering
 
 Since Alpha-Beta Pruning relies on information on other nodes, the order of which you explore nodes is significant
