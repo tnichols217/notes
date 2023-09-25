@@ -34,4 +34,4 @@ Model the adversarial agents in order to predict and beat their movements
 ##### Perfect Information
 
 - All agents can see the entire state of the game
-- 
+- Much easier to predict and 
