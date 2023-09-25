@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 20:22
-date updated: 2023-09-24 20:30
+date updated: 2023-09-24 21:39
 ---
 
 # Adversarial Search
@@ -123,6 +123,12 @@ Since Alpha-Beta Pruning relies on information on other nodes, the order of whic
 
 > [!def]
 > **Killer Moves**
-> The best possible legal move is called a 
+> The best possible legal move is called a killer move
+>
+> ---
+>
+> **Killer Move Heuristic**
+> Trying to find and explore the killer moves first
 
 - **Iterative deepening**, then rank possible options and explore the best first
+- **Transposition Table**, store result of states so that in case another path leads to the same state
