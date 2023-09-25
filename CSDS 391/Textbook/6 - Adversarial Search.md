@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 20:22
-date updated: 2023-09-24 21:44
+date updated: 2023-09-24 21:58
 ---
 
 # Adversarial Search
@@ -106,6 +106,10 @@ A strategy that searches wide and picks the best option based on a heuristic fun
 
 A strategy that follows the most promising line as deep as possible
 
+### Search vs Lookup
+
+In the early game of some complex games, it may be worth it to pre-compute early games as they have high similarity over multiple games. This allows us to look up a previously chosen optimal action without researching every time.
+
 ### Minimax Search
 
 Picks the move that will gave the most advantage to the agent assuming the other agent also plays optimally
@@ -137,7 +141,7 @@ Before exploring a node, the final utility under that node will be on the interv
 > [!def]
 > **Evaluation Function**
 > A heuristic that produces an estimate of the expected utility of a node, without exploring the node
-> 
+>
 > - Much like the material value system in chess — a type of weighted linear function
 
 Instead of searching till an end game state, search until a cutoff is satisfied, at which a heuristic evaluation function is used to determine the best goal states
@@ -163,10 +167,6 @@ Don't explore nodes if their evaluation is very low
 
 Explore later moves to a lesser depth by trusting that the move ordering works well
 
-### Search vs Lookup
-
-In the early game of some complex games, it may be worth it to pre-compute early games as they have high similarity over multiple games. This allows us to look up a previously chosen optimal action without researching every time.
-
 ### Move Ordering
 
 Since Alpha-Beta Pruning relies on information on other nodes, the order of which you explore nodes is significant
@@ -189,4 +189,6 @@ These optimizations to move ordering can be combined to improve minimax and alph
 - **Iterative deepening**, then rank possible options and explore the best first
 - **Transposition Table**, store result of states so that in case another path leads to the same state no recalculation is needed
 
-###
+### Monte Carlo Tree Search
+
+
