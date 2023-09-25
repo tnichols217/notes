@@ -148,7 +148,9 @@ When an imminent loss in inevitable, but the algorithm cannot see far enough ahe
 
 - Happens more often with small ply look-ahead
 
-##### For
+##### Forward Pruning
+
+Prunes nodes that appear to have poor 
 
 ### Move Ordering
 
