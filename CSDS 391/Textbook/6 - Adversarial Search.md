@@ -10,6 +10,9 @@ date created: 2023-09-24 20:22
 
 ## Game Theory
 
+> []
+
+
 ### Stances on Multi Agent Environments
 
 #### The Economy
@@ -67,4 +70,6 @@ Model the adversarial agents in order to predict and beat their movements
 ##### Non-deterministic Games
 
 - Actions may have a possibility of failing
-- Chance is involved in your actoin
+- Chance is involved in your action (dice, dealing of cards)
+
+### 
