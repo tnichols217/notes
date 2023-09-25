@@ -226,3 +226,6 @@ These optimizations to move ordering can be combined to improve minimax and alph
 - Tends to be much better for high branching factor games like go
 - Can search much deeper at the cost of not exploring a lot of the possible branches
 
+### Non-deterministic games
+
+Games that involve chance like dice or 
