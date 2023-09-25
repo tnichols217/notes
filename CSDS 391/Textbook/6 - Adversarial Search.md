@@ -87,3 +87,5 @@ Model the adversarial agents in order to predict and beat their movements
 - **Transition model** from state down an action
 - **Terminal test** to check if the game is over
 - **Utility Function** which gives 1 for a sure win and 0 for a sure lose and an in between depending on chance or 0.5 for a draw
+
+## 
