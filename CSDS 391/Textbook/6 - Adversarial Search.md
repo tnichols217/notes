@@ -163,6 +163,10 @@ Don't explore nodes if their evaluation is very low
 
 Explore later moves to a lesser depth by trusting that the move ordering works well
 
+### Search vs Lookup
+
+In the early game of some complex games, it may be worth it to precompute early games as they have high similarity over multiple games
+
 ### Move Ordering
 
 Since Alpha-Beta Pruning relies on information on other nodes, the order of which you explore nodes is significant
