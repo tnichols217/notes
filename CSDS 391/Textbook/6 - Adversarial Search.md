@@ -14,6 +14,10 @@ date updated: 2023-09-24 20:25
 > [!def]
 > **Position**
 > A synonym to state in the context of games
+> 
+> ---
+> **Move**
+> A synonym to action in the context of
 
 ### Stances on Multi Agent Environments
 
@@ -81,4 +85,4 @@ Model the adversarial agents in order to predict and beat their movements
 - Legal **actions**
 - **Transition model** from state down an action
 - **Terminal test** to check if the game is over
-- Utility Function
+- **Utility Function** which gives 1 for a sure win and 0 for a sure lose and an in between depending on chance or 0.5 for a draw
