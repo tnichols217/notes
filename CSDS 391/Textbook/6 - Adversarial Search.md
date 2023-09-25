@@ -102,4 +102,5 @@ Picks the move that will gave the most advantage to the agent assuming the other
 
 > [!def]
 > **Backed up values**
-> After computation down the children of a node, store metadata about those children in the parent node like **minimum **
+> After computation down the children of a node, store metadata about those children in the parent node like **minimum utility** and **maximum utility**
+> 
