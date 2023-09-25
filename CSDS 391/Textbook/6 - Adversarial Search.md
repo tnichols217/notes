@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 20:22
-date updated: 2023-09-24 23:30
+date updated: 2023-09-24 23:31
 ---
 
 # Adversarial Search
@@ -201,6 +201,11 @@ These optimizations to move ordering can be combined to improve minimax and alph
 > A function that picks moves that bias towards winning for each player, to simulate the end of a game
 >
 > - Does not need to be perfect, just needs to bias for its agent
+>
+> ---
+>
+> **UCBI function**
+> A function that ranks all possible moves based on certainty and winrate
 
 1. **Selection**: Select notable moves until the bottom of the explored tree has been reached using a selection policy
 2. **Expansion**: Generate notable children of this node by picking notable actions from the previous node
