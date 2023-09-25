@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 20:22
-date updated: 2023-09-24 21:58
+date updated: 2023-09-24 23:30
 ---
 
 # Adversarial Search
@@ -194,12 +194,13 @@ These optimizations to move ordering can be combined to improve minimax and alph
 > [!def]
 > **Selection Policy**
 > A function that chooses a to explore and test, balancing exploring new nodes with exploiting known good ones
-> 
+>
 > ---
+>
 > **Playout Policy**
 > A function that picks moves that bias towards winning for each player, to simulate the end of a game
-> 
-> - Does not ne
+>
+> - Does not need to be perfect, just needs to bias for its agent
 
 1. **Selection**: Select notable moves until the bottom of the explored tree has been reached using a selection policy
 2. **Expansion**: Generate notable children of this node by picking notable actions from the previous node
