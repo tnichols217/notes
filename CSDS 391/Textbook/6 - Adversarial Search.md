@@ -211,8 +211,9 @@ These optimizations to move ordering can be combined to improve minimax and alph
 > $UCBI(n)=\frac{U(n)}{N(n)}+C\sqrt{\frac{\log N(\text{PARENT(n)})}{N(n)}}$
 > 
 > Where:
-> - PARENT is the parent of the node
-> - 
+> - $\text{PARENT}$ is the parent of the node
+> - $N$ is the number of playouts
+> - $U$ is the number of w
 
 1. **Selection**: Select notable moves until the bottom of the explored tree has been reached using a selection policy
 2. **Expansion**: Generate notable children of this node by picking notable actions from the previous node
