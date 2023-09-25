@@ -232,4 +232,4 @@ Games that involve chance like dice or a draw of the cards are non-deterministic
 
 - Trees include a chance node, with probabilities of each chance
 - The search algorithm is ran until another chance event, then marks probabilities again
-- 
+- The value of a node is determined by its expected 
