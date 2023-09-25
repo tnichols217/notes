@@ -148,6 +148,9 @@ These optimizations to move ordering can be combined to improve minimax and alph
 
 #### Type A Strategy
 
-A strategy that searches wide and picks the bes
+A strategy that searches wide and picks the best option based on a utility function from searching those ply
 
 #### Type B Strategy
+
+A strategy that follows the most promising line as deep as possible
+
