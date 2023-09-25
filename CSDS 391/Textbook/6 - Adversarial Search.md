@@ -111,4 +111,4 @@ Picks the move that will gave the most advantage to the agent assuming the other
 
 Since one player plays to maximize utility whilst the other plays to minimize, we can eliminate entire trees of nodes relying on this property
 
-Before exploring a node, the final utility under that node will be on the interval of $[-\infty,\infty]$, after exploring one node, say with utility $2$, if the player that plays that ply is seeking to minimize, then we know the resulting utility of that tree must lie on $$
+Before exploring a node, the final utility under that node will be on the interval of $[-\infty,\infty]$, after exploring one node, say with utility $2$, if the player that plays that ply is seeking to minimize, then we know the resulting utility of that tree must lie on $[-\infty,2]$ since the agent will never play a move above utility $2$. If the max player already knows that the interval o
