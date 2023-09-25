@@ -132,7 +132,9 @@ Since one player plays to maximize utility whilst the other plays to minimize, w
 
 Before exploring a node, the final utility under that node will be on the interval of $[-\infty,\infty]$, after exploring one node, say with utility $2$, if the player that plays that ply is seeking to minimize, then we know the resulting utility of that tree must lie on $[-\infty,2]$ since the agent will never play a move above utility $2$. If the max player already knows that the interval of a sibling node is above $2$, then that entire tree can be thrown away.
 
-#### Heuristic Alpha-Beta T
+#### Heuristic Alpha-Beta Tree Search
+
+Instead of searching till an end game state, search until a cutoff is satisfied, at which a heuristic evaluation function is used to determine the best goal states
 
 ### Move Ordering
 
