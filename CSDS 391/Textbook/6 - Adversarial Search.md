@@ -14,4 +14,6 @@ Consider all other agents as part of an economy, and predict and respond to the 
 
 - Much more effective for large number of agents
 
-#### 
+#### The Environment
+
+Consider all other agents as part of an unpredictable environment and just respond based on 
