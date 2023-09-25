@@ -138,9 +138,13 @@ Before exploring a node, the final utility under that node will be on the interv
 > **Evaluation Function**
 > A heuristic that produces an estimate of the expected utility of a node, without exploring the node
 > 
-> - Much like the material value system in chess -- a type of weighted linear function
+> - Much like the material value system in chess — a type of weighted linear function
 
 Instead of searching till an end game state, search until a cutoff is satisfied, at which a heuristic evaluation function is used to determine the best goal states
+
+##### Horizon Effect
+
+When an imminent loss in inevitable, but the algorithm cannot see far enough ahead to know, so it just pushes it off as long as possible 
 
 ### Move Ordering
 
