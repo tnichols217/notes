@@ -226,7 +226,7 @@ These optimizations to move ordering can be combined to improve minimax and alph
 - Tends to be much better for high branching factor games like go
 - Can search much deeper at the cost of not exploring a lot of the possible branches
 
-### Non-deterministic games
+### Non-deterministic Games
 
 Games that involve chance like dice or a draw of the cards are non-deterministic and are considered **stochastic games**. Minimax needs to be adapted to account for the chance
 
@@ -235,4 +235,5 @@ Games that involve chance like dice or a draw of the cards are non-deterministic
 - The utility of a parent node is determined by its expected utility after accounting for probability
 - For alpha-beta pruning if we have a limit of expected utility, we can have a domain which an expected utility will be without needed to explore every node below a chance node
 
-### Partially Observable G
+### Partially Observable Games
+
