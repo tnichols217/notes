@@ -233,3 +233,6 @@ Games that involve chance like dice or a draw of the cards are non-deterministic
 - Trees include a chance node, with probabilities of each chance
 - The search algorithm is ran until another chance event, then marks probabilities again
 - The utility of a parent node is determined by its expected utility after accounting for probability
+- For alpha-beta pruning if we have a limit of expected utility, we can have a domain which an expected utility will be without needed to explore every node below a chance node
+
+### Partially Observable G
