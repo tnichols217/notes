@@ -150,7 +150,10 @@ When an imminent loss in inevitable, but the algorithm cannot see far enough ahe
 
 ##### Forward Pruning
 
-Prunes nodes that appear to have poor 
+Prunes nodes that appear to have poor evaluation before exploring deeper. Can be implemented with beam-search
+
+- Speeds up computation
+- Introduces more uncertainty and possibility of missing a good move
 
 ### Move Ordering
 
