@@ -109,4 +109,6 @@ Picks the move that will gave the most advantage to the agent assuming the other
 
 ### Alpha-Beta Pruning
 
-Since one player plays to maximize utility whilst the other plays to minimize
+Since one player plays to maximize utility whilst the other plays to minimize, we can eliminate entire trees of nodes relying on this property
+
+Before exploring a node, the final utility under that node will be on the interval of $-\infty$
