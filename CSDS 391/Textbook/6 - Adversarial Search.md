@@ -16,4 +16,4 @@ Consider all other agents as part of an economy, and predict and respond to the 
 
 #### The Environment
 
-Consider all other agents as part of an unpredictable environment and just respond based on 
+Consider all other agents as part of an unpredictable environment and just respond based on their response
