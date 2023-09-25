@@ -121,4 +121,8 @@ Since Alpha-Beta Pruning relies on information on other nodes, the order of whic
 
 #### Solutions
 
-- Iterative deepening
+> [!def]
+> **Killer Moves**
+> The best possible legal move is called a 
+
+- **Iterative deepening**, then rank possible options and explore the best first
