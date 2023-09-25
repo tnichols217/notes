@@ -81,4 +81,4 @@ Model the adversarial agents in order to predict and beat their movements
 - Legal **actions**
 - **Transition model** from state down an action
 - **Terminal test** to check if the game is over
-- 
+- Utility Function
