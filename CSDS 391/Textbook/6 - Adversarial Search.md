@@ -39,4 +39,6 @@ Model the adversarial agents in order to predict and beat their movements
 ##### Partial Observable
 
 - Agents cannot see the entire state of the game, often only what relates to them directly
-- 
+- Harder to predict future moves as there is high uncertainty in the game state
+
+#### 
