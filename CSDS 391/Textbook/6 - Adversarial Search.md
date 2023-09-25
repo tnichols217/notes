@@ -107,4 +107,6 @@ Picks the move that will gave the most advantage to the agent assuming the other
 - Very high time complexity
 - Not ideal for complex games like chess
 
+### Alpha-Beta Pruning
+
 
