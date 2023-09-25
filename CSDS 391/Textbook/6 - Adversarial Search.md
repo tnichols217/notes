@@ -165,7 +165,7 @@ Explore later moves to a lesser depth by trusting that the move ordering works w
 
 ### Search vs Lookup
 
-In the early game of some complex games, it may be worth it to precompute early games as they have high similarity over multiple games
+In the early game of some complex games, it may be worth it to pre-compute early games as they have high similarity over multiple games. This allows us to look up a previously chosen optimal action without researching every time.
 
 ### Move Ordering
 
@@ -188,3 +188,5 @@ These optimizations to move ordering can be combined to improve minimax and alph
 
 - **Iterative deepening**, then rank possible options and explore the best first
 - **Transposition Table**, store result of states so that in case another path leads to the same state no recalculation is needed
+
+###
