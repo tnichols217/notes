@@ -94,4 +94,8 @@ Model the adversarial agents in order to predict and beat their movements
 > **Ply**
 > A single move made by a single player, not a move by all players
 
-### 
+- Cannot control the other player's move, so must be conditional
+
+### Minimax Search
+
+Picks the move that 
