@@ -88,4 +88,10 @@ Model the adversarial agents in order to predict and beat their movements
 - **Terminal test** to check if the game is over
 - **Utility Function** which gives 1 for a sure win and 0 for a sure lose and an in between depending on chance or 0.5 for a draw
 
-## Multi Agent 
+## Multi Agent Algorithms
+
+> [!def]
+> **Ply**
+> A single move made by a single player, not a move by all players
+
+### 
