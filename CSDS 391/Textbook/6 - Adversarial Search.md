@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 20:22
-date updated: 2023-09-24 20:25
+date updated: 2023-09-24 20:30
 ---
 
 # Adversarial Search
@@ -14,10 +14,11 @@ date updated: 2023-09-24 20:25
 > [!def]
 > **Position**
 > A synonym to state in the context of games
-> 
+>
 > ---
+>
 > **Move**
-> A synonym to action in the context of
+> A synonym to action in the context of games
 
 ### Stances on Multi Agent Environments
 
