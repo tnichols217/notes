@@ -231,4 +231,5 @@ These optimizations to move ordering can be combined to improve minimax and alph
 Games that involve chance like dice or a draw of the cards are non-deterministic and are considered **stochastic games**. Minimax needs to be adapted to account for the chance
 
 - Trees include a chance node, with probabilities of each chance
-- The search a
+- The search algorithm is ran until another chance event, then marks probabilities again
+- 
