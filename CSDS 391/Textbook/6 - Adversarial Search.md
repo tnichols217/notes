@@ -1,13 +1,17 @@
+---
+date created: 2023-09-24 20:22
+---
+
 # Adversarial Search
 
 > [!def]
 > **Competitive Environments**
 > When two or more agents have conflicting goals
-> 
 
 ## Game Theory
 
 ### Stances on Multi Agent Environments
+
 #### The Economy
 
 Consider all other agents as part of an economy, and predict and respond to the general movement instead of individual agents
@@ -51,4 +55,6 @@ Model the adversarial agents in order to predict and beat their movements
 ##### Non-zero-sum
 
 - There are possibly mutually beneficial moves
-- Both players will strive for a mutually 
+- Both players will strive for a mutually winning game if this was true
+
+#### 
