@@ -29,4 +29,9 @@ Model the adversarial agents in order to predict and beat their movements
 
 ### Types of Multi Agent Games
 
-#### 
+#### Information
+
+##### Perfect Information
+
+- All agents can see the entire state of the game
+- 
