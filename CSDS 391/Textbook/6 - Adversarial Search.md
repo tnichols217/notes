@@ -17,3 +17,9 @@ Consider all other agents as part of an economy, and predict and respond to the 
 #### The Environment
 
 Consider all other agents as part of an unpredictable environment and just respond based on their response
+
+- Hard to distinguish useful from useless information, like an upper cut from an enemy or just the rain
+
+#### The Model
+
+Model the adversarial agents i
