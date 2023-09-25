@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 20:22
-date updated: 2023-09-24 21:42
+date updated: 2023-09-24 21:44
 ---
 
 # Adversarial Search
@@ -96,6 +96,16 @@ Model the adversarial agents in order to predict and beat their movements
 
 - Cannot control the other player's move, so must be conditional
 
+### Types of Strategies
+
+#### Type A Strategy
+
+A strategy that searches wide and picks the best option based on a heuristic function from searching those ply
+
+#### Type B Strategy
+
+A strategy that follows the most promising line as deep as possible
+
 ### Minimax Search
 
 Picks the move that will gave the most advantage to the agent assuming the other agent also plays optimally
@@ -122,6 +132,8 @@ Since one player plays to maximize utility whilst the other plays to minimize, w
 
 Before exploring a node, the final utility under that node will be on the interval of $[-\infty,\infty]$, after exploring one node, say with utility $2$, if the player that plays that ply is seeking to minimize, then we know the resulting utility of that tree must lie on $[-\infty,2]$ since the agent will never play a move above utility $2$. If the max player already knows that the interval of a sibling node is above $2$, then that entire tree can be thrown away.
 
+#### Heuristic Alpha-Beta T
+
 ### Move Ordering
 
 Since Alpha-Beta Pruning relies on information on other nodes, the order of which you explore nodes is significant
@@ -143,14 +155,3 @@ These optimizations to move ordering can be combined to improve minimax and alph
 
 - **Iterative deepening**, then rank possible options and explore the best first
 - **Transposition Table**, store result of states so that in case another path leads to the same state no recalculation is needed
-
-### Types of Strategies
-
-#### Type A Strategy
-
-A strategy that searches wide and picks the best option based on a utility function from searching those ply
-
-#### Type B Strategy
-
-A strategy that follows the most promising line as deep as possible
-
