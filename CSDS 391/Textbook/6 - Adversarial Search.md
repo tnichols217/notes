@@ -45,4 +45,10 @@ Model the adversarial agents in order to predict and beat their movements
 
 ##### Zero-sum
 
-- All 
+- Whenever a move benefits one player, it equally harms the other player
+- There is no win-win scenario
+
+##### Non-zero-sum
+
+- There are possibly mutually beneficial moves
+- Both players will strive for a mutually 
