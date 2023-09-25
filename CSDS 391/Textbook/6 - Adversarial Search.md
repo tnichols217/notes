@@ -144,7 +144,11 @@ Instead of searching till an end game state, search until a cutoff is satisfied,
 
 ##### Horizon Effect
 
-When an imminent loss in inevitable, but the algorithm cannot see far enough ahead to know, so it just pushes it off as long as possible 
+When an imminent loss in inevitable, but the algorithm cannot see far enough ahead to know, so it just pushes it off as long as possible by sacrificing everything else
+
+- Happens more often with small ply look-ahead
+
+##### For
 
 ### Move Ordering
 
