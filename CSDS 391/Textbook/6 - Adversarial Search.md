@@ -213,7 +213,8 @@ These optimizations to move ordering can be combined to improve minimax and alph
 > Where:
 > - $\text{PARENT}$ is the parent of the node
 > - $N$ is the number of playouts
-> - $U$ is the number of w
+> - $U$ is the number of won playouts
+> - $C$ is the exploitation-exploration constant, most often $\sqrt 2$
 
 1. **Selection**: Select notable moves until the bottom of the explored tree has been reached using a selection policy
 2. **Expansion**: Generate notable children of this node by picking notable actions from the previous node
