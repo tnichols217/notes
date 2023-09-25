@@ -98,4 +98,6 @@ Model the adversarial agents in order to predict and beat their movements
 
 ### Minimax Search
 
-Picks the move that 
+Picks the move that will gave the most advantage to the agent assuming the other agent also plays optimally
+
+
