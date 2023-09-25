@@ -74,4 +74,8 @@ Model the adversarial agents in order to predict and beat their movements
 - Actions may have a possibility of failing
 - Chance is involved in your action (dice, dealing of cards)
 
-### Properties and 
+### Properties of a game
+
+- **Initial state** of the game
+- Player **to move**
+- Legal action
