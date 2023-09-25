@@ -27,4 +27,6 @@ Model the adversarial agents in order to predict and beat their movements
 - Much more computationally expensive
 - Much more accurate
 
+### Types of Multi Agent Games
 
+#### 
