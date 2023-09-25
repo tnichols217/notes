@@ -109,6 +109,10 @@ Picks the move that will gave the most advantage to the agent assuming the other
 
 ### Alpha-Beta Pruning
 
+> [!def]
+> **Alpha $\alpha$**
+> The best 
+
 Since one player plays to maximize utility whilst the other plays to minimize, we can eliminate entire trees of nodes relying on this property
 
 Before exploring a node, the final utility under that node will be on the interval of $[-\infty,\infty]$, after exploring one node, say with utility $2$, if the player that plays that ply is seeking to minimize, then we know the resulting utility of that tree must lie on $[-\infty,2]$ since the agent will never play a move above utility $2$. If the max player already knows that the interval of a sibling node is above $2$, then that entire tree can be thrown away.
@@ -121,6 +125,8 @@ Since Alpha-Beta Pruning relies on information on other nodes, the order of whic
 
 #### Solutions
 
+These optimizations to move ordering can be combined to improve minimax and alpha-beta pruning
+
 > [!def]
 > **Killer Moves**
 > The best possible legal move is called a killer move
@@ -131,4 +137,4 @@ Since Alpha-Beta Pruning relies on information on other nodes, the order of whic
 > Trying to find and explore the killer moves first
 
 - **Iterative deepening**, then rank possible options and explore the best first
-- **Transposition Table**, store result of states so that in case another path leads to the same state
+- **Transposition Table**, store result of states so that in case another path leads to the same state no recalculation is needed
