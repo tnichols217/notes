@@ -189,6 +189,6 @@ These optimizations to move ordering can be combined to improve minimax and alph
 - **Iterative deepening**, then rank possible options and explore the best first
 - **Transposition Table**, store result of states so that in case another path leads to the same state no recalculation is needed
 
-### Monte Carlo Tree Search
+### Monte Carlo Tree Search (MCTS)
 
 
