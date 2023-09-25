@@ -196,10 +196,13 @@ These optimizations to move ordering can be combined to improve minimax and alph
 > A function that chooses a to explore and test, balancing exploring new nodes with exploiting known good ones
 > 
 > ---
-> ****
+> **Playout Policy**
+> A function that picks moves that bias towards winning for each player, to simulate the end of a game
+> 
+> - Does not ne
 
 1. **Selection**: Select notable moves until the bottom of the explored tree has been reached using a selection policy
 2. **Expansion**: Generate notable children of this node by picking notable actions from the previous node
-3. **Simulation**: Simulate these child nodes until the end of the game for a certain sample size, then record back the win/loss to the top node
+3. **Simulation**: Simulate these child nodes until the end of the game for a certain sample size by using a playout policy, then record back the win/loss to the top node
 4. **Back-propagation**: Update all parent nodes with the new information from the simulations
 5. Repeat until a policy guides that a move is good enough
