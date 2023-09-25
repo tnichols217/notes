@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 20:22
-date updated: 2023-09-24 23:34
+date updated: 2023-09-24 23:37
 ---
 
 # Adversarial Search
@@ -209,8 +209,9 @@ These optimizations to move ordering can be combined to improve minimax and alph
 >
 > Most often is:
 > $UCBI(n)=\frac{U(n)}{N(n)}+C\sqrt{\frac{\log N(\text{PARENT(n)})}{N(n)}}$
-> 
+>
 > Where:
+>
 > - $\text{PARENT}$ is the parent of the node
 > - $N$ is the number of playouts
 > - $U$ is the number of won playouts
@@ -221,3 +222,7 @@ These optimizations to move ordering can be combined to improve minimax and alph
 3. **Simulation**: Simulate these child nodes until the end of the game for a certain sample size by using a playout policy, then record back the win/loss to the top node
 4. **Back-propagation**: Update all parent nodes with the new information from the simulations
 5. Repeat until a policy guides that a move is good enough
+
+- Tends to be much better for high branching factor games like go
+- Can search much deeper at the cost of not exploring a lot of the possible branches
+
