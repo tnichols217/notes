@@ -1,5 +1,6 @@
 ---
 date created: 2023-09-24 20:22
+date updated: 2023-09-24 20:25
 ---
 
 # Adversarial Search
@@ -10,8 +11,9 @@ date created: 2023-09-24 20:22
 
 ## Game Theory
 
-> []
-
+> [!def]
+> **Position**
+> A synonym to state in the context of games
 
 ### Stances on Multi Agent Environments
 
@@ -72,4 +74,4 @@ Model the adversarial agents in order to predict and beat their movements
 - Actions may have a possibility of failing
 - Chance is involved in your action (dice, dealing of cards)
 
-### 
+### Properties and 
