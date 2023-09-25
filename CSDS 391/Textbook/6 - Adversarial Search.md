@@ -22,4 +22,9 @@ Consider all other agents as part of an unpredictable environment and just respo
 
 #### The Model
 
-Model the adversarial agents i
+Model the adversarial agents in order to predict and beat their movements
+
+- Much more computationally expensive
+- Much more accurate
+
+
