@@ -157,7 +157,7 @@ Prunes nodes that appear to be poor before exploring deeper. Can be implemented 
 
 ###### Evaluation Based
 
-
+Don't explore nodes if their evaluation is very low
 
 ###### Late Move Reduction
 
