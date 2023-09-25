@@ -117,4 +117,8 @@ Before exploring a node, the final utility under that node will be on the interv
 
 Since Alpha-Beta Pruning relies on information on other nodes, the order of which you explore nodes is significant
 
+- Perfect move ordering will bring alpha-beta pruning's branching factor to square root that of default minimax
 
+#### Solutions
+
+- Iterative deepening
