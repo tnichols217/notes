@@ -34,4 +34,9 @@ Model the adversarial agents in order to predict and beat their movements
 ##### Perfect Information
 
 - All agents can see the entire state of the game
-- Much easier to predict and 
+- Much easier to predict and calculate the future of the game
+
+##### Partial Observable
+
+- Agents cannot see the entire state of the game, often only what relates to them directly
+- 
