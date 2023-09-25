@@ -193,4 +193,4 @@ These optimizations to move ordering can be combined to improve minimax and alph
 
 > [!def]
 > **Selection Policy**
-> 
+> A function that produces 
