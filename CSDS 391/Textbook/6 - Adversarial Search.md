@@ -1,3 +1,7 @@
 # Adversarial Search
 
-> [@def]
+> [!def]
+> **Competitive Environments**
+> When two or more agents have conflicting goals
+> 
+
