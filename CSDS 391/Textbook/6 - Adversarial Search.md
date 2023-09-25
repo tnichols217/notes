@@ -150,14 +150,18 @@ When an imminent loss in inevitable, but the algorithm cannot see far enough ahe
 
 ##### Forward Pruning
 
-Prunes nodes that appear to have poor evaluation before exploring deeper. Can be implemented with beam-search
+Prunes nodes that appear to be poor before exploring deeper. Can be implemented with beam-search
 
 - Speeds up computation
 - Introduces more uncertainty and possibility of missing a good move
 
-##### Late Move Reduction
+###### Evaluation Based
 
-Explore later moves to a lesser depth
+
+
+###### Late Move Reduction
+
+Explore later moves to a lesser depth by trusting that the move ordering works well
 
 ### Move Ordering
 
