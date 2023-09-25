@@ -57,4 +57,14 @@ Model the adversarial agents in order to predict and beat their movements
 - There are possibly mutually beneficial moves
 - Both players will strive for a mutually winning game if this was true
 
-#### 
+#### Determinism
+
+##### Deterministic Games
+
+- Every action moves to one corresponding state
+- No chance of failing an action
+
+##### Non-deterministic Games
+
+- Actions may have a possibility of failing
+- Chance is involved in your actoin
