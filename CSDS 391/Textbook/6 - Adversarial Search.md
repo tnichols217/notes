@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-24 20:22
-date updated: 2023-09-24 21:39
+date updated: 2023-09-24 21:42
 ---
 
 # Adversarial Search
@@ -111,7 +111,12 @@ Picks the move that will gave the most advantage to the agent assuming the other
 
 > [!def]
 > **Alpha $\alpha$**
-> The best 
+> The highest possible utility of a node and its sub-pathes assuming the opponent plays optimally
+>
+> ---
+>
+> **Beta $\beta$**
+> The lowest possible utility of a node and its sub-pathes assuming the opponent plays optimally
 
 Since one player plays to maximize utility whilst the other plays to minimize, we can eliminate entire trees of nodes relying on this property
 
