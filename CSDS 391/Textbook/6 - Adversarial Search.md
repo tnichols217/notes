@@ -191,4 +191,6 @@ These optimizations to move ordering can be combined to improve minimax and alph
 
 ### Monte Carlo Tree Search (MCTS)
 
-
+> [!def]
+> **Selection Policy**
+> 
