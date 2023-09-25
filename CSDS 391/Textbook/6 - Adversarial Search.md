@@ -193,9 +193,9 @@ These optimizations to move ordering can be combined to improve minimax and alph
 
 > [!def]
 > **Selection Policy**
-> A function that produces a list of significant possibilities of plays to explore and test, as well as selecting to continue exploiting 
+> A function that produces a list of significant possibilities of plays to explore and test, as well as selecting to continue exploiting known good moves or explore for new one.
 > 
 > ---
 > ****
 
-1. **Selection**: 
+1. **Selection**: Select notable moves using the selection policy
