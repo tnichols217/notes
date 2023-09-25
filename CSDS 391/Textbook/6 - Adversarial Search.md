@@ -205,7 +205,9 @@ These optimizations to move ordering can be combined to improve minimax and alph
 > ---
 >
 > **UCBI function**
-> A function that ranks all possible moves based on certainty and winrate
+> A function that ranks all possible moves based on certainty and win-rate
+> 
+> Most often is: $UCBI(n)=\frac{U(n)}{N(n)}+C\frac{\log N()}{}$
 
 1. **Selection**: Select notable moves until the bottom of the explored tree has been reached using a selection policy
 2. **Expansion**: Generate notable children of this node by picking notable actions from the previous node
