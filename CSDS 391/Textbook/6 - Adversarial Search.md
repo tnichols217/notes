@@ -100,4 +100,6 @@ Model the adversarial agents in order to predict and beat their movements
 
 Picks the move that will gave the most advantage to the agent assuming the other agent also plays optimally
 
-
+> [!def]
+> **Backed up values**
+> After computation down the children of a node, store metadata about those children in the parent node like **minimum **
