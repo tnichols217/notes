@@ -1,2 +1,3 @@
 # Adversarial Search
 
+> [@def]
