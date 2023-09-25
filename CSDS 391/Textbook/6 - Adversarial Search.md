@@ -199,4 +199,4 @@ These optimizations to move ordering can be combined to improve minimax and alph
 > ****
 
 1. **Selection**: Select notable moves until the bottom of the explored tree has been reached using a selection policy
-2. **Expansion**: 
+2. **Expansion**: Generate notable children of this node by picking notable 
