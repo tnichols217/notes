@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-25 20:12
-date updated: 2023-09-25 20:23
+date updated: 2023-09-26 17:26
 ---
 
 # Expected Values of Variables
@@ -50,7 +50,7 @@ The moment generating function of X is defined as
 $M_X(t)=E(e^{tX})$
 
 ### Moment generating function theorem
+
 $E(X^n)=\frac{d^n}{dt^n}M_X(t)|_{t=0}$
 
 The $n$th moment of $X$ can be defined as a repeated interval of the moment generating function with respect to $t$ evaluated at 0
-
