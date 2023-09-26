@@ -208,16 +208,6 @@
                 }
               },
               {
-                "id": "0cbf9829abf77936",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.4.14"
-                  }
-                }
-              },
-              {
                 "id": "d6c7ac495bd415f8",
                 "type": "leaf",
                 "state": {
@@ -229,8 +219,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -243,7 +232,7 @@
       }
     ]
   },
-  "active": "0cbf9829abf77936",
+  "active": "7227d50567a7519f",
   "lastOpenFiles": [
     "MATH 223/Practice Problems/3 - Problem Set 3.md",
     "MATH 223/Practice Problems/12.7/19.md",
