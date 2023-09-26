@@ -52,4 +52,5 @@ $M_X(t)=E(e^{tX})$
 ### Moment generating function theorem
 $E(X^n)=\frac{d^n}{dt^n}M_X(t)|_{t=0}$
 
-The $n$th moment of $X$ 
+The $n$th moment of $X$ can be defined as a repeated interval of the moment generating function with respect to $t$ evaluated at 0
+
