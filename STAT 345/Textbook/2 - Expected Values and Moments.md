@@ -1,0 +1,55 @@
+---
+date created: 2023-09-25 20:12
+date updated: 2023-09-25 20:23
+---
+
+# Expected Values of Variables
+
+The expected value is the average of all the values whilst accounting for the likelihood of each possibility
+
+$E_g(X)=\begin{cases}\sum\limits_{x\in\chi}g(x)P(X=x)&\text{if x is discrete}\\\int\limits_{-\infty}^\infty g(x)f_X(x)dx&\text{if x is continous}\end{cases}$
+
+If there is not transformation function, substitute $x$ for $g(x)$
+
+## Properties of Expected Values
+
+- $E(ag_1(X)+bg_2(X)+c)=aE(g_1(X))+bE(g_2(X))+c$
+- If $g_1(x)\ge0$ for all $x$ then $E(g_1(X))\ge0$
+- If $g_1(x)\ge g_2(x)$ for all $x$ then $E(g_1(X))\ge E(g_2(X))$
+- if $a\le g(x)\le b$ for all $x$ then $a\le E(g(x))\le b$
+
+# Moments
+
+The $n$th moment of $X$ is defined as
+$\mu'_n=E(X^n)$
+
+The $n$th central moment of $X$ is defined as
+$\mu_n=E((X-\mu)^n)$
+Where $\mu$ is defined as $E(X)$
+
+> [!def]
+> **Mean $\mu$**
+> $\mu'_1=E(X)=\mu$
+>
+> ---
+>
+> **Variance $\sigma^2=\mu_2$**
+> $Var(X)=\mu_2=E((X-\mu^2)=\sigma^2$
+>
+> - $Var(aX+b)=a^2Var(X)$
+> - $Var(X)=E(X^2)-(E(X))^2$
+>
+> ---
+>
+> **Standard Deviation $\sigma=\sqrt{\mu_2}$**
+> $\sigma=\sqrt{Var(X)}$
+
+## Moment Generating Functions (mgf)
+
+The moment generating function of X is defined as
+$M_X(t)=E(e^{tX})$
+
+### Moment generating function theorem
+$E(X^n)=\frac{d^n}{dt^n}M_X(t)|_{t=0}$
+
+//TODO
