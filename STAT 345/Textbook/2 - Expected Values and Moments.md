@@ -52,4 +52,4 @@ $M_X(t)=E(e^{tX})$
 ### Moment generating function theorem
 $E(X^n)=\frac{d^n}{dt^n}M_X(t)|_{t=0}$
 
-//TODO
+The $n$th moment of $X$ 
