@@ -39,6 +39,8 @@ Cost: 99
 2. Neighbors
 	1. Oradea
 		1. f = 151 + 99 = 250
+		2. g = 273
+		3. h = 523
 	2. Arad
 	3. Rimnieu Village
 	4. Fagaras
