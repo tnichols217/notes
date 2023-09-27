@@ -169,4 +169,6 @@ Cost: 239
 
 ## Drobeta
 
-Cost: 
+Cost: 445
+
+1. Drobet
