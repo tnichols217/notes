@@ -134,4 +134,8 @@ Cost: 325
 
 Cost: 239
 
-1. Arad 
+1. Arad ≠ Drobeta
+2. Neighbors
+	1. Zerind
+		1. f = 
+	2. Timisoara
