@@ -106,7 +106,26 @@ Cost: 325
 2. Neighbors
 	1. Drobeta
 		1. f = 120 + 325 = 445
-		2. g = 
+		2. g = 0
+		3. h = 445
 	2. Rimnicu Village
+		1. In visited list
 	3. Pitesti
-3. 
+		1. In visited list
+3. Visited List
+   1. Fagaras
+   2. Sibiu
+   3. Bucharest
+   4. Oradea
+   5. Arad
+   6. Rimnicu Village
+   7. Fagaras
+   8. Craiova
+   9. Pitesti
+   10. Drobeta
+4. Current Priority Queue
+   1. 421: Craiova
+   2. 441: Arad
+   3. 453: Pitesti
+   4. 485: Bucharest
+   5. 523: Oradea
