@@ -191,3 +191,7 @@ A-star search, the way nodes are picked are the same, and without pruning the ch
 
 ## c
 
+Gradient Descent, without any temperature, there are no random movements, so it just uses gradient descent
+
+## d
+
