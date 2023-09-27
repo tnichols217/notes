@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-27 15:03
-date updated: 2023-09-27 16:04
+date updated: 2023-09-27 16:08
 ---
 
 # 1
@@ -65,22 +65,22 @@ Cost: 99
    3. 485: Bucharest
    4. 523: Oradea
 
-# Rimnieu Village
+## Rimnieu Village
 
 Cost: 179
 
 1. Rimnieu Village ≠ Drobeta
 2. Neighbors
-	1. Sibiu
-		1. In visited list
-	2. Craiova
-		1. f = 146 + 179 = 325
-		2. g = 96
-		3. h = 421
-	3. Pitesti
-		1. f = 97 + 179 = 276
-		2. g = 177
-		3. h = 453
+   1. Sibiu
+      1. In visited list
+   2. Craiova
+      1. f = 146 + 179 = 325
+      2. g = 96
+      3. h = 421
+   3. Pitesti
+      1. f = 97 + 179 = 276
+      2. g = 177
+      3. h = 453
 3. Visited List
    1. Fagaras
    2. Sibiu
@@ -92,7 +92,12 @@ Cost: 179
    8. Craiova
    9. Pitesti
 4. Current Priority Queue
-	2. 441: Arad
-	3. 485: Bucharest
-	4. 523: Oradea
-	5. 421: Craiova
+   1. 421: Craiova
+   2. 441: Arad
+   3. 453: Pitesti
+   4. 485: Bucharest
+   5. 523: Oradea
+
+## Craiova
+
+Cost: 325
