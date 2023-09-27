@@ -1,2 +1,2 @@
 # 1
-No, uniform cost search is not a 
+Yes, uniform cost search could be a special case of A\* search. A\* search picks the next node to explore based on its cost from the beginning and its expected cost to the goal based on a heuristic. A* simpl
