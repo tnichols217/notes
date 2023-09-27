@@ -183,3 +183,8 @@ Cost: 445
 
 ## a
 
+Depth first search, it only knows about the current state and does not keep any competitors in memory
+
+## b
+
+A-star search, the way nodes are picked are the same, and without pruning the choices, its just A
