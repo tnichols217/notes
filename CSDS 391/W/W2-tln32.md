@@ -199,3 +199,4 @@ Random walk, it just randomly looks at a value and hopes its better
 
 # 4
 
+A-star uses huge amounts of memory compared to simulated annealing. A-star is not feasible for large data sets, whilst simulated anneal
