@@ -11,4 +11,5 @@ Yes, uniform cost search could be a special case of A-star search. A-star search
 
 ## Fagaras
 
-1. Fagaras 
+1. Fagaras ≠ Drobeta
+2. 
