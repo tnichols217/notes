@@ -124,8 +124,8 @@ Cost: 325
    9. Pitesti
    10. Drobeta
 4. Current Priority Queue
-   1. 421: Craiova
-   2. 441: Arad
+   1. 441: Arad
+   2. 445: Drobeta
    3. 453: Pitesti
    4. 485: Bucharest
    5. 523: Oradea
