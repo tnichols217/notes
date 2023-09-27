@@ -173,5 +173,11 @@ Cost: 445
 
 1. Drobet = Drobet
 2. Path:
-	1. 
+	1. Drobet
+	2. Craiova
+	3. Rimnicu Village
+	4. Sibiu
+	5. Fagaras
+
+# 3
 
