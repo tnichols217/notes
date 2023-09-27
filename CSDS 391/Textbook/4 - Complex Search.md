@@ -47,7 +47,7 @@ date updated: 2023-09-23 18:29
 
 Combining an optimal move with a random walk to allow for more exploration
 
-Begins with a high temperature and gradually decreases it. When temperature is higher, 
+Begins with a high temperature and gradually decreases it. When temperature is higher, more random movements are made, when temperature is lower, then it just uses gradient descent
 
 ### Local Beam Search
 
