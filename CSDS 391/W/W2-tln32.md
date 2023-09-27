@@ -12,4 +12,21 @@ Yes, uniform cost search could be a special case of A-star search. A-star search
 ## Fagaras
 
 1. Fagaras ≠ Drobeta
-2. 
+2. Neighbors
+	1. Sibiu
+		1. f = 99
+		2. g = 173
+		3. h = 272
+	2. Bucharest
+		1. f = 211
+		2. g = 274
+		3. h = 485
+3. Visited List
+	1. Fagaras
+	2. Sibiu
+	3. Bucharest
+4. Current Priority Queue
+	1. 272: Sibiu
+	2. 485: Bucharest
+
+##
