@@ -137,5 +137,11 @@ Cost: 239
 1. Arad ≠ Drobeta
 2. Neighbors
 	1. Zerind
-		1. f = 
+		1. f = 75 + 239 = 314
+		2. g = 239
+		3. h = 553
 	2. Timisoara
+		1. f = 118 + 239 = 357
+		2. g = 164
+		3. h = 521
+	3. 
