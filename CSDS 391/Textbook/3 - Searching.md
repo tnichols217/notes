@@ -119,6 +119,11 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 ### A* search
 
+1. Pop first element on priority queue
+2. Check if is goal
+3. Get neighbors
+4. 
+
 - Most common algorithm
 - Uses the sum of the current distance from the initial node and the estimated cost to the target node as its heuristic
 - If the heuristic is admissible, then A* search is complete and optimal based on the triangle inequality
