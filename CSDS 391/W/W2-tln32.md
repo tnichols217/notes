@@ -38,6 +38,7 @@ Cost: 99
 1. Sibiu ≠ Drobeta
 2. Neighbors
 	1. Oradea
+		1. f = 151 + 99 = 250
 	2. Arad
 	3. Rimnieu Village
-	4. 
+	4. Fagaras
