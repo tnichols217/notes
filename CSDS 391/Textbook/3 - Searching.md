@@ -122,7 +122,9 @@ How much memory or storage the algorithm uses in order to produce a result.
 1. Pop first element on priority queue
 2. Check if is goal
 3. Get neighbors
-4. 
+	1. Calculate heuristics and add to queue
+	2. Add to visited list
+4. Repeat until goal is found
 
 - Most common algorithm
 - Uses the sum of the current distance from the initial node and the estimated cost to the target node as its heuristic
