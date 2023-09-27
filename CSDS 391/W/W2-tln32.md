@@ -167,7 +167,7 @@ Cost: 239
    5. 523: Oradea
    6. 553: Zerind
 
-## Drobeta
+## Drobet
 
 Cost: 445
 
