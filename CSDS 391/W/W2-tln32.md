@@ -72,4 +72,9 @@ Cost: 179
 1. Rimnieu Village ≠ Drobeta
 2. Neighbors
 	1. Sibiu
-	2. 
+		1. In visited list
+	2. Craiova
+		1. f = 146 + 179 = 325
+		2. g = 96
+		3. h =
+	3. Pitesti
