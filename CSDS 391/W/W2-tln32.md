@@ -129,3 +129,9 @@ Cost: 325
    3. 453: Pitesti
    4. 485: Bucharest
    5. 523: Oradea
+
+## Arad
+
+Cost: 239
+
+1. Arad 
