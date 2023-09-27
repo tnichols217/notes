@@ -46,5 +46,9 @@ Cost: 99
 		2. g = 202
 		3. h = 441
 	3. Rimnieu Village
-		1. 
+		1. f = 80 + 99 = 179
+		2. g = 145
+		3. h = 324
 	4. Fagaras
+		1. In visited list
+	5. 
