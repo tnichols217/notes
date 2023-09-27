@@ -199,4 +199,4 @@ Random walk, it just randomly looks at a value and hopes its better
 
 # 4
 
-A-star uses huge amounts of memory compared to simulated annealing. A-star is not feasible for large data sets, whilst simulated anneal
+A-star uses huge amounts of memory compared to simulated annealing. A-star is not feasible for large data sets, whilst simulated annealing performs very well. Simulated annealing does not always provide the best solution, but it is pretty fast at producing a well optimized solution quickly, A-star takes much longer to find a solution
