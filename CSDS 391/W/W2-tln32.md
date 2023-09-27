@@ -105,5 +105,8 @@ Cost: 325
 1. Craiova ≠ Drobeta
 2. Neighbors
 	1. Drobeta
+		1. f = 120 + 325 = 445
+		2. g = 
 	2. Rimnicu Village
 	3. Pitesti
+3. 
