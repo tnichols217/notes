@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-27 15:03
-date updated: 2023-09-27 16:03
+date updated: 2023-09-27 16:04
 ---
 
 # 1
@@ -60,7 +60,7 @@ Cost: 99
    6. Rimnieu Village
    7. Fagaras
 4. Current Priority Queue
+   5. 321: Rimnieu Village
+   4. 441: Arad
    2. 485: Bucharest
    3. 523: Oradea
-   4. 441: Arad
-   5. 321: 
