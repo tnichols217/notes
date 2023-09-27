@@ -45,7 +45,7 @@ Cost: 99
       1. f = 140 + 99 = 239
       2. g = 202
       3. h = 441
-   3. Rimnieu Village
+   3. Rimnicu Village
       1. f = 80 + 99 = 179
       2. g = 145
       3. h = 324
@@ -60,12 +60,12 @@ Cost: 99
    6. Rimnieu Village
    7. Fagaras
 4. Current Priority Queue
-   1. 321: Rimnieu Village
+   1. 321: Rimnicu Village
    2. 441: Arad
    3. 485: Bucharest
    4. 523: Oradea
 
-## Rimnieu Village
+## Rimnicu Village
 
 Cost: 179
 
@@ -87,7 +87,7 @@ Cost: 179
    3. Bucharest
    4. Oradea
    5. Arad
-   6. Rimnieu Village
+   6. Rimnicu Village
    7. Fagaras
    8. Craiova
    9. Pitesti
@@ -101,3 +101,9 @@ Cost: 179
 ## Craiova
 
 Cost: 325
+
+1. Craiova ≠ Drobeta
+2. Neighbors
+	1. Drobeta
+	2. Rimnicu Village
+	3. Pitesti
