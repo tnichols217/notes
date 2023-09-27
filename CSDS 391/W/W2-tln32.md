@@ -38,7 +38,10 @@ Cost: 99
 1. Sibiu ≠ Drobeta
 2. Neighbors
 	1. Oradea
-		1. f = 151 + 99 = 250
+		1. f = 151 + 99
+4. Current Priority Queue
+   1. 272: Sibiu
+   2. 485: Bucharest = 250
 		2. g = 273
 		3. h = 523
 	2. Arad
@@ -51,4 +54,14 @@ Cost: 99
 		3. h = 324
 	4. Fagaras
 		1. In visited list
-	5. 
+3. Visited List
+	1. Fagaras
+	2. Sibiu
+	3. Bucharest
+	4. Oradea
+	5. Arad
+	6. Rimnieu Village
+	7. Fagaras
+4. Current Priority Queue
+	1. 485: Bucharest
+	2. 
