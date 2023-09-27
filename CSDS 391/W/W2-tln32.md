@@ -195,3 +195,7 @@ Gradient Descent, without any temperature, there are no random movements, so it 
 
 ## d
 
+Random walk, it just randomly looks at a value and hopes its better
+
+# 4
+
