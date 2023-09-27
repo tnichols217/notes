@@ -187,4 +187,7 @@ Depth first search, it only knows about the current state and does not keep any 
 
 ## b
 
-A-star search, the way nodes are picked are the same, and without pruning the choices, its just A
+A-star search, the way nodes are picked are the same, and without pruning the choices, its just A-star
+
+## c
+
