@@ -10,6 +10,7 @@ Yes, uniform cost search could be a special case of A-star search. A-star search
 # 2
 
 ## Fagaras
+Cost: 0
 
 1. Fagaras ≠ Drobeta
 2. Neighbors
@@ -29,4 +30,4 @@ Yes, uniform cost search could be a special case of A-star search. A-star search
 	1. 272: Sibiu
 	2. 485: Bucharest
 
-##
+## Sibiu
