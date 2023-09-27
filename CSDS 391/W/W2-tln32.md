@@ -144,4 +144,29 @@ Cost: 239
 		1. f = 118 + 239 = 357
 		2. g = 164
 		3. h = 521
-	3. 
+	3. Sibiu
+		1. In visited list
+3. Visited List
+   1. Fagaras
+   2. Sibiu
+   3. Bucharest
+   4. Oradea
+   5. Arad
+   6. Rimnicu Village
+   7. Fagaras
+   8. Craiova
+   9. Pitesti
+   10. Drobeta
+   11. Zerind
+   12. Timisoara
+4. Current Priority Queue
+   1. 445: Drobeta
+   2. 453: Pitesti
+   3. 485: Bucharest
+   4. 521: Timisoara
+   5. 523: Oradea
+   6. 553: Zerind
+
+## Drobeta
+
+Cost: 
