@@ -60,7 +60,16 @@ Cost: 99
    6. Rimnieu Village
    7. Fagaras
 4. Current Priority Queue
-   5. 321: Rimnieu Village
-   4. 441: Arad
-   2. 485: Bucharest
-   3. 523: Oradea
+   1. 321: Rimnieu Village
+   2. 441: Arad
+   3. 485: Bucharest
+   4. 523: Oradea
+
+# Rimnieu Village
+
+Cost: 179
+
+1. Rimnieu Village ≠ Drobeta
+2. Neighbors
+	1. Sibiu
+	2. 
