@@ -42,5 +42,6 @@ Cost: 99
 		2. g = 273
 		3. h = 523
 	2. Arad
+		1. 
 	3. Rimnieu Village
 	4. Fagaras
