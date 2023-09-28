@@ -51,9 +51,9 @@ More columns can be nested within other columns simply by creating a new column 
 
 ## Codeblock syntax
 
-The obsidian-columns codeblock syntax utilizes named codeblocks from the markdown spec, seen []()
+The obsidian-columns codeblock syntax utilizes named codeblocks from the Obsidian markdown spec, seen [here](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax#Code+blocks)
 
-Similar to the callout syntax, use a col codeblock to 
+Similar to the callout syntax, use a col named codeblock to initiate a column group. All items within the col codeblocks
 
 ## Codeblock Settings Block
 All blocks have a settings header that is defined as everything above a `===` delimiter
