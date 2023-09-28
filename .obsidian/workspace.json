@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-columns.md",
+                "file": "obsid-readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-columns.md",
+                "file": "obsid-readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-columns.md"
+                "file": "obsid-readme.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-columns.md",
+                "file": "obsid-readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +185,8 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "obsidian-columns.md",
+    "obsid-readme.md",
     "MATH 223/Practice Problems/13.1.md",
     "STAT 345/Textbook/1 - Probability Theory.md",
     "MATH 223/Practice Problems/13.3.md",
@@ -218,8 +220,6 @@
     "STAT 345/Textbook/1 - Set Theory.md",
     "MUTH 104/Practice.md",
     "STAT 345/Homework/1/2b.md",
-    "MATH 223/Practice Problems/12.6.md",
-    "MATH 223/2 - Vector Functions.md",
     "STAT 345/Homework/1.pdf",
     "STAT 345/Homework/1/2b.svg",
     "STAT 345/Homework/1/2a.svg",
