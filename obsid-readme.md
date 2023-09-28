@@ -119,7 +119,21 @@ Use "\=\=\=" within a `col` codeblock to denote a new row in the column
 Usage of the row delimiter forces the existence of the settings block. If you would not like to change any settings, but use rows, place an "\=\=\=" at the top of all your content to define an empty settings block
 
 ### col-md
-The col-md block has an additional flexGrow setting which sets the relative width of the codeblock
+
+#### height property
+
+The height property of the col-md codeblock's setting block sets a limit on how tall this individual column will be. Any extra text will be able to be viewed with a scrollbar.
+
+The property can be set to any [valid CSS value](https://www.w3schools.com/cssref/css_units.php).
+
+#### textAlign property
+
+The textAlign property sets the textAlign for this column. This value can be overridden by the individual column's textAlign setting.
+
+- "start" or "left" would left-align the column
+- "end" or "right" would right-align the column
+- "center" would center the text in the column
+- "justify" justifies the column content
 
 
 ## Examples
