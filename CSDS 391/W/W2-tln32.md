@@ -213,4 +213,6 @@ In minimax, MAX always assumes that MIN will play optimally, so the algorithm do
 
 ## b
 
-Say MAX and MIN are playing tic-tac-toe. Presuppose we know MIN likes to try and create a line on the 
+Say MAX and MIN are playing rock-paper-scissors. Presuppose we know that MIN likes to play scissors abnormally more than the other actions.
+
+A regular MAX would not care about which action he chooses as they all have theoretically the same chance of winning, but using the information that MIN likes to play 
