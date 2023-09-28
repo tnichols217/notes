@@ -219,4 +219,4 @@ A regular MAX would not care about which action he chooses as they all have theo
 
 # 7
 
-Because we know that that variable must have a solution within the set. It it does not, then the whole set is unsolvable. If we select the variable with the smallest state space or greatest constraints, then we elimin
+Because we know that that variable must have a solution within the set. It it does not, then the whole set is unsolvable. If we select the variable with the smallest state space or greatest constraints, then we eliminate many possibilities without a chance of removing the solution combination. When selecting values, selecting a value that reduces the space the most will most likely lead to no solution first, as when we select values we are not guaranteed to still have the solution within our search set, thus 
