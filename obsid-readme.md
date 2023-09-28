@@ -109,11 +109,14 @@ The textAlign property sets the default textAlign for the column set. This value
 
 - "start" or "left" would left-align the column
 - "end" or "right" would right-align the column
-- "center" wou
+- "center" would center the text in the column
+- "justify" justifies the column content
 
 #### Rows
 
 Use "\=\=\=" within a `col` codeblock to denote a new row in the column
+s 
+Thi
 
 ### col-md
 The col-md block has an additional flexGrow setting which sets the relative width of the codeblock
