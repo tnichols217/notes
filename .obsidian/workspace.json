@@ -183,65 +183,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "a17eec7368830c9f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e9a954c8dd45181e",
-        "type": "window",
-        "children": [
-          {
-            "id": "2292aba9618f7994",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7227d50567a7519f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "STAT 345/Textbook/1 - Probability Theory.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d6c7ac495bd415f8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "STAT 345/Textbook/1 - Random Variables.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 366,
-        "y": 166,
-        "width": 1708,
-        "height": 711,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "STAT 345/Textbook/1 - Probability Theory.md",
+    "MATH 223/Practice Problems/13.1.md",
     "MATH 223/Practice Problems/13.3.md",
     "MATH 223/Practice Problems/13.2.md",
-    "MATH 223/Practice Problems/13.1.md",
     "MATH 223/Practice Problems/4 - Problem Set 4.md",
     "STAT 345/Homework/4.md",
     "STAT 345/Homework/4.pdf",
     "MATH 223/Practice Problems/3 - Problem Set 3.md",
-    "STAT 345/Textbook/1 - Probability Theory.md",
     "MATH 223/Practice Problems/12.7/19.md",
     "MATH 223/Practice Problems/12.7/25.md",
     "MATH 223/Practice Problems/3 - Problem Set 3.pdf",
