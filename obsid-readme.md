@@ -139,6 +139,8 @@ The textAlign property sets the textAlign for this column. This value overrides 
 
 The flexGrow property sets the width of a column with respect to the sizes of all the other columns. If a left and right column have a flexGrow of 1, whilst the middle column has a flexGrow of 2, then the center column will be twice as wide as the edge columns individually.
 
+The propert
+
 ## Examples
 
 ![image](https://user-images.githubusercontent.com/62992267/181198772-f9f11e54-d0f2-4a60-a0aa-8ebb364bffe8.png)
