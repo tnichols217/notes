@@ -51,7 +51,7 @@ More columns can be nested within other columns simply by creating a new column 
 
 ## Codeblock syntax
 
-The 
+The obsidian-columns codeblock syntax utilizes named codeblocks from the markdown spec, seen []()
 
 Similar to the callout syntax, use a col codeblock to 
 
