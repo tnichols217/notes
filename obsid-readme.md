@@ -103,15 +103,7 @@ line 2
 
 #### Rows
 
-Use "===" within a `col` codeblock to denote a new row in the column
-
-```col
-a
-
-b
-===
-a
-```
+Use "\=\=\=" within a `col` codeblock to denote a new row in the column
 
 ### col-md
 The col-md block has an additional flexGrow setting which sets the relative width of the codeblock
