@@ -65,6 +65,10 @@ The obsidian-columns codeblock syntax utilizes named codeblocks from the Obsidia
 Similar to the callout syntax, use a col named codeblock to initiate a column group. All items within the col codeblocks will be rendered as its own column.
 The col-md codeblock can be nested within the col codeblock to group multiple items together into a single column.
 
+When using codeblock syntax, ensure parent codeblocks have more backticks (\`) then their children codeblocks, for example:
+
+
+
 ### Codeblock Settings Block
 
 Both the col and col-md codeblocks optionally have a settings header that is defined as everything above a `===` delimiter
