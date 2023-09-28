@@ -67,7 +67,17 @@ The col-md codeblock can be nested within the col codeblock to group multiple it
 
 When using codeblock syntax, ensure parent codeblocks have more backticks (\`) then their children codeblocks, for example:
 
+`````md
+````col
+```col-md
+Column A
+```
 
+```col-md
+Column B
+```
+````
+`````
 
 ### Codeblock Settings Block
 
