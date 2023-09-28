@@ -215,4 +215,7 @@ In minimax, MAX always assumes that MIN will play optimally, so the algorithm do
 
 Say MAX and MIN are playing rock-paper-scissors. Presuppose we know that MIN likes to play scissors abnormally more than the other actions.
 
-A regular MAX would not care about which action he chooses as they all have theoretically the same chance of winning, but using the information that MIN likes to play 
+A regular MAX would not care about which action he chooses as they all have theoretically the same chance of winning, but using the information that MIN likes to play scissors, we would bias our choice to rock in order to beat MIN more.
+
+# 7
+
