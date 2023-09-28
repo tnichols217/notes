@@ -213,4 +213,4 @@ In minimax, MAX always assumes that MIN will play optimally, so the algorithm do
 
 ## b
 
-Say MAX and MIN are playing t
+Say MAX and MIN are playing tic-tac-toe. Presuppose 
