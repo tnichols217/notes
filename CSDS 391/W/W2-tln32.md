@@ -203,3 +203,4 @@ A-star uses huge amounts of memory compared to simulated annealing. A-star is no
 
 # 5
 
+Similar to simulated annealing, have a temperature value that slowly decreases over time or iterations. 
