@@ -8,7 +8,7 @@ There are three main ways to utilize this plugin:
 - List Syntax (live-preview **not** supported, less settings)
 
 ## Callout syntax
-The obsidian-columns callout syntax utilizes the Obsidian Callout spec, defined [https://help.obsidian.md/Editing+and+formatting/Callouts](https://help.obsidian.md/Editing+and+formatting/Callouts)
+The obsidian-columns callout syntax utilizes the Obsidian Callout spec, defined [here](https://help.obsidian.md/Editing+and+formatting/Callouts), which in turn utilizes the markdown quote spec
 
 The callout syntax uses no javascript at all, which makes it highly compatible with live preview without the use of codeblocks, this also means that the callout syntax cannot limit the height of the columns.
 
