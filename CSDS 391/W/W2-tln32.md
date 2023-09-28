@@ -209,3 +209,4 @@ Similar to simulated annealing, have a temperature value that slowly decreases o
 
 ## a
 
+In minimax, MAX always assumes that MIN will play optimally, so the algorithm 
