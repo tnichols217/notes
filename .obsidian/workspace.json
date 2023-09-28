@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/13.2.md",
+                "file": "STAT 345/Textbook/2 - Expected Values and Moments.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/13.2.md",
+                "file": "STAT 345/Textbook/2 - Expected Values and Moments.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/13.2.md"
+                "file": "STAT 345/Textbook/2 - Expected Values and Moments.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/13.2.md",
+                "file": "STAT 345/Textbook/2 - Expected Values and Moments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,12 +185,12 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "MATH 223/Practice Problems/13.2.md",
     "MATH 223/Practice Problems/13.1.md",
     "obsid-readme.md",
     "obsidian-columns.md",
     "STAT 345/Textbook/1 - Probability Theory.md",
     "MATH 223/Practice Problems/13.3.md",
-    "MATH 223/Practice Problems/13.2.md",
     "MATH 223/Practice Problems/4 - Problem Set 4.md",
     "STAT 345/Homework/4.md",
     "STAT 345/Homework/4.pdf",
