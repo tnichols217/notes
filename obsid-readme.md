@@ -1,13 +1,19 @@
+---
+date created: 2023-09-28 12:29
+---
+
 # Obsidian Columns
 
 Allows you to create columns in Obsidian\
 This plugin also works on mobile with a column wrapping feature (that you can enable in settings)\
 There are three main ways to utilize this plugin:
+
 - Callout Syntax (live-preview supported, less settings)
 - Codeblock Syntax (live-preview supported, all settings)
 - List Syntax (live-preview **not** supported, less settings)
 
 ## Callout syntax
+
 The obsidian-columns callout syntax utilizes the Obsidian Callout spec, defined [here](https://help.obsidian.md/Editing+and+formatting/Callouts), which in turn utilizes the markdown blockquote spec defined [here](https://help.obsidian.md/Editing+and+formatting/Callouts)
 
 The callout syntax uses no javascript at all, which makes it highly compatible with live preview without the use of codeblocks, this also means that the callout syntax cannot limit the height of the columns without significant performance trade-offs.
@@ -25,6 +31,7 @@ To use the col callout, create a callout with the col name:
 ```
 
 To use the col-md callout, create a col-md callout within the col callout
+
 ```md
 > [!col]
 > A col callout
@@ -36,6 +43,7 @@ To use the col-md callout, create a col-md callout within the col callout
 ```
 
 The col-md callout's width can be adjusted by adding the width after the col-md name:
+
 ```md
 > [!col]
 > A col callout
@@ -45,6 +53,7 @@ The col-md callout's width can be adjusted by adding the width after the col-md 
 >> 
 >> This column is now 3 times the width of the first column
 ```
+
 The width attribute of the col-md callout can only be multiples of 0.5 up to 10, like 1, 1.5, 6.5, etc. due to limitations of live preview and the CSS attr() function.
 
 More columns can be nested within other columns simply by creating a new column within the callout. More examples can be seen below.
@@ -57,15 +66,16 @@ Similar to the callout syntax, use a col named codeblock to initiate a column gr
 The col-md codeblock can be nested within the col codeblock to group multiple items together into a single column.
 
 ### Codeblock Settings Block
+
 Both the col and col-md codeblocks optionally have a settings header that is defined as everything above a `===` delimiter
 
 - col
-	- height: CSS height or `shortest`
-	- textAlign: CSS text-align (`start`, `end`, `center`)
+  - height: CSS height or `shortest`
+  - textAlign: CSS text-align (`start`, `end`, `center`)
 - col-md
-	- height: CSS height
-	- flexGrow: number
-	- textAlign: CSS text-align (`start`, `end`, `center`)
+  - height: CSS height
+  - flexGrow: number
+  - textAlign: CSS text-align (`start`, `end`, `center`)
 
 For example, to set the flexGrow value in a col-md block:
 
@@ -78,6 +88,7 @@ MD to be rendered
 ````
 
 ### The col codeblock
+
 #### height property
 
 The height property of the col codeblock's setting block sets a limit on how tall the set of columns will be. Any extra text will be able to be viewed with a scrollbar.
@@ -85,6 +96,7 @@ The height property of the col codeblock's setting block sets a limit on how tal
 The property can be set to any [valid CSS value](https://www.w3schools.com/cssref/css_units.php) or the value of "shortest", which picks the length of the shortest column within the column group
 
 For example:
+
 `````md
 ````col
 height=shortest
@@ -139,13 +151,14 @@ The textAlign property sets the textAlign for this column. This value overrides 
 
 The flexGrow property sets the width of a column with respect to the sizes of all the other columns. If a left and right column have a flexGrow of 1, whilst the middle column has a flexGrow of 2, then the center column will be twice as wide as the edge columns individually.
 
-The propert
+The property can be set to any valid positive number (0.4, 10, 23.62)
 
 ## Examples
 
 ![image](https://user-images.githubusercontent.com/62992267/181198772-f9f11e54-d0f2-4a60-a0aa-8ebb364bffe8.png)
 
 Produced by the MD below:
+
 ````````md
 ```````col
 ``````col-md
@@ -195,6 +208,7 @@ console.log(msg)
 ``````
 ```````
 ````````
+
 !!! **Dont forget to use additional backticks when using recursive codeblocks!** Ex: col has 4 ticks and col-md has 3
 
 or using callout syntax:
@@ -232,15 +246,17 @@ or using callout syntax:
 ## List Structure
 
 You can also create columns by creating a list in the structure shown (not supported in live preview):
+
 - !!!col
-    - (flex-grow)
-        - (Text in column 1)
-    - (flex-grow)
-        - (Text in column 2)
+  - (flex-grow)
+    - (Text in column 1)
+  - (flex-grow)
+    - (Text in column 2)
 
 ![image](https://user-images.githubusercontent.com/62992267/165693531-5a9d7e8e-864f-40db-a936-cefdb333af22.png)
 
 Produced by the MD code below:
+
 ```md
 - !!!col
 	- 1
@@ -261,17 +277,19 @@ Produced by the MD code below:
 ```
 
 ## Settings
+
 ### Minimum Width of Column
+
 This setting ensures that columns are a certain width. If not all the columns satisfy this width, extra columns will wrap to below (as rows).
 Technically, just sets the flex-basis attribute.
 
 ### Default span
+
 This setting sets the default span value for a column if it is not explicitly specified. For the time being, col codeblocks have each column set to this value and cannot be changed.
 
 ## Upcoming features
 
 1. Enable syntax highlighting for editor.
-2. Have per column group and per column settings (custom settings for each column)
 
 ---
 
