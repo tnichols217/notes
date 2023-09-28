@@ -77,8 +77,10 @@ MD to be rendered
 ```
 ````
 
-### col
-The col codeblock can have a height of `shortest`, which limits all columns to the shortest height of its children.
+#### The col codeblock
+##### height property
+
+The height property of the col codeblock's setting block sets a limit on 
 
 For example:
 `````md
