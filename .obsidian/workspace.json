@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/3 - Problem Set 3.md",
+                "file": "STAT 345/Homework/4.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/3 - Problem Set 3.md",
+                "file": "STAT 345/Homework/4.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/1 - Probability Theory.md"
+                "file": "STAT 345/Homework/4.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/1 - Probability Theory.md",
+                "file": "STAT 345/Homework/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,18 +223,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1707,
-        "height": 1067,
+        "x": 366,
+        "y": 166,
+        "width": 1708,
+        "height": 711,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "7227d50567a7519f",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
     "MATH 223/Practice Problems/3 - Problem Set 3.md",
+    "STAT 345/Textbook/1 - Probability Theory.md",
     "MATH 223/Practice Problems/12.7/19.md",
     "MATH 223/Practice Problems/12.7/25.md",
     "MATH 223/Practice Problems/3 - Problem Set 3.pdf",
@@ -245,7 +246,6 @@
     "MATH 223/Practice Problems/12.7",
     "CSDS 391/Textbook/4 - Complex Search.md",
     "CSDS 391/Textbook/3 - Searching.md",
-    "STAT 345/Textbook/1 - Probability Theory.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
     "ARTS 302/Readings/Ching/2 - Form.md",
     "ARTS 302/Readings/Ching/1 - Primary Elements.md",
