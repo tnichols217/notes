@@ -229,4 +229,4 @@ I would likely choose a local search for CSPs, as they are fast and efficient at
 
 ## b
 
-I would choose to 
+I would choose to have the variables be words as they significantly reduce the state space.
