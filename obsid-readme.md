@@ -105,7 +105,10 @@ line 2
 
 #### textAlign property
 
-The textAlign property sets the default 
+The textAlign property sets the default textAlign for the column set. This value can be overridden by the individual column's textAlign setting.
+
+- "start" would left-align the colum
+- ""
 
 #### Rows
 
