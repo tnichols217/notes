@@ -115,8 +115,8 @@ The textAlign property sets the default textAlign for the column set. This value
 #### Rows
 
 Use "\=\=\=" within a `col` codeblock to denote a new row in the column
-s 
-Thi
+
+Usage of the row delimiter forces the existence of the settings block. If you would not like to change any settings, but use rows, place an "\=\=\=" at the top of all your content to define an empty settings block
 
 ### col-md
 The col-md block has an additional flexGrow setting which sets the relative width of the codeblock
