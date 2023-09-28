@@ -110,6 +110,12 @@ The textAlign property sets the default textAlign for the column set. This value
 - "start" would left-align the colum
 - ""
 
+```col
+textAlign=start
+===
+a
+```
+
 #### Rows
 
 Use "\=\=\=" within a `col` codeblock to denote a new row in the column
