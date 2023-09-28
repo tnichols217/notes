@@ -3,11 +3,13 @@
 Allows you to create columns in Obsidian\
 This plugin also works on mobile with a column wrapping feature (that you can enable in settings)\
 There are three main ways to utilize this plugin:
-- Callout Syntax (live-preview supported)
-- Codeblock Syntax (live-preview supported)
-- List Syntax (live-preview **not** supported)
+- Callout Syntax (live-preview supported, less settings)
+- Codeblock Syntax (live-preview supported, all settings)
+- List Syntax (live-preview **not** supported, less settings)
 
 ## Callout syntax
+The obsidian-columns callout syntax utilizes the Obsidian
+
 The callout syntax uses no javascript at all, which makes it highly compatible with live preview without the use of codeblocks, this also means that the callout syntax cannot limit the height of the columns.
 
 The col callout renders every item in the callout as its own column, but col-md groups them into one column
