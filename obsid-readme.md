@@ -128,13 +128,16 @@ The property can be set to any [valid CSS value](https://www.w3schools.com/cssre
 
 #### textAlign property
 
-The textAlign property sets the textAlign for this column. This value can be overridden by the individual column's textAlign setting.
+The textAlign property sets the textAlign for this column. This value overrides the column group's default value.
 
 - "start" or "left" would left-align the column
 - "end" or "right" would right-align the column
 - "center" would center the text in the column
 - "justify" justifies the column content
 
+#### flexGrow property
+
+The flexGrow property sets the width of a column w
 
 ## Examples
 
