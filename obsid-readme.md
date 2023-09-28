@@ -77,8 +77,6 @@ MD to be rendered
 ```
 ````
 
-All blocks have a height setting which can limit the height of the codeblock to any CSS height value (ex: 100px)
-
 ### col
 The col codeblock can have a height of `shortest`, which limits all columns to the shortest height of its children.
 
