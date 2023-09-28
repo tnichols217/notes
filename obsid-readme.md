@@ -57,7 +57,7 @@ Similar to the callout syntax, use a col named codeblock to initiate a column gr
 The col-md codeblock can be nested within the col codeblock to group multiple items together into a single column.
 
 ### Codeblock Settings Block
-Both the col and col-md codeblocks have a settings header that is defined as everything above a `===` delimiter
+Both the col and col-md codeblocks optionally have a settings header that is defined as everything above a `===` delimiter
 
 - col
 	- height: CSS height or `shortest`
@@ -104,6 +104,14 @@ line 2
 #### Rows
 
 Use "===" within a `col` codeblock to denote a new row in the column
+
+```col
+a
+
+b
+===
+a
+```
 
 ### col-md
 The col-md block has an additional flexGrow setting which sets the relative width of the codeblock
