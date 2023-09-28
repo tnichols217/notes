@@ -203,4 +203,9 @@ A-star uses huge amounts of memory compared to simulated annealing. A-star is no
 
 # 5
 
-Similar to simulated annealing, have a temperature value that slowly decreases over time or iterations. Implement a similar technique to random walk to improve the exploration of gradient ascent, where larger temperatures are more explorative and more likely to select unfavorable trades, while lower temperatures are safer and only take favorable trades. Once the temperature reaches 0, simply default back to gradient ascent to find that area's local maxima. The gradient could be considered a heuristic as it would give a rough estimate as to how close to the top of a local max
+Similar to simulated annealing, have a temperature value that slowly decreases over time or iterations. Implement a similar technique to random walk to improve the exploration of gradient ascent, where larger temperatures are more explorative and more likely to select unfavorable trades, while lower temperatures are safer and only take favorable trades. Once the temperature reaches 0, simply default back to gradient ascent to find that area's local maxima. The gradient could be considered a heuristic as it would give a rough estimate as to how close to the top of a local maxima is assuming the maxima are rounded at their peaks. I do not see much use for implementing the gradient as a heuristic for simulated annealing though.
+
+# 6
+
+## a
+
