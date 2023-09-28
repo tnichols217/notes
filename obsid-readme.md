@@ -77,12 +77,12 @@ MD to be rendered
 ```
 ````
 
-#### The col codeblock
-##### height property
+### The col codeblock
+#### height property
 
 The height property of the col codeblock's setting block sets a limit on how tall the set of columns will be. Any extra text will be able to be viewed with a scrollbar.
 
-The property can be set to any [valid CSS value](https://www.w3schools.com/cssref/css_units.php) or the value of "shortest", which picks 
+The property can be set to any [valid CSS value](https://www.w3schools.com/cssref/css_units.php) or the value of "shortest", which picks the length of the shortest column within the column group
 
 For example:
 `````md
@@ -102,6 +102,10 @@ line 2
 ```
 ````
 `````
+
+#### textAlign property
+
+The textAlign property sets the default 
 
 #### Rows
 
