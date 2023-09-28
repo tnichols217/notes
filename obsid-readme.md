@@ -12,7 +12,8 @@ The obsidian-columns callout syntax utilizes the Obsidian Callout spec, defined 
 
 The callout syntax uses no javascript at all, which makes it highly compatible with live preview without the use of codeblocks, this also means that the callout syntax cannot limit the height of the columns without significant performance trade-offs.
 
-The col callout renders every item in the callout as its own column, but col-md groups them into one column
+The col callout renders every item within the callout as its own column.
+The col-md callout can be nested within the col callout in order to group items into a column.
 
 To use the col callout, create a callout with the col name:
 
@@ -44,7 +45,7 @@ The col-md callout's width can be adjusted by adding the width after the col-md 
 >> 
 >> This column is now 3 times the width of the first column
 ```
-The width attribute of the col-md callout can only be multiples of 0.5 up to 10, like 1, 1.5, 6.5, etc. due to limitations of live preview and CSS attr() function.
+The width attribute of the col-md callout can only be multiples of 0.5 up to 10, like 1, 1.5, 6.5, etc. due to limitations of live preview and the CSS attr() function.
 
 More columns can be nested within other columns simply by creating a new column within the callout. More examples can be seen below.
 
