@@ -80,7 +80,9 @@ MD to be rendered
 #### The col codeblock
 ##### height property
 
-The height property of the col codeblock's setting block sets a limit on 
+The height property of the col codeblock's setting block sets a limit on how tall the set of columns will be. Any extra text will be able to be viewed with a scrollbar.
+
+The property can be set to any valid CSS value
 
 For example:
 `````md
