@@ -49,6 +49,12 @@ The width attribute of the col-md callout can only be multiples of 0.5 up to 10,
 
 More columns can be nested within other columns simply by creating a new column within the callout. More examples can be seen below.
 
+## Codeblock syntax
+
+The 
+
+Similar to the callout syntax, use a col codeblock to 
+
 ## Codeblock Settings Block
 All blocks have a settings header that is defined as everything above a `===` delimiter
 
