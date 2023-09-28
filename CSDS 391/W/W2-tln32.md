@@ -225,4 +225,8 @@ Because we know that that variable must have a solution within the set. It it do
 
 ## a
 
-I would likely choose a local search for CSPs, as they are fast and efficient at solving to find a solution to a problem. The constraints would be that words must fill the length of the cavity, one box can only contain a single letter
+I would likely choose a local search for CSPs, as they are fast and efficient at solving to find a solution to a problem. The constraints would be that words must fill the length of the cavity, and one box can only contain a single letter. A heuristic would be the number of letter collisions and the number of empty spaces. Local search should aim to minimize this heuristic.
+
+## b
+
+I would choose to 
