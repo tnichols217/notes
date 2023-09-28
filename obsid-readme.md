@@ -107,14 +107,9 @@ line 2
 
 The textAlign property sets the default textAlign for the column set. This value can be overridden by the individual column's textAlign setting.
 
-- "start" would left-align the colum
-- ""
-
-```col
-textAlign=start
-===
-a
-```
+- "start" or "left" would left-align the column
+- "end" or "right" would right-align the column
+- "center" wou
 
 #### Rows
 
