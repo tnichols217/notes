@@ -209,4 +209,7 @@ Similar to simulated annealing, have a temperature value that slowly decreases o
 
 ## a
 
-In minimax, MAX always assumes that MIN will play optimally, so the algorithm 
+In minimax, MAX always assumes that MIN will play optimally, so the algorithm does not account for MIN's play-style or deficiencies. So whether MAX plays an optimal MIN or a subobtimal MIN, it will still see every game tree the same regardless.
+
+## b
+
