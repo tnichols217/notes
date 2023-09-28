@@ -1,7 +1,8 @@
 # Obsidian Columns
 
 Allows you to create columns in Obsidian\
-This plugin also works on mobile with a column wrapping feature (that you can enable in settings)
+This plugin also works on mobile with a column wrapping feature (that you can enable in settings)\
+There are three main ways to utilize this plugin:
 
 ## Callout syntax
 The callout syntax uses no javascript at all, which makes it highly compatible with live preview without the use of codeblocks, this also means that the callout syntax cannot limit the height of the columns.
