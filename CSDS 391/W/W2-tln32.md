@@ -219,3 +219,4 @@ A regular MAX would not care about which action he chooses as they all have theo
 
 # 7
 
+Because we know that that variable must have a solution within the set. It it does not, then the whole set is unsolvable. If we select the variable with the smallest state space or greatest constraints, then we elimin

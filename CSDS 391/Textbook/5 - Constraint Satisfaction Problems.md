@@ -132,7 +132,7 @@ Similar to a recursive depth-first search
 #### Variable Ordering
 
 > [!def]
-> **Minimum-remaining-value (MRV) heuristic**
+> **Minimum-remaining-vriable (MRV) heuristic**
 > Pick the first variable that has the smallest possible state space so that a fail state can eliminate the tree quickly
 >
 > ---
