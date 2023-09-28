@@ -203,4 +203,4 @@ A-star uses huge amounts of memory compared to simulated annealing. A-star is no
 
 # 5
 
-Similar to simulated annealing, have a temperature value that slowly decreases over time or iterations. 
+Similar to simulated annealing, have a temperature value that slowly decreases over time or iterations. Implement a similar technique to random walk to improve the exploration of gradient ascent, where larger temperatures are more explorative and more likely to select . Once the temperature reaches 0, simply default back to 
