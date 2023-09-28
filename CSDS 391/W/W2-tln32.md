@@ -225,3 +225,4 @@ Because we know that that variable must have a solution within the set. It it do
 
 ## a
 
+I would likely choose a local search for
