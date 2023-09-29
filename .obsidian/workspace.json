@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Notes/Musical Analysis.md",
+                "file": "MUTH 104/Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Notes/Musical Analysis.md",
+                "file": "MUTH 104/Practice.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Notes/Musical Analysis.md"
+                "file": "MUTH 104/Practice.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Notes/Musical Analysis.md",
+                "file": "MUTH 104/Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,8 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "MUTH 104/Chord Listening.md",
     "MUTH 104/Notes/Musical Analysis.md",
+    "MUTH 104/Chord Listening.md",
     "MUTH 104/Notes",
     "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
     "STAT 345/Textbook/1.1 - Set Symbols.md",
