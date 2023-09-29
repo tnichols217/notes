@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/2 - Expected Values and Moments.md",
+                "file": "STAT 345/Textbook/1 - Probability Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/2 - Expected Values and Moments.md",
+                "file": "STAT 345/Textbook/1 - Probability Theory.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/2 - Expected Values and Moments.md"
+                "file": "STAT 345/Textbook/1 - Probability Theory.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/2 - Expected Values and Moments.md",
+                "file": "STAT 345/Textbook/1 - Probability Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +185,7 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "STAT 345/Textbook/2 - Expected Values and Moments.md",
     "APMusicTheory/Non-Chord Tones (NCTs).md",
     "MUTH 104/Assignments/4/4.pdf",
     "MUTH 104/Assignments/4/B.pdf",
@@ -198,7 +199,6 @@
     "MATH 223/Practice Problems/13.1.md",
     "MATH 223/Practice Problems/13.2.md",
     "MATH 223/Practice Problems/13.3.md",
-    "STAT 345/Textbook/2 - Expected Values and Moments.md",
     "obsid-readme.md",
     "obsidian-columns.md",
     "STAT 345/Textbook/1 - Probability Theory.md",
