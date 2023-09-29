@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/13.3.md",
+                "file": "MATH 223/Practice Problems/4 - Problem Set 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/13.3.md",
+                "file": "MATH 223/Practice Problems/4 - Problem Set 4.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/13.3.md"
+                "file": "MATH 223/Practice Problems/4 - Problem Set 4.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/13.3.md",
+                "file": "MATH 223/Practice Problems/4 - Problem Set 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,9 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/13.2.md",
+    "MATH 223/Practice Problems/4 - Problem Set 4.pdf",
     "MATH 223/Practice Problems/13.1.md",
+    "MATH 223/Practice Problems/13.2.md",
     "MATH 223/Practice Problems/13.3.md",
     "STAT 345/Textbook/2 - Expected Values and Moments.md",
     "obsid-readme.md",
@@ -219,7 +220,6 @@
     "STAT 345/1.4 Random Variables.md",
     "STAT 345/Textbook/1 - Set Symbols.md",
     "STAT 345/Textbook/1 - Set Theory.md",
-    "MUTH 104/Practice.md",
     "STAT 345/Homework/1.pdf",
     "STAT 345/Homework/1/2b.svg",
     "STAT 345/Homework/1/2a.svg",
