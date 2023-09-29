@@ -17,4 +17,11 @@
 - Motive transformation or pitch
 
 # Performance
-- How does 
+- How does your analysis inform a performance
+- Talk about existing performances
+
+# Other
+- Rythm+meter
+- Relate to other pieces
+- Relate to style of composer
+- What is the best/most standout part of the song
