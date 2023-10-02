@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Practice.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Practice.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Practice.md"
+                "file": "STAT 345/Textbook/3 - Common Distributions.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Practice.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +185,7 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "MUTH 104/Practice.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Textbook/3.1-3.2 - Discrete Distributions.md",
@@ -196,7 +197,6 @@
     "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
     "STAT 345/Textbook/2 - Useful Identities.md",
     "STAT 345/Textbook/2.1 - Transformations.md",
-    "MUTH 104/Practice.md",
     "MUTH 104/Notes/Musical Analysis.md",
     "MUTH 104/Chord Listening.md",
     "MUTH 104/Notes",
