@@ -28,3 +28,7 @@ $\text{Poisson}(\lambda)=\begin{cases}\frac{e^{-\lambda}\lambda^x}{x!}&,x=0,1,2,
 ## PDF
 
 $\text{Cauchy}=\frac{1}{\pi(1+x^2)}$
+
+# Binomial Distribution
+
+$$
