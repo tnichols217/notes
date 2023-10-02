@@ -2,6 +2,10 @@
 date created: 2023-10-02 10:17
 ---
 
+# Discrete Distributions
+
+
+
 # Exponential Distribution
 
 ## PDF
