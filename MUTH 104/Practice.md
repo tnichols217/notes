@@ -25,5 +25,5 @@ K:F
 X: 1
 L:1/1
 K:am
-[ace]|[K:EM][cefa]|[K:B][Bceg]|[K:FM][GBd_f]||
+[ace][GBe][]|[K:FM][GBd_f]||
 ```
