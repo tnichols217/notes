@@ -25,7 +25,7 @@ K:F
 X: 1
 L:1/1
 K:am
-"i"[ace]"V6"[^GBe]"V43/V"[^FA=B^d]"V"[EGB]||
+"i"[Ace]"V6"[^GBe]"V43/V"[^FA=B^d]"V"[EGB]||
 |[K:F]"I"[FAc]"ii"[GBd]"V7/ii"[D^FAc]"ii"[FAc]||
 |[K:em]"I"[EGB]"ii"[Ace]"V7/ii"[E^GBd]"ii"[Ace]||
 |
