@@ -11,4 +11,5 @@ $\text{Gamma}(\alpha,\beta)=\begin{cases}\frac{1}{\Gamma(\alpha)\beta^\alpha}x^{
 # Poisson Distribution
 
 For $\lambda>0$
-$\text{Poisson}(\lambda)=\begin{cases}\frac{e^{-\lambda}\lambda^x}{x!}&x\ge0\end{cases}$
+$\text{Poisson}(\lambda)=\begin{cases}\frac{e^{-\lambda}\lambda^x}{x!}&,x=0,1,2,...\\0&,\text{otherwise}\end{cases}$
+
