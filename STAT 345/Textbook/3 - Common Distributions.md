@@ -8,7 +8,7 @@ date created: 2023-10-02 10:17
 
 ### PMF
 
-$\text{Uniform}(a,b)=\begin{cases}\end{cases}$
+$\text{Uniform}(a,b)=\begin{cases}\frac{1}{b-a+1}&x=a,a+1,...,b\end{cases}$
 
 ## Poisson Distribution
 
