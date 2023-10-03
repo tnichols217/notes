@@ -21,6 +21,8 @@ $\sum\limits_{i=1}^ki=\frac{k(k+1)}{2}$
 $EX=\frac{1}{N}\frac{N(N+1)}{2}$
 $EX=\frac{N+1}{2}$
 
+### $\
+
 ### $\sigma^2$
 
 $\sum\limits_{i=1}^ki^2=\frac{k(k+1)(2k+1)}{6}$
