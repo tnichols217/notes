@@ -46,7 +46,11 @@ $\sigma^2=\frac{N^2-1}{12}$
 
 ## Bernoulli Distribution
 
-For win/loss scenarios where 1 is defined as a success and 0 is a failure. 
+For win/loss scenarios where 1 is defined as a success and 0 is a failure.
+
+### PMF
+
+$\text{Bernoulli}$
 
 ## Poisson Distribution
 
