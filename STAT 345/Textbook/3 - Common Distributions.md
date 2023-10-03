@@ -24,14 +24,14 @@ $EX=\frac{N+1}{2}$
 
 ### $\mu_2$
 
-
+$E(X^2)=\frac{(N+1)(2N+1)}{6}$
 
 #### Proof
 
 $E(X^2)=\sum\limits_{x=1}^N\frac{x^2}{N}$
 $\sum\limits_{i=1}^ki^2=\frac{k(k+1)(2k+1)}{6}$
-$EX=\frac{1}{N}\frac{N(N+1)}{2}$
-$EX=\frac{N+1}{2}$
+$E(X^2)=\frac{1}{N}\frac{N(N+1)(2N+1)}{6}$
+$E(X^2)=\frac{(N+1)(2N+1)}{6}$
 
 ### $\sigma^2$
 
