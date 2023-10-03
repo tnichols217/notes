@@ -35,12 +35,16 @@ $E(X^2)=\frac{(N+1)(2N+1)}{6}$
 
 ### $\sigma^2$
 
+$\sigma^2=\frac{N^2-1}{12}$
+
+#### Proof
+
 $\sigma^2=E(X^2)-(EX)^2$
 $\sigma^2=\frac{(N+1)(2N+1)}{6}-\frac{(N+1)^2}{4}$
-$\sigma^2=\frac{4N^2+6N+2-  (N+1)(2N+1)}{6}-\frac{(N+1)^2}{4}$
+$\sigma^2=\frac{4N^2+6N+2-3N^2-6N-3}{12}$
+$\sigma^2=\frac{N^2-1}{12}$
 
-$\sum\limits_{i=1}^ki^2=\frac{k(k+1)(2k+1)}{6}$
-$n$
+
 
 ## Poisson Distribution
 
