@@ -50,7 +50,7 @@ For win/loss scenarios where 1 is defined as a success and 0 is a failure.
 
 ### PMF
 
-$\text{Bernoulli}$
+$\text{Bernoulli}(p)=$
 
 ## Poisson Distribution
 
