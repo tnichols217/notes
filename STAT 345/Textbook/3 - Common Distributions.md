@@ -8,7 +8,7 @@ date created: 2023-10-02 10:17
 
 ### PMF
 
-
+$\text{Uniform}(a,b)=\begin{cases}\end{cases}$
 
 ## Poisson Distribution
 
