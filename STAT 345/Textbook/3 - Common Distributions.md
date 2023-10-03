@@ -10,7 +10,9 @@ date created: 2023-10-02 10:17
 
 $\text{Uniform}(a,b)=\begin{cases}\frac{1}{b-a+1}&,x=a,a+1,...,b\\0&,\text{otherwise}\end{cases}$
 
-### 
+### $\mu$
+
+$EX=\sum\limits_{i=a}^b$
 
 ## Poisson Distribution
 
