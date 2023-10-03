@@ -36,7 +36,8 @@ $E(X^2)=\frac{(N+1)(2N+1)}{6}$
 ### $\sigma^2$
 
 $\sigma^2=E(X^2)-(EX)^2$
-$\sigma^2=\frac{(N+1)(2N+1)}{6}-\frac{(N+1)}{}$
+$\sigma^2=\frac{(N+1)(2N+1)}{6}-\frac{(N+1)^2}{4}$
+$\sigma^2=\frac{4N^2+6N+2-  (N+1)(2N+1)}{6}-\frac{(N+1)^2}{4}$
 
 $\sum\limits_{i=1}^ki^2=\frac{k(k+1)(2k+1)}{6}$
 $n$
