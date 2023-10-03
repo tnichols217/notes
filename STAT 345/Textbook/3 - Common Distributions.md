@@ -44,7 +44,9 @@ $\sigma^2=\frac{(N+1)(2N+1)}{6}-\frac{(N+1)^2}{4}$
 $\sigma^2=\frac{4N^2+6N+2-3N^2-6N-3}{12}$
 $\sigma^2=\frac{N^2-1}{12}$
 
+## Bernoulli Distribution
 
+For win/loss scenarios where 1 is defined as a success and 0 is a failure. 
 
 ## Poisson Distribution
 
