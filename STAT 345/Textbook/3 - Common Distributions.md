@@ -32,7 +32,7 @@ $EX^2=\sum\limits_{x=a}^{b}\frac{x^2}{b-a+1}$
 $EX^2=\sum\limits_{x=1}^b\frac{x^2}{b-a+1}-\sum\limits_{x=1}^{a-1}\frac{x^2}{b-a+1}$
 $EX^2=\frac{b(b+1)(2b+1)}{6(b-a+1)}-\frac{a(a-1)(2a-1)}{6(b-a+1)}$
 $EX^2=\frac{b(b+1)(2b+1)-a(a-1)(2a-1)}{6(b-a+1)}$
-$EX^2=\frac{2b^3+3b^2+b-2a^3+3a^2}{6(b-a+1)}$
+$EX^2=\frac{2b^3+3b^2+b-2a^3+3a^2-a}{6(b-a+1)}$
 
 
 
