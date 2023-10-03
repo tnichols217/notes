@@ -12,7 +12,7 @@ $\text{Uniform}(a,b)=\begin{cases}\frac{1}{b-a+1}&,x=a,a+1,...,b\\0&,\text{other
 
 ### $\mu$
 
-$EX=\sum\limits_{i=a}^b$
+$EX=\sum\limits_{i=a}^b\frac{x}{b-a+1}$
 
 ## Poisson Distribution
 
