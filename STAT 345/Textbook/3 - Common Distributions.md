@@ -18,11 +18,8 @@ $EX=\frac{n+2}{2}$
 
 $EX=\sum\limits_{x=1}^N\frac{x}{N}$
 $\sum\limits_{i=1}^ki=\frac{k(k+1)}{2}$
-$EX=\frac{b(b+1)}{2(b-a+1)}-\frac{a(a-1)}{2(b-a+1)}$
-$EX=\frac{b(b+1)-a(a-1)}{2(b-a+1)}$
-$EX=\frac{b^2+b-a^2+1}{2(b-a+a)}$
-$EX=\frac{(b+a)(b-a+1)}{2(b-a+1)}$
-$EX=\frac{b+a}{2}$
+$EX=\frac{1}{N}\frac{k(k+1)}{2}$
+
 
 ### $\sigma^2$
 
