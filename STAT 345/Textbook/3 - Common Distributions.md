@@ -19,7 +19,7 @@ $EX=\frac{a+b}{2}$
 $EX=\sum\limits_{x=a}^b\frac{x}{b-a+1}$
 $EX=\sum\limits_{x=1}^b\frac{x}{b-a+1}-\sum\limits_{x=1}^{a-1}\frac{x}{b-a+1}$
 $\sum\limits_{i=1}^ki=\frac{k(k+1)}{2}$
-$EX=\frac{}{b-a+1}$
+$EX=\frac{b(b+1)}{2(b-a+1)}-\frac{a(a-1)}{2(b-a+1)}$
 
 ## Poisson Distribution
 
