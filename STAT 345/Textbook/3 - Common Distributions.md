@@ -1,5 +1,6 @@
 ---
 date created: 2023-10-02 10:17
+date updated: 2023-10-03 15:11
 ---
 
 # Discrete Distributions
@@ -21,7 +22,16 @@ $\sum\limits_{i=1}^ki=\frac{k(k+1)}{2}$
 $EX=\frac{1}{N}\frac{N(N+1)}{2}$
 $EX=\frac{N+1}{2}$
 
-### $\
+### $\mu_2$
+
+
+
+#### Proof
+
+$E(X^2)=\sum\limits_{x=1}^N\frac{x^2}{N}$
+$\sum\limits_{i=1}^ki^2=\frac{k(k+1)(2k+1)}{6}$
+$EX=\frac{1}{N}\frac{N(N+1)}{2}$
+$EX=\frac{N+1}{2}$
 
 ### $\sigma^2$
 
@@ -43,7 +53,6 @@ $\text{Poisson}(\lambda)=\begin{cases}\frac{e^{-\lambda}\lambda^x}{x!}&,x=0,1,2,
 
 For $\beta>0$
 $\text{Expo}(\beta)=\begin{cases}\frac{1}{\beta}e^{-x/\beta}&,x\ge0\\0&,x<0\end{cases}$
-
 
 ## Gamma Distribution
 
