@@ -8,11 +8,11 @@ date created: 2023-10-02 10:17
 
 ### PMF
 
-$\text{Uniform}(n)=\begin{cases}\frac{1}{n}&,x=1,2,3,.\\0&,\text{otherwise}\end{cases}$
+$\text{Uniform}(n)=\begin{cases}\frac{1}{n}&,x=1,2,3,...,n\\0&,\text{otherwise}\end{cases}$
 
 ### $\mu$
 
-$EX=\frac{a+b}{2}$
+$EX=\frac{n-1}{2}$
 
 #### Proof
 
