@@ -16,9 +16,10 @@ $EX=\frac{a+b}{2}$
 
 #### Proof
 
-$EX=\sum\limits_{i=a}^b\frac{x}{b-a+1}$
+$EX=\sum\limits_{x=a}^b\frac{x}{b-a+1}$
 Let $\tilde b=b-a+1$
-$EX=\sum\limits_{i=a}^b\frac{x}{\tilde b}$
+$EX=\sum\limits_{x=1}^{\tilde b-1}\frac{x}{\tilde b}$
+$EX$
 
 ## Poisson Distribution
 
