@@ -27,6 +27,7 @@ $EX=\frac{b+a}{2}$
 
 ### $\sigma^2$
 
+$\sum\limits_{i=1}^ki^2=\frac{k(k+1)(2k+1)}{6}$
 
 
 ## Poisson Distribution
