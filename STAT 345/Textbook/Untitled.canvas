@@ -1,6 +1,9 @@
 {
 	"nodes":[
-		{"id":"99ed4da1bbbe2296","x":-160,"y":140,"width":250,"height":60,"type":"text","text":""}
+		{"id":"99ed4da1bbbe2296","x":-200,"y":0,"width":250,"height":60,"type":"text","text":"Binomial"},
+		{"id":"31dfe12fd1a0937c","x":-60,"y":240,"width":250,"height":60,"type":"text","text":"Bernoulli"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"ff23b1b04f430c86","fromNode":"99ed4da1bbbe2296","fromSide":"bottom","toNode":"31dfe12fd1a0937c","toSide":"top","label":"a"}
+	]
 }

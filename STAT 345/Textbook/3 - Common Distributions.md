@@ -3,6 +3,8 @@ date created: 2023-10-02 10:17
 date updated: 2023-10-03 15:11
 ---
 
+![[Untitled.canvas|Untitled]]
+
 # Discrete Distributions
 
 ## Discrete Uniform Distribution
