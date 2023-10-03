@@ -52,6 +52,12 @@ For win/loss scenarios where 1 is defined as a success and 0 is a failure.
 
 $\text{Bernoulli}(p)=p^x(1-p)^{1-x}$
 
+## Binomial Distribution
+
+### PMF
+
+
+
 ## Poisson Distribution
 
 ### PMF
