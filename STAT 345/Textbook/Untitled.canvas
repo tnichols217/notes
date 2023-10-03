@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"99ed4da1bbbe2296","type":"text","text":"# Binomial","x":-200,"y":0,"width":250,"height":60},
-		{"id":"31dfe12fd1a0937c","type":"text","text":"# Bernoulli","x":-60,"y":240,"width":250,"height":60}
+		{"id":"31dfe12fd1a0937c","type":"text","text":"# Bernoulli","x":-300,"y":300,"width":250,"height":60},
+		{"id":"cba94e055bde175c","x":-50,"y":240,"width":250,"height":60,"type":"text","text":""},
+		{"id":"99ed4da1bbbe2296","type":"text","text":"# Binomial","x":-280,"y":-100,"width":400,"height":60}
 	],
 	"edges":[
-		{"id":"ff23b1b04f430c86","fromNode":"99ed4da1bbbe2296","fromSide":"bottom","toNode":"31dfe12fd1a0937c","toSide":"top","label":"a"},
-		{"id":"a5a4bf506aaea733","fromNode":"31dfe12fd1a0937c","fromSide":"top","toNode":"99ed4da1bbbe2296","toSide":"bottom"}
+		{"id":"8933c93fd959202b","fromNode":"31dfe12fd1a0937c","fromSide":"top","toNode":"99ed4da1bbbe2296","toSide":"bottom","label":"a"}
 	]
 }
