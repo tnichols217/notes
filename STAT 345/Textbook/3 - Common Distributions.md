@@ -30,7 +30,7 @@ $EX=\frac{b+a}{2}$
 $\sum\limits_{i=1}^ki^2=\frac{k(k+1)(2k+1)}{6}$
 $EX^2=\sum\limits_{x=a}^{b}\frac{x^2}{b-a+1}$
 $EX^2=\sum\limits_{x=1}^b\frac{x^2}{b-a+1}-\sum\limits_{x=1}^{a-1}\frac{x^2}{b-a+1}$
-$EX^2=\frac{b(b+1)(2b+1)}{6(b-a+1)} -  \frac{(a-1)a(2a-1)}{6(b-a+1)} \sum\limits_{x=1}^{a-1}\frac{x^2}{b-a+1}$
+$EX^2=\frac{b(b+1)(2b+1)}{6(b-a+1)}-\frac{a(a-1)(2a-1)}{6(b-a+1)}$
 
 
 
