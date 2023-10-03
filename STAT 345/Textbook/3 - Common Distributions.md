@@ -8,11 +8,11 @@ date created: 2023-10-02 10:17
 
 ### PMF
 
-$\text{Uniform}(n)=\begin{cases}\frac{1}{n}&,x=1,2,3,...,n\\0&,\text{otherwise}\end{cases}$
+$\text{Uniform}(N)=\begin{cases}\frac{1}{N}&,x=1,2,3,...,N\\0&,\text{otherwise}\end{cases}$
 
 ### $\mu$
 
-$EX=\frac{n+2}{2}$
+$EX=\frac{N+2}{2}$
 
 #### Proof
 
