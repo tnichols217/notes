@@ -38,4 +38,6 @@ Eb (G) Bb
 
 G Bb D
 C Eb G
-Eb G 
+Eb G Bb
+D (F) Ab
+Eb G Bb
