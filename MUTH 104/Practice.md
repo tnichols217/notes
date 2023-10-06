@@ -32,6 +32,10 @@ K:am
 ```
 
 Db F Ab
-Eb G Bb
-Bb D F Ab
+Eb Gb Bb
+Bb D F (Ab)
+Eb (G) Bb
 
+G Bb D
+C Eb G
+Eb G 
