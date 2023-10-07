@@ -7,9 +7,10 @@ date updated: 2023-10-03 15:11
 
 ## Discrete Uniform
 
-Given $x=1,2,...,N;$
+Given $x=1,2,...,N;\quad N=1,2,...$
 
 $P(X=x)=1/N$
+$EX=\frac{N+1}{2}$
 
 ### PMF
 
