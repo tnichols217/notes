@@ -5,6 +5,8 @@ date updated: 2023-10-03 15:11
 
 # Discrete Distributions
 
+
+
 ## Discrete Uniform
 
 Given $x=1,2,...,N;\quad N=1,2,...$
