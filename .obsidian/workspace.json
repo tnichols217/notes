@@ -11,14 +11,11 @@
             "id": "c70cea149caf3c93",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/Untitled.canvas",
-                "viewState": {
-                  "x": -104.87681749131946,
-                  "y": 85.35754311490226,
-                  "zoom": -0.13422839171707407
-                }
+                "file": "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "ff4b794bee87e419"
@@ -33,14 +30,11 @@
             "id": "7e27489a5fec85a5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/Untitled.canvas",
-                "viewState": {
-                  "x": -80,
-                  "y": -80,
-                  "zoom": -0.13422839171707407
-                }
+                "file": "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
+                "mode": "preview",
+                "source": false
               }
             },
             "group": "ff4b794bee87e419"
@@ -105,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/Untitled.canvas"
+                "file": "STAT 345/Textbook/1.4-1.6 - Random Variables.md"
               }
             }
           }
@@ -137,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/Untitled.canvas",
+                "file": "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,10 +185,12 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "STAT 345/Textbook/2 - Useful Identities.md",
+    "STAT 345/Textbook/2.1 - Transformations.md",
+    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/Untitled.canvas",
     "STAT 345/Homework/5.md",
-    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Homework/5.pdf",
     "STAT 345/Textbook/1.1 - Set Theory.md",
     "STAT 345/Textbook/1.1 - Set Symbols.md",
@@ -206,8 +202,6 @@
     "MATH 223/Practice Problems/13.2.md",
     "STAT 345/Textbook/1.2 - Probability Theory.md",
     "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
-    "STAT 345/Textbook/2 - Useful Identities.md",
-    "STAT 345/Textbook/2.1 - Transformations.md",
     "MUTH 104/Notes/Musical Analysis.md",
     "MUTH 104/Chord Listening.md",
     "MUTH 104/Notes",
