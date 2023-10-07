@@ -1,10 +1,13 @@
 {
 	"nodes":[
 		{"id":"31dfe12fd1a0937c","type":"text","text":"# Bernoulli","x":-300,"y":300,"width":250,"height":60},
-		{"id":"cba94e055bde175c","x":-50,"y":240,"width":250,"height":60,"type":"text","text":""},
-		{"id":"99ed4da1bbbe2296","type":"text","text":"# Binomial","x":-280,"y":-100,"width":400,"height":60}
+		{"id":"cba94e055bde175c","type":"text","text":"","x":-50,"y":240,"width":250,"height":60},
+		{"id":"99ed4da1bbbe2296","type":"text","text":"# Binomial","x":-280,"y":-100,"width":400,"height":60},
+		{"id":"8295a019683b8908","type":"file","file":"STAT 345/Textbook/3 - Common Distributions.md","x":-450,"y":-640,"width":490,"height":400}
 	],
 	"edges":[
-		{"id":"8933c93fd959202b","fromNode":"31dfe12fd1a0937c","fromSide":"top","toNode":"99ed4da1bbbe2296","toSide":"bottom","label":"a"}
+		{"id":"8933c93fd959202b","fromNode":"31dfe12fd1a0937c","fromSide":"top","toNode":"99ed4da1bbbe2296","toSide":"bottom","label":"a"},
+		{"id":"475c9fcbf2cea85e","fromNode":"99ed4da1bbbe2296","fromSide":"bottom","toNode":"cba94e055bde175c","toSide":"top"},
+		{"id":"6be7688746037900","fromNode":"8295a019683b8908","fromSide":"bottom","toNode":"99ed4da1bbbe2296","toSide":"top","label":"distributions"}
 	]
 }
