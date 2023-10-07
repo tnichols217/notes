@@ -7,6 +7,8 @@ date updated: 2023-10-03 15:11
 
 ## Discrete Uniform
 
+$P(X=x)=p^x($
+
 ### PMF
 
 $\text{Uniform}(N)=\begin{cases}\frac{1}{N}&,x=1,2,3,...,N\\0&,\text{otherwise}\end{cases}$
