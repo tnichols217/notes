@@ -7,7 +7,9 @@ date updated: 2023-10-03 15:11
 
 ## Discrete Uniform
 
-$P(X=x)=p^x($
+Given $x=1,2,...,N;$
+
+$P(X=x)=1/N$
 
 ### PMF
 
