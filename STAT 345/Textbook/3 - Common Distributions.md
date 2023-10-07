@@ -5,6 +5,8 @@ date updated: 2023-10-03 15:11
 
 # Discrete Distributions
 
+## Bernoulli $(p)$
+
 
 
 ## Discrete Uniform
