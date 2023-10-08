@@ -18,13 +18,16 @@ $M(t)=(1-p)+pe^t$
 
 Given $x=0,1,2,...,n;\quad 0\le p\le 1$
 
+$P(X=x)=\begin{pmatrix}n\\x\end{pmatrix}p^x(1-p)^{n-x}$
 $EX=np$
 $\sigma^2=np(1-p)$
 $M(t)=(pe^t+(1-p))^n$
 
 ## Discrete Uniform $(N)$
 
-Given $x=1,2,...,N\$
+Given $x=1,2,...,N;\quad N=1,2,...$
+
+
 
 ## Discrete Uniform
 
