@@ -134,7 +134,9 @@ $M(t)=\frac{1}{1-\beta t}$
 
 ## F $(v_1,v_2)$
 
-Given $0\le\infty;\quad v_1,v-2=1$
+Given $0\le\infty;\quad v_1,v_2=1,2,3,...$
+
+$f(x)=$
 
 ## Gamma Distribution
 
