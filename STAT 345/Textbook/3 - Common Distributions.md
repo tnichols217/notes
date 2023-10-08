@@ -209,4 +209,4 @@ Given $0\le x<\infty;\quad\gamma,\beta>0$
 $f(x)=\frac{\gamma}{\beta}x^{\gamma-1}e^{-x^\gamma/\beta}$
 $\mu=\beta^{1/\gamma}\Gamma(1+\frac{1}{\gamma})$
 $\sigma^2=\beta^{2/\gamma}(\Gamma(1+\frac{2}{\gamma})-\Gamma^2(1+\frac{1}{\gamma}))$
-
+$EX^n=\beta^{n/\gamma}\Gamma(1+\frac{n}{\gamma})$
