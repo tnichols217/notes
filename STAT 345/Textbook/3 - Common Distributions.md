@@ -83,8 +83,9 @@ $M(t)=(\frac{p}{1-(1-p)e^t})^r$
 
 Given $x=0,1,2,...;\quad0\le\lambda$
 
-$P(X-x)=\frac{e^{-\lambda}\lambda^x}{x!}$
-
+$P(X=x)=\frac{e^{-\lambda}\lambda^x}{x!}$
+$\mu=\lambda$
+$$
 
 # Continuous Distributions
 
