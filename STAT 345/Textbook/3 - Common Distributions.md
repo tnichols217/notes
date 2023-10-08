@@ -10,7 +10,7 @@ date updated: 2023-10-03 15:11
 Given $x=0,1;\quad 0\le p\le 1$
 
 $P(X=x)=p^x(1-p)^{1-x}$
-$EX=p$
+$\mu=p$
 $\sigma^2=p(1-p)$
 $M(t)=(1-p)+pe^t$
 
@@ -19,7 +19,7 @@ $M(t)=(1-p)+pe^t$
 Given $x=0,1,2,...,n;\quad 0\le p\le 1$
 
 $P(X=x)=\begin{pmatrix}n\\x\end{pmatrix}p^x(1-p)^{n-x}$
-$EX=np$
+$\mu=np$
 $\sigma^2=np(1-p)$
 $M(t)=(pe^t+(1-p))^n$
 
@@ -27,7 +27,9 @@ $M(t)=(pe^t+(1-p))^n$
 
 Given $x=1,2,...,N;\quad N=1,2,...$
 
-
+$P(X=x)=1/N$
+$\mu=\frac{N+1}{2}$
+$\sigma^2=\frac{(N+1$
 
 ## Discrete Uniform
 
