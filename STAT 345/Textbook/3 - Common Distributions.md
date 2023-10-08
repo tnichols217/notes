@@ -29,7 +29,8 @@ Given $x=1,2,...,N;\quad N=1,2,...$
 
 $P(X=x)=1/N$
 $\mu=\frac{N+1}{2}$
-$\sigma^2=\frac{(N+1$
+$\sigma^2=\frac{(N+1)(N-1)}{12}$
+$M(t)=\frac{1}{N}\sum\limits_{i=1}^Ne^{it}$
 
 ## Discrete Uniform
 
