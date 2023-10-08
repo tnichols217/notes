@@ -90,9 +90,11 @@ $M(t)=e^{\lambda(e^t-1)}$
 
 # Continuous Distributions
 
-## Exponential Distribution
+## Beta $(\alpha,\beta)$
 
-### PDF
+Given $0\le x\le 1;\quad \alpha>0;\quad \bet$
+
+## Exponential Distribution
 
 For $\beta>0$
 $\text{Expo}(\beta)=\begin{cases}\frac{1}{\beta}e^{-x/\beta}&,x\ge0\\0&,x<0\end{cases}$
