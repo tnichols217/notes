@@ -191,4 +191,8 @@ Given $-\infty<x<\infty;\quad v=1,2,3,...$
 $f(x)=\frac{\Gamma(\frac{v+1}{2})}{\Gamma(\frac{v}{2})}\frac{1}{\sqrt{v\pi}}\frac{1}{(1+(\frac{x^2}{v}))^{(v+1)/2}}$
 $\mu=0\quad;v>1$
 $\sigma^2=\frac{v}{v-2}\quad;v>2$
-$MX^n=\begin{cases}\frac{\Gamma(\frac{n+1}{2})\Gamma(\frac{v-n}{2})}{\sqrt{\pi}\Gamma(v/2)}v^{n/2}&n<v;n\text{ is even}\\0&\end{cases}$
+$MX^n=\begin{cases}\frac{\Gamma(\frac{n+1}{2})\Gamma(\frac{v-n}{2})}{\sqrt{\pi}\Gamma(v/2)}v^{n/2}&n<v;n\text{ is even}\\0&n<v;n\text{ is odd}\end{cases}$
+
+## Uniform $(a,b)$
+
+$f(x)
