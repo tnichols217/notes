@@ -74,7 +74,8 @@ $\sigma^2=\frac{KM(N-M)(N-K)}{N^2(N-1)}$
 
 Given $x=0,1,2,...;\quad0\le p\le1$
 
-$P(X=x)=\begin{pmatrix}r+x-1\\x\end{pmatrix}p^r$
+$P(X=x)=\begin{pmatrix}r+x-1\\x\end{pmatrix}p^r(1-p)^x$
+$\mu=\frac{r(1-p)}{}$
 
 ## Poisson Distribution
 
