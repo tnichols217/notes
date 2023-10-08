@@ -53,7 +53,14 @@ $\sigma^2=\frac{(N+1)(2N+1)}{6}-\frac{(N+1)^2}{4}$
 $\sigma^2=\frac{4N^2+6N+2-3N^2-6N-3}{12}$
 $\sigma^2=\frac{N^2-1}{12}$
 
-## 
+## Geometric $(p)$
+
+Given $x=1,2,...;\quad N=1,2,...$
+
+$P(X=x)=1/N$
+$\mu=\frac{N+1}{2}$
+$\sigma^2=\frac{(N+1)(N-1)}{12}$
+$M(t)=\frac{1}{N}\sum\limits_{i=1}^Ne^{it}$
 
 ## Poisson Distribution
 
