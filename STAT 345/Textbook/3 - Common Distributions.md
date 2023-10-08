@@ -118,6 +118,10 @@ $M(t)=(\frac{1}{1-2t})^{p/2}$
 
 Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad \sigma>0$
 
+$f(x)=\frac{e^{-|x-\mu|/\sigma}}{2\sigma}$
+$\mu=\mu$
+$\sigma^2$
+
 ## Exponential Distribution
 
 For $\beta>0$
