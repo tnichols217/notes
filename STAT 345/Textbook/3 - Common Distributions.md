@@ -136,7 +136,7 @@ $M(t)=\frac{1}{1-\beta t}$
 
 Given $0\le\infty;\quad v_1,v_2=1,2,3,...$
 
-$f(x)=\frac{\Gamma(\frac{v_1+v_2}{2})}{\Gamma(\frac{v_1}{2})\Gamma()}$
+$f(x)=\frac{\Gamma(\frac{v_1+v_2}{2})}{\Gamma(\frac{v_1}{2})\Gamma(\frac{v_2}{2})}(\frac{v_1}{v_2})^{v_1/2}\frac{x^(v_1-2)/2}{(1+(\frac{v_1}{v_2}))}$
 
 ## Gamma Distribution
 
