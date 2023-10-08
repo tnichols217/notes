@@ -94,7 +94,7 @@ $M(t)=e^{\lambda(e^t-1)}$
 
 Given $0\le x\le 1;\quad \alpha>0;\quad \beta>0$
 
-
+$$
 
 ## Exponential Distribution
 
