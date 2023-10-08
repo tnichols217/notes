@@ -178,4 +178,4 @@ $\sigma^2=\sigma^2$
 
 ## Paretto $(\alpha,\beta)$
 
-
+Given $a<x<\infty;\quad $
