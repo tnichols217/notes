@@ -132,6 +132,10 @@ $\mu=\beta$
 $\sigma^2=\beta^2$
 $M(t)=\frac{1}{1-\beta t}$
 
+## F $(v_1,v_2)$
+
+Given $0\le\infty;\quad v_1,v-2=1$
+
 ## Gamma Distribution
 
 ### PDF
