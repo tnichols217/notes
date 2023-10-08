@@ -19,7 +19,11 @@ $M(t)=(1-p)+pe^t$
 Given $x=0,1,2,...,n;\quad 0\le p\le 1$
 $EX=np$
 $\sigma^2=np(1-p)$
-$M(t)=(pe^t+(1-p)$
+$M(t)=(pe^t+(1-p))^n$
+
+## Discrete Uniform $(N)$
+
+
 
 ## Discrete Uniform
 
