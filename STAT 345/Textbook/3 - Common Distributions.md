@@ -156,4 +156,4 @@ Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad\beta>0$
 
 $f(x)=\frac{e^{-(x-\mu)/\beta}}{\beta(1+e^{-(x-\mu)/\beta)})^2}$
 $\mu=\mu$
-$\sigma^2=$
+$\sigma^2=\frac{}{}$
