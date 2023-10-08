@@ -164,4 +164,5 @@ $M(t)=e^{\mu t}\Gamma(1+\beta t)$
 Given $0\le x<\infty;\quad -\infty<\mu<\infty;\quad \sigma>0$
 
 $f(x)=\frac{1}{\sqrt{2\pi}\sigma}\frac{e^{-(\log x-\mu)^2/(2\sigma^2)}}{x}$
-$\mu=e^{}$
+$\mu=e^{\mu+(\sigma^2/2)}$
+$\sigma^2=e^{2()}$
