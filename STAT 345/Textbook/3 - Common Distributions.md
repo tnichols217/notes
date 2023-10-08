@@ -77,7 +77,7 @@ Given $x=0,1,2,...;\quad0\le p\le1$
 $P(X=x)=\begin{pmatrix}r+x-1\\x\end{pmatrix}p^r(1-p)^x$
 $\mu=\frac{r(1-p)}{p}$
 $\sigma^2=\frac{r(1-p)}{p^2}$
-$M(t)=(\frac{p}{1-(1-p)e^t})$
+$M(t)=(\frac{p}{1-(1-p)e^t})^r$
 
 ## Poisson Distribution
 
