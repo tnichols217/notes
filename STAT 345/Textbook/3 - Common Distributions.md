@@ -58,9 +58,9 @@ $\sigma^2=\frac{N^2-1}{12}$
 Given $x=1,2,...;\quad 0\le p\le 1$
 
 $P(X=x)=p(1-p)^{x-1}$
-$\mu=\frac{N+1}{2}$
-$\sigma^2=\frac{(N+1)(N-1)}{12}$
-$M(t)=\frac{1}{N}\sum\limits_{i=1}^Ne^{it}$
+$\mu=1/p$
+$\sigma^2=\frac{1-p}{p^2}$
+$M(t)=\frac{pe^t}{1-(1-p)}$
 
 ## Poisson Distribution
 
