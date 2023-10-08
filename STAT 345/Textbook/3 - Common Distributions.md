@@ -16,7 +16,10 @@ $M(t)=(1-p)+pe^t$
 
 ## Binomial $(n,p)$
 
-Given $x=0,1,2,...,n;\quad 0\l;$
+Given $x=0,1,2,...,n;\quad 0\le p\le 1$
+$EX=np$
+$\sigma^2=np(1-p)$
+$M(t)=(pe^t+(1-p)$
 
 ## Discrete Uniform
 
