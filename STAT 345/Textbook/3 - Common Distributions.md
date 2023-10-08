@@ -64,9 +64,11 @@ $M(t)=\frac{pe^t}{1-(1-p)e^t}$
 
 ## Hypergeometric $(N,K,M)$
 
-Given $x=0,1,2,...,K;\quad M-(N-K)\le x\le M;\quad N,K,K$
+Given $x=0,1,2,...,K;\quad M-(N-K)\le x\le M;\quad N,M,K=0,1,2,...$
 
 $P(X-x)=\frac{\begin{pmatrix}M\\x\end{pmatrix}\begin{pmatrix}N-M\\K-x\end{pmatrix}}{\begin{pmatrix}N\\K\end{pmatrix}}$
+$\mu=KM/N$
+$\sigma^2=$
 
 ## Poisson Distribution
 
