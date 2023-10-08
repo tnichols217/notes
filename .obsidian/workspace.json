@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md"
+                "file": "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "file": "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,10 +220,10 @@
       }
     ]
   },
-  "active": "c70cea149caf3c93",
+  "active": "e0ff91ed43ad0dd2",
   "lastOpenFiles": [
-    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
+    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Textbook/2.4 - Leibnitz's Rule.md",
     "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
     "STAT 345/Textbook/2 - Useful Identities.md",
