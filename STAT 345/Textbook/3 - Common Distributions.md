@@ -105,7 +105,11 @@ Given $-\infty<x<\infty;\quad-\infty<\theta<\infty;\quad\sigma>0$
 
 $f(x)=\frac{1}{\pi\sigma(1+(\frac{x-\theta}{\sigma})^2)}$
 
-## Chi squared $$
+## Chi squared $(p)$
+
+Given $0\le x<\infty;\quad p=1,2,3,...$
+
+$f(x)=\frac$
 
 ## Exponential Distribution
 
