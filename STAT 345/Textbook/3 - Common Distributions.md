@@ -109,7 +109,8 @@ $f(x)=\frac{1}{\pi\sigma(1+(\frac{x-\theta}{\sigma})^2)}$
 
 Given $0\le x<\infty;\quad p=1,2,3,...$
 
-$f(x)=\frac$
+$f(x)=\frac{x^{p/2-1}e^{-x/2}}{\Gamma(p/2)2^{p/2}}$
+$\mu=p$
 
 ## Exponential Distribution
 
