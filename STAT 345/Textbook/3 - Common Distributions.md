@@ -96,6 +96,7 @@ Given $0\le x\le 1;\quad \alpha>0;\quad \beta>0$
 
 $f(x)=\frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha,\beta)}$
 
+
 ## Cauchy $(\theta,\sigma)$
 
 $f(x)=\frac{1}{\pi\sigma(1+(\frac{x-\theta}{}))}$
