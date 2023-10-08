@@ -178,4 +178,7 @@ $\sigma^2=\sigma^2$
 
 ## Paretto $(\alpha,\beta)$
 
-Given $a<x<\infty;\quad $
+Given $a<x<\infty;\quad \alpha,\beta>0$
+
+$f(x)=\frac{\beta\alpha^\beta}{x^{\beta+1}}$
+$\mu
