@@ -143,13 +143,5 @@ $EX^n=\frac{\Gamma(\frac{v_1+2n}{2})\Gamma(\frac{v_2-2n}{2})}{\Gamma(v_1/2)\Gamm
 
 ## Gamma Distribution
 
-### PDF
-
-For $\alpha>0,\beta>0$
+Given $\alpha>0,\beta>0$
 $\text{Gamma}(\alpha,\beta)=\begin{cases}\frac{1}{\Gamma(\alpha)\beta^\alpha}x^{\alpha-1}e^{-x/\beta}&,x\ge0\\0&,x<0\end{cases}$
-
-## Cauchy Distribution
-
-### PDF
-
-$\text{Cauchy}=\frac{1}{\pi(1+x^2)}$
