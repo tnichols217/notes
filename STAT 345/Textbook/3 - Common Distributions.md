@@ -157,4 +157,4 @@ Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad\beta>0$
 $f(x)=\frac{e^{-(x-\mu)/\beta}}{\beta(1+e^{-(x-\mu)/\beta)})^2}$
 $\mu=\mu$
 $\sigma^2=\frac{\pi^2\beta^2}{3}$
-
+$M(t)=e^{\mu t}\Gamma(1+\beta t)$
