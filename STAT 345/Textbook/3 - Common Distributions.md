@@ -55,7 +55,7 @@ $\sigma^2=\frac{N^2-1}{12}$
 
 ## Geometric $(p)$
 
-Given $x=1,2,...;\quad N=1,2,...$
+Given $x=1,2,...;\quad 0\le p\le 1$
 
 $P(X=x)=1/N$
 $\mu=\frac{N+1}{2}$
