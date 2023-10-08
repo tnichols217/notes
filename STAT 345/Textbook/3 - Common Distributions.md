@@ -72,7 +72,7 @@ $\sigma^2=\frac{KM(N-M)(N-K)}{N^2(N-1)}$
 
 ## Negative Binomial $(r,p)$
 
-
+Given $$
 
 ## Poisson Distribution
 
