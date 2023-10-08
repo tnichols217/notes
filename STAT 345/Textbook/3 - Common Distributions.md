@@ -94,6 +94,10 @@ $M(t)=e^{\lambda(e^t-1)}$
 
 Given $0\le x\le 1;\quad \alpha>0;\quad \beta>0$
 
+$f(x)=\frac{1}{B()}$
+
+## Cauchy $(\theta,\sigma)$
+
 $f(x)=\frac{1}{\pi\sigma(1+(\frac{x-\theta}{}))}$
 
 ## Exponential Distribution
