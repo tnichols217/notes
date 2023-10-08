@@ -181,4 +181,7 @@ $\sigma^2=\sigma^2$
 Given $a<x<\infty;\quad \alpha,\beta>0$
 
 $f(x)=\frac{\beta\alpha^\beta}{x^{\beta+1}}$
-$\mu
+$\mu=\frac{\beta\alpha}{\beta-1}$
+$\sigma^2=\frac{\beta\alpha^2}{(\beta-1)^2(\beta-2)}\quad;\beta>2$
+
+
