@@ -138,7 +138,7 @@ Given $0\le\infty;\quad v_1,v_2=1,2,3,...$
 
 $f(x)=\frac{\Gamma(\frac{v_1+v_2}{2})}{\Gamma(\frac{v_1}{2})\Gamma(\frac{v_2}{2})}(\frac{v_1}{v_2})^{v_1/2}\frac{x^(v_1-2)/2}{(1+\frac{v_1x}{v_2})^{(v_1+v_2)/2}}$
 $\mu=\frac{v_2}{v_2-2}$
-$\sigma^2=2(\frac{v_2}{v_2-2})^2\frac{}{}$
+$\sigma^2=2(\frac{v_2}{v_2-2})^2\frac{v_1+v_2-2}{v_1(v_2-4)}$
 
 ## Gamma Distribution
 
