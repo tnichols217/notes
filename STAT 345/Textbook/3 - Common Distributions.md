@@ -154,4 +154,4 @@ $M(t)=(\frac{1}{1-\beta t})^\alpha$
 
 Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad\beta>0$
 
-$f(x)=$
+$f(x)=\frac{1}{\beta}\frac{e^{-(x-\mu)/\beta}}{}$
