@@ -129,7 +129,8 @@ Given $0\le x<\infty;\quad \beta>0$
 
 $f(x)=\frac{e^{-x/\beta}}{\beta}$
 $\mu=\beta$
-$\sigma$
+$\sigma^2=\beta^2$
+$M(t)=\frac{1}{1-\beta t}$
 
 ## Gamma Distribution
 
