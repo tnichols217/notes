@@ -68,7 +68,11 @@ Given $x=0,1,2,...,K;\quad M-(N-K)\le x\le M;\quad N,M,K=0,1,2,...$
 
 $P(X-x)=\frac{\begin{pmatrix}M\\x\end{pmatrix}\begin{pmatrix}N-M\\K-x\end{pmatrix}}{\begin{pmatrix}N\\K\end{pmatrix}}$
 $\mu=KM/N$
-$\sigma^2=\frac{KM(N-K)(N-K)}{}$
+$\sigma^2=\frac{KM(N-M)(N-K)}{N^2(N-1)}$
+
+## Negative Binomial $(r,p)$
+
+
 
 ## Poisson Distribution
 
