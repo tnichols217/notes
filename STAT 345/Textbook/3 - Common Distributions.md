@@ -114,13 +114,14 @@ $\mu=p$
 $\sigma^2=2p$
 $M(t)=(\frac{1}{1-2t})^{p/2}$
 
-## Double Exponential
+## Double Exponential $(\mu,\sigma)$
 
 Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad \sigma>0$
 
 $f(x)=\frac{e^{-|x-\mu|/\sigma}}{2\sigma}$
 $\mu=\mu$
-$\sigma^2$
+$\sigma^2=2\sigma^2$
+$M(t)=\frac{e^{\mu t}}{1-(\sigma)}$
 
 ## Exponential Distribution
 
