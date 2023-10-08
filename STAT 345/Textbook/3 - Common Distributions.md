@@ -74,7 +74,7 @@ $\sigma^2=\frac{KM(N-M)(N-K)}{N^2(N-1)}$
 
 Given $x=0,1,2,...;\quad0\le p\le1$
 
-$P(X=x)
+$P(X=x)=$
 
 ## Poisson Distribution
 
