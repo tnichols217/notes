@@ -101,7 +101,7 @@ $M(t)=1+\sum\limits_{k=1}^\infty\frac{t^k}{k!}\prod\limits_{r=0}^{k-1}\frac{a+r}
 
 ## Cauchy $(\theta,\sigma)$
 
-Given $-\infty<x<\infty$
+Given $-\infty<x<\infty;\quad-\infty<\theta<\infty;\quad\sigma>0$
 
 $f(x)=\frac{1}{\pi\sigma(1+(\frac{x-\theta}{\sigma})^2)}$
 
