@@ -92,7 +92,7 @@ $M(t)=e^{\lambda(e^t-1)}$
 
 ## Beta $(\alpha,\beta)$
 
-Given $0\le x\le 1;\quad \alpha>0;\quad \bet$
+Given $0\le x\le 1;\quad \alpha>0;\quad \beta>0$
 
 ## Exponential Distribution
 
