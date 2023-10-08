@@ -8,7 +8,7 @@ date updated: 2023-10-03 15:11
 ## Bernoulli $(p)$
 
 Given $x=0,1;\quad 0\le p\le 1$
-P()
+$P()$
 
 
 ## Discrete Uniform
