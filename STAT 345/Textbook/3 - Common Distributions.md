@@ -62,6 +62,8 @@ $\mu=1/p$
 $\sigma^2=\frac{1-p}{p^2}$
 $M(t)=\frac{pe^t}{1-(1-p)e^t}$
 
+## Hypergeometric $(N,K<)$
+
 ## Poisson Distribution
 
 ### PMF
