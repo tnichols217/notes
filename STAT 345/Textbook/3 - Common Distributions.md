@@ -144,4 +144,5 @@ $EX^n=\frac{\Gamma(\frac{v_1+2n}{2})\Gamma(\frac{v_2-2n}{2})}{\Gamma(v_1/2)\Gamm
 ## Gamma Distribution $(\alpha,\beta)$
 
 Given $0\le x<\infty;\quad \alpha,\beta>0$
+
 $\text{Gamma}(\alpha,\beta)=\begin{cases}\frac{1}{\Gamma(\alpha)\beta^\alpha}x^{\alpha-1}e^{-x/\beta}&,x\ge0\\0&,x<0\end{cases}$
