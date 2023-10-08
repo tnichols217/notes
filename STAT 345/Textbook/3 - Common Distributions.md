@@ -85,7 +85,8 @@ Given $x=0,1,2,...;\quad0\le\lambda$
 
 $P(X=x)=\frac{e^{-\lambda}\lambda^x}{x!}$
 $\mu=\lambda$
-$$
+$\sigma^2=\lambda$
+$M(t)=e^{\lambda(e^t-1)}$
 
 # Continuous Distributions
 
