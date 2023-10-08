@@ -148,4 +148,10 @@ Given $0\le x<\infty;\quad \alpha,\beta>0$
 $f(x)=\frac{x^{\alpha-1}e^{-x/\beta}}{\Gamma(\alpha)\beta^\alpha}$
 $\mu=\alpha\beta$
 $\sigma^2=\alpha\beta^2$
-$M(t)=(\frac{1}{})$
+$M(t)=(\frac{1}{1-\beta t})^\alpha$
+
+## Logistic $(\mu,\beta)$
+
+Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad\beta>0$
+
+$f(x)=$
