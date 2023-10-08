@@ -188,4 +188,6 @@ $\sigma^2=\frac{\beta\alpha^2}{(\beta-1)^2(\beta-2)}\quad;\beta>2$
 
 Given $-\infty<x<\infty;\quad v=1,2,3,...$
 
-$f(x)=\frac{\Gamma(\frac{v+1}{2})}{\Gamma(\frac{v}{2})}\frac{1}{\sqrt{v\pi}}\frac{1}{(1+())}$
+$f(x)=\frac{\Gamma(\frac{v+1}{2})}{\Gamma(\frac{v}{2})}\frac{1}{\sqrt{v\pi}}\frac{1}{(1+(\frac{x^2}{v}))^{(v+1)/2}}$
+$\mu=0\quad;v>1$
+$\sigma^2=\frac{}{}$
