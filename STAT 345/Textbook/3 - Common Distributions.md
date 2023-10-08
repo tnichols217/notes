@@ -204,4 +204,6 @@ $M(t)=\frac{e^{bt}-e^{at}}{t(b-a)}$
 
 ## Weibull $(\gamma,\beta)$
 
-Given $0\le x<\infty;\quad$
+Given $0\le x<\infty;\quad\gamma,\beta>0$
+
+$f(x)=$
