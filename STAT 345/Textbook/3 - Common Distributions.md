@@ -127,7 +127,7 @@ $M(t)=\frac{e^{\mu t}}{1-(\sigma t)^2}$
 
 Given $\beta>0$
 
-
+$f(x)=\frac{e^{-x/\beta}}{\beta}$
 
 ## Gamma Distribution
 
