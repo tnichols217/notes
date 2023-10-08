@@ -114,7 +114,9 @@ $\mu=p$
 $\sigma^2=2p$
 $M(t)=(\frac{1}{1-2t})^{p/2}$
 
-## Double E
+## Double Exponential
+
+Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad \sigma>0$
 
 ## Exponential Distribution
 
