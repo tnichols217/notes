@@ -13,6 +13,10 @@ $P(X=x)=p^x(1-p)^{1-x}$
 
 $EX=p$
 
+$\sigma^2=p(1-p)$
+
+$M($
+
 ## Discrete Uniform
 
 Given $x=1,2,...,N;\quad N=1,2,...$
