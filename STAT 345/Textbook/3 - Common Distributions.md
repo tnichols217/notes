@@ -175,3 +175,7 @@ Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad\sigma>0$
 $f(x)=\frac{e^{-(x-\mu)^2/(2\sigma^2)}}{\sqrt{2\pi}\sigma}$
 $\mu=\mu$
 $\sigma^2=\sigma^2$
+
+## Paretto $(\alpha,\beta)$
+
+
