@@ -82,7 +82,9 @@ $M(t)=(\frac{p}{1-(1-p)e^t})^r$
 ## Poisson Distribution
 
 Given $x=0,1,2,...;\quad0\le\lambda$
-$\text{Poisson}(\lambda)=\begin{cases}\frac{e^{-\lambda}\lambda^x}{x!}&,x=0,1,2,...\\0&,\text{otherwise}\end{cases}$
+
+$P(X-x)=\frac{e^{-\lambda}\lambda^x}{x!}$
+
 
 # Continuous Distributions
 
