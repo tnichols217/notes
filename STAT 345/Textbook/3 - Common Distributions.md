@@ -207,3 +207,4 @@ $M(t)=\frac{e^{bt}-e^{at}}{t(b-a)}$
 Given $0\le x<\infty;\quad\gamma,\beta>0$
 
 $f(x)=\frac{\gamma}{\beta}x^{\gamma-1}e^{-x^\gamma/\beta}$
+$\mu=\beta^{1/\gamma}\Gamma(1+)$
