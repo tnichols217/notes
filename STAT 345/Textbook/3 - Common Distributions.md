@@ -96,7 +96,8 @@ Given $0\le x\le 1;\quad \alpha>0;\quad \beta>0$
 
 $f(x)=\frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha,\beta)}$
 $\mu=\frac{\alpha}{\alpha+\beta}$
-$\sigma^2=\frac{\alpha\beta}{(\alpha+\beta)^2(\alpha+)}$
+$\sigma^2=\frac{\alpha\beta}{(\alpha+\beta)^2(\alpha+\beta+1)}$
+$M(t)=1+\sum\limits_{k=1}^\infty$
 
 ## Cauchy $(\theta,\sigma)$
 
