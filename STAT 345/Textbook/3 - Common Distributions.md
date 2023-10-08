@@ -199,4 +199,7 @@ Given $a\le x\le b$
 
 $f(x)=\frac{1}{b-a}$
 $\mu=\frac{b+a}{2}$
-$\sigma^2=\frac{(b-a)^2}{2}$
+$\sigma^2=\frac{(b-a)^2}{12}$
+$M(t)=\frac{e^{bt}-e^{at}}{t(b-a)}$
+
+## Weibull $(\)$
