@@ -32,22 +32,7 @@ $\mu=\frac{N+1}{2}$
 $\sigma^2=\frac{(N+1)(N-1)}{12}$
 $M(t)=\frac{1}{N}\sum\limits_{i=1}^Ne^{it}$
 
-## Discrete Uniform
-
-Given $x=1,2,...,N;\quad N=1,2,...$
-
-$P(X=x)=1/N$
-$EX=\frac{N+1}{2}$
-
-### PMF
-
-$\text{Uniform}(N)=\begin{cases}\frac{1}{N}&,x=1,2,3,...,N\\0&,\text{otherwise}\end{cases}$
-
 ### $\mu$
-
-$EX=\frac{N+2}{2}$
-
-#### Proof
 
 $EX=\sum\limits_{x=1}^N\frac{x}{N}$
 $\sum\limits_{i=1}^ki=\frac{k(k+1)}{2}$
