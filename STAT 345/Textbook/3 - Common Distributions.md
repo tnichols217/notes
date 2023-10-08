@@ -195,4 +195,8 @@ $MX^n=\begin{cases}\frac{\Gamma(\frac{n+1}{2})\Gamma(\frac{v-n}{2})}{\sqrt{\pi}\
 
 ## Uniform $(a,b)$
 
-$f(x)
+Given $a\le x\le b$
+
+$f(x)=\frac{1}{b-a}$
+$\mu=\frac{b+a}{2}$
+$\sigma^2=\frac{(b-a)^2}{2}$
