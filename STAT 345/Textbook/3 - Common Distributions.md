@@ -141,7 +141,7 @@ $\mu=\frac{v_2}{v_2-2}$
 $\sigma^2=2(\frac{v_2}{v_2-2})^2\frac{v_1+v_2-2}{v_1(v_2-4)}$
 $EX^n=\frac{\Gamma(\frac{v_1+2n}{2})\Gamma(\frac{v_2-2n}{2})}{\Gamma(v_1/2)\Gamma(v_2/2)}(\frac{v_2}{v_1})^n\quad;n<\frac{v_2}{2}$
 
-## Gamma Distribution
+## Gamma Distribution $(\alpha,\beta)$
 
 Given $\alpha>0,\beta>0$
 $\text{Gamma}(\alpha,\beta)=\begin{cases}\frac{1}{\Gamma(\alpha)\beta^\alpha}x^{\alpha-1}e^{-x/\beta}&,x\ge0\\0&,x<0\end{cases}$
