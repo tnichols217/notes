@@ -64,7 +64,7 @@ $M(t)=\frac{pe^t}{1-(1-p)e^t}$
 
 ## Hypergeometric $(N,K,M)$
 
-$P(X-x)=$
+$P(X-x)=\frac{\begin{pmatrix}M\\x\end{pmatrix}}{}$
 
 ## Poisson Distribution
 
