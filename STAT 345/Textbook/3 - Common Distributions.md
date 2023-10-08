@@ -121,12 +121,13 @@ Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad \sigma>0$
 $f(x)=\frac{e^{-|x-\mu|/\sigma}}{2\sigma}$
 $\mu=\mu$
 $\sigma^2=2\sigma^2$
-$M(t)=\frac{e^{\mu t}}{1-(\sigma)}$
+$M(t)=\frac{e^{\mu t}}{1-(\sigma t)^2}$
 
-## Exponential Distribution
+## Exponential $\beta$
 
-For $\beta>0$
-$\text{Expo}(\beta)=\begin{cases}\frac{1}{\beta}e^{-x/\beta}&,x\ge0\\0&,x<0\end{cases}$
+Given $\beta>0$
+
+
 
 ## Gamma Distribution
 
