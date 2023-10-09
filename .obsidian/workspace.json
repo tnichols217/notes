@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/1.2 - Probability Theory.md",
+                "file": "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/1.2 - Probability Theory.md",
+                "file": "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/1.2 - Probability Theory.md"
+                "file": "STAT 345/Textbook/1.4-1.6 - Random Variables.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/1.2 - Probability Theory.md",
+                "file": "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,6 +222,7 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "STAT 345/Textbook/1.2 - Probability Theory.md",
     "STAT 345/Textbook/1.1 - Set Theory.md",
     "STAT 345/Textbook/1.1 - Set Symbols.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
@@ -238,7 +239,6 @@
     "MUTH 104/Practice.md",
     "STAT 345/Textbook/3.1-3.2 - Discrete Distributions.md",
     "MATH 223/Practice Problems/13.2.md",
-    "STAT 345/Textbook/1.2 - Probability Theory.md",
     "MUTH 104/Notes/Musical Analysis.md",
     "MUTH 104/Chord Listening.md",
     "MUTH 104/Notes",
