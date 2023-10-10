@@ -54,7 +54,7 @@ Given $x=0,1,2,...,K;\quad M-(N-K)\le x\le M;\quad N,M,K=0,1,2,...$
 - $N$ is the population size
 - $M$ is the number of samples in the population with a certain trait
 - $K$ number of samples taken in a round of sampling
-- Predicts the likelihood of selecting $K$ samples of type $M$ from population $N$
+- Predicts the likelihood of selecting $X$ samples of type $M$ after selecting $K$ samples from population $N$
 
 $P(X-x)=\frac{\begin{pmatrix}M\\x\end{pmatrix}\begin{pmatrix}N-M\\K-x\end{pmatrix}}{\begin{pmatrix}N\\K\end{pmatrix}}$
 $\mu=KM/N$
