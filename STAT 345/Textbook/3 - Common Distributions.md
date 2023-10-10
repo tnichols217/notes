@@ -26,7 +26,7 @@ $M(t)=(pe^t+(1-p))^n$
 ## Discrete Uniform $(N)$
 
 Given $x=1,2,...,N;\quad N=1,2,...$
-- Where $N$ is the largest possible sample
+- $N$ is the largest possible sample
 - All numbers from $1$ to $N$ are equally likely
 
 $P(X=x)=1/N$
@@ -45,6 +45,8 @@ $M(t)=\frac{pe^t}{1-(1-p)e^t}$
 ## Hypergeometric $(N,K,M)$
 
 Given $x=0,1,2,...,K;\quad M-(N-K)\le x\le M;\quad N,M,K=0,1,2,...$
+- $N$ is the population size
+- $M$ are the number of samples
 
 $P(X-x)=\frac{\begin{pmatrix}M\\x\end{pmatrix}\begin{pmatrix}N-M\\K-x\end{pmatrix}}{\begin{pmatrix}N\\K\end{pmatrix}}$
 $\mu=KM/N$
