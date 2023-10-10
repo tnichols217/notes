@@ -20,7 +20,8 @@ $M(t)=(1-p)+pe^t$
 
 Given $x=0,1,2,...,n;\quad 0\le p\le 1$
 - $p$ is probability of selecting a particular trait
-- $n$ is 
+- $n$ is number of samples in a round of sampling
+- 
 
 $P(X=x)=\begin{pmatrix}n\\x\end{pmatrix}p^x(1-p)^{n-x}$
 $\mu=np$
