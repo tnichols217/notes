@@ -8,7 +8,8 @@ date updated: 2023-10-03 15:11
 ## Bernoulli $(p)$
 
 Given $x=0,1;\quad 0\le p\le 1$
-- $p$ is the probability of 
+- $p$ is the probability of getting selected traid
+- 
 
 $P(X=x)=p^x(1-p)^{1-x}$
 $\mu=p$
