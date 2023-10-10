@@ -8,7 +8,7 @@ date updated: 2023-10-03 15:11
 ## Bernoulli $(p)$
 
 Given $x=0,1;\quad 0\le p\le 1$
-- $p$ is the probability of getting selected traid
+- $p$ is the probability of getting selected trait
 - Has $p$ probability of being $1$ and $1-p$ probability of being $0$
 
 $P(X=x)=p^x(1-p)^{1-x}$
