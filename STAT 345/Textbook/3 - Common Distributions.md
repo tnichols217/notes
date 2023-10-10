@@ -72,7 +72,7 @@ $\mu=\frac{r(1-p)}{p}$
 $\sigma^2=\frac{r(1-p)}{p^2}$
 $M(t)=(\frac{p}{1-(1-p)e^t})^r$
 
-## Poisson Distribution
+## Poisson Distribution $(\lambda)$
 
 Given $x=0,1,2,...;\quad0\le\lambda$
 - $\lambda$ is the number of times on average an event will happen within an interval
