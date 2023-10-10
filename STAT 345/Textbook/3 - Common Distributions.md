@@ -26,33 +26,12 @@ $M(t)=(pe^t+(1-p))^n$
 ## Discrete Uniform $(N)$
 
 Given $x=1,2,...,N;\quad N=1,2,...$
+Where $N$ is 
 
 $P(X=x)=1/N$
 $\mu=\frac{N+1}{2}$
 $\sigma^2=\frac{(N+1)(N-1)}{12}$
 $M(t)=\frac{1}{N}\sum\limits_{i=1}^Ne^{it}$
-
-### $\mu$
-
-$EX=\sum\limits_{x=1}^N\frac{x}{N}$
-$\sum\limits_{i=1}^ki=\frac{k(k+1)}{2}$
-$EX=\frac{1}{N}\frac{N(N+1)}{2}$
-$EX=\frac{N+1}{2}$
-
-### $\mu_2$
-
-$E(X^2)=\sum\limits_{x=1}^N\frac{x^2}{N}$
-$\sum\limits_{i=1}^ki^2=\frac{k(k+1)(2k+1)}{6}$
-$E(X^2)=\frac{1}{N}\frac{N(N+1)(2N+1)}{6}$
-$E(X^2)=\frac{(N+1)(2N+1)}{6}$
-
-### $\sigma^2$
-
-$\sigma^2=E(X^2)-(EX)^2$
-$\sigma^2=\frac{(N+1)(2N+1)}{6}-\frac{(N+1)^2}{4}$
-$\sigma^2=\frac{4N^2+6N+2-3N^2-6N-3}{12}$
-$\sigma^2=\frac{N^2-1}{12}$
-
 ## Geometric $(p)$
 
 Given $x=1,2,...;\quad 0\le p\le 1$
