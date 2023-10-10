@@ -65,7 +65,7 @@ $\sigma^2=\frac{KM(N-M)(N-K)}{N^2(N-1)}$
 Given $x=0,1,2,...;\quad0\le p\le1$
 - $p$ is the probability of getting a particular trait in one sample
 - $r$ is the desired number of samples with a particular trait
-- Predicts number of likelihood of 
+- Predicts number of likelihood of getting $r$ samples of trait after $X$ samples
 
 $P(X=x)=\begin{pmatrix}r+x-1\\x\end{pmatrix}p^r(1-p)^x$
 $\mu=\frac{r(1-p)}{p}$
