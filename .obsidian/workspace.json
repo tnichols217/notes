@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1.md",
+                "file": "MATH 223/Practice Problems/14.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1.md",
+                "file": "MATH 223/Practice Problems/14.3.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1.md"
+                "file": "MATH 223/Practice Problems/14.3.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1.md",
+                "file": "MATH 223/Practice Problems/14.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,8 +222,10 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "STAT 345/Textbook/3 - Common Distributions.md",
+    "MATH 223/Practice Problems/14.2.md",
     "MATH 223/Practice Problems/14.1.md",
+    "MATH 223/Practice Problems/14.3.md",
+    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/3/3 - Common Distributions.svg",
     "STAT 345/Textbook/3/3 - Common Distributions - 5.svg",
     "STAT 345/Textbook/3/3 - Common Distributions - 4.svg",
@@ -263,8 +265,6 @@
     "MATH 223/Practice Problems/13.3.md",
     "obsid-readme.md",
     "obsidian-columns.md",
-    "STAT 345/Homework/4.md",
-    "MATH 223/Practice Problems/3 - Problem Set 3.md",
     "MATH 223/Practice Problems/12.7/25.svg",
     "MATH 223/Practice Problems/12.7/19.svg",
     "MATH 223/Practice Problems/12.4/Drawing 2023-09-11 21.59.34.excalidraw.svg",
