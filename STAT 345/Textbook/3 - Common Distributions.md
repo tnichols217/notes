@@ -193,6 +193,9 @@ $MX^n=\begin{cases}\frac{\Gamma(\frac{n+1}{2})\Gamma(\frac{v-n}{2})}{\sqrt{\pi}\
 ## Uniform $(a,b)$
 
 Given $a\le x\le b$
+- $a$ is the lower bound of the distribution
+- $b$ is the upper bound
+- All values between $a$ and $b$ are equally distributed
 
 $f(x)=\frac{1}{b-a}$
 $\mu=\frac{b+a}{2}$
