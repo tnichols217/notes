@@ -41,7 +41,8 @@ $M(t)=\frac{1}{N}\sum\limits_{i=1}^Ne^{it}$
 ## Geometric $(p)$
 
 Given $x=1,2,...;\quad 0\le p\le 1$
-
+- $p$ is probability of getting certain trait
+- Predicts 
 
 $P(X=x)=p(1-p)^{x-1}$
 $\mu=1/p$
