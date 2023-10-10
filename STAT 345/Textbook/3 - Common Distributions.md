@@ -26,7 +26,8 @@ $M(t)=(pe^t+(1-p))^n$
 ## Discrete Uniform $(N)$
 
 Given $x=1,2,...,N;\quad N=1,2,...$
-Where $N$ is the largest 
+- Where $N$ is the largest possible sample
+- All numbers from $1$ to $N$ are equally likely
 
 $P(X=x)=1/N$
 $\mu=\frac{N+1}{2}$
