@@ -17,6 +17,8 @@ $M(t)=(1-p)+pe^t$
 ## Binomial $(n,p)$
 
 Given $x=0,1,2,...,n;\quad 0\le p\le 1$
+- $p$ is probability of selecting a particular trait
+- $n$
 
 $P(X=x)=\begin{pmatrix}n\\x\end{pmatrix}p^x(1-p)^{n-x}$
 $\mu=np$
