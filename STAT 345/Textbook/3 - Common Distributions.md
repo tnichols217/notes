@@ -73,7 +73,8 @@ $M(t)=(\frac{p}{1-(1-p)e^t})^r$
 
 Given $x=0,1,2,...;\quad0\le\lambda$
 - $\lambda$ is the number of times on average an event will happen within an interval
-- Predicts 
+- Predicts number of times an event will happen within an interval
+- Approximates the Binomial Distribution
 
 $P(X=x)=\frac{e^{-\lambda}\lambda^x}{x!}$
 $\mu=\lambda$
