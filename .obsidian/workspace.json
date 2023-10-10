@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/1.2 - Probability Theory.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/1.2 - Probability Theory.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md"
+                "file": "STAT 345/Textbook/3 - Common Distributions.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,12 +220,12 @@
       }
     ]
   },
-  "active": "e0ff91ed43ad0dd2",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Textbook/1.2 - Probability Theory.md",
     "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
     "STAT 345/Textbook/2 - Useful Identities.md",
-    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Textbook/2.1 - Transformations.md",
     "STAT 345/Textbook/1.1 - Set Theory.md",
     "STAT 345/Textbook/1.1 - Set Symbols.md",
