@@ -42,7 +42,7 @@ $M(t)=\frac{1}{N}\sum\limits_{i=1}^Ne^{it}$
 
 Given $x=1,2,...;\quad 0\le p\le 1$
 - $p$ is probability of getting certain trait
-- Predicts number of samples needed to get a 
+- Predicts number of samples needed to get a sample of particular trait
 
 $P(X=x)=p(1-p)^{x-1}$
 $\mu=1/p$
