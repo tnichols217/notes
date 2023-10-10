@@ -21,7 +21,7 @@ $M(t)=(1-p)+pe^t$
 Given $x=0,1,2,...,n;\quad 0\le p\le 1$
 - $p$ is probability of selecting a particular trait
 - $n$ is number of samples in a round of sampling
-- 
+- Predicts probability of getting certain number of chosen trait in sample set
 
 $P(X=x)=\begin{pmatrix}n\\x\end{pmatrix}p^x(1-p)^{n-x}$
 $\mu=np$
@@ -41,6 +41,7 @@ $M(t)=\frac{1}{N}\sum\limits_{i=1}^Ne^{it}$
 ## Geometric $(p)$
 
 Given $x=1,2,...;\quad 0\le p\le 1$
+
 
 $P(X=x)=p(1-p)^{x-1}$
 $\mu=1/p$
