@@ -31,7 +31,7 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - $2W\mod10\in[U,U-1]$
 - $C_2=2W//10$
 - $2T\mod10\in[O,O-1]$
-- $O\mod2=C_3$
+- $C_3=(2T+C_2)//10$
 - $F=C_2$
 
 ## Solving
