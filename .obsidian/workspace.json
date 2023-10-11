@@ -12,14 +12,11 @@
             "id": "c70cea149caf3c93",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/Untitled.canvas",
-                "viewState": {
-                  "x": -14.268469338417306,
-                  "y": 265.2916547584519,
-                  "zoom": 0
-                }
+                "file": "CSDS 391/W/W3-tln32.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -53,8 +50,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a44592050d6ee13",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CSDS 391/W/W3.canvas",
+                "viewState": {
+                  "x": -73.59263323884636,
+                  "y": 52.82483945392349,
+                  "zoom": -0.689502276546869
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/Untitled.canvas"
+                "file": "CSDS 391/W/W3-tln32.md"
               }
             }
           }
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/Untitled.canvas",
+                "file": "CSDS 391/W/W3-tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +213,9 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "CSDS 391/W/W3.canvas",
+    "CSDS 391/W/Untitled.md",
     "CSDS 391/W/W3-tln32.md",
-    "CSDS 391/W/Untitled.canvas",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
@@ -240,7 +254,6 @@
     "STAT 345/Textbook/2 - Useful Identities.md",
     "STAT 345/Textbook/2.1 - Transformations.md",
     "STAT 345/Textbook/1.1 - Set Theory.md",
-    "STAT 345/Textbook/1.1 - Set Symbols.md",
     "STAT 345/Textbook/Untitled.canvas",
     "STAT 345/Homework/5.pdf",
     "STAT 345/Homework/3.pdf",
