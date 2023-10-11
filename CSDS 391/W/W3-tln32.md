@@ -21,6 +21,10 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - $C_3=(2T+C_2)//10$
 - $F=C_3$
 
+## Breaking Down Constraints into Binary Constraints
+
+- None of $F,T,U,W,R,$
+
 ## Solving
 
 We pick the first variable as $O$ as it has 4 constraints related to it following the MRV heuristic.
