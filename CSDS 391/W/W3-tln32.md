@@ -30,4 +30,6 @@ We pick the first variable as $O$ as it has 4 constraints related to it followin
 
 No current values, so no forward checking to be done
 
-#### 
+#### Selection
+
+
