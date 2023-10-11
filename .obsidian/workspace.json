@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md",
+                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md",
+                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md"
+                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md",
+                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,8 +224,9 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "CSDS 391/W/W2-tln32.md",
+    "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/W/W3-tln32.md",
+    "CSDS 391/W/W2-tln32.md",
     "MATH 223/Practice Problems/5 - Problem Set 5.md",
     "MATH 223/Practice Problems/5 - Problem Set 5.pdf",
     "MATH 223/Practice Problems/14.3.md",
@@ -267,7 +268,6 @@
     "STAT 345/Homework/5.pdf",
     "STAT 345/Homework/3.pdf",
     "ARTS 302/Readings/Ching/3 - Form and Space.md",
-    "MUTH 104/Practice.md",
     "MUTH 104/Notes",
     "MUTH 104/Assignments/4/4.pdf",
     "MUTH 104/Assignments/4/B.pdf",
