@@ -11,7 +11,8 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 ## Constraints
 
 - $\text{Alldiff}(F, T, U, W, R, O)$
-- $F,T,U,W,R,O,C_1,C_2,C_3\in[0,1,2,3,4,5,6,7,8,9]$
+- $F,T,U,W,R,O\in[0,1,2,3,4,5,6,7,8,9]$
+- $C_1,C_2,C_3\in[0,1]$
 - $2O\mod10=R$
 - $C_1=2O//10$
 - $(2W+C_1)\mod10=U$
@@ -132,4 +133,6 @@ $2$ is selected.
 | $C_2$    | [0,1]             |
 | $C_3$    | [0,1]             |
 
-#### 
+#### Variable Selection
+
+$C_1$ is selected as it 
