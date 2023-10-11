@@ -380,6 +380,44 @@ $1$ is selected.
 
 #### Variable Selection
 
-$$ is chosen as it has the least remaining restraints
+$U$ is chosen as it has the least remaining restraints
+
+### 3-1-1-1-1-1 $U$
+
+#### Possible Values
+
+| Variable | Values | Remaining Restraints |
+| -------- | ------ | -------------------- |
+| $F$      | 1      | 0                    |
+| $T$      | 6      | 0                    |
+| $U$      | [8]    | 1                    |
+| $W$      | [0,3]  | 1                    |
+| $R$      | 4      | 0                    |
+| $O$      | 2      | 0                    |
+| $C_1$    | 0      | 0                    |
+| $C_2$    | 0      | 0                    |
+| $C_3$    | 1      | 0                    |
+
+#### Value Selection
+
+$8$ is selected.
+
+#### Forward Checking
+
+| Variable | Values | Remaining Restraints |
+| -------- | ------ | -------------------- |
+| $F$      | 1      | 0                    |
+| $T$      | 6      | 0                    |
+| $U$      | 8      | 0                    |
+| $W$      | []    | 0                    |
+| $R$      | 4      | 0                    |
+| $O$      | 2      | 0                    |
+| $C_1$    | 0      | 0                    |
+| $C_2$    | 0      | 0                    |
+| $C_3$    | 1      | 0                    |
+
+#### Variable Selection
+
+Fails, backtracks to previous conflicting assignment.
 
 
