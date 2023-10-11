@@ -11,9 +11,11 @@
             "id": "c70cea149caf3c93",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/9.md"
+                "file": "MATH 223/Practice Problems/14.1.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "ff4b794bee87e419"
@@ -28,9 +30,11 @@
             "id": "7e27489a5fec85a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/9.md"
+                "file": "MATH 223/Practice Problems/14.1.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "ff4b794bee87e419"
@@ -95,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/9.md"
+                "file": "MATH 223/Practice Problems/14.1.md"
               }
             }
           }
@@ -127,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/9.md",
+                "file": "MATH 223/Practice Problems/14.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,19 +220,19 @@
       }
     ]
   },
-  "active": "b67808c7c498bc42",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "MATH 223/Practice Problems/14.3.md",
     "MATH 223/Practice Problems/14.1/33.md",
+    "MATH 223/Practice Problems/14.1/9.md",
     "MATH 223/Practice Problems/14.1/33.svg",
     "MATH 223/Practice Problems/2 - Problem Set 2.md",
     "MATH 223/Practice Problems/14.1.md",
-    "MATH 223/Practice Problems/14.1/9.md",
     "MATH 223/Practice Problems/14.1/9.svg",
     "MATH 223/Practice Problems/14.1/7.svg",
     "MATH 223/Practice Problems/14.1/7.md",
     "MATH 223/Practice Problems/14.1",
     "MATH 223/Practice Problems/13.3.md",
-    "MATH 223/Practice Problems/14.3.md",
     "MATH 223/Practice Problems/14.2.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/3/3 - Common Distributions.svg",
