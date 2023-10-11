@@ -154,6 +154,82 @@ $1$ is selected.
 
 $C_3$ is selected as it has the least remaining restraints.
 
+### 2-1-1 $C_3$
+
+#### Possible Values
+
+| Variable | Values                |
+| -------- | --------------------- |
+| $F$      | 1                     |
+| $T$      | [0,5]                 |
+| $U$      | [0,1,2,3,4,5,6,7,8,9] |
+| $W$      | [0,1,2,3,4,5,6,7,8,9] |
+| $R$      | [2]                   |
+| $O$      | 1                     | 
+| $C_1$    | [0]                   |
+| $C_2$    | [1]                   |
+| $C_3$    | [1]                   |
+
+#### Value Selection
+
+$1$ is selected.
+
+#### Forward Checking
+
+| Variable | Values                |
+| -------- | --------------------- |
+| $F$      | 1                     |
+| $T$      | [5]                   |
+| $U$      | [0,1,2,3,4,5,6,7,8,9] |
+| $W$      | [0,1,2,3,4,5,6,7,8,9] |
+| $R$      | [2]                   |
+| $O$      | 1                     |
+| $C_1$    | [0]                   | 
+| $C_2$    | [1]                   |
+| $C_3$    | 1                     |
+
+#### Variable Selection
+
+$T$ is selected as it has the least remaining restraints.
+
+### 2-1-1-1 $T$
+
+#### Possible Values
+
+| Variable | Values                |
+| -------- | --------------------- |
+| $F$      | 1                     |
+| $T$      | [5]                   |
+| $U$      | [0,1,2,3,4,5,6,7,8,9] |
+| $W$      | [0,1,2,3,4,5,6,7,8,9] |
+| $R$      | [2]                   |
+| $O$      | 1                     |
+| $C_1$    | [0]                   | 
+| $C_2$    | [1]                   |
+| $C_3$    | 1                     |
+
+#### Value Selection
+
+$1$ is selected.
+
+#### Forward Checking
+
+| Variable | Values                |
+| -------- | --------------------- |
+| $F$      | 1                     |
+| $T$      | [5]                   |
+| $U$      | [0,1,2,3,4,5,6,7,8,9] |
+| $W$      | [0,1,2,3,4,5,6,7,8,9] |
+| $R$      | [2]                   |
+| $O$      | 1                     |
+| $C_1$    | [0]                   | 
+| $C_2$    | [1]                   |
+| $C_3$    | 1                     |
+
+#### Variable Selection
+
+$T$ is selected as it has the least remaining restraints.
+
 
 
 
