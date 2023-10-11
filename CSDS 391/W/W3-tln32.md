@@ -82,4 +82,5 @@ $1$ is selected.
 | R        | [2]                    |
 | O        | 1                     |
 
-Fails, backtracks to previous conflicting assignment.
+### 2-1
+
