@@ -610,4 +610,42 @@ $8$ is selected.
 
 $F$ is chosen as it has the least remaining restraints
 
+### 5-1 $F$
+
+#### Possible Values
+
+| Variable | Values              | Remaining Restraints |
+| -------- | ------------------- | -------------------- |
+| $F$      | [1]                 | 1                    |
+| $T$      | [2,7]               | 1                    |
+| $U$      | [0,1,2,3,5,6,7,8,9] | 2                    |
+| $W$      | [0,1,2,3,5,6,7,8,9] | 2                    |
+| $R$      | 8                   | 0                    |
+| $O$      | 4                   | 0                    |
+| $C_1$    | [0]                 | 1                    |
+| $C_2$    | [0]                 | 1                    |
+| $C_3$    | [0,1]               | 2                    |
+
+#### Value Selection
+
+$1$ is selected.
+
+#### Forward Checking
+
+| Variable | Values              | Remaining Restraints |
+| -------- | ------------------- | -------------------- |
+| $F$      | 1                   | 0                    |
+| $T$      | [2,7]               | 1                    |
+| $U$      | [0,1,2,3,5,6,7,8,9] | 2                    |
+| $W$      | [0,1,2,3,5,6,7,8,9] | 2                    |
+| $R$      | [8]                 | 0                    |
+| $O$      | 4                   | 0                    |
+| $C_1$    | [0]                 | 1                    |
+| $C_2$    | [0]                 | 1                    |
+| $C_3$    | [1]                 | 1                    |
+
+#### Variable Selection
+
+$F$ is chosen as it has the least remaining restraints
+
 
