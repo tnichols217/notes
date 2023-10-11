@@ -552,21 +552,21 @@ Fails, backtracks to previous conflicting assignment.
 
 #### Value Selection
 
-$3$ is selected.
+$4$ is selected.
 
 #### Forward Checking
 
-| Variable | Values              | Remaining Restraints |
-| -------- | ------------------- | -------------------- |
-| $F$      | [1]                 | 1                    |
-| $T$      | [1,6]               | 1                    |
-| $U$      | [0,1,2,4,5,6,7,8,9] | 2                    |
-| $W$      | [0,1,2,4,5,6,7,8,9] | 2                    |
-| $R$      | [6]                 | 0                    |
-| $O$      | 3                   | 0                    |
-| $C_1$    | [0]                 | 1                    |
-| $C_2$    | [1]                 | 1                    |
-| $C_3$    | [0,1]               | 2                    |
+| Variable | Values                | Remaining Restraints |
+| -------- | --------------------- | -------------------- |
+| $F$      | [1]                   | 1                    |
+| $T$      | [2,7]                 | 1                    |
+| $U$      | [0,1,2,3,5,6,7,8,9] | 2                    |
+| $W$      | [0,1,2,3,4,5,6,7,8,9] | 2                    |
+| $R$      | [8]                   | 0                    |
+| $O$      | 4                     | 0                    |
+| $C_1$    | [0]                   | 1                    |
+| $C_2$    | [0]                   | 1                    |
+| $C_3$    | [0,1]                 | 2                    |
 
 #### Variable Selection
 
