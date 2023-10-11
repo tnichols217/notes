@@ -38,9 +38,9 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 
 ## Solving
 
-We pick the first variable as $F$ as it has 4 constraints related to it following the MRV heuristic.
+We pick the first variable as $O$ as it has 4 constraints related to it following the MRV heuristic.
 
-### 1 $F$
+### 1 $O$
 
 #### Possible Values
 
