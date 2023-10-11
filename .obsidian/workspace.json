@@ -11,9 +11,9 @@
             "id": "c70cea149caf3c93",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/57.md"
+                "file": "MATH 223/Practice Problems/14.1/55.svg"
               }
             },
             "group": "ff4b794bee87e419"
@@ -28,9 +28,9 @@
             "id": "7e27489a5fec85a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/57.md"
+                "file": "MATH 223/Practice Problems/14.1/55.svg"
               }
             },
             "group": "ff4b794bee87e419"
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/57.md"
+                "file": "MATH 223/Practice Problems/14.1/55.svg"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/57.md",
+                "file": "MATH 223/Practice Problems/14.1/55.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,10 +216,11 @@
       }
     ]
   },
-  "active": "7e27489a5fec85a5",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "MATH 223/Practice Problems/14.1/59.md",
+    "MATH 223/Practice Problems/14.1/59.svg",
     "MATH 223/Practice Problems/14.1/47.md",
-    "MATH 223/Practice Problems/14.1/57.md",
     "MATH 223/Practice Problems/14.1.md",
     "MATH 223/Practice Problems/14.1/55.svg",
     "MATH 223/Practice Problems/14.1/55.md",
@@ -241,7 +242,6 @@
     "STAT 345/Textbook/3/3 - Common Distributions.svg",
     "STAT 345/Textbook/3/3 - Common Distributions - 5.svg",
     "STAT 345/Textbook/3/3 - Common Distributions - 4.svg",
-    "STAT 345/Textbook/3/3 - Common Distributions - 3.svg",
     "STAT 345/Textbook/3",
     "STAT 345/Textbook/3 - Common Distributions.pdf",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
@@ -260,7 +260,6 @@
     "MUTH 104/Practice.md",
     "STAT 345/Textbook/3.1-3.2 - Discrete Distributions.md",
     "MATH 223/Practice Problems/13.2.md",
-    "MUTH 104/Notes/Musical Analysis.md",
     "MUTH 104/Notes",
     "MUTH 104/Assignments/4/4.pdf",
     "MUTH 104/Assignments/4/B.pdf",
