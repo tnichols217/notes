@@ -12,11 +12,14 @@
             "id": "c70cea149caf3c93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md",
-                "mode": "source",
-                "source": false
+                "file": "CSDS 391/W/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -111,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md"
+                "file": "CSDS 391/W/Untitled.canvas"
               }
             }
           }
@@ -143,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md",
+                "file": "CSDS 391/W/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,10 +198,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7e27489a5fec85a5",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "CSDS 391/W/W3-tln32.md",
+    "CSDS 391/W/Untitled.canvas",
+    "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/4 - Complex Search.md",
@@ -237,7 +241,6 @@
     "STAT 345/Textbook/2.1 - Transformations.md",
     "STAT 345/Textbook/1.1 - Set Theory.md",
     "STAT 345/Textbook/1.1 - Set Symbols.md",
-    "STAT 345/Textbook/2.4 - Leibnitz's Rule.md",
     "STAT 345/Textbook/Untitled.canvas",
     "STAT 345/Homework/5.pdf",
     "STAT 345/Homework/3.pdf",
