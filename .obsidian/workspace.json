@@ -11,9 +11,11 @@
             "id": "c70cea149caf3c93",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/Drawing 2023-10-11 01.01.13.excalidraw.md"
+                "file": "MATH 223/Practice Problems/14.1.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "ff4b794bee87e419"
@@ -28,9 +30,11 @@
             "id": "7e27489a5fec85a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/Drawing 2023-10-11 01.01.13.excalidraw.md"
+                "file": "MATH 223/Practice Problems/14.1.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "ff4b794bee87e419"
@@ -95,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/Drawing 2023-10-11 01.01.13.excalidraw.md"
+                "file": "MATH 223/Practice Problems/14.1.md"
               }
             }
           }
@@ -103,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 297.5
   },
   "right": {
     "id": "ca4cf6357558295d",
@@ -127,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/Drawing 2023-10-11 01.01.13.excalidraw.md",
+                "file": "MATH 223/Practice Problems/14.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,10 +220,11 @@
       }
     ]
   },
-  "active": "7e27489a5fec85a5",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "MATH 223/Practice Problems/14.1/9.md",
+    "MATH 223/Practice Problems/14.1/9.svg",
     "MATH 223/Practice Problems/14.1.md",
-    "MATH 223/Practice Problems/14.1/Drawing 2023-10-11 01.01.13.excalidraw.md",
     "MATH 223/Practice Problems/14.1/7.svg",
     "MATH 223/Practice Problems/14.1/7.md",
     "MATH 223/Practice Problems/14.1",
@@ -261,10 +266,8 @@
     "MUTH 104/Assignments/4/MUTH 104 Assignment 4b.pdf",
     "APMusicTheory/Chord Progressions.md",
     "MATH 223/Practice Problems/4 - Problem Set 4.md",
-    "MATH 223/Practice Problems/13.1.md",
     "MATH 223/Practice Problems/12.7/25.svg",
     "MATH 223/Practice Problems/12.7/19.svg",
-    "MATH 223/Practice Problems/12.4/Drawing 2023-09-11 21.59.34.excalidraw.svg",
     "church/Untitled.canvas"
   ]
 }
