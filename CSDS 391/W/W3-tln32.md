@@ -29,11 +29,10 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - $2O\mod10=R$
 - $C_1=2O//10$
 - $2W\mod10\in[U,U-1]$
-- $U\mod2=C_2$
 - $C_2=2W//10$
 - $2T\mod10\in[O,O-1]$
 - $O\mod2=C_3$
-- $F=C_3$
+- $F=C_2$
 
 ## Solving
 
