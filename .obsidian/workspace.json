@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "da5d28d5baac0c64",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md"
+                "file": "CSDS 391/W/W3-tln32.md"
               }
             }
           }
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
+                "file": "CSDS 391/W/W3-tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,10 +234,10 @@
       }
     ]
   },
-  "active": "baa5339d871f31ba",
+  "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "CSDS 391/W/W3-tln32.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
+    "CSDS 391/W/W3-tln32.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/4 - Complex Search.md",
     "CSDS 391/W/W2-tln32.md",
