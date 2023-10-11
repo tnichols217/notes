@@ -6,7 +6,7 @@
       {
         "id": "edc36a810cc74985",
         "type": "tabs",
-        "dimension": 49.853801169590646,
+        "dimension": 49.85380116959064,
         "children": [
           {
             "id": "c70cea149caf3c93",
@@ -197,47 +197,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "cbcef5381a99e836",
-    "type": "floating",
-    "children": [
-      {
-        "id": "31f2e0d0f4530b9c",
-        "type": "window",
-        "children": [
-          {
-            "id": "bd4dffbbf7a56f93",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e0ff91ed43ad0dd2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 340,
-        "y": 132,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
+    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "CSDS 391/W/W3-tln32.md",
+    "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/4 - Complex Search.md",
     "CSDS 391/W/W2-tln32.md",
@@ -269,7 +233,6 @@
     "STAT 345/Textbook/3/3 - Common Distributions - 4.svg",
     "STAT 345/Textbook/3",
     "STAT 345/Textbook/3 - Common Distributions.pdf",
-    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Textbook/1.2 - Probability Theory.md",
     "STAT 345/Textbook/1.4-1.6 - Random Variables.md",
     "STAT 345/Textbook/2 - Useful Identities.md",
