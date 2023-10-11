@@ -14,12 +14,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/6 - Adversarial Search.md",
+                "file": "CSDS 391/W/W3-tln32.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "ff4b794bee87e419"
+          },
+          {
+            "id": "baa5339d871f31ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 391/Textbook/6 - Adversarial Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -34,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/6 - Adversarial Search.md",
+                "file": "CSDS 391/W/W3-tln32.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/6 - Adversarial Search.md"
+                "file": "CSDS 391/W/W3-tln32.md"
               }
             }
           }
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/6 - Adversarial Search.md",
+                "file": "CSDS 391/W/W3-tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,10 +236,10 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/4 - Complex Search.md",
-    "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/W/W3-tln32.md",
+    "CSDS 391/Textbook/4 - Complex Search.md",
+    "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "CSDS 391/W/W2-tln32.md",
     "MATH 223/Practice Problems/5 - Problem Set 5.md",
     "MATH 223/Practice Problems/5 - Problem Set 5.pdf",
