@@ -218,16 +218,54 @@ $0$ is selected.
 | $F$      | [3,4,5,6,7,8,9] |
 | $T$      | 0               |
 | $U$      | [3,4,5,6,7,8,9] |
-| $W$      | [3,4,5,6,7,8,9] | 
+| $W$      | [3,4,5,6,7,8,9] |
 | $R$      | 2               |
 | $O$      | 1               |
 | $C_1$    | 0               |
 | $C_2$    | [1]             |
-| $C_3$    | [0,1]           |
+| $C_3$    | [0]             | 
 
 #### Variable Selection
 
-$T$ is selected as it has the least remaining constraints.
+$C_3$ is selected as it has the least remaining constraints.
+
+### 2-1-1-1-1
+
+#### Possible Values
+
+| Variable | Values          |
+| -------- | --------------- |
+| $F$      | [3,4,5,6,7,8,9] |
+| $T$      | 0               |
+| $U$      | [3,4,5,6,7,8,9] |
+| $W$      | [3,4,5,6,7,8,9] |
+| $R$      | 2               |
+| $O$      | 1               |
+| $C_1$    | 0               |
+| $C_2$    | [1]             |
+| $C_3$    | [0]             | 
+
+#### Value Selection
+
+$0$ is selected.
+
+#### Forward Checking
+
+| Variable | Values          |
+| -------- | --------------- |
+| $F$      | [3,4,5,6,7,8,9] |
+| $T$      | 0               |
+| $U$      | [3,4,5,6,7,8,9] |
+| $W$      | [3,4,5,6,7,8,9] |
+| $R$      | 2               |
+| $O$      | 1               |
+| $C_1$    | 0               |
+| $C_2$    | [1]             |
+| $C_3$    | [0]             | 
+
+#### Variable Selection
+
+$C_3$ is selected as it has the least remaining constraints.
 
 ---
 ---
