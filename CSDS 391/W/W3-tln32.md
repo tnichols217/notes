@@ -31,8 +31,9 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - $2W\mod10\in[U,U-1]$
 - $C_2=2W//10$
 - $2T\mod10\in[O,O-1]$
-- $C_3=(2T+C_2)//10$
-- $F=C_2$
+- $C_3=2T//10$
+- $F=C_3$
+- $F=2T//10$
 
 ## Solving
 
@@ -44,15 +45,15 @@ We pick the first variable as $O$ as it has 4 constraints related to it followin
 
 | Variable | Values                |
 | -------- | --------------------- |
-| $F$      | [0,1,2,3,4,5,6,7,8,9] |
+| $F$      | [0,1]                 |
 | $T$      | [0,1,2,3,4,5,6,7,8,9] |
 | $U$      | [0,1,2,3,4,5,6,7,8,9] |
 | $W$      | [0,1,2,3,4,5,6,7,8,9] |
-| $R$      | [0,1,2,3,4,5,6,7,8,9] |
+| $R$      | [0,2,4,6,8]           | 
 | $O$      | [0,1,2,3,4,5,6,7,8,9] |
 | $C_1$    | [0,1]                 |
 | $C_2$    | [0,1]                 |
-| $C_3$    | [0,1]                 | 
+| $C_3$    | [0,1]                 |
 
 #### Value Selection
 
