@@ -230,27 +230,9 @@ $5$ is selected.
 
 $R$ is selected as it has the least remaining restraints.
 
-### 2-1-1-1 $T$
+### 2-1-1-1-1 $R$
 
 #### Possible Values
-
-| Variable | Values                |
-| -------- | --------------------- |
-| $F$      | 1                     |
-| $T$      | [5]                   |
-| $U$      | [0,1,2,3,4,5,6,7,8,9] |
-| $W$      | [0,1,2,3,4,5,6,7,8,9] |
-| $R$      | [2]                   |
-| $O$      | 1                     |
-| $C_1$    | [0]                   | 
-| $C_2$    | [1]                   |
-| $C_3$    | 1                     |
-
-#### Value Selection
-
-$5$ is selected.
-
-#### Forward Checking
 
 | Variable | Values                |
 | -------- | --------------------- |
@@ -264,9 +246,65 @@ $5$ is selected.
 | $C_2$    | [1]                   |
 | $C_3$    | 1                     |
 
+#### Value Selection
+
+$2$ is selected.
+
+#### Forward Checking
+
+| Variable | Values                |
+| -------- | --------------------- |
+| $F$      | 1                     |
+| $T$      | 5                     |
+| $U$      | [0,1,2,3,4,5,6,7,8,9] |
+| $W$      | [0,1,2,3,4,5,6,7,8,9] |
+| $R$      | 2                     | 
+| $O$      | 1                     |
+| $C_1$    | [0]                   |
+| $C_2$    | [1]                   |
+| $C_3$    | 1                     |
+
 #### Variable Selection
 
-$R$ is selected as it has the least remaining restraints.
+$C_1$ is selected as it has the least remaining restraints.
+
+### 2-1-1-1-1 $C_1$
+
+#### Possible Values
+
+| Variable | Values                |
+| -------- | --------------------- |
+| $F$      | 1                     |
+| $T$      | 5                     |
+| $U$      | [0,1,2,3,4,5,6,7,8,9] |
+| $W$      | [0,1,2,3,4,5,6,7,8,9] |
+| $R$      | 2                     | 
+| $O$      | 1                     |
+| $C_1$    | [0]                   |
+| $C_2$    | [1]                   |
+| $C_3$    | 1                     |
+
+#### Value Selection
+
+$2$ is selected.
+
+#### Forward Checking
+
+| Variable | Values                |
+| -------- | --------------------- |
+| $F$      | 1                     |
+| $T$      | 5                     |
+| $U$      | [0,1,2,3,4,5,6,7,8,9] |
+| $W$      | [0,1,2,3,4,5,6,7,8,9] |
+| $R$      | 2                     | 
+| $O$      | 1                     |
+| $C_1$    | [0]                   |
+| $C_2$    | [1]                   |
+| $C_3$    | 1                     |
+
+#### Variable Selection
+
+$C_1$ is selected as it has the least remaining restraints.
 
 
 
