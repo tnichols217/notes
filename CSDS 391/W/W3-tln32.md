@@ -82,5 +82,35 @@ $1$ is selected.
 | R        | [2]                    |
 | O        | 1                     |
 
+#### Variable Selection
+
+$R$ is selected as it has the least remaining restraints.
+
 ### 2-1
 
+#### Possible Values
+
+| Variable | Values                |
+| -------- | --------------------- |
+| F        | [0,1,2,3,4,5,6,7,8,9] |
+| T        | [0,1,2,3,4,5,6,7,8,9] |
+| U        | [0,1,2,3,4,5,6,7,8,9] |
+| W        | [0,1,2,3,4,5,6,7,8,9] |
+| R        | [2]                    |
+| O        | 1                     |
+
+#### Value Selection
+
+
+$1$ is selected.
+
+#### Forward Checking
+
+| Variable | Values                |
+| -------- | --------------------- |
+| F        | [0,1,2,3,4,5,6,7,8,9] |
+| T        | [0,1,2,3,4,5,6,7,8,9] |
+| U        | [0,1,2,3,4,5,6,7,8,9] |
+| W        | [0,1,2,3,4,5,6,7,8,9] |
+| R        | [2]                    |
+| O        | 1                     |
