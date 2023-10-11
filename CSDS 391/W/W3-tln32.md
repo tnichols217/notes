@@ -12,4 +12,5 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 
 - $\text{Alldiff}(F, T, U, W, R, O)$
 - $F,T,U,W,R,O\in[0,1,2,3,4,5,6,7,8,9]$
-- $2O\%10=$
+- $2O\mod10=R$
+- $C_1=2O//10$
