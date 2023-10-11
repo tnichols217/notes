@@ -18,8 +18,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "ff4b794bee87e419"
+            }
           },
           {
             "id": "baa5339d871f31ba",
@@ -50,8 +49,7 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "ff4b794bee87e419"
+            }
           }
         ]
       }
