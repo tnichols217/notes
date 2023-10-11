@@ -175,3 +175,42 @@ $0$ is selected.
 
 $W$ is selected as it has the least remaining constraints.
 
+### 2-1-1-1
+
+#### Possible Values
+
+| Variable | Values            |
+| -------- | ----------------- |
+| $F$      | [0,3,4,5,6,7,8,9] |
+| $T$      | [0,3,4,5,6,7,8,9] |
+| $U$      | [0,3,4,5,6,7,8,9] |
+| $W$      | [0,3,4,5,6,7,8,9] |
+| $R$      | 2                 |
+| $O$      | 1                 |
+| $C_1$    | 0                 | 
+| $C_2$    | [0,1]             |
+| $C_3$    | [0,1]             |
+
+#### Value Selection
+
+$0$ is selected.
+
+#### Forward Checking
+
+| Variable | Values            |
+| -------- | ----------------- |
+| $F$      | [0,3,4,5,6,7,8,9] |
+| $T$      | [0,3,4,5,6,7,8,9] |
+| $U$      | [] |
+| $W$      | 0                 | 
+| $R$      | 2                 |
+| $O$      | 1                 |
+| $C_1$    | 0                 |
+| $C_2$    | [0,1]             |
+| $C_3$    | [0,1]             |
+
+#### Variable Selection
+
+$W$ is selected as it has the least remaining constraints.
+
+
