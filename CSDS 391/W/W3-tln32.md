@@ -344,7 +344,7 @@ $1$ is selected.
 
 $T$ is chosen as it has the least remaining restraints
 
-### 3-1-1-1-1-1 $T$
+### 3-1-1-1-1-1-1 $T$
 
 #### Possible Values
 
@@ -382,7 +382,7 @@ $1$ is selected.
 
 $U$ is chosen as it has the least remaining restraints
 
-### 3-1-1-1-1-1 $U$
+### 3-1-1-1-1-1-1-1 $U$
 
 #### Possible Values
 
@@ -652,17 +652,17 @@ $C_1$ is chosen as it has the least remaining restraints
 
 #### Possible Values
 
-| Variable | Values              | Remaining Restraints |
-| -------- | ------------------- | -------------------- |
-| $F$      | [1]                 | 1                    |
-| $T$      | [2,7]               | 1                    |
-| $U$      | [0,1,2,3,5,6,7,9] | 2                    |
-| $W$      | [0,1,2,3,5,6,7,9] | 2                    |
-| $R$      | 8                   | 0                    |
-| $O$      | 4                   | 0                    |
-| $C_1$    | [0]                 | 1                    |
-| $C_2$    | [0]                 | 1                    |
-| $C_3$    | [0,1]               | 2                    |
+| Variable | Values            | Remaining Restraints |
+| -------- | ----------------- | -------------------- |
+| $F$      | 1                 | 0                    |
+| $T$      | [2,7]             | 1                    |
+| $U$      | [0,2,3,5,6,7,9] | 2                    |
+| $W$      | [0,2,3,5,6,7,9] | 2                    |
+| $R$      | 8                 | 0                    |
+| $O$      | 4                 | 0                    |
+| $C_1$    | [0]               | 1                    |
+| $C_2$    | [0]               | 1                    |
+| $C_3$    | [0,1]             | 2                    |
 
 #### Value Selection
 
