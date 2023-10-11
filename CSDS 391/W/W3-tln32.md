@@ -14,3 +14,5 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - $F,T,U,W,R,O\in[0,1,2,3,4,5,6,7,8,9]$
 - $2O\mod10=R$
 - $C_1=2O//10$
+- $(2W+C_1)\mod10=U$
+- $C_2=(2W+C_)$
