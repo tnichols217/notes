@@ -26,10 +26,12 @@ We pick the first variable as $O$ as it has 4 constraints related to it followin
 
 ### 1
 
-#### Forward Checking
-
-No current values, so no forward checking to be done
-
 #### Value Selection
 
 $0$ is selected.
+
+#### Forward Checking
+
+| Variable | Values |
+| -------- | ------ |
+| F        | [0]       |
