@@ -47,7 +47,7 @@ We pick the first variable as $O$ as it has 4 constraints related to it followin
 
 | Variable | Values                |
 | -------- | --------------------- |
-| $F$      | [0,1]                 |
+| $F$      | [1]                 |
 | $T$      | [0,1,2,3,4,5,6,7,8,9] |
 | $U$      | [0,1,2,3,4,5,6,7,8,9] |
 | $W$      | [0,1,2,3,4,5,6,7,8,9] |
@@ -59,7 +59,7 @@ We pick the first variable as $O$ as it has 4 constraints related to it followin
 
 #### Value Selection
 
-$0$ is selected.
+$1$ is selected.
 
 #### Forward Checking
 
@@ -76,6 +76,10 @@ $0$ is selected.
 | $C_3$    | [0,1]               |
 
 Fails, backtracks to previous conflicting assignment.
+
+
+---
+---
 
 ### 2
 
