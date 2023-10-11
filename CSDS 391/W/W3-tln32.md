@@ -34,8 +34,8 @@ We pick the first variable as $O$ as it has 4 constraints related to it followin
 | T        | [0,1,2,3,4,5,6,7,8,9] |
 | U        | [0,1,2,3,4,5,6,7,8,9] |
 | W        | [0,1,2,3,4,5,6,7,8,9] |
-| R        | []                    |
-| O        | 0                     |
+| R        | [0,1,2,3,4,5,6,7,8,9] |
+| O        | [0,1,2,3,4,5,6,7,8,9] | 
 
 #### Value Selection
 
@@ -55,3 +55,31 @@ $0$ is selected.
 Fails, backtracks to previous conflicting assignment.
 
 ### 2
+
+#### Possible Values
+
+| Variable | Values                |
+| -------- | --------------------- |
+| F        | [0,1,2,3,4,5,6,7,8,9] |
+| T        | [0,1,2,3,4,5,6,7,8,9] |
+| U        | [0,1,2,3,4,5,6,7,8,9] |
+| W        | [0,1,2,3,4,5,6,7,8,9] |
+| R        | [0,1,2,3,4,5,6,7,8,9] |
+| O        | [1,2,3,4,5,6,7,8,9] | 
+
+#### Value Selection
+
+$1$ is selected.
+
+#### Forward Checking
+
+| Variable | Values                |
+| -------- | --------------------- |
+| F        | [0,1,2,3,4,5,6,7,8,9] |
+| T        | [0,1,2,3,4,5,6,7,8,9] |
+| U        | [0,1,2,3,4,5,6,7,8,9] |
+| W        | [0,1,2,3,4,5,6,7,8,9] |
+| R        | [2]                    |
+| O        | 1                     |
+
+Fails, backtracks to previous conflicting assignment.
