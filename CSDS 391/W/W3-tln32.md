@@ -521,7 +521,7 @@ $1$ is selected.
 | Variable | Values          | Remaining Restraints |
 | -------- | --------------- | -------------------- |
 | $F$      | 1               | 0                    |
-| $T$      | []             | 1                    |
+| $T$      | []              | 1                    |
 | $U$      | [0,2,4,5,7,8,9] | 2                    |
 | $W$      | [0,2,4,5,7,8,9] | 2                    |
 | $R$      | 6               | 0                    |
@@ -532,80 +532,4 @@ $1$ is selected.
 
 #### Variable Selection
 
-$C_1$ is chosen as it has the least remaining restraints
-
-### 4-1-1-1 $C_1$
-
-#### Possible Values
-
-| Variable | Values          | Remaining Restraints |
-| -------- | --------------- | -------------------- |
-| $F$      | 1               | 0                    |
-| $T$      | [6]             | 1                    |
-| $U$      | [0,2,4,5,7,8,9] | 2                    |
-| $W$      | [0,2,4,5,7,8,9] | 2                    |
-| $R$      | 6               | 0                    |
-| $O$      | 3               | 0                    |
-| $C_1$    | [0]             | 1                    |
-| $C_2$    | [1]             | 1                    |
-| $C_3$    | [1]             | 1                    |
-
-#### Value Selection
-
-$0$ is selected.
-
-#### Forward Checking
-
-| Variable | Values          | Remaining Restraints |
-| -------- | --------------- | -------------------- |
-| $F$      | 1               | 0                    |
-| $T$      | [6]             | 1                    |
-| $U$      | [0,2,4,8]       | 1                    |
-| $W$      | [0,2,4,5,7,8,9] | 2                    |
-| $R$      | 6               | 0                    |
-| $O$      | 3               | 0                    |
-| $C_1$    | 0               | 0                    |
-| $C_2$    | [1]             | 1                    |
-| $C_3$    | [1]             | 1                    |
-
-#### Variable Selection
-
-$T$ is chosen as it has the least remaining restraints
-
-### 4-1-1-1-1 $T$
-
-#### Possible Values
-
-| Variable | Values          | Remaining Restraints |
-| -------- | --------------- | -------------------- |
-| $F$      | 1               | 0                    |
-| $T$      | 6               | 0                    |
-| $U$      | [0,2,4,5,7,8,9] | 2                    |
-| $W$      | [0,2,4,5,7,8,9] | 2                    |
-| $R$      | 6               | 0                    |
-| $O$      | 3               | 0                    |
-| $C_1$    | [0]             | 1                    |
-| $C_2$    | [1]             | 1                    |
-| $C_3$    | [1]             | 1                    |
-
-#### Value Selection
-
-$0$ is selected.
-
-#### Forward Checking
-
-| Variable | Values          | Remaining Restraints |
-| -------- | --------------- | -------------------- |
-| $F$      | 1               | 0                    |
-| $T$      | [6]             | 1                    |
-| $U$      | [0,2,4,8]       | 1                    |
-| $W$      | [0,2,4,5,7,8,9] | 2                    |
-| $R$      | 6               | 0                    |
-| $O$      | 3               | 0                    |
-| $C_1$    | 0               | 0                    |
-| $C_2$    | [1]             | 1                    |
-| $C_3$    | [1]             | 1                    |
-
-#### Variable Selection
-
-$T$ is chosen as it has the least remaining restraints
+Fails, backtracks to previous conflicting assignment.
