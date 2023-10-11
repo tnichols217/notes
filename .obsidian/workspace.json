@@ -59,9 +59,9 @@
               "state": {
                 "file": "CSDS 391/W/W3.canvas",
                 "viewState": {
-                  "x": -158.43723501024488,
-                  "y": 52.82483945392349,
-                  "zoom": -0.689502276546869
+                  "x": -18.626243731283793,
+                  "y": 183.2423244261296,
+                  "zoom": 0.4795955157606666
                 }
               }
             }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md"
+                "file": "CSDS 391/W/W3.canvas"
               }
             }
           }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md",
+                "file": "CSDS 391/W/W3.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,10 +211,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c70cea149caf3c93",
+  "active": "0a44592050d6ee13",
   "lastOpenFiles": [
-    "CSDS 391/W/W3.canvas",
     "CSDS 391/W/W3-tln32.md",
+    "CSDS 391/W/W3.canvas",
     "CSDS 391/W/Untitled.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
