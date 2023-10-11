@@ -30,7 +30,7 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - $C_1=2O//10$
 - $2W\mod10\in[U,U-1]$
 - $C_1$ is $1$ when $U$ is odd, $C_1$ is $0$ when $U$ is even
-- $C_2=U//10$
+- $C_2=2W//10$
 - 
 
 ## Solving
