@@ -514,7 +514,7 @@ $F$ is chosen as it has the least remaining restraints
 
 #### Value Selection
 
-$6$ is selected.
+$1$ is selected.
 
 #### Forward Checking
 
@@ -532,5 +532,43 @@ $6$ is selected.
 
 #### Variable Selection
 
-$F$ is chosen as it has the least remaining restraints
+$C_1$ is chosen as it has the least remaining restraints
+
+### 4-1-1 $C_1$
+
+#### Possible Values
+
+| Variable | Values              | Remaining Restraints |
+| -------- | ------------------- | -------------------- |
+| $F$      | 1                   | 0                    |
+| $T$      | [1,6]               | 1                    |
+| $U$      | [0,1,2,4,5,6,7,8,9] | 2                    |
+| $W$      | [0,1,2,4,5,6,7,8,9] | 2                    |
+| $R$      | 6                   | 0                    |
+| $O$      | 3                   | 0                    |
+| $C_1$    | [0]                 | 1                    |
+| $C_2$    | [1]                 | 1                    |
+| $C_3$    | [1]                 | 1                    |
+
+#### Value Selection
+
+$0$ is selected.
+
+#### Forward Checking
+
+| Variable | Values              | Remaining Restraints |
+| -------- | ------------------- | -------------------- |
+| $F$      | 1                   | 0                    |
+| $T$      | [1,6]               | 1                    |
+| $U$      | [0,1,2,4,5,6,7,8,9] | 2                    |
+| $W$      | [0,1,2,4,5,6,7,8,9] | 2                    |
+| $R$      | 6                   | 0                    |
+| $O$      | 3                   | 0                    |
+| $C_1$    | 0                   | 0                    | 
+| $C_2$    | [1]                 | 1                    |
+| $C_3$    | [1]                 | 1                    |
+
+#### Variable Selection
+
+$C_1$ is chosen as it has the least remaining restraints
 
