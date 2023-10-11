@@ -20,4 +20,6 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - $C_3=(2T+C_2)//10$
 - $F=C_3$
 
+## Solving
 
+We pick the first variable as
