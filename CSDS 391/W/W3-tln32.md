@@ -331,7 +331,7 @@ $1$ is selected.
 | Variable | Values | Remaining Restraints |
 | -------- | ------ | -------------------- |
 | $F$      | 1      | 0                    |
-| $T$      | [6]    | 1                    |
+| $T$      | [6]    | 0                    |
 | $U$      | [6,8]  | 1                    |
 | $W$      | [0,3]  | 1                    |
 | $R$      | 4      | 0                    |
@@ -351,7 +351,7 @@ $T$ is chosen as it has the least remaining restraints
 | Variable | Values | Remaining Restraints |
 | -------- | ------ | -------------------- |
 | $F$      | 1      | 0                    |
-| $T$      | [6]    | 1                    |
+| $T$      | [6]    | 0                    |
 | $U$      | [6,8]  | 1                    |
 | $W$      | [0,3]  | 1                    |
 | $R$      | 4      | 0                    |
@@ -370,7 +370,7 @@ $1$ is selected.
 | -------- | ------ | -------------------- |
 | $F$      | 1      | 0                    |
 | $T$      | 6      | 0                    |
-| $U$      | [6,8]  | 1                    |
+| $U$      | [8]    | 1                    |
 | $W$      | [0,3]  | 1                    |
 | $R$      | 4      | 0                    |
 | $O$      | 2      | 0                    |
@@ -380,6 +380,6 @@ $1$ is selected.
 
 #### Variable Selection
 
-$T$ is chosen as it has the least remaining restraints
+$$ is chosen as it has the least remaining restraints
 
 
