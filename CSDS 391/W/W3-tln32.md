@@ -23,7 +23,13 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 
 ## Breaking Down Constraints into Binary Constraints
 
-- None of $F,T,U,W,R,$
+- $F,T,U,W,R,O\in[0,1,2,3,4,5,6,7,8,9]$
+- $C_1,C_2,C_3\in[0,1]$
+- None of $F,T,U,W,R,O$ equal each other
+- $2O\mod10=R$
+- $C_1=2O//10$
+- $(2W+C_1)\mod10=[U]$
+- 
 
 ## Solving
 
