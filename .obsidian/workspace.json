@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/5 - Problem Set 5.md",
+                "file": "CSDS 391/W/W3-tln32.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/5 - Problem Set 5.md",
+                "file": "CSDS 391/W/W3-tln32.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/5 - Problem Set 5.md"
+                "file": "CSDS 391/W/W3-tln32.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/5 - Problem Set 5.md",
+                "file": "CSDS 391/W/W3-tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,9 +224,11 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "CSDS 391/W/W2-tln32.md",
+    "CSDS 391/W/W3-tln32.md",
+    "MATH 223/Practice Problems/5 - Problem Set 5.md",
     "MATH 223/Practice Problems/5 - Problem Set 5.pdf",
     "MATH 223/Practice Problems/14.3.md",
-    "MATH 223/Practice Problems/5 - Problem Set 5.md",
     "MATH 223/Practice Problems/14.2.md",
     "MATH 223/Practice Problems/14.1.md",
     "MATH 223/Practice Problems/14.1/59.svg",
@@ -266,11 +268,9 @@
     "STAT 345/Homework/3.pdf",
     "ARTS 302/Readings/Ching/3 - Form and Space.md",
     "MUTH 104/Practice.md",
-    "STAT 345/Textbook/3.1-3.2 - Discrete Distributions.md",
     "MUTH 104/Notes",
     "MUTH 104/Assignments/4/4.pdf",
     "MUTH 104/Assignments/4/B.pdf",
-    "MUTH 104/Assignments/4/A.pdf",
     "church/Untitled.canvas"
   ]
 }
