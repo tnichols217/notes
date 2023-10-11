@@ -15,4 +15,7 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - $2O\mod10=R$
 - $C_1=2O//10$
 - $(2W+C_1)\mod10=U$
-- $C_2=(2W+C_)$
+- $C_2=(2W+C_1)//10$
+- $(2T+C_2)\mod10=O$
+- $C_2=(2W+C_1)//10$
+- 
