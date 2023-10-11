@@ -29,8 +29,10 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - $2O\mod10=R$
 - $C_1=2O//10$
 - $2W\mod10\in[U,U-1]$
-- $C_1$ is $1$ when $U$ is odd, $C_1$ is $0$ when $U$ is even
+- $U\mod2=C_1$
 - $C_2=2W//10$
+- $2T\mod10\in[O,O-1]$
+- $O\mod2=C_1$
 - 
 
 ## Solving
