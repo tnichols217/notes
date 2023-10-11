@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "da5d28d5baac0c64",
@@ -48,7 +47,7 @@
               "type": "markdown",
               "state": {
                 "file": "CSDS 391/W/W3-tln32.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             },
