@@ -8,4 +8,6 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 
 # 2
 
+## Constraints
+
 
