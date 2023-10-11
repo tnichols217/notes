@@ -198,13 +198,13 @@ $T$ is selected as it has the least remaining constraints.
 | Variable | Values            |
 | -------- | ----------------- |
 | $F$      | [0,3,4,5,6,7,8,9] |
-| $T$      | [0]               | 
+| $T$      | [0]               |
 | $U$      | [0,3,4,5,6,7,8,9] |
 | $W$      | [0,3,4,5,6,7,8,9] |
 | $R$      | 2                 |
 | $O$      | 1                 |
 | $C_1$    | 0                 |
-| $C_2$    | [0,1]             |
+| $C_2$    | [1]               | 
 | $C_3$    | [0,1]             |
 
 #### Value Selection
