@@ -35,7 +35,6 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - $O\mod2=C_2$
 - $C_3=2T//10$
 - $F=C_3$
-- $F=2T//10$
 
 ## Solving
 
@@ -77,7 +76,45 @@ $1$ is selected.
 
 #### Variable Selection
 
-$R$ is selected as it has the least remaining restraints.
+$C_3$ is selected as it has the least remaining restraints.
+
+### 1-1
+
+#### Possible Values
+
+| Variable | Values              |
+| -------- | ------------------- |
+| $F$      | 1                   |
+| $T$      | [0,2,3,4,5,6,7,8,9] |
+| $U$      | [0,2,3,4,5,6,7,8,9] |
+| $W$      | [0,2,3,4,5,6,7,8,9] |
+| $R$      | [0,2,3,4,5,6,7,8,9] |
+| $O$      | [0,2,3,4,5,6,7,8,9] |
+| $C_1$    | [0,1]               |
+| $C_2$    | [0,1]               |
+| $C_3$    | [1]                 | 
+
+#### Value Selection
+
+$1$ is selected.
+
+#### Forward Checking
+
+| Variable | Values              |
+| -------- | ------------------- |
+| $F$      | 1                   |
+| $T$      | [0,2,3,4,5,6,7,8,9] |
+| $U$      | [0,2,3,4,5,6,7,8,9] |
+| $W$      | [0,2,3,4,5,6,7,8,9] |
+| $R$      | [0,2,3,4,5,6,7,8,9] |
+| $O$      | [0,2,3,4,5,6,7,8,9] |
+| $C_1$    | [0,1]               |
+| $C_2$    | [0,1]               |
+| $C_3$    | 1                   | 
+
+#### Variable Selection
+
+$C_3$ is selected as it has the least remaining restraints.
 
 
 
