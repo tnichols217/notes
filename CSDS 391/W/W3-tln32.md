@@ -570,23 +570,23 @@ $0$ is selected.
 
 #### Variable Selection
 
-$U$ is chosen as it has the least remaining restraints
+$C_2$ is chosen as it has the least remaining restraints
 
-### 4-1-1-1-1 $C_1$
+### 4-1-1-1-1 $C_2$
 
 #### Possible Values
 
-| Variable | Values          | Remaining Restraints |
-| -------- | --------------- | -------------------- |
-| $F$      | 1               | 0                    |
-| $T$      | [1,6]           | 1                    |
-| $U$      | [0,2,4,5,7,8,9] | 2                    |
-| $W$      | [0,2,4,5,7,8,9] | 2                    |
-| $R$      | 6               | 0                    |
-| $O$      | 3               | 0                    |
-| $C_1$    | [0]             | 1                    |
-| $C_2$    | [1]             | 1                    |
-| $C_3$    | [1]             | 1                    |
+| Variable | Values    | Remaining Restraints |
+| -------- | --------- | -------------------- |
+| $F$      | 1         | 0                    |
+| $T$      | [1,6]     | 1                    |
+| $U$      | [0,2,4,8] | 1                    |
+| $W$      | [5,7,8,9] | 1                    | 
+| $R$      | 6         | 0                    |
+| $O$      | 3         | 0                    |
+| $C_1$    | 0         | 0                    |
+| $C_2$    | 1         | 0                    |
+| $C_3$    | [1]       | 1                    |
 
 #### Value Selection
 
