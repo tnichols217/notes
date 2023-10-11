@@ -341,7 +341,45 @@ $4$ is selected.
 
 #### Variable Selection
 
-$R$ is selected as it has the least remaining restraints.
+$C_1$ is selected as it has the least remaining restraints.
+
+### 3-1-1
+
+#### Possible Values
+
+| Variable | Values            |
+| -------- | ----------------- |
+| $F$      | [0,1,3,5,6,7,8,9] |
+| $T$      | [1,6]             |
+| $U$      | [0,1,3,5,6,7,8,9] |
+| $W$      | [0,1,3,5,6,7,8,9] | 
+| $R$      | 4                 |
+| $O$      | 2                 |
+| $C_1$    | [0]               |
+| $C_2$    | [0]               |
+| $C_3$    | [0,1]             |
+
+#### Value Selection
+
+$4$ is selected.
+
+#### Forward Checking
+
+| Variable | Values            |
+| -------- | ----------------- |
+| $F$      | [0,1,3,5,6,7,8,9] |
+| $T$      | [1,6]             |
+| $U$      | [0,1,3,5,6,7,8,9] |
+| $W$      | [0,1,3,5,6,7,8,9] | 
+| $R$      | 4                 |
+| $O$      | 2                 |
+| $C_1$    | [0]               |
+| $C_2$    | [0]               |
+| $C_3$    | [0,1]             |
+
+#### Variable Selection
+
+$C_1$ is selected as it has the least remaining restraints.
 
 
 ---
