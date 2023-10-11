@@ -28,7 +28,7 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - None of $F,T,U,W,R,O$ equal each other
 - $2O\mod10=R$
 - $C_1=2O//10$
-- $(2W+C_1)\mod10=[U]$
+- $2W\mod10=[U,U-1]$
 - 
 
 ## Solving
