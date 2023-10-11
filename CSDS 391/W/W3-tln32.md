@@ -213,7 +213,6 @@ Fails, backtracks to previous conflicting assignment.
 
 ### 2-1-1-2
 
-
 #### Possible Values
 
 | Variable | Values            |
@@ -221,7 +220,7 @@ Fails, backtracks to previous conflicting assignment.
 | $F$      | [0,3,4,5,6,7,8,9] |
 | $T$      | [0,3,4,5,6,7,8,9] |
 | $U$      | [0,3,4,5,6,7,8,9] |
-| $W$      | [0,3,4,5,6,7,8,9] |
+| $W$      | [3,4,5,6,7,8,9] |
 | $R$      | 2                 |
 | $O$      | 1                 |
 | $C_1$    | 0                 |
@@ -230,7 +229,7 @@ Fails, backtracks to previous conflicting assignment.
 
 #### Value Selection
 
-$0$ is selected.
+$3$ is selected.
 
 #### Forward Checking
 
@@ -239,10 +238,10 @@ $0$ is selected.
 | $F$      | [0,3,4,5,6,7,8,9] |
 | $T$      | [0,3,4,5,6,7,8,9] |
 | $U$      | [0,3,4,5,6,7,8,9] |
-| $W$      | [0,3,4,5,6,7,8,9] |
+| $W$      | 3                 | 
 | $R$      | 2                 |
 | $O$      | 1                 |
-| $C_1$    | 0                 | 
+| $C_1$    | 0                 |
 | $C_2$    | [0,1]             |
 | $C_3$    | [0,1]             |
 
