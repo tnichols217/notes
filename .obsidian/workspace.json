@@ -46,7 +46,7 @@
               "type": "markdown",
               "state": {
                 "file": "CSDS 391/W/W3-tln32.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -195,7 +195,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c70cea149caf3c93",
+  "active": "7e27489a5fec85a5",
   "lastOpenFiles": [
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "CSDS 391/W/W3-tln32.md",
