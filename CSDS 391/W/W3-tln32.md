@@ -114,7 +114,7 @@ $1$ is selected.
 
 #### Variable Selection
 
-$C_3$ is selected as it has the least remaining restraints.
+$F$ is selected as it has the least remaining restraints.
 
 
 
