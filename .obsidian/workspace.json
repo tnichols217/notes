@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
+                "file": "CSDS 391/Textbook/6 - Adversarial Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
+                "file": "CSDS 391/Textbook/6 - Adversarial Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md"
+                "file": "CSDS 391/Textbook/6 - Adversarial Search.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
+                "file": "CSDS 391/Textbook/6 - Adversarial Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,6 +224,8 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/4 - Complex Search.md",
+    "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/W/W3-tln32.md",
     "CSDS 391/W/W2-tln32.md",
@@ -264,10 +266,8 @@
     "STAT 345/Textbook/1.1 - Set Symbols.md",
     "STAT 345/Textbook/2.4 - Leibnitz's Rule.md",
     "STAT 345/Textbook/Untitled.canvas",
-    "STAT 345/Homework/5.md",
     "STAT 345/Homework/5.pdf",
     "STAT 345/Homework/3.pdf",
-    "ARTS 302/Readings/Ching/3 - Form and Space.md",
     "MUTH 104/Notes",
     "MUTH 104/Assignments/4/4.pdf",
     "MUTH 104/Assignments/4/B.pdf",
