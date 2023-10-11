@@ -58,27 +58,27 @@ We pick the first variable as $O$ as it has 4 constraints related to it followin
 
 #### Value Selection
 
-$1$ is selected.
+$0$ is selected.
 
 #### Forward Checking
 
 | Variable | Values              |
 | -------- | ------------------- |
-| $F$      | 1                   |
+| $F$      | [1]                 |
 | $T$      | [0,2,3,4,5,6,7,8,9] |
 | $U$      | [0,2,3,4,5,6,7,8,9] |
 | $W$      | [0,2,3,4,5,6,7,8,9] |
-| $R$      | [0,2,3,4,5,6,7,8,9] |
+| $R$      | 0                   |
 | $O$      | [0,2,3,4,5,6,7,8,9] |
 | $C_1$    | [0,1]               |
 | $C_2$    | [0,1]               |
-| $C_3$    | [1]                 | 
+| $C_3$    | [0,1]               | 
 
 #### Variable Selection
 
-$C_3$ is selected as it has the least remaining restraints.
+$F$ is selected as it has the least remaining restraints.
 
-### 1-1 $C_3$
+### 1-1 $F$
 
 #### Possible Values
 
