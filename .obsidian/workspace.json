@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/33.md"
+                "file": "MATH 223/Practice Problems/14.1/9.md"
               }
             },
             "group": "ff4b794bee87e419"
@@ -30,7 +30,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/33.md"
+                "file": "MATH 223/Practice Problems/14.1/9.md"
               }
             },
             "group": "ff4b794bee87e419"
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/33.md"
+                "file": "MATH 223/Practice Problems/14.1/9.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1/33.md",
+                "file": "MATH 223/Practice Problems/14.1/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,10 +216,12 @@
       }
     ]
   },
-  "active": "7e27489a5fec85a5",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/14.1.md",
     "MATH 223/Practice Problems/14.1/33.md",
+    "MATH 223/Practice Problems/14.1/33.svg",
+    "MATH 223/Practice Problems/2 - Problem Set 2.md",
+    "MATH 223/Practice Problems/14.1.md",
     "MATH 223/Practice Problems/14.1/9.md",
     "MATH 223/Practice Problems/14.1/9.svg",
     "MATH 223/Practice Problems/14.1/7.svg",
@@ -261,10 +263,7 @@
     "MUTH 104/Assignments/4/B.pdf",
     "MUTH 104/Assignments/4/A.pdf",
     "MUTH 104/Assignments/4/MUTH 104 Assignment 4b.pdf",
-    "APMusicTheory/Chord Progressions.md",
-    "MATH 223/Practice Problems/4 - Problem Set 4.md",
     "MATH 223/Practice Problems/12.7/25.svg",
-    "MATH 223/Practice Problems/12.7/19.svg",
     "church/Untitled.canvas"
   ]
 }
