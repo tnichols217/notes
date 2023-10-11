@@ -76,7 +76,7 @@ $0$ is selected.
 
 #### Variable Selection
 
-$C_3$ is selected as it has the least remaining restraints.
+
 
 ### 2 $O$
 
@@ -102,10 +102,10 @@ $1$ is selected.
 
 | Variable | Values                |
 | -------- | --------------------- |
-| $F$      | [1]                   |
+| $F$      | []                   |
 | $T$      | [0,5]                 | 
-| $U$      | [0,1,2,3,4,5,6,7,8,9] |
-| $W$      | [0,1,2,3,4,5,6,7,8,9] |
+| $U$      | [0,2,3,4,5,6,7,8,9] |
+| $W$      | [0,2,3,4,5,6,7,8,9] |
 | $R$      | [2]                   |
 | $O$      | 1                     |
 | $C_1$    | [0]                   |
