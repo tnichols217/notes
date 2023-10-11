@@ -26,6 +26,17 @@ We pick the first variable as $O$ as it has 4 constraints related to it followin
 
 ### 1
 
+#### Possible Values
+
+| Variable | Values                |
+| -------- | --------------------- |
+| F        | [0,1,2,3,4,5,6,7,8,9] |
+| T        | [0,1,2,3,4,5,6,7,8,9] |
+| U        | [0,1,2,3,4,5,6,7,8,9] |
+| W        | [0,1,2,3,4,5,6,7,8,9] |
+| R        | []                    |
+| O        | 0                     |
+
 #### Value Selection
 
 $0$ is selected.
@@ -41,3 +52,6 @@ $0$ is selected.
 | R        | []                    |
 | O        | 0                     |
 
+Fails, backtracks to previous conflicting assignment.
+
+### 2
