@@ -438,7 +438,7 @@ Fails, backtracks to previous conflicting assignment.
 
 #### Value Selection
 
-$2$ is selected.
+$3$ is selected.
 
 #### Forward Checking
 
@@ -453,4 +453,46 @@ $2$ is selected.
 | $C_1$    | [0]                 | 1                    |
 | $C_2$    | [1]                 | 1                    |
 | $C_3$    | [0,1]               | 2                    |
+
+#### Variable Selection
+
+$R$ is chosen as it has the least remaining restraints
+
+### 4-1 $R$
+
+#### Possible Values
+
+| Variable | Values              | Remaining Restraints |
+| -------- | ------------------- | -------------------- |
+| $F$      | [1]                 | 1                    |
+| $T$      | [1,6]               | 1                    |
+| $U$      | [0,1,2,4,5,6,7,8,9] | 2                    |
+| $W$      | [0,1,2,4,5,6,7,8,9] | 2                    |
+| $R$      | [6]                 | 0                    |
+| $O$      | 3                   | 0                    |
+| $C_1$    | [0]                 | 1                    |
+| $C_2$    | [1]                 | 1                    |
+| $C_3$    | [0,1]               | 2                    |
+
+#### Value Selection
+
+$3$ is selected.
+
+#### Forward Checking
+
+| Variable | Values              | Remaining Restraints |
+| -------- | ------------------- | -------------------- |
+| $F$      | [1]                 | 1                    |
+| $T$      | [1,6]               | 1                    |
+| $U$      | [0,1,2,4,5,6,7,8,9] | 2                    |
+| $W$      | [0,1,2,4,5,6,7,8,9] | 2                    |
+| $R$      | 6                   | 0                    |
+| $O$      | 3                   | 0                    |
+| $C_1$    | [0]                 | 1                    |
+| $C_2$    | [1]                 | 1                    |
+| $C_3$    | [0,1]               | 2                    |
+
+#### Variable Selection
+
+$U$ is chosen as it has the least remaining restraints
 
