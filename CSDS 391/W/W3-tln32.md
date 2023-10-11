@@ -210,7 +210,7 @@ $F$ is chosen as it has the least remaining restraints
 
 #### Value Selection
 
-$4$ is selected.
+$1$ is selected.
 
 #### Forward Checking
 
@@ -224,7 +224,7 @@ $4$ is selected.
 | $O$      | 2                     | 0                    |
 | $C_1$    | [0]                   | 1                    |
 | $C_2$    | [0]                   | 1                    |
-| $C_3$    | 1                     | 1                    |
+| $C_3$    | [1]                   | 1                    |
 
 #### Variable Selection
 
@@ -244,7 +244,7 @@ $C_1$ is chosen as it has the least remaining restraints
 | $O$      | 2                     | 0                    |
 | $C_1$    | [0]                   | 1                    |
 | $C_2$    | [0]                   | 1                    |
-| $C_3$    | 1                     | 1                    |
+| $C_3$    | [1]                   | 1                    |
 
 #### Value Selection
 
@@ -262,7 +262,7 @@ $4$ is selected.
 | $O$      | 2                     | 0                    |
 | $C_1$    | [0]                   | 1                    |
 | $C_2$    | [0]                   | 1                    |
-| $C_3$    | 1                     | 1                    |
+| $C_3$    | [1]                   | 1                    |
 
 #### Variable Selection
 
