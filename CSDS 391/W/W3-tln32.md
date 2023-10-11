@@ -32,7 +32,7 @@ No, solving each game after the random dice rolls using alpha-beta pruning will 
 - $U\mod2=C_1$
 - $C_2=2W//10$
 - $2T\mod10\in[O,O-1]$
-- $U\mod2=C_1$
+- $O\mod2=C_2$
 - $C_3=2T//10$
 - $F=C_3$
 - $F=2T//10$
@@ -66,13 +66,13 @@ $0$ is selected.
 | Variable | Values              |
 | -------- | ------------------- |
 | $F$      | [1,2,3,4,5,6,7,8,9] |
-| $T$      | []                  | 
+| $T$      | []                  |
 | $U$      | [1,2,3,4,5,6,7,8,9] |
 | $W$      | [1,2,3,4,5,6,7,8,9] |
 | $R$      | []                  |
 | $O$      | 0                   |
 | $C_1$    | [0]                 |
-| $C_2$    | [0,1]               |
+| $C_2$    | [0]                 | 
 | $C_3$    | [0,1]               |
 
 Fails, backtracks to previous conflicting assignment.
