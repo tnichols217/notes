@@ -253,7 +253,7 @@ $0$ is selected.
 
 | Variable | Values          |
 | -------- | --------------- |
-| $F$      | [3,4,5,6,7,8,9] |
+| $F$      | [] |
 | $T$      | 0               |
 | $U$      | [3,4,5,6,7,8,9] |
 | $W$      | [3,4,5,6,7,8,9] |
@@ -261,11 +261,11 @@ $0$ is selected.
 | $O$      | 1               |
 | $C_1$    | 0               |
 | $C_2$    | [1]             |
-| $C_3$    | [0]             | 
+| $C_3$    | 0               | 
 
 #### Variable Selection
 
-$C_3$ is selected as it has the least remaining constraints.
+Fails, backtracks to previous conflicting assignment.
 
 ---
 ---
