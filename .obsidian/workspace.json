@@ -11,11 +11,9 @@
             "id": "c70cea149caf3c93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1.md",
-                "mode": "source",
-                "source": false
+                "file": "MATH 223/Practice Problems/14.1/Drawing 2023-10-11 00.21.05.excalidraw.md"
               }
             },
             "group": "ff4b794bee87e419"
@@ -30,11 +28,9 @@
             "id": "7e27489a5fec85a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1.md",
-                "mode": "preview",
-                "source": false
+                "file": "MATH 223/Practice Problems/14.1/Drawing 2023-10-11 00.21.05.excalidraw.md"
               }
             },
             "group": "ff4b794bee87e419"
@@ -99,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1.md"
+                "file": "MATH 223/Practice Problems/14.1/Drawing 2023-10-11 00.21.05.excalidraw.md"
               }
             }
           }
@@ -131,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/14.1.md",
+                "file": "MATH 223/Practice Problems/14.1/Drawing 2023-10-11 00.21.05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,12 +216,14 @@
       }
     ]
   },
-  "active": "c70cea149caf3c93",
+  "active": "7e27489a5fec85a5",
   "lastOpenFiles": [
+    "MATH 223/Practice Problems/14.1.md",
+    "MATH 223/Practice Problems/14.1/Drawing 2023-10-11 00.21.05.excalidraw.md",
+    "MATH 223/Practice Problems/14.1",
     "MATH 223/Practice Problems/13.3.md",
     "MATH 223/Practice Problems/14.3.md",
     "MATH 223/Practice Problems/14.2.md",
-    "MATH 223/Practice Problems/14.1.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/3/3 - Common Distributions.svg",
     "STAT 345/Textbook/3/3 - Common Distributions - 5.svg",
@@ -259,12 +257,10 @@
     "MUTH 104/Assignments/4/B.pdf",
     "MUTH 104/Assignments/4/A.pdf",
     "MUTH 104/Assignments/4/MUTH 104 Assignment 4b.pdf",
-    "MUTH 104/Assignments/4/Assignment 4a.pdf",
     "APMusicTheory/Chord Progressions.md",
     "MATH 223/Practice Problems/4 - Problem Set 4.md",
     "MATH 223/Practice Problems/13.1.md",
     "obsid-readme.md",
-    "obsidian-columns.md",
     "MATH 223/Practice Problems/12.7/25.svg",
     "MATH 223/Practice Problems/12.7/19.svg",
     "MATH 223/Practice Problems/12.4/Drawing 2023-09-11 21.59.34.excalidraw.svg",
