@@ -290,20 +290,58 @@ $0$ is selected.
 
 #### Forward Checking
 
-| Variable | Values          | Remaining Restraints |
-| -------- | --------------- | -------------------- |
-| $F$      | 1               | 0                    |
-| $T$      | [1,6]           | 1                    |
-| $U$      | [6,8]           | 1                    |
-| $W$      | [0,3,5,6,7,8,9] | 2                    |
-| $R$      | 4               | 0                    |
-| $O$      | 2               | 0                    |
-| $C_1$    | 0               | 0                    |
-| $C_2$    | 0               | 0                    |
-| $C_3$    | [1]             | 1                    |
+| Variable | Values | Remaining Restraints |
+| -------- | ------ | -------------------- |
+| $F$      | 1      | 0                    |
+| $T$      | [1,6]  | 1                    |
+| $U$      | [6,8]  | 1                    |
+| $W$      | [0,3]  | 1                    |
+| $R$      | 4      | 0                    |
+| $O$      | 2      | 0                    |
+| $C_1$    | 0      | 0                    |
+| $C_2$    | 0      | 0                    |
+| $C_3$    | [1]    | 1                    |
 
 #### Variable Selection
 
-$C_2$ is chosen as it has the least remaining restraints
+$C_3$ is chosen as it has the least remaining restraints
+
+### 3-1-1-1-1-1 $C_3$
+
+#### Possible Values
+
+| Variable | Values | Remaining Restraints |
+| -------- | ------ | -------------------- |
+| $F$      | 1      | 0                    |
+| $T$      | [1,6]  | 1                    |
+| $U$      | [6,8]  | 1                    |
+| $W$      | [0,3]  | 1                    |
+| $R$      | 4      | 0                    |
+| $O$      | 2      | 0                    |
+| $C_1$    | 0      | 0                    |
+| $C_2$    | 0      | 0                    |
+| $C_3$    | [1]    | 1                    |
+
+#### Value Selection
+
+$1$ is selected.
+
+#### Forward Checking
+
+| Variable | Values | Remaining Restraints |
+| -------- | ------ | -------------------- |
+| $F$      | 1      | 0                    |
+| $T$      | [1,6]  | 1                    |
+| $U$      | [6,8]  | 1                    |
+| $W$      | [0,3]  | 1                    |
+| $R$      | 4      | 0                    |
+| $O$      | 2      | 0                    |
+| $C_1$    | 0      | 0                    |
+| $C_2$    | 0      | 0                    |
+| $C_3$    | 1      | 0                    |
+
+#### Variable Selection
+
+$C_3$ is chosen as it has the least remaining restraints
 
 
