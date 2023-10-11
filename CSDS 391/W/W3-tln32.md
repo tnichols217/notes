@@ -401,7 +401,7 @@ $C_2$ is selected as it has the least remaining restraints.
 
 $0$ is selected.
 
-#### Forward Checking
+#### Forward Checking,3,5,6,7,8,9
 
 | Variable | Values            |
 | -------- | ----------------- |
@@ -463,15 +463,15 @@ $C_3$ is selected as it has the least remaining restraints.
 
 | Variable | Values          |
 | -------- | --------------- |
-| $F$      | [0,3,5,6,7,8,9] |
+| $F$      | [0]                 |
 | $T$      | 1               |
 | $U$      | [0,6,8]         |
-| $W$      | [0,3]           |
+| $W$      | [0,3]           | 
 | $R$      | 4               |
 | $O$      | 2               |
 | $C_1$    | 0               |
 | $C_2$    | 0               |
-| $C_3$    | [0]             | 
+| $C_3$    | [0]             |
 
 #### Value Selection
 
@@ -479,213 +479,19 @@ $0$ is selected.
 
 #### Forward Checking
 
-| Variable | Values          |
-| -------- | --------------- |
-| $F$      | [0,3,5,6,7,8,9] |
-| $T$      | 1               |
-| $U$      | [0,6,8]         |
-| $W$      | [0,3]           |
-| $R$      | 4               |
-| $O$      | 2               |
-| $C_1$    | 0               |
-| $C_2$    | 0               |
-| $C_3$    | 0               | 
+| Variable | Values  |
+| -------- | ------- |
+| $F$      | [0]     | 
+| $T$      | 1       |
+| $U$      | [0,6,8] |
+| $W$      | [0,3]   |
+| $R$      | 4       |
+| $O$      | 2       |
+| $C_1$    | 0       |
+| $C_2$    | 0       |
+| $C_3$    | 0       |
 
 #### Variable Selection
 
 $C_3$ is selected as it has the least remaining restraints.
-
-
----
----
-
-### 2-1-1-1
-
-#### Possible Values
-
-| Variable | Values            |
-| -------- | ----------------- |
-| $F$      | [0,3,4,5,6,7,8,9] |
-| $T$      | [0,3,4,5,6,7,8,9] |
-| $U$      | [0,3,4,5,6,7,8,9] |
-| $W$      | [0,3,4,5,6,7,8,9] |
-| $R$      | 2                 |
-| $O$      | 1                 |
-| $C_1$    | 0                 | 
-| $C_2$    | [0,1]             |
-| $C_3$    | [0,1]             |
-
-#### Value Selection
-
-$0$ is selected.
-
-#### Forward Checking
-
-| Variable | Values          |
-| -------- | --------------- |
-| $F$      | [3,4,5,6,7,8,9] |
-| $T$      | [3,4,5,6,7,8,9] |
-| $U$      | []              |
-| $W$      | 0               |
-| $R$      | 2               |
-| $O$      | 1               |
-| $C_1$    | 0               |
-| $C_2$    | [0]             | 
-| $C_3$    | [0,1]           |
-
-Fails, backtracks to previous conflicting assignment.
-
-### 2-1-1-2
-
-#### Possible Values
-
-| Variable | Values            |
-| -------- | ----------------- |
-| $F$      | [0,3,4,5,6,7,8,9] |
-| $T$      | [0,3,4,5,6,7,8,9] |
-| $U$      | [0,3,4,5,6,7,8,9] |
-| $W$      | [3,4,5,6,7,8,9] |
-| $R$      | 2                 |
-| $O$      | 1                 |
-| $C_1$    | 0                 |
-| $C_2$    | [0,1]             |
-| $C_3$    | [0,1]             | 
-
-#### Value Selection
-
-$3$ is selected.
-
-#### Forward Checking
-
-| Variable | Values          |
-| -------- | --------------- |
-| $F$      | [0,4,5,6,7,8,9] | 
-| $T$      | [0,4,5,6,7,8,9] |
-| $U$      | [6]             |
-| $W$      | 3               |
-| $R$      | 2               |
-| $O$      | 1               |
-| $C_1$    | 0               |
-| $C_2$    | [0]             |
-| $C_3$    | [0,1]           |
-
-#### Variable Selection
-
-$U$ is selected as it has the least remaining constraints.
-
-### 2-1-1-2-1
-
-#### Possible Values
-
-| Variable | Values          |
-| -------- | --------------- |
-| $F$      | [0,4,5,6,7,8,9] |
-| $T$      | [0,4,5,6,7,8,9] | 
-| $U$      | [6]             |
-| $W$      | 3               |
-| $R$      | 2               |
-| $O$      | 1               |
-| $C_1$    | 0               |
-| $C_2$    | [0]             |
-| $C_3$    | [0,1]           |
-
-#### Value Selection
-
-$6$ is selected.
-
-#### Forward Checking
-
-| Variable | Values        |
-| -------- | ------------- |
-| $F$      | [0,4,5,7,8,9] | 
-| $T$      | [0,4,5,7,8,9] |
-| $U$      | 6             |
-| $W$      | 3             |
-| $R$      | 2             |
-| $O$      | 1             |
-| $C_1$    | 0             |
-| $C_2$    | [0]           |
-| $C_3$    | [0,1]         |
-
-#### Variable Selection
-
-$C_2$ is selected as it has the least remaining constraints.
-
-### 2-1-1-2-1-1
-
-#### Possible Values
-
-| Variable | Values        |
-| -------- | ------------- |
-| $F$      | [0,4,5,7,8,9] |
-| $T$      | [0,4,5,7,8,9] | 
-| $U$      | 6             |
-| $W$      | 3             |
-| $R$      | 2             |
-| $O$      | 1             |
-| $C_1$    | 0             |
-| $C_2$    | [0]           |
-| $C_3$    | [0,1]         |
-
-#### Value Selection
-
-$0$ is selected.
-
-#### Forward Checking
-
-| Variable | Values            |
-| -------- | ----------------- |
-| $F$      | [0,3,4,5,6,7,8,9] |
-| $T$      | [0,3,4,5,6,7,8,9] |
-| $U$      | 6                 | 
-| $W$      | 3                 |
-| $R$      | 2                 |
-| $O$      | 1                 |
-| $C_1$    | 0                 |
-| $C_2$    | 0               |
-| $C_3$    | [0,1]             |
-
-#### Variable Selection
-
-$T$ is selected as it has the least remaining constraints.
-
-### 2-1-1-2-1-1-1
-
-#### Possible Values
-
-| Variable | Values        |
-| -------- | ------------- |
-| $F$      | [0,4,5,7,8,9] |
-| $T$      | [0,4,5,7,8,9] | 
-| $U$      | 6             |
-| $W$      | 3             |
-| $R$      | 2             |
-| $O$      | 1             |
-| $C_1$    | 0             |
-| $C_2$    | [0]           |
-| $C_3$    | [0,1]         |
-
-#### Value Selection
-
-$0$ is selected.
-
-#### Forward Checking
-
-| Variable | Values            |
-| -------- | ----------------- |
-| $F$      | [0,3,4,5,6,7,8,9] |
-| $T$      | [0,3,4,5,6,7,8,9] |
-| $U$      | 6                 | 
-| $W$      | 3                 |
-| $R$      | 2                 |
-| $O$      | 1                 |
-| $C_1$    | 0                 |
-| $C_2$    | 0               |
-| $C_3$    | [0,1]             |
-
-#### Variable Selection
-
-$T$ is selected as it has the least remaining constraints.
-
-
 
