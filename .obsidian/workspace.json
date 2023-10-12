@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md",
+                "file": "ARTS 302/Richard Meier.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md"
+                "file": "ARTS 302/Richard Meier.md"
               }
             }
           }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md",
+                "file": "ARTS 302/Richard Meier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,9 +213,11 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "CSDS 391/W/W3-tln32.md",
+    "ARTS 302/Richard Meier.md",
+    "ARTS 302/Richard Meier",
     "CSDS 391/W/W3-tln32.pdf",
     "CSDS 391/W/W3.canvas",
-    "CSDS 391/W/W3-tln32.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "CSDS 391/Textbook/4 - Complex Search.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
@@ -259,8 +261,6 @@
     "STAT 345/Homework/5.pdf",
     "STAT 345/Homework/3.pdf",
     "MUTH 104/Notes",
-    "MUTH 104/Assignments/4/4.pdf",
-    "MUTH 104/Assignments/4/B.pdf",
     "church/Untitled.canvas"
   ]
 }
