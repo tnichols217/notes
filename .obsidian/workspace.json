@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "edc36a810cc74985",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c70cea149caf3c93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "dcfd28cdb8561af3",
         "type": "tabs",
         "children": [
@@ -97,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md"
+                "file": "ARTS 302/Richard Meier.md"
               }
             }
           }
@@ -129,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
+                "file": "ARTS 302/Richard Meier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,8 +163,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c70cea149caf3c93",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Textbook/2.4 - Leibnitz's Rule.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/5.md",
@@ -210,7 +193,6 @@
     "CSDS 391/Textbook/4 - Complex Search.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/W/Untitled.md",
-    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "CSDS 391/W/W2-tln32.md",
     "MATH 223/Practice Problems/5 - Problem Set 5.md",
     "MATH 223/Practice Problems/5 - Problem Set 5.pdf",
