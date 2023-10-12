@@ -61,7 +61,10 @@ Life, education, work history
 ![[Pasted image 20231011210233.png]]
 ![[Pasted image 20231011210310.png]]
 
-### 
+### Museum of Contemporary Art
+
+![[Pasted image 20231011210437.png]]
+![[Pasted image 20231011210516.png]]
 
 ## Sources
 
