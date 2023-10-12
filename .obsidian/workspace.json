@@ -17,8 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "de5e0e351035e1a4"
+            }
           }
         ]
       },
@@ -36,8 +35,7 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "de5e0e351035e1a4"
+            }
           }
         ]
       }
@@ -185,6 +183,7 @@
   },
   "active": "c70cea149caf3c93",
   "lastOpenFiles": [
+    "ARTS 302/attachments/Pasted image 20231011205733.png",
     "ARTS 302/attachments/Pasted image 20231011205725.png",
     "ARTS 302/attachments",
     "CSDS 391/W/W3-tln32.md",
@@ -223,7 +222,6 @@
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/3/3 - Common Distributions.svg",
     "STAT 345/Textbook/3/3 - Common Distributions - 5.svg",
-    "STAT 345/Textbook/3/3 - Common Distributions - 4.svg",
     "STAT 345/Textbook/3",
     "STAT 345/Textbook/3 - Common Distributions.pdf",
     "STAT 345/Textbook/1.2 - Probability Theory.md",

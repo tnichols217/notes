@@ -45,7 +45,9 @@ Life, education, work history
 ## Images
 ### Smith House
 ![[Pasted image 20231011205725.png]]
+![[Pasted image 20231011205733.png]]
 
+### 
 
 ## Sources
 
