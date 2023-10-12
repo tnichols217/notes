@@ -23,7 +23,7 @@ Life, education, work history
 - Started work at **Skidmore, Owings, and Merrill** in NYC
 	- Worked with Marcel Breuer often, also with modernist and international style architecture
 - First recorded plans were for the FDR memorial (1960)
-- Has around 100 recorded plans
+- Has over 130 recorded plans under his name over his career
 - Started own firm in 1963
 	- Made Smith House in 1967 (Darien, Conneticuit)
 		- Built upon Le Corbusier's work (plain white style buildings)
@@ -39,9 +39,10 @@ Life, education, work history
 		- Won the Praemium Imperiale (Japanese) in 1997
 - Took 6 month leave following 5 women accusing him of sexual harassment during the MeToo movement (March 2018)
 	- Meier denied all accusations
-	- Stepped down in October, and retired in 2021
+	- Stepped down in October, and retired in 2021 at the age of 86
 
 ## Sources
 
 https://www.britannica.com/biography/Richard-Meier
+https://en.wikipedia.org/wiki/List_of_works_by_Richard_Meier
 
