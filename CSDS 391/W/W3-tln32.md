@@ -967,4 +967,7 @@ If $WA=green$ and $V=red$, then according to AC-3,
 
 - $SA=blue$
 - $NT=red$
-- $Q=$
+- $Q=green$
+- $NSW=red$
+
+$NSW$ and $V$ touch, which invalidates the partial assignment.
