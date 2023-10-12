@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/4 - Complex Search.md",
+                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/4 - Complex Search.md"
+                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/4 - Complex Search.md",
+                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,13 +214,13 @@
   },
   "active": "baa5339d871f31ba",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/4 - Complex Search.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "CSDS 391/W/W3-tln32.md",
     "CSDS 391/W/W3.canvas",
     "CSDS 391/W/Untitled.md",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
-    "CSDS 391/Textbook/4 - Complex Search.md",
     "CSDS 391/W/W2-tln32.md",
     "MATH 223/Practice Problems/5 - Problem Set 5.md",
     "MATH 223/Practice Problems/5 - Problem Set 5.pdf",
