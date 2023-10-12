@@ -52,6 +52,13 @@ Life, education, work history
 ![[Pasted image 20231011205919.png]]
 ![[Pasted image 20231011205904.png]]
 
+### Atheneum
+
+![[Pasted image 20231011210009.png]]
+![[Pasted image 20231011205956.png]]
+
+### 
+
 ## Sources
 
 https://www.britannica.com/biography/Richard-Meier
