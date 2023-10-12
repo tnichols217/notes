@@ -760,6 +760,44 @@ $0$ is selected.
 
 #### Variable Selection
 
-$C_3$ is chosen as it has the least remaining restraints
+$T$ is chosen as it has the least remaining restraints
+
+### 5-1-1-1-1-1 $T$
+
+#### Possible Values
+
+| Variable | Values  | Remaining Restraints |
+| -------- | ------- | -------------------- |
+| $F$      | 1       | 0                    |
+| $T$      | [7]     | 0                    |
+| $U$      | [0,2,6] | 1                    |
+| $W$      | [0,2,3] | 1                    |
+| $R$      | 8       | 0                    |
+| $O$      | 4       | 0                    |
+| $C_1$    | 0       | 0                    |
+| $C_2$    | 0       | 0                    |
+| $C_3$    | 1       | 0                    |
+
+#### Value Selection
+
+$0$ is selected.
+
+#### Forward Checking
+
+| Variable | Values  | Remaining Restraints |
+| -------- | ------- | -------------------- |
+| $F$      | 1       | 0                    |
+| $T$      | 7       | 0                    |
+| $U$      | [0,2,6] | 1                    |
+| $W$      | [0,2,3] | 1                    |
+| $R$      | 8       | 0                    |
+| $O$      | 4       | 0                    |
+| $C_1$    | 0       | 0                    |
+| $C_2$    | 0       | 0                    |
+| $C_3$    | 1       | 0                    |
+
+#### Variable Selection
+
+$T$ is chosen as it has the least remaining restraints
 
 
