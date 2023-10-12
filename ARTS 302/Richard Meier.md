@@ -15,7 +15,7 @@ Life, education, work history
 
 - Full name of Richard Alan Meier
 - Born October 12, 1934 in Newark, New Jersey (still alive) to a Jewish family
-- Known for modernist architecture: pure geometry, open space, the color white,and light
+- Known for modernist architecture: pure geometry, open space, the color white, and light
 
 ## Timeline
 
@@ -37,6 +37,7 @@ Life, education, work history
 	- Museum of Contemporary Art (Barcelona, Spain - 1995)
 		- Focused a lot on light, simple spaces
 		- Won the Praemium Imperiale (Japanese) in 1997
+			- And has many more awards from various organizations
 - Took 6 month leave following 5 women accusing him of sexual harassment during the MeToo movement (March 2018)
 	- Meier denied all accusations
 	- Stepped down in October, and retired in 2021 at the age of 86 and renamed his firm
