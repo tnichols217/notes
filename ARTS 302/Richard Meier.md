@@ -33,4 +33,6 @@ Life, education, work history
 	- High Museum of Art (Atlanta, Georgia - 1983)
 	- Museum of Contemporary Art (Barcelona, Spain - 1995)
 		- Focused a lot on light, simple spaces
-- Took 6 month le
+- Took 6 month leave following 5 women accusing him of sexual harassment (March 2018)
+	- Meier denied all accusations
+	- Stepped down 
