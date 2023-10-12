@@ -22,7 +22,7 @@ Life, education, work history
 - Graduated from **Cornell Uni**. with a B.A. in Architecture (1957)
 - Started work at **Skidmore, Owings, and Merrill** in NYC
 	- Worked with Marcel Breuer often, also with modernist and international style architecture
-- First recorded plans were for the FDR memorial
+- First recorded plans were for the FDR memorial (1960)
 - Started own firm in 1963
 	- Made Smith House in 1967 (Darien, Conneticuit)
 		- Built upon Le Corbusier's work (plain white style buildings)
@@ -36,7 +36,7 @@ Life, education, work history
 	- Museum of Contemporary Art (Barcelona, Spain - 1995)
 		- Focused a lot on light, simple spaces
 		- Won the Praemium Imperiale (Japanese) in 1997
-- Took 6 month leave following 5 women accusing him of sexual harassment (March 2018)
+- Took 6 month leave following 5 women accusing him of sexual harassment during the MeToo movement (March 2018)
 	- Meier denied all accusations
 	- Stepped down in October, and retired in 2021
 
