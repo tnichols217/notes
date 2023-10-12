@@ -28,5 +28,7 @@ Life, education, work history
 	- Built Douglas House in 1973 (Harbor Springs, Michigan)
 		- Simple geometry, intersecting planes
 - Began to build larger buildings
-	- Atheneum (1979)
-	- 
+	- Atheneum (New Harmony, Indiana - 1979)
+	- Museum of Decorative Arts (Frankfurt, Germany - 1975)
+	- High Museum of Art (Atlanta, Georgia - 1983)
+	- City Hall and Library
