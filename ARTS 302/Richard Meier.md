@@ -31,4 +31,5 @@ Life, education, work history
 	- Atheneum (New Harmony, Indiana - 1979)
 	- Museum of Decorative Arts (Frankfurt, Germany - 1975)
 	- High Museum of Art (Atlanta, Georgia - 1983)
-	- City Hall and Library
+	- Museum of Contemporary Art (Barcelona, Spain - 1995)
+		- Focused a lot on light, simple spaces
