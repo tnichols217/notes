@@ -963,4 +963,8 @@ $2$ is selected.
 
 # 3
 
-If $WA=green$ and $V=red$, then accor
+If $WA=green$ and $V=red$, then according to AC-3,
+
+- $SA=blue$
+- $NT=red$
+- $Q=$
