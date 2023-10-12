@@ -6,7 +6,6 @@
       {
         "id": "edc36a810cc74985",
         "type": "tabs",
-        "dimension": 49.85380116959064,
         "children": [
           {
             "id": "c70cea149caf3c93",
@@ -18,56 +17,29 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "baa5339d871f31ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "de5e0e351035e1a4"
           }
         ]
       },
       {
-        "id": "da5d28d5baac0c64",
+        "id": "5372cc45a647348f",
         "type": "tabs",
-        "dimension": 50.14619883040936,
         "children": [
           {
-            "id": "7e27489a5fec85a5",
+            "id": "24e72fe5cc2e7b1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W3-tln32.md",
-                "mode": "source",
+                "file": "ARTS 302/Richard Meier.md",
+                "mode": "preview",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "0a44592050d6ee13",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "CSDS 391/W/W3.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 765.6666259765625,
-                  "zoom": 0
-                }
-              }
-            }
+            },
+            "group": "de5e0e351035e1a4"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
