@@ -31,10 +31,15 @@ Life, education, work history
 	- Atheneum (New Harmony, Indiana - 1979)
 	- Museum of Decorative Arts (Frankfurt, Germany - 1975)
 	- High Museum of Art (Atlanta, Georgia - 1983)
-		- Won the Pritzker Architecture Prizx
+		- Won the Pritzker Architecture Prize (American) in 1984
 	- Museum of Contemporary Art (Barcelona, Spain - 1995)
 		- Focused a lot on light, simple spaces
+		- Won the Praemium Imperiale (Japanese) in 1997
 - Took 6 month leave following 5 women accusing him of sexual harassment (March 2018)
 	- Meier denied all accusations
 	- Stepped down in October, and retired in 2021
-- 
+
+## Sources
+
+https://www.britannica.com/biography/Richard-Meier
+
