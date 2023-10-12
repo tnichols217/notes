@@ -860,11 +860,31 @@ $2$ is selected.
 
 #### Forward Checking
 
+| Variable | Values | Remaining Restraints |
+| -------- | ------ | -------------------- |
+| $F$      | 1      | 0                    |
+| $T$      | 7      | 0                    |
+| $U$      | 2      | 0                    |
+| $W$      | []     | 0                    | 
+| $R$      | 8      | 0                    |
+| $O$      | 4      | 0                    |
+| $C_1$    | 0      | 0                    |
+| $C_2$    | 0      | 0                    |
+| $C_3$    | 1      | 0                    |
+
+#### Variable Selection
+
+Fails, backtracks to previous conflicting assignment.
+
+### 5-1-1-1-1-1-3 $U$
+
+#### Possible Values
+
 | Variable | Values  | Remaining Restraints |
 | -------- | ------- | -------------------- |
 | $F$      | 1       | 0                    |
 | $T$      | 7       | 0                    |
-| $U$      | 2       | 0                    |
+| $U$      | [6]     | 1                    |
 | $W$      | [0,2,3] | 1                    |
 | $R$      | 8       | 0                    |
 | $O$      | 4       | 0                    |
@@ -872,8 +892,26 @@ $2$ is selected.
 | $C_2$    | 0       | 0                    |
 | $C_3$    | 1       | 0                    |
 
+#### Value Selection
+
+$2$ is selected.
+
+#### Forward Checking
+
+| Variable | Values | Remaining Restraints |
+| -------- | ------ | -------------------- |
+| $F$      | 1      | 0                    |
+| $T$      | 7      | 0                    |
+| $U$      | 6      | 0                    |
+| $W$      | [3]    | 0                    |
+| $R$      | 8      | 0                    |
+| $O$      | 4      | 0                    |
+| $C_1$    | 0      | 0                    |
+| $C_2$    | 0      | 0                    |
+| $C_3$    | 1      | 0                    |
+
 #### Variable Selection
 
-$U$ is chosen as it has the least remaining restraints
+Fails, backtracks to previous conflicting assignment.
 
 
