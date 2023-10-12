@@ -47,7 +47,10 @@ Life, education, work history
 ![[Pasted image 20231011205725.png]]
 ![[Pasted image 20231011205733.png]]
 
-### 
+### Douglas House
+
+![[Pasted image 20231011205919.png]]
+![[Pasted image 20231011205904.png]]
 
 ## Sources
 
