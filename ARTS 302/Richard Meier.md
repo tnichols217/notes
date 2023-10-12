@@ -33,3 +33,4 @@ Life, education, work history
 	- High Museum of Art (Atlanta, Georgia - 1983)
 	- Museum of Contemporary Art (Barcelona, Spain - 1995)
 		- Focused a lot on light, simple spaces
+- Took 6 month le
