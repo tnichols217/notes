@@ -800,4 +800,80 @@ $0$ is selected.
 
 $U$ is chosen as it has the least remaining restraints
 
+### 5-1-1-1-1-1-1 $U$
+
+#### Possible Values
+
+| Variable | Values  | Remaining Restraints |
+| -------- | ------- | -------------------- |
+| $F$      | 1       | 0                    |
+| $T$      | 7       | 0                    |
+| $U$      | [0,2,6] | 1                    |
+| $W$      | [0,2,3] | 1                    |
+| $R$      | 8       | 0                    |
+| $O$      | 4       | 0                    |
+| $C_1$    | 0       | 0                    |
+| $C_2$    | 0       | 0                    |
+| $C_3$    | 1       | 0                    |
+
+#### Value Selection
+
+$0$ is selected.
+
+#### Forward Checking
+
+| Variable | Values | Remaining Restraints |
+| -------- | ------ | -------------------- |
+| $F$      | 1      | 0                    |
+| $T$      | 7      | 0                    |
+| $U$      | 0      | 0                    |
+| $W$      | []     | 0                    |
+| $R$      | 8      | 0                    |
+| $O$      | 4      | 0                    |
+| $C_1$    | 0      | 0                    |
+| $C_2$    | 0      | 0                    |
+| $C_3$    | 1      | 0                    |
+
+#### Variable Selection
+
+Fails, backtracks to previous conflicting assignment.
+
+### 5-1-1-1-1-1-2 $U$
+
+#### Possible Values
+
+| Variable | Values  | Remaining Restraints |
+| -------- | ------- | -------------------- |
+| $F$      | 1       | 0                    |
+| $T$      | [7]     | 0                    |
+| $U$      | [0,2,6] | 1                    |
+| $W$      | [0,2,3] | 1                    |
+| $R$      | 8       | 0                    |
+| $O$      | 4       | 0                    |
+| $C_1$    | 0       | 0                    |
+| $C_2$    | 0       | 0                    |
+| $C_3$    | 1       | 0                    |
+
+#### Value Selection
+
+$0$ is selected.
+
+#### Forward Checking
+
+| Variable | Values  | Remaining Restraints |
+| -------- | ------- | -------------------- |
+| $F$      | 1       | 0                    |
+| $T$      | 7       | 0                    |
+| $U$      | [0,2,6] | 1                    |
+| $W$      | [0,2,3] | 1                    |
+| $R$      | 8       | 0                    |
+| $O$      | 4       | 0                    |
+| $C_1$    | 0       | 0                    |
+| $C_2$    | 0       | 0                    |
+| $C_3$    | 1       | 0                    |
+
+#### Variable Selection
+
+$U$ is chosen as it has the least remaining restraints
+
 
