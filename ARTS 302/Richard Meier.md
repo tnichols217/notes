@@ -25,4 +25,8 @@ Life, education, work history
 - Started own firm in 1963
 	- Made Smith House in 1967 (Darien, Conneticuit)
 		- Built upon Le Corbusier's work (plain white style buildings)
-	- Built Douglas House in 1973 (Harbor Springs, Mi)
+	- Built Douglas House in 1973 (Harbor Springs, Michigan)
+		- Simple geometry, intersecting planes
+- Began to build larger buildings
+	- Atheneum (1979)
+	- 
