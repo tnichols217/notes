@@ -23,7 +23,7 @@ Life, education, work history
 - Started work at **Skidmore, Owings, and Merrill** in NYC
 	- Worked with Marcel Breuer often, also with modernist and international style architecture
 - First recorded plans were for the FDR memorial (1960)
-- 
+- Has around 100 recorded plans
 - Started own firm in 1963
 	- Made Smith House in 1967 (Darien, Conneticuit)
 		- Built upon Le Corbusier's work (plain white style buildings)
