@@ -23,4 +23,6 @@ Life, education, work history
 - Started work at **Skidmore, Owings, and Merrill** in NYC
 	- Worked with Marcel Breuer often, also with modernist and international style architecture
 - Started own firm in 1963
-	- Made Smith House in 1967 (Darien, C)
+	- Made Smith House in 1967 (Darien, Conneticuit)
+		- Built upon Le Corbusier's work (plain white style buildings)
+	- Built Douglas House in 1973 (Harbor Springs, Mi)
