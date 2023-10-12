@@ -31,7 +31,6 @@ Life, education, work history
 		- Simple geometry, intersecting planes
 - Began to build larger buildings
 	- Atheneum (New Harmony, Indiana - 1979)
-	- Museum of Decorative Arts (Frankfurt, Germany - 1975)
 	- High Museum of Art (Atlanta, Georgia - 1983)
 		- Won the Pritzker Architecture Prize (American) in 1984
 	- Museum of Contemporary Art (Barcelona, Spain - 1995)
@@ -57,7 +56,9 @@ Life, education, work history
 ![[Pasted image 20231011210009.png]]
 ![[Pasted image 20231011205956.png]]
 
-### 
+### High Museum of Art
+
+
 
 ## Sources
 
