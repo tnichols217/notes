@@ -22,6 +22,7 @@ Life, education, work history
 - Graduated from **Cornell Uni**. with a B.A. in Architecture (1957)
 - Started work at **Skidmore, Owings, and Merrill** in NYC
 	- Worked with Marcel Breuer often, also with modernist and international style architecture
+- First recorded plans were for the FDR memorial
 - Started own firm in 1963
 	- Made Smith House in 1967 (Darien, Conneticuit)
 		- Built upon Le Corbusier's work (plain white style buildings)
