@@ -42,8 +42,14 @@ Life, education, work history
 	- Meier denied all accusations
 	- Stepped down in October, and retired in 2021 at the age of 86 and renamed his firm
 
+## Images
+### Smith House
+![[Pasted image 20231011205725.png]]
+
+
 ## Sources
 
 https://www.britannica.com/biography/Richard-Meier
 https://en.wikipedia.org/wiki/List_of_works_by_Richard_Meier
 https://www.archpaper.com/2021/06/richard-meier-retires-eponymous-firm-changes-name-and-restructures/
+https://en.wikipedia.org/wiki/Richard_Meier
