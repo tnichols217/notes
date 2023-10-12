@@ -845,8 +845,8 @@ Fails, backtracks to previous conflicting assignment.
 | Variable | Values  | Remaining Restraints |
 | -------- | ------- | -------------------- |
 | $F$      | 1       | 0                    |
-| $T$      | [7]     | 0                    |
-| $U$      | [0,2,6] | 1                    |
+| $T$      | 7       | 0                    |
+| $U$      | [2,6]   | 1                    |
 | $W$      | [0,2,3] | 1                    |
 | $R$      | 8       | 0                    |
 | $O$      | 4       | 0                    |
@@ -856,7 +856,7 @@ Fails, backtracks to previous conflicting assignment.
 
 #### Value Selection
 
-$0$ is selected.
+$2$ is selected.
 
 #### Forward Checking
 
@@ -864,7 +864,7 @@ $0$ is selected.
 | -------- | ------- | -------------------- |
 | $F$      | 1       | 0                    |
 | $T$      | 7       | 0                    |
-| $U$      | [0,2,6] | 1                    |
+| $U$      | 2       | 0                    |
 | $W$      | [0,2,3] | 1                    |
 | $R$      | 8       | 0                    |
 | $O$      | 4       | 0                    |
