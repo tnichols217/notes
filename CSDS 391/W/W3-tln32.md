@@ -798,6 +798,6 @@ $0$ is selected.
 
 #### Variable Selection
 
-$T$ is chosen as it has the least remaining restraints
+$U$ is chosen as it has the least remaining restraints
 
 
