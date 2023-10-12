@@ -58,8 +58,8 @@ Life, education, work history
 
 ### High Museum of Art
 
-
-
+![[Pasted image 20231011210233.png]]
+![[Pasted image 20231011210310.png]]
 ## Sources
 
 https://www.britannica.com/biography/Richard-Meier
