@@ -14,8 +14,8 @@ Life, education, work history
 ## Basic Info
 
 - Full name of Richard Alan Meier
-- Born October 12, 1934 in Newark, New Jersey (still alive)
-- Known for modernist architecture: pure geometry, open space, and light
+- Born October 12, 1934 in Newark, New Jersey (still alive) to a Jewish family
+- Known for modernist architecture: pure geometry, open space, the color white,and light
 
 ## Timeline
 
@@ -39,10 +39,10 @@ Life, education, work history
 		- Won the Praemium Imperiale (Japanese) in 1997
 - Took 6 month leave following 5 women accusing him of sexual harassment during the MeToo movement (March 2018)
 	- Meier denied all accusations
-	- Stepped down in October, and retired in 2021 at the age of 86
+	- Stepped down in October, and retired in 2021 at the age of 86 and renamed his firm
 
 ## Sources
 
 https://www.britannica.com/biography/Richard-Meier
 https://en.wikipedia.org/wiki/List_of_works_by_Richard_Meier
-
+https://www.archpaper.com/2021/06/richard-meier-retires-eponymous-firm-changes-name-and-restructures/
