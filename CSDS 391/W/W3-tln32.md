@@ -963,4 +963,4 @@ $2$ is selected.
 
 # 3
 
-
+If $WA=green$ and $V=red$, then accor
