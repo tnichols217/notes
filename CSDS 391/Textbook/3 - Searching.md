@@ -66,7 +66,9 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 ## Common search methods
 
-### Depth first search
+### Uninformed Search
+
+#### Depth first search
 
 - Does not guarantee most optimal route upon first find of the goal
 - Memory efficient
@@ -75,7 +77,7 @@ How much memory or storage the algorithm uses in order to produce a result.
 2. From that child, repeat step 1 until there are no more children or you have reached the goal state
 3. Move up one parent until there are unexplored children and go back to step 1 from that state
 
-### Breadth first search
+#### Breadth first search
 
 - Guarantees the most optimal route
 - Uses a lot of memory
@@ -84,7 +86,7 @@ How much memory or storage the algorithm uses in order to produce a result.
 2. Explore all children nodes
 3. Repeat step 1 until goal state is found
 
-### Best-first search
+#### Best-first search
 
 - Guarantees the most optimal route
 - Uses a lot of memory
@@ -95,29 +97,31 @@ How much memory or storage the algorithm uses in order to produce a result.
 3. Explore the closest child
 4. Repeat step 1 until goal state is found
 
-### Dijkstra's algorithm / uniform-cost search
+#### Dijkstra's algorithm / uniform-cost search
 
 - Is the same as Best-first search where the evaluation function is the path distance from the starting node
 - More applicable for real world use, as paths are not normally of equal cost
 
-### Depth limited search
+#### Depth limited search
 
 - Perform depth first search until a limit (pretend that things at the limit have no children)
 - Then pick a different node to begin from again
 
-### Bidirectional search
+#### Bidirectional search
 
 - Performing an algorithm from both the beginning and end state, with the end working backwards
 - Once they meet or "see" each other then a path has been found
 - Often combined with uniform cost search as less exploring needs to be done
 
-### Greedy best first search
+### Info
+
+#### Greedy best first search
 
 - Use an estimated cost to goal from each node when creating the heuristic
 - For example taking an absolute distance from that node to the target without exploring to get an estimate
 - Then pick the node that is estimated to be the closest to the goal
 
-### A* search
+#### A* search
 
 1. Pop first element on priority queue
 2. Check if is goal
@@ -131,28 +135,28 @@ How much memory or storage the algorithm uses in order to produce a result.
 - If the heuristic is admissible, then A* search is complete and optimal based on the triangle inequality
 - Uses a lot of memory
 
-#### Admissible Heuristics
+##### Admissible Heuristics
 
 - Never overestimates the possible path to the goal state
 
-### Weighted A\* search
+#### Weighted A\* search
 
 - Similar to A* except the estimated target cost is weighted above 1 compared to the distance from initial state weight
 - Gives multiple times speedup at the cost of a slightly less optimal result
 
-### Beam search
+#### Beam search
 
 - Similar to A\* except limits the size of the unexplored nodes to a certain number and discards the rest
 - Much lower memory consumption at the cost of a less optimal result and may not be complete
 
-### Iterative Deepening A\* (IDA\*) search
+#### Iterative Deepening A\* (IDA\*) search
 
 - Similar to A* except uses an iterative deepening approach
 - It only keeps all nodes from the start to finish in memory and uses those to compare
 - Uses less memory at the expense of higher compute time
 - Uses the $f$-cost of the smallest node that exceeded the previous cutoff
 
-### Recursive best-first search RBFS
+#### Recursive best-first search RBFS
 
 - Attempts to mimic a best first search
 - Explores down until it hits the $fLimit$, then backs up, picking the second lowest estimated score
@@ -160,12 +164,12 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Uses much less memory, better option if A* is too heavy
 - Reexplores a lot of nodes (waste of resource and time)
 
-### Simple Memory bounded A\* (SMA\*)
+#### Simple Memory bounded A\* (SMA\*)
 
 - Similar to A*, except when reaching the memory limit, the worse node is thrown away
 - If a branch comes to a dead end or is proven suboptimal (due to triangle inequality), it can be thrown away and the memory used to re-explore
 
-### Bidirectional Heuristic Search
+#### Bidirectional Heuristic Search
 
 - Performs an informed search from both the beginning and the end working to meet in the middle
 - Cannot be proven to be optimal

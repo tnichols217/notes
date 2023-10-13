@@ -37,10 +37,12 @@ Measured by
 
 ### Weighted A\*
 
+### Beam
+
 ### IDA\*
 
 ### Recursive Best-first
 
 ### SMA\*
 
-### Bidirectional Heuris
+### Bidirectional Heuristic Search
