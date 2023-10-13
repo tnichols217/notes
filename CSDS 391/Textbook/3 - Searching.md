@@ -160,10 +160,10 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Uses much less memory, better option if A* is too heavy
 - Reexplores a lot of nodes (waste of resource and time)
 
-### Simple Memory bounded A* (SMA*)
+### Simple Memory bounded A\* (SMA\*)
 
 - Similar to A*, except when reaching the memory limit, the worse node is thrown away
-- If a branch comes to a dead end or is proven subobtimal (due to triangle inequality), it can be thrown away and the memory used to re-explore
+- If a branch comes to a dead end or is proven suboptimal (due to triangle inequality), it can be thrown away and the memory used to re-explore
 
 ### Bidirectional Heuristic Search
 
