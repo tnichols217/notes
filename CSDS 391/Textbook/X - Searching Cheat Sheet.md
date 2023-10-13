@@ -13,3 +13,4 @@ Measured by
 - Optimality
 - Time / Space Complexity
 
+# Types of Searches
