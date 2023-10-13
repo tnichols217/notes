@@ -148,6 +148,7 @@ How much memory or storage the algorithm uses in order to produce a result.
 ### Iterative Deepening A\* (IDA\*) search
 
 - Similar to A* except uses an iterative deepening approach
+- It only keeps all nodes from the start to finish in memory and uses those to compare
 - Uses less memory at the expense of higher compute time
 - Uses the $f$-cost of the smallest node that exceeded the previous cutoff
 
