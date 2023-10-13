@@ -14,3 +14,21 @@ Measured by
 - Time / Space Complexity
 
 # Types of Searches
+
+## Uninformed Search
+
+### Depth First
+
+### Breadth First
+
+### Best-first
+
+### Uniform-cost
+
+### Depth limited
+
+### Bidirectional
+
+## Informed Search
+
+#
