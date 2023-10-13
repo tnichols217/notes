@@ -135,17 +135,17 @@ How much memory or storage the algorithm uses in order to produce a result.
 
 - Never overestimates the possible path to the goal state
 
-### Weighted A* search
+### Weighted A\* search
 
 - Similar to A* except the estimated target cost is weighted above 1 compared to the distance from initial state weight
 - Gives multiple times speedup at the cost of a slightly less optimal result
 
 ### Beam search
 
-- Similar to A* except limits the size of the unexplored nodes to a certain number and discards the rest
+- Similar to A\* except limits the size of the unexplored nodes to a certain number and discards the rest
 - Much lower memory consumption at the cost of a less optimal result and may not be complete
 
-### Iterative Deepening A* (IDA*) search
+### Iterative Deepening A\* (IDA\*) search
 
 - Similar to A* except uses an iterative deepening approach
 - It only keeps all nodes from the start to finish in memory and uses those to compare
@@ -163,7 +163,7 @@ How much memory or storage the algorithm uses in order to produce a result.
 ### Simple Memory bounded A* (SMA*)
 
 - Similar to A*, except when reaching the memory limit, the worse node is thrown away
-- If a branch comes to a dead end or is proven subobtimal (due to triangle inequality), it can be thrown away and the memory used to reexplore
+- If a branch comes to a dead end or is proven subobtimal (due to triangle inequality), it can be thrown away and the memory used to re-explore
 
 ### Bidirectional Heuristic Search
 
