@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/4 - Complex Search.md",
-                "mode": "preview",
+                "file": "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "874a36c44bbb5c37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87f138783564c592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 391/Textbook/3 - Searching.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -79,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/4 - Complex Search.md"
+                "file": "CSDS 391/Textbook/X - Searching Cheat Sheet.md"
               }
             }
           }
@@ -111,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/4 - Complex Search.md",
+                "file": "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,10 +183,11 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/3 - Searching.md",
+    "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
+    "CSDS 391/Textbook/4 - Complex Search.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
-    "CSDS 391/Textbook/4 - Complex Search.md",
-    "CSDS 391/Textbook/3 - Searching.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
     "CSDS 391/Textbook/1 - Intro to AI.md",
     "ARTS 302/Richard Meier.md",
@@ -206,7 +225,6 @@
     "MATH 223/Practice Problems/14.1/33.md",
     "MATH 223/Practice Problems/14.1/9.md",
     "MATH 223/Practice Problems/2 - Problem Set 2.md",
-    "MATH 223/Practice Problems/14.1/7.md",
     "MATH 223/Practice Problems/14.1",
     "STAT 345/Textbook/3",
     "STAT 345/Textbook/3 - Common Distributions.pdf",
