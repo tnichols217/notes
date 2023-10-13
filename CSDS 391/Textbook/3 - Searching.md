@@ -1,6 +1,6 @@
 ---
 date created: 2023-09-18 23:09
-date updated: 2023-09-19 02:01
+date updated: 2023-10-13 01:05
 ---
 
 # Searching
@@ -122,8 +122,8 @@ How much memory or storage the algorithm uses in order to produce a result.
 1. Pop first element on priority queue
 2. Check if is goal
 3. Get neighbors
-	1. Calculate heuristics and add to queue
-	2. Add to visited list
+   1. Calculate heuristics and add to queue
+   2. Add to visited list
 4. Repeat until goal is found
 
 - Most common algorithm
@@ -145,7 +145,7 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Similar to A* except limits the size of the unexplored nodes to a certain number and discards the rest
 - Much lower memory consumption at the cost of a less optimal result and may not be complete
 
-### Iterative Deepening A\* (IDA\*) search
+### Iterative Deepening A* (IDA*) search
 
 - Similar to A* except uses an iterative deepening approach
 - It only keeps all nodes from the start to finish in memory and uses those to compare
@@ -160,7 +160,7 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Uses much less memory, better option if A* is too heavy
 - Reexplores a lot of nodes (waste of resource and time)
 
-### Simple Memory bounded A\* (SMA*)
+### Simple Memory bounded A* (SMA*)
 
 - Similar to A*, except when reaching the memory limit, the worse node is thrown away
 - If a branch comes to a dead end or is proven subobtimal (due to triangle inequality), it can be thrown away and the memory used to reexplore
@@ -170,10 +170,10 @@ How much memory or storage the algorithm uses in order to produce a result.
 - Performs an informed search from both the beginning and the end working to meet in the middle
 - Cannot be proven to be optimal
 - Has two types:
-	- front to front
-		- Have the goal update to the other frontier
-	- front to end
-		- Have the goal remain to be the other side (root or goal)
+  - front to front
+    - Have the goal update to the other frontier
+  - front to end
+    - Have the goal remain to be the other side (root or goal)
 - For front to front, the heuristic is often max(2g, g+h)
 
 ## Search Contours
@@ -249,4 +249,3 @@ A queue where the last node to be added get popped first
 
 - Using a precomputed path but subtracting off the end of it
 - Differential because of the subtraction
-
