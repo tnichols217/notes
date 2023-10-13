@@ -31,4 +31,16 @@ Measured by
 
 ## Informed Search
 
-#
+### Greedy Best-first
+
+### A\*
+
+### Weighted A\*
+
+### IDA\*
+
+### Recursive Best-first
+
+### SMA\*
+
+### Bidirectional Heuris
