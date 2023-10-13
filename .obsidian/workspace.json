@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/3 - Searching.md",
+                "file": "CSDS 391/Textbook/4 - Complex Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/3 - Searching.md"
+                "file": "CSDS 391/Textbook/X - Searching Cheat Sheet.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/3 - Searching.md",
+                "file": "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,11 +181,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "87f138783564c592",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
-    "CSDS 391/Textbook/3 - Searching.md",
     "CSDS 391/Textbook/4 - Complex Search.md",
+    "CSDS 391/Textbook/3 - Searching.md",
+    "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
