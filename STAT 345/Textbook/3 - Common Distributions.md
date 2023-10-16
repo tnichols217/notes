@@ -55,12 +55,14 @@ Given $x=1,2,...;\quad 0\le p\le 1$
 - Predicts number of samples needed to get a sample of particular trait
 
 $P(X=x)=p(1-p)^{x-1}$
-$\text{CDF}=\begin{cases}1-(1-p)^{\lfloor x\rfloor}$
+$\text{CDF}=\begin{cases}1-(1-p)^{\lfloor x\rfloor}&x\ge0\\0&x<0\end{cases}$
 $\mu=1/p$
 $\sigma^2=\frac{1-p}{p^2}$
 $M(t)=\frac{pe^t}{1-(1-p)e^t}$
 
 ## Hypergeometric $(N,K,M)$
+
+
 
 Given $x=0,1,2,...,K;\quad M-(N-K)\le x\le M;\quad N,M,K=0,1,2,...$
 - $N$ is the population size
