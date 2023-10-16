@@ -134,6 +134,8 @@ $M(t)=(\frac{1}{1-2t})^{p/2}$
 
 ## Double Exponential $(\mu,\sigma)$
 
+
+
 Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad \sigma>0$
 
 $f(x)=\frac{e^{-|x-\mu|/\sigma}}{2\sigma}$
