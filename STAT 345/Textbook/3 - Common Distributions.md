@@ -181,7 +181,7 @@ $M(t)=e^{\mu t}\Gamma(1+\beta t)$
 
 ## Lognormal $(\mu,\sigma^2)$
 
-Distribution where the log of a variable is normally distributio
+Distribution where the log of a variable is normally distributed. Similar in appearance to the gamma distribution.
 
 Given $0\le x<\infty;\quad -\infty<\mu<\infty;\quad \sigma>0$
 
