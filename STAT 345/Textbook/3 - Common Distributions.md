@@ -159,7 +159,7 @@ $EX^n=\frac{\Gamma(\frac{v_1+2n}{2})\Gamma(\frac{v_2-2n}{2})}{\Gamma(v_1/2)\Gamm
 
 ## Gamma $(\alpha,\beta)$
 
-$\alpha$ being the shape parameter and $\beta$ being the scale parameter
+$\alpha$ being the shape parameter and $\beta$ being the scale parameter, 
 
 Given $0\le x<\infty;\quad \alpha,\beta>0$
 
