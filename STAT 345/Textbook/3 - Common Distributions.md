@@ -117,7 +117,7 @@ $M(t)=1+\sum\limits_{k=1}^\infty\frac{t^k}{k!}\prod\limits_{r=0}^{k-1}\frac{a+r}
 
 ## Cauchy $(\theta,\sigma)$
 
-Symmetric and bell shaped, 
+Symmetric, bell shaped, and has no mean, 
 
 Given $-\infty<x<\infty;\quad-\infty<\theta<\infty;\quad\sigma>0$
 
