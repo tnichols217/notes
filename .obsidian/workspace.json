@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "STAT 345/Textbook/3 - Common Distributions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             },
@@ -183,7 +183,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "87f138783564c592",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
     "CSDS 391/Textbook/4 - Complex Search.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
