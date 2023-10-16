@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/3.3 - Probability Inequalities.md",
+                "file": "STAT 345/Textbook/3.3 - Distribution Properties.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/3.3 - Probability Inequalities.md",
+                "file": "STAT 345/Textbook/3.3 - Distribution Properties.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/3.3 - Probability Inequalities.md"
+                "file": "STAT 345/Textbook/3.3 - Distribution Properties.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/3.3 - Probability Inequalities.md",
+                "file": "STAT 345/Textbook/3.3 - Distribution Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
     "STAT 345/Textbook/3 - Common Distributions.md",
-    "STAT 345/Textbook/3.3 - Probability Inequalities.md",
+    "STAT 345/Textbook/3.3 - Distribution Properties.md",
     "STAT 345/Textbook/2.4 - Leibnitz's Rule.md",
     "CSDS 391/Textbook/4 - Complex Search.md",
     "Biology/Ch8/Chemical Formulas.md",
