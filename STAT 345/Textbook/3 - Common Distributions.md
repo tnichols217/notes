@@ -157,7 +157,7 @@ $\mu=\frac{v_2}{v_2-2}$
 $\sigma^2=2(\frac{v_2}{v_2-2})^2\frac{v_1+v_2-2}{v_1(v_2-4)}$
 $EX^n=\frac{\Gamma(\frac{v_1+2n}{2})\Gamma(\frac{v_2-2n}{2})}{\Gamma(v_1/2)\Gamma(v_2/2)}(\frac{v_2}{v_1})^n\quad;n<\frac{v_2}{2}$
 
-## Gamma Distribution $(\alpha,\beta)$
+## Gamma $(\alpha,\beta)$
 
 Given $0\le x<\infty;\quad \alpha,\beta>0$
 
