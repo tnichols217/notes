@@ -134,7 +134,7 @@ $M(t)=(\frac{1}{1-2t})^{p/2}$
 
 ## Double Exponential $(\mu,\sigma)$
 
-Given by reflecting the exponential around its mean. 
+Given by reflecting the exponential around its mean. Does not have a bell shape.
 
 Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad \sigma>0$
 
@@ -144,6 +144,8 @@ $\sigma^2=2\sigma^2$
 $M(t)=\frac{e^{\mu t}}{1-(\sigma t)^2}$
 
 ## Exponential $\beta$
+
+
 
 Given $0\le x<\infty;\quad \beta>0$
 
