@@ -106,6 +106,8 @@ $M(t)=e^{\lambda(e^t-1)}$
 
 ## Beta $(\alpha,\beta)$
 
+
+
 Given $0\le x\le 1;\quad \alpha>0;\quad \beta>0$
 
 $f(x)=\frac{x^{\alpha-1}(1-x)^{\beta-1}}{B(\alpha,\beta)}$
