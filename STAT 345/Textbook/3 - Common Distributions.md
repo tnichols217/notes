@@ -134,7 +134,7 @@ $M(t)=(\frac{1}{1-2t})^{p/2}$
 
 ## Double Exponential $(\mu,\sigma)$
 
-
+Given by reflecting the exponential around its mean. 
 
 Given $-\infty<x<\infty;\quad -\infty<\mu<\infty;\quad \sigma>0$
 
