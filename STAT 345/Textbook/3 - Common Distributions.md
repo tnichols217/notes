@@ -35,6 +35,8 @@ $M(t)=(pe^t+(1-p))^n$
 
 ## Discrete Uniform $(N)$
 
+Models the chance of $x$ as a result when all numbers from $1$ to $N$ are equally likely.
+
 Given $x=1,2,...,N;\quad N=1,2,...$
 - $N$ is the largest possible sample
 - All numbers from $1$ to $N$ are equally likely
