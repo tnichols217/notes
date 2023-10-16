@@ -106,7 +106,7 @@ $M(t)=e^{\lambda(e^t-1)}$
 
 ## Beta $(\alpha,\beta)$
 
-
+Often used to model proportions that lie on $(1,0)$
 
 Given $0\le x\le 1;\quad \alpha>0;\quad \beta>0$
 
@@ -116,6 +116,8 @@ $\sigma^2=\frac{\alpha\beta}{(\alpha+\beta)^2(\alpha+\beta+1)}$
 $M(t)=1+\sum\limits_{k=1}^\infty\frac{t^k}{k!}\prod\limits_{r=0}^{k-1}\frac{a+r}{\alpha+\beta+r}$
 
 ## Cauchy $(\theta,\sigma)$
+
+Symmetric and bell shaped, 
 
 Given $-\infty<x<\infty;\quad-\infty<\theta<\infty;\quad\sigma>0$
 
