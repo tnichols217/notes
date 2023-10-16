@@ -14,12 +14,14 @@ Given $x=0,1;\quad 0\le p\le 1$
 - Has $p$ probability of being $1$ and $1-p$ probability of being $0$
 
 $P(X=x)=p^x(1-p)^{1-x}$
-$CDF=\begin{cases}0&\end{cases}$
+$\text{CDF}=\begin{cases}0&x<0\\1-p&0\le x<1\\1&x\ge1\end{cases}$
 $\mu=p$
 $\sigma^2=p(1-p)$
 $M(t)=(1-p)+pe^t$
 
 ## Binomial $(n,p)$
+
+Models the probabilit
 
 Given $x=0,1,2,...,n;\quad 0\le p\le 1$
 - $p$ is probability of selecting a particular trait
