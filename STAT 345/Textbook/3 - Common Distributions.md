@@ -211,7 +211,7 @@ $MX^n=\begin{cases}\frac{\Gamma(\frac{n+1}{2})\Gamma(\frac{v-n}{2})}{\sqrt{\pi}\
 
 ## Uniform $(a,b)$
 
-All values between $a$ and $b$ 
+All values between $a$ and $b$ are evenly distributed and $x$ has equal chance of landing anywhere on that range.
 
 Given $a\le x\le b$
 - $a$ is the lower bound of the distribution
