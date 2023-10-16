@@ -76,7 +76,7 @@ $\sigma^2=\frac{KM(N-M)(N-K)}{N^2(N-1)}$
 
 ## Negative Binomial $(r,p)$
 
-Predicts likelihood of sampling $r$ successes of $p$ probability 
+Predicts likelihood of sampling $r$ successes of $p$ probability after $x+r$ samples
 
 Given $x=0,1,2,...;\quad0\le p\le1$
 - $p$ is the probability of getting a particular trait in one sample
@@ -89,6 +89,8 @@ $\sigma^2=\frac{r(1-p)}{p^2}$
 $M(t)=(\frac{p}{1-(1-p)e^t})^r$
 
 ## Poisson Distribution $(\lambda)$
+
+
 
 Given $x=0,1,2,...;\quad0\le\lambda$
 - $\lambda$ is the number of times on average an event will happen within an interval
