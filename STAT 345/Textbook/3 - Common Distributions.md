@@ -117,7 +117,7 @@ $M(t)=1+\sum\limits_{k=1}^\infty\frac{t^k}{k!}\prod\limits_{r=0}^{k-1}\frac{a+r}
 
 ## Cauchy $(\theta,\sigma)$
 
-Symmetric, bell shaped, and has no mean, often used as an extreme edge case for statistical theory, but also 
+Symmetric, bell shaped, and has no mean, often used as an extreme edge case for statistical theory, but also represents the ratio between two normal distributions among other unsuspecting things.
 
 Given $-\infty<x<\infty;\quad-\infty<\theta<\infty;\quad\sigma>0$
 
@@ -180,6 +180,8 @@ $\sigma^2=\frac{\pi^2\beta^2}{3}$
 $M(t)=e^{\mu t}\Gamma(1+\beta t)$
 
 ## Lognormal $(\mu,\sigma^2)$
+
+Distribution where the log of a variable is normally distributio
 
 Given $0\le x<\infty;\quad -\infty<\mu<\infty;\quad \sigma>0$
 
