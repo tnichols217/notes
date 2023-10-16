@@ -55,7 +55,7 @@ Given $x=1,2,...;\quad 0\le p\le 1$
 - Predicts number of samples needed to get a sample of particular trait
 
 $P(X=x)=p(1-p)^{x-1}$
-$\text{CDF}=(1-p)^{x-1}$
+$\text{CDF}=\begin{cases}1-(1-p)^{\lfloor x\rfloor}$
 $\mu=1/p$
 $\sigma^2=\frac{1-p}{p^2}$
 $M(t)=\frac{pe^t}{1-(1-p)e^t}$
