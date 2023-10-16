@@ -19,8 +19,19 @@
               }
             },
             "group": "91dad52aafa5267d"
+          },
+          {
+            "id": "6e3195bea4a341ec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "874a36c44bbb5c37",
@@ -183,7 +194,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "66c4bc840829616c",
+  "active": "6e3195bea4a341ec",
   "lastOpenFiles": [
     "CSDS 391/Textbook/4 - Complex Search.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
