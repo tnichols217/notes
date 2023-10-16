@@ -29,7 +29,6 @@ Given $x=0,1,2,...,n;\quad 0\le p\le 1$
 - Predicts probability of getting certain number of chosen trait in sample set
 
 $P(X=x)=\begin{pmatrix}n\\x\end{pmatrix}p^x(1-p)^{n-x}$
-$\text{CDF}=$
 $\mu=np$
 $\sigma^2=np(1-p)$
 $M(t)=(pe^t+(1-p))^n$
