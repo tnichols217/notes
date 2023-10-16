@@ -62,7 +62,7 @@ $M(t)=\frac{pe^t}{1-(1-p)e^t}$
 
 ## Hypergeometric $(N,K,M)$
 
-Predicts likelihood of selecting $x$ successes after 
+Predicts likelihood of selecting $x$ successes after $K$ trials of selecting from a population of $N$ with $M$ samples within that are successes without replacement.
 
 Given $x=0,1,2,...,K;\quad M-(N-K)\le x\le M;\quad N,M,K=0,1,2,...$
 - $N$ is the population size
@@ -75,6 +75,8 @@ $\mu=KM/N$
 $\sigma^2=\frac{KM(N-M)(N-K)}{N^2(N-1)}$
 
 ## Negative Binomial $(r,p)$
+
+
 
 Given $x=0,1,2,...;\quad0\le p\le1$
 - $p$ is the probability of getting a particular trait in one sample
