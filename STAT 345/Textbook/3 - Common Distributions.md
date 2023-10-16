@@ -21,7 +21,7 @@ $M(t)=(1-p)+pe^t$
 
 ## Binomial $(n,p)$
 
-Models the probabilit
+Models the probability of getting $x$ successes out of $n$ trials with $p$ probability of each trial succeeding.
 
 Given $x=0,1,2,...,n;\quad 0\le p\le 1$
 - $p$ is probability of selecting a particular trait
@@ -29,6 +29,7 @@ Given $x=0,1,2,...,n;\quad 0\le p\le 1$
 - Predicts probability of getting certain number of chosen trait in sample set
 
 $P(X=x)=\begin{pmatrix}n\\x\end{pmatrix}p^x(1-p)^{n-x}$
+$\text{CDF}=$
 $\mu=np$
 $\sigma^2=np(1-p)$
 $M(t)=(pe^t+(1-p))^n$
