@@ -42,6 +42,7 @@ Given $x=1,2,...,N;\quad N=1,2,...$
 - All numbers from $1$ to $N$ are equally likely
 
 $P(X=x)=1/N$
+$\text{CDF}=\floor*{a}$
 $\mu=\frac{N+1}{2}$
 $\sigma^2=\frac{(N+1)(N-1)}{12}$
 $M(t)=\frac{1}{N}\sum\limits_{i=1}^Ne^{it}$
