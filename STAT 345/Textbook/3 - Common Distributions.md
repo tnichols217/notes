@@ -62,7 +62,7 @@ $M(t)=\frac{pe^t}{1-(1-p)e^t}$
 
 ## Hypergeometric $(N,K,M)$
 
-
+Predicts likelihood of selecting $x$ successes after 
 
 Given $x=0,1,2,...,K;\quad M-(N-K)\le x\le M;\quad N,M,K=0,1,2,...$
 - $N$ is the population size
@@ -71,7 +71,6 @@ Given $x=0,1,2,...,K;\quad M-(N-K)\le x\le M;\quad N,M,K=0,1,2,...$
 - Predicts the likelihood of selecting $X$ samples of type $M$ after selecting $K$ samples from population $N$
 
 $P(X=x)=\frac{\begin{pmatrix}M\\x\end{pmatrix}\begin{pmatrix}N-M\\K-x\end{pmatrix}}{\begin{pmatrix}N\\K\end{pmatrix}}$
-$\text{CDF}=1-\frac{\begin{pmatrix}K\\x+1\end{pmatrix}\begin{pmatrix}N-K\\M-x-1\end{pmatrix}}{\begin{pmatrix}N\\M\end{pmatrix}}$
 $\mu=KM/N$
 $\sigma^2=\frac{KM(N-M)(N-K)}{N^2(N-1)}$
 
