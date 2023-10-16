@@ -70,7 +70,8 @@ Given $x=0,1,2,...,K;\quad M-(N-K)\le x\le M;\quad N,M,K=0,1,2,...$
 - $K$ number of samples taken in a round of sampling
 - Predicts the likelihood of selecting $X$ samples of type $M$ after selecting $K$ samples from population $N$
 
-$P(X-x)=\frac{\begin{pmatrix}M\\x\end{pmatrix}\begin{pmatrix}N-M\\K-x\end{pmatrix}}{\begin{pmatrix}N\\K\end{pmatrix}}$
+$P(X=x)=\frac{\begin{pmatrix}M\\x\end{pmatrix}\begin{pmatrix}N-M\\K-x\end{pmatrix}}{\begin{pmatrix}N\\K\end{pmatrix}}$
+$\text{CDF}=1-\frac{}{}$
 $\mu=KM/N$
 $\sigma^2=\frac{KM(N-M)(N-K)}{N^2(N-1)}$
 
