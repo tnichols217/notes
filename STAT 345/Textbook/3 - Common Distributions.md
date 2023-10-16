@@ -211,6 +211,8 @@ $MX^n=\begin{cases}\frac{\Gamma(\frac{n+1}{2})\Gamma(\frac{v-n}{2})}{\sqrt{\pi}\
 
 ## Uniform $(a,b)$
 
+The likelihood of a
+
 Given $a\le x\le b$
 - $a$ is the lower bound of the distribution
 - $b$ is the upper bound
