@@ -159,7 +159,7 @@ $EX^n=\frac{\Gamma(\frac{v_1+2n}{2})\Gamma(\frac{v_2-2n}{2})}{\Gamma(v_1/2)\Gamm
 
 ## Gamma $(\alpha,\beta)$
 
-$\alpha$ being the shape parameter and $\beta$ being the scale parameter, it is a generalization of 
+$\alpha$ being the shape parameter and $\beta$ being the scale parameter, it is also a generalization of the exponential, erlang, and chi-squared distrbutions.
 
 Given $0\le x<\infty;\quad \alpha,\beta>0$
 
