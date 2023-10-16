@@ -13,11 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Ch8/Chemical Formulas.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "91dad52aafa5267d"
           }
         ]
       },
@@ -31,11 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/4 - Complex Search.md",
-                "mode": "source",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "91dad52aafa5267d"
           }
         ]
       }
@@ -97,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Ch8/Chemical Formulas.md"
+                "file": "STAT 345/Textbook/3 - Common Distributions.md"
               }
             }
           }
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Ch8/Chemical Formulas.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,14 +183,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "66c4bc840829616c",
+  "active": "87f138783564c592",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/4 - Complex Search.md",
+    "STAT 345/Textbook/3 - Common Distributions.md",
+    "Biology/Ch8/Chemical Formulas.md",
     "Biology/Ch8/Photosynthesis.md",
     "Biology/Ch8/Index.md",
     "Biology/Ch8/Energy.md",
     "Biology/Ch8/Cellular Respiration.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
-    "CSDS 391/Textbook/4 - Complex Search.md",
     "CSDS 391/Textbook/3 - Searching.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
@@ -197,7 +201,6 @@
     "ARTS 302/Richard Meier.md",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Textbook/2.4 - Leibnitz's Rule.md",
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/5.md",
     "MATH 223/Practice Problems/13.3.md",
     "MATH 223/Practice Problems/14.3.md",
@@ -223,7 +226,6 @@
     "MATH 223/Practice Problems/5 - Problem Set 5.md",
     "MATH 223/Practice Problems/5 - Problem Set 5.pdf",
     "MATH 223/Practice Problems/14.1/59.md",
-    "MATH 223/Practice Problems/14.1/47.md",
     "MATH 223/Practice Problems/14.1/attachments",
     "MATH 223/Practice Problems/14.1",
     "STAT 345/Textbook/3",
