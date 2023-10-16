@@ -19,19 +19,8 @@
               }
             },
             "group": "91dad52aafa5267d"
-          },
-          {
-            "id": "6e3195bea4a341ec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "874a36c44bbb5c37",
@@ -194,10 +183,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6e3195bea4a341ec",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/4 - Complex Search.md",
+    "STAT 345/Textbook/2.4 - Leibnitz's Rule.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
+    "CSDS 391/Textbook/4 - Complex Search.md",
     "Biology/Ch8/Chemical Formulas.md",
     "Biology/Ch8/Photosynthesis.md",
     "Biology/Ch8/Index.md",
@@ -211,7 +201,6 @@
     "CSDS 391/Textbook/1 - Intro to AI.md",
     "ARTS 302/Richard Meier.md",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
-    "STAT 345/Textbook/2.4 - Leibnitz's Rule.md",
     "STAT 345/Homework/5.md",
     "MATH 223/Practice Problems/13.3.md",
     "MATH 223/Practice Problems/14.3.md",
