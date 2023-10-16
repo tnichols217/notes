@@ -14,6 +14,7 @@ Given $x=0,1;\quad 0\le p\le 1$
 - Has $p$ probability of being $1$ and $1-p$ probability of being $0$
 
 $P(X=x)=p^x(1-p)^{1-x}$
+$CDF$
 $\mu=p$
 $\sigma^2=p(1-p)$
 $M(t)=(1-p)+pe^t$
