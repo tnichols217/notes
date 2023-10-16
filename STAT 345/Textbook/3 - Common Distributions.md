@@ -48,7 +48,7 @@ $\sigma^2=\frac{(N+1)(N-1)}{12}$
 $M(t)=\frac{1}{N}\sum\limits_{i=1}^Ne^{it}$
 ## Geometric $(p)$
 
-Models 
+Models chance of taking $x$ trials to get a success, with each success having $p$ chance of succeeding.
 
 Given $x=1,2,...;\quad 0\le p\le 1$
 - $p$ is probability of getting certain trait
