@@ -125,6 +125,8 @@ Creates a space below it, separating it from the surroundings
 
 #### Enclosed Space from 4 Planes
 
+- 
+
 ## Openings in Space-Defining Elements
 
 ### Openings within Planes
