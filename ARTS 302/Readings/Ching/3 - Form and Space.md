@@ -46,17 +46,19 @@ Elevating a plane separates it from its surroundings and creates a space upon it
 
 #### Depressed Base Plane
 
-Elevating a plane separates it from its surroundings and creates a space upon it.
+Depressing a plane separates it from its surroundings and creates a space within it.
 
 - Change in elevation defines the edge of the plane
 - More change in texture/color/tone => More separation from surroundings
 - Can be in one of three categories
   1. Spatial and Visual continuity is maintained — each space is easily accessible from each other
-  2. Only Visual continuity is maintained — physical access requires stairs
-  3. Neither Spatial or Visual continuity is maintained — the planes are completely isolated from each other and provides shelter instead
+  2. Only Visual continuity is maintained — physical access requires stairs, weaker connection
+  3. Neither Spatial or Visual continuity is maintained — the planes are completely isolated from each other and creates a room instead
     - Weakens the connection with the surrounding
 
 #### Overhead Plane
+
+
 
 ### Vertical Elements
 
