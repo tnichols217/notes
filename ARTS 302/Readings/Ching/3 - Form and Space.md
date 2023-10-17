@@ -16,4 +16,8 @@ Buildings can interact with space in a variety of ways
 
 ## Forms defining Space
 
-### Horizontal Planes
+### Horizontal Elements
+
+### Vertical Elements
+
+### 
