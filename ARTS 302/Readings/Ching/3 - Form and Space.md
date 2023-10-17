@@ -123,9 +123,11 @@ Creates a space below it, separating it from the surroundings
 - Open side is the primary side of the space
 - Can be reinforced with pillars, a detached plane, or overhead plane
 
-#### Enclosed Space from 4 Planes
+#### Closure from 4 Planes
 
 - 
+
+#### Enclosure from 4 Planes
 
 ## Openings in Space-Defining Elements
 
