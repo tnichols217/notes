@@ -35,7 +35,8 @@ Elevating a plane separates it from its surroundings and creates a space upon it
 - More change in texture/color/tone => More separation from surroundings
 - Can be in one of three categories
 	1. Spatial and Visual continuity is maintained — each space is easily accessible from each other
-	2. 
+	2. Only Visual continuity is maintained — physical access requires stairs
+	3. Neith
 
 #### Depressed Base Plane
 
