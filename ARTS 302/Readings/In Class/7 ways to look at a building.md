@@ -23,4 +23,10 @@
 - Visual differences to surroundings
 
 ## 6) Structure
-- 
+- What structural technology is being used
+- What holds the building together
+- What convinces the viewer that it works together
+
+## 7) Artifact
+- As a piece of art
+- What does the building invoke
