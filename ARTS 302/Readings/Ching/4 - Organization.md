@@ -58,6 +58,12 @@ Consists of a series of spaces
 - Often in the form of a line, but may be curved
 - Often repetitive in form
 - Functionally or geometrically important modules may differ
+	- Corners
+	- Centers
+	- Bends
+	- Difference in function
+- Signify movement
+- Can link multiple spaces together
 - 
 
 ### Radial Organization
