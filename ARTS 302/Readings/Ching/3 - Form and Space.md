@@ -63,7 +63,10 @@ Creates a space below it, separating it from the surroundings
 - Form of roof can be made from different structural styles:
 	- Wood Truss
 	- Steel Joist
-	- Masonry
+	- Masonry Vault
+- Often reflects a similar style of the surroundings
+- Can define zones below it
+- 
 
 ### Vertical Elements
 
