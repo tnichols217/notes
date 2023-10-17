@@ -23,9 +23,13 @@ Buildings can interact with space in a variety of ways
 If there is a perceptible difference in color, tone, or texture between the defining base plane and its surroundings, then it can act as a figure defining space.
 
 - Stronger edge definition => distinct and stronger space
-- 
+- Stronger the difference from surroundings => stronger space
+- Generates vertical spacial zone above it
+	- Often used as a tool to separate and define zones
 
 #### Elevated Base Plane
+
+
 
 #### Depressed Base Plane
 
