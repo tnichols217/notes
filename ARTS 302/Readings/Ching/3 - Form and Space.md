@@ -10,4 +10,7 @@ Buildings can interact with space in a variety of ways
 3. Enclose a portion of the site as an outdoor "room" to shelter it
 4. Be Introverted - Surround a courtyard within its volume
 5. Be Extroverted - Dominate its site and be distinct in its space
-6. Stretch out and present a broad face as
+6. Stretch out and present a broad face as to terminate an edge of a space
+7. Stand free, but merge interior with private exterior spaces
+8. Stand as a positive form in negative space
+
