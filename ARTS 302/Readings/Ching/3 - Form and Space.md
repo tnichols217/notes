@@ -110,6 +110,9 @@ Creates a space below it, separating it from the surroundings
 
 #### Parallel Vertical Planes
 
+- Extroverted in nature
+- Creates movement through open 
+
 #### U-Shaped Vertical Planes
 
 #### Enclosed Space from 4 Planes
