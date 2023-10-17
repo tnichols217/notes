@@ -29,7 +29,7 @@ If there is a perceptible difference in color, tone, or texture between the defi
 
 #### Elevated Base Plane
 
-
+Elevating a plane separates it from its surroundings and creates a space upon it. Change in elevation define the edges o
 
 #### Depressed Base Plane
 
