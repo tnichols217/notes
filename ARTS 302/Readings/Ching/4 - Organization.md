@@ -84,4 +84,5 @@ A group of objects relying on proximity for relation to each other
 
 Forms and spaces organized in relation to each other on a 3-D grid
 - Establishes regularity even among irregular shapes
+- More clearly establishes positive and negative space
 - 
