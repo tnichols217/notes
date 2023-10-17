@@ -101,7 +101,8 @@ Creates a space below it, separating it from the surroundings
 
 - Has an introverted side and an extroverted side
 - Defines two edges of a space
-- Presence of void 
+- Presence of void in one side of the corner will weaken its definition and will establish a more dominant wall
+- If neither reach the corner, it creates a dynami
 
 #### Parallel Vertical Planes
 
