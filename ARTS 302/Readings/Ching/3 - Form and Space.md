@@ -18,6 +18,8 @@ Buildings can interact with space in a variety of ways
 
 ### Horizontal Elements
 
+
+
 ### Vertical Elements
 
 ## Openings in Space-Defining Elements
@@ -26,4 +28,12 @@ Buildings can interact with space in a variety of ways
 
 ### Openings at Corners
 
-### Openings between 
+### Openings between Planes
+
+## Qualities of Architectural Space
+
+### Degree of Enclosure
+
+### Light
+
+### View
