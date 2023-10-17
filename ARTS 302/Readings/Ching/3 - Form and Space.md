@@ -70,7 +70,8 @@ Creates a space below it, separating it from the surroundings
 ### Vertical Elements
 
 - Takes up more visual space than horizontal elements
-- Separate spaces inherently, and create 
+- Separate spaces inherently, and create a shared boundary
+- Serve as supports
 
 #### Single Vertical Plane
 
