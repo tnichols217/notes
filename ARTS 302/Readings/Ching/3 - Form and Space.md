@@ -106,6 +106,7 @@ Creates a space below it, separating it from the surroundings
 - Stable and self-supporting
 - Strong space defining elements
 - Can be meshed with itself
+- Often used in buildings to enclose a small outdoor space
 
 #### Parallel Vertical Planes
 
