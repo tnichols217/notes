@@ -115,9 +115,10 @@ Creates a space below it, separating it from the surroundings
 - Can be reinforced with ground definition or overhead planes
 - Can be extended with a detached terminal plane
 - If planes are different, a flow from one to the other will be made
-- 
 
 #### U-Shaped Vertical Planes
+
+- Has an introverted si
 
 #### Enclosed Space from 4 Planes
 
