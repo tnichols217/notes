@@ -14,4 +14,6 @@
 - How does it accommodate its functions
 
 ## 4) Symbolic Content
+- Does the architectural form embody its purpose
+- Content can be derived from symbolism of the building
 - 
