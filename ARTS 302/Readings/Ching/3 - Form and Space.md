@@ -169,7 +169,14 @@ Creates a space below it, separating it from the surroundings
 
 ## Qualities of Architectural Space
 
+### Properties of Enclosure
 
+- Shape
+- Surface
+- Light
+- 
+
+### Qualities of Space
 
 ### Degree of Enclosure
 
