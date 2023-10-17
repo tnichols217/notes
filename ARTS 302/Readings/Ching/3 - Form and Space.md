@@ -211,4 +211,7 @@ Creates a space below it, separating it from the surroundings
 
 #### View
 
-- 
+- Outward looking or inward looking
+- Could be focused on things like the scenery or a fireplace
+- Size and locations of openings determine the scenery
+- Small openings can reveal a detail whilst large ones revea
