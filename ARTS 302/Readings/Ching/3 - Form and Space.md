@@ -32,8 +32,8 @@ If there is a perceptible difference in color, tone, or texture between the defi
 Elevating a plane separates it from its surroundings and creates a space upon it.
 
 - Change in elevation defines the edge of the plane
-- More change in texture/color/tone => separation from surroundings
-- 
+- More change in texture/color/tone => More separation from surroundings
+- Can be in 
 
 #### Depressed Base Plane
 
