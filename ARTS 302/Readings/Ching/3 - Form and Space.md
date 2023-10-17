@@ -122,7 +122,6 @@ Creates a space below it, separating it from the surroundings
 - Creates movement out of the corner
 - Open side is the primary side of the space
 - Can be reinforced with pillars, a detached plane, or overhead plane
-- 
 
 #### Enclosed Space from 4 Planes
 
