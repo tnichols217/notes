@@ -9,12 +9,15 @@
 
 ### Interlocking Spaces
 
-- Overlapping of two spaces at an edge
+- Overlapping of two spaces
 - Can create
 	- Shared zone
-	- 
+	- Zone used by one space
+	- A new zone that links the spaces
 
 ### Adjacent Spaces
+
+- 
 
 ### Spaces linked by a Common Space
 
