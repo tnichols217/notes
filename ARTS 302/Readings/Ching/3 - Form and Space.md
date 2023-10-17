@@ -110,8 +110,11 @@ Creates a space below it, separating it from the surroundings
 
 #### Parallel Vertical Planes
 
-- Extroverted in nature
-- Creates movement through open 
+- Extroverted in nature, no corners
+- Creates movement through open edges
+- Can be reinforced with ground definition or overhead planes
+- Can be extended with a detached terminal plane
+- 
 
 #### U-Shaped Vertical Planes
 
