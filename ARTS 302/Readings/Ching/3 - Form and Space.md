@@ -1,5 +1,6 @@
 ---
 date created: 2023-10-17 01:18
+date updated: 2023-10-17 15:19
 ---
 
 # Form and Space
@@ -42,7 +43,7 @@ Elevating a plane separates it from its surroundings and creates a space upon it
   1. Spatial and Visual continuity is maintained — each space is easily accessible from each other
   2. Only Visual continuity is maintained — physical access requires stairs
   3. Neither Spatial or Visual continuity is maintained — the planes are completely isolated from each other and provides shelter instead
-    - Weakens the connection with the surrounding
+  - Weakens the connection with the surrounding
 
 #### Depressed Base Plane
 
@@ -54,16 +55,16 @@ Depressing a plane separates it from its surroundings and creates a space within
   1. Spatial and Visual continuity is maintained — each space is easily accessible from each other
   2. Only Visual continuity is maintained — physical access requires stairs, weaker connection
   3. Neither Spatial or Visual continuity is maintained — the planes are completely isolated from each other and creates a room instead
-    - Weakens the connection with the surrounding
+  - Weakens the connection with the surrounding
 
 #### Overhead Plane
 
 Creates a space below it, separating it from the surroundings
 
 - Form of roof can be made from different structural styles:
-	- Wood Truss
-	- Steel Joist
-	- Masonry Vault
+  - Wood Truss
+  - Steel Joist
+  - Masonry Vault
 - Often reflects a similar style of the surroundings
 - Can define zones below it
 
@@ -71,7 +72,7 @@ Creates a space below it, separating it from the surroundings
 
 - Takes up more visual space than horizontal elements
 - Separate spaces inherently, and create a shared boundary
-- Serve as supports and protection 
+- Serve as supports and protection
 
 #### Vertical Linear
 
@@ -91,10 +92,10 @@ Creates a space below it, separating it from the surroundings
 
 - Only defines a singular edge of a space
 - Height makes a difference
-	1. Short => Defines an edge
-	2. Medium => Creation of enclosure
-	3. High => Creation of Separation
-	4. Very High => Complete separation of spaces
+  1. Short => Defines an edge
+  2. Medium => Creation of enclosure
+  3. High => Creation of Separation
+  4. Very High => Complete separation of spaces
 - Can be a point of orientation
 
 #### L-Shaped Vertical Planes
@@ -153,19 +154,19 @@ Creates a space below it, separating it from the surroundings
 ### Openings between Planes
 
 - Vertically
-	- Separate and articulate edges of adjacent planes
+  - Separate and articulate edges of adjacent planes
 - Vertically across corner
-	- Erode definition of the space
-	- Expand perceived space
+  - Erode definition of the space
+  - Expand perceived space
 - Horizontally
-	- Creates horizontal layers
+  - Creates horizontal layers
 - Horizontally across corner
-	- Creates a panoramic experience
+  - Creates a panoramic experience
 - Linear skylight
-	- Adds light and increases volume
+  - Adds light and increases volume
 - Window-walls
-	- Allows more light in
-	- Weakens vertical boundaries
+  - Allows more light in
+  - Weakens vertical boundaries
 
 ## Qualities of Architectural Space
 
@@ -194,10 +195,10 @@ Creates a space below it, separating it from the surroundings
 
 #### Degree of Enclosure
 
- - Determined by configuration of elements in a space
- - Openings enclosed by a plane do not weaken form
- - Openings at edges or corner erode from solidity
- - Openings between planes separate them and reduce unity, reducing degree of enclosure
+- Determined by configuration of elements in a space
+- Openings enclosed by a plane do not weaken form
+- Openings at edges or corner erode from solidity
+- Openings between planes separate them and reduce unity, reducing degree of enclosure
 
 #### Light
 
@@ -205,6 +206,9 @@ Creates a space below it, separating it from the surroundings
 - How does the angle of the sun interact with the building
 - Size of opening determines light intensity
 - Orientation of openings to reduce light or produce indirect light
-- 
+- Two directions of light reduce glare
+- Shapes and patterns are influenced by the opening
 
 #### View
+
+- 
