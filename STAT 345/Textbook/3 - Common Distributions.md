@@ -95,8 +95,8 @@ Assumes chances of an event happening in a short time is proportional to a large
 - $N_0=0$
 - For $s>0$, $N_t$ and $N_{t+s}-N_t$ are independent random variables
 - $N_s$ and $N_{t+s}-N_t$ are the same distribution
-- $\lim\limits_{t\downarrow0}\frac{P(N_t=1)}{t}=\lambda$
-- $\lim\limits_{t\downarrow0}\frac{P(N_t>1)}{t}=0$ (Can'tt h)
+- $\lim\limits_{t\downarrow0}\frac{P(N_t=1)}{t}=\lambda$ (Average number of events per unit will be $\lambda$ everywhere)
+- $\lim\limits_{t\downarrow0}\frac{P(N_t>1)}{t}=0$ (Can't have two events at the same time)
 
 Given $x=0,1,2,...;\quad0\le\lambda$
 - $\lambda$ is the number of times on average an event will happen within an interval
