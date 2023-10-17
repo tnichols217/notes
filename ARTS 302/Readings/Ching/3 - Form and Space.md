@@ -169,7 +169,7 @@ Creates a space below it, separating it from the surroundings
 
 ## Qualities of Architectural Space
 
-$\frac{1}{\Gamma(\alpha)\tilde\beta^\alpha}$
+
 
 ### Degree of Enclosure
 
