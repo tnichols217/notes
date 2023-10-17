@@ -82,7 +82,10 @@ Creates a space below it, separating it from the surroundings
 
 #### Multiple Vertical Linear
 
-- Work together to create envisioned ver
+- Work together to create envisioned vertical planes
+- Separate spaces from each other
+- Reinforcing the base or ceiling will define a space better
+- 
 
 #### Single Vertical Plane
 
