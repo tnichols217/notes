@@ -54,6 +54,10 @@ Stable concentrated organization focused on a point or large dominant space
 
 ### Linear Organization
 
+Consists of a series of spaces
+- Often in the form of a line, but may be curved
+- Often repetitive in form
+- Functionally or geometrically important modules may differ
 - 
 
 ### Radial Organization
