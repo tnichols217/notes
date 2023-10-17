@@ -130,9 +130,10 @@ Creates a space below it, separating it from the surroundings
 - Organizes a perimeter
 - Promotes community on the inside by creating a shared space
 - Often are central and important
-- 
 
 #### Enclosure from 4 Planes
+
+- 
 
 ## Openings in Space-Defining Elements
 
