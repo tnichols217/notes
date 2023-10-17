@@ -5,8 +5,13 @@
 
 ## 2) Function
 - Who uses it
-- What purpose does the building fulfill
+- What do people do in the building
 - What setting does it provide for activities
 
 ## 3) Institutional Purpose
+- Purpose to the community
+- What institution uses it
+- How does it accommodate its functions
+
+## 4) Symbolic Content
 - 
