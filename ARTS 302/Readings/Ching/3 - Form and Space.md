@@ -145,7 +145,8 @@ Creates a space below it, separating it from the surroundings
 
 ### Openings at Corners
 
-- 
+- Can be used to brighten a corner
+- Usually erodes the bu
 
 ### Openings between Planes
 
