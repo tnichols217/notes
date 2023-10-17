@@ -32,4 +32,8 @@
 
 ## Spatial Organization
 
-
+Organization normally fills requirements like
+- Function
+- Flexibility
+- Uniqueness
+- 
