@@ -189,10 +189,13 @@ Creates a space below it, separating it from the surroundings
 - Scale
 - Definition
 - Degree of Enclosure
-- 
+- View / Outlook
+- Light
 
-### Degree of Enclosure
+#### Degree of Enclosure
 
-### Light
+ - 
 
-### View
+#### Light
+
+#### View
