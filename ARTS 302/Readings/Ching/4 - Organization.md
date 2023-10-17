@@ -68,7 +68,10 @@ Consists of a series of spaces
 
 ### Radial Organization
 
-Consists of a dominant central space and 
+Consists of a dominant central space and multiple linear organizations extending from it
+- Has elements of both centralized and linear organizations
+- Dominant shape is often regular
+- Focuses on and creates movemen
 
 ### Clustered Organization
 
