@@ -77,6 +77,10 @@ Consists of a dominant central space and multiple linear organizations extending
 
 A group of objects relying on proximity for relation to each other
 - May share a trait
-- May align to 
+- Often no point of importance
+- Sometimes may have an axis of symmetry
 
 ### Grid Organization
+
+Forms and spaces organized in 
+- 
