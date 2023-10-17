@@ -20,7 +20,10 @@ Buildings can interact with space in a variety of ways
 
 #### Base Plane
 
-If there is a perceptible difference in color, tone, 
+If there is a perceptible difference in color, tone, or texture between the defining base plane and its surroundings, then it can act as a figure defining space.
+
+- Stronger edge definition => distinct and stronger space
+- 
 
 #### Elevated Base Plane
 
