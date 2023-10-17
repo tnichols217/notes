@@ -1,3 +1,7 @@
+---
+date created: 2023-10-17 01:18
+---
+
 # Form and Space
 
 Often we classify things in our vision as foreground and background, positive and negative. Positive space is what most people pay attention to, but negative space helps define positive space and there can be interest in negative space as well.
@@ -5,6 +9,7 @@ Often we classify things in our vision as foreground and background, positive an
 ## Buildings interacting with Space
 
 Buildings can interact with space in a variety of ways
+
 1. Form a wall on one edge to define a positive outdoor space
 2. Merge interior with a private outdoor space
 3. Enclose a portion of the site as an outdoor "room" to shelter it
@@ -25,7 +30,7 @@ If there is a perceptible difference in color, tone, or texture between the defi
 - Stronger edge definition => distinct and stronger space
 - Stronger the difference from surroundings => stronger space
 - Generates vertical spacial zone above it
-	- Often used as a tool to separate and define zones
+  - Often used as a tool to separate and define zones
 
 #### Elevated Base Plane
 
@@ -34,9 +39,9 @@ Elevating a plane separates it from its surroundings and creates a space upon it
 - Change in elevation defines the edge of the plane
 - More change in texture/color/tone => More separation from surroundings
 - Can be in one of three categories
-	1. Spatial and Visual continuity is maintained — each space is easily accessible from each other
-	2. Only Visual continuity is maintained — physical access requires stairs
-	3. Neith
+  1. Spatial and Visual continuity is maintained — each space is easily accessible from each other
+  2. Only Visual continuity is maintained — physical access requires stairs
+  3. Neither Spatial or Visual continuity is maintained — the planes are completely isolated from each other and provides shelter instead
 
 #### Depressed Base Plane
 
