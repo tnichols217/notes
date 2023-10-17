@@ -99,7 +99,9 @@ Creates a space below it, separating it from the surroundings
 
 #### L-Shaped Vertical Planes
 
-- 
+- Has an introverted side and an extroverted side
+- Defines two edges of a space
+- Presence of void 
 
 #### Parallel Vertical Planes
 
