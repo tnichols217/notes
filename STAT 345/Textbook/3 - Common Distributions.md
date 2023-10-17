@@ -92,6 +92,9 @@ $M(t)=(\frac{p}{1-(1-p)e^t})^r$
 
 Assumes chances of an event happening in a short time is proportional to a large time. Predicts likelihood of $x$ events happening in the next unit if $\lambda$ events happen on average per unit where the unit does not need to be time.
 
+- $N_0=0$
+- For $s>0$, $N_t$ and $N_{t+s}$
+
 Given $x=0,1,2,...;\quad0\le\lambda$
 - $\lambda$ is the number of times on average an event will happen within an interval
 - Predicts number of times an event will happen within an interval
