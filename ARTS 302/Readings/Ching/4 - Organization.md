@@ -41,4 +41,16 @@ Organization normally fills requirements like
 - Segregated
 - Accessible
 - Proximity
+
+### Centralized Organization
+
+Stable concentrated organization focused around a point
 - 
+
+### Linear Organization
+
+### Radial Organization
+
+### Clustered Organization
+
+### Grid Organization
