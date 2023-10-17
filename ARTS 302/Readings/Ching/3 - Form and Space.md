@@ -146,7 +146,9 @@ Creates a space below it, separating it from the surroundings
 ### Openings at Corners
 
 - Can be used to brighten a corner
-- Usually erodes the bu
+- Usually erodes the boundaries of the plane
+- Larger in size => less definition the planes have
+- Multiple corner openings on different cor
 
 ### Openings between Planes
 
