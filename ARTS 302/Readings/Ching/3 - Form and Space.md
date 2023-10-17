@@ -89,7 +89,7 @@ Creates a space below it, separating it from the surroundings
 
 #### Single Vertical Plane
 
-- 
+- Only defines a singular edge of a space
 
 #### L-Shaped Vertical Planes
 
