@@ -44,7 +44,9 @@ Organization normally fills requirements like
 
 ### Centralized Organization
 
-Stable concentrated organization focused around a point
+Stable concentrated organization focused on a point or large dominant space
+- Dominant space is often regular
+- Often secondary spaces maintain the regularity of the dominant space
 - 
 
 ### Linear Organization
