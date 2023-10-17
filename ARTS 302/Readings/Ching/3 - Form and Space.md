@@ -71,7 +71,11 @@ Creates a space below it, separating it from the surroundings
 
 - Takes up more visual space than horizontal elements
 - Separate spaces inherently, and create a shared boundary
-- Serve as supports
+- Serve as supports and protection 
+
+#### Vertical Linear
+
+- N
 
 #### Single Vertical Plane
 
