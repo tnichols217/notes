@@ -96,9 +96,10 @@ Creates a space below it, separating it from the surroundings
 	3. High => Creation of Separation
 	4. Very High => Complete separation of spaces
 - Can be a point of orientation
-- 
 
 #### L-Shaped Vertical Planes
+
+- 
 
 #### Parallel Vertical Planes
 
