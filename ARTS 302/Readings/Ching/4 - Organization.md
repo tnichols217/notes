@@ -64,9 +64,11 @@ Consists of a series of spaces
 	- Difference in function
 - Signify movement
 - Can link multiple spaces together
-- 
+- Can enclose a space
 
 ### Radial Organization
+
+Consists of a dominant central space and 
 
 ### Clustered Organization
 
