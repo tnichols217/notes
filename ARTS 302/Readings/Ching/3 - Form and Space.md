@@ -58,7 +58,12 @@ Depressing a plane separates it from its surroundings and creates a space within
 
 #### Overhead Plane
 
+Creates a space below it, separating it from the surroundings
 
+- Form of roof can be made from different structural styles:
+	- Wood Truss
+	- Steel Joist
+	- Masonry
 
 ### Vertical Elements
 
