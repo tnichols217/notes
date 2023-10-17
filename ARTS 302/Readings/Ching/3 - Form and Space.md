@@ -166,7 +166,6 @@ Creates a space below it, separating it from the surroundings
 - Window-walls
 	- Allows more light in
 	- Weakens vertical boundaries
-	- 
 
 ## Qualities of Architectural Space
 
