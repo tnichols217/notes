@@ -92,8 +92,10 @@ Creates a space below it, separating it from the surroundings
 - Only defines a singular edge of a space
 - Height makes a difference
 	1. Short => Defines an edge
-	2. Medium => Separation of spaces
-	3. 
+	2. Medium => Creation of enclosure
+	3. High => Creation of Separation
+	4. Very High => Complete separation of spaces
+- 
 
 #### L-Shaped Vertical Planes
 
