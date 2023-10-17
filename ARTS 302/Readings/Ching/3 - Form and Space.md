@@ -131,13 +131,11 @@ Creates a space below it, separating it from the surroundings
 - Promotes community on the inside by creating a shared space
 - Often are central and important
 
-#### Enclosure from 4 Planes
-
-- 
-
 ## Openings in Space-Defining Elements
 
 ### Openings within Planes
+
+- 
 
 ### Openings at Corners
 
