@@ -148,9 +148,11 @@ Creates a space below it, separating it from the surroundings
 - Can be used to brighten a corner
 - Usually erodes the boundaries of the plane
 - Larger in size => less definition the planes have
-- Multiple corner openings on different cor
+- Multiple corner openings on different corners => reducing the relation between the planes, increasing individuality & increases diagonal movement
 
 ### Openings between Planes
+
+- 
 
 ## Qualities of Architectural Space
 
