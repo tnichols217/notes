@@ -138,6 +138,8 @@ Creates a space below it, separating it from the surroundings
 
 ### Openings within Planes
 
+- Often creates a foreground on the background (wall)
+- Shape differences can create a contrast
 - 
 
 ### Openings at Corners
