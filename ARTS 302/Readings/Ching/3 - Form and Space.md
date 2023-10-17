@@ -75,7 +75,10 @@ Creates a space below it, separating it from the surroundings
 
 #### Vertical Linear
 
-- N
+- Non-directional
+- Creates a space around it
+- Articulates surfaces or corners
+- 
 
 #### Single Vertical Plane
 
