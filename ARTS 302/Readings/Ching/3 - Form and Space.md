@@ -8,4 +8,6 @@ Buildings can interact with space in a variety of ways
 1. Form a wall on one edge to define a positive outdoor space
 2. Merge interior with a private outdoor space
 3. Enclose a portion of the site as an outdoor "room" to shelter it
-4. Surround 
+4. Be Introverted - Surround a courtyard within its volume
+5. Be Extroverted - Dominate its site and be distinct in its space
+6. Stretch out and present a broad face as
