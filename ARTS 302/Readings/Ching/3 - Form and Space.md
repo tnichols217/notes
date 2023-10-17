@@ -217,4 +217,3 @@ Creates a space below it, separating it from the surroundings
 - Small openings can reveal a detail whilst large ones reveal a scene
 - Long and narrow openings hint at what is beyond without revealing too much
 - Groups of openings can fragment a view
-- 
