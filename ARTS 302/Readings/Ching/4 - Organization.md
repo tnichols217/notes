@@ -19,7 +19,10 @@
 
 - Two spaces next to each other often with a gap
 - Separating plane often lmits visual and physical access
-- 
+- Can be a freestanding plane within a space
+	- Be defined by columns
+	- Be defined by a change in elevation
 
 ### Spaces linked by a Common Space
 
+- 
