@@ -196,7 +196,8 @@ Creates a space below it, separating it from the surroundings
 
  - Determined by configuration of elements in a space
  - Openings enclosed by a plane do not weaken form
- - 
+ - Openings at edges or corner erode from solidity
+ - Openings between planes
 
 #### Light
 
