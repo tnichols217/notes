@@ -49,7 +49,9 @@ Stable concentrated organization focused on a point or large dominant space
 - Often secondary spaces maintain the regularity of the dominant space
 	- May differ based on requirements
 	- At least one must serve as the entry
-	- 
+- Pattern of circulation normally orbits around the center of the dominant space and terminates near the middle
+- Can be used to establish an important position
+- 
 
 ### Linear Organization
 
