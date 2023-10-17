@@ -25,4 +25,7 @@
 
 ### Spaces linked by a Common Space
 
+- Two spaces linked by a shared third space
+- Often the third space differs in form, orientation, or shape
+- Can be linear to link distant spaces
 - 
