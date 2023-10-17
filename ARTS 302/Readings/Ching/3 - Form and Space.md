@@ -6,4 +6,6 @@ Often we classify things in our vision as foreground and background, positive an
 
 Buildings can interact with space in a variety of ways
 1. Form a wall on one edge to define a positive outdoor space
-2. Merge interior with a
+2. Merge interior with a private outdoor space
+3. Enclose a portion of the site as an outdoor "room" to shelter it
+4. Surround 
