@@ -153,8 +153,11 @@ Creates a space below it, separating it from the surroundings
 ### Openings between Planes
 
 - Floor to ceiling openings separate and articulate edges of adjacent planes
-- In corners, will erode definition of the space
-- 
+- In corners
+	- Erode definition of the space
+	- Expand perceived space
+- Horizontally
+	- Creates horizontal layers
 
 ## Qualities of Architectural Space
 
