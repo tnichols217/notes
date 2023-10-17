@@ -118,7 +118,10 @@ Creates a space below it, separating it from the surroundings
 
 #### U-Shaped Vertical Planes
 
-- Has an introverted si
+- Has an introverted side and an extroverted side
+- Creates movement out of the corner
+- Open side is the primary side of the space
+- 
 
 #### Enclosed Space from 4 Planes
 
