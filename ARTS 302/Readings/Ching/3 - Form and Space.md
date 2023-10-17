@@ -69,6 +69,8 @@ Creates a space below it, separating it from the surroundings
 
 ### Vertical Elements
 
+- Takes up more visual space than horizontal elements
+
 #### Single Vertical Plane
 
 #### L-Shaped Vertical Planes
