@@ -14,3 +14,6 @@ Buildings can interact with space in a variety of ways
 7. Stand free, but merge interior with private exterior spaces
 8. Stand as a positive form in negative space
 
+## Forms defining Space
+
+### Horizontal Planes
