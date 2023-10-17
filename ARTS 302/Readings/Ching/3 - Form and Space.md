@@ -194,6 +194,8 @@ Creates a space below it, separating it from the surroundings
 
 #### Degree of Enclosure
 
+ - Determined by configuration of elements in a space
+ - Openings enclosed by a plane do not weaken form
  - 
 
 #### Light
