@@ -71,8 +71,12 @@ Consists of a series of spaces
 Consists of a dominant central space and multiple linear organizations extending from it
 - Has elements of both centralized and linear organizations
 - Dominant shape is often regular
-- Focuses on and creates movemen
+- Focuses on and creates movement toward or radiating from the dominant space
 
 ### Clustered Organization
+
+A group of objects relying on proximity for relation to each other
+- May share a trait
+- May align to 
 
 ### Grid Organization
