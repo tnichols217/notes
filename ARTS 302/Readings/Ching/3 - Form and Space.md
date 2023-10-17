@@ -203,6 +203,8 @@ Creates a space below it, separating it from the surroundings
 
 - How light interacts with the building
 - How does the angle of the sun interact with the building
+- Size of opening determines light intensity
+- Orientation of openings to reduce light or produce indirect light
 - 
 
 #### View
