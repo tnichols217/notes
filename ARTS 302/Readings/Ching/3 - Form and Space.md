@@ -66,7 +66,6 @@ Creates a space below it, separating it from the surroundings
 	- Masonry Vault
 - Often reflects a similar style of the surroundings
 - Can define zones below it
-- 
 
 ### Vertical Elements
 
