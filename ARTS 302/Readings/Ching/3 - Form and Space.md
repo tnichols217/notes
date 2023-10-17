@@ -18,9 +18,23 @@ Buildings can interact with space in a variety of ways
 
 ### Horizontal Elements
 
+#### Base Plane
 
+#### Elevated Base Plane
+
+#### Depressed Base Plane
+
+#### Overhead Plane
 
 ### Vertical Elements
+
+#### Single Vertical Plane
+
+#### L-Shaped Vertical Planes
+
+#### Parallel Vertical Planes
+
+#### 
 
 ## Openings in Space-Defining Elements
 
