@@ -85,9 +85,11 @@ Creates a space below it, separating it from the surroundings
 - Work together to create envisioned vertical planes
 - Separate spaces from each other
 - Reinforcing the base or ceiling will define a space better
-- Grids can define zones and provi
+- Grids can define zones and provide regularity
 
 #### Single Vertical Plane
+
+- 
 
 #### L-Shaped Vertical Planes
 
