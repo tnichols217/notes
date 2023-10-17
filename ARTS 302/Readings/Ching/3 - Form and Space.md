@@ -214,4 +214,7 @@ Creates a space below it, separating it from the surroundings
 - Outward looking or inward looking
 - Could be focused on things like the scenery or a fireplace
 - Size and locations of openings determine the scenery
-- Small openings can reveal a detail whilst large ones revea
+- Small openings can reveal a detail whilst large ones reveal a scene
+- Long and narrow openings hint at what is beyond without revealing too much
+- Groups of openings can fragment a view
+- 
