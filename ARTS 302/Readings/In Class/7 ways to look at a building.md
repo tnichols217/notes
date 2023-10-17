@@ -1,5 +1,5 @@
 # 7 Ways to Look at a Building
-## 1) Visual Character
+## 1) Visuals
 - Objective Characteristics
 - Details & massing
 
@@ -16,4 +16,11 @@
 ## 4) Symbolic Content
 - Does the architectural form embody its purpose
 - Content can be derived from symbolism of the building
+
+## 5) Context
+- How does it integrate with other buildings
+- How does it effect the city
+- Visual differences to surroundings
+
+## 6) Structure
 - 
