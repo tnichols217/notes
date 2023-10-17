@@ -78,7 +78,11 @@ Creates a space below it, separating it from the surroundings
 - Non-directional
 - Creates a space around it
 - Articulates surfaces or corners
-- 
+- Defines central zones in an interior space
+
+#### Multiple Vertical Linear
+
+- Work together to create envisioned ver
 
 #### Single Vertical Plane
 
