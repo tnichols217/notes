@@ -5,9 +5,14 @@
 ### Space within a Space
 
 - Large space enveloping a smaller space
-- Difference in orientation crea
+- Difference in orientation or shape creates interest
 
 ### Interlocking Spaces
+
+- Overlapping of two spaces at an edge
+- Can create
+	- Shared zone
+	- 
 
 ### Adjacent Spaces
 
