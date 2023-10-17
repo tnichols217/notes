@@ -162,6 +162,10 @@ Creates a space below it, separating it from the surroundings
 - Horizontally across corner
 	- Creates a panoramic experience
 - Linear skylight
+	- Adds light and increases volume
+- Window-walls
+	- Allows more light in
+	- Weakens vertical boundaries
 	- 
 
 ## Qualities of Architectural Space
