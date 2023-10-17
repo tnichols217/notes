@@ -125,6 +125,8 @@ Creates a space below it, separating it from the surroundings
 
 #### Closure from 4 Planes
 
+- Has no overhead plane
+- One of the strongest space dividing method
 - 
 
 #### Enclosure from 4 Planes
