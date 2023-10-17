@@ -197,8 +197,12 @@ Creates a space below it, separating it from the surroundings
  - Determined by configuration of elements in a space
  - Openings enclosed by a plane do not weaken form
  - Openings at edges or corner erode from solidity
- - Openings between planes
+ - Openings between planes separate them and reduce unity, reducing degree of enclosure
 
 #### Light
+
+- How light interacts with the building
+- How does the angle of the sun interact with the building
+- 
 
 #### View
