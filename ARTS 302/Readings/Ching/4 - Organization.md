@@ -47,7 +47,9 @@ Organization normally fills requirements like
 Stable concentrated organization focused on a point or large dominant space
 - Dominant space is often regular
 - Often secondary spaces maintain the regularity of the dominant space
-- 
+	- May differ based on requirements
+	- At least one must serve as the entry
+	- 
 
 ### Linear Organization
 
