@@ -4,7 +4,8 @@
 
 ### Space within a Space
 
-
+- Large space enveloping a smaller space
+- Difference in orientation crea
 
 ### Interlocking Spaces
 
