@@ -169,6 +169,8 @@ Creates a space below it, separating it from the surroundings
 
 ## Qualities of Architectural Space
 
+
+
 ### Degree of Enclosure
 
 ### Light
