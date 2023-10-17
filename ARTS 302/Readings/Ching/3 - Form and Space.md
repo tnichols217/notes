@@ -173,10 +173,23 @@ Creates a space below it, separating it from the surroundings
 
 - Shape
 - Surface
-- Light
-- 
+- Edges
+- Dimensions
+- Configuration
+- Openings
 
 ### Qualities of Space
+
+- Form
+- Color
+- Texture
+- Pattern
+- Sound
+- Proportion
+- Scale
+- Definition
+- Degree of Enclosure
+- 
 
 ### Degree of Enclosure
 
