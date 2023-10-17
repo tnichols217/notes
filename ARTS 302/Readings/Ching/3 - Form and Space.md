@@ -20,6 +20,8 @@ Buildings can interact with space in a variety of ways
 
 #### Base Plane
 
+If there is a perceptible difference in color, tone, 
+
 #### Elevated Base Plane
 
 #### Depressed Base Plane
@@ -34,7 +36,9 @@ Buildings can interact with space in a variety of ways
 
 #### Parallel Vertical Planes
 
-#### 
+#### U-Shaped Vertical Planes
+
+#### Enclosed Space from 4 Planes
 
 ## Openings in Space-Defining Elements
 
