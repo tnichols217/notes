@@ -140,9 +140,12 @@ Creates a space below it, separating it from the surroundings
 
 - Often creates a foreground on the background (wall)
 - Shape differences can create a contrast
-- 
+- Multiple openings can be clustered to create a pattern
+- As size increases => foreground and background switch
 
 ### Openings at Corners
+
+- 
 
 ### Openings between Planes
 
