@@ -127,8 +127,9 @@ Creates a space below it, separating it from the surroundings
 
 - Has no overhead plane
 - One of the strongest space dividing method
-- Organizes a permimeter
+- Organizes a perimeter
 - Promotes community on the inside by creating a shared space
+- Often are central and important
 - 
 
 #### Enclosure from 4 Planes
