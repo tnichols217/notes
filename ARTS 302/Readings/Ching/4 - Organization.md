@@ -17,6 +17,8 @@
 
 ### Adjacent Spaces
 
+- Two spaces next to each other often with a gap
+- Separating plane often lmits visual and physical access
 - 
 
 ### Spaces linked by a Common Space
