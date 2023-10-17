@@ -104,7 +104,8 @@ Creates a space below it, separating it from the surroundings
 - Presence of void in one side of the corner will weaken its definition and will establish a more dominant wall
 - If neither reach the corner, it creates a dynamic space and items organize across the diagonal
 - Stable and self-supporting
-- Strong space defining shapes
+- Strong space defining elements
+- Can be meshed with itself
 
 #### Parallel Vertical Planes
 
