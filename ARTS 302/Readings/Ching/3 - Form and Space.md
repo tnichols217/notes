@@ -133,6 +133,8 @@ Creates a space below it, separating it from the surroundings
 
 ## Openings in Space-Defining Elements
 
+- Provides con
+
 ### Openings within Planes
 
 - 
