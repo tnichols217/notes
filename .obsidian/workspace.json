@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/3 - Form and Space.md",
+                "file": "ARTS 302/Readings/In Class/7 ways to look at a building.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/3 - Form and Space.md",
+                "file": "ARTS 302/Readings/In Class/7 ways to look at a building.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Readings/Ching/3 - Form and Space.md"
+                "file": "ARTS 302/Readings/In Class/7 ways to look at a building.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Readings/Ching/3 - Form and Space.md",
+                "file": "ARTS 302/Readings/In Class/7 ways to look at a building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,10 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "ARTS 302/Readings/Ching/4 - Organization.md",
     "ARTS 302/Readings/Ching/3 - Form and Space.md",
+    "ARTS 302/Readings/In Class/7 ways to look at a building.md",
+    "ARTS 302/Readings/In Class",
+    "ARTS 302/Readings/Ching/4 - Organization.md",
     "STAT 345/Textbook/3.6 - Distribution Properties.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/2.4 - Leibnitz's Rule.md",
@@ -224,7 +226,6 @@
     "ARTS 302/Richard Meier",
     "CSDS 391/W/W3-tln32.pdf",
     "CSDS 391/W/W3.canvas",
-    "CSDS 391/W/Untitled.md",
     "MATH 223/Practice Problems/5 - Problem Set 5.pdf",
     "MATH 223/Practice Problems/14.1/attachments",
     "MATH 223/Practice Problems/14.1",
@@ -232,7 +233,6 @@
     "STAT 345/Textbook/3 - Common Distributions.pdf",
     "STAT 345/Textbook/Untitled.canvas",
     "STAT 345/Homework/5.pdf",
-    "STAT 345/Homework/3.pdf",
     "church/Untitled.canvas"
   ]
 }
