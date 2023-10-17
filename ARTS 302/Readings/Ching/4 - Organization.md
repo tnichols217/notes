@@ -82,5 +82,6 @@ A group of objects relying on proximity for relation to each other
 
 ### Grid Organization
 
-Forms and spaces organized in 
+Forms and spaces organized in relation to each other on a 3-D grid
+- Establishes regularity amongest
 - 
