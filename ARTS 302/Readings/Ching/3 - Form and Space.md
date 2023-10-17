@@ -18,6 +18,6 @@ Buildings can interact with space in a variety of ways
 
 ### Horizontal Elements
 
-### Vertical Elements
+### Single Vertical Plane
 
 ### 
