@@ -18,6 +18,12 @@ Buildings can interact with space in a variety of ways
 
 ### Horizontal Elements
 
-### Single Vertical Plane
+### Vertical Elements
 
-### 
+## Openings in Space-Defining Elements
+
+### Openings within Planes
+
+### Openings at Corners
+
+### Openings between 
