@@ -36,4 +36,9 @@ Organization normally fills requirements like
 - Function
 - Flexibility
 - Uniqueness
+- Grouped
+- Ventilation/light
+- Segregated
+- Accessible
+- Proximity
 - 
