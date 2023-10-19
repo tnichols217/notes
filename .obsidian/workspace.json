@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/6.md"
+                "file": "STAT 345/Textbook/3 - Common Distributions.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/6.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,10 +220,10 @@
       }
     ]
   },
-  "active": "66c4bc840829616c",
+  "active": "7d8747a034184701",
   "lastOpenFiles": [
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/6.md",
+    "STAT 345/Textbook/3 - Common Distributions.md",
     "MATH 223/Practice Problems/14.4.md",
     "MATH 223/Practice Problems/14.6.md",
     "MATH 223/Practice Problems/14.5.md",
