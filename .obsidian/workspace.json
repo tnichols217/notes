@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.4.md",
+                "file": "STAT 345/Homework/6.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.4.md",
+                "file": "STAT 345/Homework/6.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/14.4.md"
+                "file": "STAT 345/Homework/6.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/14.4.md",
+                "file": "STAT 345/Homework/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,9 +185,10 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "MATH 223/Practice Problems/14.4.md",
+    "STAT 345/Homework/6.md",
     "MATH 223/Practice Problems/14.6.md",
     "MATH 223/Practice Problems/14.5.md",
-    "MATH 223/Practice Problems/14.4.md",
     "ARTS 302/Readings/Ching/4 - Organization.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/3.6 - Distribution Properties.md",
@@ -211,7 +212,6 @@
     "CSDS 391/Textbook/1 - Intro to AI.md",
     "ARTS 302/Richard Meier.md",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
-    "STAT 345/Homework/5.md",
     "ARTS 302/attachments/Pasted image 20231011210516.png",
     "ARTS 302/attachments/Pasted image 20231011210437.png",
     "ARTS 302/attachments/Pasted image 20231011210310.png",
