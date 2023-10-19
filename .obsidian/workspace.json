@@ -19,18 +19,6 @@
               }
             },
             "group": "91dad52aafa5267d"
-          },
-          {
-            "id": "7822aabc1c9e7b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       },
@@ -232,7 +220,7 @@
       }
     ]
   },
-  "active": "66c4bc840829616c",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
     "STAT 345/Homework/6.pdf",
     "STAT 345/Textbook/3 - Common Distributions.md",
