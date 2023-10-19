@@ -183,14 +183,51 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
+  "floating": {
+    "id": "1afdd07f3f3d750c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "40dc932d1adf91a3",
+        "type": "window",
+        "children": [
+          {
+            "id": "41a6be6a44f203db",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7d8747a034184701",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 340,
+        "y": 132,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/14.4.md",
+    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/6.md",
+    "MATH 223/Practice Problems/14.4.md",
     "MATH 223/Practice Problems/14.6.md",
     "MATH 223/Practice Problems/14.5.md",
     "ARTS 302/Readings/Ching/4 - Organization.md",
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/3.6 - Distribution Properties.md",
     "ARTS 302/Readings/Ching/3 - Form and Space.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
