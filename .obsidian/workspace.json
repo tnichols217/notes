@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.4.md",
+                "file": "MATH 223/Practice Problems/14.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.4.md",
+                "file": "MATH 223/Practice Problems/14.5.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/14.4.md"
+                "file": "MATH 223/Practice Problems/14.5.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/14.4.md",
+                "file": "MATH 223/Practice Problems/14.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,20 +188,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "c34beed6456b9de3",
+        "id": "16977a46651ce5dc",
         "type": "window",
         "children": [
           {
-            "id": "7dd538999093110b",
+            "id": "6ecc4de01fe78961",
             "type": "tabs",
             "children": [
               {
-                "id": "c5be758e0afdc7d8",
+                "id": "f245c05eb67faf51",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MATH 223/Practice Problems/14.4.md",
+                    "file": "MATH 223/Practice Problems/14.5.md",
                     "mode": "source",
                     "source": false
                   }
@@ -220,15 +220,15 @@
       }
     ]
   },
-  "active": "c5be758e0afdc7d8",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "MATH 223/Practice Problems/14.4.md",
+    "MATH 223/Practice Problems/14.5.md",
     "STAT 345/Homework/6.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/6.pdf",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
-    "MATH 223/Practice Problems/14.4.md",
     "MATH 223/Practice Problems/14.6.md",
-    "MATH 223/Practice Problems/14.5.md",
     "ARTS 302/Readings/Ching/4 - Organization.md",
     "STAT 345/Textbook/3.6 - Distribution Properties.md",
     "ARTS 302/Readings/Ching/3 - Form and Space.md",
