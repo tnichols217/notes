@@ -183,50 +183,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "1afdd07f3f3d750c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "252ef7ffd58fb5a1",
-        "type": "window",
-        "children": [
-          {
-            "id": "c72152c53ee1df8c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3b849ce26e2e4960",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MATH 223/Practice Problems/14.6.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 853,
-        "y": 0,
-        "width": 854,
-        "height": 1067,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "MATH 223/Practice Problems/14.6.md",
+    "MATH 223/Practice Problems/6 - Problem Set 6.md",
     "MATH 223/Practice Problems/6 - Problem Set 6.pdf",
     "MATH 223/Practice Problems/14.4.md",
     "MATH 223/Practice Problems/14.5.md",
-    "MATH 223/Practice Problems/14.6.md",
-    "MATH 223/Practice Problems/6 - Problem Set 6.md",
     "STAT 345/Homework/6.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/6.pdf",
@@ -268,7 +231,6 @@
     "MATH 223/Practice Problems/14.1/attachments",
     "MATH 223/Practice Problems/14.1",
     "STAT 345/Textbook/3",
-    "STAT 345/Textbook/3 - Common Distributions.pdf",
     "STAT 345/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
   ]
