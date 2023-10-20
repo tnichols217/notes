@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/6 - Problem Set 6.md",
+                "file": "MATH 223/Quiz/5.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/6 - Problem Set 6.md",
+                "file": "MATH 223/Quiz/5.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/6 - Problem Set 6.md"
+                "file": "MATH 223/Quiz/5.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/6 - Problem Set 6.md",
+                "file": "MATH 223/Quiz/5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,10 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/14.6.md",
     "MATH 223/Practice Problems/6 - Problem Set 6.md",
+    "MATH 223/Quiz/5.md",
+    "MATH 223/Quiz",
+    "MATH 223/Practice Problems/14.6.md",
     "MATH 223/Practice Problems/6 - Problem Set 6.pdf",
     "MATH 223/Practice Problems/14.4.md",
     "MATH 223/Practice Problems/14.5.md",
@@ -230,7 +232,6 @@
     "MATH 223/Practice Problems/5 - Problem Set 5.pdf",
     "MATH 223/Practice Problems/14.1/attachments",
     "MATH 223/Practice Problems/14.1",
-    "STAT 345/Textbook/3",
     "STAT 345/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
   ]
