@@ -126,4 +126,6 @@ For the probability that you do not get a leak ($L^C$), given you know there is 
 |     | $D$      | $D^C$    |
 | --- | -------- | -------- |
 | $P$ | 0.000198 | 0.000002 |
-| $N$ | 0.05     |          |
+| $N$ | 0.04999  | 0.94981  | 
+
+$P(P|D)$
