@@ -62,4 +62,4 @@ $\square$
 
 ## b
 
-$P(A|)$
+$P(A|B\cap C)=P(A)$
