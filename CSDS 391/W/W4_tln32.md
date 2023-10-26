@@ -33,7 +33,9 @@ $P(x=i)=\vec A_i*\sum\vec B$
 $\sum \vec B=1$
 $P(x=i)=\vec A_i$
 
-$\vec A=\begin{bmatrix}0.2\\0.4\\0.3\\0.1\end{bmatrix}$
-
+$P(x=i)=\begin{bmatrix}0.2\\0.4\\0.3\\0.1\end{bmatrix}_{i}$
+$\square$
 
 ## c
+
+Yes, since in part (b) we decomposed the probability matrix into two vectors, this means that the distribution
