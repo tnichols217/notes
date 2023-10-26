@@ -91,9 +91,11 @@ Let $P(B=i)=[0.15,0.35,0.5]_i$
 
 Let $P(A=j\cap C=k)=\begin{bmatrix}0.05&0.05&0.15\\0.15&0.2&0.15\\0.125&0.1&0.025\end{bmatrix}_{(k,j)}$
 
+Let $P()$
+
 For the sample $(i,j,k)=(1,1,1)$
 
 $P(a|b)=0.25$
 $P(a)=0.25$
 
-$P(a|b\cap c)=0.15$
+$P(a|b\cap c)=$
