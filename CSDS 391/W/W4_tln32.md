@@ -23,4 +23,6 @@ Therefore, this is a valid probability distribution
 
 ## b
 
-$M=0.01\begin{bmatrix}2\\4\\3\\1\end{bmatrix}\begin{bmatrix}3&4&2&1\end{bmatrix}$
+$$
+
+$M=\begin{bmatrix}0.2\\0.4\\0.3\\0.1\end{bmatrix}\begin{bmatrix}0.3&0.4&0.2&0.1\end{bmatrix}$
