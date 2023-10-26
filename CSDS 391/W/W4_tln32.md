@@ -23,4 +23,4 @@ Therefore, this is a valid probability distribution
 
 ## b
 
-$M=\begin{bmatri$
+$M=0.01\begin{bmatrix}2\\4\\3\\1\end{bmatrix}\begin{bmatrix}3&4&2&1\end{bmatrix}$
