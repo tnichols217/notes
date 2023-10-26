@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/1.2 - Probability Theory.md"
+                "file": "CSDS 391/W/W4_tln32.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/1.2 - Probability Theory.md",
+                "file": "CSDS 391/W/W4_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,8 +220,9 @@
       }
     ]
   },
-  "active": "084a4991aa32fbae",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "STAT 345/Textbook/1.2 - Probability Theory.md",
     "CSDS 391/W/W4_tln32.md",
     "CSDS 391/W/W1-Q1.md",
     "CSDS 391/W/W2_tln32.pdf",
@@ -254,7 +255,6 @@
     "Biology/Ch8/Chemical Formulas.md",
     "Biology/Ch8/Photosynthesis.md",
     "Biology/Ch8/Index.md",
-    "Biology/Ch8/Energy.md",
     "ARTS 302/attachments/Pasted image 20231011210516.png",
     "ARTS 302/attachments/Pasted image 20231011210437.png",
     "ARTS 302/attachments/Pasted image 20231011210310.png",
