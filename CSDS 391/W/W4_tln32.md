@@ -123,7 +123,7 @@ For the probability that you do not get a leak ($L^C$), given you know there is 
 
 ## a
 
-|     | $D$  | $D^C$ |
-| --- | ---- | ----- |
-| $P$ |      | 0.01  |
-| $N$ | 0.05 |       |
+|     | $D$      | $D^C$    |
+| --- | -------- | -------- |
+| $P$ | 0.000198 | 0.000002 |
+| $N$ | 0.05     |          |
