@@ -105,4 +105,4 @@ $=0.506$
 
 ## d
 
-$P(G=T|L=T\cup V=T)=P(G\cap(L\cup V))P()$
+$P(G=T|L=T\cup V=T)=P(G\cap(L\cup V))P(L\cup V)$
