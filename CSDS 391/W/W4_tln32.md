@@ -51,3 +51,5 @@ Since $M_{(j,i)}=\vec A_i\vec B_j$ => $P(X\cap Y)=P(X)P(Y)$
 
 # 2
 
+## b
+
