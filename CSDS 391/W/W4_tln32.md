@@ -65,4 +65,5 @@ $\square$
 $P(A|B\cap C)=P(A)$
 Implies Independence between $A$ and $B\cap C$, but tells us nothing about the relationship between $B$ and $C$
 
-Let $A$ have a probabilit
+Let $P(A=i)=[0.1,0.2,0.3,0.4]_i$
+
