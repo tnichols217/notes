@@ -23,6 +23,6 @@ Therefore, this is a valid probability distribution
 
 ## b
 
-$$
+Let $A=\begin{bmatrix}0.2\\0.4\\0.3\\0.1\end{bmatrix}$ and $B=\begin{bmatrix}0.3&0.4&0.2&0.1\end{bmatrix}$
 
-$M=\begin{bmatrix}0.2\\0.4\\0.3\\0.1\end{bmatrix}\begin{bmatrix}0.3&0.4&0.2&0.1\end{bmatrix}$
+$M=\begin{bmatrix}0.3&0.4&0.2&0.1\end{bmatrix}$
