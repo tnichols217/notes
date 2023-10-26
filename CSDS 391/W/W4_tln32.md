@@ -83,6 +83,8 @@ Which are very clearly not equal.
 
 $P(A|B)=P(A)$
 
+Let $P(A=i)=[0.5,0.5]_i$
+
 # 3
 
 ## a
