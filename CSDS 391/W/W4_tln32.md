@@ -69,4 +69,9 @@ Let $P(A=i)=[0.15,0.35,0.5]_i$
 
 Let $P(B=j\cap C=k)=\begin{bmatrix}0.2&0.2&0.6\\0.3&0.4&0.3\\0.5&0.4&0.1\end{bmatrix}_{(k,j)}$
 
-For the sample $(i,j,k)=()$
+For the sample $(i,j,k)=(1,1,1)$
+
+$P(a|b\cap c)=0.15$
+$P(a)=0.15$
+
+$P(b|c)=$
