@@ -39,3 +39,7 @@ $\square$
 ## c
 
 Yes, since in part (b) we decomposed the probability matrix of $x$ and $y$ into two vectors, $x$ and $y$ are independent as the independence rule holds.
+
+$P(X\cap Y)=P(X)P(Y)$
+
+We alread
