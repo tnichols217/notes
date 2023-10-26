@@ -38,4 +38,4 @@ $\square$
 
 ## c
 
-Yes, since in part (b) we decomposed the probability matrix into two vectors, this means that the distribution
+Yes, since in part (b) we decomposed the probability matrix of $x$ and $y$ into two vectors, $x$ and $y$ are independent as the independence rule holds.
