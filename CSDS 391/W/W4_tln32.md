@@ -27,4 +27,6 @@ Let $\vec A=\begin{bmatrix}0.2\\0.4\\0.3\\0.1\end{bmatrix}$ and $\vec B=\begin{b
 
 Such that $M=\vec A\vec B$
 
-The probability of getting a particular $P(x=i)$ would be equal to $\sum\limits_{j=1}^{n}P(x=i\cap y_j)$ for partition $y$. Since we decomposed the probability matri
+The probability of getting a particular $P(x=i)$ would be equal to $\sum\limits_{j=1}^{n}P(x=i\cap y_j)$ for partition $y$. Since we decomposed the probability matrix into a vector multiplication, we can say that:
+
+$P(x=i)=\vec A_i*\sum\vec B$
