@@ -67,4 +67,4 @@ Implies Independence between $A$ and $B\cap C$, but tells us nothing about the r
 
 Let $P(A=i)=[0.1,0.2,0.3,0.4]_i$
 
-Let $P(B=j\cap C=k)=\begin{bmatrix}0.2&0.2&0.6\\\end{bmatrix}$
+Let $P(B=j\cap C=k)=\begin{bmatrix}0.2&0.2&0.6\\0.3&0.4&0.3\\0.5&0.4&0.1\end{bmatrix}_{()}_$
