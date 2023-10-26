@@ -42,7 +42,8 @@ Yes, since in part (b) we decomposed the probability matrix of $x$ and $y$ into 
 
 $P(X\cap Y)=P(X)P(Y)$
 
-We already proved in part (b) $P(X)=\vec A$
-A similar proof can prove that $P(Y)=\vec B$
+We already proved in part (b) $P(X)=\vec A_{i}$
+A similar proof can prove that $P(Y)=\vec B_j$
 
-Since $P(X\cap Y)$
+Since $P(X\cap Y)=M_{(j,i)}$
+And $M_$
