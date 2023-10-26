@@ -53,4 +53,4 @@ Since $M_{(j,i)}=\vec A_i\vec B_j$ => $P(X\cap Y)=P(X)P(Y)$
 
 ## b
 
-$P(A|B)$
+$P(A|B\cap C)=P(B|A\cap C)$
