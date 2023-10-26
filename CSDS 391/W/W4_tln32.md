@@ -27,4 +27,4 @@ Let $\vec A=\begin{bmatrix}0.2\\0.4\\0.3\\0.1\end{bmatrix}$ and $\vec B=\begin{b
 
 Such that $M=\vec A\vec B$
 
-The probability of getting a particular $x$ would be equal the 
+The probability of getting a particular $x$ would be equal to $\sum$
