@@ -26,3 +26,5 @@ Therefore, this is a valid probability distribution
 Let $\vec A=\begin{bmatrix}0.2\\0.4\\0.3\\0.1\end{bmatrix}$ and $\vec B=\begin{bmatrix}0.3&0.4&0.2&0.1\end{bmatrix}$
 
 Such that $M=\vec A\vec B$
+
+The probability of getting a particular $x$ would be equal the 
