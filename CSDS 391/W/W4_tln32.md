@@ -51,9 +51,15 @@ Since $M_{(j,i)}=\vec A_i\vec B_j$ => $P(X\cap Y)=P(X)P(Y)$
 
 # 2
 
-## b
+## a
 
 $P(A|B\cap C)=P(B|A\cap C)$
 
 $P(B\cap C)=P(A\cap C)$ By Conditional Probability Rule
 
+$P(B|C)=P(A|C)$ Also by Conditional Probability Rule
+$\square$
+
+## b
+
+$P(A|)$
