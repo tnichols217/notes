@@ -65,6 +65,8 @@ $\square$
 $P(A|B\cap C)=P(A)$
 Implies Independence between $A$ and $B\cap C$, but tells us nothing about the relationship between $B$ and $C$
 
-Let $P(A=i)=[0.1,0.2,0.3,0.4]_i$
+Let $P(A=i)=[0.15,0.35,0.5]_i$
 
-Let $P(B=j\cap C=k)=\begin{bmatrix}0.2&0.2&0.6\\0.3&0.4&0.3\\0.5&0.4&0.1\end{bmatrix}_{()}_$
+Let $P(B=j\cap C=k)=\begin{bmatrix}0.2&0.2&0.6\\0.3&0.4&0.3\\0.5&0.4&0.1\end{bmatrix}_{(k,j)}$
+
+For the sample $(i,j,k)=()$
