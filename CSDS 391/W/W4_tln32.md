@@ -89,7 +89,8 @@ Let $C$ be the probability that there is one head in $A$ and $B$
 $P(A|B)=0.5$
 $P(A)=0.5$
 
-$P(A|B\cup C)=$
+$P(A|B\cup C)=0$
+$P(A|C)=0$
 
 # 3
 
