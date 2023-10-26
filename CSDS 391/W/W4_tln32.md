@@ -83,4 +83,4 @@ Which are very clearly not equal.
 
 $P(A|B)=P(A)$
 
-
+$P(A\cap B)=P(A)P(B)$
