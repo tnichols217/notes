@@ -123,5 +123,7 @@ For the probability that you do not get a leak ($L^C$), given you know there is 
 
 ## a
 
-|     | a   |     |
-| --- | --- | --- |
+|     | $D$ | $D^C$ |
+| --- | --- | ----- |
+| $P$ |     |       |
+| $N$ |     |       |
