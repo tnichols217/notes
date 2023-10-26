@@ -83,4 +83,12 @@ Which are very clearly not equal.
 
 $P(A|B)=P(A)$
 
+This tells us that $A$ and $B$ are independent but does not say anything about their relation to $C$.
+
+Same as part (b),
+
+Let $P(A=i)=[0.15,0.35,0.5]_i$
+
+Let $P(B=j\cap C=k)=\begin{bmatrix}0.05&0.05&0.15\\0.15&0.2&0.15\\0.125&0.1&0.025\end{bmatrix}_{(k,j)}$
+
 
