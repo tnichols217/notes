@@ -128,4 +128,5 @@ For the probability that you do not get a leak ($L^C$), given you know there is 
 | $P$ | 0.000198 | 0.000002 |
 | $N$ | 0.04999  | 0.94981  | 
 
-$P(P|D)$
+$P(P|D)=0.000198/(0.000198+0.04999)$
+$=0.003945166175181318$
