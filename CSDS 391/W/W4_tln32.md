@@ -30,3 +30,5 @@ Such that $M=\vec A\vec B$
 The probability of getting a particular $P(x=i)$ would be equal to $\sum\limits_{j=1}^{n}P(x=i\cap y_j)$ for partition $y$. Since we decomposed the probability matrix into a vector multiplication, we can say that:
 
 $P(x=i)=\vec A_i*\sum\vec B$
+$\sum \vec B=1$
+$P(x=i)=\vec A_i$
