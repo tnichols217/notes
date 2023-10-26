@@ -152,6 +152,11 @@ $=0.03741547236120847$
 
 ## a
 
+|       | $O$ | $O^C$ |
+| ----- | --- | ----- |
+| $A$   |     |       |
+| $A^C$ |     |       |
+
 Yes, given only the data that it appears blue and that discrimination is 75% reliable, we can still conclude that it is most likely blue with low certainty.
 
 ## b
