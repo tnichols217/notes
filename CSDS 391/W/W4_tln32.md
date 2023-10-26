@@ -100,3 +100,6 @@ $=0.1$
 ## c
 
 $P(L|G)=P(L\cap G)/P(G)=\frac{1}{P(G)}\sum\limits_{i=F}^TP(L\cap G\cap V_i)$
+$=10(0.049+0.0016)$
+$=0.506$
+
