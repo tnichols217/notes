@@ -89,7 +89,7 @@ Similar to part (b),
 
 Let $P(B=i)=[0.15,0.35,0.5]_i$
 
-Let $P(A=i\cap C=k)=\begin{bmatrix}0.05&0.05&0.15\\0.15&0.2&0.15\\0.125&0.1&0.025\end{bmatrix}_{(k,i)}$
+Let $P(A=i\cap C=k)=\begin{bmatrix}0.75&0&0\\0&0&0\\0&0&0.25\end{bmatrix}_{(k,i)}$
 
 Let $P(B=j\cap C=k)=\begin{bmatrix}0.05&0.05&0.15\\0.25&0.2&0.15\\0.025&0.1&0.025\end{bmatrix}_{(k,j)}$
 
