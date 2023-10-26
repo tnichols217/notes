@@ -158,4 +158,7 @@ Yes, given only the data that it appears blue and that discrimination is 75% rel
 
 Yes, we can now calculate with more certainty.
 
-	||||
+|       | $O$ | $O^C$ |
+| ----- | --- | ----- |
+| $A$   |     |       |
+| $A^C$ |     |       |
