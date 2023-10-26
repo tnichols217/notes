@@ -114,4 +114,7 @@ $=0.6553585196607556$
 ## e
 
 $P(L^C|G)=P(L^C\cap G)/P(G)$
-$10()$
+$=10(0.049+0.0004)$
+$=0.494$
+
+For the probability that you do not get a leak, given you know 
