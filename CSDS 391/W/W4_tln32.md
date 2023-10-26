@@ -86,8 +86,8 @@ $P(A|B)=P(A)$
 $P(A\cap B)=P(A)P(B)$
 
 
-
-$P(A|B\cap C)=P(A)$
+$P(A\cap B\cap C)P(C)=P(A\cap C)P(B\cap C)$
+$P(A|B\cap C)=P(A|C)$
 
 This tells us that $A$ and $B$ are independent but does not say anything about their relation to $C$.
 
