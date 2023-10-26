@@ -79,4 +79,8 @@ $P(b)=0.25$
 
 Which are very clearly not equal.
 
+## c
+
+$P(A|B)=P(A)$
+
 
