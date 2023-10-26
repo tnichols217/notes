@@ -83,26 +83,5 @@ Which are very clearly not equal.
 
 $P(A|B)=P(A)$
 
-$P(A\cap B)=P(A)P(B)$
+# 3
 
-$P(A\cap B\cap C)=P(A\cap B| C)P(C)$
-
-$P(A\cap B\cap C)P(C)=P(A\cap C)P(B\cap C)$
-$P(A|B\cap C)=P(A|C)$
-
-This tells us that $A$ and $B$ are independent but does not say anything about their relation to $C$.
-
-Similar to part (b),
-
-Let $P(B=i)=[0.15,0.35,0.5]_i$
-
-Let $P(A=i\cap C=k)=\begin{bmatrix}0.75&0&0\\0&0&0\\0&0&0.25\end{bmatrix}_{(k,i)}$
-
-Let $P(B=j\cap C=k)=\begin{bmatrix}0.05&0.05&0.15\\0.25&0.2&0.15\\0.025&0.1&0.025\end{bmatrix}_{(k,j)}$
-
-For the sample $(i,j,k)=(1,1,1)$
-
-$P(a|b)=0.25$
-$P(a)=0.25$
-
-$P(a|b\cap c)=$
