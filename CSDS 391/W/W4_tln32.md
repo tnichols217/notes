@@ -84,7 +84,12 @@ Which are very clearly not equal.
 $P(A|B)=P(A)$
 
 Let both $A$ and $B$ be independent coin flips.
-Let $C$ be the distribution that 
+Let $C$ be the probability that there is one head in $A$ and $B$
+
+$P(A|B)=0.5$
+$P(A)=0.5$
+
+$P(A|B\cup C)=$
 
 # 3
 
