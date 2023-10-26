@@ -47,4 +47,7 @@ A similar proof can prove that $P(Y)=\vec B_j$
 
 Given $P(X\cap Y)=M_{(j,i)}$
 
-Since $M_{(j,i)}=\vec A_i\vec B_j$
+Since $M_{(j,i)}=\vec A_i\vec B_j$ => $P(X\cap Y)=P(X)P(Y)$
+
+# 2
+
