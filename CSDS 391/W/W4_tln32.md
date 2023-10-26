@@ -106,4 +106,4 @@ $=0.506$
 ## d
 
 $P(G=T|L=T\cup V=T)=P(G\cap(L\cup V))/P(L\cup V)$
-$=\sum\limits$
+$=\frac{1}{P(L\cup V)}\sum\limits_iP(G\cap(L\cup V)_i)$
