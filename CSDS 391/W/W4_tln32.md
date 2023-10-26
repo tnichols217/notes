@@ -117,4 +117,10 @@ $P(L^C|G)=P(L^C\cap G)/P(G)$
 $=10(0.049+0.0004)$
 $=0.494$
 
-For the probability that you do not get a leak, given you know 
+For the probability that you do not get a leak ($L^C$), given you know there is glass on the tire ($G$), with no information on the valve.
+
+# 4
+
+## a
+
+
