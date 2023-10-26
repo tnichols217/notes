@@ -144,3 +144,4 @@ $=253.4747474747475$
 | $E^C$ | 0.09998 | 0.89982 |
 
 $P(E|D\cup D_2)=P(E\cup D\cup D_2)/(P(D)P(D_2)$
+$P(E|D\cup D_2)=P(E\cup D)P(E\cup D_2)/(P(D)P(D_2)$
