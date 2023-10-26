@@ -95,3 +95,8 @@ $=0.07022$
 
 $P(G)=\sum\limits_{i=F}^T\sum\limits_{j=F}^TP(L_i\cap G\cap V_j)$
 $=0.049+0.0004+0.049+0.0016$
+$=0.1$
+
+## c
+
+$P(L|G)=P(L\cap G)/P(G)$
