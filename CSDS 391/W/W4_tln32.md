@@ -85,3 +85,4 @@ $P(A|B)=P(A)$
 
 # 3
 
+$P(L)=\sum\limits_{i=F}^T\sum\limits_{j=F}^T$
