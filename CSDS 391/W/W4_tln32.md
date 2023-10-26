@@ -83,6 +83,12 @@ Which are very clearly not equal.
 
 $P(A|B)=P(A)$
 
+$P(A\cap B)=P(A)P(B)$
+
+
+
+$P(A|B\cap C)=P(A)$
+
 This tells us that $A$ and $B$ are independent but does not say anything about their relation to $C$.
 
 Similar to part (b),
