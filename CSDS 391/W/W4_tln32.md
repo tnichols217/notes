@@ -67,7 +67,7 @@ Implies Independence between $A$ and $B\cap C$, but tells us nothing about the r
 
 Let $P(A=i)=[0.15,0.35,0.5]_i$
 
-Let $P(B=j\cap C=k)=\begin{bmatrix}0.2&0.2&0.6\\0.3&0.4&0.3\\0.5&0.4&0.1\end{bmatrix}_{(k,j)}$
+Let $P(B=j\cap C=k)=\begin{bmatrix}0.05&0.05&0.15\\0.15&0.2&0.15\\0.125&0.1&0.025\end{bmatrix}_{(k,j)}$
 
 For the sample $(i,j,k)=(1,1,1)$
 
