@@ -85,4 +85,4 @@ $P(A|B)=P(A)$
 
 $P(A\cap B)=P(A)P(B)$
 
-$P(A\cap B\cap C)P(C)=P(A)P(B\cap C)$
+$P(A\cap B\cap C)P(C)=P(A\cap C)P(B\cap C)$
