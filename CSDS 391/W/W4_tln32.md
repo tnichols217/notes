@@ -83,7 +83,8 @@ Which are very clearly not equal.
 
 $P(A|B)=P(A)$
 
-Let $P(A=i)=[0.5,0.5]_i$
+Let both $A$ and $B$ be independent coin flips.
+Let $C$ be the distribution that 
 
 # 3
 
