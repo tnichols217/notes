@@ -74,4 +74,9 @@ For the sample $(i,j,k)=(1,1,1)$
 $P(a|b\cap c)=0.15$
 $P(a)=0.15$
 
-$P(b|c)=$
+$P(b|c)=0.1538$
+$P(b)=0.25$
+
+Which are very clearly not equal.
+
+
