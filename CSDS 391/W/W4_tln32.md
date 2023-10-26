@@ -152,18 +152,8 @@ $=0.03741547236120847$
 
 ## a
 
-|       | $O$   | $O^C$ |
-| ----- | ----- | ----- |
-| $A$   | 0.375 | 0.125 |
-| $A^C$ | 0.125 | 0.375 | 
-
 Yes, given only the data that it appears blue and that discrimination is 75% reliable, we can still conclude that it is most likely blue with low certainty. (75% chance it is blue, with 25% chance its green)
 
 ## b
 
 Yes, we can now calculate with more certainty.
-
-|       | $O$ | $O^C$ |
-| ----- | --- | ----- |
-| $A$   |     |       |
-| $A^C$ |     |       |
