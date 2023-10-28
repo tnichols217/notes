@@ -183,43 +183,6 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "1265656617ffafed",
-    "type": "floating",
-    "children": [
-      {
-        "id": "02ff419b56bfb1c1",
-        "type": "window",
-        "children": [
-          {
-            "id": "c8d9680770a870d5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "084a4991aa32fbae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "STAT 345/Textbook/1.2 - Probability Theory.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 340,
-        "y": 132,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
     "STAT 345/Textbook/1.2 - Probability Theory.md",
