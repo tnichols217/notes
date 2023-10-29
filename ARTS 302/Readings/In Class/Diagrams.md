@@ -7,4 +7,15 @@
 - Program
 - Public / Private
 - Geometry
-- Heier
+- Hierarchy
+
+## Elevation
+
+- Geometry / Proportions
+- Massing
+- Hierarchy
+- Solid & Void
+
+## Plan to Elevation
+
+## Parti
