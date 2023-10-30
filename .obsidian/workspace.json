@@ -183,7 +183,44 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "66c4bc840829616c",
+  "floating": {
+    "id": "d65e78a49635bed5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dc983c4c7eecc4cd",
+        "type": "window",
+        "children": [
+          {
+            "id": "93b05bf0eeb332c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57bbdcea88aefcf0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MATH 223/Practice Problems/14.7.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 853,
+        "y": 0,
+        "width": 854,
+        "height": 1067,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "57bbdcea88aefcf0",
   "lastOpenFiles": [
     "MATH 223/Practice Problems/14.8.md",
     "MATH 223/Practice Problems/14.7.md",
