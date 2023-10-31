@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.8.md",
+                "file": "MATH 223/Practice Problems/14.7.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/14.8.md",
+                "file": "MATH 223/Practice Problems/14.7.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/14.8.md"
+                "file": "MATH 223/Practice Problems/14.7.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/14.8.md",
+                "file": "MATH 223/Practice Problems/14.7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,8 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/14.7.md",
     "MATH 223/Practice Problems/14.8.md",
+    "MATH 223/Practice Problems/14.7.md",
     "STAT 345/Textbook/3.6 - Distribution Properties.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "ARTS 302/Readings/In Class/Diagrams.md",
