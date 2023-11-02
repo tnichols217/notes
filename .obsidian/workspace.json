@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Homework/7.md",
+                "file": "MATH 223/Practice Problems/12.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Homework/7.md",
+                "file": "MATH 223/Practice Problems/12.1.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pH",
+                "query": "graph",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -99,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/7.md"
+                "file": "MATH 223/Practice Problems/12.1.md"
               }
             }
           }
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/7.md",
+                "file": "MATH 223/Practice Problems/12.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,8 +285,8 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/7.md",
+    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/7.pdf",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Homework/6.md",
