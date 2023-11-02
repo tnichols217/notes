@@ -61,9 +61,17 @@ The German augmented 6th is also enharmonically equivalent to the $V^7$ chord in
 X: 1
 L:1/1
 K:C
-"Ger +6"[_Ac_e^f]"V7(Db)"[_Ac_e_g]"I"[_DF_A]|[K:Cm][Ace^f][G=Bdg]
+"Ger +6"[_Ac_e^f]"V7(Db)"[_Ac_e_g]"I"[_DF_A]
 ```
 
 # Neopolitan
 
-A major triad built off the $\$
+A major triad built off the $\flat\hat2$ tone. Often found in first inversion.
+
+
+```music-abc
+X: 1
+L:1/1
+K:C
+"N6 or II"[_Ac_e^f]"V7(Db)"[_Ac_e_g]"I"[_DF_A]
+```
