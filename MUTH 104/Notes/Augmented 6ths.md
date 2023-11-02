@@ -37,4 +37,19 @@ K:C
 
 ## German
 
-Same as the Italian, except with an added $\text{P}5$ interval from the root ($\flat\hat3$)
+Same as the Italian, except with an added $\text{P}5$ interval from the root ($\flat\hat3$ in Major, $\hat3$ in minor).
+
+| Major         | Minor         |
+| ------------- | ------------- |
+| $\flat\hat6$  | $\hat6$       |
+| $\hat8$       | $\hat8$       |
+| $\flat\hat3$ | $\hat3$ |
+| $\sharp\hat4$ | $\sharp\hat4$ |
+
+```music-abc
+X: 1
+L:1/1
+K:C
+[_Ac_e^f][GBdg]|[K:Cm][Ace^f][G=Bdg]
+```
+
