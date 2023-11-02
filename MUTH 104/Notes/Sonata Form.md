@@ -34,4 +34,13 @@ Consists of four main sections in order:
 ### S - Secondary Theme
 
 - Often in a different key from the Primary theme (often dominant)
-- Often different in both rythm and mood of the 
+- Often different in both rythm and mood of the primary theme
+- Also will be revisited often throughout the piece
+
+### C - Closing
+
+- Adds new material and solidifies the key of the second
+
+## D - Development
+
+
