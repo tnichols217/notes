@@ -73,5 +73,5 @@ A major triad built off the $\flat\hat2$ tone. Often found in first inversion.
 X: 1
 L:1/1
 K:C
-"N6 or II"[_Ac_e^f]"V7(Db)"[_Ac_e_g]"I"[_DF_A]
+"N or bII"[_DF_A]"N6 or bII6"[F_A_d]
 ```
