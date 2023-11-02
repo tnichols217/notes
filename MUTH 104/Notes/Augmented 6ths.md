@@ -19,6 +19,19 @@ K:C
 
 ## French
 
-Same as the Italian, except with an added $+4$ interval from the root.
+Same as the Italian, except with an added $+4$ interval from the root ($\hat2$ tone).
 
+| Major         | Minor         |
+| ------------- | ------------- |
+| $\flat\hat6$  | $\hat6$       |
+| $\hat8$       | $\hat8$       |
+| $\hat2$ | $\hat2$ |
+| $\sharp\hat4$ | $\sharp\hat4$ |
+
+```music-abc
+X: 1
+L:1/1
+K:C
+[_Ac^f][GBg]|[K:Cm][Ac^f][G=Bg]
+```
 ## German
