@@ -28,4 +28,10 @@ Consists of four main sections in order:
 
 ### T - Transition
 
-- Short piece between the themes of the p
+- Short piece between the themes
+- Often takes the key of the Secondary theme with the meter and rythm of the Primary theme
+
+### S - Secondary Theme
+
+- Often in a different key from the Primary theme (often dominant)
+- Often different in both rythm and mood of the 
