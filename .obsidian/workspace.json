@@ -183,10 +183,48 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
+  "floating": {
+    "id": "27a599f2d4c72387",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a19d631a01a3d3dc",
+        "type": "window",
+        "children": [
+          {
+            "id": "886fa8e3f8765808",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0664dfbf000eb6de",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 340,
+        "y": 132,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "STAT 345/Homework/6.md",
+    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Homework/7.md",
+    "STAT 345/Homework/6.md",
     "MATH 223/Practice Problems/7 - Problem Set 7.md",
     "MATH 223/Practice Problems/7 - Problem Set 7.pdf",
     "MATH 223/Practice Problems/14.8.md",
@@ -213,7 +251,6 @@
     "MATH 223/Practice Problems/14.4.md",
     "MATH 223/Practice Problems/14.5.md",
     "STAT 345/Homework/6.pdf",
-    "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "ARTS 302/Readings/Ching/4 - Organization.md",
     "ARTS 302/Readings/Ching/3 - Form and Space.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
