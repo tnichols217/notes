@@ -19,6 +19,6 @@ K:C
 
 ## French
 
-Same as the italian
+Same as the Italian, except with an added $+4$ interval from the root.
 
 ## German
