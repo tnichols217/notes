@@ -23,3 +23,9 @@ Consists of four main sections in order:
 ### P - Primary Theme
 
 - Main theme of the piece
+- Gets revisited often
+- In the main key of the piece (is in tonic)
+
+### T - Transition
+
+- Short piece between the themes of the p
