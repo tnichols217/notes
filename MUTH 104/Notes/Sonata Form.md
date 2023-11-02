@@ -45,4 +45,6 @@ Consists of four main sections in order:
 
 Lengthier development of both themes of the piece. Often takes the key of the secondary theme
 
-## 
+## R - Recapitulation
+
+Appears to be very similar to the exposition, with simplificatonis and
