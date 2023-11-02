@@ -43,4 +43,6 @@ Consists of four main sections in order:
 
 ## D - Development
 
+Lengthier development of both themes of the piece. Often takes the key of the secondary theme
 
+## 
