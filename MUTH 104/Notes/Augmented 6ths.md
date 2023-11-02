@@ -61,5 +61,5 @@ The German augmented 6th is also enharmonically equivalent to the $V^7$ chord in
 X: 1
 L:1/1
 K:C
-[_Ac_e^f][GBdg]|[K:Cm][Ace^f][G=Bdg]
+"Ger +6"[_Ac_e^f]"V7"[_Ac_e_g][_DFAc]|[K:Cm][Ace^f][G=Bdg]
 ```
