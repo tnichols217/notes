@@ -34,4 +34,7 @@ L:1/1
 K:C
 [_Acd^f][GBdg]|[K:Cm][Acd^f][G=Bdg]
 ```
+
 ## German
+
+Same as the Italian, except with an added $\text{P}5$ interval from the root ($\flat\hat3$)
