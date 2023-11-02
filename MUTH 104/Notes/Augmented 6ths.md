@@ -14,10 +14,11 @@ Simplest form of the national augmented 6th chords. Looks like a first inversion
 X: 1
 L:1/1
 K:C
-[_A(c^f][GBg]|[K:Cm][Ac^f]
+[_Ac^f][GBg]|[K:Cm][Ac^f][G=Bg]
 ```
 
-
 ## French
+
+Same as the italian
 
 ## German
