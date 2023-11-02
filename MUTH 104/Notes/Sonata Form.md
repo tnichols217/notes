@@ -1,6 +1,6 @@
 ---
 date created: 2023-11-02 15:23
-date updated: 2023-11-02 15:24
+date updated: 2023-11-02 15:34
 ---
 
 # Sonata Form
@@ -62,5 +62,6 @@ Appears to be very similar to the exposition, with slight simplifications and a 
 
 ### S - Secondary Theme
 
-- A re-visitation of the secon theme from the exposition
-- 
+- A re-visitation of the secondary theme from the exposition
+- Often transposed into the home key (tonic)
+- The resolution and ending of the piece
