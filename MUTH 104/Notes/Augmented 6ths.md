@@ -32,6 +32,6 @@ Same as the Italian, except with an added $+4$ interval from the root ($\hat2$ t
 X: 1
 L:1/1
 K:C
-[_Ac^f][GBg]|[K:Cm][Ac^f][G=Bg]
+[_Acd^f][GBdg]|[K:Cm][Acd^f][G=Bdg]
 ```
 ## German
