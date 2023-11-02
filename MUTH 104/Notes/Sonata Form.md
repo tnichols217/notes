@@ -39,7 +39,7 @@ Consists of four main sections in order:
 
 ### C - Closing
 
-- Adds new material and solidifies the key of the second
+- Adds new material and solidifies the key of the secondary theme
 
 ## D - Development
 
