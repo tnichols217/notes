@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Homework/6.md",
+                "file": "STAT 345/Homework/7.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Homework/6.md",
+                "file": "STAT 345/Homework/7.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/6.md"
+                "file": "STAT 345/Homework/7.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/6.md",
+                "file": "STAT 345/Homework/7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +185,8 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "STAT 345/Homework/6.md",
+    "STAT 345/Homework/7.md",
     "MATH 223/Practice Problems/7 - Problem Set 7.md",
     "MATH 223/Practice Problems/7 - Problem Set 7.pdf",
     "MATH 223/Practice Problems/14.8.md",
@@ -210,7 +212,6 @@
     "MATH 223/Practice Problems/6 - Problem Set 6.pdf",
     "MATH 223/Practice Problems/14.4.md",
     "MATH 223/Practice Problems/14.5.md",
-    "STAT 345/Homework/6.md",
     "STAT 345/Homework/6.pdf",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "ARTS 302/Readings/Ching/4 - Organization.md",
