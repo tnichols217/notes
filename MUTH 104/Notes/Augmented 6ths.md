@@ -53,3 +53,6 @@ K:C
 [_Ac_e^f][GBdg]|[K:Cm][Ace^f][G=Bdg]
 ```
 
+### Enharmonic equivalent
+
+The German augmented 6th is also enharmonically equivalent to the $V^7$ chor
