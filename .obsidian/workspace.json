@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Notes/Sonata Form.md",
+                "file": "MUTH 104/Notes/6ths.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Notes/Sonata Form.md",
+                "file": "MUTH 104/Notes/6ths.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Notes/Sonata Form.md"
+                "file": "MUTH 104/Notes/6ths.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Notes/Sonata Form.md",
+                "file": "MUTH 104/Notes/6ths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,9 +253,9 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "MUTH 104/Notes/Sonata Form.md",
     "MUTH 104/Notes/6ths.md",
     "APMusicTheory/Seventh Chords.md",
-    "MUTH 104/Notes/Sonata Form.md",
     "MUTH 104/Notes/Musical Analysis.md",
     "STAT 345/Homework/7.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
