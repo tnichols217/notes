@@ -2,12 +2,11 @@
 
 ## Italian
 
-Consists of three chord tones, $\flat\hat6$, $\hat8$, $\sharp\hat4$ in the major key.
-
-| Major        | Minor   |
-| ------------ | ------- |
-| $\flat\hat6$ | $\hat6$ |
-| $\hat8$      | $\hat8$        |
+| Major         | Minor         |
+| ------------- | ------------- |
+| $\flat\hat6$  | $\hat6$       |
+| $\hat8$       | $\hat8$       |
+| $\sharp\hat4$ | $\sharp\hat4$ |
 
 ```music-abc
 X: 1
