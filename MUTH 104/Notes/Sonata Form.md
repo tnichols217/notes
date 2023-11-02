@@ -53,4 +53,14 @@ Appears to be very similar to the exposition, with slight simplifications and a 
 
 - A re-visitation of the primary theme from the exposition
 - Highlight of the recap
+- Sets the tone for the rest of the recap
+
+### T - Transition
+
+- A short transition between the themes of the piece
+- Keeps the key of the primary theme this time
+
+### S - Secondary Theme
+
+- A re-visitation of the secon theme from the exposition
 - 
