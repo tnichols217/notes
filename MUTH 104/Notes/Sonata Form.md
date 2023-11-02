@@ -47,4 +47,10 @@ Lengthier development of both themes of the piece. Often takes the key of the se
 
 ## R - Recapitulation
 
-Appears to be very similar to the exposition, with simplificatonis and
+Appears to be very similar to the exposition, with slight simplifications and a return to the tonic.
+
+### P - Primary Theme
+
+- A re-visitation of the primary theme from the exposition
+- Highlight of the recap
+- 
