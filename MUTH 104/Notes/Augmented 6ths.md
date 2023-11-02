@@ -2,7 +2,7 @@
 
 ## Italian
 
-Consists of three
+Consists of three chord tones, $$
 
 ## French
 
