@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Notes/Augmented 6ths.md"
+                "file": "APMusicTheory/Seventh Chords.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Notes/Augmented 6ths.md",
+                "file": "APMusicTheory/Seventh Chords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,13 +217,44 @@
         "height": 800,
         "maximize": true,
         "zoom": 0
+      },
+      {
+        "id": "769978d762709ac2",
+        "type": "window",
+        "children": [
+          {
+            "id": "ff6a3f50f8f294a2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7a33f261c554d996",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "APMusicTheory/Seventh Chords.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 340,
+        "y": 132,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "66c4bc840829616c",
+  "active": "7a33f261c554d996",
   "lastOpenFiles": [
-    "MUTH 104/Notes/Sonata Form.md",
     "MUTH 104/Notes/Augmented 6ths.md",
+    "MUTH 104/Notes/Sonata Form.md",
     "MUTH 104/Notes/Musical Analysis.md",
     "STAT 345/Homework/7.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
