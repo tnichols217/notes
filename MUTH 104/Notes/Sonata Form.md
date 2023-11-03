@@ -17,7 +17,7 @@ Consists of four main sections in order:
 
 1. **P** - Primary Theme
 2. **T** - Transition
-3. **MC** - Media Cae
+3. **MC** - Medial Caesura
 4. **S** - Secondary Theme
 5. **C** - Closing Zone
 
@@ -31,6 +31,10 @@ Consists of four main sections in order:
 
 - Short piece between the themes
 - Often takes the key of the Secondary theme with the meter and rythm of the Primary theme
+
+### MC - Medial Caesura
+
+- A short pause or quiet section between the transition and the secondary theme
 
 ### S - Secondary Theme
 
@@ -60,6 +64,10 @@ Appears to be very similar to the exposition, with slight simplifications and a 
 
 - A short transition between the themes of the piece
 - Keeps the key of the primary theme this time
+
+### MC - Medial Caesura
+
+- 
 
 ### S - Secondary Theme
 
