@@ -17,8 +17,9 @@ Consists of four main sections in order:
 
 1. **P** - Primary Theme
 2. **T** - Transition
-3. **S** - Secondary Theme
-4. **C** - Closing Zone
+3. **MC** - Media Cae
+4. **S** - Secondary Theme
+5. **C** - Closing Zone
 
 ### P - Primary Theme
 
