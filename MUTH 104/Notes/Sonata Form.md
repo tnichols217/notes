@@ -67,10 +67,19 @@ Appears to be very similar to the exposition, with slight simplifications and a 
 
 ### MC - Medial Caesura
 
-- 
+- Same function as in the exposition
 
 ### S - Secondary Theme
 
 - A re-visitation of the secondary theme from the exposition
 - Often transposed into the home key (tonic)
 - The resolution and ending of the piece
+
+### C - Closing
+
+- Same function as in the exposition
+- Gets the piece ready to end
+
+### Coda
+
+- Sometimes a small repeated section from the exposition
