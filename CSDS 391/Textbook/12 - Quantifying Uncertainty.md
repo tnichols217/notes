@@ -44,4 +44,4 @@ date created: 2023-11-05 21:38
 
 - Rational Decisions are ones use the **Maximum expected utility** of a state.
 
-
+## Probability Lin
