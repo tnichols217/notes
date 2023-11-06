@@ -54,4 +54,4 @@ date created: 2023-11-05 21:38
 > Summing individual probabilities to get a marginal probability
 > ---
 > **Conditioning**
-> Pre
+> Representing $P(X\cap Y)$ as $P(X|Y)P(Y)$
