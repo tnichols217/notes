@@ -9,4 +9,9 @@ date created: 2023-11-05 22:42
 > [!def]
 > **False Negative**
 > Where a heuristic ($T$) trying to predict an output ($R$) falsely reports false.
-> $P(R\cap T)$
+> $P(R\cap T^C)$
+> 
+> ---
+> **False Positive**
+> Same except falsely reports true.
+> $P(R^C\cap T)$
