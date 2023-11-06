@@ -34,6 +34,8 @@ A figurative vertical plane that separates spaces from each other
 
 ## Configuration of the Path
 
+
+
 ## Path-Space Relationship
 
 ## Form of the Circulation Space
