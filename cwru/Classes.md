@@ -28,4 +28,12 @@ date created: 2023-11-06 10:38
 
 # Needed
 
-1. 
+## CS (BS)
+
+1. CSDS 132
+2. CSDS 233
+3. CSDS 281
+4. CSDS 302
+5. CSDS 310
+6. CSDS 395
+
