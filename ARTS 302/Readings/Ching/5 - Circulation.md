@@ -16,7 +16,9 @@ People move through time through a **sequence** of **spaces**
 A figurative vertical plane that separates spaces from each other
 
 - Usually a plane with an opening
-- 
+- Perpendicular to the path of enty
+- Can be one of three types
+	- 
 
 ## Configuration of the Path
 
