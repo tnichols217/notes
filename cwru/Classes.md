@@ -30,6 +30,8 @@ date created: 2023-11-06 10:38
 
 ## CS (BS)
 
+[Source](https://bulletin.case.edu/engineering/computer-data-sciences/computer-science-bs/#programrequirementstext)
+
 1. CSDS 132
 2. CSDS 233
 3. CSDS 281
