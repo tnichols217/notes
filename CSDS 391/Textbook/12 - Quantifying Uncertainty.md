@@ -70,4 +70,5 @@ date created: 2023-11-05 21:38
 > Said to be $A$ and $B$ are independent, only given $C$
 > ---
 > **Naive Bayes' Rule**
-> 
+> Assuming conditional independence across all other variables given one of them.
+> $P(X_1,...,X_n)=P(X_1)\prod$
