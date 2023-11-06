@@ -4,7 +4,8 @@ People move through time through a **sequence** of **spaces**
 
 ## Approach
 
-The process of getting to or in a building. Can be short or long
+- The process of getting to or in a building
+- Can be short or long
 
 
 
