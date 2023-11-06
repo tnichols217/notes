@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md"
+                "file": "STAT 345/Textbook/3.6 - Distribution Properties.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+                "file": "STAT 345/Textbook/3.6 - Distribution Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,10 +220,10 @@
       }
     ]
   },
-  "active": "304bc99ff38025b4",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "STAT 345/Textbook/3.6 - Distribution Properties.md",
     "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+    "STAT 345/Textbook/3.6 - Distribution Properties.md",
     "CSDS 391/Textbook/20 - Knowledge in Learning.md",
     "MUTH 104/Notes/6ths.md",
     "MUTH 104/Notes/Sonata Form.md",
