@@ -23,7 +23,8 @@ A figurative vertical plane that separates spaces from each other
 	- **Recessed**: Recessed from the separation plane
 - Can also be characterized by relative location on the plane
 - Can be characterized by shape of entrance
-
+- Can be reinforced by
+	- M
 
 ## Configuration of the Path
 
