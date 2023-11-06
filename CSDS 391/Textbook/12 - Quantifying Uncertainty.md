@@ -15,4 +15,6 @@ date created: 2023-11-05 21:38
 
 ## Decision Making
 
-- Sometimes there is no ""
+- Sometimes there is no "correct" answer or path
+- Sometimes there is a **qualification problem** where there are factors hard to explain
+- Decisions must still be made by the system based on rationality 
