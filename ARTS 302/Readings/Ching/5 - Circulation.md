@@ -22,7 +22,8 @@ A figurative vertical plane that separates spaces from each other
 	- **Projected**: Protruded from the separation plane
 	- **Recessed**: Recessed from the separation plane
 - Can also be characterized by relative location on the plane
-- 
+- Can be characterized by shape of entrance
+
 
 ## Configuration of the Path
 
