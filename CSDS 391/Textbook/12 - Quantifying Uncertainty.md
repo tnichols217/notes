@@ -21,4 +21,6 @@ date created: 2023-11-05 21:38
 
 ## Summarizing Uncertainty
 
-- 
+- Explaining an effect from a list of causes can also be impossible
+	- Must be represented with rules of uncertainty
+	- Failure to correctly identify an effect could s
