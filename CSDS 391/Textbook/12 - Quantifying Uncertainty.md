@@ -60,4 +60,4 @@ date created: 2023-11-05 21:38
 > When $P(X|Y)=P(X)$
 > ---
 > **Bayes' Rule**
-> 
+> $P(Y|X\cap Z)=\frac{P(X|Y\cap Z)P(Y|Z)}{P(X|Z)}$
