@@ -196,12 +196,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "19bf792bb4c9dfec",
+                "id": "304bc99ff38025b4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "CSDS 391/Textbook/6 - Adversarial Search.md",
+                    "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
                     "mode": "source",
                     "source": false
                   }
@@ -223,8 +223,8 @@
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
     "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
-    "CSDS 391/Textbook/20 - Knowledge in Learning.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
+    "CSDS 391/Textbook/20 - Knowledge in Learning.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "MUTH 104/Notes/Sonata Form.md",
     "MUTH 104/Notes/6ths.md",
