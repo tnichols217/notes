@@ -9,10 +9,11 @@ People move through time through a **sequence** of **spaces**
 - Can be one of three types
 	- **Frontal**: Directly facing and towards a building
 	- **Oblique**: Proceeding towards a building at an extreme angle
-	- **Spiral**: 
-
+	- **Spiral**: A path nearly completely around a building to show off its 3D characteristics
 
 ## Entrance
+
+
 
 ## Configuration of the Path
 
