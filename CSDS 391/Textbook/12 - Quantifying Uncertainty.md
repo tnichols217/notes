@@ -67,6 +67,6 @@ date created: 2023-11-05 21:38
 > $P(A\cap B|C)=P(A|C)P(B|C)$
 > but not necessarily
 > $P(A\cap B)=P(A)P(B)$
-> Said to be $A$ and $B$ are independent gi
+> Said to be $A$ and $B$ are independent, only given $C$
 > ---
 > 
