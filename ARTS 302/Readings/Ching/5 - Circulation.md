@@ -13,7 +13,7 @@ People move through time through a **sequence** of **spaces**
 
 ## Entrance
 
-
+A figurative vertical plane that 
 
 ## Configuration of the Path
 
