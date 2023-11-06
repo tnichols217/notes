@@ -8,4 +8,5 @@ date created: 2023-11-05 22:42
 
 > [!def]
 > **False Negative**
-> Where a
+> Where a heuristic ($T$) trying to predict an output ($R$) falsely reports false.
+> $P(R\cap T)$
