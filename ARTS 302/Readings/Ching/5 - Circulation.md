@@ -24,7 +24,10 @@ A figurative vertical plane that separates spaces from each other
 - Can also be characterized by relative location on the plane
 - Can be characterized by shape of entrance
 - Can be reinforced by
-	- M
+	- Making it a non-standard size
+	- Making it deep
+	- Ornamenting the supports of the opening
+- 
 
 ## Configuration of the Path
 
