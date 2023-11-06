@@ -39,8 +39,7 @@ date created: 2023-11-05 21:38
 > **Utility Theory**
 > A way to represent preferences based on their **relative** usefulness to each other.
 > ---
-> ****
+> **Decision Theory**
+> Probability Theory + Utility Theory
 
-- Decisions must be made to take into account likelihood of state and favorability of outcome
-- 
-
+- Rational Decisions are ones use the **Maximum expected utility** of a stat
