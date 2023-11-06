@@ -55,3 +55,9 @@ date created: 2023-11-05 21:38
 > ---
 > **Conditioning**
 > Representing $P(X\cap Y)$ as $P(X|Y)P(Y)$
+> ---
+> **Independence**
+> When $P(X|Y)=P(X)$
+> ---
+> **Bayes' Rule**
+> 
