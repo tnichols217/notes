@@ -35,5 +35,6 @@ date created: 2023-11-05 21:38
 > **Utility Theory**
 > A way to represent preferences based on their relative usefulness to each other.
 
-- Decisions must be mafavorabilityde to take into account likelihood of state and favorability of outcome
+- Decisions must be made to take into account likelihood of state and favorability of outcome
+- 
 
