@@ -39,3 +39,8 @@ date created: 2023-11-06 10:38
 5. CSDS 310
 6. CSDS 395
 
+## Music (minor)
+
+1. 6 units MUTH
+2. 6 units MUHI/MUGN
+3. 3 units MUAP/
