@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "ARTS 302/Readings/Ching/5 - Circulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "ARTS 302/Readings/Ching/5 - Circulation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Classes.md"
+                "file": "ARTS 302/Readings/Ching/5 - Circulation.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "ARTS 302/Readings/Ching/5 - Circulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,8 +222,8 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "ARTS 302/Readings/Ching/5 - Circulation.md",
     "cwru/Classes.md",
+    "ARTS 302/Readings/Ching/5 - Circulation.md",
     "cwru",
     "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
     "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
