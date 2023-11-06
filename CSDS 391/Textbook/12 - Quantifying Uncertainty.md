@@ -12,4 +12,7 @@ date created: 2023-11-05 21:38
 
 - Expensive to compute
 - Only likely to be used for small systems
-- 
+
+## Decision Making
+
+- Sometimes there is no ""
