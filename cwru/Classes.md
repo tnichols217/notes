@@ -1,0 +1,5 @@
+# AP Credit
+1. ARTS 100-TR
+2. ARTS 201
+3. ARTS 210
+4. ARTS 214
