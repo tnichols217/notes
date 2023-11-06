@@ -38,6 +38,8 @@ date created: 2023-11-05 21:38
 > [!def]
 > **Utility Theory**
 > A way to represent preferences based on their **relative** usefulness to each other.
+> ---
+> ****
 
 - Decisions must be made to take into account likelihood of state and favorability of outcome
 - 
