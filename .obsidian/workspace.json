@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/6 - Adversarial Search.md"
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/6 - Adversarial Search.md",
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,10 +220,10 @@
       }
     ]
   },
-  "active": "19bf792bb4c9dfec",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
+    "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "MUTH 104/Notes/Sonata Form.md",
     "MUTH 104/Notes/6ths.md",
