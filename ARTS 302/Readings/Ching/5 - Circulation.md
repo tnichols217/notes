@@ -6,7 +6,9 @@ People move through time through a **sequence** of **spaces**
 
 - The process of getting to or in a building
 - Can be short or long
-
+- Can be one of three types
+	- **Frontal**: Directly facing and towards a building
+	- 
 
 
 ## Entrance
