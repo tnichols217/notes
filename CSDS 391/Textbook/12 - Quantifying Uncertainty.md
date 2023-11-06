@@ -28,4 +28,5 @@ date created: 2023-11-05 21:38
 		- Theoretical Ignorance
 		- Practical Ignorance
 - **Degrees of belief** must be used to represent likely effects from causes using probability theory
-- 
+
+
