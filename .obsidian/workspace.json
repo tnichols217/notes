@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Notes/Sonata Form.md",
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Notes/Sonata Form.md",
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md"
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,16 +220,17 @@
       }
     ]
   },
-  "active": "262ea5ba59404e5f",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
     "MUTH 104/Notes/Sonata Form.md",
+    "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+    "STAT 345/Textbook/3 - Common Distributions.md",
     "MUTH 104/Notes/6ths.md",
     "APMusicTheory/Seventh Chords.md",
     "MUTH 104/Assignments/5/A.pdf",
     "MUTH 104/Assignments/5/5A.pdf",
     "MUTH 104/Notes/Musical Analysis.md",
     "STAT 345/Homework/7.md",
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "MATH 223/Practice Problems/12.1.md",
     "STAT 345/Homework/7.pdf",
