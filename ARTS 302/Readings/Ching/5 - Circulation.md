@@ -8,7 +8,8 @@ People move through time through a **sequence** of **spaces**
 - Can be short or long
 - Can be one of three types
 	- **Frontal**: Directly facing and towards a building
-	- **Oblique**: 
+	- **Oblique**: Proceeding towards a building at an extreme angle
+	- **Spiral**: 
 
 
 ## Entrance
