@@ -29,4 +29,7 @@ date created: 2023-11-05 21:38
 		- Practical Ignorance
 - **Degrees of belief** must be used to represent likely effects from causes using probability theory
 
+## Rational Decisions
 
+- Decisions must be mafavorabilityde to take into account likelihood of state and favorability of outcome
+- 
