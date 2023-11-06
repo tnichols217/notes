@@ -21,6 +21,10 @@ date created: 2023-11-05 21:38
 
 ## Summarizing Uncertainty
 
+> [!def]
+> **Probability Theory**
+> A way to represent likelihoods of current states from a limited amount of information about the environment
+
 - Explaining an effect from a list of causes can also be impossible
 	- Must be represented with rules of uncertainty
 	- Failure to correctly identify an effect could stem from
