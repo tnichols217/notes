@@ -48,4 +48,10 @@ date created: 2023-11-05 21:38
 
 > [!def]
 > **Marginal Probability**
-> Probability of a particular trait across all possible other trait combination
+> Probability of a particular trait across all possible other trait combinations
+> ---
+> **Marginalization**
+> Summing individual probabilities to get a marginal probability
+> ---
+> **Conditioning**
+> Pre
