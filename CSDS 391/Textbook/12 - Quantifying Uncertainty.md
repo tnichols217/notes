@@ -6,4 +6,5 @@ date created: 2023-11-05 21:38
 
 > [!def]
 > **Belief State**
-> A representation of all possible world states with 
+> A representation of all possible world states with likelihoods for all of them
+> 
