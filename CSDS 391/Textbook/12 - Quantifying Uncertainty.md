@@ -63,4 +63,10 @@ date created: 2023-11-05 21:38
 > $P(Y|X\cap Z)=\frac{P(X|Y\cap Z)P(Y|Z)}{P(X|Z)}$
 > ---
 > **Conditional Independence**
-> $P(A\cap B|C)=P(A)$
+> In $A$ and $B$ where
+> $P(A\cap B|C)=P(A|C)P(B|C)$
+> but not necessarily
+> $P(A\cap B)=P(A)P(B)$
+> Said to be $A$ and $B$ are independent gi
+> ---
+> 
