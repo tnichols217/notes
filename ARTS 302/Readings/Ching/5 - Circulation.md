@@ -21,6 +21,8 @@ A figurative vertical plane that separates spaces from each other
 	- **Flush**: Flat with the separation plane
 	- **Projected**: Protruded from the separation plane
 	- **Recessed**: Recessed from the separation plane
+- Can also be characterized by relative location on the plane
+- 
 
 ## Configuration of the Path
 
