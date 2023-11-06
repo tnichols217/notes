@@ -1,4 +1,4 @@
 # Circulation
 
-People move through time through a **** of **spaces**
+People move through time through a **sequence** of **spaces**
 
