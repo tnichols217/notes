@@ -92,3 +92,9 @@ A figurative vertical plane that separates spaces from each other
 	- Steeper stairs forbid movement
 	- Wider stairs are more inviting
 	- Landings allow changes in directions
+	- Can be one of a few configurations
+		- Straight run
+		- L-shaped
+		- U-shaped
+		- Circular
+		- Spiral
