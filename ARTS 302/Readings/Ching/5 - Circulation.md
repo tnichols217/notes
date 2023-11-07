@@ -82,5 +82,9 @@ A figurative vertical plane that separates spaces from each other
 	- **Enclosed**
 		- Forming a private area
 	- **Open on one side**
-		- 
+		- Provides spacial continuity
 	- **Open on both sides**
+		- Becomes an extension of the spaces it links
+- Narrow passages promote movement
+	- Breakpoints and widenings may be added to relieve traffic
+	- 
