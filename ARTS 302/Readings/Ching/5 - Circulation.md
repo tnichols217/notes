@@ -60,9 +60,12 @@ A figurative vertical plane that separates spaces from each other
 - Paths can
 	- **Pass by spaces**
 		- Link spaces
-		- maintains individual
+		- maintains individuality
 	- **Pass through spaces**
+		- Creates movement within spaces
 	- **Terminate in a space**
-- 
+		- Signify the space
 
 ## Form of the Circulation Space
+
+- 
