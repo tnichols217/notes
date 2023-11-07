@@ -38,6 +38,8 @@ A figurative vertical plane that separates spaces from each other
 	- Cars cannot turn quick
 	- Bicycles are slightly more free
 	- Walking can go in any direction
+- Intersections are decisions
+	- Should establish a dominant route to ease decisions
 - 
 
 ## Path-Space Relationship
