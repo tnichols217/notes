@@ -98,3 +98,4 @@ A figurative vertical plane that separates spaces from each other
 		- U-shaped
 		- Circular
 		- Spiral
+	- Can act as an organizational element
