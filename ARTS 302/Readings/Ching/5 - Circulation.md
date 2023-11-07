@@ -40,13 +40,18 @@ A figurative vertical plane that separates spaces from each other
 	- Walking can go in any direction
 - Intersections are decisions
 	- Should establish a dominant route to ease decisions
-- Shapes of pathes
-	- Linear
-	- Radial
-	- Spiral
-	- Grid
-	- Network
-	- Composite
+- Shapes of paths
+	- **Linear**
+		- Doesn't need to be straight
+		- Sharp turns make interest
+	- **Radial**
+		- Paths extending from a singular point
+	- **Spiral**
+		- Single path that rotates around a point
+	- **Grid**
+		- Parallel lines 
+	- **Network**
+	- **Composite**
 
 ## Path-Space Relationship
 
