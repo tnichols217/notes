@@ -87,4 +87,6 @@ A figurative vertical plane that separates spaces from each other
 		- Becomes an extension of the spaces it links
 - Narrow passages promote movement
 	- Breakpoints and widenings may be added to relieve traffic
-	- 
+	- Large spaces have random paths
+- Stairs change elevation
+	- Steeper stairs forbid mve
