@@ -34,7 +34,11 @@ A figurative vertical plane that separates spaces from each other
 
 ## Configuration of the Path
 
-
+- Different modes of transport have different capabilities of change in direction
+	- Cars cannot turn quick
+	- Bicycles are slightly more free
+	- Walking can go in any direction
+- 
 
 ## Path-Space Relationship
 
