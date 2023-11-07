@@ -49,9 +49,11 @@ A figurative vertical plane that separates spaces from each other
 	- **Spiral**
 		- Single path that rotates around a point
 	- **Grid**
-		- Parallel lines 
+		- Parallel lines and perpendicular lines
 	- **Network**
+		- Lines that connect interests in a plane of space
 	- **Composite**
+		- A mixture of the above
 
 ## Path-Space Relationship
 
