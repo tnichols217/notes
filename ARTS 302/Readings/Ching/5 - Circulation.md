@@ -89,4 +89,6 @@ A figurative vertical plane that separates spaces from each other
 	- Breakpoints and widenings may be added to relieve traffic
 	- Large spaces have random paths
 - Stairs change elevation
-	- Steeper stairs forbid mve
+	- Steeper stairs forbid movement
+	- Wider stairs are more inviting
+	- Landings allow changes in directions
