@@ -73,4 +73,14 @@ A figurative vertical plane that separates spaces from each other
 	- Linking spaces
 	- Qualities of
 		- Scale
-		- Prop
+		- Proportion
+		- Light
+		- View
+	- Entrances
+	- Elevation
+- A circulation space could be
+	- **Enclosed**
+		- Forming a private area
+	- **Open on one side**
+		- 
+	- **Open on both sides**
