@@ -90,7 +90,7 @@ A figurative vertical plane that separates spaces from each other
 	- Large spaces have random paths
 - Stairs change elevation
 	- Steeper stairs forbid movement
-	- Wider stairs are more inviting
+	- Wider stairs are more inviting (including spilling landings)
 	- Landings allow changes in directions
 	- Can be one of a few configurations
 		- Straight run
