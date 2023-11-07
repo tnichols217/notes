@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/5 - Circulation.md",
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Readings/Ching/5 - Circulation.md",
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Readings/Ching/5 - Circulation.md"
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Readings/Ching/5 - Circulation.md",
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,8 +222,9 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "cwru/Classes.md",
     "ARTS 302/Readings/Ching/5 - Circulation.md",
+    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
+    "cwru/Classes.md",
     "cwru",
     "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
     "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
@@ -253,7 +254,6 @@
     "MATH 223/Quiz/6.pdf",
     "CSDS 391/W/W4_tln32.md",
     "STAT 345/Textbook/1.2 - Probability Theory.md",
-    "CSDS 391/W/W1-Q1.md",
     "CSDS 391/W/W2_tln32.pdf",
     "CSDS 391/W/W3_tln32.pdf",
     "MATH 223/Quiz/5.pdf",
