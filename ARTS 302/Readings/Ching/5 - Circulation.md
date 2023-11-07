@@ -20,7 +20,7 @@ People move through time through a **sequence** of **spaces**
 A figurative vertical plane that separates spaces from each other
 
 - Usually a plane with an opening
-- Perpendicular to the path of enty
+- Perpendicular to the path of entry
 - Can be one of three types
   - **Flush**: Flat with the separation plane
   - **Projected**: Protruded from the separation plane
