@@ -57,6 +57,12 @@ A figurative vertical plane that separates spaces from each other
 
 ## Path-Space Relationship
 
+- Paths can
+	- **Pass by spaces**
+		- Link spaces
+		- maintains individual
+	- **Pass through spaces**
+	- **Terminate in a space**
 - 
 
 ## Form of the Circulation Space
