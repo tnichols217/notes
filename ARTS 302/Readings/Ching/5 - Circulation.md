@@ -57,4 +57,6 @@ A figurative vertical plane that separates spaces from each other
 
 ## Path-Space Relationship
 
+- 
+
 ## Form of the Circulation Space
