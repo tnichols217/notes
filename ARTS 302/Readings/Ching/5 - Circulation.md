@@ -68,4 +68,9 @@ A figurative vertical plane that separates spaces from each other
 
 ## Form of the Circulation Space
 
-- 
+- Form of the circulation space varies by
+	- Its boundaries
+	- Linking spaces
+	- Qualities of
+		- Scale
+		- Prop
