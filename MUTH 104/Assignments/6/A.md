@@ -1,9 +1,9 @@
 ---
 date created: 2023-11-08 11:48
-date updated: 2023-11-08 18:01
+date updated: 2023-11-08 18:04
 ---
 
-Joseph Haydn, Piano Sonata in D Major, Hob. XVI:37
+# Joseph Haydn, Piano Sonata in D Major, Hob. XVI:37
 
 After listening to the recording of Haydn’s Piano Sonata in D posted on Canvas, answer the questions below. For specifying location in the music, use page/system/measure labeling. For example, the exposition begins on 60/1/1.
 
