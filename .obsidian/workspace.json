@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Notes/Sonata Form.md",
+                "file": "MUTH 104/Notes/Rondo Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "874a36c44bbb5c37",
@@ -45,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Notes/Sonata Form.md",
+                "file": "MUTH 104/Notes/Rondo Form.md",
                 "mode": "preview",
                 "source": false
               }
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Assignments/6/A.md"
+                "file": "MUTH 104/Notes/Rondo Form.md"
               }
             }
           }
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Assignments/6/A.md",
+                "file": "MUTH 104/Notes/Rondo Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,9 +232,10 @@
       }
     ]
   },
-  "active": "348921f2c3988627",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
     "MUTH 104/Notes/Sonata Form.md",
+    "MUTH 104/Notes/Rondo Form.md",
     "MUTH 104/Assignments/6/A.md",
     "MUTH 104/Assignments/6",
     "STAT 345/Homework/8.md",
