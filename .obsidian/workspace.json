@@ -195,43 +195,6 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "27a599f2d4c72387",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5411bab54df4bef3",
-        "type": "window",
-        "children": [
-          {
-            "id": "ed2ba8c60437e0cb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "304bc99ff38025b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1707,
-        "height": 1067,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
     "MUTH 104/Notes/Rondo Form.md",
