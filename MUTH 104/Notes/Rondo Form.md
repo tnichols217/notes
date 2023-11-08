@@ -1,5 +1,9 @@
 # Rondo Form
 
+- Often found in one of a few forms
+	- ABACA
+	- ABACABA
+
 ## A refrain
 
 - Comes back multiple times within the piece
@@ -9,4 +13,6 @@
 
 - Could be called
 	- Episodes
-	- Couplet
+	- Couplets
+	- Divergents
+- 
