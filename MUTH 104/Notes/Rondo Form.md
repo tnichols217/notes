@@ -3,6 +3,7 @@
 - Often found in one of a few forms
 	- ABACA
 	- ABACABA (+coda)
+- Often doesn't use repeat signs
 
 ## A refrain
 
