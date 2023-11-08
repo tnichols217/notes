@@ -15,7 +15,7 @@ D major
 4. Where does the Secondary theme begin? Hint...look for the Medial Caesura!
 
 5. What key area is S in, and is this a key that we would expect? There are non-chord tones that might throw you, listen for the new tonic pitch.
-A
+probably A
 6. Where does the development begin?
 
 7. Where does the recapitulation begin, and does it remain in the key that we expect?
