@@ -2,14 +2,14 @@
 
 - Often found in one of a few forms
 	- ABACA
-	- ABACABA
+	- ABACABA (+coda)
 
 ## A refrain
 
 - Comes back multiple times within the piece
 - Alternated with other themes and ideas
 
-## B refrain
+## B, C, D refrain
 
 - Could be called
 	- Episodes
