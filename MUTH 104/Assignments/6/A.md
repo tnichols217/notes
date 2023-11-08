@@ -20,11 +20,14 @@ After listening to the recording of Haydn’s Piano Sonata in D posted on Canvas
 	- 60/5/3
 
 5. What key area is S in, and is this a key that we would expect? There are non-chord tones that might throw you, listen for the new tonic pitch.
+	- A Major
 
-probably A
-6. Where does the development begin?
+7. Where does the development begin?
+	- 62/1/1
 
-7. Where does the recapitulation begin, and does it remain in the key that we expect?
+8. Where does the recapitulation begin, and does it remain in the key that we expect?
+	- 63/1/1
+	- Yes, it remains in D major just like we would have expected.
 
-Yes
 8. Do you find the P and S themes to be contrasting? Why or why not?
+	- No, they seem very similar but
