@@ -17,7 +17,7 @@ After listening to the recording of Haydn’s Piano Sonata in D posted on Canvas
 	- 60/3/1
 
 4. Where does the Secondary theme begin? Hint...look for the Medial Caesura!
-	- 
+	- 60/5/3
 
 5. What key area is S in, and is this a key that we would expect? There are non-chord tones that might throw you, listen for the new tonic pitch.
 
