@@ -73,7 +73,50 @@ with $n=4$, $\theta=3/4$
 3. $y=2$, $n=3$
 4. $y=3$, $n=4$
 
+```function-plot
+{
+	data: [
+		{
+			points: [
+				[0, 0.25],
+				[1, 0.75]
+			],
+			fnType: "points",
+			graphType: "scatter"
+		}
+	],
+	xAxis: {
+		domain: [-0.5, 1.5]
+	},
+	yAxis: {
+		domain: [-0.5, 1]
+	}
+}
+```
 
+```function-plot
+{
+	data: [
+		{
+			points: [
+				[0, 0.004],
+				[1, 0.047],
+				[2, 0.211],
+				[3, 0.422],
+				[4, 0.316]
+			],
+			fnType: "points",
+			graphType: "scatter"
+		}
+	],
+	xAxis: {
+		domain: [-0.5, 4.5]
+	},
+	yAxis: {
+		domain: [-0.5, 1]
+	}
+}
+```
 
 # 3
 
