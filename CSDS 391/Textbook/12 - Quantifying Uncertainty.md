@@ -90,4 +90,5 @@ date updated: 2023-11-05 22:40
 > 
 > ---
 > 
-> 
+> **Posterior, Likelihood, Prior, **
+> $P(A|B)$
