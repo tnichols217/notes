@@ -77,7 +77,7 @@ with $n=4$, $\theta=3/4$
 {
 	data: [
 		{
-			fn: '2x'
+			fn: '2x^1(x-1)^0'
 		}
 	],
 	xAxis: {
@@ -109,7 +109,23 @@ with $n=4$, $\theta=3/4$
 {
 	data: [
 		{
-			fn: '12x^2(1-x)^0'
+			fn: '12x^2(1-x)^1'
+		}
+	],
+	xAxis: {
+		domain: [-4, 4]
+	},
+	yAxis: {
+		domain: [-1, 6]
+	}
+}
+```
+
+```function-plot
+{
+	data: [
+		{
+			fn: '20x^3(1-x)^1'
 		}
 	],
 	xAxis: {
