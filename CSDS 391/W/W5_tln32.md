@@ -121,4 +121,7 @@ $\implies 0=(\frac{1}{2\sigma_2^2}-\frac{1}{2\sigma_1^2})\theta^2+(\frac{1}{2\si
 Where
 $A=\frac{1}{2\sigma_2^2}-\frac{1}{2\sigma_1^2}$
 $B=\frac{1}{2\sigma_1^2}\mu_1-\frac{1}{2\sigma_2^2}\mu_2$
-$C=$
+$C=\frac{1}{2\sigma_2^2}\mu_2^2-\frac{1}{2\sigma_1^2}\mu_1^2-\ln(\frac{\sigma_1}{\sigma_2})$
+
+$\theta=\frac{-B\pm\sqrt{B^2-4AC}}{2A}$
+$\square$
