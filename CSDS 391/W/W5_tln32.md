@@ -111,4 +111,4 @@ Let $N(z)=\frac{1}{(2\pi\sigma^2)^{1/2}}e^{-\frac{1}{2\sigma^2}(x-\mu)^2}$
 $\frac{d\Phi}{dz}=N(z)$
 
 $\frac{\partial E}{\partial\theta}=2/3-2\Phi(\frac{\theta-\mu_1}{\sigma_1})/3+\Phi(\frac{\theta-\mu_2}{\sigma_2})/3$
-$=N(\frac{\theta-\mu_2}{\sigma_2})/3\sigma_2-2N(\theta-)$
+$=N(\frac{\theta-\mu_2}{\sigma_2})/3\sigma_2-2N(\frac{\theta-\mu_1}{\sigma_1})/3\sigma_1$
