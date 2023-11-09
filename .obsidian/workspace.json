@@ -11,11 +11,9 @@
             "id": "66c4bc840829616c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md",
-                "mode": "source",
-                "source": false
+                "file": "CSDS 391/W/W5_tln32.pdf"
               }
             },
             "group": "91dad52aafa5267d"
@@ -30,11 +28,9 @@
             "id": "87f138783564c592",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md",
-                "mode": "source",
-                "source": false
+                "file": "CSDS 391/W/W5_tln32.pdf"
               }
             },
             "group": "91dad52aafa5267d"
@@ -86,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28c69e3aca2b1263",
@@ -100,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md"
+                "file": "CSDS 391/W/W5_tln32.pdf"
               }
             }
           }
@@ -132,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md",
+                "file": "CSDS 391/W/W5_tln32.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,12 +216,13 @@
       }
     ]
   },
-  "active": "66c4bc840829616c",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "CSDS 391/W/W5_tln32.md",
+    "CSDS 391/W/W5_tln32.pdf",
     "STAT 345/Homework/7.md",
     "MATH 223/Practice Problems/12.1.md",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
-    "CSDS 391/W/W5_tln32.md",
     "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "STAT 345/Homework/8.md",
     "STAT 345/Homework/8.pdf",
@@ -255,10 +251,8 @@
     "MUTH 104/Assignments/5/5A.pdf",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "STAT 345/Homework/7.pdf",
-    "STAT 345/Homework/6.md",
     "MATH 223/Practice Problems/7 - Problem Set 7.pdf",
     "MATH 223/Quiz/6.pdf",
-    "CSDS 391/W/W2_tln32.pdf",
     "ARTS 302/attachments/Pasted image 20231011210516.png",
     "ARTS 302/attachments/Pasted image 20231011210437.png",
     "ARTS 302/attachments/Pasted image 20231011210310.png",
