@@ -93,7 +93,23 @@ with $n=4$, $\theta=3/4$
 {
 	data: [
 		{
-			fn: '3x()'
+			fn: '3x^2(1-x)^0'
+		}
+	],
+	xAxis: {
+		domain: [-4, 4]
+	},
+	yAxis: {
+		domain: [-1, 6]
+	}
+}
+```
+
+```function-plot
+{
+	data: [
+		{
+			fn: '12x^2(1-x)^0'
 		}
 	],
 	xAxis: {
