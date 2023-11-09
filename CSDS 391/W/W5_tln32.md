@@ -39,6 +39,6 @@ $\frac{\sum\limits_{n=1}^Nr_{n,k}\vec x_n}{\sum\limits_{n=1}^Nr_{n,k}}=\vec\mu_k
 
 $f(x|\mu,\sigma^2)=\frac{1}{(2\pi\sigma^2)^{1/2}}e^{-\frac{1}{2\sigma^2}(x-\mu)^2}$
 $f(\vec x|\mu,\sigma^2)=\prod\limits_{n=0}^Nf(x_n|\mu,\sigma^2)$
-$f(\vec x|\mu,\sigma^2)=\prod\limits_{n=0}^N\frac{1}{(2\pi\sigma^2)^{1/2}}e^{-\frac{1}{2\sigma^2}(x-\mu)^2}$
+$f(\vec x|\mu,\sigma^2)=\prod\limits_{n=0}^N\frac{1}{(2\pi\sigma^2)^{1/2}}e^{-\frac{1}{2\sigma^2}(x_n-\mu)^2}$
 
 $0=\frac{\partial f}{\partial x}=\frac{1}{(2\pi\sigma^2)^{1/2}}e^{-\frac{1}{2\sigma^2}(x-\mu)^2}$
