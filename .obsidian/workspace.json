@@ -19,8 +19,21 @@
               }
             },
             "group": "91dad52aafa5267d"
+          },
+          {
+            "id": "085e4d99be1f537b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "874a36c44bbb5c37",
@@ -99,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md"
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md"
               }
             }
           }
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md",
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,11 +196,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "66c4bc840829616c",
+  "active": "085e4d99be1f537b",
   "lastOpenFiles": [
+    "CSDS 391/W/W5_tln32.md",
+    "CSDS 391/Textbook/20 - Knowledge in Learning.md",
+    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
     "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
-    "CSDS 391/W/W5_tln32.md",
     "STAT 345/Homework/8.md",
     "CSDS 391/W/W4_tln32.md",
     "STAT 345/Textbook/4.3 - Bivariate Translation.md",
@@ -196,13 +211,11 @@
     "MUTH 104/Notes/Rondo Form.md",
     "MUTH 104/Notes/Sonata Form.md",
     "MUTH 104/Assignments/6",
-    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "ARTS 302/Readings/Ching/5 - Circulation.md",
     "cwru/Classes.md",
     "cwru",
     "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "STAT 345/Textbook/3.6 - Distribution Properties.md",
-    "CSDS 391/Textbook/20 - Knowledge in Learning.md",
     "MUTH 104/Notes/6ths.md",
     "MUTH 104/Notes/Musical Analysis.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",

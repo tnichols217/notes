@@ -87,3 +87,7 @@ date updated: 2023-11-05 22:40
 > **Naive Bayes' Rule**
 > Assuming conditional independence across all other variables given one of them.
 > $P(X_1,...,X_n)=P(X_1)\prod\limits_{i=2}^{n}P(X_i|X_1)$
+> 
+> ---
+> 
+> 
