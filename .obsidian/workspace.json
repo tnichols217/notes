@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/8.md"
+                "file": "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/8.md",
+                "file": "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,10 +232,10 @@
       }
     ]
   },
-  "active": "66c4bc840829616c",
+  "active": "ccd1e5f53333a50a",
   "lastOpenFiles": [
-    "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
     "STAT 345/Homework/8.md",
+    "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
     "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
     "MUTH 104/Assignments/6/A.md",
     "MUTH 104/Assignments/6/A.pdf",
