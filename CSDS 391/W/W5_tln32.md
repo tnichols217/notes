@@ -81,4 +81,8 @@ $P(X=C_1)=2P(X=C_2)$
 $1=\sum\limits_{x\in\{C_1,C_2\}}P(X=x)$
 $=P(X=C_1)+P(X=C_2)$
 $=3P(X=C_2)$
-$\begin{cases}P(X=C_1)=\frac{2}{3}\\P(X=C_2)=\frac{1}{3}\end{cases}$
+$\implies\begin{cases}P(X=C_1)=\frac{2}{3}\\P(X=C_2)=\frac{1}{3}\end{cases}$
+
+|     | $C_1$         | $C_2$         |
+| --- | ------------- | ------------- |
+| $X$ | $\frac{2}{3}$ | $\frac{1}{3}$ |
