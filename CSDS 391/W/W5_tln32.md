@@ -76,7 +76,9 @@ $\square$
 
 $X\in\{C_1,C_2\}$
 
-$P(C_1)=2P(C_2)$
+$P(X=C_1)=2P(X=C_2)$
 
-$1=\sum\limits_{\{C_1,C_2\}}f(x)$
-$=P(C_1)+P(C_2)=$
+$1=\sum\limits_{\{C_1,C_2\}}P(X)$
+$=P(C_1)+P(C_2)$
+$=3P(C_2)$
+$\begin{cases}P(C_2)\end{cases}$
