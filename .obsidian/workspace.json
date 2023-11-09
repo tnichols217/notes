@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Homework/8.md",
+                "file": "CSDS 391/W/W5_tln32.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Homework/8.md",
+                "file": "CSDS 391/W/W5_tln32.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/8.md"
+                "file": "CSDS 391/W/W5_tln32.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/8.md",
+                "file": "CSDS 391/W/W5_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,8 +254,10 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "STAT 345/Textbook/4.3 - Bivariate Translation.md",
+    "CSDS 391/W/W4_tln32.md",
+    "CSDS 391/W/W5_tln32.md",
     "STAT 345/Homework/8.md",
+    "STAT 345/Textbook/4.3 - Bivariate Translation.md",
     "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
     "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
     "MUTH 104/Assignments/6/A.md",
@@ -285,8 +287,6 @@
     "MATH 223/Practice Problems/7 - Problem Set 7.md",
     "MATH 223/Practice Problems/7 - Problem Set 7.pdf",
     "MATH 223/Practice Problems/14.8.md",
-    "MATH 223/Practice Problems/14.7.md",
-    "MATH 223/Practice Problems/6 - Problem Set 6.md",
     "MATH 223/Quiz/6.pdf",
     "CSDS 391/W/W2_tln32.pdf",
     "CSDS 391/W/W3_tln32.pdf",
