@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graph",
+                "query": "function-pl",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -222,8 +223,9 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+    "STAT 345/Homework/7.md",
     "CSDS 391/W/W5_tln32.md",
+    "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "STAT 345/Homework/8.md",
     "STAT 345/Homework/8.pdf",
     "().md",
@@ -249,7 +251,6 @@
     "APMusicTheory/Seventh Chords.md",
     "MUTH 104/Assignments/5/A.pdf",
     "MUTH 104/Assignments/5/5A.pdf",
-    "STAT 345/Homework/7.md",
     "STAT 345/Textbook/2.2-2.3 - Expected Values and Moments.md",
     "MATH 223/Practice Problems/12.1.md",
     "STAT 345/Homework/7.pdf",
