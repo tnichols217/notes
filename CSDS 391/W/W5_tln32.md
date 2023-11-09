@@ -33,7 +33,10 @@ $\frac{\sum\limits_{n=1}^Nr_{n,k}\vec x_n}{\sum\limits_{n=1}^Nr_{n,k}}=\vec\mu_k
 
 ## a
 
-$P(\theta|y,n)=P()$
+$P(\theta|y,n)=P(y|\theta,n)P(\theta|n)/P(y|n)$
+
+$P(\theta|y,n)=P(y|\theta,n)P(\theta|n)/P(y|n)$
+
 
 # 3
 
