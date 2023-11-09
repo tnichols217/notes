@@ -95,4 +95,4 @@ $X_n\sim N(\mu_n,\sigma_n)$
 $P(X_1<\theta)=F_{X_1}(\theta)$
 $P(X_2>\theta)=1-F_{X_2}(\theta)$
 
-
+$F_N$
