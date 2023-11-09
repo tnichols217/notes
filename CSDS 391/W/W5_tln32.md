@@ -53,4 +53,8 @@ $=\frac{1}{\sigma^2}\sum\limits_{n=0}^N(\vec x_n-\mu)$
 $\implies 0=\sum\limits_{n=0}^N\vec x_n-\sum\limits_{n=0}^N\mu$
 $\implies 0=\sum\limits_{n=0}^N\vec x_n-N\mu$
 $\implies \mu=\frac{1}{N}\sum\limits_{n=0}^N\vec x_n$
+$\square$
 
+## b
+
+$0=\frac{\partial \ln f}{\partial\sigma}=\frac{\partial}{\partial\sigma}\sum\limits_{n=0}^N\ln(\frac{1}{(2\pi\sigma^2)^{1/2}})-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
