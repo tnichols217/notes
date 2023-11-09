@@ -41,7 +41,7 @@ $f(\vec x|\mu,\sigma^2)=\prod\limits_{n=0}^N\frac{1}{(2\pi\sigma^2)^{1/2}}e^{-\f
 
 $\ln f=\ln(\prod\limits_{n=0}^N\frac{1}{(2\pi\sigma^2)^{1/2}}e^{-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2})$
 $\ln f=\sum\limits_{n=0}^N\ln(\frac{1}{(2\pi\sigma^2)^{1/2}}e^{-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2})$
-$\ln f=\sum\limits_{n=0}^N\ln(\frac{1}{(2\pi\sigma^2)^{1/2}})-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
+$\ln f=\sum\limits_{n=0}^N-\frac{1}{2}\ln(\frac{1}{2\pi\sigma^2})-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
 
 ## a
 
@@ -59,4 +59,3 @@ $\square$
 
 $0=\frac{\partial \ln f}{\partial\sigma}=\frac{\partial}{\partial\sigma}\sum\limits_{n=0}^N\ln(\frac{1}{(2\pi\sigma^2)^{1/2}})-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
 $=\sum\limits_{n=0}^N\frac{\partial}{\partial\sigma}\ln(\frac{1}{(2\pi\sigma^2)^{1/2}})-\sum\limits_{n=0}^N\frac{\partial}{\partial\sigma}\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
-$=\sum\limits_{n=0}^N\frac{\partial}{\partial\sigma}(2\pi\sigma^2)^{1/2}\ln(\frac{1}{(2\pi\sigma^2)^{1/2}})-\sum\limits_{n=0}^N\frac{\partial}{\partial\sigma}\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
