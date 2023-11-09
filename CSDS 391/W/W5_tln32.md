@@ -51,6 +51,8 @@ with $n=4$, $\theta=3/4$
 			]
 		}
 	],
+	fnType: "points",
+	graphType: "scatter",
 	xAxis: {
 		domain: [-4, 4]
 	},
