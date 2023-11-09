@@ -9,5 +9,6 @@ $D=\sum\limits_{n=1}^N\sum\limits_{k=1}^Kr_{n,k}\|\vec x_n-\vec\mu_k\|^2$
 $\frac{\partial D}{\partial \vec\mu_k}=-2\sum\limits_{n=1}^Nr_{n,k}(\vec x_n-\vec\mu_k)=0$
 
 $\sum\limits_{n=1}^Nr_{n,k}(\vec x_n-\vec\mu_k)=0$
-$\sum\limits_{n=1}^Nr_{n,k}\vec x_n-\sum\limits_{n=1}^Nr_{n,k}\vec\mu_k=0$
+$\sum\limits_{n=1}^Nr_{n,k}\vec x_n=\sum\limits_{n=1}^Nr_{n,k}\vec\mu_k$
+$\sum\limits_{n=1}^Nr_{n,k}\vec x_n=\vec\mu_k\sum\limits_{n=1}^Nr_{n,k}$
 
