@@ -91,6 +91,8 @@ $\implies\begin{cases}P(X=C_1)=\frac{2}{3}\\P(X=C_2)=\frac{1}{3}\end{cases}$
 
 Assuming $\mu_1<\mu_2$,
 
+$E=P(X_1>\theta\cap X\notin X_1)+P(X_2>\theta\cap X\notin X_2)$
+
 $X_n\sim N(\mu_n,\sigma_n)$
 $P(X_1>\theta)=1-F_{X_1}(\theta)$
 $P(X_2<\theta)=F_{X_2}(\theta)$
@@ -98,5 +100,3 @@ $P(X_2<\theta)=F_{X_2}(\theta)$
 $F_N(x)=\Phi(x)$
 $F_{X_n}(x)=F_N(\frac{x-\mu}\sigma)=\Phi(\frac{x-\mu_n}{\sigma_n})$
 
-$E=P(X_1>\theta|X\notin X_1)+P(X_2<\theta|X\notin X_2)$
-$=P(X_1>\theta\cap X\notin X_1)+P(X_2>\theta\capX\notin X_2)$
