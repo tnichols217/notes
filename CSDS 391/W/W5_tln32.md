@@ -33,4 +33,8 @@ $\frac{\sum\limits_{n=1}^Nr_{n,k}\vec x_n}{\sum\limits_{n=1}^Nr_{n,k}}=\vec\mu_k
 
 ## a
 
+# 3
 
+## a
+
+$f(x|\mu,\sigma^2)$
