@@ -99,6 +99,28 @@ with $n=4$, $\theta=3/4$
 	data: [
 		{
 			points: [
+				[0, 0.063],
+				[1, 0.375],
+				[2, 0.563]
+			],
+			fnType: "points",
+			graphType: "scatter"
+		}
+	],
+	xAxis: {
+		domain: [-0.5, 2.5]
+	},
+	yAxis: {
+		domain: [-0.5, 1]
+	}
+}
+```
+
+```function-plot
+{
+	data: [
+		{
+			points: [
 				[0, 0.004],
 				[1, 0.047],
 				[2, 0.211],
