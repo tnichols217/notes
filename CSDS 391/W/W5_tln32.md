@@ -1,6 +1,6 @@
 ---
 date created: 2023-11-09 00:54
-date updated: 2023-11-09 01:17
+date updated: 2023-11-09 13:38
 ---
 
 # 1
@@ -32,6 +32,8 @@ $\frac{\sum\limits_{n=1}^Nr_{n,k}\vec x_n}{\sum\limits_{n=1}^Nr_{n,k}}=\vec\mu_k
 # 2
 
 ## a
+
+
 
 # 3
 
@@ -67,4 +69,9 @@ $\implies\frac{N}{\sigma}=\frac{1}{\sigma^3}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
 $\implies N\sigma^2=\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
 $\implies \sigma^2=\frac{1}{N}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
 $\square$
+
+# 4
+
+## a
+
 
