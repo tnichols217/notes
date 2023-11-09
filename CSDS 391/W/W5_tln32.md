@@ -114,5 +114,5 @@ $0=\frac{\partial E}{\partial\theta}=2/3-2\Phi(\frac{\theta-\mu_1}{\sigma_1})/3+
 $=N(\frac{\theta-\mu_2}{\sigma_2})/3\sigma_2-2N(\frac{\theta-\mu_1}{\sigma_1})/3\sigma_1$
 
 $\implies N(\frac{\theta-\mu_2}{\sigma_2})/\sigma_2=2N(\frac{\theta-\mu_1}{\sigma_1})/\sigma_1$
-$\implies \frac{1}{\sigma_2}e^{-\frac{1}{2\sigma_2^2}(x-\mu_2)^2}=\frac{1}{\sigma_2}e^{-\frac{1}{2\sigma_1^2}(x-\mu_1)^2}$
+$\implies \ln(\frac{1}{\sigma_2})-\frac{1}{2\sigma_2^2}(x-\mu_2)^2=\ln(\frac{1}{\sigma_2})-\frac{1}{2\sigma_1^2}(x-\mu_1)^2$
 
