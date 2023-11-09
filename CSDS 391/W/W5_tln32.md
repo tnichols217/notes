@@ -76,4 +76,5 @@ $\square$
 
 $X\in\{C_1,C_2\}$
 
-
+$P(C_1)=2P(C_2)$
+$\sum\limits_n$
