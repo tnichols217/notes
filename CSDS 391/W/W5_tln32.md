@@ -91,5 +91,8 @@ $\implies\begin{cases}P(X=C_1)=\frac{2}{3}\\P(X=C_2)=\frac{1}{3}\end{cases}$
 
 Assuming $\mu_1<\mu_2$,
 
-$X_1\sim N(\mu_1,\sigma_1)$
-$P(X_1<\theta)$
+$X_n\sim N(\mu_n,\sigma_n)$
+$P(X_1<\theta)=F_{X_1}(\theta)$
+$P(X_2>\theta)=1-F_{X_2}(\theta)$
+
+
