@@ -89,4 +89,6 @@ $\implies\begin{cases}P(X=C_1)=\frac{2}{3}\\P(X=C_2)=\frac{1}{3}\end{cases}$
 
 ## b
 
+Assuming $\mu_1<\mu_2$,
 
+$P(|x<\theta)$
