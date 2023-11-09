@@ -77,4 +77,6 @@ $\square$
 $X\in\{C_1,C_2\}$
 
 $P(C_1)=2P(C_2)$
-$\sum\limits_n$
+
+$1=\sum\limits_{\{C_1,C_2\}}f(x)$
+$=P(C_1)+P(C_2)=$
