@@ -50,5 +50,7 @@ $=-\frac{1}{2\sigma^2}\frac{\partial}{\partial\mu}\sum\limits_{n=0}^N(\vec x_n-\
 $=-\frac{1}{2\sigma^2}\sum\limits_{n=0}^N-2(\vec x_n-\mu)$
 $=\frac{1}{\sigma^2}\sum\limits_{n=0}^N(\vec x_n-\mu)$
 
-$\imple0=\frac{1}{\sigma^2}\sum\limits_{n=0}^N(\vec x_n-\mu)$
+$\implies 0=\sum\limits_{n=0}^N\vec x_n-\sum\limits_{n=0}^N\mu$
+$\implies 0=\sum\limits_{n=0}^N\vec x_n-N\mu$
+$\implies \mu=\frac{1}{N}\sum\limits_{n=0}^N\vec x_n$
 
