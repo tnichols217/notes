@@ -86,6 +86,7 @@ $\implies\begin{cases}P(X=C_1)=\frac{2}{3}\\P(X=C_2)=\frac{1}{3}\end{cases}$
 |     | $C_1$         | $C_2$         |
 | --- | ------------- | ------------- |
 | $X$ | $\frac{2}{3}$ | $\frac{1}{3}$ |
+$\square$
 
 ## b
 
@@ -118,6 +119,7 @@ $\implies \frac{1}{\sigma_2}e^{-\frac{1}{2\sigma_2^2}(x-\mu_2)^2}=\frac{1}{\sigm
 $\implies \ln(\frac{\sigma_1}{\sigma_2})=\frac{1}{2\sigma_2^2}(\theta-\mu_2)^2-\frac{1}{2\sigma_1^2}(\theta-\mu_1)^2$
 $\implies \ln(\frac{\sigma_1}{\sigma_2})=\frac{1}{2\sigma_2^2}(\theta^2-\mu_2\theta+\mu_2^2)-\frac{1}{2\sigma_1^2}(\theta^2-\mu_1\theta+\mu_1^2)$
 $\implies 0=(\frac{1}{2\sigma_2^2}-\frac{1}{2\sigma_1^2})\theta^2+(\frac{1}{2\sigma_1^2}\mu_1-\frac{1}{2\sigma_2^2}\mu_2)\theta+(\frac{1}{2\sigma_2^2}\mu_2^2-\frac{1}{2\sigma_1^2}\mu_1^2-\ln(\frac{\sigma_1}{\sigma_2}))$
+
 Where
 $A=\frac{1}{2\sigma_2^2}-\frac{1}{2\sigma_1^2}$
 $B=\frac{1}{2\sigma_1^2}\mu_1-\frac{1}{2\sigma_2^2}\mu_2$
