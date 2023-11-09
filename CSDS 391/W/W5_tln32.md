@@ -102,9 +102,9 @@ $F_N(x)=\Phi(x)$
 $F_{X_n}(x)=F_N(\frac{x-\mu}\sigma)=\Phi(\frac{x-\mu_n}{\sigma_n})$
 
 $E=\frac{2}{3}(1-\Phi(\frac{\theta-\mu_1}{\sigma_1}))+\frac{1}{3}(\Phi(\frac{\theta-\mu_2}{\sigma_2}))$
-$=2/3-2\Phi(\frac{x-\mu_1}{\sigma_1})/3+\Phi(\frac{x-\mu_2}{\sigma_2})/3$
+$=2/3-2\Phi(\frac{\theta-\mu_1}{\sigma_1})/3+\Phi(\frac{\theta-\mu_2}{\sigma_2})/3$
 $\square$
 
 ## c
 
-
+$\frac{dE}{\partial\theta}$
