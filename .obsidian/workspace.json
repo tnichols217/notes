@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md"
+                "file": "CSDS 391/W/W5_tln32.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
+                "file": "CSDS 391/W/W5_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,84 +183,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "27a599f2d4c72387",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8d82532ae45ca373",
-        "type": "window",
-        "children": [
-          {
-            "id": "fe1f45ec98496e6d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ccd1e5f53333a50a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                },
-                "group": "b66b13895b11460d"
-              },
-              {
-                "id": "551cfa8301fb680c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "1f6078bf664fe0a4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e4db7bcb1ea32584",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                },
-                "group": "b66b13895b11460d"
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 340,
-        "y": 132,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "551cfa8301fb680c",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
     "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
+    "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
     "CSDS 391/W/W5_tln32.md",
     "STAT 345/Homework/8.md",
     "CSDS 391/W/W4_tln32.md",
     "STAT 345/Textbook/4.3 - Bivariate Translation.md",
-    "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
     "MUTH 104/Assignments/6/A.md",
     "MUTH 104/Assignments/6/A.pdf",
     "MUTH 104/Notes/Rondo Form.md",
