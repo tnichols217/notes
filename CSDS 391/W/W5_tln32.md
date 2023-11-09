@@ -60,7 +60,8 @@ $\square$
 $0=\frac{\partial \ln f}{\partial\sigma}=\frac{\partial}{\partial\sigma}\sum\limits_{n=0}^N-\frac{1}{2}\ln(2\pi\sigma^2)-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
 $=\sum\limits_{n=0}^N\frac{\partial}{\partial\sigma}\frac{1}{2}\ln(2\pi\sigma^2)+\sum\limits_{n=0}^N\frac{\partial}{\partial\sigma}\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
 $=\sum\limits_{n=0}^N\frac{1}{2}\frac{4\pi\sigma}{2\pi\sigma^2}+\sum\limits_{n=0}^N\frac{-2}{2\sigma^3}(\vec x_n-\mu)^2$
-$=\sum\limits_{n=0}^N\frac{1}{\sigma}+\sum\limits_{n=0}^N\frac{1}{\sigma^3}(\vec x_n-\mu)^2$
-$=\frac{N}{\sigma}+\frac{1}{\sigma^3}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
+$=\sum\limits_{n=0}^N\frac{1}{\sigma}-\sum\limits_{n=0}^N\frac{1}{\sigma^3}(\vec x_n-\mu)^2$
+$=\frac{N}{\sigma}-\frac{1}{\sigma^3}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
 
-$\implies$
+$\implies\frac{N}{\sigma}=\frac{1}{\sigma^3}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
+$\implies N\sigma^2}=\frac{1}{\sigma^3}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
