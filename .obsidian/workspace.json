@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md"
+                "file": "CSDS 391/W/W5_tln32.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+                "file": "CSDS 391/W/W5_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,10 +220,10 @@
       }
     ]
   },
-  "active": "085e4d99be1f537b",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "CSDS 391/W/W5_tln32.md",
     "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+    "CSDS 391/W/W5_tln32.md",
     "STAT 345/Homework/8.md",
     "STAT 345/Homework/8.pdf",
     "().md",
