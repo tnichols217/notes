@@ -47,12 +47,15 @@ with $n=4$, $\theta=3/4$
 	data: [
 		{
 			points: [
-				[1, 1]
-			]
+				[0, 0.004],
+				[1, 0.047],
+				[2, 0.211],
+				[3, 0.422]
+			],
+			fnType: "points",
+			graphType: "scatter"
 		}
 	],
-	fnType: "points",
-	graphType: "scatter",
 	xAxis: {
 		domain: [-4, 4]
 	},
