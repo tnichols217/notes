@@ -50,17 +50,18 @@ with $n=4$, $\theta=3/4$
 				[0, 0.004],
 				[1, 0.047],
 				[2, 0.211],
-				[3, 0.422]
+				[3, 0.422],
+				[4, 0.316]
 			],
 			fnType: "points",
 			graphType: "scatter"
 		}
 	],
 	xAxis: {
-		domain: [-4, 4]
+		domain: [-0.5, 4.5]
 	},
 	yAxis: {
-		domain: [-1, 6]
+		domain: [-0.5, 1]
 	}
 }
 ```
