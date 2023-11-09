@@ -45,7 +45,7 @@ $\ln f=\sum\limits_{n=0}^N-\frac{1}{2}\ln(\frac{1}{2\pi\sigma^2})-\frac{1}{2\sig
 
 ## a
 
-$0=\frac{\partial \ln f}{\partial\mu}=\frac{\partial}{\partial\mu}\sum\limits_{n=0}^N\ln(\frac{1}{(2\pi\sigma^2)^{1/2}})-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
+$0=\frac{\partial \ln f}{\partial\mu}=\frac{\partial}{\partial\mu}\sum\limits_{n=0}^N-\frac{1}{2}\ln(\frac{1}{2\pi\sigma^2})-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
 $=-\frac{1}{2\sigma^2}\frac{\partial}{\partial\mu}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
 $=-\frac{1}{2\sigma^2}\sum\limits_{n=0}^N-2(\vec x_n-\mu)$
 $=\frac{1}{\sigma^2}\sum\limits_{n=0}^N(\vec x_n-\mu)$
@@ -57,5 +57,5 @@ $\square$
 
 ## b
 
-$0=\frac{\partial \ln f}{\partial\sigma}=\frac{\partial}{\partial\sigma}\sum\limits_{n=0}^N\ln(\frac{1}{(2\pi\sigma^2)^{1/2}})-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
-$=\sum\limits_{n=0}^N\frac{\partial}{\partial\sigma}\ln(\frac{1}{(2\pi\sigma^2)^{1/2}})-\sum\limits_{n=0}^N\frac{\partial}{\partial\sigma}\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
+$0=\frac{\partial \ln f}{\partial\sigma}=\frac{\partial}{\partial\sigma}\sum\limits_{n=0}^N-\frac{1}{2}\ln(\frac{1}{2\pi\sigma^2})-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
+$=\frac{\partial}{\partial\sigma}\sum\limits_{n=0}^N-\frac{1}{2}\ln(\frac{1}{2\pi\sigma^2})-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
