@@ -45,5 +45,5 @@ $\ln f=\sum\limits_{n=0}^N\ln(\frac{1}{(2\pi\sigma^2)^{1/2}})-\frac{1}{2\sigma^2
 
 ## a
 
-$0=\frac{\partial \ln f}{\partial\mu}=\frac{\partial}{\partial\mu}\sum\limits_{n=0}^N\ln(\frac{1}{(2\pi\sigma^2)^{1/2}})+\ln(e^{-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2})$
-$0=\frac{\partial \ln f}{\partial\mu}=\frac{\partial}{\partial\mu}\sum\limits_{n=0}^N\ln(e^{-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2})$
+$0=\frac{\partial \ln f}{\partial\mu}=\frac{\partial}{\partial\mu}\sum\limits_{n=0}^N\ln(\frac{1}{(2\pi\sigma^2)^{1/2}})-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
+$0=\frac{\partial \ln f}{\partial\mu}=\frac{\partial}{\partial\mu}\sum\limits_{n=0}^N-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
