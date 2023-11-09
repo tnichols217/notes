@@ -60,5 +60,7 @@ $\square$
 $0=\frac{\partial \ln f}{\partial\sigma}=\frac{\partial}{\partial\sigma}\sum\limits_{n=0}^N-\frac{1}{2}\ln(\frac{1}{2\pi\sigma^2})-\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
 $=\sum\limits_{n=0}^N\frac{\partial}{\partial\sigma}\frac{1}{2}\ln(\frac{1}{2\pi\sigma^2})+\sum\limits_{n=0}^N\frac{\partial}{\partial\sigma}\frac{1}{2\sigma^2}(\vec x_n-\mu)^2$
 $=\sum\limits_{n=0}^N\frac{1}{2}2\pi\sigma^2\frac{-2}{2\pi\sigma^3}+\sum\limits_{n=0}^N\frac{-2}{2\sigma^3}(\vec x_n-\mu)^2$
-$=\sum\limits_{n=0}^N\frac{1}{\sigma}+\sum\limits_{n=0}^N\frac{1}{1\sigma^3}(\vec x_n-\mu)^2$
-$=\frac{N}{\sigma}+\sum\limits_{n=0}^N\frac{1}{1\sigma^3}(\vec x_n-\mu)^2$
+$=\sum\limits_{n=0}^N\frac{1}{\sigma}+\sum\limits_{n=0}^N\frac{1}{\sigma^3}(\vec x_n-\mu)^2$
+$=\frac{N}{\sigma}+\frac{1}{\sigma^3}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
+
+$\implies$
