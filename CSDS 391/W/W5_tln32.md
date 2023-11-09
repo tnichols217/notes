@@ -98,5 +98,5 @@ $P(X_2<\theta)=F_{X_2}(\theta)$
 $F_N(x)=\Phi(x)$
 $F_{X_n}(x)=F_N(\frac{x-\mu}\sigma)=\Phi(\frac{x-\mu_n}{\sigma_n})$
 
-$E=P(X_1<\theta|X\notin X_1)+P(X_2>\theta|X\notin X_2)$
-$=P(X_1<\theta\cap X\notin)/P(X\notin X_1)+P(X_2>\theta|X\notin X_2)$
+$E=P(X_1>\theta|X\notin X_1)+P(X_2<\theta|X\notin X_2)$
+$=P(X_1>\theta\cap X\notin X_1)+P(X_2>\theta\capX\notin X_2)$
