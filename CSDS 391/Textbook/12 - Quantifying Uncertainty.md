@@ -90,7 +90,10 @@ date updated: 2023-11-05 22:40
 > 
 > ---
 > 
-> **Posterior, Likelihood, Prior, Marginalization**
+> **Posterior, Likelihood, Prior, and Marginal Probabilities**
 > $P(A|B)=\frac{P(B|A)P(A)}{P(B)}$
+> 
 > Posterior: $P(A|B)$
-> Likelihood: $$
+> Likelihood: $P(B|A)$
+> Prior: $P(A)$
+> Marginal: $P(B)$
