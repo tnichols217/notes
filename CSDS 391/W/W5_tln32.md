@@ -40,11 +40,13 @@ $P(\theta|y,n)=(1+n)\begin{pmatrix}n\\y\end{pmatrix}\theta^y(1-\theta)^{n-y}$
 
 ## b
 
+with $n=4$, $\theta=3/4$
+
 ```function-plot
 {
 	data: [
 		{
-			fn: 'x^2'
+			fn: '12x^2'
 		}
 	],
 	xAxis: {
