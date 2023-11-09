@@ -108,3 +108,6 @@ $\square$
 ## c
 
 $\frac{\partial E}{\partial\theta}=2/3-2\Phi(\frac{\theta-\mu_1}{\sigma_1})/3+\Phi(\frac{\theta-\mu_2}{\sigma_2})/3$
+
+Let $N(z)=\frac{1}{}$
+$=$
