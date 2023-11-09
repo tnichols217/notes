@@ -46,7 +46,9 @@ with $n=4$, $\theta=3/4$
 {
 	data: [
 		{
-			fn: '20x^2'
+			points: [
+				[1, 1]
+			]
 		}
 	],
 	xAxis: {
