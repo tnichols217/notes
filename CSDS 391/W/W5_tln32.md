@@ -101,4 +101,4 @@ $P(X_2<\theta)=F_{X_2}(\theta)$
 $F_N(x)=\Phi(x)$
 $F_{X_n}(x)=F_N(\frac{x-\mu}\sigma)=\Phi(\frac{x-\mu_n}{\sigma_n})$
 
-$E=$
+$E=(1-\Phi(\frac{x-\mu_1}{\sigma_1}))$
