@@ -64,4 +64,7 @@ $=\sum\limits_{n=0}^N\frac{1}{\sigma}-\sum\limits_{n=0}^N\frac{1}{\sigma^3}(\vec
 $=\frac{N}{\sigma}-\frac{1}{\sigma^3}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
 
 $\implies\frac{N}{\sigma}=\frac{1}{\sigma^3}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
-$\implies N\sigma^2}=\frac{1}{\sigma^3}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
+$\implies N\sigma^2=\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
+$\implies \sigma^2=\frac{1}{N}\sum\limits_{n=0}^N(\vec x_n-\mu)^2$
+$\square$
+
