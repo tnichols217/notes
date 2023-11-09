@@ -33,7 +33,7 @@ $\frac{\sum\limits_{n=1}^Nr_{n,k}\vec x_n}{\sum\limits_{n=1}^Nr_{n,k}}=\vec\mu_k
 
 ## a
 
-
+$P(\theta|y,n)=P()$
 
 # 3
 
