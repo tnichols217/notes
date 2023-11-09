@@ -46,7 +46,7 @@ with $n=4$, $\theta=3/4$
 {
 	data: [
 		{
-			fn: '12x^2'
+			fn: '20x^2'
 		}
 	],
 	xAxis: {
