@@ -11,9 +11,11 @@
             "id": "66c4bc840829616c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.pdf"
+                "file": "CSDS 391/W/W5_tln32.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "91dad52aafa5267d"
@@ -28,9 +30,11 @@
             "id": "87f138783564c592",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.pdf"
+                "file": "CSDS 391/W/W5_tln32.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "91dad52aafa5267d"
@@ -95,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.pdf"
+                "file": "CSDS 391/W/W5_tln32.md"
               }
             }
           }
@@ -127,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.pdf",
+                "file": "CSDS 391/W/W5_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,10 +220,10 @@
       }
     ]
   },
-  "active": "b67808c7c498bc42",
+  "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "CSDS 391/W/W5_tln32.md",
     "CSDS 391/W/W5_tln32.pdf",
+    "CSDS 391/W/W5_tln32.md",
     "STAT 345/Homework/7.md",
     "MATH 223/Practice Problems/12.1.md",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
