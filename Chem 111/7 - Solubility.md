@@ -49,6 +49,7 @@
 	1. *Except* with $Ag^+$, $Pb^{2+}$, $Hg_2^{2+}$
 4. $SO_4^{2-}$ Sulfate salts
 	1. *Except* with $Ba^{2+}$, $Pb^{2+}$, $Hg_2^{2+}$, $Ca^{2+}$
-5. $OH^-$ Hydroxide are *partially soluble*
+5. $OH^-$ Hydroxide are *slightly soluble*
 	1. *Except* with $Na^+$, $K^+$ are **Fully soluble**
 	2. *Except* with $Ba^{2+}$, $Ca^{2+}$ are **Marginally soluble**
+6. $S^{2-}$, $CO_3^{2-}$, $CrO_4^{2-}$
