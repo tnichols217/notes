@@ -40,3 +40,7 @@
 > Number of equilalents of solute per liter of solution
 > - Equivalent - moles of substance that wil react with or replace one mol of $\text{H}^+$
 
+## Solubility Rules
+
+1. Most nitrate ($NO_3^-$) salts are soluble
+2. Most alkali metal (group $1A$) salts an
