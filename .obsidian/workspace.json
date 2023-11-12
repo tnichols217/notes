@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md"
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +185,7 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "CSDS 391/Textbook/20 - Knowledge in Learning.md",
     "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
@@ -200,7 +201,6 @@
     "STAT 345/Homework/7.md",
     "MATH 223/Quiz/5.md",
     "CSDS 391/W/W5_tln32.md",
-    "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "CSDS 391/W/W5_tln32.pdf",
     "MATH 223/Practice Problems/12.1.md",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
