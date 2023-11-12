@@ -43,4 +43,5 @@
 ## Solubility Rules
 
 1. Most nitrate ($NO_3^-$) salts are soluble
-2. Most alkali metal (group $1A$) salts an
+2. Most alkali metal (group $1A$) salts and ammonium $NH_4^+$ are soluble
+3. Most $Cl^-$, $Br^-$
