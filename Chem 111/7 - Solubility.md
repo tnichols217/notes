@@ -50,4 +50,5 @@
 4. $SO_4^{2-}$ Sulfate salts
 	1. *Except* with $Ba^{2+}$, $Pb^{2+}$, $Hg_2^{2+}$, $Ca^{2+}$
 5. $OH^-$ Hydroxide are *partially soluble*
-	1. $Na$, $K$ are **Fu**
+	1. *Except* with $Na^+$, $K^+$ are **Fully soluble**
+	2. *Except* with $Ba^{2+}$, $Ca^{2+}$ are **Marginally soluble**
