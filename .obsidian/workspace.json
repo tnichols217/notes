@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md"
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +185,9 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/20 - Knowledge in Learning.md",
+    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
+    "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
     "Chem 111/6 - Stoichiometry.md",
     "Chem 111/5 - Empirical Analysis.md",
     "Chem 111/4 - Molecules.md",
@@ -204,8 +207,6 @@
     "STAT 345/Homework/8.md",
     "STAT 345/Homework/8.pdf",
     "().md",
-    "CSDS 391/Textbook/20 - Knowledge in Learning.md",
-    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
     "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
     "CSDS 391/W/W4_tln32.md",
@@ -215,7 +216,6 @@
     "MUTH 104/Notes/Rondo Form.md",
     "MUTH 104/Notes/Sonata Form.md",
     "MUTH 104/Assignments/6",
-    "ARTS 302/Readings/Ching/5 - Circulation.md",
     "cwru",
     "MUTH 104/Assignments/5/A.pdf",
     "MUTH 104/Assignments/5/5A.pdf",
