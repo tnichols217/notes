@@ -7,6 +7,7 @@
 > ---
 > 
 > **Bayes Law for vectors**
-> Across multiple hypotheses 
+> Across multiple hypotheses,
+> $$
 
 
