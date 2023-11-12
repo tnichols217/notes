@@ -49,4 +49,5 @@
 	1. *Except* with $Ag^+$, $Pb^{2+}$, $Hg_2^{2+}$
 4. $SO_4^{2-}$ Sulfate salts
 	1. *Except* with $Ba^{2+}$, $Pb^{2+}$, $Hg_2^{2+}$, $Ca^{2+}$
-5. $OH^-$ Hydroxide
+5. $OH^-$ Hydroxide are *partially soluble*
+	1. $Na$, $K$ are **Fu**
