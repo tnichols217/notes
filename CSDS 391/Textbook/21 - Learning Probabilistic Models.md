@@ -8,6 +8,7 @@
 > 
 > **Bayes Law for vectors**
 > Across multiple hypotheses,
-> $$
+> $P(h_i|\vec d)=\alpha P(\vec d|h_i)P(h_i)$
+> where $\alpha$ is a constant
 
 
