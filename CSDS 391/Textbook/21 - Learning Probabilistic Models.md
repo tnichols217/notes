@@ -1,2 +1,5 @@
 # Learning Probabilistic Models
 
+> [!def]
+> **Bayesian Learning**
+> Calculating the probability of each hypothesis given the data, and making predic
