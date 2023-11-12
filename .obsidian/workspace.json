@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 111/6 - Stoichiometry.md",
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 111/6 - Stoichiometry.md",
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chem 111/6 - Stoichiometry.md"
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem 111/6 - Stoichiometry.md",
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +185,10 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "Chem 111/6 - Stoichiometry.md",
     "Chem 111/5 - Empirical Analysis.md",
     "Chem 111/4 - Molecules.md",
     "Chem 111/3 - Compounds.md",
-    "Chem 111/6 - Stoichiometry.md",
     "Chem 111/7 - Solubility.md",
     "Chem 111/2 - Units.md",
     "Chem 111/1 - Intro.md",
