@@ -2,4 +2,6 @@
 
 > [!def]
 > **Bayesian Learning**
-> Calculating the probability of each hypothesis given the data, and making predic
+> Calculating the probability of each hypothesis given the data, and making predictions based on the outcomes
+
+
