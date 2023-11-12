@@ -46,6 +46,7 @@
 	1. Nitrate ($NO_3^-$) salts
 2. **Soluble**
 	1. Alkali metal (group $1A$) salts
-	2. ammonium $NH_4^+$ are soluble
-3. **Soluble**: $Cl^-$, $Br^-$, and $I^-$ salts
-	1. Except with 
+	2. Ammonium $NH_4^+$ salts
+3. **Soluble**
+	1. $Cl^-$, $Br^-$, and $I^-$ salts
+	2. ***Except*** with $Ag$
