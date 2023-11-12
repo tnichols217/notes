@@ -42,9 +42,9 @@
 
 ## Solubility Rules
 
-1. Nitrate ($NO_3^-$) salts
-	1. Alkali metal (group $1A$) salts
-	2. Ammonium $NH_4^+$ salts
-	1. $Cl^-$, $Br^-$, $I^-$ salts
-	2. ***Except*** with $Ag^+$, $Pb^{2+}$, $Hg_2^{2+}$
-2. **Soluble**
+1. $NO_3^-$ Nitrate salts
+2. Group $1A$ alkali metal salts
+	1. $NH_3^+$Ammonium $NH_4^+$ salts
+3. $Cl^-$, $Br^-$, $I^-$ salts
+4. ***Except*** with $Ag^+$, $Pb^{2+}$, $Hg_2^{2+}$
+5. **Soluble**
