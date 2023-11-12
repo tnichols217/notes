@@ -46,5 +46,5 @@
 2. Group $1A$ alkali metal salts
 	1. $NH_4^+$ includes ammonium salts
 3. $Cl^-$, $Br^-$, $I^-$ salts
-	1. ***Except*** with $Ag^+$, $Pb^{2+}$, $Hg_2^{2+}$
-4. **Soluble**
+	1. *Except* with $Ag^+$, $Pb^{2+}$, $Hg_2^{2+}$
+4. $SO_4^{2-}$ Sulfate salts
