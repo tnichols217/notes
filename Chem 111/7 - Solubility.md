@@ -17,24 +17,31 @@
 > [!def]
 > **Concentration**
 > Amount of solute in a given quantity of a solvent or solution
+> 
 > ---
 > **Mass Percentage**
 > (g of solute/100g of solution)\*100%
+> 
 > ---
 > **Volume Percentage**
 > (mL of solute/100mL of solution)\*100%
+> 
 > ---
 > **Parts per million (ppm)**
 > g of solute per one million g of solution
+> 
 > ---
 > **Molarity (M)**
 > mol of solute/L solution
+> 
 > ---
 > **Molality (m)**
 > mol solute / kg solvent
+> 
 > ---
 > **Mole fraction**
 > mol A / total moles
+> 
 > ---
 > **Normality**
 > Number of equilalents of solute per liter of solution
@@ -52,4 +59,4 @@
 5. $OH^-$ Hydroxide are *slightly soluble*
 	1. *Except* with $Na^+$, $K^+$ are **Fully soluble**
 	2. *Except* with $Ba^{2+}$, $Ca^{2+}$ are **Marginally soluble**
-6. $S^{2-}$, $CO_3^{2-}$, $CrO_4^{2-}$
+6. $S^{2-}$, $CO_3^{2-}$, $CrO_4^{2-}$, $PO_4^{3-}$ are *slightly soluble*
