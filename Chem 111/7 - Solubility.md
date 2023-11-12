@@ -44,7 +44,7 @@
 
 1. $NO_3^-$ Nitrate salts
 2. Group $1A$ alkali metal salts
-	1. $NH_3^+$Ammonium $NH_4^+$ salts
+	1. $NH_4^+$ includes ammonium salts
 3. $Cl^-$, $Br^-$, $I^-$ salts
-4. ***Except*** with $Ag^+$, $Pb^{2+}$, $Hg_2^{2+}$
-5. **Soluble**
+	1. ***Except*** with $Ag^+$, $Pb^{2+}$, $Hg_2^{2+}$
+4. **Soluble**
