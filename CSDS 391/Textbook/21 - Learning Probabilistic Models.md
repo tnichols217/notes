@@ -34,4 +34,4 @@
 
 ## Maximizing hypothesis probability
 
-Maximizing $P(\vec d|h_i)=\prod\limits_j^JP(d_j|h_i)$ is equivalent to maximizing its log, $\ln P(\vec d|h_i)=\sum\limits_j^JP(d_j|h_i)$
+Maximizing $P(\vec d|h_i)=\prod\limits_j^JP(d_j|h_i)$ is equivalent to maximizing its log, $\ln P(\vec d|h_i)=\sum\limits_j^J\ln P(d_j|h_i)$
