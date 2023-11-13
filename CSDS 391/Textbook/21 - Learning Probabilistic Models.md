@@ -29,8 +29,6 @@
 > ---
 > 
 > **MDL - Minimum Description Length**
-> Compares probabilities by checking the length of their description in bits. Smaller means more optimal acco
-
-
-
+> Compares probabilities by checking the length of their description in bits. Smaller means more optimal according to
+> $-\log_2(P(\vec d|h_i))-\log_2(P(h_i))$
 
