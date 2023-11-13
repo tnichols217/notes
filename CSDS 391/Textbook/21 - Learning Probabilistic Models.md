@@ -12,5 +12,8 @@
 > where $\alpha$ is a constant
 > 
 > $P(X|\vec d)=\sum\limits_i^IP(X|h_i)P(h_i|\vec d)$
+> By the law of total probability
+> 
+> 
 
 
