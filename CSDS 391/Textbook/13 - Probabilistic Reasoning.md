@@ -21,4 +21,6 @@ Where $\text{parents}$ are the values in the set of ${x_1,...,x_n}$ of the paren
 
 - Can be proven that $\theta()=P()$
 
+### Constructing a network
 
+$P(x_1,...,x_n)=P(x_n|x_{n-1},...,x_1)$
