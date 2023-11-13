@@ -10,5 +10,7 @@
 > Across multiple hypotheses,
 > $P(h_i|\vec d)=\alpha P(\vec d|h_i)P(h_i)$
 > where $\alpha$ is a constant
+> 
+> $P(X|\vec d)=\sum\limits_i^IP(X|h_i)P(h_i|\vec d)$
 
 
