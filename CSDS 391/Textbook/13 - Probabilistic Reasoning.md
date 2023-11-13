@@ -5,7 +5,7 @@
 1. Each node corresponds to a random variable
 2. Directed links connect pairs of nodes
 	1. Is a DAG, so no loops
-3. Each node has associated probability information $\theta(\text{Node}|\text{parents})$
+3. Each node has associated probability information (**CPT** - Conditional Probability Table) $\theta(\text{Node}|\text{parents})$
 
 - Represents a connection to every node in the network, working as another representation of the joint distribution
 
