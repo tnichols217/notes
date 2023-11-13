@@ -31,4 +31,8 @@ Where $\text{parents}$ are the values in the set of ${x_1,...,x_n}$ of the paren
 
 1. Remove unrelated nodes
 2. Attempt to order nodes in the order of causes to effects
-3. Choose a mini
+3. For each node
+	1. Find a minimal amount of related parent nodes
+	2. Insert a link from parent to current node
+	3. Create the conditional probability table
+
