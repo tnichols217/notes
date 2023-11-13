@@ -23,5 +23,7 @@ Where $\text{parents}$ are the values in the set of ${x_1,...,x_n}$ of the paren
 
 ### Constructing a network
 
-The ****
-$P(x_1,...,x_n)=P(x_n|x_{n-1},...,x_1)P(x_{n-1}|x_{n-2},...,x_1)...P(x_2|x_1)P(x_1)$
+> [!def]
+> **Chain rule**
+> $P(x_1,...,x_n)=P(x_n|x_{n-1},...,x_1)P(x_{n-1}|x_{n-2},...,x_1)...P(x_2|x_1)P(x_1)$
+> $=\prod\limits_{i=1}^nP(x_i|x_{i-1},...,x_1)$
