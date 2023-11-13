@@ -19,6 +19,8 @@
 > ---
 > 
 > **Overfitting**
-> When the hypothesis
+> When the hypothesis space is too expressive and the model ends up memorizing instead of generalizing the data
+
+
 
 
