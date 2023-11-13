@@ -7,6 +7,8 @@
 	1. Is a DAG, so no loops
 3. Each node has associated probability information $\theta(\text{Node}|\text{parents})$
 
+- Represents a connection to every node in the network, working as another representation 
+
 ### Nodes
 
 - Contains parents which are what are given to the node
@@ -15,4 +17,5 @@
 ### Probabilities of a state
 
 $P(x_1,...,x_n)=\prod\limits_{i=1}^n\theta(x_i|\text{parents}(X_i))$
-Where $\text{parents}$ are the values in the set of ${x_1,...,x_n}$ of the parents
+Where $\text{parents}$ are the values in the set of ${x_1,...,x_n}$ of the parents of the node.
+
