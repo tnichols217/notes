@@ -9,4 +9,5 @@
 
 ### Nodes
 
-- Each node contains outputs of th
+- Each node contains probabilities for the domain of the distribution given the parents of the node
+- Contains parents which are what a
