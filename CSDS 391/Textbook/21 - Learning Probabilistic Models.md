@@ -26,6 +26,10 @@
 > **MAP - Maximum a posteriori**
 > Making predictions based on the most probable hypothesis or the hypothesis that maximizes likelihood
 > 
+> ---
+> 
+> **MDL - Minimum Description Length**
+> Compares probabilities by checking the length of their description in bits. Smaller means more optimal acco
 
 
 
