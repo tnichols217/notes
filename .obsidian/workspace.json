@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
+                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
+                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md"
+                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
+                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,9 +185,10 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
+    "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "STAT 345/Homework/7.md",
     "STAT 345/Homework/8.md",
-    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/W/W5_tln32.md",
     "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "CSDS 391/Textbook/20 - Knowledge in Learning.md",
@@ -214,7 +215,6 @@
     "MUTH 104/Assignments/6/A.md",
     "MUTH 104/Assignments/6/A.pdf",
     "MUTH 104/Notes/Rondo Form.md",
-    "MUTH 104/Notes/Sonata Form.md",
     "MUTH 104/Assignments/6",
     "cwru",
     "MUTH 104/Assignments/5/A.pdf",
