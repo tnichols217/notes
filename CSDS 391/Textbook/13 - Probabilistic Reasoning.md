@@ -30,4 +30,5 @@ Where $\text{parents}$ are the values in the set of ${x_1,...,x_n}$ of the paren
 > $=\prod\limits_{i=1}^nP(x_i|x_{i-1},...,x_1)$
 
 1. Remove unrelated nodes
-2. 
+2. Attempt to order nodes in the order of causes to effects
+3. Choose a mini
