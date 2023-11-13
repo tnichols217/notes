@@ -9,5 +9,5 @@
 
 ### Nodes
 
+- Contains parents which are what are given to the node
 - Each node contains probabilities for the domain of the distribution given the parents of the node
-- Contains parents which are what a
