@@ -15,5 +15,10 @@
 > By the law of total probability
 > 
 > $P(\vec d|h_i)=\prod\limits_j^JP(d_j|h_i)$
+> 
+> ---
+> 
+> **Overfitting**
+> When the hypothesis
 
 
