@@ -11,3 +11,7 @@
 
 - Contains parents which are what are given to the node
 - Each node contains probabilities for the domain of the distribution given the parents of the node
+
+### Probabilities of a state
+
+$P(x_1,...,x_n)=\prod\limits_{i=1}^n\theta()$
