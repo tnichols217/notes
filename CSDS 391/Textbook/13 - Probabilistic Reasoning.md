@@ -7,7 +7,7 @@
 	1. Is a DAG, so no loops
 3. Each node has associated probability information $\theta(\text{Node}|\text{parents})$
 
-- Represents a connection to every node in the network, working as another representation 
+- Represents a connection to every node in the network, working as another representation of the joint distribution
 
 ### Nodes
 
