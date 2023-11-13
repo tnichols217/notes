@@ -23,4 +23,5 @@ Where $\text{parents}$ are the values in the set of ${x_1,...,x_n}$ of the paren
 
 ### Constructing a network
 
-$P(x_1,...,x_n)=P(x_n|x_{n-1},...,x_1)$
+The ****
+$P(x_1,...,x_n)=P(x_n|x_{n-1},...,x_1)P(x_{n-1}|x_{n-2},...,x_1)...P(x_2|x_1)P(x_1)$
