@@ -19,3 +19,6 @@
 $P(x_1,...,x_n)=\prod\limits_{i=1}^n\theta(x_i|\text{parents}(X_i))$
 Where $\text{parents}$ are the values in the set of ${x_1,...,x_n}$ of the parents of the node.
 
+- Can be proven that $\theta()=P()$
+
+
