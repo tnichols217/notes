@@ -32,3 +32,6 @@
 > Compares probabilities by checking the length of their description in bits. Smaller means more optimal according to
 > $-\log_2(P(\vec d|h_i))-\log_2(P(h_i))$
 
+## Maximizing hypothesis probability
+
+Maximizing $P(\vec d|h_i)=\prod\limits_j^JP(d_j|h_i)$ is equivalent to maximizing its log, $\ln P(\vec d|h_i)=\sum\limits_j^JP(d_j|h_i)$
