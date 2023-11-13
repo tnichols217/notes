@@ -14,6 +14,6 @@
 > $P(X|\vec d)=\sum\limits_i^IP(X|h_i)P(h_i|\vec d)$
 > By the law of total probability
 > 
-> $P(\vec d|h_i)=\prod\$
+> $P(\vec d|h_i)=\prod\limits_j^JP(d_j|h_i)$
 
 
