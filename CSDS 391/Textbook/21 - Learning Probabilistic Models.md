@@ -23,7 +23,8 @@
 > 
 > ---
 > 
-> **MAP - Maximum s posteriori**
+> **MAP - Maximum a posteriori**
+> Making predictions based on the most probable hypothesis or the hypothesis that maximizes likelihood
 > 
 
 
