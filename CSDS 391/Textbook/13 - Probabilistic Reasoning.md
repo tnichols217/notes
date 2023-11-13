@@ -1,3 +1,8 @@
 # Probabilistic Reasoning
 
-## Ba
+## Bayesian Networks
+
+1. Each node corresponds to a random variable
+2. Directed links connect pairs of nodes
+	1. Is a DAG, so no loops
+3. 
