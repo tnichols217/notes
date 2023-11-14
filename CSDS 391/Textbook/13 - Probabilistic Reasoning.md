@@ -14,7 +14,12 @@
 - Contains parents which are what are given to the node
 - Each node contains probabilities for the domain of the distribution given the parents of the node
 
-### Relationships betwe
+### Relationships between Nodes
+
+1. **A->B** Direct Cause
+2. **A->B->C** Indirect Cause
+3. **B<-A->C** Common Cause
+4. 
 
 ### Probabilities of a state
 
