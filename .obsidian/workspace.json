@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
+                "file": "STAT 345/Textbook/4.3 - Bivariate Translation.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
+                "file": "STAT 345/Textbook/4.3 - Bivariate Translation.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md"
+                "file": "STAT 345/Textbook/4.3 - Bivariate Translation.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
+                "file": "STAT 345/Textbook/4.3 - Bivariate Translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,8 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
+    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "STAT 345/Homework/7.md",
     "STAT 345/Homework/8.md",
     "CSDS 391/W/W5_tln32.md",
