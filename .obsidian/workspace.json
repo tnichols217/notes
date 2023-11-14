@@ -11,8 +11,12 @@
             "id": "87f138783564c592",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ARTS 302/Standard Sizes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -75,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "up.codes.md"
+                "file": "ARTS 302/Standard Sizes.md"
               }
             }
           }
@@ -107,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ARTS 302/Standard Sizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,10 +163,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "87f138783564c592",
   "lastOpenFiles": [
-    "ARTS 302/Standard Sizes.md",
     "up.codes.md",
+    "ARTS 302/Standard Sizes.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "Chem 111/8 - Kinetics and Rate Laws.md",
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",

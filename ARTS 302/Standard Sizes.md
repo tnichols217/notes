@@ -25,3 +25,8 @@ date created: 2023-11-14 17:46
 
 - 8'
 - 10'
+
+## Parking Spaces
+
+- 10' x 20'
+- 9' x 18'
