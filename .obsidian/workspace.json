@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 111/8 - Kinetics and Rate Laws.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 111/8 - Kinetics and Rate Laws.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chem 111/8 - Kinetics and Rate Laws.md"
+                "file": "STAT 345/Textbook/3 - Common Distributions.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem 111/8 - Kinetics and Rate Laws.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,8 @@
   },
   "active": "66c4bc840829616c",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "Chem 111/8 - Kinetics and Rate Laws.md",
+    "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "STAT 345/Textbook/4.4 - Hierarchical Models and Mixture Distributions.md",
     "STAT 345/Textbook/4.3 - Bivariate Translation.md",
