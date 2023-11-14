@@ -22,8 +22,11 @@
 	- $P(B|A)$
 	- $P(C|B)$
 	- $C$ is independent of $A$ given $B$
-1. **B<-A->C** Common Cause
-2. **A->C<-B** Common Effect
+3. **B<-A->C** Common Cause
+	- $P(B|A)$
+	- $P(C|A)$
+4. **A->C<-B** Common Effect
+	- $P(C|A,B)$
 
 ### Probabilities of a state
 
