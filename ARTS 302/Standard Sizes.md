@@ -11,7 +11,7 @@ date created: 2023-11-14 17:46
 - Residential
   - 30" x 80"
 
-## Hallways
+## Hallways / Stairways
 
 - Commercial
 	- Depends on Occupancy
