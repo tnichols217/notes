@@ -14,6 +14,8 @@
 - Contains parents which are what are given to the node
 - Each node contains probabilities for the domain of the distribution given the parents of the node
 
+### Relationships betwe
+
 ### Probabilities of a state
 
 $P(x_1,...,x_n)=\prod\limits_{i=1}^n\theta(x_i|\text{parents}(X_i))$
@@ -35,5 +37,3 @@ Where $\text{parents}$ are the values in the set of ${x_1,...,x_n}$ of the paren
 	1. Find a minimal amount of related parent nodes
 	2. Insert a link from parent to current node
 	3. Create the conditional probability table
-
-# TODO (much confused)
