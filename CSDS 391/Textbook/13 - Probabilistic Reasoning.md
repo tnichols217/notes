@@ -17,9 +17,13 @@
 ### Relationships between Nodes
 
 1. **A->B** Direct Cause
+	- $P(B|A)$
 2. **A->B->C** Indirect Cause
-3. **B<-A->C** Common Cause
-4. 
+	- $P(B|A)$
+	- $P(C|B)$
+	- $B$ is independent of $A$ given 
+1. **B<-A->C** Common Cause
+2. **A->C<-B** Common Effect
 
 ### Probabilities of a state
 
