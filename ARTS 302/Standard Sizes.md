@@ -4,7 +4,7 @@ date created: 2023-11-14 17:46
 
 # Standard Sizes
 
-[[http://up.codes]]
+up.codes
 
 ## Doors
 
