@@ -21,7 +21,7 @@
 2. **A->B->C** Indirect Cause
 	- $P(B|A)$
 	- $P(C|B)$
-	- $B$ is independent of $A$ given 
+	- $C$ is independent of $A$ given $B$
 1. **B<-A->C** Common Cause
 2. **A->C<-B** Common Effect
 
