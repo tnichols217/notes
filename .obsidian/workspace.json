@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "dcfd28cdb8561af3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "66c4bc840829616c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARTS 302/Standard Sizes.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "91dad52aafa5267d"
-          }
-        ]
-      },
-      {
         "id": "874a36c44bbb5c37",
         "type": "tabs",
         "children": [
@@ -32,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md",
+                "file": "up.codes.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "91dad52aafa5267d"
+            }
           }
         ]
       }
@@ -99,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md"
+                "file": "up.codes.md"
               }
             }
           }
@@ -131,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md",
+                "file": "up.codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,10 +163,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "66c4bc840829616c",
+  "active": "87f138783564c592",
   "lastOpenFiles": [
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "ARTS 302/Standard Sizes.md",
+    "up.codes.md",
+    "STAT 345/Textbook/3 - Common Distributions.md",
     "Chem 111/8 - Kinetics and Rate Laws.md",
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
@@ -213,7 +194,6 @@
     "MATH 223/Textbook/12.1 - Vector Operations.md",
     "STAT 345/Homework/8.pdf",
     "().md",
-    "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
     "MUTH 104/Assignments/6/A.pdf",
     "MUTH 104/Assignments/6",
     "cwru",
