@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md",
+                "file": "Chem 111/Exam 3 Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md"
+                "file": "Chem 111/Exam 3 Equations.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md",
+                "file": "Chem 111/Exam 3 Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,9 @@
   },
   "active": "87f138783564c592",
   "lastOpenFiles": [
-    "up.codes.md",
     "ARTS 302/Standard Sizes.md",
+    "Chem 111/Exam 3 Equations.md",
+    "up.codes.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "Chem 111/8 - Kinetics and Rate Laws.md",
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
@@ -193,7 +194,6 @@
     "MATH 223/Practice Problems/12.1.md",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
     "STAT 345/Homework/8.pdf",
-    "().md",
     "MUTH 104/Assignments/6/A.pdf",
     "MUTH 104/Assignments/6",
     "cwru",
