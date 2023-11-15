@@ -21,6 +21,9 @@ up.codes
 	- 3'
 	- 5'
 
+- Grade
+	- 11" to 7.5"
+
 ## Ceilings
 
 - 8'
