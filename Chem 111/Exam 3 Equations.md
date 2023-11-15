@@ -8,4 +8,6 @@ date updated: 2023-11-14 22:58
 ## Gas Law
 
 $PV=nRT$
-- 
+- When in $\text{atm}$ use the 0.083
+
+
