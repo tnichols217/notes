@@ -280,3 +280,5 @@ $\frac{1}{\sqrt{2\pi}\sigma}\exp\bigg(-\frac{\mu^2}{2\sigma^2}\bigg)\exp\bigg(-\
 > **Location Scale Family**
 > Any statistical distribution or family of distributions that can fit into the form:
 > $g(x|\mu,\sigma)=\frac{1}{\sigma}f(\frac{x-\mu}{\sigma})$
+
+![[3.6 - Distribution Properties#Probability Inequalities]]
