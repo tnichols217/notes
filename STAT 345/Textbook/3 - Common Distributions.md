@@ -261,6 +261,8 @@ $EX^n=\beta^{n/\gamma}\Gamma(1+\frac{n}{\gamma})$
 
 ## Multinomial Distribution
 
+Very similar to a binomial, except there is more than one possible outcome per trial ­— as compared to success or failure in the binomial.
+
 
 
 # Families of Distributions
