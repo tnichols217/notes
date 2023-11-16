@@ -265,3 +265,5 @@ $EX^n=\beta^{n/\gamma}\Gamma(1+\frac{n}{\gamma})$
 > **Exponential Family**
 > Any statistical distribution or family of distributions that can fit into the form:
 > $f(x|theta)=h(x)c(\theta)\exp(\sum\limits_{i=1}^kw_i(\theta)t_i(x))$
+
+
