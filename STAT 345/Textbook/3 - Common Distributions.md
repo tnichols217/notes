@@ -217,6 +217,7 @@ $f(x)=\frac{e^{-(x-\mu)^2/(2\sigma^2)}}{\sqrt{2\pi}\sigma}$
 $\mu=\mu$
 $\sigma^2=\sigma^2$
 
+
 ## Paretto $(\alpha,\beta)$
 
 Given $a<x<\infty;\quad \alpha,\beta>0$
