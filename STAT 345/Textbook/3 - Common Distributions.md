@@ -269,3 +269,7 @@ $EX^n=\beta^{n/\gamma}\Gamma(1+\frac{n}{\gamma})$
 ### Binomial
 
 $\begin{pmatrix}n\\x\end{pmatrix}(1-p)^n\exp\bigg(\log(\frac{p}{1-p})x\bigg)$
+
+### Normal
+
+$\frac{1}{\sqrt{}}$
