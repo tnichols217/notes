@@ -254,4 +254,5 @@ $EX^n=\beta^{n/\gamma}\Gamma(1+\frac{n}{\gamma})$
 
 > [!def]
 > **Exponential Family**
-> Any statistical 
+> Any statistical distribution or family of distributions that can fit into the form:
+> $f(x|theta)=h(x)c(\theta)$
