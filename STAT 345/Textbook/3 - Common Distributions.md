@@ -272,4 +272,4 @@ $\begin{pmatrix}n\\x\end{pmatrix}(1-p)^n\exp\bigg(\log(\frac{p}{1-p})x\bigg)$
 
 ### Normal
 
-$\frac{1}{\sqrt{}}$
+$\frac{1}{\sqrt{2\pi}\sigma}\exp\bigg(-\frac{\mu^2}{2\sigma^2}\bigg)\exp\bigg(-\frac{x^2}{2\sigma^2}+\frac{\mu x}{\sigma^2}\bigg)$
