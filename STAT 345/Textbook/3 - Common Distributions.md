@@ -266,4 +266,6 @@ $EX^n=\beta^{n/\gamma}\Gamma(1+\frac{n}{\gamma})$
 > Any statistical distribution or family of distributions that can fit into the form:
 > $f(x|\theta)=h(x)c(\theta)\exp\bigg(\sum\limits_{i=1}^kw_i(\theta)t_i(x)\bigg)$
 
+### Binomial
 
+$\begin{pmatrix}n\\x\end{pmatrix}(1-p)^n\exp\bigg(\log(\frac{p}{1-p})x\bigg)$
