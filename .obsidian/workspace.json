@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chem 111/Exam 3 Equations.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chem 111/Exam 3 Equations.md"
+                "file": "STAT 345/Textbook/3 - Common Distributions.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chem 111/Exam 3 Equations.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +165,8 @@
   },
   "active": "87f138783564c592",
   "lastOpenFiles": [
-    "ARTS 302/Standard Sizes.md",
     "Chem 111/Exam 3 Equations.md",
+    "ARTS 302/Standard Sizes.md",
     "up.codes.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "Chem 111/8 - Kinetics and Rate Laws.md",
