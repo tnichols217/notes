@@ -263,7 +263,7 @@ $EX^n=\beta^{n/\gamma}\Gamma(1+\frac{n}{\gamma})$
 
 Very similar to a binomial, except there is more than one possible outcome per trial ­— as compared to success or failure in the binomial.
 
-
+- Taking the marginal of any of the possible outcomes results in a regular binomial
 
 # Families of Distributions
 
