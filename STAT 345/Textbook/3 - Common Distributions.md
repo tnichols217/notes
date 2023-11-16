@@ -1,6 +1,6 @@
 ---
 date created: 2023-10-02 10:17
-date updated: 2023-10-03 15:11
+date updated: 2023-11-15 21:06
 ---
 
 # Discrete Distributions
@@ -10,6 +10,7 @@ date updated: 2023-10-03 15:11
 Models the probability of an event succeeding or failing, with $x=1$ as a success and $x=0$ as fail. There is only one trial.
 
 Given $x=0,1;\quad 0\le p\le 1$
+
 - $p$ is the probability of getting selected trait
 - Has $p$ probability of being $1$ and $1-p$ probability of being $0$
 
@@ -24,6 +25,7 @@ $M(t)=(1-p)+pe^t$
 Models the probability of getting $x$ successes out of $n$ trials with $p$ probability of each trial succeeding.
 
 Given $x=0,1,2,...,n;\quad 0\le p\le 1$
+
 - $p$ is probability of selecting a particular trait
 - $n$ is number of samples in a round of sampling
 - Predicts probability of getting certain number of chosen trait in sample set
@@ -38,6 +40,7 @@ $M(t)=(pe^t+(1-p))^n$
 Models the chance of $x$ as a result when all numbers from $1$ to $N$ are equally likely.
 
 Given $x=1,2,...,N;\quad N=1,2,...$
+
 - $N$ is the largest possible sample
 - All numbers from $1$ to $N$ are equally likely
 
@@ -46,11 +49,13 @@ $\text{CDF}=\frac{\lfloor x\rfloor+1}{N}$
 $\mu=\frac{N+1}{2}$
 $\sigma^2=\frac{(N+1)(N-1)}{12}$
 $M(t)=\frac{1}{N}\sum\limits_{i=1}^Ne^{it}$
+
 ## Geometric $(p)$
 
 Models chance of taking $x$ trials to get a success, with each success having $p$ chance of succeeding.
 
 Given $x=1,2,...;\quad 0\le p\le 1$
+
 - $p$ is probability of getting certain trait
 - Predicts number of samples needed to get a sample of particular trait
 
@@ -65,6 +70,7 @@ $M(t)=\frac{pe^t}{1-(1-p)e^t}$
 Predicts likelihood of selecting $x$ successes after $K$ trials of selecting from a population of $N$ with $M$ samples within that are successes without replacement.
 
 Given $x=0,1,2,...,K;\quad M-(N-K)\le x\le M;\quad N,M,K=0,1,2,...$
+
 - $N$ is the population size
 - $M$ is the number of samples in the population with a certain trait
 - $K$ number of samples taken in a round of sampling
@@ -79,6 +85,7 @@ $\sigma^2=\frac{KM(N-M)(N-K)}{N^2(N-1)}$
 Predicts likelihood of sampling $r$ successes of $p$ probability after $x+r$ samples
 
 Given $x=0,1,2,...;\quad0\le p\le1$
+
 - $p$ is the probability of getting a particular trait in one sample
 - $r$ is the desired number of samples with a particular trait
 - Predicts number of likelihood of getting $r$ samples of trait after $X+r$ samples
@@ -99,6 +106,7 @@ Assumes chances of an event happening in a short time is proportional to a large
 - $\lim\limits_{t\downarrow0}\frac{P(N_t>1)}{t}=0$ (Can't have two events at the same time)
 
 Given $x=0,1,2,...;\quad0\le\lambda$
+
 - $\lambda$ is the number of times on average an event will happen within an interval
 - Predicts number of times an event will happen within an interval
 - Approximates the Binomial Distribution
@@ -230,6 +238,7 @@ $MX^n=\begin{cases}\frac{\Gamma(\frac{n+1}{2})\Gamma(\frac{v-n}{2})}{\sqrt{\pi}\
 All values between $a$ and $b$ are evenly distributed and $x$ has equal chance of landing anywhere on that range.
 
 Given $a\le x\le b$
+
 - $a$ is the lower bound of the distribution
 - $b$ is the upper bound
 - All values between $a$ and $b$ are equally distributed
@@ -255,4 +264,4 @@ $EX^n=\beta^{n/\gamma}\Gamma(1+\frac{n}{\gamma})$
 > [!def]
 > **Exponential Family**
 > Any statistical distribution or family of distributions that can fit into the form:
-> $f(x|theta)=h(x)c(\theta)$
+> $f(x|theta)=h(x)c(\theta)\exp(\sum\limits_{i=1}^kw_i(\theta)t_i(x))$
