@@ -1,6 +1,6 @@
 ---
 date created: 2023-10-02 10:17
-date updated: 2023-11-15 21:15
+date updated: 2023-11-15 21:19
 ---
 
 # Discrete Distributions
