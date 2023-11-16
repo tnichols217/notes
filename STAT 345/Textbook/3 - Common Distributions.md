@@ -257,6 +257,12 @@ $\mu=\beta^{1/\gamma}\Gamma(1+\frac{1}{\gamma})$
 $\sigma^2=\beta^{2/\gamma}(\Gamma(1+\frac{2}{\gamma})-\Gamma^2(1+\frac{1}{\gamma}))$
 $EX^n=\beta^{n/\gamma}\Gamma(1+\frac{n}{\gamma})$
 
+# Multivariable Distributions
+
+## Multinomial Distribution
+
+
+
 # Families of Distributions
 
 ## Exponential Family
