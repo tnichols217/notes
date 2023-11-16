@@ -157,11 +157,12 @@ $\mu=\mu$
 $\sigma^2=2\sigma^2$
 $M(t)=\frac{e^{\mu t}}{1-(\sigma t)^2}$
 
-## Exponential $\beta$
+## Exponential $(\beta)$
 
 Given $0\le x<\infty;\quad \beta>0$
 
 $f(x)=\frac{e^{-x/\beta}}{\beta}$
+$F(x)=$
 $\mu=\beta$
 $\sigma^2=\beta^2$
 $M(t)=\frac{1}{1-\beta t}$
