@@ -1,6 +1,6 @@
 ---
 date created: 2023-10-02 10:17
-date updated: 2023-11-15 21:06
+date updated: 2023-11-15 21:13
 ---
 
 # Discrete Distributions
@@ -278,4 +278,5 @@ $\frac{1}{\sqrt{2\pi}\sigma}\exp\bigg(-\frac{\mu^2}{2\sigma^2}\bigg)\exp\bigg(-\
 
 > [!def]
 > **Location Scale Family**
-> 
+> Any statistical distribution or family of distributions that can fit into the form:
+> $g(x|\mu,\sigma)=\frac{1}{\sigma}f(\frac{x-\mu}{\sigma})$
