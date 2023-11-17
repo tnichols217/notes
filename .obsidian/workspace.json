@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "file": "ARTS 302/Standard Sizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "file": "ARTS 302/Standard Sizes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md"
+                "file": "ARTS 302/Standard Sizes.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "file": "ARTS 302/Standard Sizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +185,7 @@
   },
   "active": "87f138783564c592",
   "lastOpenFiles": [
+    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/3 - Common Distributions Small Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Small.svg",
     "CHEM 111/Overview.md",
@@ -201,7 +202,6 @@
     "CHEM 111",
     "STAT 345/Textbook/3 - Common Distributions Small.pdf",
     "STAT 345/Textbook/3.6 - Distribution Properties.md",
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "Chem 111/Exam 3 Equations.md",
     "ARTS 302/Standard Sizes.md",
     "up.codes.md",
@@ -221,7 +221,6 @@
     "MUTH 104/Assignments/6",
     "cwru",
     "MUTH 104/Assignments/5/A.pdf",
-    "MUTH 104/Assignments/5/5A.pdf",
     "ARTS 302/attachments/Pasted image 20231011210516.png",
     "ARTS 302/attachments/Pasted image 20231011210437.png",
     "ARTS 302/attachments/Pasted image 20231011210310.png",
