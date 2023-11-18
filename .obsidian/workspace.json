@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md",
+                "file": "CSDS 391/W/W4_tln32.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md",
+                "file": "CSDS 391/W/W4_tln32.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md"
+                "file": "CSDS 391/W/W4_tln32.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md",
+                "file": "CSDS 391/W/W4_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +185,9 @@
   },
   "active": "87f138783564c592",
   "lastOpenFiles": [
+    "CSDS 391/P/2.md",
+    "CSDS 391/P/1.md",
+    "ARTS 302/Standard Sizes.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/3 - Common Distributions Small Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Small.svg",
@@ -203,7 +206,6 @@
     "STAT 345/Textbook/3 - Common Distributions Small.pdf",
     "STAT 345/Textbook/3.6 - Distribution Properties.md",
     "Chem 111/Exam 3 Equations.md",
-    "ARTS 302/Standard Sizes.md",
     "up.codes.md",
     "Chem 111/8 - Kinetics and Rate Laws.md",
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
@@ -213,7 +215,6 @@
     "STAT 345/Homework/7.md",
     "STAT 345/Homework/8.md",
     "CSDS 391/W/W5_tln32.md",
-    "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "MATH 223/Quiz/7.pdf",
     "CSDS 391/W/W5_tln32.pdf",
     "STAT 345/Homework/8.pdf",
