@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "874a36c44bbb5c37",
+        "id": "b5e19890e3b29228",
         "type": "tabs",
         "children": [
           {
-            "id": "87f138783564c592",
+            "id": "2967919addd90632",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md",
+                "file": "CSDS 391/P/2.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "7d7e8f54e23a8dd0"
+            "group": "c3e62a1c78e50a5a"
           }
         ]
       },
       {
-        "id": "e8d8925930aac334",
+        "id": "d56400dd292f58c0",
         "type": "tabs",
         "children": [
           {
-            "id": "8c1fe7b11d6070d1",
+            "id": "72d045aad7f636e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md",
+                "file": "CSDS 391/P/2.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "7d7e8f54e23a8dd0"
+            "group": "c3e62a1c78e50a5a"
           }
         ]
       }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md"
+                "file": "CSDS 391/P/2.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md",
+                "file": "CSDS 391/P/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,13 +183,51 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "87f138783564c592",
+  "floating": {
+    "id": "27a599f2d4c72387",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a25fbd0314c46796",
+        "type": "window",
+        "children": [
+          {
+            "id": "9b4e8e20e5590873",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "87f138783564c592",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CSDS 391/W/W5_tln32.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 512,
+        "y": 72,
+        "width": 682,
+        "height": 920,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2967919addd90632",
   "lastOpenFiles": [
+    "CSDS 391/W/W5_tln32.md",
+    "CSDS 391/P/2.md",
     "CSDS 391/W/W1_tln32.md",
     "CSDS 391/W/W2_tln32.md",
     "CSDS 391/W/W3_tln32.md",
     "CSDS 391/W/W4_tln32.md",
-    "CSDS 391/P/2.md",
     "CSDS 391/P/1.md",
     "ARTS 302/Standard Sizes.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
@@ -214,7 +252,6 @@
     "Chem 111/8 - Kinetics and Rate Laws.md",
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
-    "STAT 345/Textbook/4.4 - Hierarchical Models and Mixture Distributions.md",
     "MATH 223/Quiz/7.pdf",
     "CSDS 391/W/W5_tln32.pdf",
     "STAT 345/Homework/8.pdf",
