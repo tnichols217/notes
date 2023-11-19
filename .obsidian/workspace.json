@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/15.2.md",
+                "file": "CSDS 391/W/W5_tln32.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/15.2.md",
+                "file": "CSDS 391/W/W5_tln32.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -99,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/15.2.md"
+                "file": "CSDS 391/W/W5_tln32.md"
               }
             }
           }
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/15.2.md",
+                "file": "CSDS 391/W/W5_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,9 +186,13 @@
   },
   "active": "2967919addd90632",
   "lastOpenFiles": [
+    "MATH 223/Textbook/12.1 - Vector Operations.md",
+    "MATH 223/Practice Problems/12.1.md",
+    "MATH 223/Quiz/7.md",
+    "STAT 345/Homework/7.md",
+    "MATH 223/Practice Problems/15.2.md",
     "MATH 223/Practice Problems/15.3.md",
     "MATH 223/Practice Problems/15.1.md",
-    "MATH 223/Practice Problems/15.2.md",
     "MATH 223/Practice Problems/14.8.md",
     "MATH 223/Quiz/8.md",
     "MATH 223/Quiz/8.pdf",
@@ -210,12 +215,8 @@
     "CHEM 111/6 - Stoichiometry.md",
     "CHEM 111/5 - Empirical Analysis.md",
     "CHEM 111/4 - Molecules.md",
-    "CHEM 111/3 - Compounds.md",
-    "CHEM 111/2 - Units.md",
-    "CHEM 111/1 - Intro.md",
     "CHEM 111",
     "STAT 345/Textbook/3 - Common Distributions Small.pdf",
-    "STAT 345/Textbook/3.6 - Distribution Properties.md",
     "MATH 223/Quiz/7.pdf",
     "CSDS 391/W/W5_tln32.pdf",
     "STAT 345/Homework/8.pdf",
