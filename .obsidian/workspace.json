@@ -183,43 +183,6 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "27a599f2d4c72387",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a25fbd0314c46796",
-        "type": "window",
-        "children": [
-          {
-            "id": "9b4e8e20e5590873",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "87f138783564c592",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CSDS 391/W/W5_tln32.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 512,
-        "y": 72,
-        "width": 682,
-        "height": 920,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "2967919addd90632",
   "lastOpenFiles": [
     "CSDS 391/W/W5_tln32.md",
