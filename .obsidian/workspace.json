@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md",
+                "file": "CSDS 391/P/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md",
+                "file": "CSDS 391/P/2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md"
+                "file": "CSDS 391/P/2.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W5_tln32.md",
+                "file": "CSDS 391/P/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +185,7 @@
   },
   "active": "2967919addd90632",
   "lastOpenFiles": [
+    "CSDS 391/W/W5_tln32.md",
     "MATH 223/Practice Problems/8 - Problem Set 8.md",
     "MATH 223/Practice Problems/8 - Problem Set 8.pdf",
     "MATH 223/Practice Problems/15.3.md",
@@ -196,7 +197,6 @@
     "MATH 223/Quiz/7.md",
     "MATH 223/Practice Problems/12.1.md",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
-    "CSDS 391/W/W5_tln32.md",
     "MATH 223/Practice Problems/14.8.md",
     "MATH 223/Quiz/8.md",
     "MATH 223/Quiz/8.pdf",
