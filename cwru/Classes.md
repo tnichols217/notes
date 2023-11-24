@@ -30,6 +30,8 @@ date created: 2023-11-06 10:38
 
 ## CS (BS)
 
+### Core
+
 [Source](https://bulletin.case.edu/engineering/computer-data-sciences/computer-science-bs/#programrequirementstext)
 
 1. CSDS 132
@@ -38,6 +40,18 @@ date created: 2023-11-06 10:38
 4. CSDS 302
 5. CSDS 310
 6. CSDS 395
+
+### Breadth
+
+#### 1
+
+2 of
+1. CSDS 341
+2. CSDS 356
+3. CSDS 390
+4. CSDS 393
+
+###
 
 ## Music (minor)
 
