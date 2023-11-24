@@ -78,8 +78,8 @@ date created: 2023-11-06 10:38
 ### Secure Computing
 
 1 of
-1. CSDS 344
-2. CSDS 356
+1. CSDS 344 (Breadth 3)
+2. CSDS 356 (Breadth 1)
 3. CSDS 427
 4. CSDS 444
 5. CSDS 448
