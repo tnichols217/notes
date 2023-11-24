@@ -97,7 +97,15 @@ date created: 2023-11-06 10:38
 8. PHYS 121
 9. PHYS 122
 
+### Stats
 
+1. MATH 380
+2. OPRE 207
+3. STAT 312
+4. STAT 312R
+5. STAT 313
+6. STAT 332
+7. STAT 333
 
 ## Music (minor)
 
