@@ -185,6 +185,19 @@ date created: 2023-11-06 10:38
 
 ### Core
 
+1. ECSE 132
+2. ECSE 233
+3. ECSE 281
+4. ECSE 301
+5. ECSE 302
+6. ECSE 303
+7. ECSE 314
+8. ECSE 315
+9. ECSE 318
+10. ENGR 210
+
+### Math
+
 1. MATH 121
 2. MATH 122 / MATH 124
 3. MATH 223 / MATH 227
@@ -197,6 +210,8 @@ date created: 2023-11-06 10:38
 10. ENGR 200 / ENGR 225
 11. ENGR 210
 12. ENGR 399
+
+### Stats
 
 ## Music (minor)
 
