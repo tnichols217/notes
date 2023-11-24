@@ -97,10 +97,10 @@ date created: 2023-11-06 10:38
 7. 〰 CSDS 313
 8. 〰 CSDS 341
 9. CSDS 344 / CSDS 356
-10. CSDS 398
-11. CSDS 380 **(can possibly get from STAT 345)**
-12. STAT 243 / STAT 312
-13. STAT 244 / STAT 325
+10. 〰 CSDS 398
+11. MATH 380 **(can possibly get from STAT 345)**
+12. 〰 STAT 243 / STAT 312
+13. 〰 STAT 244 / STAT 325
 
 ### Math
 

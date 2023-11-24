@@ -15,4 +15,7 @@
 | CSDS 312            | CS Systems            | DS/cs       |
 | CSDS 313            | Data Analysis         | DS/cs       |
 | CSDS 341            | Database Systems      | DS/cs       |
-| CSDS 398            | Senior Project DS     | DS            |
+| CSDS 398            | Senior Project DS     | DS          |
+| STAT 243 / STAT 312 |                       | DS          |
+| STAT 244 / STAT 325 |                       | DS          |
+|                     |                       |             |
