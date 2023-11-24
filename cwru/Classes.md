@@ -219,7 +219,13 @@ date created: 2023-11-06 10:38
 3. STAT 332
 4. STAT 333
 
+### Design
 
+1. ECSE 398
+
+### Additional
+
+1. ECSE 395
 
 ## Music (minor)
 
