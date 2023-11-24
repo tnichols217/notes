@@ -241,7 +241,17 @@ date created: 2023-11-06 10:38
 
 ### Math
 
-1. 
+1. MATH 121
+2. MATH 122 / MATH 124
+3. MATH 223 / MATH 227
+4. MATH 224 / MATH 228
+5. PHYS 121 / PHYS 123
+6. PHYS 122 / PHYS 124
+7. CHEM 111
+8. ENGR 130
+9. ENGR 145
+10. ENGR 200
+11. 
 
 ## Music (minor)
 
