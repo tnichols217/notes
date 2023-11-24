@@ -258,7 +258,22 @@ date created: 2023-11-06 10:38
 
 1. STAT 332
 
+### Design
 
+1. ECSE 395
+2. ECSE 398
+
+### Electives
+
+### Depth
+
+3 of one of the groups
+
+#### Signals & Control
+
+1. ECSE 304
+2. ECSE 313
+3. ECSE 316
 
 ## Music (minor)
 
