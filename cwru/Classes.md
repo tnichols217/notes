@@ -307,7 +307,28 @@ date created: 2023-11-06 10:38
 5. ECSE 426
 6. EBME 310
 
-#### Computer Hard
+#### Computer Hardware
+
+1. ECSE 281
+2. ECSE 303
+3. ECSE 314
+4. ECSE 315
+5. ECSE 317
+6. ECSE 318
+
+#### Biomedial Applications
+
+1. EBME 201
+2. EBME 310
+3. EBME 320
+4. EBME 327
+5. EBME 401D
+
+#### Robotics
+
+1. ECSE 246
+2. ECSE 275
+3. E
 
 ## Music (minor)
 
