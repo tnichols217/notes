@@ -30,6 +30,8 @@ date created: 2023-11-06 10:38
 
 ## CS (BS)
 
+20 courses, 63 hours including
+
 ### Core
 
 [Source](https://bulletin.case.edu/engineering/computer-data-sciences/computer-science-bs/#programrequirementstext)
