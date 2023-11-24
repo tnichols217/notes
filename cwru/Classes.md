@@ -72,7 +72,19 @@ date created: 2023-11-06 10:38
 2 of
 1. CSDS 313
 2. CSDS 335
-3. C
+3. CSDS 340
+4. CSDS 391
+
+### Secure Computing
+
+1 of
+1. CSDS 344
+2. CSDS 356
+3. CSDS 427
+4. CSDS 444
+5. CSDS 448
+6. MATH 408
+
 
 ## Music (minor)
 
