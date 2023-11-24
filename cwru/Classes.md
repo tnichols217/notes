@@ -328,7 +328,15 @@ date created: 2023-11-06 10:38
 
 1. ECSE 246
 2. ECSE 275
-3. E
+3. ECSE 304
+4. ECSE 373 / 473
+5. ECSE 376 / ECSE 476
+6. ECSE 484
+7. ECSE 489
+
+## Architecture
+
+1. 
 
 ## Music (minor)
 
