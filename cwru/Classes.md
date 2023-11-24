@@ -159,6 +159,13 @@ date created: 2023-11-06 10:38
 14. CSDS 335 / CSDS 435
 15. CSDS 477
 16. MATH 201 / MATH 307
+17. MATH 327
+18. ECSE 246
+19. ECSE 313
+20. ECSE 346
+21. ECSE 416
+
+### Applicat
 
 ## Music (minor)
 
