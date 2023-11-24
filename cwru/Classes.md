@@ -181,7 +181,7 @@ date created: 2023-11-06 10:38
 11. MPHP 301 (3)
 12. MPHP 426 (3)
 
-## Computer Engineering
+## Computer Engineering (BS)
 
 ### Core
 
@@ -226,6 +226,22 @@ date created: 2023-11-06 10:38
 ### Additional
 
 1. ECSE 395
+
+## Electrical Engineering (BS)
+
+### Core
+
+1. ECSE 132
+2. ECSE 245
+3. ECSE 246
+4. ECSE 281
+5. ECSE 309
+6. ECSE 313
+7. ECSE 321
+
+### Math
+
+1. 
 
 ## Music (minor)
 
