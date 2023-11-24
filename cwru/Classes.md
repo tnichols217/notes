@@ -254,6 +254,12 @@ date created: 2023-11-06 10:38
 11. ENGR 210
 12. ENGR 399
 
+### Stats
+
+1. STAT 332
+
+
+
 ## Music (minor)
 
 1. 6 units MUTH
