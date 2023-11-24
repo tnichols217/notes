@@ -213,6 +213,14 @@ date created: 2023-11-06 10:38
 
 ### Stats
 
+1 of
+1. STAT 312
+2. STAT 313
+3. STAT 332
+4. STAT 333
+
+
+
 ## Music (minor)
 
 1. 6 units MUTH
