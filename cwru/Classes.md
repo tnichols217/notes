@@ -344,7 +344,19 @@ date created: 2023-11-06 10:38
 
 2 of
 1. ARTS 101
-2. ARTS 
+2. ARTS 201
+3. ARTS 206
+4. ARTS 220
+5. THTR 223
+6. THTR 224
+
+1 of
+1. MATH 125
+2. MATH 126
+3. PHYS 115
+4. PHYS 116
+5. PHYS 121
+6. PHYS 122
 
 ## Music (minor)
 
