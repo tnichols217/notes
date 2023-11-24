@@ -96,7 +96,7 @@ date created: 2023-11-06 10:38
 6. 〰 CSDS 312
 7. 〰 CSDS 313
 8. 〰 CSDS 341
-9. CSDS 344 / CSDS 356
+9. CSDS 344 / CSDS 356 **(CS secure computing requirement)**
 10. 〰 CSDS 398
 11. MATH 380 **(can possibly get from STAT 345)**
 12. 〰 STAT 243 / STAT 312
