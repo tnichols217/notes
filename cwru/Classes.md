@@ -350,8 +350,8 @@ date created: 2023-11-06 10:38
 6. THTR 224
 
 1 of
-1. MATH 125 (calc 1)
-2. MATH 126 (calc 2)
+1. MATH 125 (✅ calc 1)
+2. MATH 126 (✅ calc 2)
 3. PHYS 115
 4. PHYS 116
 5. PHYS 121
@@ -359,7 +359,9 @@ date created: 2023-11-06 10:38
 
 ## Music (minor)
 
-1. 6 units MUTH
+1. ✅ 6 units MUTH
+	1. ✅ MUTH 103
+	2. ✅ MUTH 104
 2. 6 units MUHI/MUGN
 3. 3 units MUAP/MUEN
 
