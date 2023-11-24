@@ -250,8 +250,9 @@ date created: 2023-11-06 10:38
 7. CHEM 111
 8. ENGR 130
 9. ENGR 145
-10. ENGR 200
-11. 
+10. ENGR 200 / ENGR 225
+11. ENGR 210
+12. ENGR 399
 
 ## Music (minor)
 
