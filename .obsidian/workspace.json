@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Finished.md",
+                "file": "cwru/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "cwru/Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Classes.md"
+                "file": "cwru/Plan.md"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "cwru/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,8 +220,9 @@
   },
   "active": "72d045aad7f636e3",
   "lastOpenFiles": [
-    "cwru/Finished.md",
     "cwru/Classes.md",
+    "cwru/Plan.md",
+    "cwru/Finished.md",
     "CSDS 391/P/2.md",
     "CSDS 391/P/2.zip",
     "CSDS 391/P/2.zip.x3sybi.part",
@@ -262,7 +263,6 @@
     "CHEM 111/Overview.md",
     "CHEM 111/Exam 3 Equations.md",
     "CHEM 111/Atomic Theory.md",
-    "CHEM 111/8 - Kinetics and Rate Laws.md",
     "CHEM 111",
     "STAT 345/Textbook/3 - Common Distributions Small.pdf",
     "ARTS 302/attachments/Pasted image 20231011210516.png",

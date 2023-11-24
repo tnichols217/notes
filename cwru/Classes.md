@@ -1,31 +1,6 @@
 ---
 date created: 2023-11-06 10:38
 ---
-
-# AP Credit
-
-1. ARTS 100-TR
-2. ARTS 201
-3. ARTS 210
-4. ARTS 214
-5. BIOL 200-TR
-6. BIOL 114
-7. CSDS 132
-8. MATH 121
-9. MATH 122
-10. MUTH 103
-11. PHYS 115
-12. STAT 201
-
-# Sem 1
-
-1. MATH 223
-2. CHEM 111
-3. MUTH 104
-4. CSDS 391
-5. STAT 345
-6. ARTS 302
-
 # Needed
 
 ## CS (BS)
