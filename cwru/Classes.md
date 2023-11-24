@@ -140,6 +140,16 @@ date created: 2023-11-06 10:38
 9. PHYS 121 / PHYS 123
 10. PHYS 122 / PHYS 124
 
+### Foundations
+
+3 of
+1. CSDS 293
+2. CSDS 338
+3. CSDS 344
+4. CSDS 356
+5. CSDS 393
+6. CSDS
+
 ## Music (minor)
 
 1. 6 units MUTH
