@@ -18,5 +18,6 @@
 | CSDS 398            | Senior Project DS          | DS          |
 | STAT 243 / STAT 312 |                            | DS          |
 | STAT 244 / STAT 325 |                            | DS          |
-| ENGR 130            | Foundations of Engineering | CE/EE          |
+| ENGR 130            | Foundations of Engineering | CE/EE       |
+| ENGR 145            | Chemistry of Materials     | CE/EE       |
 |                     |                            |             |
