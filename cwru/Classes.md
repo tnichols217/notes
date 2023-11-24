@@ -165,7 +165,18 @@ date created: 2023-11-06 10:38
 20. ECSE 346
 21. ECSE 416
 
-### Applicat
+### Applications
+
+6 credits of
+1. BIOL 319 (3)
+2. BIOL 311A (1)
+3. BIOL 311B (1)
+4. BIOL 311C (1)
+5. DSCI 331 (3)
+6. ECON 326 (4)
+7. ECON 327 (3)
+8. CSDS 458 (3)
+9. CSDS 45
 
 ## Music (minor)
 
