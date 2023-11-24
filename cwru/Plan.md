@@ -12,4 +12,6 @@
 | MATH 224 / MATH 228 | Diff Eq.              | DS          |
 | CSDS 133            | Intro DS              | DS          |
 | CSDS 234            | Structured Data       | DS          |
-| CSDS 312            |                       |             |
+| CSDS 312            | CS Systems            | DS          |
+| CSDS 313            | Data Analysis         | DS          |
+| CSDS 341            | Database Systems      | DS            |
