@@ -112,7 +112,7 @@ date created: 2023-11-06 10:38
 
 ## Data Science (BS)
 
-
+### Ma
 
 ## Music (minor)
 
