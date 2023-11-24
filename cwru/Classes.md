@@ -36,7 +36,7 @@ date created: 2023-11-06 10:38
 
 [Source](https://bulletin.case.edu/engineering/computer-data-sciences/computer-science-bs/#programrequirementstext)
 
-1. CSDS 132
+1. ✅ CSDS 132
 2. CSDS 233
 3. CSDS 281
 4. CSDS 302
@@ -75,7 +75,7 @@ date created: 2023-11-06 10:38
 1. CSDS 313
 2. CSDS 335
 3. CSDS 340
-4. CSDS 391
+4. ✅ CSDS 391
 
 ### Secure Computing
 
