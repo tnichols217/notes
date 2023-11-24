@@ -274,6 +274,21 @@ date created: 2023-11-06 10:38
 1. ECSE 304
 2. ECSE 313
 3. ECSE 316
+4. ECSE 351
+5. ECSE 354
+6. ECSE 374
+7. ECSE 375
+8. MATH 307
+
+#### Computer Software
+
+1. ECSE 233
+2. ECSE 302
+3. ECSE 338
+4. ECSE 373 / ECSE 473
+5. CSDS 293
+6. CSDS 310
+7. CSDS
 
 ## Music (minor)
 
