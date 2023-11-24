@@ -94,15 +94,14 @@ date created: 2023-11-06 10:38
 3. ✅ MATH 121
 4. ✅ MATH 122 / MATH 124
 5. MATH 201 / MATH 307
-6. ✅ MATH 223
-7. MATH 227
-8. PHYS 121
-9. PHYS 122
+6. ✅ MATH 223 / MATH 227
+7. PHYS 121
+8. PHYS 122
 
 ### Stats
 
 1 of
-1. MATH 380
+1. MATH 380 **(can possibly get from STAT 345)**
 2. OPRE 207
 3. STAT 312
 4. STAT 312R
