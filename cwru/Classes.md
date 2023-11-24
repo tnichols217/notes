@@ -87,7 +87,7 @@ date created: 2023-11-06 10:38
 5. CSDS 448
 6. MATH 408
 
-### Math
+### Math (does not count towards 20)
 
 1. 🛑 CHEM 111
 2. ENGR 399
@@ -98,7 +98,7 @@ date created: 2023-11-06 10:38
 7. PHYS 121
 8. PHYS 122
 
-### Stats
+### Stats (does not count towards 20)
 
 1 of
 1. MATH 380 **(can possibly get from STAT 345)**
