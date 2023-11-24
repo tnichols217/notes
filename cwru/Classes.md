@@ -23,7 +23,7 @@ date created: 2023-11-06 10:38
 #### 1
 
 2 of
-1. CSDS 341
+1. 〰 CSDS 341
 2. CSDS 356
 3. CSDS 390
 4. CSDS 393
@@ -95,7 +95,7 @@ date created: 2023-11-06 10:38
 5. 〰 CSDS 310
 6. 〰 CSDS 312
 7. 〰 CSDS 313
-8. CSDS 341
+8. 〰 CSDS 341
 9. CSDS 344 / CSDS 356
 10. CSDS 398
 11. CSDS 380 **(can possibly get from STAT 345)**
