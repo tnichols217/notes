@@ -181,6 +181,14 @@ date created: 2023-11-06 10:38
 11. MPHP 301 (3)
 12. MPHP 426 (3)
 
+## Computer Engineering
+
+### Core
+
+1. MATH 121
+2. MATH 122 / MATH 124
+3. MATH 
+
 ## Music (minor)
 
 1. 6 units MUTH
