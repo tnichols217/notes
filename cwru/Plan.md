@@ -2,6 +2,7 @@
 | -------- | --------------- | --------- |
 | CSDS 233 | Data Structures | CS        |
 | CSDS 281 | Logic Design    | CS        |
-| CSDS 302 | Discrete Math   |           |
-| CSDS 310 | Algorithms      |           |
-| CSDS 395 | Senior Projects |           |
+| CSDS 302 | Discrete Math   | CS        |
+| CSDS 310 | Algorithms      | CS        |
+| CSDS 395 | Senior Projects | CS        |
+| ENGR 399 | Impact of E                |           |
