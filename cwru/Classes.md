@@ -110,6 +110,10 @@ date created: 2023-11-06 10:38
 6. STAT 332
 7. STAT 333
 
+## Data Science (BS)
+
+
+
 ## Music (minor)
 
 1. 6 units MUTH
