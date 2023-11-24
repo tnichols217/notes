@@ -88,9 +88,9 @@ date created: 2023-11-06 10:38
 
 ### Core
 
-1. CSDS 133
+1. 〰 CSDS 133
 2. 〰 CSDS 233
-3. CSDS 234
+3. 〰 CSDS 234
 4. 〰 CSDS 302
 5. 〰 CSDS 310
 6. CSDS 312

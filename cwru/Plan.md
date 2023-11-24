@@ -10,5 +10,6 @@
 | PHYS 121            | Physics 1             | CS/DS/CE/EE |
 | PHYS 122            | Physics 2             | CS/DS/CE/EE |
 | MATH 224 / MATH 228 | Diff Eq.              | DS          |
-| CSDS 133            | Intro DS              |             |
-|                     |                       |             |
+| CSDS 133            | Intro DS              | DS          |
+| CSDS 234            | Structured Data       | DS          |
+| CSDS 312            |                       |             |
