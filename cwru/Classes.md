@@ -51,7 +51,28 @@ date created: 2023-11-06 10:38
 3. CSDS 390
 4. CSDS 393
 
-###
+#### 2
+
+2 of
+1. CSDS 312
+2. CSDS 314
+3. CSDS 325
+4. CSDS 338
+
+#### 3
+
+2 of
+1. CSDS 337
+2. CSDS 343
+3. CSDS 344
+4. CSDS 345
+
+#### 4
+
+2 of
+1. CSDS 313
+2. CSDS 335
+3. C
 
 ## Music (minor)
 
