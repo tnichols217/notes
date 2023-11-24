@@ -288,7 +288,26 @@ date created: 2023-11-06 10:38
 4. ECSE 373 / ECSE 473
 5. CSDS 293
 6. CSDS 310
-7. CSDS
+7. CSDS 391
+8. CSDS 393
+
+#### Solid State
+
+1. ECSE 321
+2. ECSE 322 / ECSE 415
+3. ECSE 422
+4. PHYS 221
+
+#### Circuits
+
+1. ECSE 245
+2. ECSE 326
+3. ECSE 344
+4. ECSE 371
+5. ECSE 426
+6. EBME 310
+
+#### Computer Hard
 
 ## Music (minor)
 
