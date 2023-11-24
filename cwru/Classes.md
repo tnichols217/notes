@@ -176,7 +176,10 @@ date created: 2023-11-06 10:38
 6. ECON 326 (4)
 7. ECON 327 (3)
 8. CSDS 458 (3)
-9. CSDS 45
+9. CSDS 459 (3)
+10. MKMR 310 (3)
+11. MPHP 301 (3)
+12. MPHP 426 (3)
 
 ## Music (minor)
 
