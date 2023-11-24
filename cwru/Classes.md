@@ -65,7 +65,7 @@ date created: 2023-11-06 10:38
 ### Math (does not count towards 20)
 
 1. 🛑 CHEM 111
-2. ENGR 399
+2. 〰 ENGR 399
 3. ✅ MATH 121
 4. ✅ MATH 122 / MATH 124
 5. MATH 201 / MATH 307
@@ -106,7 +106,7 @@ date created: 2023-11-06 10:38
 
 1. 🛑 CHEM 111
 2. ✅ CSDS 132
-3. ENGR 399
+3. 〰 ENGR 399
 4. ✅ MATH 121
 5. ✅ MATH 122 / MATH 124
 7. ✅ MATH 223 / MATH 227
@@ -183,7 +183,7 @@ date created: 2023-11-06 10:38
 9. ENGR 145
 10. ENGR 200 / ENGR 225
 11. ENGR 210
-12. ENGR 399
+12. 〰 ENGR 399
 
 ### Stats
 
@@ -226,7 +226,7 @@ date created: 2023-11-06 10:38
 9. ENGR 145
 10. ENGR 200 / ENGR 225
 11. ENGR 210
-12. ENGR 399
+12. 〰 ENGR 399
 
 ### Stats
 
