@@ -7,4 +7,5 @@
 | CSDS 395            | Senior Projects       | CS        |
 | ENGR 399            | Impact of Engineering | CS        |
 | MATH 201 / MATH 307 | Linear Algebra        | CS        |
-|                     |                       |           |
+| PHYS 121            | Physics 1             | CS        |
+| PHYS 122            | Physics 2             | CS        |
