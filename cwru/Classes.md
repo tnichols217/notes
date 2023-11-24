@@ -85,6 +85,19 @@ date created: 2023-11-06 10:38
 5. CSDS 448
 6. MATH 408
 
+### Math
+
+1. CHEM 111
+2. ENGR 399
+3. MATH 121
+4. MATH 122 / MATH 124
+5. MATH 201 / MATH 307
+6. MATH 223
+7. MATH 227
+8. PHYS 121
+9. PHYS 122
+
+
 
 ## Music (minor)
 
