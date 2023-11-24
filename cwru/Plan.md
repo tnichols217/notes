@@ -20,4 +20,5 @@
 | STAT 244 / STAT 325 |                            | DS          |
 | ENGR 130            | Foundations of Engineering | CE/EE       |
 | ENGR 145            | Chemistry of Materials     | CE/EE       |
-|                     |                            |             |
+| ENGR 200 / ENGR 225 | Statics / Thermo           | CE/EE       |
+| ENGR 210            | Circuits                   | CE/EE       | 
