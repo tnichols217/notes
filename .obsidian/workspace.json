@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/P/2.md",
+                "file": "cwru/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/P/2.md",
+                "file": "cwru/Classes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/P/2.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/P/2.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,11 +222,11 @@
   },
   "active": "2967919addd90632",
   "lastOpenFiles": [
+    "CSDS 391/P/2.md",
     "CSDS 391/P/2.zip",
     "CSDS 391/P/2.zip.x3sybi.part",
     "CSDS 391/P/2/2.pdf.part",
     "CSDS 391/P/2-2e-Sample output.md",
-    "CSDS 391/P/2.md",
     "CSDS 391/P/attachments/Pasted image 20231121002632.png",
     "CSDS 391/P/attachments/Pasted image 20231121001632.png",
     "CSDS 391/P/attachments/Pasted image 20231121001400.png",
@@ -266,7 +266,6 @@
     "CHEM 111/7 - Solubility.md",
     "CHEM 111",
     "STAT 345/Textbook/3 - Common Distributions Small.pdf",
-    "MATH 223/Quiz/7.pdf",
     "ARTS 302/attachments/Pasted image 20231011210516.png",
     "CSDS 391/W/W3.canvas",
     "STAT 345/Textbook/Untitled.canvas",
