@@ -12,7 +12,7 @@ date created: 2023-11-06 10:38
 [Source](https://bulletin.case.edu/engineering/computer-data-sciences/computer-science-bs/#programrequirementstext)
 
 1. ✅ CSDS 132
-2. CSDS 233
+2. :mCSDS 233
 3. CSDS 281
 4. CSDS 302
 5. CSDS 310
