@@ -181,11 +181,48 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
+  "floating": {
+    "id": "7f3d3c47077417de",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4e339c012166c4b3",
+        "type": "window",
+        "children": [
+          {
+            "id": "8acb45e60c9a99f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7aa45a83a07af409",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "cwru/Finished.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 340,
+        "y": 132,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "2967919addd90632",
   "lastOpenFiles": [
+    "cwru/Finished.md",
     "cwru/Classes.md",
     "cwru/Plan.md",
-    "cwru/Finished.md",
     "CSDS 391/P/2.md",
     "CSDS 391/P/2.zip",
     "CSDS 391/P/2.zip.x3sybi.part",
