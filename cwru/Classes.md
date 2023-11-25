@@ -313,7 +313,7 @@ date created: 2023-11-06 10:38
 1. ARTH 101
 2. ARTH 102
 3. ARTS 106
-4. ARTS 302
+4. 🛑 ARTS 302
 5. ARTS 303
 
 2 of
