@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -185,8 +186,9 @@
   },
   "active": "2967919addd90632",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/15.6.md",
+    "MATH 223/Practice Problems/15.2.md",
     "MATH 223/Practice Problems/15.4.md",
+    "MATH 223/Practice Problems/15.6.md",
     "MATH 223/Practice Problems/15.3.md",
     "cwru/Classes.md",
     "cwru/Finished.md",
@@ -210,7 +212,6 @@
     "MATH 223/Practice Problems/attachments/Pasted image 20231119211656.png",
     "MATH 223/Practice Problems/attachments",
     "MATH 223/Practice Problems/15.1.md",
-    "MATH 223/Practice Problems/15.2.md",
     "STAT 345/Homework/7.md",
     "MATH 223/Quiz/7.md",
     "MATH 223/Practice Problems/12.1.md",
