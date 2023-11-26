@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -185,9 +186,9 @@
   },
   "active": "2967919addd90632",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/15.6.md",
-    "MATH 223/Practice Problems/15.4.md",
     "MATH 223/Practice Problems/15.2.md",
+    "MATH 223/Practice Problems/15.4.md",
+    "MATH 223/Practice Problems/15.6.md",
     "MATH 223/Practice Problems/15.3.md",
     "cwru/Classes.md",
     "cwru/Finished.md",
