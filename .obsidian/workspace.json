@@ -13,29 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "MATH 223/Practice Problems/15.4.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "f6980b7ff404bc8b"
           }
         ]
       },
       {
-        "id": "d56400dd292f58c0",
+        "id": "860ff65dd0d25b1c",
         "type": "tabs",
         "children": [
           {
-            "id": "72d045aad7f636e3",
+            "id": "8bc8b6d4af94fcc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Plan.md",
-                "mode": "source",
+                "file": "MATH 223/Practice Problems/15.4.md",
+                "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "f6980b7ff404bc8b"
           }
         ]
       }
@@ -97,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Classes.md"
+                "file": "MATH 223/Practice Problems/15.4.md"
               }
             }
           }
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "MATH 223/Practice Problems/15.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,8 +185,11 @@
   },
   "active": "2967919addd90632",
   "lastOpenFiles": [
-    "cwru/Finished.md",
+    "MATH 223/Practice Problems/15.6.md",
+    "MATH 223/Practice Problems/15.4.md",
+    "MATH 223/Practice Problems/15.3.md",
     "cwru/Classes.md",
+    "cwru/Finished.md",
     "cwru/Plan.md",
     "CSDS 391/P/2.md",
     "CSDS 391/P/2.zip",
@@ -202,7 +207,6 @@
     "CSDS 391/W/W5_tln32.md",
     "MATH 223/Practice Problems/8 - Problem Set 8.md",
     "MATH 223/Practice Problems/8 - Problem Set 8.pdf",
-    "MATH 223/Practice Problems/15.3.md",
     "MATH 223/Practice Problems/attachments/Pasted image 20231119211656.png",
     "MATH 223/Practice Problems/attachments",
     "MATH 223/Practice Problems/15.1.md",
@@ -224,8 +228,6 @@
     "STAT 345/Textbook/3 - Common Distributions Small Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Small.svg",
     "CHEM 111/Overview.md",
-    "CHEM 111/Exam 3 Equations.md",
-    "CHEM 111/Atomic Theory.md",
     "CHEM 111",
     "STAT 345/Textbook/3 - Common Distributions Small.pdf",
     "ARTS 302/attachments/Pasted image 20231011210516.png",
