@@ -1,21 +1,8 @@
-```molecule
-water
-```
-```molecule
-D-Glucose
-```
-```molecule
-sucrose
-```
-```molecule
-methane
-```
-```molecule
-meth
-```
-```molecule
-sulfate
-```
-```molecule3d
-peroxide, dibenzoyl
+```function-plot
+data:
+	- fn: x
+xAxis:
+	limits:
+		- 0
+		- 1
 ```

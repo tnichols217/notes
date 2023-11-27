@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-molecules.md",
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-molecules.md",
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -99,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-molecules.md"
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md"
               }
             }
           }
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-molecules.md",
+                "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +186,8 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
-    "obsidian-columns.md",
     "obsidian-molecules.md",
+    "obsidian-columns.md",
     "MATH 223/Practice Problems/9 - Problem Set 9.md",
     "MATH 223/Practice Problems/9 - Problem Set 9.pdf",
     "MATH 223/Practice Problems/15.6.md",
