@@ -156,7 +156,8 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
             let img = el.createEl("img");
             img.src = "https://pubchem.ncbi.nlm.nih.gov/image/imagefly.cgi?cid=" + CID + `&width=${this.settings.imageSize.value.toString()}&height=${this.settings.imageSize.value.toString()}`;
           }
-        }).catch(console.error);
+        }).catch((_) => {
+        });
       }));
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK3D, (src, el, ctx) => __async(this, null, function* () {
         this.getMolecule(src).then((value) => {
@@ -176,7 +177,8 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
             iframe.style.top = "0";
             iframe.style.border = "0";
           }
-        }).catch(console.error);
+        }).catch((_) => {
+        });
       }));
     });
   }
