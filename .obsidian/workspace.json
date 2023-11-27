@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-columns.md",
+                "file": "cwru/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-columns.md",
+                "file": "cwru/Classes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-columns.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-columns.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,11 +185,12 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
+    "cwru/Plan.md",
+    "obsidian-columns.md",
     "obsidian-molecules.md",
     "MATH 223/Practice Problems/15.6.md",
     "CSDS 391/W/W5_tln32.md",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
-    "obsidian-columns.md",
     "MATH 223/Practice Problems/9 - Problem Set 9.md",
     "MATH 223/Practice Problems/9 - Problem Set 9.pdf",
     "MATH 223/Practice Problems/15.4.md",
@@ -197,7 +198,6 @@
     "MATH 223/Practice Problems/15.3.md",
     "cwru/Classes.md",
     "cwru/Finished.md",
-    "cwru/Plan.md",
     "CSDS 391/P/2.md",
     "CSDS 391/P/2.zip",
     "CSDS 391/P/2.zip.x3sybi.part",
