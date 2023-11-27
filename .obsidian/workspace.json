@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/15.6.md",
+                "file": "MATH 223/Practice Problems/9 - Problem Set 9.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/15.6.md",
+                "file": "MATH 223/Practice Problems/9 - Problem Set 9.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28c69e3aca2b1263",
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/15.6.md"
+                "file": "MATH 223/Practice Problems/9 - Problem Set 9.md"
               }
             }
           }
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/15.6.md",
+                "file": "MATH 223/Practice Problems/9 - Problem Set 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,8 +185,10 @@
   },
   "active": "2967919addd90632",
   "lastOpenFiles": [
-    "MATH 223/Practice Problems/15.4.md",
+    "MATH 223/Practice Problems/9 - Problem Set 9.pdf",
     "MATH 223/Practice Problems/15.6.md",
+    "MATH 223/Practice Problems/9 - Problem Set 9.md",
+    "MATH 223/Practice Problems/15.4.md",
     "MATH 223/Practice Problems/15.2.md",
     "MATH 223/Practice Problems/15.3.md",
     "cwru/Classes.md",
@@ -225,10 +226,8 @@
     "CSDS 391/W/W4_tln32.md",
     "CSDS 391/P/1.md",
     "ARTS 302/Standard Sizes.md",
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/3 - Common Distributions Small Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Small.svg",
-    "CHEM 111/Overview.md",
     "CHEM 111",
     "STAT 345/Textbook/3 - Common Distributions Small.pdf",
     "ARTS 302/attachments/Pasted image 20231011210516.png",
