@@ -16,6 +16,6 @@ meth
 ```molecule
 sulfate
 ```
-```molecule
-peroxid
+```molecule3d
+peroxide, dibenzoyl
 ```
