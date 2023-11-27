@@ -129,18 +129,21 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
   }
   moleculeNotFound(src, el) {
     return __async(this, null, function* () {
-      var _a, _b;
       let heading = el.createEl("h1");
       heading.innerText = "Chemical Not found";
       heading = el.createEl("h2");
       heading.innerText = "Similar Chemicals include:";
-      let suggestions = (_b = (_a = JSON.parse(yield (0, import_obsidian2.request)({ url: "https://pubchem.ncbi.nlm.nih.gov/rest/autocomplete/compound/" + src }).catch(console.error))) == null ? void 0 : _a.dictionary_terms) == null ? void 0 : _b.compound;
-      let list = el.createEl("ol");
-      suggestions = [];
-      for (let i of suggestions) {
-        let item = list.createEl("li");
-        item.innerText = i.toLowerCase();
-      }
+      (0, import_obsidian2.request)({ url: "https://pubchem.ncbi.nlm.nih.gov/rest/autocomplete/compound/" + src }).then((value) => {
+        var _a, _b;
+        let suggestions = (_b = (_a = JSON.parse(value)) == null ? void 0 : _a.dictionary_terms) == null ? void 0 : _b.compound;
+        let list = el.createEl("ol");
+        console.log(suggestions);
+        suggestions = suggestions != null ? suggestions : [];
+        for (let i of suggestions) {
+          let item = list.createEl("li");
+          item.innerText = i.toLowerCase();
+        }
+      }).catch(console.error);
     });
   }
   onload() {
