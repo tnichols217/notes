@@ -148,10 +148,9 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK, (src, el, ctx) => __async(this, null, function* () {
         this.getMolecule(src).then((value) => {
           if (!value || "Fault" in value) {
-            console.log(value);
+            console.log("not found");
             this.moleculeNotFound(src, el);
           } else {
-            console.log(value);
             let CID = value.PropertyTable.Properties[0].CID;
             let img = el.createEl("img");
             img.src = "https://pubchem.ncbi.nlm.nih.gov/image/imagefly.cgi?cid=" + CID + `&width=${this.settings.imageSize.value.toString()}&height=${this.settings.imageSize.value.toString()}`;
