@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
+                "file": "obsidian-molecules.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
+                "file": "obsidian-molecules.md",
                 "mode": "preview",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Textbook/12.1 - Vector Operations.md"
+                "file": "obsidian-molecules.md"
               }
             }
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Textbook/12.1 - Vector Operations.md",
+                "file": "obsidian-molecules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,6 +186,8 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
+    "CSDS 391/W/W5_tln32.md",
+    "MATH 223/Textbook/12.1 - Vector Operations.md",
     "obsidian-molecules.md",
     "obsidian-columns.md",
     "MATH 223/Practice Problems/9 - Problem Set 9.md",
@@ -210,7 +212,6 @@
     "CSDS 391/P/attachments/Pasted image 20231121000437.png",
     "CSDS 391/P/attachments/Pasted image 20231121000057.png",
     "CSDS 391/P/attachments",
-    "CSDS 391/W/W5_tln32.md",
     "MATH 223/Practice Problems/8 - Problem Set 8.md",
     "MATH 223/Practice Problems/8 - Problem Set 8.pdf",
     "MATH 223/Practice Problems/attachments/Pasted image 20231119211656.png",
@@ -219,7 +220,6 @@
     "STAT 345/Homework/7.md",
     "MATH 223/Quiz/7.md",
     "MATH 223/Practice Problems/12.1.md",
-    "MATH 223/Textbook/12.1 - Vector Operations.md",
     "MATH 223/Practice Problems/14.8.md",
     "MATH 223/Quiz/8.md",
     "MATH 223/Quiz/8.pdf",

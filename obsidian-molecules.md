@@ -1,8 +1,18 @@
 ```function-plot
 data:
 	- fn: x
+	- points:
+		- 
+			- 0
+			- 1
+		- 
+		  
 xAxis:
-	limits:
-		- 0
+	domain:
+		- -1
+		- 1
+yAxis:
+	domain:
+		- -1
 		- 1
 ```
