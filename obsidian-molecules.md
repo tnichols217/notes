@@ -7,3 +7,6 @@ D-Glucose
 ```molecule
 sucrose
 ```
+```molecule
+methane
+```
