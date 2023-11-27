@@ -2,11 +2,13 @@
 data:
 	- fn: x
 	- points:
-		- 
-			- 0
+		- [0,1]
 			- 1
 		- 
-		  
+			- 1
+			- 0
+	  fnType: points
+	  graphType: polyline
 xAxis:
 	domain:
 		- -1
