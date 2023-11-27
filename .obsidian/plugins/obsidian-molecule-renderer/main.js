@@ -156,6 +156,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
             img.src = "https://pubchem.ncbi.nlm.nih.gov/image/imagefly.cgi?cid=" + CID + `&width=${this.settings.imageSize.value.toString()}&height=${this.settings.imageSize.value.toString()}`;
           }
         }).catch((_) => {
+          this.moleculeNotFound(src, el);
         });
       }));
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK3D, (src, el, ctx) => __async(this, null, function* () {
