@@ -1,12 +1,11 @@
 ```function-plot
 data:
+	- fn: 2x
 	- fn: x
+	  closed: true
 	- points:
-		- [0,1]
-			- 1
-		- 
-			- 1
-			- 0
+		- [0,0.5]
+		- [0.5,0]
 	  fnType: points
 	  graphType: polyline
 xAxis:
