@@ -17,5 +17,5 @@ meth
 sulfate
 ```
 ```molecule
-oxy
+perox
 ```
