@@ -146,35 +146,37 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
       yield this.loadSettings();
       this.addSettingTab(new ObsidianMoleculeRendererSettings(this.app, this));
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK, (src, el, ctx) => __async(this, null, function* () {
-        let req = yield this.getMolecule(src).catch(console.error);
-        if ("Fault" in req) {
-          console.log(req);
-          this.moleculeNotFound(src, el);
-        } else {
-          console.log(req);
-          let CID = req.PropertyTable.Properties[0].CID;
-          let img = el.createEl("img");
-          img.src = "https://pubchem.ncbi.nlm.nih.gov/image/imagefly.cgi?cid=" + CID + `&width=${this.settings.imageSize.value.toString()}&height=${this.settings.imageSize.value.toString()}`;
-        }
+        this.getMolecule(src).then((value) => {
+          if ("Fault" in value) {
+            console.log(value);
+            this.moleculeNotFound(src, el);
+          } else {
+            console.log(value);
+            let CID = value.PropertyTable.Properties[0].CID;
+            let img = el.createEl("img");
+            img.src = "https://pubchem.ncbi.nlm.nih.gov/image/imagefly.cgi?cid=" + CID + `&width=${this.settings.imageSize.value.toString()}&height=${this.settings.imageSize.value.toString()}`;
+          }
+        }).catch(console.error);
       }));
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK3D, (src, el, ctx) => __async(this, null, function* () {
-        let req = yield this.getMolecule(src).catch(console.error);
-        if ("Fault" in req) {
-          this.moleculeNotFound(src, el);
-        } else {
-          let CID = req.PropertyTable.Properties[0].CID;
-          let container = el.createDiv();
-          container.style.width = "100%";
-          container.style.paddingTop = "100%";
-          container.style.position = "relative";
-          let iframe = container.createEl("iframe");
-          iframe.src = "https://embed.molview.org/v1/?mode=balls&cid=" + CID;
-          iframe.style.width = "100%";
-          iframe.style.height = "100%";
-          iframe.style.position = "absolute";
-          iframe.style.top = "0";
-          iframe.style.border = "0";
-        }
+        this.getMolecule(src).then((value) => {
+          if (!value || "Fault" in value) {
+            this.moleculeNotFound(src, el);
+          } else {
+            let CID = value.PropertyTable.Properties[0].CID;
+            let container = el.createDiv();
+            container.style.width = "100%";
+            container.style.paddingTop = "100%";
+            container.style.position = "relative";
+            let iframe = container.createEl("iframe");
+            iframe.src = "https://embed.molview.org/v1/?mode=balls&cid=" + CID;
+            iframe.style.width = "100%";
+            iframe.style.height = "100%";
+            iframe.style.position = "absolute";
+            iframe.style.top = "0";
+            iframe.style.border = "0";
+          }
+        }).catch(console.error);
       }));
     });
   }
