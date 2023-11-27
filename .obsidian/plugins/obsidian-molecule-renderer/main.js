@@ -136,7 +136,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
       heading.innerText = "Similar Chemicals include:";
       let suggestions = (_b = (_a = JSON.parse(yield (0, import_obsidian2.request)({ url: "https://pubchem.ncbi.nlm.nih.gov/rest/autocomplete/compound/" + src }).catch(console.error))) == null ? void 0 : _a.dictionary_terms) == null ? void 0 : _b.compound;
       let list = el.createEl("ol");
-      suggestions = suggestions != null ? suggestions : [];
+      suggestions = [];
       for (let i of suggestions) {
         let item = list.createEl("li");
         item.innerText = i.toLowerCase();
