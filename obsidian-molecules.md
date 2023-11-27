@@ -10,3 +10,6 @@ sucrose
 ```molecule
 methane
 ```
+```molecule
+meth
+```

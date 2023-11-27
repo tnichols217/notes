@@ -147,7 +147,7 @@ var ObsidianMoleculeRenderer = class extends import_obsidian2.Plugin {
       this.addSettingTab(new ObsidianMoleculeRendererSettings(this.app, this));
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK, (src, el, ctx) => __async(this, null, function* () {
         this.getMolecule(src).then((value) => {
-          if ("Fault" in value) {
+          if (!value || "Fault" in value) {
             console.log(value);
             this.moleculeNotFound(src, el);
           } else {
