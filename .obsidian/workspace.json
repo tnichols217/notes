@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2967919addd90632",
+            "id": "ca3fe86c85fd0a6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/9 - Problem Set 9.md",
+                "file": "obsidian-molecules.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "f6980b7ff404bc8b"
+            "group": "1d1939adb75f005a"
           }
         ]
       },
       {
-        "id": "860ff65dd0d25b1c",
+        "id": "9dfc0a42f191fac9",
         "type": "tabs",
         "children": [
           {
-            "id": "8bc8b6d4af94fcc3",
+            "id": "78ad3622524f9524",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/9 - Problem Set 9.md",
+                "file": "obsidian-molecules.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "f6980b7ff404bc8b"
+            "group": "1d1939adb75f005a"
           }
         ]
       }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/9 - Problem Set 9.md"
+                "file": "obsidian-molecules.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/9 - Problem Set 9.md",
+                "file": "obsidian-molecules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,11 +183,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2967919addd90632",
+  "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
+    "obsidian-columns.md",
+    "obsidian-molecules.md",
+    "MATH 223/Practice Problems/9 - Problem Set 9.md",
     "MATH 223/Practice Problems/9 - Problem Set 9.pdf",
     "MATH 223/Practice Problems/15.6.md",
-    "MATH 223/Practice Problems/9 - Problem Set 9.md",
     "MATH 223/Practice Problems/15.4.md",
     "MATH 223/Practice Problems/15.2.md",
     "MATH 223/Practice Problems/15.3.md",
@@ -225,11 +227,9 @@
     "CSDS 391/W/W3_tln32.md",
     "CSDS 391/W/W4_tln32.md",
     "CSDS 391/P/1.md",
-    "ARTS 302/Standard Sizes.md",
     "STAT 345/Textbook/3 - Common Distributions Small Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Small.svg",
     "CHEM 111",
-    "STAT 345/Textbook/3 - Common Distributions Small.pdf",
     "ARTS 302/attachments/Pasted image 20231011210516.png",
     "CSDS 391/W/W3.canvas",
     "STAT 345/Textbook/Untitled.canvas",
