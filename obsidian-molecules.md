@@ -4,3 +4,6 @@ water
 ```molecule
 D-Glucose
 ```
+```molecule
+glucose
+```
