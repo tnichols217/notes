@@ -20432,7 +20432,7 @@ var ObsidianFunctionPlot = class extends import_obsidian2.Plugin {
       this.addSettingTab(new ObsidianFunctionPlotSettings(this.app, this));
       this.registerMarkdownCodeBlockProcessor(CODEBLOCK, (src, el, ctx) => __async(this, null, function* () {
         let graph = el.createEl("div");
-        let params = parse(src);
+        let params = parse(src.replace("	", "    "));
         Object.assign(params, { target: graph });
         (0, import_function_plot.default)(params);
       }));
