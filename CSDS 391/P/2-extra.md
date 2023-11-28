@@ -29,4 +29,4 @@ The worst performing in the bunch was the model with no hidden layers, it genera
 
 # K-means clustering
 
-K-means clustering will only ever be able to characterize models by their proximity 
+K-means clustering will only ever be able to characterize models by their proximity to a generated mean. This means that K-means clustering is not possible to classify a dataset where different classes are not clustered around the same ar
