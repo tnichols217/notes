@@ -23,4 +23,7 @@ As you can see in the data, the architecture of two hidden layers with size 8 an
 
 ![[Pasted image 20231128184536.png]]
 
-It even beat a network with more layers but le
+It even beat a network with more layers but less characteristics per layer: 5555, and 555.
+
+The worst performing in the bunch was the model with no hidden layers, it generalized slow and never converges to an acceptable error.
+
