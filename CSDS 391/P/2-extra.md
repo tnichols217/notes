@@ -6,4 +6,4 @@ When before with a single layer network, each output would be the sum of weights
 
 # Multiple Non-linearities
 
-Based off the first project, I discovered that the sigmoid often causes training issues where if the in
+Based off the first project, I discovered that the sigmoid often causes training issues where if the input data is far off the end of the sigmoid, the derivative will be so close to 0 that very little training will be done. All tanh, sigmoid, and softmax struggle from this issue as they have horizon
