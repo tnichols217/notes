@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "APArt/Sustained Investigation.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "APArt/Sustained Investigation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Plan.md"
+                "file": "APArt/Sustained Investigation.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "APArt/Sustained Investigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,11 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
-    "cwru/Classes.md",
+    "APArt/Portfolio notes.md",
+    "APArt/Sustained Investigation.md",
+    "APArt/Piece Descriptions.md",
     "cwru/Plan.md",
+    "cwru/Classes.md",
     "cwru/Finished.md",
     "ARTS 302/Standard Sizes.md",
     "obsidian-columns.md",
@@ -224,9 +227,6 @@
     "MATH 223/Quiz/8.md",
     "MATH 223/Quiz/8.pdf",
     "CSDS 391/W/W1_tln32.md",
-    "CSDS 391/W/W2_tln32.md",
-    "CSDS 391/W/W3_tln32.md",
-    "CSDS 391/W/W4_tln32.md",
     "STAT 345/Textbook/3 - Common Distributions Small Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Small.svg",
     "CHEM 111",
