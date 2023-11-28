@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md",
+                "file": "cwru/Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md",
+                "file": "cwru/Plan.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md"
+                "file": "cwru/Plan.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302/Standard Sizes.md",
+                "file": "cwru/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,9 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
+    "cwru/Finished.md",
     "cwru/Classes.md",
+    "ARTS 302/Standard Sizes.md",
     "cwru/Plan.md",
     "obsidian-columns.md",
     "obsidian-molecules.md",
@@ -197,7 +199,6 @@
     "MATH 223/Practice Problems/15.4.md",
     "MATH 223/Practice Problems/15.2.md",
     "MATH 223/Practice Problems/15.3.md",
-    "cwru/Finished.md",
     "CSDS 391/P/2.md",
     "CSDS 391/P/2.zip",
     "CSDS 391/P/2.zip.x3sybi.part",
@@ -226,7 +227,6 @@
     "CSDS 391/W/W2_tln32.md",
     "CSDS 391/W/W3_tln32.md",
     "CSDS 391/W/W4_tln32.md",
-    "CSDS 391/P/1.md",
     "STAT 345/Textbook/3 - Common Distributions Small Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Small.svg",
     "CHEM 111",
