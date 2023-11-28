@@ -15,3 +15,8 @@ Here is a graph of time taken training vs. accuracy
 ![[Pasted image 20231128184332.png]]
 (Generated with TensorBoard)
 
+With the following color scheme for different network architectures:
+
+![[Pasted image 20231128184409.png]]
+
+As you can see in the data, the architecture of two hidden layers with size 8 and 8
