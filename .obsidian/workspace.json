@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "ARTS 302/Standard Sizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "ARTS 302/Standard Sizes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Classes.md"
+                "file": "ARTS 302/Standard Sizes.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "ARTS 302/Standard Sizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,6 +185,7 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
+    "cwru/Classes.md",
     "cwru/Plan.md",
     "obsidian-columns.md",
     "obsidian-molecules.md",
@@ -196,7 +197,6 @@
     "MATH 223/Practice Problems/15.4.md",
     "MATH 223/Practice Problems/15.2.md",
     "MATH 223/Practice Problems/15.3.md",
-    "cwru/Classes.md",
     "cwru/Finished.md",
     "CSDS 391/P/2.md",
     "CSDS 391/P/2.zip",
