@@ -19,4 +19,8 @@ With the following color scheme for different network architectures:
 
 ![[Pasted image 20231128184409.png]]
 
-As you can see in the data, the architecture of two hidden layers with size 8 and 8
+As you can see in the data, the architecture of two hidden layers with size 8 and 8 generalized the fastest and also converged the fastest.
+
+![[Pasted image 20231128184536.png]]
+
+It even beat a network with more layers but le
