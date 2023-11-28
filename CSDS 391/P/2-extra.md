@@ -35,4 +35,6 @@ Based off the previous K-means clustering on the iris dataset in P2, it quickly 
 
 K-means clustering converges quickly and is easy to compute however, but will not offer as much accuracy as possible compared to neural networks. In the case of this dataset, since the classification boundaries are relatively simple, k-means works comparatively well, but NNs do perform better in a similar training time.
 
+# Optimizers / Algorithmic Learning Rate
+
 
