@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "cwru/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "cwru/Classes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Plan.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,9 +185,9 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
-    "cwru/Finished.md",
     "cwru/Plan.md",
     "cwru/Classes.md",
+    "cwru/Finished.md",
     "ARTS 302/Standard Sizes.md",
     "obsidian-columns.md",
     "obsidian-molecules.md",
