@@ -10,4 +10,8 @@ Based off the first project, I discovered that the sigmoid often causes training
 
 # Multiple Network architectures
 
+Here is a graph of time taken training vs. accuracy
+
+![[Pasted image 20231128184332.png]]
+(Generated with TensorBoard)
 
