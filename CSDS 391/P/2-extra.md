@@ -31,4 +31,6 @@ The worst performing in the bunch was the model with no hidden layers, it genera
 
 K-means clustering will only ever be able to characterize models by their proximity to a generated mean. This means that K-means clustering is not possible to classify a dataset where different classes are not clustered around the same area, possibly intertwining and creating other patterns with the other classes.
 
-Based off the previous K-means clustering on the iris dataset in P2, it quickly is able to find and create clusters on the dataset that roughly resemble that on 
+Based off the previous K-means clustering on the iris dataset in P2, it quickly is able to find and create clusters on the dataset that roughly resemble that of the truth. Although it appears to have problems nearer to the decision boundaries where it will converge to a boundary that does not match that of the truth, because k-means clustering does not have feedback from known truths.
+
+K-means clust
