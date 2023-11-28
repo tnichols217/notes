@@ -27,3 +27,6 @@ It even beat a network with more layers but less characteristics per layer: 5555
 
 The worst performing in the bunch was the model with no hidden layers, it generalized slow and never converges to an acceptable error.
 
+# K-means clustering
+
+K-means clustering will only ever be able to characterize models by their proximity 
