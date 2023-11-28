@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APArt/Sustained Investigation.md",
+                "file": "APArt/Piece Descriptions.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APArt/Sustained Investigation.md",
+                "file": "APArt/Piece Descriptions.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APArt/Sustained Investigation.md"
+                "file": "APArt/Piece Descriptions.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APArt/Sustained Investigation.md",
+                "file": "APArt/Piece Descriptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,9 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
-    "APArt/Portfolio notes.md",
+    "APArt/Piece Descriptions.pdf",
     "APArt/Sustained Investigation.md",
+    "APArt/Portfolio notes.md",
     "APArt/Piece Descriptions.md",
     "cwru/Plan.md",
     "cwru/Classes.md",
@@ -226,7 +227,6 @@
     "MATH 223/Practice Problems/14.8.md",
     "MATH 223/Quiz/8.md",
     "MATH 223/Quiz/8.pdf",
-    "CSDS 391/W/W1_tln32.md",
     "STAT 345/Textbook/3 - Common Distributions Small Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Small.svg",
     "CHEM 111",
