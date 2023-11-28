@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APArt/Piece Descriptions.md",
+                "file": "CSDS 391/P/2-extra.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APArt/Piece Descriptions.md",
+                "file": "CSDS 391/P/2-extra.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APArt/Piece Descriptions.md"
+                "file": "CSDS 391/P/2-extra.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APArt/Piece Descriptions.md",
+                "file": "CSDS 391/P/2-extra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,10 +185,12 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
+    "CSDS 391/P/2.md",
+    "CSDS 391/P/2-extra.md",
+    "APArt/Piece Descriptions.md",
     "APArt/Piece Descriptions.pdf",
     "APArt/Sustained Investigation.md",
     "APArt/Portfolio notes.md",
-    "APArt/Piece Descriptions.md",
     "cwru/Plan.md",
     "cwru/Classes.md",
     "cwru/Finished.md",
@@ -203,7 +205,6 @@
     "MATH 223/Practice Problems/15.4.md",
     "MATH 223/Practice Problems/15.2.md",
     "MATH 223/Practice Problems/15.3.md",
-    "CSDS 391/P/2.md",
     "CSDS 391/P/2.zip",
     "CSDS 391/P/2.zip.x3sybi.part",
     "CSDS 391/P/2/2.pdf.part",
@@ -229,7 +230,6 @@
     "MATH 223/Quiz/8.pdf",
     "STAT 345/Textbook/3 - Common Distributions Small Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Small.svg",
-    "CHEM 111",
     "ARTS 302/attachments/Pasted image 20231011210516.png",
     "CSDS 391/W/W3.canvas",
     "STAT 345/Textbook/Untitled.canvas",
