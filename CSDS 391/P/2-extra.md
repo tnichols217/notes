@@ -6,4 +6,4 @@ When before with a single layer network, each output would be the sum of weights
 
 # Multiple Non-linearities
 
-Based off the first project, I discovered that the sigmoid often causes training issues where if the input data is far off the end of the sigmoid, the derivative will be so close to 0 that very little training will be done. All tanh, sigmoid, and softmax struggle from this issue as they have horizon
+Based off the first project, I discovered that the sigmoid often causes training issues where if the input data is far off the end of the sigmoid, the derivative will be so close to 0 that very little training will be done. All tanh, sigmoid, and softmax struggle from this issue as they have horizontal asymtotes. This is when I attempted to use the ReLU function, where $y=x$ when $x>0$, but $y=0$ when $x<0$. This scared me at first 
