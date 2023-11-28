@@ -6,4 +6,4 @@ When before with a single layer network, each output would be the sum of weights
 
 # Multiple Non-linearities
 
-Based off the first project, I discovered that the 
+Based off the first project, I discovered that the sigmoid often causes training issues where if the in
