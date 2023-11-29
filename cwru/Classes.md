@@ -13,8 +13,8 @@ date created: 2023-11-06 10:38
 
 1. ✅ CSDS 132
 2. 〰 CSDS 233
-3. 〰 CSDS 281
-4. 〰 CSDS 302
+3. 🌮 CSDS 281
+4. 🌮 CSDS 302
 5. 〰 CSDS 310
 6. 〰 CSDS 395
 
@@ -91,7 +91,7 @@ date created: 2023-11-06 10:38
 1. 〰 CSDS 133
 2. 〰 CSDS 233
 3. 〰 CSDS 234
-4. 〰 CSDS 302
+4. 🌮 CSDS 302
 5. 〰 CSDS 310
 6. 〰 CSDS 312
 7. 〰 CSDS 313
@@ -180,7 +180,7 @@ date created: 2023-11-06 10:38
 6. 〰 PHYS 122 / PHYS 124
 7. ✅ CHEM 111
 8. 〰 ENGR 130
-9. 〰 ENGR 145
+9. 🌮 ENGR 145
 10. 〰 ENGR 200 / ENGR 225
 11. 〰 ENGR 210
 12. 〰 ENGR 399
