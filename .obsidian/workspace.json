@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9dfc0a42f191fac9",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/4.3 - Bivariate Translation.md"
+                "file": "STAT 345/Homework/9.md"
               }
             }
           }
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/4.3 - Bivariate Translation.md",
+                "file": "STAT 345/Homework/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +195,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0ac07faa97dee13a",
+  "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
+    "STAT 345/Textbook/4.3 - Bivariate Translation.md",
     "STAT 345/Homework/9.md",
     "STAT 345/Homework/8.md",
     "cwru/Classes.md",
@@ -243,7 +243,6 @@
     "MATH 223/Practice Problems/8 - Problem Set 8.md",
     "MATH 223/Practice Problems/15.1.md",
     "STAT 345/Homework/7.md",
-    "MATH 223/Quiz/7.md",
     "CSDS 391/W/W3.canvas",
     "STAT 345/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
