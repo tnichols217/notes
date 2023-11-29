@@ -39,4 +39,4 @@ K-means clustering converges quickly and is easy to compute however, but will no
 
 ![[Pasted image 20231128190829.png]]
 
-After training the same model over all the different optimizers, with layers of 8 and 8, 
+After training the same model over all the different optimizers, with layers of 8 and 8, I found that the best optimizers were ORMSprop, Adam, then Nadam in that order.
