@@ -37,4 +37,6 @@ K-means clustering converges quickly and is easy to compute however, but will no
 
 # Optimizers / Algorithmic Learning Rate
 
+![[Pasted image 20231128190829.png]]
 
+After training the same model over all the different optimizers, with layers of 8 and 8, 
