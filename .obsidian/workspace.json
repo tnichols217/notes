@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/P/2-extra.md",
+                "file": "cwru/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/P/2-extra.md",
+                "file": "cwru/Classes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/P/2-extra.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/P/2-extra.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,8 +183,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
+    "CSDS 391/P/2-extra.md",
     "CSDS 391/P/2-extra.zip",
     "CSDS 391/P/2-extra.zip.7y4ie7.part",
     "CSDS 391/P/2-extra/2-extra.pdf",
@@ -195,14 +196,12 @@
     "CSDS 391/P/2-extra/irisdata.csv",
     "CSDS 391/P/2-extra/extra.py",
     "CSDS 391/P/2-extra/__init__.py",
-    "CSDS 391/P/2-extra/logs/OAdamax/train/events.out.tfevents.1701216278.ROG.3692166.10.v2",
     "CSDS 391/P/attachments/Pasted image 20231128191050.png",
     "CSDS 391/P/attachments/Pasted image 20231128190829.png",
     "CSDS 391/P/attachments/Pasted image 20231128184536.png",
     "CSDS 391/P/attachments/Pasted image 20231128184409.png",
     "CSDS 391/P/attachments/Pasted image 20231128184332.png",
     "CSDS 391/P/2.md",
-    "CSDS 391/P/2-extra.md",
     "APArt/Piece Descriptions.md",
     "APArt/Sustained Investigation.md",
     "APArt/Portfolio notes.md",
