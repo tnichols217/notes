@@ -70,7 +70,7 @@ date created: 2023-11-06 10:38
 4. ✅ MATH 122 / MATH 124
 5. 〰 MATH 201 / MATH 307
 6. ✅ MATH 223 / MATH 227
-7. 〰 PHYS 121
+7. 🌮 PHYS 121
 8. 〰 PHYS 122
 
 ### Stats (does not count towards 20)
@@ -111,7 +111,7 @@ date created: 2023-11-06 10:38
 5. ✅ MATH 122 / MATH 124
 7. ✅ MATH 223 / MATH 227
 8. 〰 MATH 224 / MATH 228
-9. 〰 PHYS 121 / PHYS 123
+9. 🌮 PHYS 121 / PHYS 123
 10. 〰 PHYS 122 / PHYS 124
 
 ### Foundations
@@ -176,7 +176,7 @@ date created: 2023-11-06 10:38
 2. ✅ MATH 122 / MATH 124
 3. ✅ MATH 223 / MATH 227
 4. 〰 MATH 224 / MATH 228
-5. 〰 PHYS 121 / PHYS 123
+5. 🌮 PHYS 121 / PHYS 123
 6. 〰 PHYS 122 / PHYS 124
 7. ✅ CHEM 111
 8. 〰 ENGR 130
@@ -219,11 +219,11 @@ date created: 2023-11-06 10:38
 2. ✅ MATH 122 / MATH 124
 3. ✅ MATH 223 / MATH 227
 4. 〰 MATH 224 / MATH 228
-5. 〰 PHYS 121 / PHYS 123
+5. 🌮 PHYS 121 / PHYS 123
 6. 〰 PHYS 122 / PHYS 124
 7. ✅ CHEM 111
 8. 〰 ENGR 130
-9. 〰 ENGR 145
+9. 🌮 ENGR 145
 10. 〰 ENGR 200 / ENGR 225
 11. 〰 ENGR 210
 12. 〰 ENGR 399
@@ -329,7 +329,7 @@ date created: 2023-11-06 10:38
 2. MATH 126 (✅ calc 2)
 3. PHYS 115
 4. PHYS 116
-5. 〰 PHYS 121
+5. 🌮 PHYS 121
 6. 〰 PHYS 122
 
 ## Music (minor)
