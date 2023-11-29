@@ -12,7 +12,7 @@ Based off the first project, I discovered that the sigmoid often causes training
 
 Here is the same dataset trained with an architecture of 8 and 8 nodes per layer, the adam optimizer, and various activator functions.
 
-They all perform well except for the softmax and sigmoid functions.
+They all perform well except for the softmax and sigmoid functions. All in all, I still chose the leaky-ReLU as it appears to have the least training issues and most consistent accuracy growth.
 
 # Multiple Network architectures
 
