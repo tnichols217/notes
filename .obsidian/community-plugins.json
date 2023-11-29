@@ -32,5 +32,8 @@
   "obsidian-regex-replace",
   "obsidian-advanced-slides",
   "obsidian-text-format",
-  "obsidian-function-plot"
+  "obsidian-function-plot",
+  "quick-latex",
+  "obsidian-latex-suite",
+  "obsidian-completr"
 ]
