@@ -10,6 +10,9 @@ Based off the first project, I discovered that the sigmoid often causes training
 
 ![[Pasted image 20231128191050.png]]
 
+Here is the same dataset trained with an architecture of 8 and 8 nodes per layer, the adam optimizer, and various activator functions.
+
+They all perform well except for the softmax and sigmoid functions.
 
 # Multiple Network architectures
 
