@@ -9,7 +9,7 @@
   "colorPairedBracketsEnabled": true,
   "highlightCursorBracketsEnabled": true,
   "mathPreviewEnabled": true,
-  "autofractionEnabled": false,
+  "autofractionEnabled": true,
   "autofractionSymbol": "\\frac",
   "autofractionBreakingChars": "+-=\t",
   "matrixShortcutsEnabled": true,
