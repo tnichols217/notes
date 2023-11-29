@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Notes/Modes.md",
+                "file": "cwru/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Notes/Modes.md",
+                "file": "cwru/Classes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Notes/Modes.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Notes/Modes.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,10 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
-    "cwru/Classes.md",
+    "cwru/Finished.md",
+    "cwru/Plan.md",
     "MUTH 104/Notes/Modes.md",
+    "cwru/Classes.md",
     "CSDS 391/P/2-extra.md",
     "CSDS 391/P/2-extra.zip",
     "CSDS 391/P/2-extra.zip.7y4ie7.part",
@@ -207,8 +209,6 @@
     "APArt/Piece Descriptions.md",
     "APArt/Sustained Investigation.md",
     "APArt/Portfolio notes.md",
-    "cwru/Plan.md",
-    "cwru/Finished.md",
     "ARTS 302/Standard Sizes.md",
     "obsidian-columns.md",
     "obsidian-molecules.md",
