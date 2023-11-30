@@ -47,3 +47,4 @@ $s$ is not involved as that is the probability that the $G_{child}$ matches $H_{
 ## e
 
 $P(G_{child})=\sum\limits_{G_{mother}}\sum\limits_{G_{father}}P(G_{child},G_{father},G_{mother})$
+$=\sum\limits_{G_{mother}}\sum\limits_{G_{father}}P(G_{child}|G_{father},G_{mother})P(G_{father},G_{mother})$
