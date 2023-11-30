@@ -141,9 +141,14 @@ Thus, it is most likely that $C=b$, the coin selected is the $b$ coin.
 
 ## a
 
-$M\in\{w, l\}$ where a win is defined as the first team winning
+$M\in\{w, d, l\}$ where a win is defined as the first team winning
 $T_x\in\{0, 1, 2, 3\}$ where $T_x$ is defined as the quality of the team
 $P(M=w|T_1,T_2)=(T_1>T_2)$
-$P(M=w|T_1,T_2)=(T_1>T_2)$
-$P(M=w|T_1,T_2)=(T_1>T_2)$
+$P(M=d|T_1,T_2)=(T_1==T_2)$
+$P(M=l|T_1,T_2)=(T_1<T_2)$
+
+Defines a model where a team wins a match if their quality is higher, and tie if they are equal.
+
+## b
+
 
