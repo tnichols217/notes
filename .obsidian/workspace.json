@@ -207,7 +207,44 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ca3fe86c85fd0a6c",
+  "floating": {
+    "id": "65929a2955d81b2c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a1a44aee6d02e15a",
+        "type": "window",
+        "children": [
+          {
+            "id": "01f06bd03bc8c5f3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "857ea094afc965a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "STAT 345/Homework/9.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 340,
+        "y": 132,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "857ea094afc965a2",
   "lastOpenFiles": [
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/9.md",
