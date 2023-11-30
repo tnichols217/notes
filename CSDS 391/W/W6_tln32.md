@@ -9,4 +9,7 @@ $=P(X|Y,e)P(Y|e)$
 
 ## b
 
-$P(Y|X,e)$
+$P(Y|X,e)P(X|e)=P(Y,X|e)$
+$P(X,Y|e)=P(X|Y,e)P(Y|e)$
+
+$P(P)$
