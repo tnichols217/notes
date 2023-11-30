@@ -164,3 +164,5 @@ $\implies T_a>T_b$
 $P(M=w|T_1=T_b,T_2=T_c)=P(T_b>T_c)$
 $\implies T_c=T_a>T_b$
 $\implies T_c>T_b$
+$P(T_b>T_c)=0$
+$P(M=w|T_1=T_b,T_2=T_c)=0$
