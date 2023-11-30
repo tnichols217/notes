@@ -23,4 +23,4 @@ A, because it says that
 $P(H_{child})=P(G_{child}|G_{mother},G_{father})$
 
 $=\frac{P(G_{mother},G_{father}|G_{child})P(G_{child})}{P(G_{mother},G_{father})}$
-$=\frac{P(G_{mother},G_{father}|G_{child})P(G_{child})}{P(G_{mother},G_{father})}$
+$=\frac{P(G_{mother},G_{father}|G_{child})P(G_{child})}{P(G_{mother})P(G_{father})}$
