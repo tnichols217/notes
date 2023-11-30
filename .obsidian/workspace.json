@@ -38,13 +38,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/4.3 - Bivariate Translation.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "9dfc0a42f191fac9",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/9.md"
+                "file": "STAT 345/Textbook/3 - Common Distributions.md"
               }
             }
           }
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/9.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,8 +208,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ca3fe86c85fd0a6c",
+  "active": "0ac07faa97dee13a",
   "lastOpenFiles": [
+    "STAT 345/Textbook/4.3 - Bivariate Translation.md",
+    "STAT 345/Homework/9.md",
     "CSDS 391/W/W6_tln32.md",
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
@@ -216,8 +219,6 @@
     "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "cwru/Classes.md",
     "cwru/Plan.md",
-    "STAT 345/Homework/9.md",
-    "STAT 345/Textbook/4.3 - Bivariate Translation.md",
     "STAT 345/Homework/8.md",
     "cwru/Finished.md",
     "MUTH 104/Notes/Modes.md",
