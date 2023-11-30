@@ -133,4 +133,12 @@ $P(C=c,T=2)=P(T=2|C=c)P(C=c)=0.128$
 
 $P(C=a|T=2)=\frac{P(C=a,T=2)}{\sum\limits_{C\in\{a,b,c\}}P(C,T=2)}=0.105$
 $P(C=b|T=2)=\frac{P(C=b,T=2)}{\sum\limits_{C\in\{a,b,c\}}P(C,T=2)}=0.474$
-$P(C=c|T=2)=\frac{P(C=c,T=2)}{\sum\limits_{C\in\{a,b,c\}}P(C,T=2)}=0.$
+$P(C=c|T=2)=\frac{P(C=c,T=2)}{\sum\limits_{C\in\{a,b,c\}}P(C,T=2)}=0.421$
+
+Thus, it is most likely that $C=b$, the coin selected is the $b$ coin.
+
+# 5
+
+## a
+
+
