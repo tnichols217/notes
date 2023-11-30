@@ -52,4 +52,6 @@ $=\sum\limits_{G_{mother}}\sum\limits_{G_{father}}P(G_{child}=l|G_{father},G_{mo
 | $P(G_{child}=l)$ | $G_{father}=r$ | $G_{father}=l$ |
 | ---------------- | -------------- | -------------- |
 | $G_{mother}=r$   | $m$        | $0.5$          |
-| $G_{mother}=l$   | $0.5$          | $m$            | 
+| $G_{mother}=l$   | $0.5$          | $1.0-m$            | 
+
+$=m(1-q)^2+$
