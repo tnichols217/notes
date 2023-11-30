@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W6_tln32.md"
+                "file": "STAT 345/Homework/9.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W6_tln32.md",
+                "file": "STAT 345/Homework/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,15 +240,15 @@
         "width": 1024,
         "height": 800,
         "maximize": true,
-        "zoom": 2
+        "zoom": 0.5
       }
     ]
   },
-  "active": "ca3fe86c85fd0a6c",
+  "active": "857ea094afc965a2",
   "lastOpenFiles": [
+    "CSDS 391/W/W6_tln32.md",
     "CSDS 391/W/W6_tln32.pdf",
     "STAT 345/Homework/9.md",
-    "CSDS 391/W/W6_tln32.md",
     "CSDS 391/W/attachments/Pasted image 20231130173256.png",
     "CSDS 391/W/attachments/Pasted image 20231130173055.png",
     "CSDS 391/W/attachments/Pasted image 20231130172836.png",
@@ -273,7 +273,6 @@
     "CSDS 391/P/2-extra/neural.py",
     "CSDS 391/P/2-extra/kMeans.py",
     "CSDS 391/P/2-extra/irisdata.csv",
-    "CSDS 391/P/2-extra/extra.py",
     "CSDS 391/P/attachments/Pasted image 20231128191050.png",
     "CSDS 391/P/attachments/Pasted image 20231128190829.png",
     "CSDS 391/P/attachments/Pasted image 20231128184536.png",
