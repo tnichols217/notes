@@ -80,6 +80,8 @@ $=0.9*0.9*0.5*0.8*0.9=0.2916$
 
 ## c
 
-$P(j|b, i, m)=\frac{\sum\limits_{}P(j,b,i,m,g)}{}$
+$P(j|b, i, m)=\frac{\sum\limits_{g\in{\{t,f\}}}P(j,b,i,m,g)}{\sum\limits_{j,g\in\{t,f\}}P(j,b,i,m,g)}$
+
+$=$
 
 
