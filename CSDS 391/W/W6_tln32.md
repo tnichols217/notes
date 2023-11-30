@@ -65,4 +65,7 @@ $0=m-2mq$
 $2mq=m$
 $q=0.5$
 
-This is not true because the real left-handedness in humans is significantly lower than $0.5$ of the population, meaning it is likely not simply inherited throu
+This is not true because the real left-handedness in humans is significantly lower than $0.5$ of the population, meaning it is likely not simply inherited through the means predicted.
+
+# 3
+
