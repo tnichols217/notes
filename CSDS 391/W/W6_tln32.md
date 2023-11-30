@@ -29,4 +29,4 @@ $P(G_{father},G_{mother},G_{child})=P(G_{child})P(G_{mother})P(G_{father})$
 
 ## b
 
-A, as it shows that $G_$
+A, as it shows that $H_{child}$ is mainly influenced by $G_{child}$ and also that $G_{child}$ is determined 
