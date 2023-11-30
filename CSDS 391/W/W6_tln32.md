@@ -71,4 +71,7 @@ This is not true because the real left-handedness in humans is significantly low
 
 ## a
 
-ii ,iii
+ii, iii as adding more givens does nothing once that area of the net is already detached from the query
+
+## b
+
