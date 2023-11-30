@@ -39,12 +39,11 @@ A, for the same reasons
 
 $s$ is not involved as that is the probability that the $G_{child}$ matches $H_{child}$ and we are only calculating $G_{child}$
 
-| $P(G_{child})=r$ | $G_{father}=r$ | $G_{father}=l$ |
+| $P(G_{child}=r)$ | $G_{father}=r$ | $G_{father}=l$ |
 | ---------------- | -------------- | -------------- |
 | $G_{mother}=r$   | $1.0-m$        | $0.5$          |
 | $G_{mother}=l$   | $0.5$          | $m$            | 
 
-
 ## e
 
-$P(G_{child}=l)=$
+$P(G_{child})=P()$
