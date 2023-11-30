@@ -123,6 +123,6 @@ $T\sim\text{binom}(3,P(H_x=h))$
 
 $P(C|T=2)$
 
-$P(C=a,T=2)=\begin{pmatrix}3\\2\end{pmatrix}0.2^20.8=0.096$
-$P(C=b,T=2)=\begin{pmatrix}3\\2\end{pmatrix}0.6^20.4=0.432$
-$P(C=c,T=2)=$
+$P(T=2|C=a)=\begin{pmatrix}3\\2\end{pmatrix}0.2^20.8=0.096$
+$P(T=2|C=b)=\begin{pmatrix}3\\2\end{pmatrix}0.6^20.4=0.432$
+$P(C=c,T=2)=\begin{pmatrix}3\\2\end{pmatrix}0.6^20.4=0.384$
