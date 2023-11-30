@@ -100,9 +100,9 @@ Because the president will likely take into account most of the other factors wh
 
 ## a
 
-![[Pasted image 20231130173055.png]]
+![[Pasted image 20231130173256.png]]
 
-C for coin selected and H for heads.
+C for coin selected and Hx for result of a traial and T for .
 
 | C   | P(C) |
 | --- | ---- |
