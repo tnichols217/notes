@@ -29,3 +29,4 @@ $P(G_{father},G_{mother},G_{child})=P(G_{child})P(G_{mother})P(G_{father})$
 
 ## b
 
+A, as it shows that $G_$
