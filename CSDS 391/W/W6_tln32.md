@@ -110,7 +110,7 @@ C for coin selected and Hx for result of a traial and T for total heads flipped.
 | b   | 1/3  |
 | c   | 1/3  |
 
-| Hx\|C | P(H1) |
+| Hx\|C | P(Hx=h) |
 | ----- | ----- |
 | a     | 0.2   |
 | b     | 0.4   |
@@ -121,6 +121,6 @@ $T=\sum\limits_{H\in\{H_1,H_2,H_3\}}H$
 ## b
 
 $P(C|T=2)=\frac{P(C,T=2)}{P(T=2)}$
-$=\frac{\sum\limits_{H_X\in\{\}}P(C,T=2,H_a,H_b,H_c)}{\sum\limits_{C\in\{a,b,c\}}P(C,T=2)}$
+$=\frac{\sum\limits_{H_X\in\{h,t\}}P(C,T=2,H_a,H_b,H_c)}{\sum\limits_{H_X\in\{h,t\},C\in\{a,b,c\}}P(C,T=2,H_a,H_b,H_c)}$
 
 $P(C=a,T=2)=$
