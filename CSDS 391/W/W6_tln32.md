@@ -127,4 +127,6 @@ $P(T=2|C=a)=\begin{pmatrix}3\\2\end{pmatrix}0.2^20.8=0.096$
 $P(T=2|C=b)=\begin{pmatrix}3\\2\end{pmatrix}0.6^20.4=0.432$
 $P(T=2|C=c)=\begin{pmatrix}3\\2\end{pmatrix}0.6^20.4=0.384$
 
-$P(C=c,T=2)=P(T=2|C=c)P(C=c)$
+$P(C=a,T=2)=P(T=2|C=a)P(C=a)=0.032$
+$P(C=b,T=2)=P(T=2|C=b)P(C=b)=0.144$
+$P(C=c,T=2)=P(T=2|C=c)P(C=c)=0.032$
