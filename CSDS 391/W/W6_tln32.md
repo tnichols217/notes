@@ -41,7 +41,8 @@ $s$ is not involved as that is the probability that the $G_{child}$ matches $H_{
 
 | $P(G_{child})=r$ | $G_{father}=r$ | $G_{father}=l$ |
 | ---------------- | -------------- | -------------- |
-| $G_{mother}=r$   | $1.0-m$        | $0.5-0.5m$            |
-| $G_{mother}=l$   | 0.5            | 0.0            |
+| $G_{mother}=r$   | $1.0-m$        | $0.5$          |
+| $G_{mother}=l$   | $0.5$          | $m$            | 
 
 
+## e
