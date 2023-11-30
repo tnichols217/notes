@@ -120,4 +120,4 @@ $T=\sum\limits_{H\in\{H_1,H_2,H_3\}}H$
 
 ## b
 
-$P(T=2)=$
+$P(C|T=2)=\frac{P(C)}{}$
