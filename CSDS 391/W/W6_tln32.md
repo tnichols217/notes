@@ -141,5 +141,6 @@ Thus, it is most likely that $C=b$, the coin selected is the $b$ coin.
 
 ## a
 
+$M\in\{w, l\}$ where a win is defined as the first team winning
+$P(M=w|T_1,T_2)=\frac{T_1}{T_1+T_2}$
 
-$P(M=w|T_1,T_2)=$
