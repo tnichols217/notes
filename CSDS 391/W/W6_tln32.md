@@ -19,3 +19,5 @@ $=\frac{P(X|Y,e)P(Y|e)}{P(X|e)}$
 
 ## a
 
+A, because it says that
+$P(H_{child})=\alpha P(G_{child})$
