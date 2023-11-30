@@ -37,4 +37,7 @@ A, for the same reasons
 
 ## d
 
-$s$ is not involved as that is the probability that the $G_{child}$ matches 
+$s$ is not involved as that is the probability that the $G_{child}$ matches $H_{child}$ and we are only calculating $G_{child}$
+
+| $G_{child}$ | $G_{father}=r$ | $G_{fa}    |
+| ----------- | -------------- | --- |
