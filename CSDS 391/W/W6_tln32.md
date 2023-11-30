@@ -19,8 +19,7 @@ $=\frac{P(X|Y,e)P(Y|e)}{P(X|e)}$
 
 ## a
 
-A, because it says that
-$P(H_{child})=P(G_{child}|G_{mother},G_{father})$
+A
 
-$=\frac{P(G_{mother},G_{father}|G_{child})P(G_{child})}{P(G_{mother},G_{father})}$
-$=\frac{P(G_{mother},G_{father}|G_{child})P(G_{child})}{P(G_{mother})P(G_{father})}$
+According to the probability
+$P(x_1,...,x_n)=\prod\limits_{i=1}^n\theta(x_i|\text{parents}(X_i))$
