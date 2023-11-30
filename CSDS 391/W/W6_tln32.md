@@ -100,3 +100,8 @@ Because the president will likely take into account most of the other factors wh
 
 ## a
 
+![[Pasted image 20231130173055.png]]
+
+C for coin selected and H for heads.
+
+|||
