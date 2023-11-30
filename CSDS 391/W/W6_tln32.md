@@ -55,3 +55,5 @@ $=\sum\limits_{G_{mother}}\sum\limits_{G_{father}}P(G_{child}=l|G_{father},G_{mo
 | $G_{mother}=l$   | $0.5$          | $1.0-m$            | 
 
 $=m(1-q)^2+q(1-q)+q^2(1-m)$
+$\square$
+
