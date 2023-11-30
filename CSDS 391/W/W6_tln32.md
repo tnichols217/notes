@@ -46,4 +46,4 @@ $s$ is not involved as that is the probability that the $G_{child}$ matches $H_{
 
 ## e
 
-$P(G_{child})=\sum\limits_a P()$
+$P(G_{child})=\sum\limits_P()$
