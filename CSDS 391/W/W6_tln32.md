@@ -22,4 +22,5 @@ $=\frac{P(X|Y,e)P(Y|e)}{P(X|e)}$
 A, because it says that
 $P(H_{child})=P(G_{child}|G_{mother},G_{father})$
 
-$=\frac{P(G_{mother},G_{father}|G{child})P(G_{child})}{P(G_{mother})}$
+$=\frac{P(G_{mother},G_{father}|G_{child})P(G_{child})}{P(G_{mother},G_{father})}$
+$=\frac{P(G_{mother},G_{father}|G_{child})P(G_{child})}{P(G_{mother},G_{father})}$
