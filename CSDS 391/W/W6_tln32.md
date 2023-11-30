@@ -123,4 +123,5 @@ $T\sim\text{binom}(3,P(H_x=h))$
 
 $P(C|T=2)$
 
-$P(C=a,T=2)=0$
+$P(C=a,T=2)=\begin{pmatrix}3\\2\end{pmatrix}0.2^20.8=0.096$
+$P(C=b,T=2)=$
