@@ -158,4 +158,7 @@ It would look exactly the same as $M$ solely depends on $T_1$ and $T_2$, just li
 $P(M=d|T_1=T_a,T_2=T_c)=1=P(T_a=T_c)$
 $\implies T_a=T_c$
 
+$P(M=w|T_1=T_a,T_2=T_b)=1=P(T_a>T_b)$
+$\implies T_a>T_b$
 
+$P(M=w|T_1=T_b)$
