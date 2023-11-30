@@ -121,4 +121,6 @@ $T=\sum\limits_{H\in\{H_1,H_2,H_3\}}H$
 ## b
 
 $P(C|T=2)=\frac{P(C,T=2)}{P(T=2)}$
-$=\frac{P(C,T=2)}{P(C,T=2)}$
+$=\frac{P(C,T=2)}{\sum\limits_{C\in\{a,b,c\}}P(C,T=2)}$
+
+$P(C=a,T=2)=$
