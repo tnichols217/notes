@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/9.md"
+                "file": "CSDS 391/W/W6_tln32.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/9.md",
+                "file": "CSDS 391/W/W6_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,10 +244,10 @@
       }
     ]
   },
-  "active": "857ea094afc965a2",
+  "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
-    "CSDS 391/W/W6_tln32.md",
     "STAT 345/Homework/9.md",
+    "CSDS 391/W/W6_tln32.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/4.3 - Bivariate Translation.md",
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
