@@ -151,7 +151,7 @@ Defines a model where a team wins a match if their quality is higher, and tie if
 
 ## b
 
-It would look exactly the same as $M$ solely depends on $T_1$ and $T_2$, just like the probabilistic model.
+It would look exactly the same as $M$ solely depends on $T_1$ and $T_2$, just like the probabilistic model. Also since we do not know the distribution of the quality points.
 
 ## c
 
