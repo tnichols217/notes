@@ -12,4 +12,10 @@ $=P(X|Y,e)P(Y|e)$
 $P(Y|X,e)P(X|e)=P(Y,X|e)$
 $P(X,Y|e)=P(X|Y,e)P(Y|e)$
 
-$P(P)$
+$P(Y|X,e)=\frac{P(Y,X|e)}{P(X|e)}$
+$=\frac{P(X|Y,e)P(Y|e)}{P(X|e)}$
+
+# 2
+
+## a
+
