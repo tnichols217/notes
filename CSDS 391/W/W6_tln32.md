@@ -48,3 +48,8 @@ $s$ is not involved as that is the probability that the $G_{child}$ matches $H_{
 
 $P(G_{child}=l)=\sum\limits_{G_{mother}}\sum\limits_{G_{father}}P(G_{child}=l,G_{father},G_{mother})$
 $=\sum\limits_{G_{mother}}\sum\limits_{G_{father}}P(G_{child}=l|G_{father},G_{mother})P(G_{father})P(G_{mother})$
+
+| $P(G_{child}=l)$ | $G_{father}=r$ | $G_{father}=l$ |
+| ---------------- | -------------- | -------------- |
+| $G_{mother}=r$   | $m$        | $0.5$          |
+| $G_{mother}=l$   | $0.5$          | $m$            | 
