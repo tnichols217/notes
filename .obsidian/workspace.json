@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W6_tln32.md",
+                "file": "STAT 345/Homework/9.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W6_tln32.md",
+                "file": "STAT 345/Homework/9.md",
                 "mode": "preview",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W6_tln32.md"
+                "file": "STAT 345/Homework/9.md"
               }
             }
           }
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W6_tln32.md",
+                "file": "STAT 345/Homework/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,8 +209,8 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "CSDS 391/W/W6_tln32.md",
+    "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
     "CSDS 391/Textbook/20 - Knowledge in Learning.md",
     "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
