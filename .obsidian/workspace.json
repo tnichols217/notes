@@ -21,6 +21,18 @@
             "group": "1d1939adb75f005a"
           },
           {
+            "id": "d9e5c7a734c6b0b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0ac07faa97dee13a",
             "type": "leaf",
             "state": {
@@ -195,13 +207,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
+    "CSDS 391/W/W6_tln32.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
     "CSDS 391/Textbook/20 - Knowledge in Learning.md",
     "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
-    "CSDS 391/W/W6_tln32.md",
     "cwru/Classes.md",
     "cwru/Plan.md",
     "STAT 345/Homework/9.md",

@@ -25,4 +25,4 @@ According to the probability law for Bayes's nets
 $P(x_1,...,x_n)=\prod\limits_{i=1}^n\theta(x_i|\text{parents}(X_i))$
 
 Therefore
-$P(G_{father},G_{mother},G_{child})=$
+$P(G_{father},G_{mother},G_{child})=P(G_{child})P(G_{mother})P(G_{father})$
