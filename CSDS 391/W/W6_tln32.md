@@ -129,4 +129,6 @@ $P(T=2|C=c)=\begin{pmatrix}3\\2\end{pmatrix}0.6^20.4=0.384$
 
 $P(C=a,T=2)=P(T=2|C=a)P(C=a)=0.032$
 $P(C=b,T=2)=P(T=2|C=b)P(C=b)=0.144$
-$P(C=c,T=2)=P(T=2|C=c)P(C=c)=0.032$
+$P(C=c,T=2)=P(T=2|C=c)P(C=c)=0.128$
+
+$P(C=a|T=2)=\frac{P(C=a,T=2)}{\sum\limits_{C\in\{a,b,c\}}}$
