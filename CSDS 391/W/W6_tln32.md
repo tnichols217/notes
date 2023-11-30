@@ -75,4 +75,5 @@ ii, iii as adding more givens does nothing once that area of the net is already 
 
 ## b
 
-$P(b, u, \neg m, g, j)=P()$
+$P(b, u, \neg m, g, j)=P(b)P(\neg m)P(i|b,\neg m)P(g|i,b,\neg m)P(j|g)$
+$=0.9*$
