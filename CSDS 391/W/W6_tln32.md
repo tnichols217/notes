@@ -155,4 +155,7 @@ It would look exactly the same as $M$ solely depends on $T_1$ and $T_2$, just li
 
 ## c
 
-$P(T_a=)$
+$P(M=d|T_1=T_a,T_2=T_c)=1=P(T_a=T_c)$
+$\implies T_a=T_c$
+
+
