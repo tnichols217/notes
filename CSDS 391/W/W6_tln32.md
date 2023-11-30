@@ -113,8 +113,8 @@ C for coin selected and Hx for result of a traial and T for total heads flipped.
 | Hx\|C | P(Hx=h) |
 | ----- | ----- |
 | a     | 0.2   |
-| b     | 0.4   |
-| c     | 0.6   | 
+| b     | 0.6   |
+| c     | 0.8   | 
 
 $T=\sum\limits_{H\in\{H_1,H_2,H_3\}}H$
 $T\sim\text{binom}(3,P(H_x=h))$
@@ -124,4 +124,5 @@ $T\sim\text{binom}(3,P(H_x=h))$
 $P(C|T=2)$
 
 $P(C=a,T=2)=\begin{pmatrix}3\\2\end{pmatrix}0.2^20.8=0.096$
-$P(C=b,T=2)=$
+$P(C=b,T=2)=\begin{pmatrix}3\\2\end{pmatrix}0.6^20.4=0.432$
+$P(C=c,T=2)=$
