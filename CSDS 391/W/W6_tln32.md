@@ -143,5 +143,7 @@ Thus, it is most likely that $C=b$, the coin selected is the $b$ coin.
 
 $M\in\{w, l\}$ where a win is defined as the first team winning
 $T_x\in\{0, 1, 2, 3\}$ where $T_x$ is defined as the quality of the team
-$P(M=w|T_1,T_2)=\frac{T_1}{T_1+T_2}$
+$P(M=w|T_1,T_2)=(T_1>T_2)$
+$P(M=w|T_1,T_2)=(T_1>T_2)$
+$P(M=w|T_1,T_2)=(T_1>T_2)$
 
