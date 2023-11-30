@@ -116,8 +116,7 @@ C for coin selected and Hx for result of a traial and T for total heads flipped.
 | b     | 0.4   |
 | c     | 0.6   | 
 
-| T\|Hx |     |
-| ----- | --- |
+$T=\sum\limits_{H\in\{H_1,H_2,H_3\}}H$
 
 ## b
 
