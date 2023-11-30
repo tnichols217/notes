@@ -123,5 +123,4 @@ $T\sim\text{binom}(3,P(H_x=h))$
 
 $P(C|T=2)$
 
-$P(C=a,T=2,H_a,H_b,H_c)=0$
-$P(C=a,T=2,H_a,H_b,\neg H_c)=0$
+$P(C=a,T=2)=0$
