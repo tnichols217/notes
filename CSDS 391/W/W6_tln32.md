@@ -57,3 +57,6 @@ $=\sum\limits_{G_{mother}}\sum\limits_{G_{father}}P(G_{child}=l|G_{father},G_{mo
 $=m(1-q)^2+q(1-q)+q^2(1-m)$
 $\square$
 
+$q=m(1-q)^2+q(1-q)+q^2(1-m)$
+$=m-2mq+mq^2+q-q^2+q^2-mq^2$
+$=m-2mq+mq^2+q-q^2+q^2-mq^2$
