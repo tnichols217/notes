@@ -110,9 +110,14 @@ C for coin selected and Hx for result of a traial and T for total heads flipped.
 | b   | 1/3  |
 | c   | 1/3  |
 
-| H1  | P(H1) |
-| --- | ----- |
-|     |       |
+| Hx\|C | P(H1) |
+| ----- | ----- |
+| a     | 0.2   |
+| b     | 0.4   |
+| c     | 0.6   | 
+
+| T\|Hx |     |
+| ----- | --- |
 
 ## b
 
