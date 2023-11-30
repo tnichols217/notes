@@ -75,3 +75,4 @@ ii, iii as adding more givens does nothing once that area of the net is already 
 
 ## b
 
+$P(b, u, \neg m, g, j)=P()$
