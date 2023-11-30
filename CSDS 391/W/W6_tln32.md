@@ -123,4 +123,5 @@ $T=\sum\limits_{H\in\{H_1,H_2,H_3\}}H$
 $P(C|T=2)=\frac{P(C,T=2)}{P(T=2)}$
 $=\frac{\sum\limits_{H_X\in\{h,t\}}P(C,T=2,H_a,H_b,H_c)}{\sum\limits_{H_X\in\{h,t\},C\in\{a,b,c\}}P(C,T=2,H_a,H_b,H_c)}$
 
-$P(C=a,T=2)=$
+$P(C=a,T=2,H_a,H_b,H_c)=0$
+$P(C=a,T=2,H_a,H_b,\neg H_c)=0$
