@@ -37,4 +37,4 @@ A, for the same reasons
 
 ## d
 
-
+$s$ is not involved as that is the probability that the $G_{child}$ matches 
