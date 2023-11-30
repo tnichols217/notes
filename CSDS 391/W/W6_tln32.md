@@ -104,4 +104,12 @@ Because the president will likely take into account most of the other factors wh
 
 C for coin selected and H for heads.
 
-|||
+| C   | P(C) |
+| --- | ---- |
+| a   | 1/3  |
+| b   | 1/3  |
+| c   | 1/3  |
+
+## b
+
+
