@@ -102,13 +102,17 @@ Because the president will likely take into account most of the other factors wh
 
 ![[Pasted image 20231130173256.png]]
 
-C for coin selected and Hx for result of a traial and T for .
+C for coin selected and Hx for result of a traial and T for total heads flipped.
 
 | C   | P(C) |
 | --- | ---- |
 | a   | 1/3  |
 | b   | 1/3  |
 | c   | 1/3  |
+
+| H1  | P(H1) |
+| --- | ----- |
+|     |       |
 
 ## b
 
