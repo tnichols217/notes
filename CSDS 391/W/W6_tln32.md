@@ -117,7 +117,7 @@ C for coin selected and Hx for result of a traial and T for total heads flipped.
 | c     | 0.6   | 
 
 $T=\sum\limits_{H\in\{H_1,H_2,H_3\}}H$
-
+$T\sim\text{binom}(3,P(H_x=h))$
 ## b
 
 $P(C|T=2)=\frac{P(C,T=2)}{P(T=2)}$
