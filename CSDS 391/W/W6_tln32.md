@@ -92,3 +92,11 @@ Whenever Indicted is not true.
 
 ## e
 
+![[Pasted image 20231130172836.png]]
+
+Because the president will likely take into account most of the other factors when giving a pardon and will only impact whether they go to jail or not
+
+# 4
+
+## a
+
