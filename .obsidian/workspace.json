@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "CSDS 391/W/W6_tln32.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "CSDS 391/W/W6_tln32.md",
                 "mode": "preview",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Classes.md"
+                "file": "CSDS 391/W/W6_tln32.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "CSDS 391/W/W6_tln32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,11 +197,12 @@
   },
   "active": "ca3fe86c85fd0a6c",
   "lastOpenFiles": [
+    "cwru/Classes.md",
+    "CSDS 391/W/W6_tln32.md",
     "cwru/Plan.md",
     "STAT 345/Homework/9.md",
     "STAT 345/Textbook/4.3 - Bivariate Translation.md",
     "STAT 345/Homework/8.md",
-    "cwru/Classes.md",
     "cwru/Finished.md",
     "MUTH 104/Notes/Modes.md",
     "CSDS 391/P/2-extra.md",
@@ -242,7 +243,6 @@
     "CSDS 391/P/attachments/Pasted image 20231121000539.png",
     "MATH 223/Practice Problems/8 - Problem Set 8.md",
     "MATH 223/Practice Problems/15.1.md",
-    "STAT 345/Homework/7.md",
     "CSDS 391/W/W3.canvas",
     "STAT 345/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
