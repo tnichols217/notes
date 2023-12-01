@@ -236,10 +236,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 340,
-        "y": 132,
-        "width": 1024,
-        "height": 800,
+        "x": 284,
+        "y": 89,
+        "width": 1025,
+        "height": 801,
         "maximize": true,
         "zoom": 0.5
       }
@@ -248,8 +248,8 @@
   "active": "857ea094afc965a2",
   "lastOpenFiles": [
     "STAT 345/Textbook/3 - Common Distributions.md",
-    "STAT 345/Homework/9.md",
     "CSDS 391/W/W6_tln32.md",
+    "STAT 345/Homework/9.md",
     "CSDS 391/W/W6_tln32.pdf",
     "CSDS 391/W/attachments/Pasted image 20231130173256.png",
     "CSDS 391/W/attachments/Pasted image 20231130173055.png",
