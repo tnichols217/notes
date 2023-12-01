@@ -236,10 +236,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 284,
-        "y": 89,
+        "x": 345,
+        "y": 40,
         "width": 1025,
-        "height": 801,
+        "height": 800,
         "maximize": true,
         "zoom": 0.5
       }
