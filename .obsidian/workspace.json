@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/9.md"
+                "file": "STAT 345/Textbook/3 - Common Distributions.md"
               }
             }
           }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/9.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,47 +208,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "65929a2955d81b2c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a1a44aee6d02e15a",
-        "type": "window",
-        "children": [
-          {
-            "id": "01f06bd03bc8c5f3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "857ea094afc965a2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "STAT 345/Homework/9.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 345,
-        "y": 40,
-        "width": 1025,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "857ea094afc965a2",
+  "active": "0ac07faa97dee13a",
   "lastOpenFiles": [
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/9.md",
+    "STAT 345/Homework/9.pdf",
+    "STAT 345/Textbook/3 - Common Distributions.md",
     "CSDS 391/W/W6_tln32.md",
     "CSDS 391/W/W6_tln32.pdf",
     "CSDS 391/W/attachments/Pasted image 20231130173256.png",
@@ -273,7 +237,6 @@
     "CSDS 391/P/2-extra/plotter.py",
     "CSDS 391/P/2-extra/neural.py",
     "CSDS 391/P/2-extra/kMeans.py",
-    "CSDS 391/P/2-extra/irisdata.csv",
     "CSDS 391/P/attachments/Pasted image 20231128191050.png",
     "CSDS 391/P/attachments/Pasted image 20231128190829.png",
     "CSDS 391/P/attachments/Pasted image 20231128184536.png",
