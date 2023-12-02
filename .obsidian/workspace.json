@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "9dfc0a42f191fac9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "78ad3622524f9524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 391/W/W6_tln32.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
