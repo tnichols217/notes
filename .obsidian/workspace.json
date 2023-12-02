@@ -8,44 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca3fe86c85fd0a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 391/W/W6_tln32.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "1d1939adb75f005a"
-          },
-          {
-            "id": "d9e5c7a734c6b0b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0ac07faa97dee13a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "file": "MATH 223/Quiz/9.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "9dfc0a42f191fac9",
@@ -61,8 +35,7 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "1d1939adb75f005a"
+            }
           }
         ]
       }
@@ -124,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md"
+                "file": "MATH 223/Quiz/9.md"
               }
             }
           }
@@ -156,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "file": "MATH 223/Quiz/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,9 +183,10 @@
   },
   "active": "0ac07faa97dee13a",
   "lastOpenFiles": [
+    "STAT 345/Textbook/3 - Common Distributions.md",
+    "MATH 223/Quiz/9.md",
     "STAT 345/Homework/9.md",
     "STAT 345/Homework/9.pdf",
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "CSDS 391/W/W6_tln32.md",
     "CSDS 391/W/W6_tln32.pdf",
     "CSDS 391/W/attachments/Pasted image 20231130173256.png",
