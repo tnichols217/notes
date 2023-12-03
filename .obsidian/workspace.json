@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/10 - Problem Set 10.md",
+                "file": "MUTH 104/Notes/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/10 - Problem Set 10.md",
+                "file": "MUTH 104/Notes/Untitled.md",
                 "mode": "preview",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/10 - Problem Set 10.md"
+                "file": "MUTH 104/Notes/Untitled.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/10 - Problem Set 10.md",
+                "file": "MUTH 104/Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,9 +197,10 @@
   },
   "active": "0ac07faa97dee13a",
   "lastOpenFiles": [
+    "MATH 223/Practice Problems/10 - Problem Set 10.md",
+    "MUTH 104/Notes/Untitled.md",
     "MATH 223/Practice Problems/10 - Problem Set 10.pdf",
     "MATH 223/Practice Problems/9 - Problem Set 9.md",
-    "MATH 223/Practice Problems/10 - Problem Set 10.md",
     "MATH 223/Practice Problems/16.3.md",
     "MATH 223/Practice Problems/16.2.md",
     "MATH 223/Practice Problems/16.1.md",
@@ -232,7 +233,6 @@
     "CSDS 391/P/2-extra/2-extra.pdf",
     "CSDS 391/P/2-extra/solver.py",
     "CSDS 391/P/2-extra/plotter.py",
-    "CSDS 391/P/2-extra/neural.py",
     "CSDS 391/P/attachments/Pasted image 20231128191050.png",
     "CSDS 391/P/attachments/Pasted image 20231128190829.png",
     "CSDS 391/P/attachments/Pasted image 20231128184536.png",
