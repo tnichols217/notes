@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Quiz/9.md",
+                "file": "MATH 223/Practice Problems/16.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Quiz/9.md"
+                "file": "MATH 223/Practice Problems/16.1.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Quiz/9.md",
+                "file": "MATH 223/Practice Problems/16.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,9 +165,12 @@
   },
   "active": "0ac07faa97dee13a",
   "lastOpenFiles": [
+    "MATH 223/Practice Problems/16.2.md",
+    "MATH 223/Practice Problems/16.3.md",
+    "MATH 223/Practice Problems/16.1.md",
+    "MATH 223/Quiz/9.md",
     "MATH 223/Quiz/9.pdf",
     "STAT 345/Textbook/3 - Common Distributions.md",
-    "MATH 223/Quiz/9.md",
     "STAT 345/Homework/9.md",
     "STAT 345/Homework/9.pdf",
     "CSDS 391/W/W6_tln32.md",
@@ -193,7 +196,6 @@
     "CSDS 391/P/2-extra/solver.py",
     "CSDS 391/P/2-extra/plotter.py",
     "CSDS 391/P/2-extra/neural.py",
-    "CSDS 391/P/2-extra/kMeans.py",
     "CSDS 391/P/attachments/Pasted image 20231128191050.png",
     "CSDS 391/P/attachments/Pasted image 20231128190829.png",
     "CSDS 391/P/attachments/Pasted image 20231128184536.png",
@@ -207,8 +209,6 @@
     "obsidian-columns.md",
     "obsidian-molecules.md",
     "MATH 223/Practice Problems/15.6.md",
-    "CSDS 391/W/W5_tln32.md",
-    "MATH 223/Textbook/12.1 - Vector Operations.md",
     "CSDS 391/P/attachments/Pasted image 20231121002632.png",
     "CSDS 391/P/attachments/Pasted image 20231121001632.png",
     "CSDS 391/W/W3.canvas",
