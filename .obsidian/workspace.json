@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 223/Practice Problems/16.1.md",
+                "file": "MATH 223/Practice Problems/16.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Practice Problems/16.1.md"
+                "file": "MATH 223/Practice Problems/16.3.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Practice Problems/16.1.md",
+                "file": "MATH 223/Practice Problems/16.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,8 +166,8 @@
   "active": "0ac07faa97dee13a",
   "lastOpenFiles": [
     "MATH 223/Practice Problems/16.2.md",
-    "MATH 223/Practice Problems/16.3.md",
     "MATH 223/Practice Problems/16.1.md",
+    "MATH 223/Practice Problems/16.3.md",
     "MATH 223/Quiz/9.md",
     "MATH 223/Quiz/9.pdf",
     "STAT 345/Textbook/3 - Common Distributions.md",
