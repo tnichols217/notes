@@ -10,4 +10,4 @@
 		- AABBACCC′
 		- AABBCCDD
 		- AABBCCA
-	- 
+- 
