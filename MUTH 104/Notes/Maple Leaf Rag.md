@@ -1,4 +1,4 @@
-# Ragtime and Maple Leaf Rag
+# Ragtime
 
 - Musical style that was popular between 1890s to 1910s
 - Popularized mainly by Scott Joplin
@@ -12,3 +12,9 @@
 		- AABBCCA
 	- Bridges would often be included anywhere in the piece in the subdominant key, between themes or at the beginning
 
+# Scott Joplin
+
+- Son of a freed slave
+- Wanted to popularize and make ragtime an upperclass musical experience
+
+# Maple Leaf Rag
