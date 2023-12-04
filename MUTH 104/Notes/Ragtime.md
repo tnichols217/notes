@@ -10,4 +10,4 @@
 		- AABBACCC′
 		- AABBCCDD
 		- AABBCCA
-- 
+	- Bridges would often be included anywhere in the piece in the subdominant key, between 
