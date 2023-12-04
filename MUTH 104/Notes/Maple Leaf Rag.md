@@ -30,4 +30,4 @@
 - Feels like a call and response somewhat, with themes opposing and agreeing with each other
 - Contains only a piano, so there is not much layering apart from the two hands
 	- The right hand plays the melody
-	- The left hand primarily plays accompaniment but occasionally pl
+	- The left hand primarily plays accompaniment but occasionally plays the melody on downbeats
