@@ -4,4 +4,6 @@
 - Popularized mainly by Scott Joplin
 - Form
 	- Originally a modification of a march form
+	- Most commonly written in 2/4, but also can be in 4/4
+		- A 3/4 rag piece is called a rag waltz
 	- 
