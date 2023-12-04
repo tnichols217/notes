@@ -31,4 +31,5 @@
 - Contains only a piano, so there is not much layering apart from the two hands
 	- The right hand plays the melody
 	- The left hand primarily plays accompaniment but occasionally plays the melody on downbeats
-- This song does not originally have lyrics, but often was performed with lyrics written by Stark, describing the story 
+- This song does not originally have lyrics, but often was performed with lyrics written by Sydney Brown, describing the story of a poor man who impresses a rich crowd with the maple leaf rag
+- 
