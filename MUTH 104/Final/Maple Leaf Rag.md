@@ -38,6 +38,11 @@
 - V-I resolutions
 - Syncopation, upbeat
 - Mainly in the major key
+
+---
+
+## Maple Leaf Rag
+
 - Contains only a piano
 	- Right hand: melody
 	- Left hand: accompaniment
