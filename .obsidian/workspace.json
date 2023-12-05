@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65d771a9b5b839f7",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223/Quiz/9.md"
+                "file": "MUTH 104/Final/Maple Leaf Rag.md"
               }
             }
           }
@@ -111,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223/Quiz/9.md",
+                "file": "MUTH 104/Final/Maple Leaf Rag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +172,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "65d771a9b5b839f7",
   "lastOpenFiles": [
+    "export/Maple Leaf Rag/plugin",
+    "export/Maple Leaf Rag/dist",
+    "export/Maple Leaf Rag/css",
+    "export/Maple Leaf Rag/index.html",
+    "export/Maple Leaf Rag",
+    "export",
+    "MATH 223/Quiz/9.md",
     "MUTH 104/Final/Maple_Leaf_Rag_Annotated.pdf",
     "MUTH 104/Final/Slides.md",
     "MUTH 104/Final/Maple Leaf Rag.md",
@@ -183,14 +199,8 @@
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/plugin (copy).js",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/plugin.js",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/style.css",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chart/README.md",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chart/plugin.js",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chart/chart.min.js",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chart",
     "MUTH 104/Final/Maple Leaf Rag/plugin/customcontrols/README.md",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/customcontrols/plugin.js",
     "MUTH 104/Final/Maple Leaf Rag/plugin/menu/CONTRIBUTING.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/menu/README.md",
     "ARTS 302/Standard Sizes.md",
@@ -200,7 +210,6 @@
     "MATH 223/Practice Problems/16.3.md",
     "MATH 223/Practice Problems/16.2.md",
     "MATH 223/Practice Problems/16.1.md",
-    "MATH 223/Quiz/9.md",
     "MATH 223/Quiz/7.md",
     "MATH 223/Textbook/12.1 - Vector Operations.md",
     "STAT 345/Textbook/3 - Common Distributions.md",

@@ -7,7 +7,7 @@
   "enableMenu": false,
   "enablePointer": true,
   "enableTimeBar": false,
-  "theme": "mattropolis",
+  "theme": "solarized",
   "highlightTheme": "monokai",
   "transition": "slide",
   "transitionSpeed": "fast",
