@@ -48,17 +48,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c8bcc96b327c01a3",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,33 +193,33 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c8bcc96b327c01a3",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
-    "export/Maple Leaf Rag/plugin/chalkboard/README.md",
-    "export/Maple Leaf Rag/plugin/chalkboard/_style.css",
-    "export/Maple Leaf Rag/plugin/chalkboard/img/blackboard.png",
-    "export/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-black.png",
-    "export/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-green.png",
-    "export/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-orange.png",
-    "export/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-purple.png",
-    "export/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-red.png",
-    "export/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-yellow.png",
-    "export/Maple Leaf Rag/plugin/chalkboard/img/chalk-blue.png",
-    "export/Maple Leaf Rag/plugin/chalkboard/img/chalk-green.png",
-    "export/Maple Leaf Rag/plugin/chalkboard/img",
-    "export/Maple Leaf Rag/plugin/chalkboard/plugin (copy).js",
-    "export/Maple Leaf Rag/plugin/chalkboard/plugin.js",
-    "export/Maple Leaf Rag/plugin/chalkboard/style.css",
-    "export/Maple Leaf Rag/plugin/chalkboard",
-    "export/Maple Leaf Rag/plugin/chart/README.md",
-    "export/Maple Leaf Rag/plugin/chart/plugin.js",
-    "export/Maple Leaf Rag/plugin/chart/chart.min.js",
-    "export/Maple Leaf Rag/plugin/chart",
-    "export/Maple Leaf Rag/plugin/customcontrols/README.md",
-    "export/Maple Leaf Rag/plugin/customcontrols/plugin.js",
-    "export/Maple Leaf Rag/plugin/menu/CONTRIBUTING.md",
-    "export/Maple Leaf Rag/plugin/menu/README.md",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/README.md",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/_style.css",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/blackboard.png",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-black.png",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-blue.png",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-green.png",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-orange.png",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-purple.png",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-red.png",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-yellow.png",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/chalk-blue.png",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/chalk-green.png",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/plugin (copy).js",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/plugin.js",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/style.css",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chart/README.md",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chart/plugin.js",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chart/chart.min.js",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/chart",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/customcontrols/README.md",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/customcontrols/plugin.js",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/menu/CONTRIBUTING.md",
+    "MUTH 104/Final/Maple Leaf Rag/plugin/menu/README.md",
     "MUTH 104/Final/Slides.md",
     "MUTH 104/Final/Maple Leaf Rag.md",
     "ARTS 302/Standard Sizes.md",
