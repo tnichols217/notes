@@ -32,13 +32,11 @@
 
 ## Maple Leaf Rag
 
-- 2/4, A-A-B-B-Bridge-C-C-D-D
-
-
-- Was in 2/4 with a AABBCCDD pattern with a bridge between B and C
+- 2/4
+- A-A-B-B-Bridge-C-C-D-D
 - One of Scott Joplin's most famous and popular songs
 - Contains a lot of V-I resolutions, each phrase ending with a PAC
-- The melody has a lot of syncopation, giving a feeling of swing
+- Lots of syncopation
 - Very upbeat and happy, mainly in the major key with a few borrowed chords from the minor key
 - Feels like a call and response somewhat, with themes opposing and agreeing with each other
 - Contains only a piano, so there is not much layering apart from the two hands
