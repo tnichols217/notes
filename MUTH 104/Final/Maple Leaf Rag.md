@@ -32,6 +32,9 @@
 
 ## Maple Leaf Rag
 
+- 2/4, A-A-B-B-Bridge-C-C-D-D
+
+
 - Was in 2/4 with a AABBCCDD pattern with a bridge between B and C
 - One of Scott Joplin's most famous and popular songs
 - Contains a lot of V-I resolutions, each phrase ending with a PAC
