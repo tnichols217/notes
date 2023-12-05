@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "MUTH 104/Final/Maple Leaf Rag.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Final/Slides.md"
+                "file": "MUTH 104/Final/Maple Leaf Rag.md"
               }
             }
           }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Final/Slides.md",
+                "file": "MUTH 104/Final/Maple Leaf Rag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,10 +193,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0ac07faa97dee13a",
+  "active": "6986c752c624197a",
   "lastOpenFiles": [
-    "ARTS 302/Standard Sizes.md",
     "MUTH 104/Final/Slides.md",
+    "ARTS 302/Standard Sizes.md",
     "MUTH 104/Final/Maple Leaf Rag.md",
     "MUTH 104/Final",
     "APMusicTheory/Seventh Chords.md",
