@@ -1,3 +1,7 @@
+---
+theme:
+---
+
 ## Ragtime
 
 - Musical style that was popular between 1890s to 1910s
