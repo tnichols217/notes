@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "65d771a9b5b839f7",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +163,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "65d771a9b5b839f7",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
-    "export/Maple Leaf Rag/plugin",
-    "export/Maple Leaf Rag/dist",
-    "export/Maple Leaf Rag/css",
-    "export/Maple Leaf Rag/index.html",
-    "export/Maple Leaf Rag",
+    "MUTH 104/Final/Maple Leaf Rag/plugin",
+    "MUTH 104/Final/Maple Leaf Rag/dist",
+    "MUTH 104/Final/Maple Leaf Rag/css",
+    "MUTH 104/Final/Maple Leaf Rag/index.html",
+    "MUTH 104/Final/Maple Leaf Rag",
     "export",
     "MATH 223/Quiz/9.md",
     "MUTH 104/Final/Maple_Leaf_Rag_Annotated.pdf",
