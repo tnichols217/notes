@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/W/W6_tln32.md",
+                "file": "CSDS 391/P/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/W/W6_tln32.md"
+                "file": "CSDS 391/P/2.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/W/W6_tln32.md",
+                "file": "CSDS 391/P/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +165,7 @@
   },
   "active": "6986c752c624197a",
   "lastOpenFiles": [
+    "CSDS 391/W/W6_tln32.md",
     "MUTH 104/Final/Maple Leaf Rag.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin",
     "MUTH 104/Final/Maple Leaf Rag/dist",
@@ -204,7 +205,6 @@
     "MATH 223/Textbook/12.1 - Vector Operations.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/9.md",
-    "CSDS 391/W/W6_tln32.md",
     "STAT 345/Textbook/4.3 - Bivariate Translation.md",
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
