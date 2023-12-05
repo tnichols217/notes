@@ -40,6 +40,6 @@
 - Mainly in the major key
 - Contains only a piano
 	- Right hand: melody
-	- Left hand: accompaniment but occasionally plays the melody on downbeats
-- This song does not originally have lyrics, but often was performed with lyrics written by Sydney Brown, describing the story of a poor man who impresses a rich crowd with the maple leaf rag
-- Was one of the first and most popular examples of ragtime, and is still a great and influential piece today
+	- Left hand: accompaniment
+- Originally no lyrics
+	- Sydney Brown wrote some to accompany, describing the story of a poor man who impresses a rich crowd with the maple leaf rag
