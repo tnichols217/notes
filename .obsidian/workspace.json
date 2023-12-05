@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "b5e19890e3b29228",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0ac07faa97dee13a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MUTH 104/Final/Slides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "569e224ff6df4261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH 223/Quiz/9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "ae6eac31b8f50816",
         "type": "tabs",
         "children": [
@@ -109,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Final/Maple Leaf Rag.md"
+                "file": "MATH 223/Quiz/9.md"
               }
             }
           }
@@ -141,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Final/Maple Leaf Rag.md",
+                "file": "MATH 223/Quiz/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +165,8 @@
   },
   "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "MUTH 104/Final/Slides.md",
+    "MUTH 104/Final/Maple Leaf Rag.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/README.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/_style.css",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/blackboard.png",
@@ -220,8 +192,6 @@
     "MUTH 104/Final/Maple Leaf Rag/plugin/customcontrols/plugin.js",
     "MUTH 104/Final/Maple Leaf Rag/plugin/menu/CONTRIBUTING.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/menu/README.md",
-    "MUTH 104/Final/Slides.md",
-    "MUTH 104/Final/Maple Leaf Rag.md",
     "ARTS 302/Standard Sizes.md",
     "APMusicTheory/Seventh Chords.md",
     "MATH 223/Practice Problems/10 - Problem Set 10.md",
