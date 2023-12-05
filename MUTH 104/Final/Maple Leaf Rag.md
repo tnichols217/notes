@@ -32,15 +32,14 @@
 
 ## Maple Leaf Rag
 
+- One of Scott Joplin's most famous and popular songs
 - 2/4
 - A-A-B-B-Bridge-C-C-D-D
-- One of Scott Joplin's most famous and popular songs
-- Contains a lot of V-I resolutions, each phrase ending with a PAC
-- Lots of syncopation
-- Very upbeat and happy, mainly in the major key with a few borrowed chords from the minor key
-- Feels like a call and response somewhat, with themes opposing and agreeing with each other
-- Contains only a piano, so there is not much layering apart from the two hands
-	- The right hand plays the melody
-	- The left hand primarily plays accompaniment but occasionally plays the melody on downbeats
+- V-I resolutions
+- Syncopation, upbeat
+- Mainly in the major key
+- Contains only a piano
+	- Right hand: melody
+	- Left hand: accompaniment but occasionally plays the melody on downbeats
 - This song does not originally have lyrics, but often was performed with lyrics written by Sydney Brown, describing the story of a poor man who impresses a rich crowd with the maple leaf rag
 - Was one of the first and most popular examples of ragtime, and is still a great and influential piece today
