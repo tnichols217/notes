@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
+                "file": "cwru/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +165,8 @@
   },
   "active": "6986c752c624197a",
   "lastOpenFiles": [
+    "cwru/Plan.md",
+    "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "CSDS 391/Textbook/20 - Knowledge in Learning.md",
     "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/P/2.md",
@@ -209,8 +211,6 @@
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/9.md",
     "STAT 345/Textbook/4.3 - Bivariate Translation.md",
-    "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
-    "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
     "CSDS 391/W/W3.canvas",
     "STAT 345/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
