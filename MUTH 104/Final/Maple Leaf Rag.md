@@ -5,7 +5,7 @@
 
 ## Ragtime
 
-<split even>
+<split left="2" right="1" gap="2">
 
 - Musical style that was popular between 1890s to 1910s
 - Popularized mainly by Scott Joplin
