@@ -5,9 +5,14 @@
 
 ## Ragtime
 
-- Musical style that was popular between 1890s to 1910s
-- Popularized mainly by Scott Joplin
-- Tends to be more upbeat and happy
+>[!col]
+>> [!col-md]
+>> - Musical style that was popular between 1890s to 1910s
+>> - Popularized mainly by Scott Joplin
+>> - Tends to be more upbeat and happy
+>
+>> [!col-md]
+>> ![[Pasted image 20231206115158.png]]
 
 ---
 
