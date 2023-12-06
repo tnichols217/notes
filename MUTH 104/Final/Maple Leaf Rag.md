@@ -49,6 +49,8 @@
 - Syncopation, upbeat
 - Mainly in the major key
 
+![[Pasted image 20231206120952.png]]
+
 ---
 
 ## Maple Leaf Rag
