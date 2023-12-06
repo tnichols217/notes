@@ -42,6 +42,9 @@
 
 ## Maple Leaf Rag
 
+
+<split left="2" right="1" gap="2">
+
 - One of Scott Joplin's most famous and popular songs
 - 2/4
 - AABBA BrBr CC
@@ -49,7 +52,10 @@
 - Syncopation, upbeat
 - Mainly in the major key
 
+a 
 ![[Pasted image 20231206120952.png]]
+
+</split>
 
 ---
 
