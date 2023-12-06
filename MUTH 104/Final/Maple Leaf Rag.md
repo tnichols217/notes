@@ -11,7 +11,7 @@
 - Popularized mainly by Scott Joplin
 - Tends to be more upbeat and happy
 
-![[Pasted image 20231206115158.png|200]]
+![[Pasted image 20231206115158.png|50]]
 
 </split>
 
