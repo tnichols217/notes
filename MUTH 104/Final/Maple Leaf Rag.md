@@ -3,7 +3,7 @@
 
 ---
 
-## Ragtime
+### Ragtime
 
 <split left="2" right="1" gap="2">
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Ragtime - Form
+### Ragtime - Form
 
 - Originally a modification of a march
 - Most commonly written in 2/4, but also can be in 4/4
@@ -42,7 +42,6 @@
 
 ### Maple Leaf Rag
 
-
 <split left="1" right="1" gap="2">
 
 - One of Scott Joplin's most famous and popular songs
@@ -60,7 +59,7 @@
 
 ---
 
-## Maple Leaf Rag
+### Maple Leaf Rag
 
 - Contains only a piano
 	- Right hand: melody
