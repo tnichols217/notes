@@ -30,7 +30,7 @@
 
 ---
 
-## Scott Joplin
+### Scott Joplin
 
 - Son of a freed slave, had a harsh upbringing
 - Worked as a railroad worker before quitting to be a composer
@@ -40,10 +40,10 @@
 
 ---
 
-## Maple Leaf Rag
+### Maple Leaf Rag
 
 
-<split left="2" right="1" gap="2">
+<split left="1" right="1" gap="2">
 
 - One of Scott Joplin's most famous and popular songs
 - 2/4
@@ -52,8 +52,9 @@
 - Syncopation, upbeat
 - Mainly in the major key
 
-a 
+ 
 ![[Pasted image 20231206120952.png]]
+
 
 </split>
 
