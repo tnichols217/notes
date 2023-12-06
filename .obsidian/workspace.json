@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75a3fcf034c7e52e",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
