@@ -32,17 +32,11 @@
 
 ## Scott Joplin
 
-<split left="2" right="1" gap="2">
-
 - Son of a freed slave, had a harsh upbringing
 - Worked as a railroad worker before quitting to be a composer
 - Wanted to popularize and make ragtime an upperclass musical experience
 - Did not make much money and found it hard to find investors, eventually orchestrated his own pieces at a huge economic cost
 - Died of syphilis at the age of 48, whilst orchestrating Treemonisha
-
-![[Pasted image 20231206115411.png]]
-
-</split>
 
 ---
 
