@@ -40,7 +40,7 @@
 - Did not make much money and found it hard to find investors, eventually orchestrated his own pieces at a huge economic cost
 - Died of syphilis at the age of 48, whilst orchestrating Treemonisha
 
-![[Pasted image 20231206115411.png|500]]
+![[Pasted image 20231206115411.png]]
 
 </split>
 
