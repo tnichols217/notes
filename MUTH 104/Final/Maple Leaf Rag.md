@@ -38,7 +38,7 @@
 
 - One of Scott Joplin's most famous and popular songs
 - 2/4
-- AABBABrBrCCDD
+- AABBA BrBr CC
 - V-I resolutions
 - Syncopation, upbeat
 - Mainly in the major key
