@@ -267,6 +267,10 @@ Very similar to a binomial, except there is more than one possible outcome per t
 
 - Taking the marginal of any of the possible outcomes results in a regular binomial
 
+## Multivariable Normal
+
+
+
 # Families of Distributions
 
 ## Exponential Family
