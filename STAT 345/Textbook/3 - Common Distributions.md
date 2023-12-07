@@ -278,7 +278,9 @@ $M(\vec t)=\exp\left( \vec\mu^T\vec t+ \frac{1}{2}\vec t^T \mathbf{\Sigma}\vec t
 
 ### Bivariate $(\mu_X,\mu_Y,\sigma^2_X,\sigma^2_Y,\rho)$
 
-$f(x,y)=\frac{1}{2\pi\sigma_X\sigma_Y\sqrt{1-\rho^2}}\exp\left( -\frac{1}{2(1-\rho^2)}\left( \left( \frac{\vec x-\vec \mu_x}{\sigma_X} \right)^2 -2\rho \left( \frac{\vec x-\vec \mu_x}{\sigma_X} \right)\left( \frac{\vec y-\vec \mu_x}{\sigma_X} \right) \right) \right)$
+$f(x,y)=\frac{1}{2\pi\sigma_X\sigma_Y\sqrt{1-\rho^2}}\exp\left( -\frac{1}{2(1-\rho^2)}\left( \left( \frac{\vec x-\vec \mu_X}{\sigma_X} \right)^2 -2\rho \left( \frac{\vec x-\vec \mu_x}{\sigma_X} \right)\left( \frac{\vec y-\vec \mu_Y}{\sigma_Y} \right) + \left( \frac{\vec y-\vec \mu_Y}{\sigma_Y} \right)^2 \right) \right)$
+
+$\vec\mu$
 
 # Families of Distributions
 
