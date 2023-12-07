@@ -269,9 +269,9 @@ Very similar to a binomial, except there is more than one possible outcome per t
 
 ## Multivariable Normal
 
-Given $\mu\in\Re^k;\quad \Sigma\in\Re^{k^2};\quad k\in\mathbb{N}$
+Given $\vec\mu\in\Re^k;\quad \mathbf{\Sigma}\in\Re^{k^2};\quad k\in\mathbb{N}$
 
-
+$f(\vec x)=$
 
 # Families of Distributions
 
