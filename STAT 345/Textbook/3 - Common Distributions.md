@@ -267,7 +267,7 @@ Very similar to a binomial, except there is more than one possible outcome per t
 
 - Taking the marginal of any of the possible outcomes results in a regular binomial
 
-## Multivariable Normal
+## Multivariable Normal $(\vec\mu,\mathbf{\Sigma})$
 
 Given $\vec\mu\in\Re^k;\quad \mathbf{\Sigma}\in\Re^{k^2};\quad k\in\mathbb{N}$
 
@@ -276,7 +276,9 @@ $\vec\mu=\vec\mu$
 $\mathbf{\sigma^2}=\mathbf{\Sigma}$
 $M(\vec t)=\exp\left( \vec\mu^T\vec t+ \frac{1}{2}\vec t^T \mathbf{\Sigma}\vec t\right)$
 
-### B
+### Bivariate $(\mu_X,\mu_Y,\sigma^2_)$
+
+
 
 # Families of Distributions
 
