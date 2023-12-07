@@ -271,7 +271,7 @@ Very similar to a binomial, except there is more than one possible outcome per t
 
 Given $\vec\mu\in\Re^k;\quad \mathbf{\Sigma}\in\Re^{k^2};\quad k\in\mathbb{N}$
 
-$f(\vec x)=$
+$f(\vec x)=(2\pi)^{-k/2}\det(\mathbf{\Sigma})^{-1/2}\exp\left( -\frac{1}{2}(\vec x-\vec\mu)^T\mathbf{\Sigma} \right)$
 
 # Families of Distributions
 
