@@ -276,12 +276,12 @@ $\vec\mu=\vec\mu$
 $\mathbf{\sigma^2}=\mathbf{\Sigma}$
 $M(\vec t)=\exp\left( \vec\mu^T\vec t+ \frac{1}{2}\vec t^T \mathbf{\Sigma}\vec t\right)$
 
-### Bivariate $(\mu_X,\mu_Y,\sigma^2_X,\sigma^2_Y,\rho)$
+### Bivariate case $(\mu_X,\mu_Y,\sigma^2_X,\sigma^2_Y,\rho)$
 
 $f(x,y)=\frac{1}{2\pi\sigma_X\sigma_Y\sqrt{1-\rho^2}}\exp\left( -\frac{1}{2(1-\rho^2)}\left( \left( \frac{\vec x-\vec \mu_X}{\sigma_X} \right)^2 -2\rho \left( \frac{\vec x-\vec \mu_x}{\sigma_X} \right)\left( \frac{\vec y-\vec \mu_Y}{\sigma_Y} \right) + \left( \frac{\vec y-\vec \mu_Y}{\sigma_Y} \right)^2 \right) \right)$
 
 $\vec\mu=\langle\mu_X,\mu_Y\rangle$
-$\Sigma=\begin{bmatrix}\sigma^2_X& \rho\sigma_X\sigma_Y\end{bmatrix}$
+$\Sigma=\begin{bmatrix}\sigma^2_X& \rho\sigma_X\sigma_Y \\ \rho\sigma_X\sigma_Y& \sigma^2_Y\end{bmatrix}$
 
 # Families of Distributions
 
