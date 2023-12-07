@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Homework/10.md"
+                "file": "STAT 345/Textbook/3 - Common Distributions.md"
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Homework/10.md",
+                "file": "STAT 345/Textbook/3 - Common Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,10 +201,10 @@
       }
     ]
   },
-  "active": "6986c752c624197a",
+  "active": "d7130abbc9c97a07",
   "lastOpenFiles": [
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/10.md",
+    "STAT 345/Textbook/3 - Common Distributions.md",
     "MUTH 104/Final/Maple Leaf Rag.md",
     "MUTH 104/Final/attachments/Pasted image 20231206120952.png",
     "MUTH 104/Final/attachments/Pasted image 20231206120924.png",
