@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "function-pl",
+                "query": "\\vec",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -175,10 +176,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6986c752c624197a",
+  "active": "28942e6507e0526e",
   "lastOpenFiles": [
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Homework/10.md",
+    "STAT 345/Textbook/3 - Common Distributions.md",
     "MUTH 104/Final/Maple Leaf Rag.md",
     "MUTH 104/Final/attachments/Pasted image 20231206120952.png",
     "MUTH 104/Final/attachments/Pasted image 20231206120924.png",
