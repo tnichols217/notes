@@ -276,9 +276,9 @@ $\vec\mu=\vec\mu$
 $\mathbf{\sigma^2}=\mathbf{\Sigma}$
 $M(\vec t)=\exp\left( \vec\mu^T\vec t+ \frac{1}{2}\vec t^T \mathbf{\Sigma}\vec t\right)$
 
-### Bivariate $(\mu_X,\mu_Y,\sigma^2_)$
+### Bivariate $(\mu_X,\mu_Y,\sigma^2_X,\sigma^2_Y,\rho)$
 
-
+$f(x,y)=\frac{1}{2\pi}$
 
 # Families of Distributions
 
