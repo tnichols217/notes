@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Finished.md",
+                "file": "cwru/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Finished.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Finished.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +202,7 @@
   },
   "active": "6986c752c624197a",
   "lastOpenFiles": [
+    "cwru/Finished.md",
     "cwru/Plan.md",
     "cwru/Classes.md",
     "STAT 345/Homework/10.md",
