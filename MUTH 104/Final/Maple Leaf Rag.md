@@ -98,19 +98,27 @@
 
 ### Bridge
 
+<split left="1" right="1" gap="2">
+<div>
 ![[Pasted image 20231208045558.png]]
+</div>
 
 - New rhythm in the right hand
 	- Still maintains some syncopation
 - Repeated dialogue between two melodies
 - Change of key to the dominant
+</section>
 
 ---
 
 ### Section C
 
+<split left="1" right="1" gap="2">
+<div>
 ![[Pasted image 20231208045800.png]]
+</div>
 
 - Mixture of Bridge and original rhythm
 - Mainly rising arpeggios like section A
-- 
+- Return to the original key
+</section>
