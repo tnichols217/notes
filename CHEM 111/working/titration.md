@@ -1,8 +1,1 @@
-$V=0.204$
-
-Propionic Acid $0.063426$ mol
-NaOH $0.1003$ mol
-
-NaOH left = $0.009356$ mol
-
-
+$2NH_3+O_2=NO+3H_2O$
