@@ -163,45 +163,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "b0b42725f3a60558",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bf78374b484b7ff0",
-        "type": "window",
-        "children": [
-          {
-            "id": "d042244688345fa9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d7130abbc9c97a07",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "STAT 345/Textbook/3 - Common Distributions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1707,
-        "height": 1067,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "6986c752c624197a",
   "lastOpenFiles": [
+    "STAT 345/Textbook/3 - Common Distributions.md",
+    "MUTH 104/Final/Maple Leaf Rag.md",
     "MUTH 104/Final/attachments/Pasted image 20231208044822.png",
     "CHEM 111/working/titration.md",
     "cwru/Classes.md",
@@ -210,8 +175,6 @@
     "cwru/Plan.md",
     "STAT 345/Homework/10.md",
     "STAT 345/Homework/10.pdf",
-    "STAT 345/Textbook/3 - Common Distributions.md",
-    "MUTH 104/Final/Maple Leaf Rag.md",
     "MUTH 104/Final/attachments/Pasted image 20231206120952.png",
     "MUTH 104/Final/attachments/Pasted image 20231206120924.png",
     "MUTH 104/Final/attachments/Pasted image 20231206115411.png",
@@ -232,7 +195,6 @@
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-blue.png",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-green.png",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-orange.png",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-purple.png",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chart/README.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/customcontrols/README.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/menu/CONTRIBUTING.md",
