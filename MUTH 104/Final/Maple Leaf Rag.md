@@ -70,12 +70,18 @@
 ---
 
 ### Section A
+
+<split left="1" right="1" gap="2">
+
+
 ![[Pasted image 20231208044822.png]]
 
 - Very regular rhythm repeating every two measures
 - Steady pulse in the left hand
 - Rising arpeggios
 - Primary theme of the piece
+
+</split>
 
 ---
 
