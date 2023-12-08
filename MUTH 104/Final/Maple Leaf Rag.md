@@ -44,20 +44,12 @@
 
 ### Maple Leaf Rag
 
-<split left="1" right="1" gap="2">
-
 - One of Scott Joplin's most famous and popular songs
 - 2/4
 - AABBA BrBr CC
 - V-I resolutions
 - Syncopation, upbeat
 - Mainly in the major key
-
- 
-![[Pasted image 20231206120952.png]]
-
-
-</split>
 
 ---
 
@@ -75,8 +67,9 @@
 
 <split left="1" right="1" gap="2">
 
-
+<div>
 ![[Pasted image 20231208044822.png]]
+</div>
 
 - Very regular rhythm repeating every two measures
 - Steady pulse in the left hand
