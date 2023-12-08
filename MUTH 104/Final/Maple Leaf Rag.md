@@ -66,3 +66,6 @@
 	- Left hand: accompaniment
 - Originally no lyrics
 	- Sydney Brown wrote some to accompany, describing the story of a poor man who impresses a rich crowd with the maple leaf rag
+
+---
+
