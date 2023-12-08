@@ -101,4 +101,6 @@
 ![[Pasted image 20231208045558.png]]
 
 - New rhythm in the right hand
-	- Still maintains 
+	- Still maintains some syncopation
+- Repeated dialogue between two melodies
+- 
