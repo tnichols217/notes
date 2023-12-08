@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHEM 111/working/titration.md",
+                "file": "MUTH 104/Final/Maple Leaf Rag.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHEM 111/working/titration.md"
+                "file": "MUTH 104/Final/Maple Leaf Rag.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM 111/working/titration.md",
+                "file": "MUTH 104/Final/Maple Leaf Rag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +202,8 @@
   },
   "active": "6986c752c624197a",
   "lastOpenFiles": [
-    "cwru/Classes.md",
     "CHEM 111/working/titration.md",
+    "cwru/Classes.md",
     "CHEM 111/working",
     "cwru/Finished.md",
     "cwru/Plan.md",
