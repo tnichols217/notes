@@ -111,5 +111,6 @@
 
 ![[Pasted image 20231208045800.png]]
 
+- Mixture of Bridge and original rhythm
+- Mainly rising arpeggios like section A
 - 
-
