@@ -70,11 +70,14 @@
 ---
 
 ### Section A
+![[Pasted image 20231208044822.png]]
 
 - Very regular rhythm repeating every two measures
 - Steady pulse in the left hand
 - Rising arpeggios
 - Primary theme of the piece
+
+---
 
 ### Section B
 
