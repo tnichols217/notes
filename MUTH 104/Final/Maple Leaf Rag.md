@@ -98,4 +98,7 @@
 
 ### Bridge
 
+![[Pasted image 20231208045558.png]]
 
+- New rhythm in the right hand
+	- Still maintains 
