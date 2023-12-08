@@ -82,3 +82,5 @@
 
 ### Section B
 
+- Same rhythm as section A
+- Mixtures of rising and falling 
