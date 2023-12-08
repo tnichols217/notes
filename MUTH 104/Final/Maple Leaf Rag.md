@@ -72,4 +72,6 @@
 ### Section A
 
 - Very regular rhythm repeating every two measures
+- Steady pulse in the left hand
+- Rising arpeggios
 - 
