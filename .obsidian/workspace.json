@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "CHEM 111/working/titration.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Classes.md"
+                "file": "CHEM 111/working/titration.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "CHEM 111/working/titration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,12 +200,13 @@
       }
     ]
   },
-  "active": "b67808c7c498bc42",
+  "active": "6986c752c624197a",
   "lastOpenFiles": [
-    "CHEM 111/Untitled",
+    "cwru/Classes.md",
+    "CHEM 111/working/titration.md",
+    "CHEM 111/working",
     "cwru/Finished.md",
     "cwru/Plan.md",
-    "cwru/Classes.md",
     "STAT 345/Homework/10.md",
     "STAT 345/Homework/10.pdf",
     "STAT 345/Textbook/3 - Common Distributions.md",
@@ -231,7 +232,6 @@
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-green.png",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-orange.png",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-purple.png",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chart/README.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/customcontrols/README.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/menu/CONTRIBUTING.md",
