@@ -82,5 +82,11 @@
 
 ### Section B
 
+<split left="1" right="1" gap="2">
+<div>
+![[Pasted image 20231208045416.png]]
 - Same rhythm as section A
-- Mixtures of rising and falling 
+- Mixtures of rising and falling melodies
+	- Mainly rising
+- Small variation on A
+
