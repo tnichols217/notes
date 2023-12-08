@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "668b70ab2736b5f8",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,8 +174,9 @@
   },
   "active": "6986c752c624197a",
   "lastOpenFiles": [
-    "STAT 345/Textbook/3 - Common Distributions.md",
+    "MUTH 104/Final/test.md",
     "MUTH 104/Final/Maple Leaf Rag.md",
+    "STAT 345/Textbook/3 - Common Distributions.md",
     "MUTH 104/Final/attachments/Pasted image 20231208044822.png",
     "CHEM 111/working/titration.md",
     "cwru/Classes.md",
