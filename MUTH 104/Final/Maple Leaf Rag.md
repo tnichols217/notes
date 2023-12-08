@@ -71,4 +71,5 @@
 
 ### Section A
 
-- Very regular rythm 
+- Very regular rhythm repeating every two measures
+- 
