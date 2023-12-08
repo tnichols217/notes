@@ -75,3 +75,6 @@
 - Steady pulse in the left hand
 - Rising arpeggios
 - Primary theme of the piece
+
+### Section B
+
