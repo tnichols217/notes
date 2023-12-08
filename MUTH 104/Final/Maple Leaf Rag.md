@@ -103,4 +103,13 @@
 - New rhythm in the right hand
 	- Still maintains some syncopation
 - Repeated dialogue between two melodies
+- Change of key to the dominant
+
+---
+
+### Section C
+
+![[Pasted image 20231208045800.png]]
+
 - 
+
