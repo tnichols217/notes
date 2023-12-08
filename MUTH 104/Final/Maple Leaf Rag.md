@@ -85,8 +85,17 @@
 <split left="1" right="1" gap="2">
 <div>
 ![[Pasted image 20231208045416.png]]
+</div>
+
 - Same rhythm as section A
 - Mixtures of rising and falling melodies
 	- Mainly rising
 - Small variation on A
+
+</split>
+
+---
+
+### Bridge
+
 
