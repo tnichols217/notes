@@ -69,4 +69,6 @@
 
 ---
 
-### Rythm
+### Section A
+
+- Very regular rythm 
