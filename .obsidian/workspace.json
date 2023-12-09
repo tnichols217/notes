@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Final/Maple Leaf Rag.md",
+                "file": "CHEM 111/working/titration.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "09fe467ca5748226",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Final/Maple Leaf Rag.md"
+                "file": "CHEM 111/working/titration.md"
               }
             }
           }
@@ -120,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Final/Maple Leaf Rag.md",
+                "file": "CHEM 111/working/titration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,6 +165,7 @@
   },
   "active": "6986c752c624197a",
   "lastOpenFiles": [
+    "MUTH 104/Final/Maple Leaf Rag.md",
     "MUTH 104/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045800.png",
     "MUTH 104/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045558.png",
     "MUTH 104/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045416.png",
@@ -189,7 +181,6 @@
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-blue.png",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-green.png",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-orange.png",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-purple.png",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/plugin (copy).js",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/style.css",
@@ -201,7 +192,6 @@
     "MUTH 104/Final/Maple Leaf Rag/plugin/menu/CONTRIBUTING.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/menu/README.md",
     "MUTH 104/Final/test.md",
-    "MUTH 104/Final/Maple Leaf Rag.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "CHEM 111/working/titration.md",
     "cwru/Classes.md",
