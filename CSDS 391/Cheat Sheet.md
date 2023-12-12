@@ -1,21 +1,20 @@
 # Intelligent Agents
 
-An **agent** is anything that can perceive its environment (through sensors) and act upon it (through actuators)
-
-- **Percept sequences** is the history of perception of an agent
-- **Agent function** is what maps percept sequences into actions
-- **Tabulating** is putting inputs and outputs of an agent into a table
+**Agent**: anything that can perceive its environment and act upon it
+**Percept sequences**: the history of perception of an agent
+**Agent function**: what maps percept sequences into actions
+**Tabulating**: putting inputs and outputs of an agent into a table
 
 # Types of Searches
 
 ## Uninformed Search
 
-Depth First: Keep going until cannot, then swap children
-Breadth First: Expand all children of the closest node
-Best-first: Expand the node closest to the result
-Uniform-cost: Expand closest node accounting for node distance
-Depth limited: Depth first up to a limit
-Bidirectional: Start from beginning and end and meet in the middle
+**Depth First**: Keep going until cannot, then swap children
+**Breadth First**: Expand all children of the closest node
+**Best-first**: Expand the node closest to the result
+**Uniform-cost**: Expand closest node accounting for node distance
+**Depth limited**: Depth first up to a limit
+**Bidirectional**: Start from beginning and end and meet in the middle
 
 ## Informed Search
 
@@ -37,6 +36,6 @@ Bidirectional: Start from beginning and end and meet in the middle
 **MRV**: Pick the first variable to have the smallest state space, to reduce the tree quickly
 **Least constraining value**: Choose values that restrain the least to improve chances of finding a solution
 
-
+### 
 
 
