@@ -47,4 +47,5 @@
 
 # Adversarial Search
 **Minimax**: picks a move that has the best worst possible outcome assuming an optimal opponent
-**Alpha-Beta pruning**: highest possible u
+**Alpha-Beta pruning**: removing nodes that have less than optimal or more than possible heuristics assuming both players play optimally
+**Horizon effect**: imminent loss is continually delayed 
