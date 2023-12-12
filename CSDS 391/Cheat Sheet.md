@@ -46,6 +46,11 @@
 **Weighting**: weight certain constraints more so they don't de-solve
 
 # Adversarial Search
+## Minimax
+
 **Minimax**: picks a move that has the best worst possible outcome assuming an optimal opponent
 **Alpha-Beta pruning**: removing nodes that have less than optimal or more than possible heuristics assuming both players play optimally
-**Horizon effect**: imminent loss is continually delayed 
+**Horizon effect**: imminent loss is continually delayed as algorithm cannot see so far in advance
+
+## Monte Carlo TS
+**MCTS**: Selects, expands, simulates, then back propagates n
