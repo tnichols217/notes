@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md"
+                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
+                "file": "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,6 +203,7 @@
   "active": "4d0766c3b1d025d8",
   "lastOpenFiles": [
     "CSDS 391/Cheat Sheet.md",
+    "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
@@ -247,7 +248,6 @@
     "cwru/Plan.md",
     "STAT 345/Homework/10.md",
     "ARTS 302/Standard Sizes.md",
-    "CV.md",
     "CSDS 391/W/W3.canvas",
     "STAT 345/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
