@@ -32,10 +32,9 @@
 **Path Consistency**: all binary constraints can be satisfied upon triplets of nodes
 
 ## Searches
-### Variable Ordering
+### Methods
 **MRV**: Pick the first variable to have the smallest state space, to reduce the tree quickly
 **Least constraining value**: Choose values that restrain the least to improve chances of finding a solution
-
-### 
+**Forward checking**: remove all arc-inconsistent values after any assignment
 
 
