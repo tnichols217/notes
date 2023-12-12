@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/2 - Intelligent Agents.md"
+                "file": "CSDS 391/Cheat Sheet.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/2 - Intelligent Agents.md",
+                "file": "CSDS 391/Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,13 +163,50 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4d0766c3b1d025d8",
+  "floating": {
+    "id": "2cace33eb3e872ef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e681bab9d0abe958",
+        "type": "window",
+        "children": [
+          {
+            "id": "06f7abdedcb1e5f4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3436d20c70bb2c50",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CSDS 391/Cheat Sheet.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 340,
+        "y": 132,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3436d20c70bb2c50",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
+    "CSDS 391/Cheat Sheet.md",
+    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
     "CSDS 391/Textbook/1 - Intro to AI.md",
-    "CSDS 391/Cheat Sheet.md",
     "MATH 223/Practice Problems/11 - Problem Set 11.md",
     "MATH 223/Practice Problems/11 - Problem Set 11.pdf",
     "MATH 223/Practice Problems/17.1.md",
