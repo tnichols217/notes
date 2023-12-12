@@ -73,4 +73,5 @@ $\text{Posterior}=\frac{\text{Likelihood}\cdot\text{Prior}}{\text{Marginal}}$
 **NN Forward Pass**: $f(\vec b+W@\vec x)$
 **NN Backpropogation**: $f'(\vec b+W@\vec x)\cdot\vec x$
 **Sigmoid**: $\frac{1}{1+e^{-x}}$
-**Sigmoid'**: $\sigma($
+**Sigmoid'**: $\sigma(1-\sigma)$
+
