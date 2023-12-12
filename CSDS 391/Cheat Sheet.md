@@ -60,12 +60,7 @@
 
 # Uncertainty
 
-**Posterior, Likelihood, Prior, and Marginal Probabilities**:
+**Bayes Rule**:
 $P(A|B)=\frac{P(B|A)P(A)}{P(B)}$
-
-$\text{Posterior}=\frac{\}{}$
-
-Posterior: $P(A|B)$
-Likelihood: $P(B|A)$
-Prior: $P(A)$
-Marginal: $P(B)$
+$\text{Posterior}=\frac{\text{Likelihood}\cdot\text{Prior}}{\text{Marginal}}$
+**Naive Bayes Rule**: 
