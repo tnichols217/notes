@@ -28,7 +28,9 @@ SMA\*: A* but keep top nodes until memory runs out, then prune
 
 # CSP
 ## Constraints
-Unary: each individual constraint
-Binary: constraints involving two variables
-Global: constraints involving more
+Node Consistency: all unary constraints are satisfied
+Arc Consistency: all binary constraints are satisfied
+
+
+
 
