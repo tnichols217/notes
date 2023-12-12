@@ -28,7 +28,7 @@ Bidirectional: Start from beginning and end and meet in the middle
 
 Greedy Best-first: Expand the closest node
 A\*: Expand the smallest heuristic + distance to start
-Weighted A\*
+Weighted A\*: Multiply heu
 
 ### Beam
 
