@@ -45,4 +45,5 @@
 **Tabu**: keep list of failed states to avoid revisitation
 **Weighting**: weight certain constraints more so they don't de-solve
 
+# Adversarial Search
 
