@@ -64,5 +64,6 @@
 $P(A|B)=\frac{P(B|A)P(A)}{P(B)}$
 $\text{Posterior}=\frac{\text{Likelihood}\cdot\text{Prior}}{\text{Marginal}}$
 **Naive Bayes Rule**: $P(X_1,...,X_n)=P(X_1)\prod\limits_{i=2}^{n}P(X_i|X_1)$ (Assuming independence across variables)
-**Bayes net state probability**: 
+**Bayes net state probability**: $P(x_1,...,x_n)=\prod\limits_{i=1}^nP(x_i|\text{parents}(X_i))$
+**False Negative**: Heuristic falsely reports false
 
