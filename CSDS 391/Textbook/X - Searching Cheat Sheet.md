@@ -22,7 +22,7 @@ Breadth First: Expand the closest node
 Best-first: Expand the node closest to the result
 Uniform-cost: Expand closest node accounting for node distance
 Depth limited: Depth first up to a limit
-Bidirectional: 
+Bidirectional: Start from beginning and end and meet in the middle
 
 ## Informed Search
 
