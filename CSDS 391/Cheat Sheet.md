@@ -27,5 +27,8 @@ IDA\*: A* but only add nodes to frontier if below the threshold
 SMA\*: A* but keep top nodes until memory runs out, then prune
 
 # CSP
-
+## Constraints
+Unary: each individual constraint
+Binary: constraints involving two variables
+Global: constraints involving more
 
