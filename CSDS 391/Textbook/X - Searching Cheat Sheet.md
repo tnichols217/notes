@@ -18,7 +18,7 @@ Measured by
 ## Uninformed Search
 
 Depth First: Keep going until cannot, then swap children
-Breadth First: Expand the closest node
+Breadth First: Expand all children of the closest node
 Best-first: Expand the node closest to the result
 Uniform-cost: Expand closest node accounting for node distance
 Depth limited: Depth first up to a limit
@@ -26,7 +26,7 @@ Bidirectional: Start from beginning and end and meet in the middle
 
 ## Informed Search
 
-### Greedy Best-first
+Greedy Best-first: 
 
 ### A\*
 
