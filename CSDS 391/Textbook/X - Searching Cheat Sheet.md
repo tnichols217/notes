@@ -26,11 +26,9 @@ Bidirectional: Start from beginning and end and meet in the middle
 
 ## Informed Search
 
-Greedy Best-first: 
-
-### A\*
-
-### Weighted A\*
+Greedy Best-first: Expand the closest node
+A\*: Expand the smallest heuristic + distance to start
+Weighted A\*
 
 ### Beam
 
