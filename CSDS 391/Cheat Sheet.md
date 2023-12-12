@@ -69,3 +69,4 @@ $\text{Posterior}=\frac{\text{Likelihood}\cdot\text{Prior}}{\text{Marginal}}$
 
 # Clustering
 
+**k-means **
