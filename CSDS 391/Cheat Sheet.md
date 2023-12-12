@@ -53,4 +53,6 @@
 **Horizon effect**: imminent loss is continually delayed as algorithm cannot see so far in advance
 
 ## Monte Carlo TS
-**MCTS**: Selects, expands, simulates, then back propagates n
+**MCTS**: Selects, expands, simulates, then back propagates nodes to choose a move
+**Selection Policy**: A function to create moves that explore or refine
+**Playout Policy**: A function to deterministically choose moves 
