@@ -42,4 +42,7 @@
 1. Start with random assignments
 2. Pick a variable, modify its value to reduce collisions
 
-**Tabu**: 
+**Tabu**: keep list of failed states to avoid revisitation
+**Weighting**: weight certain constraints more so they don't de-solve
+
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
+                "file": "CSDS 391/Textbook/6 - Adversarial Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,6 +202,7 @@
   },
   "active": "3436d20c70bb2c50",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "CSDS 391/Cheat Sheet.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
@@ -247,7 +248,6 @@
     "ARTS 302/Standard Sizes.md",
     "CV.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/README.md",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chart/README.md",
     "CSDS 391/W/W3.canvas",
     "STAT 345/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
