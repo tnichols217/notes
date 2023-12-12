@@ -71,4 +71,4 @@ $\text{Posterior}=\frac{\text{Likelihood}\cdot\text{Prior}}{\text{Marginal}}$
 **k-means update Algorithm**: $\frac{\sum\limits_{n=1}^Nr_{n,k}\vec x_n}{\sum\limits_{n=1}^Nr_{n,k}}=\vec\mu_k$
 **MSE**: $\sum\limits_{n=1}^N(\vec o_n-\vec c_n)^2$
 **NN Forward Pass**: $f(\vec b+W@\vec x)$
-**NN Backpropogation**: $f'(\vec b+W@\vec x)\vec x$
+**NN Backpropogation**: $f'(\vec b+W@\vec x)\cdot\vec x$
