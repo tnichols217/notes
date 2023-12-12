@@ -32,6 +32,9 @@ Node Consistency: all unary constraints are satisfied
 Arc Consistency: all binary constraints can be satisfied with current possible values
 Path Consistency: all binary constraints can be satisfied upon triplets of nodes
 
+## Searches
+### Variable Ordering
+MRV: Pick the first variable to have the smallest state space, to reduce the tree quickly
 
 
 
