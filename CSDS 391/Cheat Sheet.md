@@ -67,6 +67,7 @@ $\text{Posterior}=\frac{\text{Likelihood}\cdot\text{Prior}}{\text{Marginal}}$
 **Bayes net state probability**: $P(x_1,...,x_n)=\prod\limits_{i=1}^nP(x_i|\text{parents}(X_i))$
 **False Negative**: Heuristic falsely reports false
 
-# Clustering
-## k-means
-**Update Algorithm**: $\frac{\sum\limits_{n=1}^Nr_{n,k}\vec x_n}{\sum\limits_{n=1}^Nr_{n,k}}=\vec\mu_k$
+# Clustering and Neural Networks
+**k-means update Algorithm**: $\frac{\sum\limits_{n=1}^Nr_{n,k}\vec x_n}{\sum\limits_{n=1}^Nr_{n,k}}=\vec\mu_k$
+**MSE**: $\sum\limits_{n=1}^N(\vec o_n-\vec c_n)^2$
+**NN Forward Pass**: $$
