@@ -68,5 +68,5 @@ $\text{Posterior}=\frac{\text{Likelihood}\cdot\text{Prior}}{\text{Marginal}}$
 **False Negative**: Heuristic falsely reports false
 
 # Clustering
-
-**k-means **
+## k-means
+**Update Algorithm**: $\frac{\sum\limits_{n=1}^Nr_{n,k}\vec x_n}{\sum\limits_{n=1}^Nr_{n,k}}=\vec\mu_k$
