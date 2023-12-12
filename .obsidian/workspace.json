@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Cheat Sheet.md"
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Cheat Sheet.md",
+                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,10 +200,11 @@
       }
     ]
   },
-  "active": "3436d20c70bb2c50",
+  "active": "4d0766c3b1d025d8",
   "lastOpenFiles": [
-    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/Cheat Sheet.md",
+    "CSDS 391/Cheat Sheet.pdf",
+    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/P/2.md",
     "CSDS 391/W/W5_tln32.md",
     "CSDS 391/W/W4_tln32.md",
@@ -241,13 +242,11 @@
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/plugin (copy).js",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/style.css",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/plugin.js",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chart/README.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/customcontrols/README.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/menu/CONTRIBUTING.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/menu/README.md",
     "MUTH 104/Final/test.md",
-    "STAT 345/Textbook/3 - Common Distributions.md",
     "CSDS 391/W/W3.canvas",
     "STAT 345/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
