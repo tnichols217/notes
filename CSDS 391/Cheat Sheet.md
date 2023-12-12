@@ -55,4 +55,5 @@
 ## Monte Carlo TS
 **MCTS**: Selects, expands, simulates, then back propagates nodes to choose a move
 **Selection Policy**: A function to create moves that explore or refine
-**Playout Policy**: A function to deterministically choose moves 
+**Playout Policy**: A function to deterministically choose moves for both sides to simulate the end game of a node
+**UCBI**: Selection Policy that ranks moves based on certainty and win-rate

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/6 - Adversarial Search.md",
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Cheat Sheet.md"
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Cheat Sheet.md",
+                "file": "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,11 +200,11 @@
       }
     ]
   },
-  "active": "3436d20c70bb2c50",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "CSDS 391/Cheat Sheet.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
-    "CSDS 391/Cheat Sheet.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
     "CSDS 391/Textbook/3 - Searching.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
