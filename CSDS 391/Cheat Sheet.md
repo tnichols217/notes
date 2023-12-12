@@ -57,3 +57,15 @@
 **Selection Policy**: A function to create moves that explore or refine
 **Playout Policy**: A function to deterministically choose moves for both sides to simulate the end game of a node
 **UCBI**: Selection Policy that ranks moves based on certainty and win-rate
+
+# Uncertainty
+
+**Posterior, Likelihood, Prior, and Marginal Probabilities**:
+$P(A|B)=\frac{P(B|A)P(A)}{P(B)}$
+
+$\text{Posterior}=\frac{\}{}$
+
+Posterior: $P(A|B)$
+Likelihood: $P(B|A)$
+Prior: $P(A)$
+Marginal: $P(B)$
