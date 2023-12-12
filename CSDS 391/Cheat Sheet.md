@@ -75,3 +75,8 @@ $\text{Posterior}=\frac{\text{Likelihood}\cdot\text{Prior}}{\text{Marginal}}$
 **Sigmoid**: $\frac{1}{1+e^{-x}}$
 **Sigmoid'**: $\sigma(1-\sigma)$
 
+# Sequential Data
+
+**Filtering**: $P(X_t|e_{1:t})$
+**Prediction**: $P(X_{t+k}|e_{1:k})$
+**Smoothing**: $P(X_k)$
