@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 391/Textbook/20 - Knowledge in Learning.md",
+                "file": "CSDS 391/P/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,16 +202,17 @@
   },
   "active": "3436d20c70bb2c50",
   "lastOpenFiles": [
+    "CSDS 391/P/2.md",
+    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
+    "CSDS 391/Cheat Sheet.md",
     "CSDS 391/Textbook/20 - Knowledge in Learning.md",
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
-    "CSDS 391/Cheat Sheet.md",
     "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
     "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
     "CSDS 391/Textbook/3 - Searching.md",
     "CSDS 391/Textbook/2 - Intelligent Agents.md",
-    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/Textbook/1 - Intro to AI.md",
     "MATH 223/Practice Problems/11 - Problem Set 11.md",
     "MATH 223/Practice Problems/11 - Problem Set 11.pdf",
@@ -247,7 +248,6 @@
     "cwru/Classes.md",
     "cwru/Finished.md",
     "cwru/Plan.md",
-    "STAT 345/Homework/10.md",
     "CSDS 391/W/W3.canvas",
     "STAT 345/Textbook/Untitled.canvas",
     "church/Untitled.canvas"

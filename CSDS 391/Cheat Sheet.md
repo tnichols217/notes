@@ -67,3 +67,5 @@ $\text{Posterior}=\frac{\text{Likelihood}\cdot\text{Prior}}{\text{Marginal}}$
 **Bayes net state probability**: $P(x_1,...,x_n)=\prod\limits_{i=1}^nP(x_i|\text{parents}(X_i))$
 **False Negative**: Heuristic falsely reports false
 
+# Clustering
+
