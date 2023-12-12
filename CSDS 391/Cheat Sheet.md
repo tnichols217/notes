@@ -83,4 +83,4 @@ Where $X$ is the state and $E$ is the effect
 **Filtering**: $P(X_t|e_{1:t})$
 **Prediction**: $P(X_{t+k}|e_{1:k})$
 **Smoothing**: $P(X_k|e_{1:t})$
-**Most likely Solution**: $P(\text{argmax}_{x_})$
+**Most likely Solution**: $\text{argmax}_{X_1:t}P(X_{1:t}|e_{1:t}))$
