@@ -38,4 +38,8 @@
 **Least constraining value**: Choose values that restrain the least to improve chances of finding a solution
 **Forward checking**: remove all arc-inconsistent values after any assignment
 
+### Local
+1. Start with random assignments
+2. Pick a variable, modify its value to reduce collisions
 
+**Tabu**: 
