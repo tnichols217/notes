@@ -17,13 +17,10 @@ Measured by
 
 ## Uninformed Search
 
-### Depth First
-
-### Breadth First
-
-### Best-first
-
-### Uniform-cost
+Depth First: Keep going until cannot, then swap children
+Breadth First: Expand the closest node
+Best-first: Expand the node closest to the result
+Uniform-cost
 
 ### Depth limited
 
