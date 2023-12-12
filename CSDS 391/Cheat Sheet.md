@@ -29,7 +29,10 @@ SMA\*: A* but keep top nodes until memory runs out, then prune
 # CSP
 ## Constraints
 Node Consistency: all unary constraints are satisfied
-Arc Consistency: all binary constraints are satisfied
+Arc Consistency: all binary constraints can be satisfied with current possible values
+Path Consistency: all binary constraints can be satisfied upon triplets of nodes
+
+
 
 
 
