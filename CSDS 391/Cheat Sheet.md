@@ -46,4 +46,5 @@
 **Weighting**: weight certain constraints more so they don't de-solve
 
 # Adversarial Search
-
+**Minimax**: picks a move that has the best worst possible outcome assuming an optimal opponent
+**Alpha-Beta pruning**: highest possible u
