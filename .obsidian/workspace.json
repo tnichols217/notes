@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md"
+                "file": "CSDS 391/Cheat Sheet.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
+                "file": "CSDS 391/Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,14 +200,14 @@
       }
     ]
   },
-  "active": "4d0766c3b1d025d8",
+  "active": "3436d20c70bb2c50",
   "lastOpenFiles": [
+    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/P/2.md",
     "CSDS 391/Cheat Sheet.md",
     "CSDS 391/W/W5_tln32.md",
     "CSDS 391/W/W4_tln32.md",
     "CSDS 391/W/W6_tln32.md",
-    "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/Textbook/20 - Knowledge in Learning.md",
     "CSDS 391/Textbook/13 - Probabilistic Reasoning.md",
     "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
