@@ -19,23 +19,23 @@ Bidirectional: Start from beginning and end and meet in the middle
 
 ## Informed Search
 
-Greedy Best-first: Expand the closest node
-A\*: Expand the smallest heuristic + distance to start
-Weighted A\*: Multiply heuristic by a constant to make A* more greedy
-Beam: best first, but only keep the top k nodes
-IDA\*: A* but only add nodes to frontier if below the threshold
-SMA\*: A* but keep top nodes until memory runs out, then prune
+**Greedy Best-first**: Expand the closest node
+**A\***: Expand the smallest heuristic + distance to start
+**Weighted A\***: Multiply heuristic by a constant to make A* more greedy
+**Beam**: best first, but only keep the top k nodes
+**IDA\***: A* but only add nodes to frontier if below the threshold
+**SMA\***: A* but keep top nodes until memory runs out, then prune
 
 # CSP
 ## Constraints
-Node Consistency: all unary constraints are satisfied
-Arc Consistency: all binary constraints can be satisfied with current possible values
-Path Consistency: all binary constraints can be satisfied upon triplets of nodes
+**Node Consistency**: all unary constraints are satisfied
+**Arc Consistency**: all binary constraints can be satisfied with current possible values
+**Path Consistency**: all binary constraints can be satisfied upon triplets of nodes
 
 ## Searches
 ### Variable Ordering
-MRV: Pick the first variable to have the smallest state space, to reduce the tree quickly
-
+**MRV**: Pick the first variable to have the smallest state space, to reduce the tree quickly
+**Least constraining value**: Choose values that restrain the least to improve chances of finding a solution
 
 
 
