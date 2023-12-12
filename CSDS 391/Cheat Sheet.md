@@ -72,3 +72,5 @@ $\text{Posterior}=\frac{\text{Likelihood}\cdot\text{Prior}}{\text{Marginal}}$
 **MSE**: $\sum\limits_{n=1}^N(\vec o_n-\vec c_n)^2$
 **NN Forward Pass**: $f(\vec b+W@\vec x)$
 **NN Backpropogation**: $f'(\vec b+W@\vec x)\cdot\vec x$
+**Sigmoid**: $\frac{1}{1+e^{-x}}$
+**Sigmoid'**: $\sigma($
