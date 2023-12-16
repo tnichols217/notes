@@ -282,7 +282,7 @@ strong em,
   margin: 0;
 }
 
-.callout[data-callout="para"] p, .admonition-para p {
+.callout[data-callout="para"] p, .admonition-para p, .callout[data-callout="para"] strong, .admonition-para strong, .callout[data-callout="para"] em, .admonition-para em, .callout[data-callout="para"] strong em, .admonition-para strong em {
   color: var(--text-normal);
   text-indent: 1.27cm;
   font-family: 'Times New Roman', 'Times';
