@@ -4,6 +4,20 @@
     "type": "split",
     "children": [
       {
+        "id": "fb8618fbc925a286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a872fe1dfbf8e3da",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "02e9da2b998bf76d",
         "type": "tabs",
         "children": [
@@ -17,14 +31,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a872fe1dfbf8e3da",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
             }
           },
           {
