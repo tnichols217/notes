@@ -15,4 +15,4 @@
 > 
 > Although the original piece did not utilize enharmonics that made the function of certain chords obvious, with a little restructuring, it is easy to see that it simply follows a $V-I$ pattern for majority of the piece, with interest thrown in with a few $VI$ and $vii$ chords off the $V$s. At a couple points in the melody, secondary dominance is used on both the minor key and the supertonic tone.
 > 
-> The A section 
+> The A section features a 
