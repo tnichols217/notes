@@ -5,5 +5,4 @@
 > ###### MUTH 104
 > # Maple Leaf Rag
 > 
-> The Maple Leaf Rag is a ragtime piece composed by Scott Joplin
-
+> The Maple Leaf Rag is a ragtime piece composed by Scott Joplin and released in 1899. This was one of Scott Joplin's most well for
