@@ -186,22 +186,14 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "c1008cbf3a4fdcc7",
-                "type": "leaf",
-                "state": {
-                  "type": "reveal-preview-view",
-                  "state": {}
-                }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 853,
+        "x": 852,
         "y": 0,
-        "width": 854,
+        "width": 855,
         "height": 1067,
         "maximize": false,
         "zoom": 0

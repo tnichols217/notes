@@ -283,6 +283,7 @@ strong em,
 }
 
 .callout[data-callout="para"] p, .admonition-para p {
+  color: var(--text-normal);
   text-indent: 1.27cm;
   font-family: 'Times New Roman', 'Times';
   font-size: 11pt;
