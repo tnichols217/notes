@@ -13,4 +13,4 @@
 > 
 > Out of Scott Joplin's works, *Maple Leaf Rag* is up there amongst his most famous pieces *The Entertainer*, *Solace*, and *Stoptime Rag*. It has a time signature of $\frac{2}{4}$ and follows the form of $AABBACC$ with a repeated bridge before the double $C$ section. The piece features a lot of $V-I$ resolutions and generally follows the 18th century chord progression system tightly apart from a few instances of borrowing chords from the minor key, and the supertonic key. The piece is in $A\flat$ major, and switches to the dominant ($E\flat$ major) during the bridge. The rhythms feature a lot of syncopation — much like the rest of ragtime and the melodies feature a lot of octaves and arpeggios. It was originally written for piano, but also orchestrated later. The original left hand mainly exists to accompany the melody in the right hand, utilizing chords and octaves to accentuate particular points in the song. The right hand plays the melody, often in syncopation with the left hand, which also features a lot of arpeggios.
 > 
-> 
+> Although the original 
