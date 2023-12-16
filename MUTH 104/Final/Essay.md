@@ -23,4 +23,4 @@
 > 
 > The last section C Switches back to the original key, whilst maintaining some of the melodies from the bridge and more of the patterns of A. It has a very resolute and satisfactory ending to the song as well.
 > 
-> Overall, the *Maple Leaf Rag* is one of Scott Joplin's masterpieces in the genre of ragtime, displaying multiple characteristics of the rest of ragtime while showing more technical and musical nuance throughout
+> Overall, the *Maple Leaf Rag* is one of Scott Joplin's masterpieces in the genre of ragtime, displaying multiple characteristics of the rest of ragtime while showing more technical and musical nuance throughout — making it a favorite among musicians and audiences alike.
