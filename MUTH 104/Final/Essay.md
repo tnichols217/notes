@@ -19,4 +19,4 @@
 > 
 > By comparison — or similarity — the B section also uses the exact same rhythm more religiously in the section, but strays from the strictly upward arpeggios found in the A section, and has an overall downward movement throughout the section, and a single downward arpeggio at the end of the section. It feels to me more like a slight modification of the A theme — a combination of upward arpeggios with the overall downward movement.
 > 
-> The Bridge, the most different section in the piece 
+> The Bridge, the most different section in the piece introduces a new rhythm in the right hand, whilst maintaining a similar pattern in the left. It has a small dialogue with the upward and downward movement from the A and B section, having both upward and downward movement as well as arpeggios. 
