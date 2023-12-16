@@ -17,4 +17,4 @@
 > 
 > The A section features a regular rhythm in the first two measures and repeats the exact same and variations of the rhythm throughout the entire section. The left hand has an even simpler rhythm of mainly just eighth notes for the entire song. The first section's melody mainly consists of upward arpeggios in multiple forms with embellishments. I would consider this to be the primary theme of the piece as it is revisited again later.
 > 
-> By comparison — or similarity — the B section also uses the exact same rhythm more religiously in the section, but strays from the strictly upward arpeggios found in the A section, and has a tint of 
+> By comparison — or similarity — the B section also uses the exact same rhythm more religiously in the section, but strays from the strictly upward arpeggios found in the A section, and has a tinge of the opposite direction 
