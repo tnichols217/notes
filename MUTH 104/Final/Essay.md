@@ -5,6 +5,6 @@
 > ###### MUTH 104
 > # Maple Leaf Rag
 > 
-> The Maple Leaf Rag is a ragtime piece composed by Scott Joplin and released in 1899. This was one of Scott Joplin's most well formulated compositions, which received much acclamation for its revolutionary rhythms, transitions, and themes. The Maple Leaf Rag aided Scott Joplin's goal of popularizing ragtime
+> The Maple Leaf Rag is a ragtime piece composed by Scott Joplin and released in 1899. This was one of Scott Joplin's most well formulated compositions, which received much acclamation for its revolutionary rhythms, transitions, and themes. The Maple Leaf Rag aided Scott Joplin's goal of popularizing ragtime through its swing-like and upbeat melodies.
 > 
 > 
