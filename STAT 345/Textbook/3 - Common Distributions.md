@@ -262,6 +262,7 @@ $EX^n=\beta^{n/\gamma}\Gamma(1+\frac{n}{\gamma})$
 # Multivariable Distributions
 
 ## Covariance and Correlation
+
 $\text{Cov}(X,Y)=E((X-\mu_X)(Y-\mu_Y))$
 $\rho_{XY}=\frac{\text{Cov}(X,Y)}{\sigma_X\sigma_Y}$
 
