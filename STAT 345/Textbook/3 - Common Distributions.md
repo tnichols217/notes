@@ -285,6 +285,10 @@ $\Sigma=\begin{bmatrix}\sigma^2_X& \rho\sigma_X\sigma_Y \\ \rho\sigma_X\sigma_Y&
 
 # Families of Distributions
 
+## Covariance and Correlation
+$\text{Cov}(X,Y)=E((X-\mu_X)(Y-\mu_Y))$
+$\rho_{XY}=\frac{\text{Cov}(X,Y)}{\sigma_X\sigma_Y}$
+
 ## Exponential Family
 
 > [!def]
