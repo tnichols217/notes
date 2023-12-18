@@ -146,6 +146,8 @@ $\mu=p$
 $\sigma^2=2p$
 $M(t)=(\frac{1}{1-2t})^{p/2}$
 
+$N(0,1)^2=\text{Chi}(1)$
+
 ## Double Exponential $(\mu,\sigma)$
 
 Given by reflecting the exponential around its mean. Does not have a bell shape.
