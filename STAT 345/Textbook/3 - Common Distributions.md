@@ -320,3 +320,34 @@ $\frac{1}{\sqrt{2\pi}\sigma}\exp\bigg(-\frac{\mu^2}{2\sigma^2}\bigg)\exp\bigg(-\
 > $g(x|\mu,\sigma)=\frac{1}{\sigma}f(\frac{x-\mu}{\sigma})$
 
 ![[3.6 - Distribution Properties#Probability Inequalities]]
+
+# Random Samples
+## Properties of the sample
+
+Mean: $\bar X=\frac{X_1+...+X_n}{n}=\frac{1}{n}\sum\limits_{i=1}^nX_i$
+Variance: $S^2=\frac{1}{n-1}\sum\limits_{i=1}^n(X_i-\bar X)^2$
+
+$E(\sum\limits_{i=1}^ng(X_i))=nEg(X_1)$
+$\text{Var}(\sum\limits_{i=1}^ng(X_i))=n\text{Var}g(X_1)$
+
+### Properties of properties of the sample of random variables
+
+$E(\bar X)=\mu$
+$\text{Var}(\bar X)= \frac{\sigma^2}{n}$
+$E(S^2)=\sigma^2$
+
+## Sample distributions of common distributions
+### Normal $(\mu,\sigma^2)$
+$\bar X\sim N\left( \mu, \frac{\sigma^2}{n} \right)$
+$S^2$ is independent from $\bar X$
+
+### Gamma $(\alpha, \beta)$
+$\bar X\sim\text{Gamma}\left( n\alpha, \frac{\beta}{n} \right)$
+
+### Cauchy
+The sum of a random sample of Cauchy with the mean of 0 results in a Cauchy with the same mean and the sum of the scales.
+$\text{Cauchy}(0,\sigma_1)+...+\text{Cauchy}(0,\sigma_n)=\text{Cauchy}(0,\sum\limits_{i=1}^n\sigma_i)$
+
+### Chi-squared
+The sum of a random sample of Chi-squared results in a chi-squared with the sum of the parameters.
+$\text{Chi}(a_1)+...+\text{Chi}(a_n)=\text{Chi}(\sum\limits_{i=1}^na_i)$
