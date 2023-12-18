@@ -228,7 +228,7 @@ $f(x)=\frac{\beta\alpha^\beta}{x^{\beta+1}}$
 $\mu=\frac{\beta\alpha}{\beta-1}\quad\quad;\beta>1$
 $\sigma^2=\frac{\beta\alpha^2}{(\beta-1)^2(\beta-2)}\quad;\beta>2$
 
-## t $(v)$
+## T $(v)$
 
 Given $-\infty<x<\infty;\quad v=1,2,3,...$
 
@@ -236,6 +236,8 @@ $f(x)=\frac{\Gamma(\frac{v+1}{2})}{\Gamma(\frac{v}{2})}\frac{1}{\sqrt{v\pi}}\fra
 $\mu=0\quad;v>1$
 $\sigma^2=\frac{v}{v-2}\quad;v>2$
 $MX^n=\begin{cases}\frac{\Gamma(\frac{n+1}{2})\Gamma(\frac{v-n}{2})}{\sqrt{\pi}\Gamma(v/2)}v^{n/2}&n<v;n\text{ is even}\\0&n<v;n\text{ is odd}\end{cases}$
+
+$\text{T}(v)= \frac{N(0,1)}{\sqrt{\chi^2}}$
 
 ## Uniform $(a,b)$
 
