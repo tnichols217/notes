@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md"
+                "file": "STAT 345/Textbook/4.5-4.6 - Covariance and Correlation.md"
               }
             }
           }
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "file": "STAT 345/Textbook/4.5-4.6 - Covariance and Correlation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,10 +175,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a25a04cbb23daef3",
+  "active": "4d0766c3b1d025d8",
   "lastOpenFiles": [
-    "STAT 345/Textbook/4.5-4.6 - Covariance and Correlation.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
+    "STAT 345/Textbook/4.5-4.6 - Covariance and Correlation.md",
     "STAT 345/Textbook/4.3 - Bivariate Translation.md",
     "STAT 345/Textbook/4.4 - Hierarchical Models and Mixture Distributions.md",
     "Venture/Jan20 Minutes.md",
