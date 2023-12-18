@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUTH 104/Final/Essay.md",
+                "file": "Venture/Jan20 Minutes.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUTH 104/Final/Essay.md"
+                "file": "Venture/Jan20 Minutes.md"
               }
             }
           }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "ca4cf6357558295d",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUTH 104/Final/Essay.md",
+                "file": "Venture/Jan20 Minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,9 +165,9 @@
   },
   "active": "4d0766c3b1d025d8",
   "lastOpenFiles": [
+    "MUTH 104/Final/Essay.md",
     "MUTH 104/Final/Essay.pdf",
     "MUTH 104/Final/Maple Leaf Rag.md",
-    "MUTH 104/Final/Essay.md",
     "CSDS 391/Cheat Sheet.md",
     "CSDS 391/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391/Cheat Sheet.pdf",
@@ -207,7 +206,6 @@
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/plugin (copy).js",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/style.css",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/plugin.js",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chart/README.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/customcontrols/README.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/menu/CONTRIBUTING.md",
