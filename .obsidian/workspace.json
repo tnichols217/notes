@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
+                "file": "STAT 345/Textbook/4.5-4.6 - Multivariate Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md"
+                "file": "STAT 345/Textbook/4.5-4.6 - Multivariate Distributions.md"
               }
             }
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
+                "file": "STAT 345/Textbook/4.5-4.6 - Multivariate Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,6 +177,7 @@
   },
   "active": "4d0766c3b1d025d8",
   "lastOpenFiles": [
+    "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
     "STAT 345/Textbook/4.5-4.6 - Multivariate Distributions.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/4.3 - Bivariate Translation.md",
@@ -213,7 +214,6 @@
     "MUTH 104/Final/Maple Leaf Rag/MUTH 104/Final/attachments",
     "MUTH 104/Final/Maple Leaf Rag/MUTH 104/Final",
     "MUTH 104/Final/Maple Leaf Rag/MUTH 104",
-    "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/README.md",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/_style.css",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/blackboard.png",
     "MUTH 104/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-black.png",
