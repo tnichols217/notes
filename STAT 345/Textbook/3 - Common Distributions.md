@@ -178,6 +178,8 @@ $\mu=\frac{v_2}{v_2-2}$
 $\sigma^2=2(\frac{v_2}{v_2-2})^2\frac{v_1+v_2-2}{v_1(v_2-4)}$
 $EX^n=\frac{\Gamma(\frac{v_1+2n}{2})\Gamma(\frac{v_2-2n}{2})}{\Gamma(v_1/2)\Gamma(v_2/2)}(\frac{v_2}{v_1})^n\quad;n<\frac{v_2}{2}$
 
+$\text{F}(a,b)= \frac{\frac{\chi_a^2}{a}}{}$
+
 ## Gamma $(\alpha,\beta)$
 
 $\alpha$ being the shape parameter and $\beta$ being the scale parameter, it is also a generalization of the exponential, erlang, weibull, and chi-squared distrbutions.
