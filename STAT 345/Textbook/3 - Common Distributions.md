@@ -345,9 +345,7 @@ $S^2$ is independent from $\bar X$
 $\bar X\sim\text{Gamma}\left( n\alpha, \frac{\beta}{n} \right)$
 
 ### Cauchy
-The sum of a random sample of Cauchy with the mean of 0 results in a Cauchy with the same mean and the sum of the scales.
 $\text{Cauchy}(0,\sigma_1)+...+\text{Cauchy}(0,\sigma_n)=\text{Cauchy}(0,\sum\limits_{i=1}^n\sigma_i)$
 
 ### Chi-squared
-The sum of a random sample of Chi-squared results in a chi-squared with the sum of the parameters.
 $\text{Chi}(a_1)+...+\text{Chi}(a_n)=\text{Chi}(\sum\limits_{i=1}^na_i)$
