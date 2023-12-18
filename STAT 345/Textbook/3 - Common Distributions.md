@@ -299,10 +299,9 @@ $\Sigma=\begin{bmatrix}\sigma^2_X& \rho\sigma_X\sigma_Y \\ \rho\sigma_X\sigma_Y&
 
 ## Exponential Family
 
-> [!def]
-> **Exponential Family**
-> Any statistical distribution or family of distributions that can fit into the form:
-> $f(x|\theta)=h(x)c(\theta)\exp\bigg(\sum\limits_{i=1}^kw_i(\theta)t_i(x)\bigg)$
+**Exponential Family**
+Any statistical distribution or family of distributions that can fit into the form:
+$f(x|\theta)=h(x)c(\theta)\exp\bigg(\sum\limits_{i=1}^kw_i(\theta)t_i(x)\bigg)$
 
 ### Binomial
 
@@ -314,10 +313,9 @@ $\frac{1}{\sqrt{2\pi}\sigma}\exp\bigg(-\frac{\mu^2}{2\sigma^2}\bigg)\exp\bigg(-\
 
 ## Location Scale Family
 
-> [!def]
-> **Location Scale Family**
-> Any statistical distribution or family of distributions that can fit into the form:
-> $g(x|\mu,\sigma)=\frac{1}{\sigma}f(\frac{x-\mu}{\sigma})$
+**Location Scale Family**
+Any statistical distribution or family of distributions that can fit into the form:
+$g(x|\mu,\sigma)=\frac{1}{\sigma}f(\frac{x-\mu}{\sigma})$
 
 # Probability Inequalities
 
