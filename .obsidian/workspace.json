@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/4.5-4.6 - Covariance and Correlation.md",
+                "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/4.5-4.6 - Covariance and Correlation.md"
+                "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md"
               }
             }
           }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/4.5-4.6 - Covariance and Correlation.md",
+                "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,8 +177,8 @@
   },
   "active": "4d0766c3b1d025d8",
   "lastOpenFiles": [
+    "STAT 345/Textbook/4.5-4.6 - Multivariate Distributions.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
-    "STAT 345/Textbook/4.5-4.6 - Covariance and Correlation.md",
     "STAT 345/Textbook/4.3 - Bivariate Translation.md",
     "STAT 345/Textbook/4.4 - Hierarchical Models and Mixture Distributions.md",
     "Venture/Jan20 Minutes.md",
