@@ -237,7 +237,7 @@ $\mu=0\quad;v>1$
 $\sigma^2=\frac{v}{v-2}\quad;v>2$
 $MX^n=\begin{cases}\frac{\Gamma(\frac{n+1}{2})\Gamma(\frac{v-n}{2})}{\sqrt{\pi}\Gamma(v/2)}v^{n/2}&n<v;n\text{ is even}\\0&n<v;n\text{ is odd}\end{cases}$
 
-$\text{T}(v)= \frac{N(0,1)}{\sqrt{\chi^2}}$
+$\text{T}(v)= \frac{N(0,1)}{\sqrt{\frac{\chi^2_v}{v}}}$
 
 ## Uniform $(a,b)$
 
