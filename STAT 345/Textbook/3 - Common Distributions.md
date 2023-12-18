@@ -261,6 +261,11 @@ $EX^n=\beta^{n/\gamma}\Gamma(1+\frac{n}{\gamma})$
 
 # Multivariable Distributions
 
+## Covariance and Correlation
+$\text{Cov}(X,Y)=E((X-\mu_X)(Y-\mu_Y))$
+$\rho_{XY}=\frac{\text{Cov}(X,Y)}{\sigma_X\sigma_Y}$
+
+
 ## Multinomial Distribution
 
 Very similar to a binomial, except there is more than one possible outcome per trial ­— as compared to success or failure in the binomial.
@@ -284,10 +289,6 @@ $\vec\mu=\langle\mu_X,\mu_Y\rangle$
 $\Sigma=\begin{bmatrix}\sigma^2_X& \rho\sigma_X\sigma_Y \\ \rho\sigma_X\sigma_Y& \sigma^2_Y\end{bmatrix}$
 
 # Families of Distributions
-
-## Covariance and Correlation
-$\text{Cov}(X,Y)=E((X-\mu_X)(Y-\mu_Y))$
-$\rho_{XY}=\frac{\text{Cov}(X,Y)}{\sigma_X\sigma_Y}$
 
 ## Exponential Family
 
