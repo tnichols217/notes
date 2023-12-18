@@ -319,7 +319,6 @@ $\frac{1}{\sqrt{2\pi}\sigma}\exp\bigg(-\frac{\mu^2}{2\sigma^2}\bigg)\exp\bigg(-\
 > Any statistical distribution or family of distributions that can fit into the form:
 > $g(x|\mu,\sigma)=\frac{1}{\sigma}f(\frac{x-\mu}{\sigma})$
 
-
 # Probability Inequalities
 
 ## Chebychev's Inequality
