@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/5.1 - Random Samples.md",
+                "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md"
+                "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md"
               }
             }
           }
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "file": "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,13 +175,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a25a04cbb23daef3",
+  "active": "4d0766c3b1d025d8",
   "lastOpenFiles": [
-    "STAT 345/Textbook/5.1 - Random Samples.md",
-    "STAT 345/Textbook/3 - Common Distributions.md",
-    "STAT 345/Textbook/4.5-4.6 - Multivariate Distributions.md",
-    "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
     "STAT 345/Textbook/4.3 - Bivariate Translation.md",
+    "STAT 345/Textbook/4.2 - Conditional Distributions and Independence.md",
+    "STAT 345/Textbook/4.1 - Joint and Marginal Distributions.md",
+    "STAT 345/Textbook/3 - Common Distributions.md",
+    "STAT 345/Textbook/5.1 - Random Samples.md",
+    "STAT 345/Textbook/4.5-4.6 - Multivariate Distributions.md",
     "STAT 345/Textbook/4.4 - Hierarchical Models and Mixture Distributions.md",
     "Venture/Jan20 Minutes.md",
     "MUTH 104/Final/Essay.md",
@@ -206,7 +206,6 @@
     "CSDS 391/Textbook/1 - Intro to AI.md",
     "MATH 223/Practice Problems/11 - Problem Set 11.md",
     "MATH 223/Practice Problems/11 - Problem Set 11.pdf",
-    "MATH 223/Practice Problems/17.1.md",
     "MUTH 104/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045800.png",
     "MUTH 104/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045558.png",
     "MUTH 104/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045416.png",
