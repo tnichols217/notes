@@ -17,4 +17,4 @@ date created: 2024-01-16 13:16
 
 **Definition of Equivalence** $A\leftrightarrow B=(A\to B)\wedge (B\to A)$
 **Transitivity** $(A\to B)\wedge(B\to C)=A\to C$
-****
+**Contraposition** $A\to B=\neg B\to \neg A$
