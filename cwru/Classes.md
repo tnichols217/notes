@@ -5,7 +5,7 @@ date created: 2023-11-06 10:38
 
 ## CS (BS)
 
-*Plan + Sec Com + Breadth (7 classes)*
+*Plan + (Sec Com + Breadth) (7 classes)*
 
 20 courses, 63 hours including
 
