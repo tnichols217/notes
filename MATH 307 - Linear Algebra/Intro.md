@@ -25,4 +25,4 @@ date updated: 2024-01-16 13:38
 ## Quantifiers
 
 $\forall$: For all / for any
-$\exists$: Exists
+$\exists$: There exists
