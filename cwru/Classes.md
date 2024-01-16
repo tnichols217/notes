@@ -5,6 +5,8 @@ date created: 2023-11-06 10:38
 
 ## CS (BS)
 
+*Plan + Sec Com + *
+
 20 courses, 63 hours including
 
 ### Core
