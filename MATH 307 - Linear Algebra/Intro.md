@@ -15,6 +15,8 @@ date created: 2024-01-16 13:16
 **Unary Operations**: Input -> Output
 **Binary Operations**: Input1, Input2 -> Output
 
+**Implication** $A\to B$: B is a necessary condition for A
 **Definition of Equivalence** $A\leftrightarrow B=(A\to B)\wedge (B\to A)$
 **Transitivity** $(A\to B)\wedge(B\to C)=A\to C$
 **Contraposition** $A\to B=\neg B\to \neg A$
+
