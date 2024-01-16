@@ -15,4 +15,4 @@ date created: 2024-01-16 13:16
 **Unary Operations**: Input -> Output
 **Binary Operations**: Input1, Input2 -> Output
 
-$a\iff$
+$A\leftrightarrow B=A\rightarrow B A$
