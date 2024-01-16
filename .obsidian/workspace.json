@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "file": "cwru/Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md"
+                "file": "cwru/Plan.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 345/Textbook/3 - Common Distributions.md",
+                "file": "cwru/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,10 +163,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a25a04cbb23daef3",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
-    "STAT 345/Textbook/3 - Common Distributions Formatted.pdf",
+    "cwru/Classes.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
+    "STAT 345/Textbook/3 - Common Distributions Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Formatted1.pdf",
     "STAT 345/Textbook/3 - Common Distributions Formatted2.pdf",
     "STAT 345/Textbook/3.6 - Distribution Properties.md",
