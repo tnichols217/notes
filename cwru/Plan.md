@@ -22,4 +22,4 @@
 | ENGR 145                           | Chemistry of Materials     | CE/EE       |
 | ENGR 200 / ENGR 225                | Statics / Thermo           | CE/EE       |
 | ENGR 210                           | Circuits                   | CE/EE       |
-| ECSE 245                           |                            |             |
+| ECSE 245                           | Electronic Circuits        | CE/EE            |
