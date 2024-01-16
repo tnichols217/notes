@@ -20,4 +20,4 @@ date updated: 2024-01-16 13:38
 **Definition of Equivalence** $A\leftrightarrow B=(A\to B)\wedge (B\to A)$
 **Transitivity** $(A\to B)\wedge(B\to C)=A\to C$
 **Contraposition** $A\to B=\neg B\to \neg A$
-**Proof by Contradiction** 
+**Proof by Contradiction** $A\to B=1\iff\neg$
