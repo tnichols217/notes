@@ -31,4 +31,6 @@ $\exists$: There exists
 
 List of elements: $\{\}$
 Condition: $\{x\in\Re:\text{condition}\}$
-$$
+Reserved Notation:
+- $\mathbb{N}$
+- $\mathbb a$
