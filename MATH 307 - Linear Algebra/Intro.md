@@ -26,3 +26,9 @@ date updated: 2024-01-16 13:38
 
 $\forall$: For all / for any
 $\exists$: There exists
+
+## Sets
+
+List of elements: $\{\}$
+Condition: $\{x\in\Re:\text{condition}\}$
+$$
