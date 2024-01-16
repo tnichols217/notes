@@ -21,3 +21,8 @@ date updated: 2024-01-16 13:38
 **Transitivity** $(A\to B)\wedge(B\to C)=A\to C$
 **Contraposition** $A\to B=\neg B\to \neg A$
 **Proof by Contradiction** $A\to B=1\iff\neg(A\to B)=0\iff A\wedge\neg B=0$
+
+## Quantifiers
+
+$\forall$: For all / for any
+$\exists$: Exists
