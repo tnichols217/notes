@@ -37,3 +37,5 @@ Reserved Notation:
 - $\mathbb Z$ Integers
 - $\mathbb Q$ Rationals
 - $\mathbb C$ Complex
+$X$: Universal Set
+$A^C=X\setminus A=\{x\in X:x\not\in A\}$
