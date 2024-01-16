@@ -32,5 +32,8 @@ $\exists$: There exists
 List of elements: $\{\}$
 Condition: $\{x\in\Re:\text{condition}\}$
 Reserved Notation:
-- $\mathbb{N}$
-- $\mathbb a$
+- $\mathbb N$ Naturals
+- $\mathbb R$ Real
+- $\mathbb Z$ Integers
+- $\mathbb Q$ Rationals
+- $\mathbb C$ Complex
