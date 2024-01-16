@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7332ee702004edc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cwru/Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2dd392731a3fe0b2",
             "type": "leaf",
             "state": {
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Finished.md"
+                "file": "cwru/Plan.md"
               }
             }
           }
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Finished.md",
+                "file": "cwru/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,11 +206,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d8d0511f398e1cd1",
+  "active": "7332ee702004edc6",
   "lastOpenFiles": [
+    "cwru/Todo.md",
+    "cwru/Finished.md",
     "cwru/Classes.md",
     "cwru/Plan.md",
-    "cwru/Todo.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/3 - Common Distributions Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Formatted1.pdf",
@@ -226,7 +239,6 @@
     "CSDS 391/Textbook/12 - Quantifying Uncertainty.md",
     "CSDS 391/Textbook/6 - Adversarial Search.md",
     "CSDS 391/Textbook/5 - Constraint Satisfaction Problems.md",
-    "CSDS 391/Textbook/X - Searching Cheat Sheet.md",
     "MATH 223/Practice Problems/11 - Problem Set 11.pdf",
     "MUTH 104/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045800.png",
     "MUTH 104/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045558.png",
