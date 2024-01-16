@@ -30,7 +30,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8c64840f28eeec53",
+        "type": "tabs",
+        "children": [
           {
             "id": "d8d0511f398e1cd1",
             "type": "leaf",
@@ -43,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Plan.md"
+                "file": "cwru/Todo.md"
               }
             }
           }
@@ -136,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "cwru/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,11 +193,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "d8d0511f398e1cd1",
+  "active": "a25a04cbb23daef3",
   "lastOpenFiles": [
+    "cwru/Plan.md",
     "cwru/Classes.md",
     "cwru/Todo.md",
-    "cwru/Plan.md",
     "STAT 345/Textbook/3 - Common Distributions.md",
     "STAT 345/Textbook/3 - Common Distributions Formatted.pdf",
     "STAT 345/Textbook/3 - Common Distributions Formatted1.pdf",
