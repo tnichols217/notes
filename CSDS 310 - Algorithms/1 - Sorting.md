@@ -29,7 +29,7 @@ Such that
 
 > [!def]
 > **Loop Invariant**
-> At the beginning of each iteration of 
+> At the beginning of each iteration of the outer for loop, the subarray `A[1..i-1]` contains the elements originally in `A[1..i-1]` but in sorted order
 
 ```typescript
 insertion-sort(A, n):
