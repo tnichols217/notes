@@ -39,3 +39,7 @@ insertion-sort(A, n)
 			j = j-1
 		A[j+1]=key
 ```
+
+```typescript
+const insertionSort(A)
+```
