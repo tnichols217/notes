@@ -29,7 +29,7 @@ Such that
 
 ```typescript
 insertion-sort(A, n):
-	// For every sle
+	// For every element from item 2 on
 	for i=2 to n do:
 		key = A[i]
 		// Insert A[i] into the sorted subarray A[i-1]
