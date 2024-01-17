@@ -27,6 +27,10 @@ Such that
 
 ### Insertion Sort
 
+> [!def]
+> **Loop Invariant**
+> At the beginning of each iteration of 
+
 ```typescript
 insertion-sort(A, n):
 	// For every element from item 2 on
