@@ -41,5 +41,8 @@ insertion-sort(A, n)
 ```
 
 ```typescript
-const insertionSort(A)
+const insertionSort = (A: number[]):number[] => {
+	n = A.length
+	for 
+}
 ```
