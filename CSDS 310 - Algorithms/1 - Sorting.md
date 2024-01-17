@@ -27,15 +27,19 @@ Such that
 
 ### Insertion Sort
 
-```
-insertion-sort(A, n)
-	for i=2 to n do
+```typescript
+insertion-sort(A, n):
+	// For every sle
+	for i=2 to n do:
 		key = A[i]
 		// Insert A[i] into the sorted subarray A[i-1]
 		j = i-1
+		// Loop over all items left of the key
 		while j>0 and A[j]>key do:
+			// Shift items right if item is larger than key
 			A[j+1] = A[j]
 			j = j-1
+		// Place key when item on the left is smaller
 		A[j+1]=key
 ```
 
