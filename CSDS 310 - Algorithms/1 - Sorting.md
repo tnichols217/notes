@@ -1,1 +1,5 @@
-Input: Array A = 
+Input: 
+```java
+Array A = <a, b, c, ..., d>
+```
+
