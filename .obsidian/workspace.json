@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 307 - Linear Algebra/Intro.md",
+                "file": "CSDS 310 - Algorithms/1 - Sorting.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 307 - Linear Algebra/Intro.md"
+                "file": "CSDS 310 - Algorithms/1 - Sorting.md"
               }
             }
           }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 307 - Linear Algebra/Intro.md",
+                "file": "CSDS 310 - Algorithms/1 - Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,9 +165,11 @@
   },
   "active": "2dd392731a3fe0b2",
   "lastOpenFiles": [
+    "MATH 307 - Linear Algebra/Intro.md",
+    "CSDS 310 - Algorithms/1 - Sorting.md",
+    "CSDS 310 - Algorithms",
     "cwru/Finished.md",
     "cwru/Plan.md",
-    "MATH 307 - Linear Algebra/Intro.md",
     "cwru/Todo.md",
     "MATH 307 - Linear Algebra",
     "cwru/Classes.md",
@@ -196,7 +198,6 @@
     "CSDS 391 - Intro AI/Textbook/20 - Knowledge in Learning.md",
     "CSDS 391 - Intro AI/Textbook/13 - Probabilistic Reasoning.md",
     "CSDS 391 - Intro AI/Textbook/12 - Quantifying Uncertainty.md",
-    "CSDS 391 - Intro AI/Textbook/6 - Adversarial Search.md",
     "MATH 223 - Calc 3/Practice Problems/11 - Problem Set 11.pdf",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045800.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045558.png",
@@ -205,7 +206,6 @@
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231206115158.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final",
-    "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/blackboard.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-black.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-blue.png",
