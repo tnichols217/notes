@@ -27,7 +27,6 @@ Such that
 
 ### Insertion Sort
 
-If an item is smaller than the 
 ```
 insertion-sort(A, n)
 	for i=2 to n do
@@ -52,6 +51,7 @@ const insertionSort = (A) => {
         }
         A[j + 1] = key
     }
+    return A
 }
 
 const test = () => {
