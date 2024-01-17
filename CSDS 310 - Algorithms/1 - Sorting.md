@@ -29,5 +29,9 @@ Such that
 
 If an item is smaller than the 
 ```
-for 
+insertion-sort(A, n)
+	for i to n do
+		key = A[i]
+		// Insert A[i] into the sorted subarray A[i-1]
+		
 ```
