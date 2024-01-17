@@ -30,7 +30,7 @@ Such that
 If an item is smaller than the 
 ```
 insertion-sort(A, n)
-	for i to n do
+	for i=2 to n do
 		key = A[i]
 		// Insert A[i] into the sorted subarray A[i-1]
 		j = i-1
