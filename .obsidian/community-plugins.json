@@ -33,5 +33,6 @@
   "obsidian-advanced-slides",
   "obsidian-text-format",
   "obsidian-function-plot",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "code-emitter"
 ]

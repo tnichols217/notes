@@ -28,6 +28,6 @@ Such that
 ### Insertion Sort
 
 If an item is smaller than the 
-```java
-
+```
+for 
 ```
