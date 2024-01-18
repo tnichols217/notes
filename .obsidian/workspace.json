@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a6088cfd8969234",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +147,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -163,7 +176,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2dd392731a3fe0b2",
+  "active": "6a6088cfd8969234",
   "lastOpenFiles": [
     "ENGR 145 - Chemistry of Materials/Untitled.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
