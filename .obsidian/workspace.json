@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIQS 100/Comics.md",
+                "file": "ENGR 145 - Chemistry of Materials/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Comics.md"
+                "file": "ENGR 145 - Chemistry of Materials/Intro.md"
               }
             }
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Comics.md",
+                "file": "ENGR 145 - Chemistry of Materials/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
   "lastOpenFiles": [
     "AIQS 100/Comics.md",
     "AIQS 100",
-    "ENGR 145 - Chemistry of Materials/Untitled.md",
+    "ENGR 145 - Chemistry of Materials/Intro.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
     "ENGR 145 - Chemistry of Materials",
     "MATH 307 - Linear Algebra/Intro.md",
