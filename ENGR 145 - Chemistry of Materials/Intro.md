@@ -4,4 +4,7 @@
 
 Material is defined by four principles:
 - **Performance**: Cost/performance/time
-- **Properties**
+- **Properties**: Electrical, Mechanical, Thermal, Optical, Magnetic, Deteriorative
+- **Structure**: Atomic, Crystal, Macro/Micro
+- **Synthesis**: How its made
+
