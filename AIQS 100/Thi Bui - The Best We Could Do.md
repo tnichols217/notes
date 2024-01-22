@@ -26,4 +26,6 @@
 
 # Ch 4
 
+- Bo's life was full of suffering and difficulties growing up
+- Always tells stories with sad endings
 - 
