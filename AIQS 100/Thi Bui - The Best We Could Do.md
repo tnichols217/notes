@@ -22,4 +22,8 @@
 - Revealed that Ma ran a smear campaign on Bo
 - Bo gets lazy, degree rejected, Ma begins working
 - Bo gets anger issues
+- Deals with being scared all the time and not super healthy relationships with Bo
+
+# Ch 4
+
 - 
