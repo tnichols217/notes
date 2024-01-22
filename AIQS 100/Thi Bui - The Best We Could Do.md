@@ -20,4 +20,6 @@
 # Ch 3
 
 - Revealed that Ma ran a smear campaign on Bo
+- Bo gets lazy, degree rejected, Ma begins working
+- Bo gets anger issues
 - 
