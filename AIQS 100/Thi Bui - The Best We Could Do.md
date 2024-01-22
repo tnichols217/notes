@@ -8,5 +8,5 @@
 
 # Ch 2
 
-- Begins with a flashback
+- Begins with a flashback to when she started dating
 - 
