@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/shopping.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/shopping.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,10 +190,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "182b341de01c7a00",
+  "active": "6a6088cfd8969234",
   "lastOpenFiles": [
-    "Private/README.md",
     "Private/shopping.md",
+    "Private/attachments/Pasted image 20240121203808.png",
+    "Private/attachments",
+    "Private/README.md",
     "Private/clock.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
     "AIQS 100/Comics.md",
@@ -226,8 +228,6 @@
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag.md",
     "CSDS 391 - Intro AI/Cheat Sheet.md",
     "CSDS 391 - Intro AI/Textbook/21 - Learning Probabilistic Models.md",
-    "CSDS 391 - Intro AI/Cheat Sheet.pdf",
-    "CSDS 391 - Intro AI/P/2.md",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045800.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045558.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045416.png",
@@ -237,7 +237,6 @@
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-black.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-blue.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-green.png",
-    "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-orange.png",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
