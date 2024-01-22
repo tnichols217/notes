@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do.md"
+                "file": "cwru/Plan.md"
               }
             }
           }
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do.md",
+                "file": "cwru/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,10 +189,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6a6088cfd8969234",
+  "active": "2dd392731a3fe0b2",
   "lastOpenFiles": [
-    "Private/shopping.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
+    "Private/shopping.md",
     "Private/attachments/Pasted image 20240121203808.png",
     "Private/attachments",
     "Private/README.md",

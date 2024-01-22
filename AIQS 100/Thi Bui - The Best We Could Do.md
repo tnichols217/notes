@@ -38,4 +38,3 @@
 - Their family valued education
 - Bo fled to the city where Ma studied
 - Then communist movement came and destroyed french stuff
-- 
