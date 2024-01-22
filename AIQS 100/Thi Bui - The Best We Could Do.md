@@ -28,4 +28,8 @@
 
 - Bo's life was full of suffering and difficulties growing up
 - Always tells stories with sad endings
+- Bo fled from home town because of vietnam war
+
+# Ch 5
+
 - 
