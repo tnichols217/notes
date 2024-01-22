@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "cwru/Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Plan.md"
+                "file": "cwru/Todo.md"
               }
             }
           }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "cwru/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +191,7 @@
   },
   "active": "2dd392731a3fe0b2",
   "lastOpenFiles": [
+    "cwru/Plan.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
     "Private/shopping.md",
     "Private/attachments/Pasted image 20240121203808.png",
@@ -206,7 +207,6 @@
     "MATH 307 - Linear Algebra/Intro.md",
     "CSDS 310 - Algorithms",
     "cwru/Finished.md",
-    "cwru/Plan.md",
     "cwru/Todo.md",
     "MATH 307 - Linear Algebra",
     "cwru/Classes.md",
