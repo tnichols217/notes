@@ -19,4 +19,5 @@
 
 # Ch 3
 
+- Revealed that Ma ran a smear campaign on Bo
 - 
