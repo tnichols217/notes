@@ -11,4 +11,5 @@
 - Begins with a flashback to when she started dating
 - Sister was disowned for secretly dating
 - Struggling with growing up and acting like an "adult" instead of a "child"
+- Learned a lot from her grandparents
 - 
