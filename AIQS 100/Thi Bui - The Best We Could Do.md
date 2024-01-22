@@ -12,4 +12,5 @@
 - Sister was disowned for secretly dating
 - Struggling with growing up and acting like an "adult" instead of a "child"
 - Learned a lot from her grandparents
+- Tried to reconcile with not treating her family well by recording their history
 - 
