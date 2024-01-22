@@ -15,4 +15,8 @@
 - Tried to reconcile with not treating her family well by recording their history
 - They express love differently
 - (Malaysia mentioned!)
+- Talks about death of a child
+
+# Ch 3
+
 - 
