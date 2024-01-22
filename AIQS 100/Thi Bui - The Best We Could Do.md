@@ -35,4 +35,5 @@
 - Ma told her story to her husband more frequently
 - Lived in a beautiful house as a kid
 - Born to a rich family in Cambodia
+- Their family valued education
 - 
