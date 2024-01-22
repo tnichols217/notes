@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Todo.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do.md"
               }
             }
           }
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Todo.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,8 +190,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2dd392731a3fe0b2",
+  "active": "6a6088cfd8969234",
   "lastOpenFiles": [
+    "cwru/Todo.md",
     "cwru/Plan.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
     "Private/shopping.md",
@@ -207,7 +209,6 @@
     "MATH 307 - Linear Algebra/Intro.md",
     "CSDS 310 - Algorithms",
     "cwru/Finished.md",
-    "cwru/Todo.md",
     "MATH 307 - Linear Algebra",
     "cwru/Classes.md",
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions.md",
