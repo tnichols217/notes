@@ -32,4 +32,6 @@
 
 # Ch 5
 
+- Ma told her story to her husband more frequently
+- Lived in a beautiful house as a kid
 - 
