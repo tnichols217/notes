@@ -9,4 +9,5 @@
 # Ch 2
 
 - Begins with a flashback to when she started dating
+- Sister was disowned for secretly dating
 - 
