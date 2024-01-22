@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "182b341de01c7a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/shopping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do.md"
+                "file": "Private/shopping.md"
               }
             }
           }
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do.md",
+                "file": "Private/shopping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,10 +190,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6a6088cfd8969234",
+  "active": "182b341de01c7a00",
   "lastOpenFiles": [
-    "AIQS 100/Comics.md",
+    "Private/README.md",
+    "Private/shopping.md",
+    "Private/clock.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
+    "AIQS 100/Comics.md",
     "ENGR 145 - Chemistry of Materials/Intro.md",
     "Untitled",
     "AIQS 100",
@@ -213,9 +228,6 @@
     "CSDS 391 - Intro AI/Textbook/21 - Learning Probabilistic Models.md",
     "CSDS 391 - Intro AI/Cheat Sheet.pdf",
     "CSDS 391 - Intro AI/P/2.md",
-    "CSDS 391 - Intro AI/W/W5_tln32.md",
-    "CSDS 391 - Intro AI/W/W4_tln32.md",
-    "CSDS 391 - Intro AI/W/W6_tln32.md",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045800.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045558.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045416.png",
