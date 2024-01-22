@@ -14,4 +14,5 @@
 - Learned a lot from her grandparents
 - Tried to reconcile with not treating her family well by recording their history
 - They express love differently
+- (Malaysia mentioned!)
 - 
