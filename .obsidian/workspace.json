@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "b874c97411b13690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cwru/Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a6088cfd8969234",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui Reflection.md"
+                "file": "cwru/Plan.md"
               }
             }
           }
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui Reflection.md",
+                "file": "cwru/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,10 +226,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6a6088cfd8969234",
+  "active": "b874c97411b13690",
   "lastOpenFiles": [
-    "AIQS 100/Thi Bui - The Best We Could Do.md",
+    "cwru/Classes.md",
     "AIQS 100/Thi Bui Reflection.md",
+    "AIQS 100/Thi Bui - The Best We Could Do.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.svg",
@@ -234,7 +247,6 @@
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "cwru/Finished.md",
     "cwru/Todo.md",
-    "cwru/Classes.md",
     "ENGR 145 - Chemistry of Materials/HW/1.pdf",
     "CSDS 391 - Intro AI/W/W5_tln32.md",
     "obsidian-molecules.md",
