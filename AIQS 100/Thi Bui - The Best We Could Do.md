@@ -68,4 +68,5 @@
 
 # Ch 9
 
+- move to california where its not chillin all the time
 - 
