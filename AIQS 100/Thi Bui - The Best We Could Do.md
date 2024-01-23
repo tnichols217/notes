@@ -47,4 +47,5 @@
 - MC goes and finds this house - which was the first house she lived in
 - Bo got scholarship to study in rich school
 - then goes to teacher school and meets Ma
+- Ma hated school in general
 - 
