@@ -43,4 +43,5 @@
 
 - Bo then hangs out with grandparents - who are very rich
 - drug wars are starting on the streets
+- grandpa lost her opium jars cuz of the fighting, so she returns to grandpa
 - 
