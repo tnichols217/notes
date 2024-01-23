@@ -60,4 +60,5 @@
 
 # Ch 8
 
+- They all chillin in the camp
 - 
