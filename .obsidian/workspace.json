@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "cwru/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Plan.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,6 +228,7 @@
   },
   "active": "b874c97411b13690",
   "lastOpenFiles": [
+    "cwru/Plan.md",
     "cwru/Classes.md",
     "AIQS 100/Thi Bui Reflection.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
@@ -255,7 +256,6 @@
     "APBiology/5/Notes/Unit Packet/3 - Test Topics.md",
     "Private/shopping.md",
     "ENGR 145 - Chemistry of Materials/HW",
-    "cwru/Plan.md",
     "Private/attachments/Pasted image 20240121203808.png",
     "Private/attachments",
     "Private/README.md",
