@@ -49,4 +49,5 @@
 - then goes to teacher school and meets Ma
 - Ma hated school in general
 - Ma married Bo cuz he was dying, but he ended up living
+- Talks about american propaganda against the south
 - 
