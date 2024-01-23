@@ -57,4 +57,7 @@
 - they are very broke
 - they sell everything to buy a boat
 - They escape to Malaysia
+
+# Ch 8
+
 - 
