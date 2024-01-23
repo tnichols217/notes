@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 310 - Algorithms/1 - Sorting.md",
+                "file": "AIQS 100/Thi Bui Reflection.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 310 - Algorithms/1 - Sorting.md"
+                "file": "AIQS 100/Thi Bui Reflection.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 310 - Algorithms/1 - Sorting.md",
+                "file": "AIQS 100/Thi Bui Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,6 +216,9 @@
   },
   "active": "6a6088cfd8969234",
   "lastOpenFiles": [
+    "AIQS 100/Thi Bui - The Best We Could Do.md",
+    "AIQS 100/Thi Bui Reflection.md",
+    "CSDS 310 - Algorithms/1 - Sorting.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.svg",
     "STAT 345 - Theoretical Statistics/Homework/7.md",
@@ -229,7 +232,6 @@
     "APMusicTheory/Chord Progressions.md",
     "APMusicTheory/Chord Inversions.md",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
-    "AIQS 100/Thi Bui - The Best We Could Do.md",
     "cwru/Finished.md",
     "cwru/Todo.md",
     "cwru/Classes.md",
@@ -246,7 +248,6 @@
     "Private/attachments",
     "Private/README.md",
     "Private/clock.md",
-    "AIQS 100/Comics.md",
     "Untitled",
     "AIQS 100",
     "ENGR 145 - Chemistry of Materials",
