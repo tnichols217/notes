@@ -62,4 +62,6 @@
 
 - They all chillin in the camp
 - Bo gets left behind because tuberculosis, but turns out fine and leaves later
+- Dad reunites after a while
+- all happy happy in a murican home
 - 
