@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28c69e3aca2b1263",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/1.md"
+                "file": "cwru/Todo.md"
               }
             }
           }
@@ -137,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/1.md",
+                "file": "cwru/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,19 +189,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "182b341de01c7a00",
+  "active": "2dd392731a3fe0b2",
   "lastOpenFiles": [
+    "AIQS 100/Thi Bui - The Best We Could Do.md",
+    "ENGR 145 - Chemistry of Materials/HW/1.md",
     "ENGR 145 - Chemistry of Materials/HW/1.pdf",
     "CSDS 391 - Intro AI/W/W5_tln32.md",
     "obsidian-molecules.md",
     "MATH 223 - Calc 3/Practice Problems/16.1.md",
-    "ENGR 145 - Chemistry of Materials/HW/1.md",
     "STAT 345 - Theoretical Statistics/Homework/7.md",
     "CSDS 391 - Intro AI/P/2.md",
     "APBiology/5/Notes/Unit Packet/3 - Test Topics.md",
     "Private/shopping.md",
     "ENGR 145 - Chemistry of Materials/HW",
-    "AIQS 100/Thi Bui - The Best We Could Do.md",
     "cwru/Todo.md",
     "cwru/Plan.md",
     "Private/attachments/Pasted image 20240121203808.png",
@@ -224,7 +222,6 @@
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions.md",
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions Formatted.pdf",
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions Formatted1.pdf",
-    "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions Formatted2.pdf",
     "STAT 345 - Theoretical Statistics/Textbook/3.6 - Distribution Properties.md",
     "STAT 345 - Theoretical Statistics/Textbook/5.1 - Random Samples.md",
     "STAT 345 - Theoretical Statistics/Textbook/4.5-4.6 - Multivariate Distributions.md",
