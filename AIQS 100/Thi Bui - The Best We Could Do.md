@@ -61,4 +61,5 @@
 # Ch 8
 
 - They all chillin in the camp
+- Bo gets left behind because tuberculosis, but turns out fine and leaves later
 - 
