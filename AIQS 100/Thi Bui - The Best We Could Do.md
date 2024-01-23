@@ -81,3 +81,18 @@
 - gurl gets FLASHBACKs of the simultaneous reference of her and her kid vs her and her own mother
 - "i am no longer a kid"
 - their history has always been shaky and their lives reflect that
+
+- kkajsbcb
+- akjsckjb
+
+
+# title
+
+## subtitle
+
+`code`
+
+```javascript
+
+console.log("hello world")
+```
