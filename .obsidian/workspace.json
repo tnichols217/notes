@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "cwru/Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,6 +230,7 @@
   "lastOpenFiles": [
     "cwru/Plan.md",
     "cwru/Classes.md",
+    "cwru/Todo.md",
     "AIQS 100/Thi Bui Reflection.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
@@ -247,7 +248,6 @@
     "APMusicTheory/Chord Inversions.md",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "cwru/Finished.md",
-    "cwru/Todo.md",
     "ENGR 145 - Chemistry of Materials/HW/1.pdf",
     "CSDS 391 - Intro AI/W/W5_tln32.md",
     "obsidian-molecules.md",

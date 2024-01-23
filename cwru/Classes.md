@@ -66,7 +66,7 @@ date created: 2023-11-06 10:38
 
 ### Math (does not count towards 20)
 
-1. 🛑 CHEM 111
+1. ✅ CHEM 111
 2. 〰 ENGR 399
 3. ✅ MATH 121
 4. ✅ MATH 122 / MATH 124
@@ -78,7 +78,7 @@ date created: 2023-11-06 10:38
 ### Stats (does not count towards 20)
 
 1 of
-1. MATH 380 **(can possibly get from STAT 345)**
+1. ✅ MATH 380 **(can possibly get from STAT 345)**
 2. OPRE 207
 3. STAT 312
 4. STAT 312R
@@ -102,13 +102,13 @@ date created: 2023-11-06 10:38
 8. 〰 CSDS 341
 9. CSDS 344 / CSDS 356 **(CS secure computing requirement)**
 10. 〰 CSDS 398
-11. MATH 380 **(can possibly get from STAT 345)**
+11. ✅ MATH 380 **(can possibly get from STAT 345)**
 12. 〰 STAT 243 / STAT 312
 13. 〰 STAT 244 / STAT 325
 
 ### Math
 
-1. 🛑 CHEM 111
+1. ✅ CHEM 111
 2. ✅ CSDS 132
 3. 〰 ENGR 399
 4. ✅ MATH 121
