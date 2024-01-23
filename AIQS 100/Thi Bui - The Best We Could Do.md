@@ -79,4 +79,5 @@
 - kid gets phototheraphy to get fixed and MC contemplates kids mortality
 - MC feels heroic for having a kid
 - gurl gets FLASHBACKs of the simultaneous reference of her and her kid vs her and her own mother
-- "i am no longer a"
+- "i am no longer a kid"
+- 
