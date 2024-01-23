@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "9b07e3bfb0f599d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cwru/Finished.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e60b5faf8890d3ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cwru/Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a6088cfd8969234",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Todo.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -135,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Todo.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,10 +214,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2dd392731a3fe0b2",
+  "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
-    "AIQS 100/Thi Bui - The Best We Could Do.md",
+    "cwru/Finished.md",
     "cwru/Todo.md",
+    "AIQS 100/Thi Bui - The Best We Could Do.md",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "ENGR 145 - Chemistry of Materials/HW/1.pdf",
     "CSDS 391 - Intro AI/W/W5_tln32.md",
@@ -216,7 +242,6 @@
     "ENGR 145 - Chemistry of Materials",
     "MATH 307 - Linear Algebra/Intro.md",
     "CSDS 310 - Algorithms",
-    "cwru/Finished.md",
     "MATH 307 - Linear Algebra",
     "cwru/Classes.md",
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions.md",
