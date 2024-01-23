@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Todo.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do.md"
               }
             }
           }
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Todo.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,8 +190,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2dd392731a3fe0b2",
+  "active": "6a6088cfd8969234",
   "lastOpenFiles": [
+    "cwru/Todo.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "ENGR 145 - Chemistry of Materials/HW/1.pdf",
@@ -202,7 +204,6 @@
     "APBiology/5/Notes/Unit Packet/3 - Test Topics.md",
     "Private/shopping.md",
     "ENGR 145 - Chemistry of Materials/HW",
-    "cwru/Todo.md",
     "cwru/Plan.md",
     "Private/attachments/Pasted image 20240121203808.png",
     "Private/attachments",
