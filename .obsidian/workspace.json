@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Classes.md"
+                "file": "cwru/Todo.md"
               }
             }
           }
@@ -160,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "cwru/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,12 +213,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e60b5faf8890d3ff",
+  "active": "2dd392731a3fe0b2",
   "lastOpenFiles": [
+    "cwru/Classes.md",
     "cwru/Finished.md",
     "cwru/Todo.md",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
-    "cwru/Classes.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
     "ENGR 145 - Chemistry of Materials/HW/1.pdf",
     "CSDS 391 - Intro AI/W/W5_tln32.md",
