@@ -55,4 +55,5 @@
 
 - buncha problems with the north's victory including a lot of shit propaganda cuz the south lost their country
 - they are very broke
+- they sell everything to buy a boat
 - 
