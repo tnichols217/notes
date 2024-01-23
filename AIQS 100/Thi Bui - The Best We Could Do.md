@@ -70,4 +70,6 @@
 
 - move to california where its not chillin all the time
 - they get educated asF
-- 
+- on tet there is explosion downstairs cuz of neighbors and MC claims this is what she has been trained to deal with as refugees - "To run when shit h"
+
+# Ch 10
