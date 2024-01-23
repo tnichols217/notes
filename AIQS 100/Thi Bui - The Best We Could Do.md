@@ -46,4 +46,5 @@
 - grandpa lost her opium jars cuz of the fighting, so she returns to grandpa
 - MC goes and finds this house - which was the first house she lived in
 - Bo got scholarship to study in rich school
+- then goes to teacher school and meets Ma
 - 
