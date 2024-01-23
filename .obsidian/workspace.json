@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/1.md",
+                "file": "APMusicTheory/Seventh Chords.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/1.md"
+                "file": "APMusicTheory/Seventh Chords.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/1.md",
+                "file": "APMusicTheory/Seventh Chords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,11 +216,17 @@
   },
   "active": "6a6088cfd8969234",
   "lastOpenFiles": [
+    "APMusicTheory/Secondary Functions.md",
+    "APMusicTheory/Second Inversion Triads.md",
+    "APMusicTheory/Intervals in the bass.md",
+    "APMusicTheory/First Inversion Triads.md",
+    "APMusicTheory/Chord Progressions.md",
+    "APMusicTheory/Chord Inversions.md",
+    "ENGR 145 - Chemistry of Materials/HW/1.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
     "cwru/Finished.md",
     "cwru/Todo.md",
     "cwru/Classes.md",
-    "ENGR 145 - Chemistry of Materials/HW/1.md",
     "ENGR 145 - Chemistry of Materials/HW/1.pdf",
     "CSDS 391 - Intro AI/W/W5_tln32.md",
     "obsidian-molecules.md",
@@ -247,11 +253,6 @@
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions.md",
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions Formatted.pdf",
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions Formatted1.pdf",
-    "STAT 345 - Theoretical Statistics/Textbook/3.6 - Distribution Properties.md",
-    "STAT 345 - Theoretical Statistics/Textbook/5.1 - Random Samples.md",
-    "STAT 345 - Theoretical Statistics/Textbook/4.5-4.6 - Multivariate Distributions.md",
-    "STAT 345 - Theoretical Statistics/Textbook/4.4 - Hierarchical Models and Mixture Distributions.md",
-    "STAT 345 - Theoretical Statistics/Textbook/4.3 - Bivariate Translation.md",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045800.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045558.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045416.png",
