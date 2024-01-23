@@ -77,4 +77,5 @@
 - flash forward to childbirth
 - kid is yellow (makes joke about being asian)
 - kid gets phototheraphy to get fixed and MC contemplates kids mortality
-- 
+- MC feels heroic for having a kid
+- gurl gets FLASHBACKs of the simult
