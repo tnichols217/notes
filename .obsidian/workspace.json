@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/shopping.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do.md"
+                "file": "ENGR 145 - Chemistry of Materials/HW/1.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,12 +190,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6a6088cfd8969234",
+  "active": "182b341de01c7a00",
   "lastOpenFiles": [
+    "Private/shopping.md",
+    "ENGR 145 - Chemistry of Materials/HW/1.md",
+    "ENGR 145 - Chemistry of Materials/HW",
+    "AIQS 100/Thi Bui - The Best We Could Do.md",
     "cwru/Todo.md",
     "cwru/Plan.md",
-    "AIQS 100/Thi Bui - The Best We Could Do.md",
-    "Private/shopping.md",
     "Private/attachments/Pasted image 20240121203808.png",
     "Private/attachments",
     "Private/README.md",
@@ -224,7 +226,6 @@
     "STAT 345 - Theoretical Statistics/Textbook/4.1 - Joint and Marginal Distributions.md",
     "Venture/Jan20 Minutes.md",
     "MUTH 104 - Music Theory 2/Final/Essay.md",
-    "MUTH 104 - Music Theory 2/Final/Essay.pdf",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag.md",
     "CSDS 391 - Intro AI/Cheat Sheet.md",
     "CSDS 391 - Intro AI/Textbook/21 - Learning Probabilistic Models.md",
