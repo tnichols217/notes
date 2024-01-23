@@ -53,4 +53,5 @@
 
 # Ch 7
 
+- buncha problems with the north's victory including a lot of shit propaganda cuz the south lost their country
 - 
