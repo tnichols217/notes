@@ -41,4 +41,6 @@
 
 # Ch 6
 
+- Bo then hangs out with grandparents - who are very rich
+- drug wars are starting on the streets
 - 
