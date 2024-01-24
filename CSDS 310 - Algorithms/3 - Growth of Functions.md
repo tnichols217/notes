@@ -10,3 +10,4 @@ $\omega\sim>$
 
 ## Big-Oh
 
+$O(g(n))=$
