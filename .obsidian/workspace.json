@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Finished.md"
+                "file": "cwru/Plan.md"
               }
             }
           }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Finished.md",
+                "file": "cwru/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,10 +241,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9b07e3bfb0f599d2",
+  "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
-    "cwru/Untitled.canvas",
     "cwru/Finished.md",
+    "cwru/Untitled.canvas",
     "cwru/Todo.md",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "Private/shopping.md",
