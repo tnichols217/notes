@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md"
+                "file": "cwru/Todo.md"
               }
             }
           }
@@ -184,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md",
+                "file": "cwru/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,10 +237,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b874c97411b13690",
+  "active": "2dd392731a3fe0b2",
   "lastOpenFiles": [
-    "Private/shopping.md",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
+    "Private/shopping.md",
     "cwru/Plan.md",
     "cwru/Todo.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
