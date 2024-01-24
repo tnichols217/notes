@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "127ce84147111580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/shopping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a6088cfd8969234",
             "type": "leaf",
             "state": {
@@ -228,11 +240,12 @@
   },
   "active": "b874c97411b13690",
   "lastOpenFiles": [
-    "CSDS 310 - Algorithms/1 - Sorting.md",
+    "Private/shopping.md",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
-    "cwru/Classes.md",
     "cwru/Plan.md",
     "cwru/Todo.md",
+    "CSDS 310 - Algorithms/1 - Sorting.md",
+    "cwru/Classes.md",
     "AIQS 100/Thi Bui Reflection.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.md",
@@ -255,7 +268,6 @@
     "MATH 223 - Calc 3/Practice Problems/16.1.md",
     "CSDS 391 - Intro AI/P/2.md",
     "APBiology/5/Notes/Unit Packet/3 - Test Topics.md",
-    "Private/shopping.md",
     "ENGR 145 - Chemistry of Materials/HW",
     "Private/attachments/Pasted image 20240121203808.png",
     "Private/attachments",
