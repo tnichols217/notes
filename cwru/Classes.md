@@ -172,7 +172,7 @@ date created: 2023-11-06 10:38
 7. 〰 ECSE 314 / CSDS 314
 8. ECSE 315
 9. ECSE 318
-10. ENGR 210
+10. 〰 ENGR 210
 
 ### Math
 
