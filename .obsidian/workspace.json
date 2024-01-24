@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Plan.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Plan.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,10 +247,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e60b5faf8890d3ff",
+  "active": "182b341de01c7a00",
   "lastOpenFiles": [
-    "cwru/Classes.md",
     "cwru/Plan.md",
+    "cwru/Classes.md",
     "cwru/Untitled.canvas",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "cwru/Finished.md",
