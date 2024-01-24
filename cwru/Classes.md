@@ -191,7 +191,7 @@ date created: 2023-11-06 10:38
 
 ### Stats
 
-1 of
+1 of (maybe ask for substitution)
 1. STAT 312
 2. STAT 313
 3. STAT 332
