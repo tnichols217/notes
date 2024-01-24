@@ -164,7 +164,7 @@ date created: 2023-11-06 10:38
 ### Core
 
 1. ✅ ECSE 132
-2. ECSE 233
+2. ECSE 233 / CSDS 233
 3. ECSE 281
 4. ECSE 301
 5. ECSE 302

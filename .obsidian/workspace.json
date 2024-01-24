@@ -47,18 +47,6 @@
             }
           },
           {
-            "id": "e60b5faf8890d3ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cwru/Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b874c97411b13690",
             "type": "leaf",
             "state": {
@@ -96,6 +84,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "3a71127f06c9a61d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60b5faf8890d3ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cwru/Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
