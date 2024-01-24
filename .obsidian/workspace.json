@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "182b341de01c7a00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cwru/Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e60b5faf8890d3ff",
             "type": "leaf",
             "state": {
@@ -81,21 +93,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "182b341de01c7a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,14 +243,15 @@
   },
   "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
-    "cwru/Finished.md",
+    "cwru/Classes.md",
+    "cwru/Plan.md",
     "cwru/Untitled.canvas",
+    "ENGR 145 - Chemistry of Materials/HW/1.md",
+    "cwru/Finished.md",
     "cwru/Todo.md",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "Private/shopping.md",
-    "cwru/Plan.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
-    "cwru/Classes.md",
     "AIQS 100/Thi Bui Reflection.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.md",
@@ -265,7 +266,6 @@
     "APMusicTheory/First Inversion Triads.md",
     "APMusicTheory/Chord Progressions.md",
     "APMusicTheory/Chord Inversions.md",
-    "ENGR 145 - Chemistry of Materials/HW/1.md",
     "ENGR 145 - Chemistry of Materials/HW/1.pdf",
     "CSDS 391 - Intro AI/W/W5_tln32.md",
     "obsidian-molecules.md",
