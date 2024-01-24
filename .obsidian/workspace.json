@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Classes.md"
+                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,8 +228,9 @@
   },
   "active": "b874c97411b13690",
   "lastOpenFiles": [
-    "cwru/Plan.md",
     "cwru/Classes.md",
+    "CSDS 310 - Algorithms/3 - Growth of Functions.md",
+    "cwru/Plan.md",
     "cwru/Todo.md",
     "AIQS 100/Thi Bui Reflection.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
@@ -259,7 +260,6 @@
     "Private/attachments/Pasted image 20240121203808.png",
     "Private/attachments",
     "Private/README.md",
-    "Private/clock.md",
     "Untitled",
     "AIQS 100",
     "ENGR 145 - Chemistry of Materials",
