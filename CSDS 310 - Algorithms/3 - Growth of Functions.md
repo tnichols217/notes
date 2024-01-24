@@ -10,4 +10,5 @@ $\omega\sim>$
 
 ## Big-Oh
 
-$O(g(n))=$
+$O(g(n))=f(n)\quad s.t.~0\le f(n)\le cg(n)$
+
