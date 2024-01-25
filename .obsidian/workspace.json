@@ -82,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "3a71127f06c9a61d",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Untitled.canvas"
+                "file": "AIQS 100/Thi Bui Reflection.md"
               }
             }
           }
@@ -192,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Untitled.canvas",
+                "file": "AIQS 100/Thi Bui Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,15 +247,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2dd392731a3fe0b2",
+  "active": "6a6088cfd8969234",
   "lastOpenFiles": [
+    "CSDS 310 - Algorithms/3 - Growth of Functions.md",
+    "cwru/Untitled.canvas",
     "cwru/Classes.md",
     "cwru/Plan.md",
-    "cwru/Untitled.canvas",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "cwru/Finished.md",
     "cwru/Todo.md",
-    "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "Private/shopping.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
     "AIQS 100/Thi Bui Reflection.md",
