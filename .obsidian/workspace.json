@@ -74,11 +74,9 @@
             "id": "0114103d8fb14224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AIQS 100/Thi Bui - Reading Response.md",
-                "mode": "source",
-                "source": false
+                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png"
               }
             }
           },
@@ -167,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - Reading Response.md"
+                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png"
               }
             }
           }
@@ -199,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - Reading Response.md",
+                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,13 +253,13 @@
   },
   "active": "0114103d8fb14224",
   "lastOpenFiles": [
-    "PHYS 122 - Physics 1/Labs/Report Cover.png",
-    "PHYS 122 - Physics 1/Labs/1/Lab1.pdf",
-    "PHYS 122 - Physics 1/Labs/1",
-    "PHYS 122 - Physics 1/Labs",
-    "PHYS 122 - Physics 1",
-    "AIQS 100/Thi Bui - The Best We Could Do.md",
     "AIQS 100/Thi Bui - Reading Response.md",
+    "PHYS 121 - Physics 1/Labs/Report Cover.png",
+    "PHYS 121 - Physics 1/Labs/1/Lab1.pdf",
+    "PHYS 121 - Physics 1/Labs/1",
+    "PHYS 121 - Physics 1/Labs",
+    "PHYS 121 - Physics 1",
+    "AIQS 100/Thi Bui - The Best We Could Do.md",
     "Private/shopping.md",
     "CSDS 281 - Logic Design/Pr1.md",
     "CSDS 281 - Logic Design/Pr1.pdf",
@@ -301,7 +299,6 @@
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208044822.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231206115158.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/blackboard.png",
-    "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-black.png",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
