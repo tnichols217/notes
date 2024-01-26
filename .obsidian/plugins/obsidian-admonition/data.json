@@ -79,8 +79,8 @@
       "type": "answer",
       "color": "50, 223, 38",
       "icon": {
-        "name": "check",
-        "type": "font-awesome"
+        "type": "obsidian",
+        "name": "checkmark"
       },
       "command": false,
       "title": "Answer",
