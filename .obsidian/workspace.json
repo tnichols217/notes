@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIQS 100/Thi Bui - Reading Response.md",
+                "file": "CSDS 281 - Logic Design/Pr1.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - Reading Response.md"
+                "file": "CSDS 281 - Logic Design/Pr1.md"
               }
             }
           }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - Reading Response.md",
+                "file": "CSDS 281 - Logic Design/Pr1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,8 +243,13 @@
   },
   "active": "6a6088cfd8969234",
   "lastOpenFiles": [
-    "AIQS 100/Thi Bui Reflection.md",
+    "CSDS 281 - Logic Design/Pr1.pdf",
+    "CSDS 281 - Logic Design/attachments/Pasted image 20240125175243.png",
+    "CSDS 281 - Logic Design/attachments",
     "AIQS 100/Thi Bui - Reading Response.md",
+    "CSDS 281 - Logic Design/Pr1.md",
+    "CSDS 281 - Logic Design",
+    "AIQS 100/Thi Bui Reflection.md",
     "AIQS 100/Untitled",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "cwru/Untitled.canvas",
@@ -272,16 +277,12 @@
     "CSDS 391 - Intro AI/W/W5_tln32.md",
     "obsidian-molecules.md",
     "MATH 223 - Calc 3/Practice Problems/16.1.md",
-    "CSDS 391 - Intro AI/P/2.md",
-    "APBiology/5/Notes/Unit Packet/3 - Test Topics.md",
     "ENGR 145 - Chemistry of Materials/HW",
     "Private/attachments/Pasted image 20240121203808.png",
     "Private/attachments",
-    "Untitled",
     "AIQS 100",
     "ENGR 145 - Chemistry of Materials",
     "CSDS 310 - Algorithms",
-    "MATH 307 - Linear Algebra",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045800.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045558.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045416.png",
@@ -289,7 +290,6 @@
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231206115158.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/blackboard.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-black.png",
-    "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/img/boardmarker-blue.png",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
