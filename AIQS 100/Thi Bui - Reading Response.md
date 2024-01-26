@@ -3,4 +3,4 @@
 3. Express your critical stance or opinion on this theme
 
 > [!para]
-> The balance between life being cyclical and acyclic 
+> The 
