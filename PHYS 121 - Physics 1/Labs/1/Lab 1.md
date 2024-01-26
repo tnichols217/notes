@@ -3,4 +3,4 @@
 ![[Aristotle Graph.png]]
 *$a_N$ and $\delta_{aN}$ are shown on the graph*
 
-Newton's model is significantly closer to modeling the data than Aristotle's model. As you can see in the variance in the slope, Newton's has around 6x less variance and 
+Newton's model is significantly closer to modeling the data than Aristotle's model. As you can see in the variance in the slope, Newton's has around 6x less variance and roughly one order of magnitude higher correlation ($r$). The data points on Newton's graph stay significantly closer to the fit line 
