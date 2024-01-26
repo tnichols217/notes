@@ -1,7 +1,9 @@
 ![[PHYS 121 - Physics 1/Labs/1/Report Cover.png]]
 > [!col]
+>> [!col-md]
 >> ![[Newton Graph.png]]
 >
+>> [!col-md]
 >> ![[Aristotle Graph.png]]
 
 *$a_N$ and $\delta_{aN}$ are shown on the graph*
