@@ -62,9 +62,11 @@
             "id": "127ce84147111580",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/1/Lab1.pdf"
+                "file": "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/1/Lab1.pdf"
+                "file": "PHYS 121 - Physics 1/Labs/1/Lab 1.md"
               }
             }
           }
@@ -185,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/1/Lab1.pdf",
+                "file": "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,12 +241,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "127ce84147111580",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/Labs/1/Written.pdf",
+    "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
     "Private/shopping.md",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
     "AIQS 100/Thi Bui - Reading Response.md",
-    "PHYS 121 - Physics 1/Labs/1/Lab1.pdf",
     "PHYS 121 - Physics 1/Labs/1",
     "PHYS 121 - Physics 1/Labs",
     "PHYS 121 - Physics 1",
@@ -279,7 +282,6 @@
     "ENGR 145 - Chemistry of Materials/HW/1.pdf",
     "CSDS 391 - Intro AI/W/W5_tln32.md",
     "obsidian-molecules.md",
-    "MATH 223 - Calc 3/Practice Problems/16.1.md",
     "Private/attachments/Pasted image 20240121203808.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045800.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045558.png",
