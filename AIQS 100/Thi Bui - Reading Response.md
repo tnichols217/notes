@@ -3,4 +3,4 @@
 3. Express your critical stance or opinion on this theme
 
 > [!para]
-> The 
+> A theme in Thi Bui's *The Best we Could Do* is the volatility of truth and memory.
