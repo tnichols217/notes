@@ -62,21 +62,9 @@
             "id": "127ce84147111580",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Private/shopping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0114103d8fb14224",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png"
+                "file": "PHYS 121 - Physics 1/Labs/1/Lab1.pdf"
               }
             }
           },
@@ -105,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png"
+                "file": "PHYS 121 - Physics 1/Labs/1/Lab1.pdf"
               }
             }
           }
@@ -197,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png",
+                "file": "PHYS 121 - Physics 1/Labs/1/Lab1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,16 +239,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0114103d8fb14224",
+  "active": "127ce84147111580",
   "lastOpenFiles": [
-    "AIQS 100/Thi Bui - Reading Response.md",
+    "Private/shopping.md",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
+    "AIQS 100/Thi Bui - Reading Response.md",
     "PHYS 121 - Physics 1/Labs/1/Lab1.pdf",
     "PHYS 121 - Physics 1/Labs/1",
     "PHYS 121 - Physics 1/Labs",
     "PHYS 121 - Physics 1",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
-    "Private/shopping.md",
     "CSDS 281 - Logic Design/Pr1.md",
     "CSDS 281 - Logic Design/Pr1.pdf",
     "CSDS 281 - Logic Design/attachments/Pasted image 20240125175243.png",
