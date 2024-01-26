@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
+                "file": "CSDS 302 - Discrete Math/HW/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/1/Lab 1.md"
+                "file": "CSDS 302 - Discrete Math/HW/1.md"
               }
             }
           }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
+                "file": "CSDS 302 - Discrete Math/HW/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,9 +241,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "127ce84147111580",
   "lastOpenFiles": [
-    "Untitled",
+    "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
+    "CSDS 302 - Discrete Math/HW/1.md",
+    "CSDS 302 - Discrete Math/HW",
+    "CSDS 302 - Discrete Math",
     "PHYS 121 - Physics 1/Labs/1/Lab 1 Full.pdf",
     "PHYS 121 - Physics 1/Labs/1/PDFsam_merge.pdf",
     "PHYS 121 - Physics 1/Labs/1/8i1b Error Analysis and Propagation worksheet.pdf",
@@ -251,16 +254,13 @@
     "PHYS 121 - Physics 1/Labs/1/Lab 1.pdf",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/1/Written.pdf",
-    "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
     "Private/shopping.md",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
     "AIQS 100/Thi Bui - Reading Response.md",
     "PHYS 121 - Physics 1/Labs/1",
     "PHYS 121 - Physics 1/Labs",
-    "PHYS 121 - Physics 1",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
     "CSDS 281 - Logic Design/Pr1.md",
-    "CSDS 281 - Logic Design/Pr1.pdf",
     "CSDS 281 - Logic Design/attachments/Pasted image 20240125175243.png",
     "AIQS 100/Thi Bui Reflection.md",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
