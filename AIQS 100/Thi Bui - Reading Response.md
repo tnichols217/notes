@@ -3,4 +3,4 @@
 3. Express your critical stance or opinion on this theme
 
 > [!para]
-> 
+> The balance between being cyclical and acyclical 
