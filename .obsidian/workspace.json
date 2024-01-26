@@ -107,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do.md"
+                "file": "AIQS 100/Thi Bui - Reading Response.md"
               }
             }
           }
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do.md",
+                "file": "AIQS 100/Thi Bui - Reading Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,8 +253,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "623a31575d99c339",
+  "active": "0114103d8fb14224",
   "lastOpenFiles": [
+    "AIQS 100/Thi Bui - The Best We Could Do.md",
     "AIQS 100/Thi Bui - Reading Response.md",
     "Private/shopping.md",
     "CSDS 281 - Logic Design/Pr1.md",
@@ -272,7 +273,6 @@
     "cwru/Finished.md",
     "cwru/Todo.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
-    "AIQS 100/Thi Bui - The Best We Could Do.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.svg",
     "STAT 345 - Theoretical Statistics/Homework/7.md",
