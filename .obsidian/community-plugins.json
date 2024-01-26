@@ -34,5 +34,6 @@
   "obsidian-text-format",
   "obsidian-function-plot",
   "obsidian-latex-suite",
-  "code-emitter"
+  "code-emitter",
+  "obsidian-graphviz"
 ]
