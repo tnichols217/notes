@@ -74,6 +74,19 @@
       "injectColor": true,
       "noTitle": false,
       "copy": true
+    },
+    "answer": {
+      "type": "answer",
+      "color": "50, 223, 38",
+      "icon": {
+        "name": "check",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Answer",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
     }
   },
   "syntaxHighlight": true,
