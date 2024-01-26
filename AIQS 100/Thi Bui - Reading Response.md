@@ -3,4 +3,4 @@
 3. Express your critical stance or opinion on this theme
 
 > [!para]
-> A theme in Thi Bui's *The Best we Could Do* is the uncertainty of truth and volatility of memory. Multiple times in the story Thi struggles with understanding her own and her parent's history as it is not nearly as polar as she would like to believe. On page 207, Thi questions, "Wait. DOes he hate the general or is he defending him? Did he like communism or not?"
+> A theme in Thi Bui's *The Best we Could Do* is the uncertainty of truth and volatility of memory. Multiple times in the story Thi struggles with understanding her own and her parent's history as it is not nearly as polar as she would like to believe. On page 207, Thi questions, "Wait. DOes he hate the general or is he defending him? Did he like communism or not?" and later cites the lack of clarity as "contradiction[s] in [her] father's stories." 
