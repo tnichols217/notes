@@ -2,5 +2,5 @@
 2. Identify two examples that support this particular theme
 3. Express your critical stance or opinion on this theme
 
-> [!def]
+> [!para]
 > 

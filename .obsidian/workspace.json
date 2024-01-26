@@ -71,12 +71,12 @@
             }
           },
           {
-            "id": "6a6088cfd8969234",
+            "id": "0114103d8fb14224",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 281 - Logic Design/Pr1.md",
+                "file": "AIQS 100/Thi Bui - Reading Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/Pr1.md"
+                "file": "AIQS 100/Thi Bui - Reading Response.md"
               }
             }
           }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/Pr1.md",
+                "file": "AIQS 100/Thi Bui - Reading Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,13 +241,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6a6088cfd8969234",
+  "active": "0114103d8fb14224",
   "lastOpenFiles": [
+    "Private/shopping.md",
+    "CSDS 281 - Logic Design/Pr1.md",
     "CSDS 281 - Logic Design/Pr1.pdf",
     "CSDS 281 - Logic Design/attachments/Pasted image 20240125175243.png",
     "CSDS 281 - Logic Design/attachments",
     "AIQS 100/Thi Bui - Reading Response.md",
-    "CSDS 281 - Logic Design/Pr1.md",
     "CSDS 281 - Logic Design",
     "AIQS 100/Thi Bui Reflection.md",
     "AIQS 100/Untitled",
@@ -258,7 +259,6 @@
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "cwru/Finished.md",
     "cwru/Todo.md",
-    "Private/shopping.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
     "AIQS 100/Thi Bui - The Best We Could Do.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.md",
@@ -282,7 +282,6 @@
     "Private/attachments",
     "AIQS 100",
     "ENGR 145 - Chemistry of Materials",
-    "CSDS 310 - Algorithms",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045800.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045558.png",
     "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/MUTH 104/Final/attachments/Pasted image 20231208045416.png",
