@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/3.md",
+                "file": "CSDS 302 - Discrete Math/HW/4.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/3.md",
+                "file": "CSDS 302 - Discrete Math/HW/4.md",
                 "mode": "preview",
                 "source": false
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/3.md"
+                "file": "CSDS 302 - Discrete Math/HW/4.md"
               }
             }
           }
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/3.md",
+                "file": "CSDS 302 - Discrete Math/HW/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,10 +261,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "127ce84147111580",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
-    "CSDS 302 - Discrete Math/HW/1.md",
     "CSDS 302 - Discrete Math/HW/3.md",
+    "CSDS 302 - Discrete Math/HW/1.md",
     "CSDS 302 - Discrete Math/HW/4.md",
     "CSDS 302 - Discrete Math/HW/2.md",
     "CSDS 302 - Discrete Math/HW/9.md",
