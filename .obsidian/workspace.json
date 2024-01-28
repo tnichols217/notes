@@ -142,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -241,7 +242,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "127ce84147111580",
+  "active": "28942e6507e0526e",
   "lastOpenFiles": [
     "PHYS 121 - Physics 1/HW/1/images/image71-g.png",
     "PHYS 121 - Physics 1/HW/1/images/image71-f.png",
