@@ -96,24 +96,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "9a47a37a4615c503",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "483d5f45921d022c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS 121 - Physics 1/HW/1/1.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -260,7 +242,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "483d5f45921d022c",
+  "active": "127ce84147111580",
   "lastOpenFiles": [
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "PHYS 121 - Physics 1/HW/1/1.md",
