@@ -96,6 +96,24 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "9a47a37a4615c503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "483d5f45921d022c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 121 - Physics 1/HW/1/1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +148,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -242,13 +260,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "28942e6507e0526e",
+  "active": "483d5f45921d022c",
   "lastOpenFiles": [
+    "ENGR 145 - Chemistry of Materials/HW/1.md",
+    "PHYS 121 - Physics 1/HW/1/1.md",
     "PHYS 121 - Physics 1/HW/1/images/image71-g.png",
     "PHYS 121 - Physics 1/HW/1/images/image71-f.png",
     "PHYS 121 - Physics 1/HW/1/images/image71-e.png",
     "CSDS 302 - Discrete Math/HW/1.md",
-    "PHYS 121 - Physics 1/HW/1/1.md",
     "PHYS 121 - Physics 1/HW/1/images/image71-b.png",
     "PHYS 121 - Physics 1/HW/1/images/image71.png",
     "PHYS 121 - Physics 1/HW/1/images/image71-a.png",
@@ -283,14 +302,12 @@
     "cwru/Untitled.canvas",
     "cwru/Classes.md",
     "cwru/Plan.md",
-    "ENGR 145 - Chemistry of Materials/HW/1.md",
     "cwru/Finished.md",
     "cwru/Todo.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.svg",
     "STAT 345 - Theoretical Statistics/Homework/7.md",
-    "Private/attachments/Pasted image 20240121203808.png",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
