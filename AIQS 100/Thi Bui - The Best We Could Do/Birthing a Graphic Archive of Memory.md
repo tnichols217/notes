@@ -7,4 +7,4 @@
 	- Themes of "bleeding" watercolor in the artstyle
 - Brings attention to under-covered topics about the vietnam war
 	- Strong use of juxtaposition and comparison across time
-- 
+	- shows multiple perspectives, 
