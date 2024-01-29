@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2dd392731a3fe0b2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "cwru/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "9b07e3bfb0f599d2",
             "type": "leaf",
             "state": {
@@ -47,18 +32,6 @@
             }
           },
           {
-            "id": "623a31575d99c339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e60b5faf8890d3ff",
             "type": "leaf",
             "state": {
@@ -69,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "623a31575d99c339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Classes.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Untitled.md"
               }
             }
           }
@@ -163,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Classes.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,8 +202,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "182b341de01c7a00",
+  "active": "623a31575d99c339",
   "lastOpenFiles": [
+    "cwru/Classes.md",
+    "cwru/Plan.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Untitled.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - The Best We Could Do.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
@@ -260,8 +247,6 @@
     "Private/shopping.md",
     "CSDS 281 - Logic Design/Pr1.md",
     "cwru/Untitled.canvas",
-    "cwru/Classes.md",
-    "cwru/Plan.md",
     "cwru/Finished.md",
     "cwru/Todo.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
