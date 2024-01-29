@@ -2,4 +2,6 @@
 	- Usually enforces American heroism
 - Dehumanized vietnamese and cherry picks situations to show to people
 	- Only shows women when they are vietnamese prostitutes or american nurses
-- 
+- Big comparison of lost children to the loss of a war
+	- How do we live on after a lost child
+	- Themes of "bleeding" watercolor in the art
