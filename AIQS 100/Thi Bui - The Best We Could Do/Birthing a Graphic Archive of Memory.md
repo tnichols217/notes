@@ -1,3 +1,4 @@
 - The United states media has been twisting the media for several years trying to portray the aggression of the Viet Minh
 	- Usually enforces American heroism
-	- 
+- Dehumanized vietnamese and cherry picks situations to show to people
+	- Only shows women when they are prostitutes or 
