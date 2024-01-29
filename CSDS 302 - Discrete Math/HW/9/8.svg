@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="69.515739mm"
-   height="40.063019mm"
-   viewBox="0 0 69.515739 40.063019"
+   width="64.611649mm"
+   height="36.302818mm"
+   viewBox="0 0 64.611648 36.302818"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
@@ -24,14 +24,23 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.8926302"
-     inkscape:cx="178.21151"
-     inkscape:cy="72.598288"
+     inkscape:cx="169.22315"
+     inkscape:cy="68.449814"
      inkscape:window-width="2560"
      inkscape:window-height="1440"
      inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="64.611649"
+       height="36.302818"
+       id="page1"
+       margin="5.0000005"
+       bleed="0" />
+  </sodipodi:namedview>
   <defs
      id="defs1"><clipPath
    clipPathUnits="userSpaceOnUse"
@@ -89,19 +98,21 @@
      transform="translate(-376.07001,-299.08001)"
      id="path414" />
 </clipPath>
+
 1&quot; /&gt;5&quot; /&gt;4&quot; /&gt;3&quot; /&gt;2&quot; /&gt;6&quot; /&gt;</defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-56.1614,-161.92055)">
+     transform="translate(-58.500001,-163.01042)">
     <rect
        style="fill:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
        id="rect1"
-       width="69.515739"
-       height="40.063019"
-       x="56.1614"
-       y="161.92055" />
+       width="64.611649"
+       height="36.302818"
+       x="58.5"
+       y="163.01042"
+       transform="translate(-1.0625e-6)" />
     <g
        id="g1">
       <path
