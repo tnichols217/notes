@@ -6,4 +6,5 @@
 	- How do we live on after a lost child
 	- Themes of "bleeding" watercolor in the artstyle
 - Brings attention to under-covered topics about the vietnam war
-	- Strong use of juxtaposition and comp
+	- Strong use of juxtaposition and comparison across time
+- 
