@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/9.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/9.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,8 +214,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "96e874c2c6df6d29",
+  "active": "623a31575d99c339",
   "lastOpenFiles": [
+    "CSDS 302 - Discrete Math/HW/9.md",
     "CSDS 302 - Discrete Math/HW/8.md",
     "CSDS 302 - Discrete Math/HW/7.md",
     "CSDS 302 - Discrete Math/HW/6.md",
@@ -232,7 +233,6 @@
     "AIQS 100/Comics.md",
     "AIQS 100/Thi Bui - The Best We Could Do",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
-    "CSDS 302 - Discrete Math/HW/9.md",
     "CSDS 302 - Discrete Math/HW/9/10.2/2b.svg",
     "CSDS 302 - Discrete Math/HW/9/10.2/2a.svg",
     "CSDS 302 - Discrete Math/HW/9/10.2/4a.svg",
