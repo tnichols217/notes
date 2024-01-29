@@ -7,4 +7,6 @@
 	- Themes of "bleeding" watercolor in the artstyle
 - Brings attention to under-covered topics about the vietnam war
 	- Strong use of juxtaposition and comparison across time
-	- shows multiple perspectives, 
+	- shows multiple perspectives, pictured by the flipped vietnam on her back
+	- themes of water, ocean, boats — shifting and filling
+- 
