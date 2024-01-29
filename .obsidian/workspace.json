@@ -59,18 +59,6 @@
             }
           },
           {
-            "id": "127ce84147111580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "623a31575d99c339",
             "type": "leaf",
             "state": {
@@ -155,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do.md"
               }
             }
           }
@@ -187,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,8 +229,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "127ce84147111580",
+  "active": "623a31575d99c339",
   "lastOpenFiles": [
+    "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/HW/2.md",
     "CSDS 302 - Discrete Math/HW/9.md",
@@ -260,7 +249,6 @@
     "CSDS 302 - Discrete Math/HW/9/10.1/2.svg",
     "CSDS 302 - Discrete Math/HW/9/10.1",
     "CSDS 302 - Discrete Math/HW/9/1.4/5.svg",
-    "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CSDS 302 - Discrete Math/HW/9/1.4/8.svg",
     "CSDS 302 - Discrete Math/HW/9/1.4",
     "CSDS 302 - Discrete Math/HW/9/10.1/29.svg",
