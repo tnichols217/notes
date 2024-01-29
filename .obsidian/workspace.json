@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "02d64a40ded3657c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "96e874c2c6df6d29",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md"
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md"
               }
             }
           }
@@ -172,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md",
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,10 +238,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2ed2e386edd9609c",
+  "active": "02d64a40ded3657c",
   "lastOpenFiles": [
-    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CSDS 302 - Discrete Math/HW/2.md",
+    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CSDS 302 - Discrete Math/Notes",
     "CSDS 302 - Discrete Math/HW/9.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
