@@ -47,24 +47,12 @@
             }
           },
           {
-            "id": "b874c97411b13690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "623a31575d99c339",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -175,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,8 +217,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "623a31575d99c339",
+  "active": "182b341de01c7a00",
   "lastOpenFiles": [
+    "AIQS 100/Thi Bui - The Best We Could Do/Untitled.md",
+    "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - The Best We Could Do.md",
+    "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
+    "AIQS 100/Thi Bui Reflection.md",
+    "AIQS 100/Comics.md",
+    "AIQS 100/Thi Bui - The Best We Could Do",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/HW/2.md",
@@ -262,13 +256,9 @@
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "CSDS 302 - Discrete Math/HW/1.md",
     "PHYS 121 - Physics 1/HW/1/images",
-    "PHYS 121 - Physics 1/HW/1/p121_spring2024_05.pdf",
     "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
     "Private/shopping.md",
-    "AIQS 100/Thi Bui - Reading Response.md",
-    "AIQS 100/Thi Bui - The Best We Could Do.md",
     "CSDS 281 - Logic Design/Pr1.md",
-    "AIQS 100/Thi Bui Reflection.md",
     "cwru/Untitled.canvas",
     "cwru/Classes.md",
     "cwru/Plan.md",
@@ -276,7 +266,6 @@
     "cwru/Todo.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.md",
-    "STAT 345 - Theoretical Statistics/Homework/7.md",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "church/Untitled.canvas"

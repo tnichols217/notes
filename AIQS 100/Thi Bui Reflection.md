@@ -1,2 +1,0 @@
-1. Initially she said that she felt like she hasn't done enough for her family and wants to repay them by expressing her and their story. She hopes to be more in touch with her family history and parents as a result of it, understanding their experience through the war
-2. 
