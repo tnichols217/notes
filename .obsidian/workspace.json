@@ -68,8 +68,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "c404faa8f4f14711"
+            }
           },
           {
             "id": "623a31575d99c339",
@@ -97,25 +96,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "05e1a1c8a6c450ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7fd819238b31a794",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 302 - Discrete Math/HW/3.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "c404faa8f4f14711"
-          }
-        ]
       }
     ],
     "direction": "vertical"
