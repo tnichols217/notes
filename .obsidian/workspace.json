@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md",
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md"
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md",
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,8 +228,10 @@
   },
   "active": "2ed2e386edd9609c",
   "lastOpenFiles": [
-    "CSDS 302 - Discrete Math/HW/9.md",
     "CSDS 302 - Discrete Math/HW/2.md",
+    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+    "CSDS 302 - Discrete Math/Notes",
+    "CSDS 302 - Discrete Math/HW/9.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
     "PHYS 121 - Physics 1/HW/1/1.md",
     "CSDS 302 - Discrete Math/HW/1.md",
@@ -266,7 +268,6 @@
     "CSDS 302 - Discrete Math/HW/9",
     "PHYS 121 - Physics 1/HW/1/1.pdf",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
-    "PHYS 121 - Physics 1/HW/1/images",
     "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
     "Private/shopping.md",
     "CSDS 281 - Logic Design/Pr1.md",
