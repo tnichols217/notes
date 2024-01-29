@@ -142,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28c69e3aca2b1263",
@@ -242,8 +241,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "127ce84147111580",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/HW/1/images/5e.svg",
     "PHYS 121 - Physics 1/HW/1/images/5b.svg",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "PHYS 121 - Physics 1/HW/1/1.md",
@@ -289,7 +289,6 @@
     "cwru/Todo.md",
     "CSDS 310 - Algorithms/1 - Sorting.md",
     "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.md",
-    "CSDS 310 - Algorithms/Drawing 2024-01-23 10.51.42.excalidraw.svg",
     "STAT 345 - Theoretical Statistics/Homework/7.md",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
