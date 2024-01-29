@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "2ed2e386edd9609c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 302 - Discrete Math/HW/2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "96e874c2c6df6d29",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md"
+                "file": "CSDS 302 - Discrete Math/HW/2.md"
               }
             }
           }
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
+                "file": "CSDS 302 - Discrete Math/HW/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,11 +226,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "623a31575d99c339",
+  "active": "2ed2e386edd9609c",
   "lastOpenFiles": [
+    "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
     "PHYS 121 - Physics 1/HW/1/1.md",
     "CSDS 302 - Discrete Math/HW/1.md",
-    "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
     "PHYS 121 - Physics 1/HW/1/images/5.svg",
     "PHYS 121 - Physics 1/HW/1/images/5e.svg",
     "CSDS 302 - Discrete Math/HW/9.md",
