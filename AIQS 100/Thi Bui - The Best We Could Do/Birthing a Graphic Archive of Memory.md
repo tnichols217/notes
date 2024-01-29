@@ -1,0 +1,2 @@
+- The United states media has been twisting the media for several years trying to portray the aggression of the Viet Minh
+	- Usually enf
