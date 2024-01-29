@@ -9,4 +9,4 @@
 	- Strong use of juxtaposition and comparison across time
 	- shows multiple perspectives, pictured by the flipped vietnam on her back
 	- themes of water, ocean, boats — shifting and filling
-- ties it back to th
+- ties it back to the impact being a refugee has been
