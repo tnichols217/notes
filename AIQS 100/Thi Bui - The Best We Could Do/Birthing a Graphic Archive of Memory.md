@@ -5,4 +5,5 @@
 - Big comparison of lost children to the loss of a war
 	- How do we live on after a lost child
 	- Themes of "bleeding" watercolor in the artstyle
-- 
+- Brings attention to under-covered topics about the vietnam war
+	- Strong use of juxtaposition and comp
