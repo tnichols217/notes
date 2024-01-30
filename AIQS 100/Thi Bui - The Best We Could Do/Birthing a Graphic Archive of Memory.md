@@ -1,3 +1,5 @@
+# Notes
+
 - The United states media has been twisting the media for several years trying to portray the aggression of the Viet Minh
 	- Usually enforces American heroism
 - Dehumanized vietnamese and cherry picks situations to show to people
@@ -11,7 +13,9 @@
 	- themes of water, ocean, boats — shifting and filling
 - ties it back to the impact being a refugee has been
 
+# Reflection Questions
+
 1. What is the main thesis of Stella Oh's essay? Please rephrase the thesis in your own words. Do you agree or disagree with her main argument?
-	1. 
+	- 
 2. How does Thi Bui bridge the political and the personal in her memoir according to Stella Oh? Can you identify a few concrete examples Oh uses to make this claim?
 3. What does Stella Oh mean when she argues that Thi Bui writes a feminist version of the Vietnam War? What examples does she provide for this argument?
