@@ -11,4 +11,5 @@
 	- themes of water, ocean, boats — shifting and filling
 - ties it back to the impact being a refugee has been
 
-What is the main thesis of Stella Oh's essay? Please rephrase the 
+1. What is the main thesis of Stella Oh's essay? Please rephrase the thesis in your own words. Do you agree or disagree with her main argument?
+2. How does Thi Bui bridge the political and the personal in her memoir 
