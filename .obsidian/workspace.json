@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/2.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md"
               }
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/2.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,11 +238,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2ed2e386edd9609c",
+  "active": "623a31575d99c339",
   "lastOpenFiles": [
+    "CSDS 281 - Logic Design/HW/2.md",
     "CSDS 281 - Logic Design/HW/2.pdf",
     "ENGR 145 - Chemistry of Materials/HW/2.md",
-    "CSDS 281 - Logic Design/HW/2.md",
     "CSDS 281 - Logic Design/HW",
     "ENGR 145 - Chemistry of Materials/HW/2.pdf",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
@@ -282,7 +282,6 @@
     "CSDS 302 - Discrete Math/HW/9/1.4",
     "CSDS 302 - Discrete Math/HW/9/10.1/29.svg",
     "CSDS 302 - Discrete Math/HW/9/extract/717_PDFsam_Discrete Mathematics with Applications - Susanna S. Epp.pdf",
-    "CSDS 302 - Discrete Math/HW/9/extract",
     "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
     "Private/shopping.md",
     "CSDS 281 - Logic Design/HW/1.md",

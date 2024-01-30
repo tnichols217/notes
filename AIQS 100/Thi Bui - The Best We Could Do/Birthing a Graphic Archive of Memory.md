@@ -10,3 +10,5 @@
 	- shows multiple perspectives, pictured by the flipped vietnam on her back
 	- themes of water, ocean, boats — shifting and filling
 - ties it back to the impact being a refugee has been
+
+What is the main thesis of Stella Oh's essay? Please rephrase the 
