@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca4cf6357558295d",
@@ -238,7 +239,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "2ed2e386edd9609c",
   "lastOpenFiles": [
     "ENGR 145 - Chemistry of Materials/HW/2.md",
     "CSDS 281 - Logic Design/HW/2.md",
