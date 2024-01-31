@@ -21,12 +21,13 @@
 	1. $p\land p\iff p$
 	2. $p\lor p\iff p$
 8. Universal Bound Law
+	1. $p\lor\mathbf c\iff p$
 9. De Morgan's Laws
 	1. $\lnot(p\lor q)\iff\lnot p\land\lnot q$
-	1. $\lnot(p\land q)\iff\lnot p\lor\lnot q$
+	2. $\lnot(p\land q)\iff\lnot p\lor\lnot q$
 10. Absorption Law
 	1. $p\land(p\lor q)\iff p$
-	1. $p\lor(p\land q)\iff p$
+	2. $p\lor(p\land q)\iff p$
 
 # Implications
 
