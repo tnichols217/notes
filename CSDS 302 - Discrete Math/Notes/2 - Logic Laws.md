@@ -1,7 +1,11 @@
 # Logic Laws
 
-1. Communicative $p\lor q\iff q\lor p$
+1. Communicative
+	1. $p\lor q\iff q\lor p$
+	2. $p\land q\iff q\land p$
 2. Associative
+	1. $(p\lor q)\lor r\iff p\lor (q\lor r)$
+	2. $(p\land q)\land r\iff p\lor (q\lor r)$
 3. Distributive
 4. Identity
 5. Negation
