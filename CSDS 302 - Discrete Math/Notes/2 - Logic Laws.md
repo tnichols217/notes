@@ -22,7 +22,9 @@
 	2. $p\lor p\iff p$
 8. Universal Bound Law
 9. De Morgan's Laws
-	1. $\lnot(p\lor q)\iff\lnotp\land\lnot q$
+	1. $\lnot(p\lor q)\iff\lnot p\land\lnot q$
+	1. $\lnot(p\land q)\iff\lnot p\lor\lnot q$
 10. Absorption Law
-	1. 
+	1. $p\land(p\lor q)\iff p$
+	1. $p\land(p\lor q)\iff p$
 11. Definitions of tautologies and contradictions
