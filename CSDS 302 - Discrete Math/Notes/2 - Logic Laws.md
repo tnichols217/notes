@@ -39,6 +39,14 @@
 4. Indirect Reasoning — Modus Tollens
 	1. $(p\to q)\land\lnot q\implies \lnot p$
 
+# Special Cases
+
+1. Generalization
+	1. $p\therefore p\lor q$
+2. Specialization
+	1. $p\land q\therefore q$
+	2. 
+
 # Statements
 
 
