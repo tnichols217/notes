@@ -43,6 +43,9 @@
 
 
 > [!def]
+> **Statement**
+> 
+> 
 > **Statement form**
 > Consists of premises and conclusion.
 > If premises are true, then conclusion is guaranteed
