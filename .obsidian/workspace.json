@@ -56,14 +56,6 @@
             }
           },
           {
-            "id": "e495d0d59b563992",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "3f41fcf7e91b30be",
             "type": "leaf",
             "state": {
@@ -112,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -171,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSDS 302 - Discrete Math/HW/9.md"
+              }
             }
           }
         ]
@@ -202,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CSDS 302 - Discrete Math/HW/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,10 +251,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e495d0d59b563992",
+  "active": "96e874c2c6df6d29",
   "lastOpenFiles": [
-    "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
+    "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions.md",
     "STAT 345 - Theoretical Statistics/Textbook/2.1 - Transformations.md",
