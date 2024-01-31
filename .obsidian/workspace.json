@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARTS 302 - Architecture 1/Readings/In Class/Diagrams.md"
+                "file": "CSDS 310 - Algorithms/1 - Sorting.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARTS 302 - Architecture 1/Readings/In Class/Diagrams.md",
+                "file": "CSDS 310 - Algorithms/1 - Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ARTS 302 - Architecture 1/Readings/In Class/Diagrams.md",
+                    "file": "CSDS 310 - Algorithms/1 - Sorting.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -290,38 +290,38 @@
   },
   "active": "d311db44e806b37f",
   "lastOpenFiles": [
-    "ARTS 302 - Architecture 1/Readings/In Class/7 ways to look at a building.md",
-    "ARTS 302 - Architecture 1/Readings/Ching/5 - Circulation.md",
-    "ARTS 302 - Architecture 1/Readings/Ching/4 - Organization.md",
-    "ARTS 302 - Architecture 1/Readings/Ching/3 - Form and Space.md",
-    "ARTS 302 - Architecture 1/Readings/Ching/2 - Form.md",
-    "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements.md",
-    "ARTS 302 - Architecture 1/Readings/Ching/2 - Form/Shape.md",
-    "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/3 - Volume.md",
+    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+    "CSDS 302 - Discrete Math/HW/9.md",
+    "CSDS 302 - Discrete Math/HW/8.md",
+    "CSDS 302 - Discrete Math/HW/7.md",
+    "CSDS 302 - Discrete Math/HW/6.md",
+    "CSDS 302 - Discrete Math/HW/5.md",
+    "CSDS 302 - Discrete Math/HW/4.md",
+    "CSDS 302 - Discrete Math/HW/3.md",
+    "CSDS 302 - Discrete Math/HW/2.md",
+    "CSDS 302 - Discrete Math/HW/1.md",
+    "CSDS 281 - Logic Design/Recitation/1.md",
+    "CSDS 281 - Logic Design/HW/2.md",
+    "CSDS 281 - Logic Design/HW/1.md",
+    "CHEM 111 - Intro Chem/Overview.md",
+    "CHEM 111 - Intro Chem/Exam 3 Equations.md",
+    "CHEM 111 - Intro Chem/Atomic Theory.md",
+    "CHEM 111 - Intro Chem/8 - Kinetics and Rate Laws.md",
+    "CHEM 111 - Intro Chem/7 - Solubility.md",
+    "CHEM 111 - Intro Chem/6 - Stoichiometry.md",
+    "CHEM 111 - Intro Chem/5 - Empirical Analysis.md",
+    "CHEM 111 - Intro Chem/4 - Molecules.md",
+    "CHEM 111 - Intro Chem/3 - Compounds.md",
+    "CHEM 111 - Intro Chem/2 - Units.md",
+    "CHEM 111 - Intro Chem/1 - Intro.md",
+    "CHEM 111 - Intro Chem/working/titration.md",
+    "Biology/Ch9/9.3 Stem Cells.md",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/3 - Volume.svg",
-    "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/2 - Plane.md",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/2 - Plane.svg",
-    "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.md",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.svg",
-    "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/1 - Line.md",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/1 - Line.svg",
-    "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/0.5 - Point forms.md",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/0.5 - Point forms.svg",
-    "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/0 - Point.md",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/0 - Point.svg",
-    "APPhysics/Unit5-Momentum/Collisions.md",
-    "APPhysics/Unit4-Energy/problems.md",
-    "APPhysics/Unit4-Energy/Energy.md",
-    "APPhysics/Unit3-Circular_motion/Newton's Law of Gravitation.md",
-    "APPhysics/Unit3-Circular_motion/Common Symbols.md",
-    "APPhysics/Unit3-Circular_motion/Circular Motion.md",
-    "APPhysics/Unit3-Circular_motion/problems/nascar banked turn.md",
-    "APPhysics/Unit3-Circular_motion/problems/flying plane example.md",
-    "APPhysics/Unit2-Dynamics/Procedure Writing.md",
-    "APPhysics/Unit2-Dynamics/Newton's Laws.md",
-    "APPhysics/Unit2-Dynamics/Hooke's Law.md",
-    "APPhysics/Unit2-Dynamics/Forces.md",
-    "APPhysics/Unit2-Dynamics/Common Symbols.md",
     "CSDS 281 - Logic Design/Recitation",
     "CSDS 281 - Logic Design/HW/2.pdf",
     "CSDS 281 - Logic Design/HW",
