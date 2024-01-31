@@ -9,4 +9,6 @@
 
 # Evidence Ideas
 
-- Childbirth $\iff$ War — a feminist idea
+- Childbirth $\iff$ War — a feminist POV
+- Father liking vs. disliking the general
+- 
