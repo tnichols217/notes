@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 310 - Algorithms/1 - Sorting.md"
+                "file": "MATH 223 - Calc 3/Practice Problems/13.2.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 310 - Algorithms/1 - Sorting.md",
+                "file": "MATH 223 - Calc 3/Practice Problems/13.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "CSDS 310 - Algorithms/1 - Sorting.md",
+                    "file": "MATH 223 - Calc 3/Practice Problems/13.2.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -290,32 +290,33 @@
   },
   "active": "d311db44e806b37f",
   "lastOpenFiles": [
-    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
-    "CSDS 302 - Discrete Math/HW/9.md",
-    "CSDS 302 - Discrete Math/HW/8.md",
-    "CSDS 302 - Discrete Math/HW/7.md",
-    "CSDS 302 - Discrete Math/HW/6.md",
-    "CSDS 302 - Discrete Math/HW/5.md",
-    "CSDS 302 - Discrete Math/HW/4.md",
-    "CSDS 302 - Discrete Math/HW/3.md",
-    "CSDS 302 - Discrete Math/HW/2.md",
-    "CSDS 302 - Discrete Math/HW/1.md",
-    "CSDS 281 - Logic Design/Recitation/1.md",
-    "CSDS 281 - Logic Design/HW/2.md",
-    "CSDS 281 - Logic Design/HW/1.md",
-    "CHEM 111 - Intro Chem/Overview.md",
-    "CHEM 111 - Intro Chem/Exam 3 Equations.md",
-    "CHEM 111 - Intro Chem/Atomic Theory.md",
-    "CHEM 111 - Intro Chem/8 - Kinetics and Rate Laws.md",
-    "CHEM 111 - Intro Chem/7 - Solubility.md",
-    "CHEM 111 - Intro Chem/6 - Stoichiometry.md",
-    "CHEM 111 - Intro Chem/5 - Empirical Analysis.md",
-    "CHEM 111 - Intro Chem/4 - Molecules.md",
-    "CHEM 111 - Intro Chem/3 - Compounds.md",
-    "CHEM 111 - Intro Chem/2 - Units.md",
-    "CHEM 111 - Intro Chem/1 - Intro.md",
-    "CHEM 111 - Intro Chem/working/titration.md",
-    "Biology/Ch9/9.3 Stem Cells.md",
+    "MATH 223 - Calc 3/Practice Problems/13.1.md",
+    "MATH 223 - Calc 3/Practice Problems/12.7.md",
+    "MATH 223 - Calc 3/Practice Problems/12.6.md",
+    "MATH 223 - Calc 3/Practice Problems/12.5.md",
+    "MATH 223 - Calc 3/Practice Problems/12.4.md",
+    "MATH 223 - Calc 3/Practice Problems/12.3.md",
+    "MATH 223 - Calc 3/Practice Problems/12.2.md",
+    "MATH 223 - Calc 3/Practice Problems/12.1.md",
+    "MATH 223 - Calc 3/Practice Problems/11 - Problem Set 11.md",
+    "MATH 223 - Calc 3/Practice Problems/10 - Problem Set 10.md",
+    "MATH 223 - Calc 3/Practice Problems/1 - Problem Set 1.md",
+    "MATH 223 - Calc 3/Practice Problems/14.1/9.md",
+    "MATH 223 - Calc 3/Practice Problems/14.1/7.md",
+    "MATH 223 - Calc 3/Practice Problems/14.1/59.md",
+    "MATH 223 - Calc 3/Practice Problems/14.1/55.md",
+    "MATH 223 - Calc 3/Practice Problems/14.1/47.md",
+    "MATH 223 - Calc 3/Practice Problems/14.1/33.md",
+    "MATH 223 - Calc 3/Practice Problems/12.7/25.md",
+    "MATH 223 - Calc 3/Practice Problems/12.7/19.md",
+    "MATH 223 - Calc 3/Practice Problems/12.5/33.md",
+    "MATH 223 - Calc 3/Practice Problems/12.4/47.md",
+    "ENGR 145 - Chemistry of Materials/Intro.md",
+    "ENGR 145 - Chemistry of Materials/HW/2.md",
+    "ENGR 145 - Chemistry of Materials/HW/1.md",
+    "EBME 105/3 - Subfields.md",
+    "EBME 105/2 - Design.md",
+    "CSDS 391 - Intro AI/W/W3.canvas",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/3 - Volume.svg",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/2 - Plane.svg",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.svg",
@@ -337,7 +338,6 @@
     "CSDS 302 - Discrete Math/HW/9/10.1",
     "CSDS 302 - Discrete Math/HW/9/1.4",
     "cwru/Untitled.canvas",
-    "CSDS 391 - Intro AI/W/W3.canvas",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "church/Untitled.canvas"
   ]
