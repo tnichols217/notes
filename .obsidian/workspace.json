@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 223 - Calc 3/Practice Problems/13.2.md"
+                "file": "STAT 345 - Theoretical Statistics/Homework/3.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 223 - Calc 3/Practice Problems/13.2.md",
+                "file": "STAT 345 - Theoretical Statistics/Homework/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MATH 223 - Calc 3/Practice Problems/13.2.md",
+                    "file": "STAT 345 - Theoretical Statistics/Homework/3.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -290,32 +290,32 @@
   },
   "active": "d311db44e806b37f",
   "lastOpenFiles": [
-    "MATH 223 - Calc 3/Practice Problems/13.1.md",
-    "MATH 223 - Calc 3/Practice Problems/12.7.md",
-    "MATH 223 - Calc 3/Practice Problems/12.6.md",
-    "MATH 223 - Calc 3/Practice Problems/12.5.md",
-    "MATH 223 - Calc 3/Practice Problems/12.4.md",
-    "MATH 223 - Calc 3/Practice Problems/12.3.md",
-    "MATH 223 - Calc 3/Practice Problems/12.2.md",
-    "MATH 223 - Calc 3/Practice Problems/12.1.md",
-    "MATH 223 - Calc 3/Practice Problems/11 - Problem Set 11.md",
-    "MATH 223 - Calc 3/Practice Problems/10 - Problem Set 10.md",
-    "MATH 223 - Calc 3/Practice Problems/1 - Problem Set 1.md",
-    "MATH 223 - Calc 3/Practice Problems/14.1/9.md",
-    "MATH 223 - Calc 3/Practice Problems/14.1/7.md",
-    "MATH 223 - Calc 3/Practice Problems/14.1/59.md",
-    "MATH 223 - Calc 3/Practice Problems/14.1/55.md",
-    "MATH 223 - Calc 3/Practice Problems/14.1/47.md",
-    "MATH 223 - Calc 3/Practice Problems/14.1/33.md",
-    "MATH 223 - Calc 3/Practice Problems/12.7/25.md",
-    "MATH 223 - Calc 3/Practice Problems/12.7/19.md",
-    "MATH 223 - Calc 3/Practice Problems/12.5/33.md",
-    "MATH 223 - Calc 3/Practice Problems/12.4/47.md",
-    "ENGR 145 - Chemistry of Materials/Intro.md",
-    "ENGR 145 - Chemistry of Materials/HW/2.md",
-    "ENGR 145 - Chemistry of Materials/HW/1.md",
-    "EBME 105/3 - Subfields.md",
-    "EBME 105/2 - Design.md",
+    "STAT 345 - Theoretical Statistics/Homework/2.md",
+    "STAT 345 - Theoretical Statistics/Homework/10.md",
+    "STAT 345 - Theoretical Statistics/Homework/1.md",
+    "STAT 345 - Theoretical Statistics/Homework/1/2b.md",
+    "STAT 345 - Theoretical Statistics/Homework/1/2a.md",
+    "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
+    "PHYS 121 - Physics 1/HW/1/1.md",
+    "MUTH 104 - Music Theory 2/Practice.md",
+    "MUTH 104 - Music Theory 2/Chord Progression Practice.md",
+    "MUTH 104 - Music Theory 2/Chord Listening.md",
+    "MUTH 104 - Music Theory 2/Notes/Sonata Form.md",
+    "MUTH 104 - Music Theory 2/Notes/Rondo Form.md",
+    "MUTH 104 - Music Theory 2/Notes/Musical Analysis.md",
+    "MUTH 104 - Music Theory 2/Notes/Modes.md",
+    "MUTH 104 - Music Theory 2/Notes/6ths.md",
+    "MUTH 104 - Music Theory 2/Final/test.md",
+    "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag.md",
+    "MUTH 104 - Music Theory 2/Final/Essay.md",
+    "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/menu/README.md",
+    "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/menu/CONTRIBUTING.md",
+    "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/customcontrols/README.md",
+    "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chart/README.md",
+    "MUTH 104 - Music Theory 2/Final/Maple Leaf Rag/plugin/chalkboard/README.md",
+    "MUTH 104 - Music Theory 2/Assignments/6/A.md",
+    "MUTH 104 - Music Theory 2/Assignments/1/C.md",
+    "MATH 307 - Linear Algebra/Intro.md",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/3 - Volume.svg",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/2 - Plane.svg",
