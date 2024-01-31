@@ -37,7 +37,7 @@
 3. Detachment — Modus Ponens
 	1. $(p\to q)\land p\implies q$
 4. Indirect Reasoning — Modus Tollens
-	1. $(p\to q)\land\lno$
+	1. $(p\to q)\land\lnot q\implies \lnot p$
 
 # Statements
 
