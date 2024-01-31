@@ -32,13 +32,17 @@
 
 1. Conditional Equivalence
 	1. $p\to q\iff\lnot p\lor q$
+2. Chain Rule
+	1. $(p\to q)\land(q\to r)$
 
 # Statements
 
-Consists of premises and conclusion.
-If premises are true, then conclusion is guaranteed
 
 > [!def]
+> **Statement form**
+> Consists of premises and conclusion.
+> If premises are true, then conclusion is guaranteed
+> 
 > **Argument**
-> An argument is valid if all true premisis 
+> An argument is valid if all true premises are true leading to a true conclusion 
 
