@@ -44,13 +44,8 @@
 
 > [!def]
 > **Statement**
-> 
-> 
-> **Statement form**
-> Consists of premises and conclusion.
-> If premises are true, then conclusion is guaranteed
+> A statement is any declarative sentence which is either true or false
 > 
 > **Argument**
 > A set of initial statements, called premises, followed by a conclusion
 > An argument is valid if all true premises are true leading to a true conclusion 
-
