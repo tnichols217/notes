@@ -2,7 +2,7 @@
   "inlineCSS": false,
   "inlineJS": false,
   "inlineImages": false,
-  "includePluginCSS": "obsidian-jupyter\nmusic-code-blocks\nobsidian-outliner\ncm-editor-syntax-highlight-obsidian",
+  "includePluginCSS": "obsidian-jupyter\nmusic-code-blocks\nobsidian-outliner\ncm-editor-syntax-highlight-obsidian\nobsidian-kanban\nobsidian-open-link-with\nobsidian-icon-shortcodes\nemoji-shortcodes\nobsidian-git\nobsidian-plotly\nobsidian-pandoc\nconvert-url-to-iframe\nmarkdown-prettifier\nbetter-word-count\nobsidian-columns\nobsidian-molecule-renderer\nobsidian-advanced-slides\ndataview\nobsidian-external-embed\nobsidian-function-plot\nbuttons\ncode-emitter",
   "includeSvelteCSS": true,
   "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
@@ -29,7 +29,7 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "exportPath": "",
+  "exportPath": "/home/tev/Documents/obsidianExport",
   "filesToExport": [
     [
       "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
