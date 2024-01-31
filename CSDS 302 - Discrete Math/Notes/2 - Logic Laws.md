@@ -26,5 +26,4 @@
 	1. $\lnot(p\land q)\iff\lnot p\lor\lnot q$
 10. Absorption Law
 	1. $p\land(p\lor q)\iff p$
-	1. $p\land(p\lor q)\iff p$
-11. Definitions of tautologies and contradictions
+	1. $p\lor(p\land q)\iff p$
