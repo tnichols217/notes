@@ -8,7 +8,9 @@
 	2. $(p\land q)\land r\iff p\land (q\land r)$
 3. Distributive
 	1. $p\land(q\lor r)\iff(p\land q)\lor(p\land r)$
+	2. $p\lor(q\land r)\iff(p\lor q)\land(p\lor r)$
 4. Identity
+	1. $p\lor\mathbf c=p$
 5. Negation
 6. Double Negation
 7. Idempotent
