@@ -13,7 +13,8 @@
 	1. $p\lor\mathbf c\iff=p$
 	2. $p\land\mathbf t\iff p$
 5. Negation
-	1. $p\land\lnot p\iff$
+	1. $p\land\lnot p\iff\mathbf c$
+	2. $p\lor\lnot p\iff\mathbf t$
 6. Double Negation
 7. Idempotent
 8. Universal Bound Law
