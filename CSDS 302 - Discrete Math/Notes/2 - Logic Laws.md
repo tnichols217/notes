@@ -15,8 +15,10 @@
 5. Negation
 	1. $p\land\lnot p\iff\mathbf c$
 	2. $p\lor\lnot p\iff\mathbf t$
-6. Double Negation
+6. Involution
+	1. $\lnot\lnot p\iff p$
 7. Idempotent
+	1. 
 8. Universal Bound Law
 9. De Morgan's Laws
 10. Absorption Law
