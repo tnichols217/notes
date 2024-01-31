@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "010fc394b3b75bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f41fcf7e91b30be",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/9.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md"
               }
             }
           }
@@ -196,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/9.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,9 +263,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "96e874c2c6df6d29",
+  "active": "010fc394b3b75bc0",
   "lastOpenFiles": [
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
+    "CSDS 302 - Discrete Math/HW/9.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions.md",
@@ -279,7 +292,6 @@
     "STAT 345 - Theoretical Statistics/Textbook/4.4 - Hierarchical Models and Mixture Distributions.md",
     "STAT 345 - Theoretical Statistics/Textbook/4.3 - Bivariate Translation.md",
     "STAT 345 - Theoretical Statistics/Textbook/4.2 - Conditional Distributions and Independence.md",
-    "STAT 345 - Theoretical Statistics/Textbook/4.1 - Joint and Marginal Distributions.md",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/3 - Volume.svg",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/2 - Plane.svg",
