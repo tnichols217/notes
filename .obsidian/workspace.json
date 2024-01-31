@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/shopping.md"
+                "file": "CSDS 281 - Logic Design/Recitation/1.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/shopping.md",
+                "file": "CSDS 281 - Logic Design/Recitation/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,8 +251,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3f41fcf7e91b30be",
+  "active": "623a31575d99c339",
   "lastOpenFiles": [
+    "Private/shopping.md",
     "APArt/TODO.md",
     "APArt/Sustained Investigation.md",
     "APArt/Portfolio notes.md",
@@ -262,7 +263,6 @@
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
-    "Private/shopping.md",
     "STAT 345 - Theoretical Statistics/Sample Spaces.md",
     "STAT 345 - Theoretical Statistics/2.1 - Functions of Random Variables.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
