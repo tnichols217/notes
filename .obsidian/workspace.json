@@ -80,18 +80,6 @@
             }
           },
           {
-            "id": "252f5322c209c033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3f41fcf7e91b30be",
             "type": "leaf",
             "state": {
@@ -141,6 +129,24 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "0468f97eb4c3df67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "252f5322c209c033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
