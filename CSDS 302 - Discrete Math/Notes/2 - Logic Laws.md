@@ -27,3 +27,10 @@
 10. Absorption Law
 	1. $p\land(p\lor q)\iff p$
 	1. $p\lor(p\land q)\iff p$
+
+# Implications
+
+1. Conditional Equivalence
+	1. $p\to q\iff\lnot p\lor q$
+
+# St
