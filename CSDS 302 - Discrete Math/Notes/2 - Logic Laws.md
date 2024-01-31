@@ -33,4 +33,8 @@
 1. Conditional Equivalence
 	1. $p\to q\iff\lnot p\lor q$
 
-# St
+# Statements
+
+Consists of premises and conclusion.
+If premises are true, then conclusion is guaranteed
+
