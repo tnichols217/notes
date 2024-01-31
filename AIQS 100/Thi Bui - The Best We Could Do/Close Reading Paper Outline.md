@@ -4,4 +4,3 @@
 
 **Questions**: What sort of misrepresentations, stereotypes, or erasures does Thi Bui confront in her work? In order to reimagine dominant U.S. depictions of the Vietnam War, what strategies does she use to rewrite the past when blending personal and collective experiences? Choose a specific scene in the book and reflect on the way in which Thi Bui addresses misrepresentations and offers a Vietnamese viewpoint on the events of the Vietnam War.
 
-
