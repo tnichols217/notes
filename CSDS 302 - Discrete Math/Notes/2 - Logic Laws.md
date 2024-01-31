@@ -38,3 +38,7 @@
 Consists of premises and conclusion.
 If premises are true, then conclusion is guaranteed
 
+> [!def]
+> **Argument**
+> An argument is valid if all true premisis 
+
