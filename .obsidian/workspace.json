@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/shopping.md"
+                "file": "APBiology/6/Unit 6 BILL.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/shopping.md",
+                "file": "APBiology/6/Unit 6 BILL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,43 +247,83 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3f41fcf7e91b30be",
+  "floating": {
+    "id": "581b51b4fb29a338",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b4c1c8ebb217fe15",
+        "type": "window",
+        "children": [
+          {
+            "id": "e74c835b92075c2e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d311db44e806b37f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "APBiology/6/Unit 6 BILL.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2144,
+        "y": 309,
+        "width": 801,
+        "height": 401,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d311db44e806b37f",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/Recitation/1.md",
-    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
+    "APBiology/6/Notes/Worksheets/2 - Big protein synthesis foldable.md",
+    "APBiology/6/Notes/Worksheets/1 - Translating and Open Reading Frame Practice.md",
+    "APBiology/6/Notes/POGILs/1 - Gene Expression - Translation.md",
+    "APBiology/6/Notes/Labs/3 - Strawberry DNA Extraction Lab.md",
+    "APBiology/6/Notes/Labs/2 - Bacterial Transformation.md",
+    "APBiology/6/Notes/Labs/1 - DNA, Proteins, and Protein Folding.md",
+    "APBiology/6/Notes/Flash Talk/Prokaryotic Gene Regulation.md",
+    "APBiology/6/Notes/Case Study/2 - Gene Expression in Stem Cells.md",
+    "APBiology/6/Notes/Case Study/1 - The Mona Lisa Molecule.md",
+    "APBiology/6/Notes/BILL Packet/6 - Topic Review Guide.md",
+    "APBiology/6/Notes/BILL Packet/4 - Unit Summary.md",
+    "APBiology/6/Notes/BILL Packet/3 - Test Topics.md",
+    "APBiology/6/Notes/BILL Packet/2 - Traffic Light.md",
+    "APBiology/6/Notes/Bell Ringer/3 - Central Dogma FRQ.md",
+    "APBiology/6/Notes/Bell Ringer/2 - Eukaryotic Gene Regulation.md",
+    "APBiology/6/Notes/Bell Ringer/1 - Prokaryotic Gene Regulation.md",
+    "APBiology/6/Notes/Activities/4 - Molecular Genetics of the Color Mutations in Rock Pocket Mice.md",
+    "APBiology/6/Notes/Activities/3 - The Effects of Mutations.md",
+    "APBiology/6/Notes/Activities/2 - Genetic Variation at the Molecular Level.md",
+    "APBiology/6/Notes/Activities/1 - Transcription in Action.md",
+    "APBiology/5/Unit 5 BILL.md",
+    "APBiology/5/Notes/Unit Packet/4 - Unit Summary.md",
+    "APBiology/5/Notes/Unit Packet/3 - Test Topics.md",
+    "APBiology/5/Notes/Unit Packet/2 - Traffic Light.md",
+    "APBiology/5/Notes/Topic Review Guide/5.4-5.5.md",
+    "APBiology/5/Notes/Topic Review Guide/5.3.md",
     "CSDS 281 - Logic Design/Recitation",
-    "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
-    "CSDS 281 - Logic Design/HW/2.md",
     "CSDS 281 - Logic Design/HW/2.pdf",
-    "ENGR 145 - Chemistry of Materials/HW/2.md",
     "CSDS 281 - Logic Design/HW",
     "ENGR 145 - Chemistry of Materials/HW/2.pdf",
-    "ENGR 145 - Chemistry of Materials/HW/1.md",
-    "CSDS 302 - Discrete Math/HW/2.md",
-    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CSDS 302 - Discrete Math/Notes",
-    "CSDS 302 - Discrete Math/HW/9.md",
-    "PHYS 121 - Physics 1/HW/1/1.md",
-    "CSDS 302 - Discrete Math/HW/1.md",
     "PHYS 121 - Physics 1/HW/1/images/5.svg",
     "PHYS 121 - Physics 1/HW/1/images/5e.svg",
-    "CSDS 302 - Discrete Math/HW/8.md",
-    "CSDS 302 - Discrete Math/HW/7.md",
-    "CSDS 302 - Discrete Math/HW/6.md",
-    "CSDS 302 - Discrete Math/HW/5.md",
-    "CSDS 302 - Discrete Math/HW/4.md",
-    "CSDS 302 - Discrete Math/HW/3.md",
-    "cwru/Classes.md",
-    "cwru/Plan.md",
-    "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - The Best We Could Do.md",
-    "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
-    "AIQS 100/Thi Bui Reflection.md",
-    "AIQS 100/Comics.md",
     "AIQS 100/Thi Bui - The Best We Could Do",
-    "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CSDS 302 - Discrete Math/HW/9/10.2/2b.svg",
     "CSDS 302 - Discrete Math/HW/9/10.2/2a.svg",
     "CSDS 302 - Discrete Math/HW/9/10.2/4a.svg",
@@ -296,8 +336,6 @@
     "CSDS 302 - Discrete Math/HW/9/1.4/8.svg",
     "CSDS 302 - Discrete Math/HW/9/1.4",
     "CSDS 302 - Discrete Math/HW/9/10.1/29.svg",
-    "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
-    "Private/shopping.md",
     "cwru/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
