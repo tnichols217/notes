@@ -48,6 +48,6 @@
 > If premises are true, then conclusion is guaranteed
 > 
 > **Argument**
-> A set of initial statements, called premises
+> A set of initial statements, called premises, followed by a conclusion
 > An argument is valid if all true premises are true leading to a true conclusion 
 
