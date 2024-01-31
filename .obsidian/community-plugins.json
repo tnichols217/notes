@@ -35,5 +35,6 @@
   "obsidian-function-plot",
   "obsidian-latex-suite",
   "code-emitter",
-  "obsidian-graphviz"
+  "obsidian-graphviz",
+  "webpage-html-export"
 ]
