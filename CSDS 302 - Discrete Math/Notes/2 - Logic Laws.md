@@ -46,7 +46,7 @@
 2. Specialization
 	1. $p\land q\therefore q$
 3. Division by cases
-	1. $p\lor q,\quad p\to r,q\to r\qquad\therefor$
+	1. $p\lor q,\quad p\to r,q\to r\qquad\therefore r$
 
 # Statements
 
