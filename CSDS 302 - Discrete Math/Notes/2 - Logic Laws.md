@@ -33,7 +33,9 @@
 1. Conditional Equivalence
 	1. $p\to q\iff\lnot p\lor q$
 2. Chain Rule
-	1. $(p\to q)\land(q\to r)$
+	1. $(p\to q)\land(q\to r)\implies(p\to r)$
+3. Detachment — Modus Ponens
+4. Indirect Reasoning 
 
 # Statements
 
