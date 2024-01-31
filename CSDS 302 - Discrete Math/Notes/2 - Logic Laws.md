@@ -35,7 +35,9 @@
 2. Chain Rule
 	1. $(p\to q)\land(q\to r)\implies(p\to r)$
 3. Detachment — Modus Ponens
-4. Indirect Reasoning 
+	1. $(p\to q)\land p\implies q$
+4. Indirect Reasoning — Modus Tollens
+	1. $(p\to q)\land\lno$
 
 # Statements
 
