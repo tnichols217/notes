@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "e495d0d59b563992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f41fcf7e91b30be",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md"
               }
             }
           }
@@ -196,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,10 +263,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "623a31575d99c339",
+  "active": "e495d0d59b563992",
   "lastOpenFiles": [
-    "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
+    "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions.md",
     "STAT 345 - Theoretical Statistics/Textbook/2.1 - Transformations.md",
