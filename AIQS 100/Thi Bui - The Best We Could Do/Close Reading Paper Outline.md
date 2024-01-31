@@ -12,4 +12,3 @@
 - Childbirth $\iff$ War — a feminist POV
 - Father liking vs. disliking the general
 
-$\lbox{as}$
