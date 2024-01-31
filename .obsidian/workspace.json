@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md"
+                "file": "CSDS 302 - Discrete Math/HW/2.md"
               }
             }
           }
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+                "file": "CSDS 302 - Discrete Math/HW/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,10 +288,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "252f5322c209c033",
+  "active": "5594123e5d58cc3f",
   "lastOpenFiles": [
-    "CSDS 302 - Discrete Math/HW/2.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+    "CSDS 302 - Discrete Math/HW/2.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
     "CSDS 281 - Logic Design/HW/2.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
