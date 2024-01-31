@@ -1,6 +1,6 @@
 # Logic Laws
 
-1. Communicative
+1. Communicative $p\lor q\iff q\lor p$
 2. Associative
 3. Distributive
 4. Identity
