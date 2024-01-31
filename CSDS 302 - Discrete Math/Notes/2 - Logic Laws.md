@@ -5,8 +5,9 @@
 	2. $p\land q\iff q\land p$
 2. Associative
 	1. $(p\lor q)\lor r\iff p\lor (q\lor r)$
-	2. $(p\land q)\land r\iff p\lor (q\lor r)$
+	2. $(p\land q)\land r\iff p\land (q\land r)$
 3. Distributive
+	1. $p\land(q\lor r)\iff(p\land q)\lor(p\land r)$
 4. Identity
 5. Negation
 6. Double Negation
