@@ -17,8 +17,9 @@
 		- focusing on things that are not commonly thought about
 	- A very personal issue in comparison to a collective issue
 		- Relates to her own mother — almost a second degree direct connection to the war
-		- comparison in drasticity 
-- Father liking vs. disliking the general
+		- comparison in how drastic the modes of life are
+- Conversation of truth and opinion in the story
+	- Father liking vs. disliking the general
 	- Nuance of truth
 	- Direct personal connection to a collective experience
 		- Probably knew the family down the street that was killed by the viet nimh
