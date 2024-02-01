@@ -15,7 +15,9 @@
 	- A direct opposition to the "approved story"
 	- Feminist version of it
 		- focusing on things that are not commonly thought about
-		- 
+	- A very personal issue in comparison to a collective issue
+		- Relates to her own mother — almost a second degree direct connection to the war
+		- comparison in drasticity 
 - Father liking vs. disliking the general
 	- Nuance of truth
 	- Direct personal connection to a collective experience
@@ -26,5 +28,5 @@
 		- white savior complex
 	- Misrepresentation of her people AFTER the war
 		- discussed in class — expectations of gratefulness
-		- 
+		- erasure of their culture in the assimilation in america
 
