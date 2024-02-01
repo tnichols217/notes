@@ -6,7 +6,7 @@
 
 # Thesis Ideas
 
-- In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth both 
+- In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth both in an objective recollection the Vietnam war
 
 # Evidence Ideas
 
