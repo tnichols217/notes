@@ -10,7 +10,7 @@
 	1. $p\land(q\lor r)\iff(p\land q)\lor(p\land r)$
 	2. $p\lor(q\land r)\iff(p\lor q)\land(p\lor r)$
 4. Identity
-	1. $p\lor\mathbf c\iff=p$
+	1. $p\lor\mathbf c\iff p$
 	2. $p\land\mathbf t\iff p$
 5. Negation
 	1. $p\land\lnot p\iff\mathbf c$
