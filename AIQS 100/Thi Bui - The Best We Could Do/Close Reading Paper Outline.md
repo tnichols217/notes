@@ -6,7 +6,7 @@
 
 # Thesis Ideas
 
-- In 
+- In *The Best We Could Do*, Thi Bui directly grapples with the 
 
 # Evidence Ideas
 
@@ -32,4 +32,3 @@ Pages 206-210
 	- Misrepresentation of her people AFTER the war
 		- discussed in class — expectations of gratefulness
 		- erasure of their culture in the assimilation in america
-
