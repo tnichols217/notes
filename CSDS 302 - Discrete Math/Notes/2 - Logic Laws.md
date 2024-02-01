@@ -41,6 +41,18 @@
 4. Indirect Reasoning — Modus Tollens
 	1. $(p\to q)\land\lnot q\implies \lnot p$
 
+# Contraposition
+$p\to q$
+
+1. Inversion
+	1. $\lnot p\to\lnot q$
+2. Conversion
+	1. $q\to p$
+3. Negation
+	1. $\lnot(p\to q)$
+	2. $\p$
+4. Contraposition
+
 # Special Cases
 
 1. Generalization
