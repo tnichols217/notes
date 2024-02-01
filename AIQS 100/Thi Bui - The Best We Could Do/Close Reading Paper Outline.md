@@ -11,6 +11,11 @@
 # Evidence Ideas
 
 - Childbirth $\iff$ War — a feminist POV
+	- Something not commonly brought up
+	- A direct opposition to the "approved story"
+	- Feminist version of it
+		- focusing on things that are not commonly thought about
+		- 
 - Father liking vs. disliking the general
 	- Nuance of truth
 	- Direct personal connection to a collective experience
@@ -20,5 +25,6 @@
 		- dehumanization
 		- white savior complex
 	- Misrepresentation of her people AFTER the war
-		- discussed in class — expectations of
+		- discussed in class — expectations of gratefulness
+		- 
 
