@@ -42,6 +42,7 @@
 	1. $(p\to q)\land\lnot q\implies \lnot p$
 
 # Contraposition
+
 $p\to q$
 
 1. Inversion
@@ -50,8 +51,9 @@ $p\to q$
 	1. $q\to p$
 3. Negation
 	1. $\lnot(p\to q)$
-	2. $\p$
+	2. $p\land\lnot q$
 4. Contraposition
+	1. $\lnot q\to\lnot p$
 
 # Special Cases
 
