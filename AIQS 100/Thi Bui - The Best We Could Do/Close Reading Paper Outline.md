@@ -6,7 +6,7 @@
 
 # Thesis Ideas
 
-- In *The Best We Could Do*, Thi Bui directly grapples with the 
+- In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth both 
 
 # Evidence Ideas
 
