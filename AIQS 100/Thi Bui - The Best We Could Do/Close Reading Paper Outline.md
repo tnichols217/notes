@@ -6,7 +6,7 @@
 
 # Thesis Ideas
 
-As Thi Bui tells the 
+- In 
 
 # Evidence Ideas
 
