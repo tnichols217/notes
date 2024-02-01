@@ -12,6 +12,11 @@
 
 - Childbirth $\iff$ War — a feminist POV
 - Father liking vs. disliking the general
+	- Nuance of truth
 - The whole propaganda issue
-	- 
+	- Misrepresentation of her people during the war
+		- dehumanization
+		- 
+	- Misrepresentation of her people AFTER the war
+		- 
 
