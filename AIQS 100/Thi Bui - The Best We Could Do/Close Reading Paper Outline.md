@@ -10,6 +10,8 @@ As Thi Bui tells the
 
 # Evidence Ideas
 
+Pages 206-210
+
 - Childbirth $\iff$ War — a feminist POV
 	- Something not commonly brought up
 	- A direct opposition to the "approved story"
