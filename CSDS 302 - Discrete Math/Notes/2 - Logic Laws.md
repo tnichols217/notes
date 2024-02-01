@@ -21,7 +21,8 @@
 	1. $p\land p\iff p$
 	2. $p\lor p\iff p$
 8. Universal Bound Law
-	1. $p\land\mathbf c\iff p$
+	1. $p\land\mathbf c\iff \mathbf c$
+	2. $p\lor\mathbf t\iff \mathbf t$
 9. De Morgan's Laws
 	1. $\lnot(p\lor q)\iff\lnot p\land\lnot q$
 	2. $\lnot(p\land q)\iff\lnot p\lor\lnot q$
