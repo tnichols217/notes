@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "252f5322c209c033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3f41fcf7e91b30be",
             "type": "leaf",
             "state": {
@@ -128,25 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "0468f97eb4c3df67",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "252f5322c209c033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md"
               }
             }
           }
@@ -239,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,13 +288,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5594123e5d58cc3f",
+  "active": "623a31575d99c339",
   "lastOpenFiles": [
-    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
-    "CSDS 302 - Discrete Math/HW/2.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
-    "CSDS 281 - Logic Design/HW/2.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
+    "CSDS 302 - Discrete Math/HW/2.md",
+    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+    "CSDS 281 - Logic Design/HW/2.md",
     "CSDS 302 - Discrete Math/HW/9.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Birthing a Graphic Archive of Memory.md",
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions.md",

@@ -7,6 +7,7 @@
 # Thesis Ideas
 
 
+
 # Evidence Ideas
 
 - Childbirth $\iff$ War — a feminist POV
