@@ -13,10 +13,12 @@
 - Childbirth $\iff$ War — a feminist POV
 - Father liking vs. disliking the general
 	- Nuance of truth
+	- Direct personal connection to a collective experience
+		- Probably knew the family down the street that was killed by the viet nimh
 - The whole propaganda issue
 	- Misrepresentation of her people during the war
 		- dehumanization
-		- 
+		- white savior complex
 	- Misrepresentation of her people AFTER the war
-		- 
+		- discussed in class — expectations of
 
