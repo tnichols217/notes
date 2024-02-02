@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md"
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md"
               }
             }
           }
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md",
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,10 +301,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5594123e5d58cc3f",
+  "active": "252f5322c209c033",
   "lastOpenFiles": [
-    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CSDS 302 - Discrete Math/HW/2.md",
+    "CSDS 302 - Discrete Math/HW/2.pdf",
+    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CSDS 302 - Discrete Math/HW/2/Tables.md",
     "CSDS 302 - Discrete Math/HW/2",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
@@ -330,7 +331,6 @@
     "APArt/Image Layout.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - The Best We Could Do.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
-    "STAT 345 - Theoretical Statistics/Textbook/5.1 - Random Samples.md",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/3 - Volume.svg",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/2 - Plane.svg",
@@ -350,7 +350,6 @@
     "CSDS 302 - Discrete Math/HW/9/10.2/2a.svg",
     "CSDS 302 - Discrete Math/HW/9/10.2/733_PDFsam_Discrete Mathematics with Applications - Susanna S. Epp.pdf",
     "CSDS 302 - Discrete Math/HW/9/10.2",
-    "CSDS 302 - Discrete Math/HW/9/10.1",
     "cwru/Untitled.canvas",
     "church/Untitled.canvas"
   ]
