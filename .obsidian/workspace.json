@@ -188,7 +188,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "correction",
+                "query": "plot",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +205,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -302,10 +303,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5594123e5d58cc3f",
+  "active": "28942e6507e0526e",
   "lastOpenFiles": [
     "CSDS 302 - Discrete Math/HW/2/Table 15.md",
     "CSDS 302 - Discrete Math/HW/2.md",
