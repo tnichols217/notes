@@ -11,6 +11,8 @@ In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth 
 - Narrow down
 - Focus more on individual points and how they connect
 
+
+
 # Evidence Ideas
 
 Pages 206-210
