@@ -40,7 +40,10 @@
 	1. $(p\to q)\land p\implies q$
 4. Indirect Reasoning — Modus Tollens
 	1. $(p\to q)\land\lnot q\implies \lnot p$
-5. 
+5. Conjunction
+	1. $p$
+	2. $q$
+	3. $p\land q$
 
 # Contraposition
 
