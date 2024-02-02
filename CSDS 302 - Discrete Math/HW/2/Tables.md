@@ -24,10 +24,37 @@
 
 # 20
 
-
 | $p$ | $p\land\mathbf c$ | $p\lor\mathbf c$ |
 | --- | ----------------- | ---------------- |
 | T   | F                 | T                |
 | F    | F                  | F                 |
 
 ^766e4b
+
+# 22
+
+| $p$ | $q$ | $r$ | $p\land(q\lor r)$ | $(p\land q)\lor(p\land r)$ |
+| --- | --- | --- | ----------------- | -------------------------- |
+| F   | F   | F   | F                 | F                          |
+| F   | F   | T   | F                 | F                          |
+| F   | T   | F   | F                 | F                          |
+| F   | T   | T   | F                 | F                          |
+| T   | F   | F   | F                 | F                          |
+| T   | F   | T   | T                 | T                          |
+| T   | T   | F   | T                 | T                          |
+| T    | T    | T    | T                  | T                           |
+
+^92d5b7
+
+# 24
+
+| $p$ | $q$ | $r$ | $(p\lor q)\lor(p\land r)$ | $(p\lor q)\land r$ |
+| --- | --- | --- | ------------------------- | ------------------ |
+| F   | F   | F   | F                         | F                  |
+| F   | F   | T   | F                         | F                  |
+| F   | T   | F   | T                         | F                  |
+| F   | T   | T   | T                         | T                  |
+| T   | F   | F   | T                         | F                  |
+| T   | F   | T   | T                         | T                  |
+| T   | T   | F   | T                         | F                  |
+| T    | T    | T    | T                          | T                   |
