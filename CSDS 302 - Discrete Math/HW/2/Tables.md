@@ -127,3 +127,19 @@
 | T | T | T | F | T | T | F |
 
 ^9
+
+# 23
+
+| $p$ Input | $q$ Input | $r$ Input | $p\lor q$ Premise | $p\to r$ Premise | $q\lor r$ Conclusion |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| F | F | F | F | T | F |
+| F | F | T | F | T | T |
+| **F** | **T** | **F** | **T** | **T** | **T** |
+| **F** | **T** | **T** | **T** | **T** | **T** |
+| T | F | F | T | F | F |
+| **T** | **F** | **T** | **T** | **T** | **T** |
+| T | T | F | T | F | T |
+| **T** | **T** | **T** | **T** | **T** | **T** |
+
+^23
+
