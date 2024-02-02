@@ -101,14 +101,29 @@
 # 30
 
 | $p$ | $q$ | $r$ | $p\land(q\lor r)$ | $(p\land q)\lor(p\land r)$ |
-| --- | --- | --- | ----------------- | -------------------------- |
-| F   | F   | F   | F                 | F                          |
-| F   | F   | T   | F                 | F                          |
-| F   | T   | F   | F                 | F                          |
-| F   | T   | T   | F                 | F                          |
-| T   | F   | F   | F                 | F                          |
-| T   | F   | T   | T                 | T                          |
-| T   | T   | F   | T                 | T                          |
-| T   | T   | T   | T                 | T                          |
-|     |     |     |                   |                            |
+| ---- | ---- | ---- | ---- | ---- |
+| F | F | F | F | F |
+| F | F | T | F | F |
+| F | T | F | F | F |
+| F | T | T | F | F |
+| T | F | F | F | F |
+| T | F | T | T | T |
+| T | T | F | T | T |
+| T | T | T | T | T |
 
+^30
+
+# 9
+
+| $p$ input | $q$ Input | $r$ Input | $p\land q\to\lnot r$ Premise | $p\lor \lnot q$ Premise | $\lnot q\to p$ Premise | $\lnot r$  Conclusion |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| F | F | F | T | T | F | T |
+| F | F | T | T | T | F | F |
+| F | T | F | T | F | T | T |
+| F | T | T | T | F | T | F |
+| **T** | **F** | **F** | **T** | **T** | **T** | **T** |
+| *T* | *F* | *T* | *T* | *T* | *T* | *F* |
+| **T** | **T** | **F** | **T** | **T** | **T** | **T** |
+| T | T | T | F | T | T | F |
+
+^9
