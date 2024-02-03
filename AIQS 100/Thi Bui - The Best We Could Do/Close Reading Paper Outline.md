@@ -16,8 +16,9 @@ In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth 
 		- through stories of her parents and american history
 	- trying to find her own personal truth and connection to her parent's past
 		- Makes the connection through childbirth
-			- 
-	- understanding her own opinions on the topic
+			- Empathy for her own mother
+		- her own hardships as a child and trying
+			- understanding her father's trauma
 
 In *The Best We Could Do*, Thi Bui
 
