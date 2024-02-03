@@ -11,7 +11,7 @@ In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth 
 - Narrow down
 - Focus more on individual points and how they connect
 
-
+- Thu Bui is grappling with her factual understanding of the past
 
 # Evidence Ideas
 
@@ -43,5 +43,5 @@ Pages 206-210
 
 "Treadting their own people like criminals, no wonder people hated them!" "Aren't you being too extreme? They were just trying to protect the city."
 
-"Wait. Does he hate the general or is he defending him? Did he like communism or not?"
+"Wait. Does he hate the general or is he defending him? Did he like communism or not? The contradiction in my father's stories troubled me for a long time."
 
