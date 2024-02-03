@@ -56,60 +56,12 @@
             }
           },
           {
-            "id": "5594123e5d58cc3f",
+            "id": "bfb43100fb84f699",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5cccbc96bf923c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2/Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "252f5322c209c033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f41fcf7e91b30be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/shopping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ed2e386edd9609c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 281 - Logic Design/HW/2.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -200,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md"
               }
             }
           }
@@ -232,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,16 +268,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 2056,
-        "y": 22,
-        "width": 1358,
+        "x": 1299,
+        "y": 154,
+        "width": 1357,
         "height": 920,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "010fc394b3b75bc0",
+  "active": "bfb43100fb84f699",
   "lastOpenFiles": [
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
