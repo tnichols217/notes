@@ -7,13 +7,15 @@
 # Thesis Ideas
 
 In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth both in an objective representation of the Vietnam war — through the conflicting evidence of the "approved" American story and her own family's past experience and stories especially through her father — and understanding her own connection and beliefs on the past through the theme of childbirth and her connection with her mother.
-
-- Narrow down
-- Focus more on individual points and how they connect
+- Need to:
+	- Narrow down
+	- Focus more on individual points and how they connect
 
 - Thu Bui is:
 	- grappling with her factual understanding of the past
-	- trying to find her own connection to her parent's past
+		- through stories of her parents and american history
+	- trying to find her own personal truth and cconnection to her parent's past
+		- Makes the connection through childbirth
 	- understanding her own opinions on the topic
 
 In *The Best We Could Do*, Thi Bui
