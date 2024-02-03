@@ -41,4 +41,7 @@ Pages 206-210
 
 # Evidence Quotes
 
-"Aren't you being too extreme? They were just trying to protect the city."
+"Treadting their own people like criminals, no wonder people hated them!" "Aren't you being too extreme? They were just trying to protect the city."
+
+"Wait. Does he hate the general or is he defending him? Did he like communism or not?"
+
