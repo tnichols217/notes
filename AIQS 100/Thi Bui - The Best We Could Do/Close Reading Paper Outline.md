@@ -11,7 +11,10 @@ In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth 
 - Narrow down
 - Focus more on individual points and how they connect
 
-- Thu Bui is grappling with her factual understanding of the past
+- Thu Bui is:
+	- grappling with her factual understanding of the past
+	- understanding her own opinions on the topic
+	- 
 
 # Evidence Ideas
 
