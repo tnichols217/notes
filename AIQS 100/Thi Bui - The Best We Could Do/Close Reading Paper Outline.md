@@ -41,3 +41,4 @@ Pages 206-210
 
 # Evidence Quotes
 
+"Aren't you being too extreme? They were just trying to protect the city."
