@@ -23,7 +23,7 @@ In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth 
 			- understand the nuance of both sides
 
 
-In *The Best We Could Do*, Thi Bui
+In *The Best We Could Do*, Thi Bui 
 
 # Evidence Ideas
 
