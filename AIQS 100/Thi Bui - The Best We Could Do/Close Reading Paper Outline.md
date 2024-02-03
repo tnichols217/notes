@@ -16,7 +16,7 @@ In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth 
 	- trying to find her own connection to her parent's past
 	- understanding her own opinions on the topic
 
-
+In *The Best We Could Do*, Thi Bui
 
 # Evidence Ideas
 
