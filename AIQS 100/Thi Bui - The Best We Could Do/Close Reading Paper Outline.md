@@ -37,3 +37,7 @@ Pages 206-210
 	- Misrepresentation of her people AFTER the war
 		- discussed in class — expectations of gratefulness
 		- erasure of their culture in the assimilation in america
+
+
+# Evidence Quotes
+
