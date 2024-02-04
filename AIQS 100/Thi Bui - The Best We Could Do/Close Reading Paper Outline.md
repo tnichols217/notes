@@ -47,7 +47,7 @@ Pages 206-210
 		- ❎ white savior complex
 	- ✅ Misrepresentation of her people AFTER the war
 		- discussed in class — expectations of gratefulness
-		- erasure of their culture in the assimilation in america
+		- ✅ erasure of their culture in the assimilation in america
 
 
 # Evidence Quotes
