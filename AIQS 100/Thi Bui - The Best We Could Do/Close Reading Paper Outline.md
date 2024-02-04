@@ -23,7 +23,6 @@ In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth 
 			- understand the nuance of both sides
 
 - In *The Best We Could Do*, Thi Bui
-	- 
 	- resolves her understanding of both her
 		- factual understanding of the war and 
 
