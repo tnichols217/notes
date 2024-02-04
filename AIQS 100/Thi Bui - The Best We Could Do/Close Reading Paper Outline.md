@@ -28,19 +28,19 @@ In *The Best We Could Do*, Thi Bui refines her beliefs on the events of the Viet
 
 Pages 206-210
 
-- Childbirth $\iff$ War — a feminist POV
-	- Something not commonly brought up
-	- A direct opposition to the "approved story"
-	- Feminist version of it
-		- focusing on things that are not commonly thought about
-	- A very personal issue in comparison to a collective issue
-		- Relates to her own mother — almost a second degree direct connection to the war
+- ✅ Childbirth $\iff$ War — a feminist POV
+	- ✅ Something not commonly brought up
+	- ✅ A direct opposition to the "approved story"
+	- ✅ Feminist version of it
+		- ✅ focusing on things that are not commonly thought about
+	- ✅ A very personal issue in comparison to a collective issue
+		- ✅ Relates to her own mother — almost a second degree direct connection to the war
 		- comparison in how drastic the modes of life are
-- Conversation of truth and opinion in the story
+- ✅ Conversation of truth and opinion in the story
 	- ✅ Father liking vs. disliking the general
 	- ✅ Nuance of truth
-	- Direct personal connection to a collective experience
-		- Probably knew the family down the street that was killed by the viet nimh
+	- ✅ Direct personal connection to a collective experience
+		- ✅ Probably knew the family down the street that was killed by the viet nimh
 - ✅ The whole propaganda issue / people's collective "standard" understanding
 	- ✅ Misrepresentation of her people during the war
 		- ✅ dehumanization
