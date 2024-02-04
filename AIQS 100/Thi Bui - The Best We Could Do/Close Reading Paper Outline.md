@@ -58,3 +58,4 @@ Pages 206-210
 
 "Wait. Does he hate the general or is he defending him? Did he like communism or not? The contradiction in my father's stories troubled me for a long time."
 
+"The South Vietnamese: bar girls and hookers, corrupt leaders, kids looking for handouts, small, effete men"
