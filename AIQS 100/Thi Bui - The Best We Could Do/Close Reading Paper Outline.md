@@ -37,15 +37,15 @@ Pages 206-210
 		- Relates to her own mother — almost a second degree direct connection to the war
 		- comparison in how drastic the modes of life are
 - Conversation of truth and opinion in the story
-	- Father liking vs. disliking the general
-	- Nuance of truth
+	- ✅ Father liking vs. disliking the general
+	- ✅ Nuance of truth
 	- Direct personal connection to a collective experience
 		- Probably knew the family down the street that was killed by the viet nimh
-- The whole propaganda issue / people's collective "standard" understanding
-	- Misrepresentation of her people during the war
-		- dehumanization
-		- white savior complex
-	- Misrepresentation of her people AFTER the war
+- ✅ The whole propaganda issue / people's collective "standard" understanding
+	- ✅ Misrepresentation of her people during the war
+		- ✅ dehumanization
+		- ❎ white savior complex
+	- ✅ Misrepresentation of her people AFTER the war
 		- discussed in class — expectations of gratefulness
 		- erasure of their culture in the assimilation in america
 
@@ -60,8 +60,8 @@ Pages 206-210
 
 ✅ "The South Vietnamese: bar girls and hookers; corrupt leaders; kids looking for handouts; small, effete men; and papa-san" (207)
 
-"Like my father, he knew the context of the shooting. And that it was absent from the photograph itself." (208)
+✅ "Like my father, he knew the context of the shooting. And that it was absent from the photograph itself." (208)
 
-""Saigon Execution" is credited with turning popular opinion in America against the war. I think a lot of Americans forget that for the Vietnamese...the war continued, whether America was involved or not." (209)
+✅ ""Saigon Execution" is credited with turning popular opinion in America against the war. I think a lot of Americans forget that for the Vietnamese...the war continued, whether America was involved or not." (209)
 
 "For my parents, there was a rocket that barely missed their house and killed a neighbor, best friends and students killed in combat, frequent periods of separation, the constant stress of money, the baby that died in the womb, and then my arrival, three months before South Vietnam lost the war." (209-210)
