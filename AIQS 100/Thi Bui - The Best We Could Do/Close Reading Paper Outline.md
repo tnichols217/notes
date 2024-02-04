@@ -52,7 +52,7 @@ Pages 206-210
 
 # Evidence Quotes
 
-"Treadting their own people like criminals, no wonder people hated them!" "Aren't you being too extreme? They were just trying to protect the city." (206)
+✅"Treadting their own people like criminals, no wonder people hated them!" "Aren't you being too extreme? They were just trying to protect the city." (206)
 
 "Wait. Does he hate the general or is he defending him? Did he like communism or not? The contradiction in my father's stories troubled me for a long time." (207)
 
