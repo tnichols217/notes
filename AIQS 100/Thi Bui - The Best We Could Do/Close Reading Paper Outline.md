@@ -56,13 +56,13 @@ Pages 206-210
 
 "Treadting their own people like criminals, no wonder people hated them!" "Aren't you being too extreme? They were just trying to protect the city." (206)
 
-"Wait. Does he hate the general or is he defending him? Did he like communism or not? The contradiction in my father's stories troubled me for a long time."
+"Wait. Does he hate the general or is he defending him? Did he like communism or not? The contradiction in my father's stories troubled me for a long time." (207)
 
-"Bad Guys: the Viet Cong (communist front in the South)"
+"Bad Guys: the Viet Cong (communist front in the South)" (207)
 
-"The South Vietnamese: bar girls and hookers; corrupt leaders; kids looking for handouts; small, effete men; and papa-san"
+"The South Vietnamese: bar girls and hookers; corrupt leaders; kids looking for handouts; small, effete men; and papa-san" (207)
 
-""Saigon Execution" is credited with turning popular opinion in America against the war. I think a lot of Americans forget that for the Vietnamese...the war continued, whether America was involved or not."
+""Saigon Execution" is credited with turning popular opinion in America against the war. I think a lot of Americans forget that for the Vietnamese...the war continued, whether America was involved or not." (209)
 
-"For my parents, there was a rocket that barely missed their house and killed a neighbor, best friends and students killed in combat, frequent periods of separation, the constant stress of money, the baby that died in the womb, and then my arrival, three months before South Vietnam lost the war."
+"For my parents, there was a rocket that barely missed their house and killed a neighbor, best friends and students killed in combat, frequent periods of separation, the constant stress of money, the baby that died in the womb, and then my arrival, three months before South Vietnam lost the war." (209-210)
 
