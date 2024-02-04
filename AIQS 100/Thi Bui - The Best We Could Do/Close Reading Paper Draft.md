@@ -1,2 +1,2 @@
 
-In *The Best We Could Do*, Thi Bui refines her beliefs on the events of the Vietnam war and their personal impact on her. She compares the evidence commonly seen in American history against first hand stories handed down from her parents 
+In *The Best We Could Do*, Thi Bui refines her beliefs on the events of the Vietnam war and their personal impact on her. She compares the evidence commonly seen in American history against first hand stories handed down from her parents and uses such information along with 
