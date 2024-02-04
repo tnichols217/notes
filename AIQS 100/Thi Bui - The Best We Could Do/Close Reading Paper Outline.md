@@ -62,4 +62,6 @@ Pages 206-210
 
 "The South Vietnamese: bar girls and hookers; corrupt leaders; kids looking for handouts; small, effete men; and papa-san"
 
-""Saigon Execution" is credited with turning popular opinion in America against the war. I think a lot of Americans forget that for the Vietnamese...the war
+""Saigon Execution" is credited with turning popular opinion in America against the war. I think a lot of Americans forget that for the Vietnamese...the war continued, whether America was involved or not."
+
+"For my parents, there was a rocket that barely missed their house and killed a neighbor, best friends and students killed in combat, frequent periods of separation, the constant 
