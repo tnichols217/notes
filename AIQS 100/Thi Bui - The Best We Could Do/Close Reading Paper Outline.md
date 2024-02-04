@@ -22,7 +22,8 @@ In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth 
 		- Father's opinions on history
 			- understand the nuance of both sides
 
-- In *The Best We Could Do*, Thi Bui 
+- In *The Best We Could Do*, Thi Bui
+	- 
 	- resolves her understanding of both her
 		- factual understanding of the war and 
 
