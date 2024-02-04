@@ -22,9 +22,7 @@ In *The Best We Could Do*, Thi Bui directly grapples with the conflict of truth 
 		- Father's opinions on history
 			- understand the nuance of both sides
 
-- In *The Best We Could Do*, Thi Bui
-	- resolves her understanding of both her
-		- factual understanding of the war and 
+In *The Best We Could Do*, Thi Bui refines her beliefs on the events of the Vietnam war and their personal impact on her. She compares the evidence commonly seen in American history against first hand stories handed down from her parents and uses such information along with her own experiences to put the impact of history into the perspective of her own life.
 
 # Evidence Ideas
 
