@@ -52,13 +52,13 @@ Pages 206-210
 
 # Evidence Quotes
 
-✅"Treadting their own people like criminals, no wonder people hated them!" "Aren't you being too extreme? They were just trying to protect the city." (206)
+✅ "Treadting their own people like criminals, no wonder people hated them!" "Aren't you being too extreme? They were just trying to protect the city." (206)
 
-"Wait. Does he hate the general or is he defending him? Did he like communism or not? The contradiction in my father's stories troubled me for a long time." (207)
+✅ "Wait. Does he hate the general or is he defending him? Did he like communism or not? The contradiction in my father's stories troubled me for a long time." (207)
 
-"Bad Guys: the Viet Cong (communist front in the South)" (207)
+✅ "Bad Guys: the Viet Cong (communist front in the South)" (207)
 
-"The South Vietnamese: bar girls and hookers; corrupt leaders; kids looking for handouts; small, effete men; and papa-san" (207)
+✅ "The South Vietnamese: bar girls and hookers; corrupt leaders; kids looking for handouts; small, effete men; and papa-san" (207)
 
 "Like my father, he knew the context of the shooting. And that it was absent from the photograph itself." (208)
 
