@@ -54,7 +54,7 @@ Pages 206-210
 
 # Evidence Quotes
 
-"Treadting their own people like criminals, no wonder people hated them!" "Aren't you being too extreme? They were just trying to protect the city."
+"Treadting their own people like criminals, no wonder people hated them!" "Aren't you being too extreme? They were just trying to protect the city." (206)
 
 "Wait. Does he hate the general or is he defending him? Did he like communism or not? The contradiction in my father's stories troubled me for a long time."
 
@@ -64,4 +64,5 @@ Pages 206-210
 
 ""Saigon Execution" is credited with turning popular opinion in America against the war. I think a lot of Americans forget that for the Vietnamese...the war continued, whether America was involved or not."
 
-"For my parents, there was a rocket that barely missed their house and killed a neighbor, best friends and students killed in combat, frequent periods of separation, the constant 
+"For my parents, there was a rocket that barely missed their house and killed a neighbor, best friends and students killed in combat, frequent periods of separation, the constant stress of money, the baby that died in the womb, and then my arrival, three months before South Vietnam lost the war."
+
