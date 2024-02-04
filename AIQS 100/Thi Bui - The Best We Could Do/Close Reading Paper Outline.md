@@ -61,3 +61,5 @@ Pages 206-210
 "Bad Guys: the Viet Cong (communist front in the South)"
 
 "The South Vietnamese: bar girls and hookers; corrupt leaders; kids looking for handouts; small, effete men; and papa-san"
+
+""Saigon Execution" is credited with turning popular opinion in America against the war. I think a lot of Americans forget that for the Vietnamese...the war
