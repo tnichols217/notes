@@ -64,5 +64,7 @@ Pages 206-210
 
 ""Saigon Execution" is credited with turning popular opinion in America against the war. I think a lot of Americans forget that for the Vietnamese...the war continued, whether America was involved or not." (209)
 
+"Like my father, he knew the context of the shooting. And that it was absent from the photograph itself."
+
 "For my parents, there was a rocket that barely missed their house and killed a neighbor, best friends and students killed in combat, frequent periods of separation, the constant stress of money, the baby that died in the womb, and then my arrival, three months before South Vietnam lost the war." (209-210)
 
