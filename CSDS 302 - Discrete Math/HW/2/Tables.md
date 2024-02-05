@@ -130,7 +130,7 @@
 
 # 23
 
-| $p$ Input | $q$ Input | $r$ Input | $p\lor q$ Premise | $p\to r$ Premise | $q\lor r$ Conclusion |
+| $p$ Input | $q$ Input | $r$ Input | $p\lor q$ Premise | $p\to r$ Premise | $q\lor \lnot r$ Conclusion |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | F | F | F | F | T | F |
 | F | F | T | F | T | T |
