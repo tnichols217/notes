@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="4.6609428"
-     inkscape:cx="155.01156"
-     inkscape:cy="106.41624"
+     inkscape:zoom="6.5915685"
+     inkscape:cx="164.07324"
+     inkscape:cy="101.34159"
      inkscape:window-width="2560"
      inkscape:window-height="1600"
      inkscape:window-x="0"
@@ -54,7 +54,8 @@
        width="78.583595"
        height="47.918915"
        x="23.48551"
-       y="103.25808" />
+       y="103.25808"
+       sodipodi:insensitive="true" />
     <circle
        style="fill:#000000;stroke-width:0.264583"
        id="path1"
@@ -116,7 +117,8 @@
       </g>
     </g>
     <g
-       id="path2-5-7-6">
+       id="path2-5-7-6"
+       transform="translate(1.2359077)">
       <path
          style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
          d="M 56.766056,125.92177 V 137.2466"
@@ -156,9 +158,9 @@
          id="tspan3-7"
          style="stroke:none;stroke-width:0.265"
          x="46.525833"
-         y="129.12215">N<tspan
+         y="129.12215">F<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan4-9">12</tspan></tspan></text>
+   id="tspan4-9">ab</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -171,7 +173,7 @@
          x="57.693558"
          y="118.43924">N<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan4-9-5">1</tspan></tspan></text>
+   id="tspan4-9-5">a</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -182,9 +184,9 @@
          id="tspan3-7-7-6"
          style="stroke:none;stroke-width:0.265"
          x="44.129875"
-         y="110.67108">Block 1, m<tspan
+         y="110.67108">Block a, m<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan6">1</tspan> mass</tspan></text>
+   id="tspan6">a</tspan> mass</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -195,22 +197,54 @@
          id="tspan3-7-7-6-4"
          style="stroke:none;stroke-width:0.265"
          x="71.507645"
-         y="110.67108">Block 2, m<tspan
+         y="110.67108">Block b, m<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan6-9">2</tspan> mass</tspan></text>
+   id="tspan6-9">b</tspan> mass</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="57.693558"
+       x="58.929466"
        y="135.35333"
        id="text3-8-3-8"><tspan
          sodipodi:role="line"
          id="tspan3-7-7-9"
          style="stroke:none;stroke-width:0.265"
-         x="57.693558"
+         x="58.929466"
          y="135.35333">W<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan4-9-5-7">1</tspan></tspan></text>
+   id="tspan4-9-5-7">a</tspan></tspan></text>
+    <g
+       id="path2-5-7-6-06"
+       transform="translate(-1.0463185,-0.10900963)">
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="M 56.766056,125.92177 V 137.2466"
+         id="path26-1" />
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="m 56.765625,125.78906 a 0.13249999,0.13249999 0 0 0 -0.132813,0.13282 v 11.32421 a 0.13249999,0.13249999 0 0 0 0.132813,0.13282 0.13249999,0.13249999 0 0 0 0.132812,-0.13282 v -11.32421 a 0.13249999,0.13249999 0 0 0 -0.132812,-0.13282 z"
+         id="path27-5" />
+      <g
+         id="g25-9">
+        <path
+           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 55.876953,136.42383 a 0.13249999,0.13249999 0 0 0 0,0.1875 l 0.888672,0.88867 0.888672,-0.88867 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.1875,0 l -0.701172,0.70117 -0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 -0.1875,0 z"
+           id="path25-4" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="50.265034"
+       y="135.35333"
+       id="text3-8-3-8-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-7-7-9-0"
+         style="stroke:none;stroke-width:0.265"
+         x="50.265034"
+         y="135.35333">N<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4-9-5-7-9">ab</tspan></tspan></text>
     <circle
        style="fill:#000000;stroke-width:0.264583"
        id="path1-0"
@@ -254,24 +288,6 @@
       </g>
     </g>
     <g
-       id="path2-5-7-1">
-      <path
-         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-         d="M 84.42074,125.57083 H 73.09591"
-         id="path14" />
-      <path
-         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-         d="m 73.095703,125.4375 a 0.13249999,0.13249999 0 0 0 -0.132812,0.13281 0.13249999,0.13249999 0 0 0 0.132812,0.13282 h 11.324219 a 0.13249999,0.13249999 0 0 0 0.132812,-0.13282 0.13249999,0.13249999 0 0 0 -0.132812,-0.13281 z"
-         id="path15" />
-      <g
-         id="g13">
-        <path
-           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
-           d="m 73.824219,124.64258 a 0.13249999,0.13249999 0 0 0 -0.09375,0.0391 l -0.888672,0.88867 0.888672,0.88867 a 0.13249999,0.13249999 0 0 0 0.1875,0 0.13249999,0.13249999 0 0 0 0,-0.1875 l -0.701172,-0.70117 0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.09375,-0.0391 z"
-           id="path13" />
-      </g>
-    </g>
-    <g
        id="path2-5-7-6-0">
       <path
          style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
@@ -299,9 +315,9 @@
          id="tspan3-7-6"
          style="stroke:none;stroke-width:0.265"
          x="92.743011"
-         y="129.12215">N<tspan
+         y="129.12215">F<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan4-9-1">21</tspan></tspan></text>
+   id="tspan4-9-1">ba</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -314,7 +330,7 @@
          x="85.348236"
          y="118.33002">N<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan4-9-5-4">2</tspan></tspan></text>
+   id="tspan4-9-5-4">ba</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -327,7 +343,7 @@
          x="85.348236"
          y="135.24411">W<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan4-9-5-7-5">2</tspan></tspan></text>
+   id="tspan4-9-5-7-5">b</tspan></tspan></text>
     <g
        id="path4">
       <path

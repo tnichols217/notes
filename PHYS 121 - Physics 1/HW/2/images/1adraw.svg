@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="1draw.svg"
+   sodipodi:docname="1adraw.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -251,24 +251,6 @@
            style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
            d="m 84.419922,114.23438 -0.888672,0.88867 a 0.13249999,0.13249999 0 0 0 0,0.1875 0.13249999,0.13249999 0 0 0 0.1875,0 l 0.701172,-0.70117 0.701172,0.70117 a 0.13249999,0.13249999 0 0 0 0.1875,0 0.13249999,0.13249999 0 0 0 0,-0.1875 z"
            id="path16" />
-      </g>
-    </g>
-    <g
-       id="path2-5-7-1">
-      <path
-         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-         d="M 84.42074,125.57083 H 73.09591"
-         id="path14" />
-      <path
-         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-         d="m 73.095703,125.4375 a 0.13249999,0.13249999 0 0 0 -0.132812,0.13281 0.13249999,0.13249999 0 0 0 0.132812,0.13282 h 11.324219 a 0.13249999,0.13249999 0 0 0 0.132812,-0.13282 0.13249999,0.13249999 0 0 0 -0.132812,-0.13281 z"
-         id="path15" />
-      <g
-         id="g13">
-        <path
-           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
-           d="m 73.824219,124.64258 a 0.13249999,0.13249999 0 0 0 -0.09375,0.0391 l -0.888672,0.88867 0.888672,0.88867 a 0.13249999,0.13249999 0 0 0 0.1875,0 0.13249999,0.13249999 0 0 0 0,-0.1875 l -0.701172,-0.70117 0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.09375,-0.0391 z"
-           id="path13" />
       </g>
     </g>
     <g
