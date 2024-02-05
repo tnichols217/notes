@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.1652357"
-     inkscape:cx="257.88774"
-     inkscape:cy="138.16947"
+     inkscape:zoom="2.2907946"
+     inkscape:cx="201.89501"
+     inkscape:cy="135.32422"
      inkscape:window-width="2560"
      inkscape:window-height="1600"
      inkscape:window-x="0"
@@ -146,6 +146,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-36.804173,-111.94584)">
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect1"
+       width="136.3015"
+       height="73.150749"
+       x="36.804173"
+       y="111.94584"
+       transform="translate(9.5625e-6)" />
     <g
        id="g348"
        transform="matrix(0.26458333,0,0,0.26458333,-1330.3082,78.230394)">
