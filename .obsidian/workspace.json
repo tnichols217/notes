@@ -44,29 +44,19 @@
             }
           },
           {
-            "id": "f010914ca61d99d2",
+            "id": "d984d4b701d6bca9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md",
+                "file": "PHYS 121 - Physics 1/HW/2/2.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "68fd9b9384cc2b5f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "PHYS 121 - Physics 1/HW/2/images/1draw.svg"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/2/images/1draw.svg"
+                "file": "PHYS 121 - Physics 1/HW/2/2.md"
               }
             }
           }
@@ -158,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/2/images/1draw.svg",
+                "file": "PHYS 121 - Physics 1/HW/2/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,12 +204,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "68fd9b9384cc2b5f",
+  "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
-    "PHYS 121 - Physics 1/HW/2/2.md",
-    "PHYS 121 - Physics 1/HW/2/images/1drawE.svg",
+    "cwru/Plan.md",
     "PHYS 121 - Physics 1/HW/2/images/1draw.svg",
     "CSDS 302 - Discrete Math/HW/2.md",
+    "PHYS 121 - Physics 1/HW/2/2.md",
+    "PHYS 121 - Physics 1/HW/2/images/1drawE.svg",
     "PHYS 121 - Physics 1/HW/2/images/5.svg",
     "PHYS 121 - Physics 1/HW/2/images/4.svg",
     "PHYS 121 - Physics 1/HW/2/images/3.svg",
@@ -240,7 +231,6 @@
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "CSDS 302 - Discrete Math/HW/2.html",
-    "cwru/Plan.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.pdf",
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
     "CSDS 302 - Discrete Math/HW/2.pdf",
