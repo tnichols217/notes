@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.3304714"
-     inkscape:cx="344.35094"
-     inkscape:cy="174.64278"
+     inkscape:zoom="6.5915685"
+     inkscape:cx="177.72705"
+     inkscape:cy="109.83729"
      inkscape:window-width="2560"
      inkscape:window-height="1600"
      inkscape:window-x="0"
@@ -42,28 +42,7 @@
        bleed="0" />
   </sodipodi:namedview>
   <defs
-     id="defs1">
-    <marker
-       style="overflow:visible"
-       id="ArrowWideRounded"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Wide, rounded arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc"
-         id="path2" />
-    </marker>
-  </defs>
+     id="defs1" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -132,9 +111,19 @@
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265"
          x="82.052063"
          y="102.22196">Block 2</tspan></text>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded)"
-       d="M 10.347075,89.230469 H 39.238721"
-       id="path3" />
+    <g
+       id="path3">
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="m 10.347656,88.980469 a 0.25,0.25 0 0 0 -0.25,0.25 0.25,0.25 0 0 0 0.25,0.25 h 28.890625 a 0.25,0.25 0 0 0 0.25,-0.25 0.25,0.25 0 0 0 -0.25,-0.25 z"
+         id="path6" />
+      <g
+         id="g5">
+        <path
+           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 37.863281,87.480469 a 0.25,0.25 0 0 0 -0.175781,0.07227 0.25,0.25 0 0 0 0,0.355469 l 1.322266,1.322266 -1.322266,1.322265 a 0.25,0.25 0 0 0 0,0.355469 0.25,0.25 0 0 0 0.353516,0 l 1.675781,-1.677734 -1.675781,-1.677735 a 0.25,0.25 0 0 0 -0.177735,-0.07227 z"
+           id="path5" />
+      </g>
+    </g>
   </g>
 </svg>
