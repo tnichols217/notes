@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/2/2.md",
+                "file": "CSDS 302 - Discrete Math/HW/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/2/2.md"
+                "file": "CSDS 302 - Discrete Math/HW/2.md"
               }
             }
           }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/2/2.md",
+                "file": "CSDS 302 - Discrete Math/HW/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,13 +206,13 @@
   },
   "active": "f010914ca61d99d2",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/HW/2/2.md",
     "PHYS 121 - Physics 1/HW/2/images/5.svg",
     "PHYS 121 - Physics 1/HW/2/images/4.svg",
     "PHYS 121 - Physics 1/HW/2/images/3.svg",
     "PHYS 121 - Physics 1/HW/2/images/2.svg",
     "PHYS 121 - Physics 1/HW/2/images",
     "PHYS 121 - Physics 1/HW/1/1.md",
-    "PHYS 121 - Physics 1/HW/2/2.md",
     "PHYS 121 - Physics 1/Labs/1/Lab 1.md",
     "PHYS 121 - Physics 1/HW/2/2",
     "PHYS 121 - Physics 1/HW/1/p121_spring2024_05.pdf",
@@ -253,7 +253,6 @@
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/2 - Plane.svg",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/1.5 - Plane Forming Lines.svg",
     "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/1 - Line.svg",
-    "ARTS 302 - Architecture 1/Readings/Ching/1 - Primary Elements/0.5 - Point forms.svg",
     "cwru/Untitled.canvas",
     "church/Untitled.canvas"
   ]
