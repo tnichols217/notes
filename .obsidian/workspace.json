@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "623a31575d99c339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md"
+                "file": "cwru/Plan.md"
               }
             }
           }
@@ -148,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
+                "file": "cwru/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,66 +192,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "6af4163ff0bacf0b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4a0b558e51bb70e7",
-        "type": "window",
-        "children": [
-          {
-            "id": "151b78fbc102ac66",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "010fc394b3b75bc0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "1455a7a604201bd6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bfb43100fb84f699",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1299,
-        "y": 154,
-        "width": 1357,
-        "height": 920,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "623a31575d99c339",
+  "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
-    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.pdf",
-    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
+    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
+    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.pdf",
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
     "CSDS 302 - Discrete Math/HW/2.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
@@ -308,7 +241,6 @@
     "CSDS 302 - Discrete Math/HW/9/10.2/2b.svg",
     "CSDS 302 - Discrete Math/HW/9/10.2/2a.svg",
     "CSDS 302 - Discrete Math/HW/9/10.2/733_PDFsam_Discrete Mathematics with Applications - Susanna S. Epp.pdf",
-    "CSDS 302 - Discrete Math/HW/9/10.2",
     "cwru/Untitled.canvas",
     "church/Untitled.canvas"
   ]
