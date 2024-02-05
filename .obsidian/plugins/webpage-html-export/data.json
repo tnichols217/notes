@@ -14,7 +14,7 @@
   "sidebarWidth": "",
   "startOutlineCollapsed": false,
   "logLevel": "warning",
-  "incrementalExport": false,
+  "incrementalExport": true,
   "deleteOldExportedFiles": false,
   "addDarkModeToggle": true,
   "includeOutline": true,

@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md"
               }
             }
           }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/2.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,13 +204,50 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f010914ca61d99d2",
+  "floating": {
+    "id": "6af4163ff0bacf0b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cfd4f7f45e832979",
+        "type": "window",
+        "children": [
+          {
+            "id": "919494d0acc9799f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3ee7f9d90db2b1dd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 402,
+        "y": 434,
+        "width": 802,
+        "height": 402,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3ee7f9d90db2b1dd",
   "lastOpenFiles": [
+    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
+    "CSDS 302 - Discrete Math/HW/2.md",
     "CSDS 302 - Discrete Math/HW/2.html",
     "CSDS 302 - Discrete Math/HW/2/Tables.md",
-    "CSDS 302 - Discrete Math/HW/2.md",
     "cwru/Plan.md",
-    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.pdf",
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - Reading Response.md",
@@ -253,7 +290,6 @@
     "AIQS 100/Thi Bui - The Best We Could Do",
     "CSDS 302 - Discrete Math/HW/9/10.2/2b.svg",
     "CSDS 302 - Discrete Math/HW/9/10.2/2a.svg",
-    "CSDS 302 - Discrete Math/HW/9/10.2/733_PDFsam_Discrete Mathematics with Applications - Susanna S. Epp.pdf",
     "cwru/Untitled.canvas",
     "church/Untitled.canvas"
   ]
