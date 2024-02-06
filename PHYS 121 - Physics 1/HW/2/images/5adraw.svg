@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="2adraw.svg"
+   sodipodi:docname="5adraw.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="6.5915685"
-     inkscape:cx="164.07324"
-     inkscape:cy="101.34159"
+     inkscape:zoom="4.6609428"
+     inkscape:cx="146.21505"
+     inkscape:cy="73.804811"
      inkscape:window-width="2560"
      inkscape:window-height="1600"
      inkscape:window-x="0"
@@ -117,8 +117,27 @@
       </g>
     </g>
     <g
+       id="path2-5-7-5"
+       transform="translate(27.390625,-0.10938)">
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="M 56.766054,125.68005 H 45.441224"
+         id="path29-3" />
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="m 45.441406,125.54688 a 0.13249999,0.13249999 0 0 0 -0.132812,0.13281 0.13249999,0.13249999 0 0 0 0.132812,0.13281 h 11.324219 a 0.13249999,0.13249999 0 0 0 0.132812,-0.13281 0.13249999,0.13249999 0 0 0 -0.132812,-0.13281 z"
+         id="path30-5" />
+      <g
+         id="g28-6">
+        <path
+           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 46.076172,124.79102 -0.888672,0.88867 0.888672,0.88867 a 0.13249999,0.13249999 0 0 0 0.1875,0 0.13249999,0.13249999 0 0 0 0,-0.1875 l -0.701172,-0.70117 0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.1875,0 z"
+           id="path28-2" />
+      </g>
+    </g>
+    <g
        id="path2-5-7-6"
-       transform="translate(1.2359077)">
+       transform="translate(0.13281239,0.32227019)">
       <path
          style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
          d="M 56.766056,125.92177 V 137.2466"
@@ -147,7 +166,20 @@
          x="63.94696"
          y="128.8745">F<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan4">app</tspan></tspan></text>
+   id="tspan4">ab</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="73.581146"
+       y="128.76067"
+       id="text3-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-0"
+         style="stroke:none;stroke-width:0.265"
+         x="73.581146"
+         y="128.76067">F<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4-93">ba</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -158,9 +190,9 @@
          id="tspan3-7"
          style="stroke:none;stroke-width:0.265"
          x="46.525833"
-         y="129.12215">F<tspan
+         y="129.12215">T<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan4-9">ab</tspan></tspan></text>
+   id="tspan4-9">1</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -173,7 +205,7 @@
          x="57.693558"
          y="118.43924">N<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan4-9-5">a</tspan></tspan></text>
+   id="tspan4-9-5">ab</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -203,48 +235,16 @@
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="58.929466"
-       y="135.35333"
+       x="57.907677"
+       y="136.10631"
        id="text3-8-3-8"><tspan
          sodipodi:role="line"
          id="tspan3-7-7-9"
          style="stroke:none;stroke-width:0.265"
-         x="58.929466"
-         y="135.35333">W<tspan
+         x="57.907677"
+         y="136.10631">W<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan4-9-5-7">a</tspan></tspan></text>
-    <g
-       id="path2-5-7-6-06"
-       transform="translate(-1.0463185,-0.10900963)">
-      <path
-         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-         d="M 56.766056,125.92177 V 137.2466"
-         id="path26-1" />
-      <path
-         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-         d="m 56.765625,125.78906 a 0.13249999,0.13249999 0 0 0 -0.132813,0.13282 v 11.32421 a 0.13249999,0.13249999 0 0 0 0.132813,0.13282 0.13249999,0.13249999 0 0 0 0.132812,-0.13282 v -11.32421 a 0.13249999,0.13249999 0 0 0 -0.132812,-0.13282 z"
-         id="path27-5" />
-      <g
-         id="g25-9">
-        <path
-           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
-           d="m 55.876953,136.42383 a 0.13249999,0.13249999 0 0 0 0,0.1875 l 0.888672,0.88867 0.888672,-0.88867 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.1875,0 l -0.701172,0.70117 -0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 -0.1875,0 z"
-           id="path25-4" />
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="50.265034"
-       y="135.35333"
-       id="text3-8-3-8-9"><tspan
-         sodipodi:role="line"
-         id="tspan3-7-7-9-0"
-         style="stroke:none;stroke-width:0.265"
-         x="50.265034"
-         y="135.35333">N<tspan
-   style="font-size:65%;baseline-shift:sub"
-   id="tspan4-9-5-7-9">ab</tspan></tspan></text>
     <circle
        style="fill:#000000;stroke-width:0.264583"
        id="path1-0"
@@ -288,7 +288,8 @@
       </g>
     </g>
     <g
-       id="path2-5-7-6-0">
+       id="path2-5-7-6-0"
+       transform="translate(1.0600384)">
       <path
          style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
          d="m 84.420742,125.81255 v 11.32483"
@@ -305,19 +306,38 @@
            id="path22" />
       </g>
     </g>
+    <g
+       id="path2-5-7-6-0-2"
+       transform="translate(-1.0583984,-0.06018982)">
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="m 84.420742,125.81255 v 11.32483"
+         id="path23-0" />
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="m 84.419922,125.67969 a 0.13249999,0.13249999 0 0 0 -0.13086,0.13281 v 11.32422 a 0.13249999,0.13249999 0 0 0 0.13086,0.13281 0.13249999,0.13249999 0 0 0 0.132812,-0.13281 V 125.8125 a 0.13249999,0.13249999 0 0 0 -0.132812,-0.13281 z"
+         id="path24-2" />
+      <g
+         id="g22-3">
+        <path
+           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 83.53125,136.31445 a 0.13249999,0.13249999 0 0 0 0,0.1875 l 0.888672,0.88867 0.888672,-0.88867 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.1875,0 l -0.701172,0.70117 -0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 -0.1875,0 z"
+           id="path22-7" />
+      </g>
+    </g>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="92.743011"
-       y="129.12215"
+       x="91.721138"
+       y="129.23567"
        id="text3-8-0"><tspan
          sodipodi:role="line"
          id="tspan3-7-6"
          style="stroke:none;stroke-width:0.265"
-         x="92.743011"
-         y="129.12215">F<tspan
+         x="91.721138"
+         y="129.23567">T<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan4-9-1">ba</tspan></tspan></text>
+   id="tspan4-9-1">app</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -330,18 +350,31 @@
          x="85.348236"
          y="118.33002">N<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan4-9-5-4">ba</tspan></tspan></text>
+   id="tspan4-9-5-4">b</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="85.348236"
-       y="135.24411"
+       x="77.865173"
+       y="135.09352"
+       id="text3-8-3-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan3-7-7-5-6"
+         style="stroke:none;stroke-width:0.265"
+         x="77.865173"
+         y="135.09352">N<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4-9-5-4-1">ba</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="86.271446"
+       y="135.09352"
        id="text3-8-3-8-7"><tspan
          sodipodi:role="line"
          id="tspan3-7-7-9-6"
          style="stroke:none;stroke-width:0.265"
-         x="85.348236"
-         y="135.24411">W<tspan
+         x="86.271446"
+         y="135.09352">W<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan4-9-5-7-5">b</tspan></tspan></text>
     <g
