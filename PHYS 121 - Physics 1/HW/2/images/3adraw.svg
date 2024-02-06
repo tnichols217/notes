@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="6.5915685"
-     inkscape:cx="81.998693"
-     inkscape:cy="70.696376"
+     inkscape:cx="64.855581"
+     inkscape:cy="46.422942"
      inkscape:window-width="2560"
      inkscape:window-height="1600"
      inkscape:window-x="0"
@@ -55,25 +55,6 @@
        height="41.942616"
        x="23.51726"
        y="109.23438" />
-    <g
-       id="path2-5-7"
-       transform="translate(-2.7513727,-0.24219037)">
-      <path
-         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-         d="M 56.766054,125.68005 H 45.441224"
-         id="path29" />
-      <path
-         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-         d="m 45.441406,125.54688 a 0.13249999,0.13249999 0 0 0 -0.132812,0.13281 0.13249999,0.13249999 0 0 0 0.132812,0.13281 h 11.324219 a 0.13249999,0.13249999 0 0 0 0.132812,-0.13281 0.13249999,0.13249999 0 0 0 -0.132812,-0.13281 z"
-         id="path30" />
-      <g
-         id="g28">
-        <path
-           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
-           d="m 46.076172,124.79102 -0.888672,0.88867 0.888672,0.88867 a 0.13249999,0.13249999 0 0 0 0.1875,0 0.13249999,0.13249999 0 0 0 0,-0.1875 l -0.701172,-0.70117 0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.1875,0 z"
-           id="path28" />
-      </g>
-    </g>
     <text
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -84,7 +65,7 @@
          id="tspan3-7-7-6-4"
          style="stroke:none;stroke-width:0.265"
          x="29.285919"
-         y="116.64738">Rider, mass M</tspan></text>
+         y="116.64738">Rider, mass m</tspan></text>
     <circle
        style="fill:#000000;stroke-width:0.264583"
        id="path1-0"
@@ -92,27 +73,8 @@
        cy="125.57083"
        r="2.3841741" />
     <g
-       id="path2-5-6"
-       transform="translate(-30.273678)">
-      <path
-         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-         d="M 84.420742,125.81255 V 114.48772"
-         id="path17" />
-      <path
-         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-         d="m 84.419922,114.35547 a 0.13249999,0.13249999 0 0 0 -0.13086,0.13281 v 11.32422 a 0.13249999,0.13249999 0 0 0 0.13086,0.13281 0.13249999,0.13249999 0 0 0 0.132812,-0.13281 v -11.32422 a 0.13249999,0.13249999 0 0 0 -0.132812,-0.13281 z"
-         id="path18" />
-      <g
-         id="g16">
-        <path
-           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
-           d="m 84.419922,114.23438 -0.888672,0.88867 a 0.13249999,0.13249999 0 0 0 0,0.1875 0.13249999,0.13249999 0 0 0 0.1875,0 l 0.701172,-0.70117 0.701172,0.70117 a 0.13249999,0.13249999 0 0 0 0.1875,0 0.13249999,0.13249999 0 0 0 0,-0.1875 z"
-           id="path16" />
-      </g>
-    </g>
-    <g
        id="path2-5-7-6-0"
-       transform="translate(-30.273678)">
+       transform="translate(-29.213327)">
       <path
          style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
          d="m 84.420742,125.81255 v 11.32483"
@@ -129,13 +91,32 @@
            id="path22" />
       </g>
     </g>
+    <g
+       id="path2-5-7-6-0-6"
+       transform="translate(-31.453545)">
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="m 84.420742,125.81255 v 11.32483"
+         id="path23-3" />
+      <path
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="m 84.419922,125.67969 a 0.13249999,0.13249999 0 0 0 -0.13086,0.13281 v 11.32422 a 0.13249999,0.13249999 0 0 0 0.13086,0.13281 0.13249999,0.13249999 0 0 0 0.132812,-0.13281 V 125.8125 a 0.13249999,0.13249999 0 0 0 -0.132812,-0.13281 z"
+         id="path24-9" />
+      <g
+         id="g22-4">
+        <path
+           style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 83.53125,136.31445 a 0.13249999,0.13249999 0 0 0 0,0.1875 l 0.888672,0.88867 0.888672,-0.88867 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.1875,0 l -0.701172,0.70117 -0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 -0.1875,0 z"
+           id="path22-8" />
+      </g>
+    </g>
     <text
        xml:space="preserve"
        style="font-size:3.175px;white-space:pre;inline-size:0;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        x="62.469334"
        y="129.12215"
        id="text3-8-0"
-       transform="translate(-18.195715,-0.7711347)"><tspan
+       transform="translate(-11.475169,10.944977)"><tspan
          id="tspan3-7-6"
          style="stroke:none;stroke-width:0.265"
          x="62.469334"
@@ -146,24 +127,13 @@
        xml:space="preserve"
        style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        x="55.074558"
-       y="118.33002"
-       id="text3-8-3-5"><tspan
-         sodipodi:role="line"
-         id="tspan3-7-7-5"
-         style="stroke:none;stroke-width:0.265"
-         x="55.074558"
-         y="118.33002">F</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="55.074558"
-       y="135.24411"
+       y="140.06712"
        id="text3-8-3-8-7"><tspan
          sodipodi:role="line"
          id="tspan3-7-7-9-6"
          style="stroke:none;stroke-width:0.265"
          x="55.074558"
-         y="135.24411">W<tspan
+         y="140.06712">W<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan4-9-5-7-5" /></tspan></text>
     <g
