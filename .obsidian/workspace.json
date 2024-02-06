@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV.md",
+                "file": "PHYS 121 - Physics 1/HW/2/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CV.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,10 +201,43 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d984d4b701d6bca9",
+  "floating": {
+    "id": "ffc3df0bdda85571",
+    "type": "floating",
+    "children": [
+      {
+        "id": "eac8c40317dd7854",
+        "type": "window",
+        "children": [
+          {
+            "id": "129124e30c45b18f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e0e7db66ea38399c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 402,
+        "y": 434,
+        "width": 802,
+        "height": 402,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e0e7db66ea38399c",
   "lastOpenFiles": [
-    "CV.md",
     "PHYS 121 - Physics 1/HW/2/2.md",
+    "CV.md",
     "PHYS 121 - Physics 1/HW/2/2.pdf",
     "PHYS 121 - Physics 1/HW/2/images/5adraw.svg",
     "PHYS 121 - Physics 1/HW/2/images/4bdraw.svg",
