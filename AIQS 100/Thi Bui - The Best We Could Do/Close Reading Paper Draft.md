@@ -3,7 +3,10 @@ date created: 2024-02-03 21:43
 ---
 
 > [!para]
-> ###### 
+> ###### Trevor Nichols
+> ###### Alexandra Magearu and Cadence Dangerfield
+> ###### AIQS 100
+> ###### 11 February 2024
 > # Truth and Perception in The Best We Could Do
 > 
 > In her graphic memoir *The Best We Could Do*, Thi Bui explores the multiple impacts of the Vietnam war through the unique storytelling method of the graphic novel. She explores her parents’ and her own story as a way for her to repay and connect back to her parents. One such impact she explores is the representation and recollection of truth — both in the sense of a objective history, but also on a much more personal level. Initially, Bui tells the story of struggling to understand the conflicting evidence, but we progress into a state where she can relate and even empathize through themes including trauma and childbirth. The scene on pages 206-210 especially illustrate this idea. In *The Best We Could Do*, Thi Bui refines her beliefs on the events of the Vietnam war and their personal impact on her. She compares the evidence commonly seen in American history against first hand stories handed down from her parents and uses such information along with her own experiences to put the impact of history into the perspective of her own life.
