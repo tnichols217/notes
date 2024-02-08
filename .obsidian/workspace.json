@@ -15,7 +15,7 @@
               "state": {
                 "file": "cwru/Finished.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "cwru/Classes.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "cwru/Plan.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -51,7 +51,7 @@
               "state": {
                 "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -63,7 +63,7 @@
               "state": {
                 "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -75,7 +75,7 @@
               "state": {
                 "file": "CSDS 302 - Discrete Math/HW/2.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
