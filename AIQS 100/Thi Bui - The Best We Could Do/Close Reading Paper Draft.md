@@ -19,4 +19,4 @@ date created: 2024-02-03 21:43
 > 
 > Throughout *The Best We Could Do*, Bui grappled with the complex topic of her own relation to the Vietnam War and the task of understanding and repaying her parents. Inconsistencies stemming from many misrepresentations and erasures initially confuse her understanding, but she ultimately moves from thinking the truth and her connection was one that was black and white, to now understanding the complexity and nuance the situation entailed. Ultimately, her own childbirth was the final connection she needed to tie herself back into and understand the complexities of the Vietnam War.
 
-# Dont forget to add works cited Page
+# Don't forget to add works cited page
