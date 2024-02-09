@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
+                "file": "college/Writing Seminar.md",
                 "mode": "source",
                 "source": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md"
+                "file": "college/Writing Seminar.md"
               }
             }
           }
@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "ca4cf6357558295d",
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
+                "file": "college/Writing Seminar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +230,13 @@
   },
   "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
+    "college/Stop Googling Lets Talk.md",
+    "college/Midyear Update Emails.md",
+    "college/Interview Prep.md",
+    "college/Extra Questions.md",
+    "college/Amherst Supplemental.md",
+    "college/Writing Seminar.md",
+    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "cwru/Classes.md",
     "CSDS 302 - Discrete Math/HW/2.md",
     "CSDS 302 - Discrete Math/HW/2/Tables.md",
@@ -238,7 +244,6 @@
     "ENGR 145 - Chemistry of Materials/HW/3.pdf",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
     "ENGR 145 - Chemistry of Materials/HW/2.md",
-    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "cwru/Plan.md",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240206085606.png",
     "ENGR 145 - Chemistry of Materials/HW/attachments",
@@ -271,12 +276,6 @@
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions.md",
     "STAT 345 - Theoretical Statistics/Textbook/2.1 - Transformations.md",
     "STAT 345 - Theoretical Statistics/Textbook/2 - Useful Identities.md",
-    "STAT 345 - Theoretical Statistics/Textbook/1.4-1.6 - Random Variables.md",
-    "STAT 345 - Theoretical Statistics/Textbook/1.2 - Probability Theory.md",
-    "STAT 345 - Theoretical Statistics/Textbook/1.1 - Set Theory.md",
-    "STAT 345 - Theoretical Statistics/Textbook/1.1 - Set Symbols.md",
-    "STAT 345 - Theoretical Statistics/2.1 - Functions of Random Variables.md",
-    "STAT 345 - Theoretical Statistics/Sample Spaces.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
