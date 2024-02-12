@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md"
               }
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,10 +240,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d984d4b701d6bca9",
+  "active": "35dc78e9ef10e11a",
   "lastOpenFiles": [
-    "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
+    "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
     "cwru/Plan.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
     "Private/college/Regular Decision.md",
