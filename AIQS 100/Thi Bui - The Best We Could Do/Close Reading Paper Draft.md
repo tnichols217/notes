@@ -40,10 +40,12 @@ date updated: 2024-02-11 04:16
 ## Your First Draft Grade  
 Using the writing rubric, calculate your own first draft grade
 
-> According to my Peer reviewer, and with my a
+> According to my Peer reviewer, I got a 91%, and I agree with this based on the feedback my reviewer gave me.
 
 ## What You Did Well
 Mention at least three things you accomplished successfully in your paper
+
+> Have a well thouh
 
 ## What Needs More Work / Plan For Revision
 Identify at least three issues you will address in your revision.
