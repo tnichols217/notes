@@ -40,10 +40,13 @@ date updated: 2024-02-11 04:16
 ## Your First Draft Grade  
 Using the writing rubric, calculate your own first draft grade
 
+
+
 ## What You Did Well
 Mention at least three things you accomplished successfully in your paper
 
 ## What Needs More Work / Plan For Revision
 Identify at least three issues you will address in your revision.
 
-## 
+## Your Revised Paper Grade
+Once you’ve finished incorporating the feedback and revising your paper, calculate your final grade.
