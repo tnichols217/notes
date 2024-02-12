@@ -37,5 +37,6 @@ date updated: 2024-02-11 04:16
 
 # Rubric
 
-|     |     |
-| --- | --- |
+## Your First Dra  
+Using the writing rubric, calculate  
+your own first draft grade
