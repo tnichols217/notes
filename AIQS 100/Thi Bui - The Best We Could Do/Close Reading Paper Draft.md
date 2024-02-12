@@ -45,10 +45,17 @@ Using the writing rubric, calculate your own first draft grade
 ## What You Did Well
 Mention at least three things you accomplished successfully in your paper
 
-> Have a well thouh
+> - Have a well thought out argument that I can turn into an essay
+> - Find a reasonable section of the book to focus on
 
 ## What Needs More Work / Plan For Revision
 Identify at least three issues you will address in your revision.
 
+> - Clarity and details
+> - MLA formatting, citing etc
+> - Tying things back to my main idea more clearly
+
 ## Your Revised Paper Grade
 Once you’ve finished incorporating the feedback and revising your paper, calculate your final grade.
+
+> - 
