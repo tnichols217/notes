@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="137.15791mm"
+   height="43.732258mm"
+   viewBox="0 0 137.15791 43.732258"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="6a.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.3304714"
+     inkscape:cx="259.81868"
+     inkscape:cy="98.263382"
+     inkscape:window-width="2560"
+     inkscape:window-height="1600"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="137.15791"
+       height="43.732258"
+       id="page11"
+       margin="5.0000005"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-7-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-5-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-7-8-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-5-7-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-6-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-1-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-6-0-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-1-3-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-6-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-1-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-7-8-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-5-7-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-7-8-6-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path3-5-7-1-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.26646,-74.577589)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11"
+       width="137.1579"
+       height="43.732258"
+       x="13.26646"
+       y="74.577591" />
+    <g
+       id="g11">
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="18.12676"
+         y="81.965187"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="fill:#000000;stroke:none;stroke-width:0.265"
+           x="18.12676"
+           y="81.965187">Chad (C), mass m</tspan></text>
+      <g
+         id="g10">
+        <circle
+           style="fill:#000000;stroke-width:0.276966"
+           id="path1"
+           cx="32.042789"
+           cy="98.31337"
+           r="2.5" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded)"
+           d="M 32.042789,95.81337 V 84.07053"
+           id="path2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-7)"
+           d="m 32.042789,100.81337 v 11.74284"
+           id="path2-5" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           x="32.970287"
+           y="92.738289"
+           id="text3-1"><tspan
+             sodipodi:role="line"
+             id="tspan3-2"
+             style="fill:#000000;stroke:none;stroke-width:0.265"
+             x="32.970287"
+             y="92.738289">N<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4">CB</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           x="32.970287"
+           y="108.12312"
+           id="text3-1-3"><tspan
+             sodipodi:role="line"
+             id="tspan3-2-6"
+             style="fill:#000000;stroke:none;stroke-width:0.265"
+             x="32.970287"
+             y="108.12312">W<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan5">C</tspan></tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="57.420471"
+         y="81.94455"
+         id="text3-3"><tspan
+           sodipodi:role="line"
+           id="tspan3-7"
+           style="fill:#000000;stroke:none;stroke-width:0.265"
+           x="57.420471"
+           y="81.94455">Board (B), mass M</tspan></text>
+      <g
+         id="g9">
+        <circle
+           style="fill:#000000;stroke-width:0.276966"
+           id="path1-2"
+           cx="71.079323"
+           cy="98.31337"
+           r="2.5" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-6)"
+           d="M 68.579323,98.31337 V 86.57053"
+           id="path2-0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-6-0)"
+           d="M 73.579323,98.31337 V 86.57053"
+           id="path2-0-1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-7-8)"
+           d="m 73.579323,98.31337 v 11.74284"
+           id="path2-5-2" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-7-8-6)"
+           d="m 68.579323,98.31337 v 11.74284"
+           id="path2-5-2-9" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           x="74.624252"
+           y="106.61905"
+           id="text3-1-5"><tspan
+             sodipodi:role="line"
+             id="tspan3-2-9"
+             style="fill:#000000;stroke:none;stroke-width:0.265"
+             x="74.624252"
+             y="106.61905">N<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4-2">BC</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           x="63.058617"
+           y="106.63246"
+           id="text3-1-3-2"><tspan
+             sodipodi:role="line"
+             id="tspan3-2-6-8"
+             style="fill:#000000;stroke:none;stroke-width:0.265"
+             x="63.058617"
+             y="106.63246">W<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan5-9">B</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           x="62.839783"
+           y="92.689659"
+           id="text3-1-3-2-4"><tspan
+             sodipodi:role="line"
+             id="tspan3-2-6-8-7"
+             style="fill:#000000;stroke:none;stroke-width:0.265"
+             x="62.839783"
+             y="92.689659">N<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan6">BT</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           x="76.253822"
+           y="93.237045"
+           id="text3-1-3-2-4-2"><tspan
+             sodipodi:role="line"
+             id="tspan3-2-6-8-7-0"
+             style="fill:#000000;stroke:none;stroke-width:0.265"
+             x="76.253822"
+             y="93.237045">T<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan7">1</tspan></tspan></text>
+      </g>
+      <g
+         id="g8"
+         transform="translate(66.521279,-26.74225)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-7-8-0)"
+           d="m 63.903099,128.05562 v 11.74284"
+           id="path2-5-2-6" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           x="64.948029"
+           y="136.3613"
+           id="text3-1-5-8"><tspan
+             sodipodi:role="line"
+             id="tspan3-2-9-8"
+             style="fill:#000000;stroke:none;stroke-width:0.265"
+             x="64.948029"
+             y="136.3613">N<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4-2-4">BC</tspan></tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-7-8-6-4)"
+           d="m 48.903098,128.05562 v 11.74284"
+           id="path2-5-2-9-0" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           x="43.382393"
+           y="136.37471"
+           id="text3-1-3-2-6"><tspan
+             sodipodi:role="line"
+             id="tspan3-2-6-8-8"
+             style="fill:#000000;stroke:none;stroke-width:0.265"
+             x="43.382393"
+             y="136.37471">W<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan5-9-9">B</tspan></tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-6-4)"
+           d="M 63.903099,125.05562 V 113.31278"
+           id="path2-0-5" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           x="58.163559"
+           y="119.43192"
+           id="text3-1-3-2-4-4"><tspan
+             sodipodi:role="line"
+             id="tspan3-2-6-8-7-7"
+             style="fill:#000000;stroke:none;stroke-width:0.265"
+             x="58.163559"
+             y="119.43192">N<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan6-4">BT</tspan></tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-6-0-5)"
+           d="M 18.903097,125.05562 V 113.31278"
+           id="path2-0-1-6" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           x="21.577597"
+           y="119.97929"
+           id="text3-1-3-2-4-2-5"><tspan
+             sodipodi:role="line"
+             id="tspan3-2-6-8-7-0-6"
+             style="fill:#000000;stroke:none;stroke-width:0.265"
+             x="21.577597"
+             y="119.97929">T<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan7-9">1</tspan></tspan></text>
+        <rect
+           style="fill:#000000;stroke:none;stroke-width:0.254958;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect7"
+           width="60"
+           height="3"
+           x="18.903097"
+           y="125.05562" />
+      </g>
+    </g>
+  </g>
+</svg>
