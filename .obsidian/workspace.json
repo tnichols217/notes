@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md"
               }
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,14 +240,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "35dc78e9ef10e11a",
+  "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
+    "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
     "AIQS 100/Thi Bui - The Best We Could Do/EssayMerged.pdf",
     "AIQS 100/Thi Bui - The Best We Could Do/PDFsam_merge.pdf",
     "AIQS 100/Thi Bui - The Best We Could Do/Truth and Perception in The Best We Could Do.pdf",
     "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.pdf",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
-    "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
     "cwru/Plan.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
     "Private/college/Regular Decision.md",
@@ -287,7 +287,6 @@
     "PHYS 121 - Physics 1/HW/2/images/2adraw.svg",
     "PHYS 121 - Physics 1/HW/2/images",
     "PHYS 121 - Physics 1/HW/2/2",
-    "PHYS 121 - Physics 1/HW/1/p121_spring2024_05.pdf",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
