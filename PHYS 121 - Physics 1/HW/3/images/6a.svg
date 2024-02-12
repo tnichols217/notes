@@ -7,8 +7,8 @@
    viewBox="0 0 137.15791 43.732258"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="6a.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.3304714"
-     inkscape:cx="259.81868"
-     inkscape:cy="98.263382"
+     inkscape:zoom="3.2957842"
+     inkscape:cx="266.55264"
+     inkscape:cy="70.08954"
      inkscape:window-width="2560"
      inkscape:window-height="1600"
      inkscape:window-x="0"
@@ -42,208 +42,7 @@
        bleed="0" />
   </sodipodi:namedview>
   <defs
-     id="defs1">
-    <marker
-       style="overflow:visible"
-       id="ArrowWideRounded"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Wide, rounded arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc"
-         id="path3" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="ArrowWideRounded-7"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Wide, rounded arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc"
-         id="path3-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="ArrowWideRounded-6"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Wide, rounded arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc"
-         id="path3-1" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="ArrowWideRounded-7-8"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Wide, rounded arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc"
-         id="path3-5-7" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="ArrowWideRounded-7-8-6"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Wide, rounded arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc"
-         id="path3-5-7-1" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="ArrowWideRounded-6-0"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Wide, rounded arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc"
-         id="path3-1-3" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="ArrowWideRounded-6-0-5"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Wide, rounded arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc"
-         id="path3-1-3-4" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="ArrowWideRounded-6-4"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Wide, rounded arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc"
-         id="path3-1-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="ArrowWideRounded-7-8-0"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Wide, rounded arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc"
-         id="path3-5-7-7" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="ArrowWideRounded-7-8-6-4"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="Wide, rounded arrow"
-       markerWidth="1"
-       markerHeight="1"
-       viewBox="0 0 1 1"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="xMidYMid">
-      <path
-         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
-         d="M 3,-3 0,0 3,3"
-         transform="rotate(180,0.125,0)"
-         sodipodi:nodetypes="ccc"
-         id="path3-5-7-1-9" />
-    </marker>
-  </defs>
+     id="defs1" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -277,14 +76,34 @@
            cx="32.042789"
            cy="98.31337"
            r="2.5" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded)"
-           d="M 32.042789,95.81337 V 84.07053"
-           id="path2" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-7)"
-           d="m 32.042789,100.81337 v 11.74284"
-           id="path2-5" />
+        <g
+           id="path2">
+          <path
+             style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+             d="m 32.042969,83.9375 a 0.13249999,0.13249999 0 0 0 -0.132813,0.132812 V 95.8125 a 0.13249999,0.13249999 0 0 0 0.132813,0.132812 0.13249999,0.13249999 0 0 0 0.132812,-0.132812 V 84.070312 A 0.13249999,0.13249999 0 0 0 32.042969,83.9375 Z"
+             id="path22" />
+          <g
+             id="g21">
+            <path
+               style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+               d="m 32.042969,83.816406 -0.888672,0.888672 a 0.13249999,0.13249999 0 0 0 0,0.1875 0.13249999,0.13249999 0 0 0 0.1875,0 l 0.701172,-0.701172 0.701172,0.701172 a 0.13249999,0.13249999 0 0 0 0.1875,0 0.13249999,0.13249999 0 0 0 0,-0.1875 z"
+               id="path21" />
+          </g>
+        </g>
+        <g
+           id="path2-5">
+          <path
+             style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+             d="m 32.042969,100.68164 a 0.13249999,0.13249999 0 0 0 -0.132813,0.13086 v 11.74414 a 0.13249999,0.13249999 0 0 0 0.132813,0.13281 0.13249999,0.13249999 0 0 0 0.132812,-0.13281 V 100.8125 a 0.13249999,0.13249999 0 0 0 -0.132812,-0.13086 z"
+             id="path24" />
+          <g
+             id="g23">
+            <path
+               style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+               d="m 31.154297,111.73438 a 0.13249999,0.13249999 0 0 0 0,0.1875 l 0.888672,0.88867 0.888672,-0.88867 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.1875,0 l -0.701172,0.70117 -0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 -0.1875,0 z"
+               id="path23" />
+          </g>
+        </g>
         <text
            xml:space="preserve"
            style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -331,22 +150,62 @@
            cx="71.079323"
            cy="98.31337"
            r="2.5" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-6)"
-           d="M 68.579323,98.31337 V 86.57053"
-           id="path2-0" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-6-0)"
-           d="M 73.579323,98.31337 V 86.57053"
-           id="path2-0-1" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-7-8)"
-           d="m 73.579323,98.31337 v 11.74284"
-           id="path2-5-2" />
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-7-8-6)"
-           d="m 68.579323,98.31337 v 11.74284"
-           id="path2-5-2-9" />
+        <g
+           id="path2-0">
+          <path
+             style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+             d="m 68.580078,86.4375 a 0.13249999,0.13249999 0 0 0 -0.132812,0.132812 V 98.3125 a 0.13249999,0.13249999 0 0 0 0.132812,0.132812 0.13249999,0.13249999 0 0 0 0.130859,-0.132812 V 86.570312 A 0.13249999,0.13249999 0 0 0 68.580078,86.4375 Z"
+             id="path16" />
+          <g
+             id="g15">
+            <path
+               style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+               d="m 68.580078,86.316406 -0.888672,0.888672 a 0.13249999,0.13249999 0 0 0 0,0.1875 0.13249999,0.13249999 0 0 0 0.1875,0 l 0.701172,-0.701172 0.701172,0.701172 a 0.13249999,0.13249999 0 0 0 0.1875,0 0.13249999,0.13249999 0 0 0 0,-0.1875 z"
+               id="path15" />
+          </g>
+        </g>
+        <g
+           id="path2-0-1">
+          <path
+             style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+             d="m 73.580078,86.4375 a 0.13249999,0.13249999 0 0 0 -0.132812,0.132812 V 98.3125 a 0.13249999,0.13249999 0 0 0 0.132812,0.132812 0.13249999,0.13249999 0 0 0 0.130859,-0.132812 V 86.570312 A 0.13249999,0.13249999 0 0 0 73.580078,86.4375 Z"
+             id="path14" />
+          <g
+             id="g13">
+            <path
+               style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+               d="m 73.580078,86.316406 -0.888672,0.888672 a 0.13249999,0.13249999 0 0 0 0,0.1875 0.13249999,0.13249999 0 0 0 0.1875,0 l 0.701172,-0.701172 0.701172,0.701172 a 0.13249999,0.13249999 0 0 0 0.1875,0 0.13249999,0.13249999 0 0 0 0,-0.1875 z"
+               id="path13" />
+          </g>
+        </g>
+        <g
+           id="path2-5-2">
+          <path
+             style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+             d="M 73.580078,98.181641 A 0.13249999,0.13249999 0 0 0 73.447266,98.3125 v 11.74414 a 0.13249999,0.13249999 0 0 0 0.132812,0.13281 0.13249999,0.13249999 0 0 0 0.130859,-0.13281 V 98.3125 a 0.13249999,0.13249999 0 0 0 -0.130859,-0.130859 z"
+             id="path20" />
+          <g
+             id="g19">
+            <path
+               style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+               d="m 72.785156,109.19531 a 0.13249999,0.13249999 0 0 0 -0.09375,0.0391 0.13249999,0.13249999 0 0 0 0,0.1875 l 0.888672,0.88867 0.888672,-0.88867 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.1875,0 l -0.701172,0.70117 -0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 -0.09375,-0.0391 z"
+               id="path19" />
+          </g>
+        </g>
+        <g
+           id="path2-5-2-9">
+          <path
+             style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+             d="M 68.580078,98.181641 A 0.13249999,0.13249999 0 0 0 68.447266,98.3125 v 11.74414 a 0.13249999,0.13249999 0 0 0 0.132812,0.13281 0.13249999,0.13249999 0 0 0 0.130859,-0.13281 V 98.3125 a 0.13249999,0.13249999 0 0 0 -0.130859,-0.130859 z"
+             id="path18" />
+          <g
+             id="g17">
+            <path
+               style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+               d="m 67.785156,109.19531 a 0.13249999,0.13249999 0 0 0 -0.09375,0.0391 0.13249999,0.13249999 0 0 0 0,0.1875 l 0.888672,0.88867 0.888672,-0.88867 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.1875,0 l -0.701172,0.70117 -0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 -0.09375,-0.0391 z"
+               id="path17" />
+          </g>
+        </g>
         <text
            xml:space="preserve"
            style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -403,10 +262,20 @@
       <g
          id="g8"
          transform="translate(66.521279,-26.74225)">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-7-8-0)"
-           d="m 63.903099,128.05562 v 11.74284"
-           id="path2-5-2-6" />
+        <g
+           id="path2-5-2-6">
+          <path
+             style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+             d="m 63.902344,127.92383 a 0.13249999,0.13249999 0 0 0 -0.13086,0.13086 v 11.74414 a 0.13249999,0.13249999 0 0 0 0.13086,0.13281 0.13249999,0.13249999 0 0 0 0.132812,-0.13281 v -11.74414 a 0.13249999,0.13249999 0 0 0 -0.132812,-0.13086 z"
+             id="path28" />
+          <g
+             id="g27">
+            <path
+               style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+               d="m 63.013672,138.97656 a 0.13249999,0.13249999 0 0 0 0,0.1875 l 0.888672,0.88867 0.888672,-0.88867 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.1875,0 l -0.701172,0.70117 -0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 -0.1875,0 z"
+               id="path27" />
+          </g>
+        </g>
         <text
            xml:space="preserve"
            style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -420,10 +289,20 @@
              y="136.3613">N<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan4-2-4">BC</tspan></tspan></text>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-7-8-6-4)"
-           d="m 48.903098,128.05562 v 11.74284"
-           id="path2-5-2-9-0" />
+        <g
+           id="path2-5-2-9-0">
+          <path
+             style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+             d="m 48.902344,127.92383 a 0.13249999,0.13249999 0 0 0 -0.13086,0.13086 v 11.74414 a 0.13249999,0.13249999 0 0 0 0.13086,0.13281 0.13249999,0.13249999 0 0 0 0.132812,-0.13281 v -11.74414 a 0.13249999,0.13249999 0 0 0 -0.132812,-0.13086 z"
+             id="path30" />
+          <g
+             id="g29">
+            <path
+               style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+               d="m 48.013672,138.97656 a 0.13249999,0.13249999 0 0 0 0,0.1875 l 0.888672,0.88867 0.888672,-0.88867 a 0.13249999,0.13249999 0 0 0 0,-0.1875 0.13249999,0.13249999 0 0 0 -0.1875,0 l -0.701172,0.70117 -0.701172,-0.70117 a 0.13249999,0.13249999 0 0 0 -0.1875,0 z"
+               id="path29" />
+          </g>
+        </g>
         <text
            xml:space="preserve"
            style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -437,10 +316,20 @@
              y="136.37471">W<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan5-9-9">B</tspan></tspan></text>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-6-4)"
-           d="M 63.903099,125.05562 V 113.31278"
-           id="path2-0-5" />
+        <g
+           id="path2-0-5">
+          <path
+             style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+             d="m 63.902344,113.17969 a 0.13249999,0.13249999 0 0 0 -0.13086,0.13281 v 11.74219 a 0.13249999,0.13249999 0 0 0 0.13086,0.13281 0.13249999,0.13249999 0 0 0 0.132812,-0.13281 V 113.3125 a 0.13249999,0.13249999 0 0 0 -0.132812,-0.13281 z"
+             id="path26" />
+          <g
+             id="g25">
+            <path
+               style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+               d="m 63.902344,113.05859 -0.888672,0.88868 a 0.13249999,0.13249999 0 0 0 0,0.1875 0.13249999,0.13249999 0 0 0 0.1875,0 l 0.701172,-0.70118 0.701172,0.70118 a 0.13249999,0.13249999 0 0 0 0.1875,0 0.13249999,0.13249999 0 0 0 0,-0.1875 z"
+               id="path25" />
+          </g>
+        </g>
         <text
            xml:space="preserve"
            style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -454,10 +343,20 @@
              y="119.43192">N<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan6-4">BT</tspan></tspan></text>
-        <path
-           style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded-6-0-5)"
-           d="M 18.903097,125.05562 V 113.31278"
-           id="path2-0-1-6" />
+        <g
+           id="path2-0-1-6">
+          <path
+             style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+             d="m 18.902344,113.17969 a 0.13249999,0.13249999 0 0 0 -0.13086,0.13281 v 11.74219 a 0.13249999,0.13249999 0 0 0 0.13086,0.13281 0.13249999,0.13249999 0 0 0 0.132812,-0.13281 V 113.3125 a 0.13249999,0.13249999 0 0 0 -0.132812,-0.13281 z"
+             id="path32" />
+          <g
+             id="g31">
+            <path
+               style="color:#000000;fill:#000000;stroke-linecap:round;-inkscape-stroke:none"
+               d="m 18.902344,113.05859 -0.888672,0.88868 a 0.13249999,0.13249999 0 0 0 0,0.1875 0.13249999,0.13249999 0 0 0 0.1875,0 l 0.701172,-0.70118 0.701172,0.70118 a 0.13249999,0.13249999 0 0 0 0.1875,0 0.13249999,0.13249999 0 0 0 0,-0.1875 z"
+               id="path31" />
+          </g>
+        </g>
         <text
            xml:space="preserve"
            style="font-size:3.175px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';fill:none;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
