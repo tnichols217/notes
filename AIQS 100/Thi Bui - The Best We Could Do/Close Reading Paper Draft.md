@@ -58,4 +58,4 @@ Identify at least three issues you will address in your revision.
 ## Your Revised Paper Grade
 Once you’ve finished incorporating the feedback and revising your paper, calculate your final grade.
 
-> - 
+> - I believe there are still minor clarity issues with my paper, but I think most line of reasoning and formatting are completely resolved.
