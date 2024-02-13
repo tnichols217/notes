@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/3/3.md",
+                "file": "CSDS 302 - Discrete Math/HW/3.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/3/3.md"
+                "file": "CSDS 302 - Discrete Math/HW/3.md"
               }
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/3/3.md",
+                "file": "CSDS 302 - Discrete Math/HW/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,6 +242,7 @@
   },
   "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/HW/3/3.md",
     "PHYS 121 - Physics 1/HW/3/3.pdf",
     "PHYS 121 - Physics 1/HW/3/images/6a.svg",
     "PHYS 121 - Physics 1/HW/3/images/6.svg",
@@ -249,7 +250,6 @@
     "PHYS 121 - Physics 1/HW/3/images",
     "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/HW/4.md",
-    "PHYS 121 - Physics 1/HW/3/3.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "PHYS 121 - Physics 1/HW/3",
     "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
@@ -285,7 +285,6 @@
     "ENGR 145 - Chemistry of Materials/HW/2/image49.png",
     "ENGR 145 - Chemistry of Materials/HW/2/image47.png",
     "ENGR 145 - Chemistry of Materials/HW/2",
-    "PHYS 121 - Physics 1/HW/2/2.pdf",
     "PHYS 121 - Physics 1/HW/2/images/5adraw.svg",
     "PHYS 121 - Physics 1/HW/2/images/4bdraw.svg",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
