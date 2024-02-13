@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md"
+                "file": "CSDS 302 - Discrete Math/HW/3.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+                "file": "CSDS 302 - Discrete Math/HW/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,10 +252,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7b6c5ebaf85bf906",
+  "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
-    "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+    "CSDS 302 - Discrete Math/HW/3.md",
     "PHYS 121 - Physics 1/HW/3/3.md",
     "PHYS 121 - Physics 1/HW/3/3.pdf",
     "PHYS 121 - Physics 1/HW/3/images/6a.svg",
