@@ -47,9 +47,9 @@
             "id": "d984d4b701d6bca9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/2/VelGraph.png"
+                "file": "PHYS 121 - Physics 1/Labs/2/PHYS121LAB2.pdf"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/2/VelGraph.png"
+                "file": "PHYS 121 - Physics 1/Labs/2/PHYS121LAB2.pdf"
               }
             }
           }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/2/VelGraph.png",
+                "file": "PHYS 121 - Physics 1/Labs/2/PHYS121LAB2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,10 +252,11 @@
   },
   "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/Labs/2/VelGraph.png",
+    "PHYS 121 - Physics 1/Labs/2/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/1/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/2/PHYS121LAB2.pdf",
-    "PHYS 121 - Physics 1/Labs/2/VelGraph.png",
     "PHYS 121 - Physics 1/HW/3/3.md",
     "CSDS 302 - Discrete Math/HW/3.md",
     "PHYS 121 - Physics 1/Labs/2",
@@ -297,7 +298,6 @@
     "ENGR 145 - Chemistry of Materials/HW/2/5.png",
     "ENGR 145 - Chemistry of Materials/HW/2/4.png",
     "ENGR 145 - Chemistry of Materials/HW/2/image49.png",
-    "ENGR 145 - Chemistry of Materials/HW/2/image47.png",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
