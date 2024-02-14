@@ -1,5 +1,6 @@
 ```dot
 digraph {
-	A[Discrete Math]
+	A [label="Discrete Math"]
+	B [label=""]
 }
 ```
