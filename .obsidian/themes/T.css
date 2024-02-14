@@ -544,5 +544,5 @@ div.mermaid > svg > g > g.root > g.nodes > g[id*='-not-'] > * {
   display: none;
 }
 div.mermaid > svg > g > g.root > g.nodes > g[id*='-not-']::after {
-  content: "<rect height=10 width=10> </rect>"
+  content: "<rect height=\"35.79166793823242\" width=\"24.03125\" y=\"-17.89583396911621\" x=\"-12.015625\" ry=\"0\" rx=\"0\" style=\"\" class=\"basic label-container\"></rect>"
 }
