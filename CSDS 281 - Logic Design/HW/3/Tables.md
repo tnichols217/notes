@@ -15,12 +15,12 @@
 flowchart LR
 
 b --- notb
-a & notb --- andab
+a & notb --- andab'
 
 a --- nota
-nota & c --- andac
+nota & c --- anda'c
 
 c --- notc
-nota & b --- and3
-and3 & 
+nota & b --- anda'b
+anda'b & notc --- anda'bc'
 ```
