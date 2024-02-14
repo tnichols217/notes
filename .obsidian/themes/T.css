@@ -539,3 +539,7 @@ div.markdown-preview-sizer.markdown-preview-section {
     display: none;
   }
 }
+
+div.mermaid > svg > g > g.root > g.nodes {
+  display: none;
+}
