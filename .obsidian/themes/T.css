@@ -564,16 +564,14 @@ div.mermaid > svg > g > g.root > g.nodes {
   & > g[id*='-not'] > rect {
     display: none;
   }
-}
-
-div.mermaid > svg > g > g.root > g.nodes > g[id*='-not'] foreignObject > div > span {
-  display: none;
-}
-
-div.mermaid > svg > g > g.root > g.nodes > g[id*='-not'] foreignObject > div {
-  position: relative;
-  left: -0.9em;
-  top: -0.55em;
+  & > g[id*='-not'] foreignObject > div > span {
+    display: none;
+  }
+  & > g[id*='-not'] foreignObject > div {
+    position: relative;
+    left: -0.5em;
+    top: -0.55em;
+  }
 }
 
 div.mermaid > svg > g > g.root > g.nodes > g[id*='-not'] foreignObject > div::after {
