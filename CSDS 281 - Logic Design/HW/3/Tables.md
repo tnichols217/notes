@@ -14,6 +14,6 @@
 ```mermaid
 flowchart LR
 
-a ---|a| c
-b ---|a| c[a]
+a ---|a| not
+b ---|a| not[a]
 ```
