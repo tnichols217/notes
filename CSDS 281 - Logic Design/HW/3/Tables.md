@@ -23,4 +23,6 @@ nota & c --- anda'c
 c --- notc
 nota & b --- anda'b
 anda'b & notc --- anda'bc'
+
+or1
 ```
