@@ -14,7 +14,6 @@
 ```mermaid
 flowchart LR
 
-a --- or1
-b --- or1
-or1 --- c
+b --- not1
+a, not1 --- and1
 ```
