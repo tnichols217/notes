@@ -15,5 +15,5 @@
 flowchart LR
 
 a ---|a| not
-b ---|a| not[a]
+b ---|a| not
 ```
