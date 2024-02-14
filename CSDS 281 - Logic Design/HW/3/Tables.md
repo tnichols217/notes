@@ -15,5 +15,5 @@
 flowchart LR
 
 a ---|a| c
-b ---|a| c
+b ---|a| c[a]
 ```
