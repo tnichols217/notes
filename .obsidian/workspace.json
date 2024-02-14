@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/3.md",
+                "file": "CSDS 281 - Logic Design/HW/3.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/3.md"
+                "file": "CSDS 281 - Logic Design/HW/3.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/3.md",
+                "file": "CSDS 281 - Logic Design/HW/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,8 +252,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
+    "CSDS 302 - Discrete Math/HW/3.md",
+    "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/3/5.png",
     "CSDS 281 - Logic Design/HW/3/1.png",
     "CSDS 281 - Logic Design/HW/3/image284.png",
@@ -273,13 +275,11 @@
     "ENGR 145 - Chemistry of Materials/HW/4.pdf",
     "ENGR 145 - Chemistry of Materials/HW/3/5.png",
     "ENGR 145 - Chemistry of Materials/HW/3/4.png",
-    "ENGR 145 - Chemistry of Materials/HW/3/image90.png",
     "ENGR 145 - Chemistry of Materials/HW/3/images",
     "ENGR 145 - Chemistry of Materials/HW/3",
     "PHYS 121 - Physics 1/Labs/2/PHYS121LAB2.pdf",
     "PHYS 121 - Physics 1/Labs/2/8i2 IP Fill In The Blank.pdf",
     "PHYS 121 - Physics 1/HW/3/3.md",
-    "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/HW/4.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
