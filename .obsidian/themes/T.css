@@ -544,7 +544,7 @@ div.mermaid > svg > g > g.root > g.nodes > g[id*='-not-'] > rect {
   /* display: none; */
 }
 
-div.mermaid > svg > g > g.root > g.nodes > g[id*='-not-'] foreignObject > div {
+div.mermaid > svg > g > g.root > g.nodes > g[id*='-not-'] foreignObject > div > span {
   display: none;
 }
 
