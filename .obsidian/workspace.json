@@ -6,7 +6,7 @@
       {
         "id": "02e9da2b998bf76d",
         "type": "tabs",
-        "dimension": 54.13589364844904,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "9b07e3bfb0f599d2",
@@ -51,6 +51,18 @@
               "type": "markdown",
               "state": {
                 "file": "CSDS 281 - Logic Design/HW/3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e2429e6c287de1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 281 - Logic Design/HW/3/Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,26 +129,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "445fd12dcc5f8a1d",
-        "type": "tabs",
-        "dimension": 45.86410635155096,
-        "children": [
-          {
-            "id": "4e2429e6c287de1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 281 - Logic Design/HW/3/Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/3/Tables.md"
+                "file": "CSDS 302 - Discrete Math/HW/3.md"
               }
             }
           }
@@ -228,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/3/Tables.md",
+                "file": "CSDS 302 - Discrete Math/HW/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,8 +277,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4e2429e6c287de1a",
+  "active": "ce362f19b05c3217",
   "lastOpenFiles": [
+    "cwru/Plan.md",
     "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/3/Tables.md",
     "CSDS 302 - Discrete Math/HW/3.md",
@@ -321,7 +315,6 @@
     "PHYS 121 - Physics 1/HW/3/3.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
-    "cwru/Plan.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
     "Private/college/Regular Decision.md",
     "Private/college/QB Short Answer.md",
