@@ -10,9 +10,12 @@ digraph {
 
 ^22
 
-```mermaid
-flowchart LR
-
-
-
+```dot
+digraph {
+	A [label="Vegetarian"]
+	B [label="No Meat"]
+	C [label="Vegan"]
+	A -> B
+	C -> A
+}
 ```
