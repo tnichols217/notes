@@ -27,3 +27,6 @@ andab' & anda'c & anda'bc' --- or1
 
 or1 --- F
 ```
+
+^3b
+
