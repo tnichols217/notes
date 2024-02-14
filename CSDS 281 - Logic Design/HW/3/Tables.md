@@ -14,5 +14,5 @@
 ```mermaid
 flowchart LR
 
-a --> c
+a ---|"a"> c
 ```

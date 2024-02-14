@@ -15,7 +15,7 @@
               "state": {
                 "file": "cwru/Finished.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "cwru/Classes.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "cwru/Plan.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -50,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "CSDS 281 - Logic Design/HW/3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e2429e6c287de1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 281 - Logic Design/HW/3/Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +99,7 @@
               "state": {
                 "file": "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -99,7 +111,7 @@
               "state": {
                 "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -111,12 +123,12 @@
               "state": {
                 "file": "CSDS 302 - Discrete Math/HW/2.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/3.md"
+                "file": "CSDS 281 - Logic Design/HW/3/Tables.md"
               }
             }
           }
@@ -208,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/3.md",
+                "file": "CSDS 281 - Logic Design/HW/3/Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,11 +276,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d984d4b701d6bca9",
+  "active": "4e2429e6c287de1a",
   "lastOpenFiles": [
+    "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
-    "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/3/Tables.md",
     "CSDS 302 - Discrete Math/HW/9.md",
     "CSDS 302 - Discrete Math/HW/8.md",
