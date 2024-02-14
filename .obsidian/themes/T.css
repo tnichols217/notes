@@ -540,6 +540,6 @@ div.markdown-preview-sizer.markdown-preview-section {
   }
 }
 
-div.mermaid > svg > g > g.root > g.nodes {
+div.mermaid > svg > g > g.root > g.nodes div > span.nodeLabel {
   display: none;
 }
