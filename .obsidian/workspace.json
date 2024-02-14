@@ -47,9 +47,11 @@
             "id": "d984d4b701d6bca9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/2/Report Cover.png"
+                "file": "CSDS 302 - Discrete Math/HW/3.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/2/Report Cover.png"
+                "file": "CSDS 302 - Discrete Math/HW/3.md"
               }
             }
           }
@@ -194,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/2/Report Cover.png",
+                "file": "CSDS 302 - Discrete Math/HW/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,6 +254,9 @@
   },
   "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/Labs/2/Report Cover.png",
+    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+    "PHYS 121 - Physics 1/Labs/2/Lab 2.pdf",
     "PHYS 121 - Physics 1/Labs/2/PDFsam_merge.pdf",
     "PHYS 121 - Physics 1/Labs/2/Report Cover.pdf",
     "PHYS 121 - Physics 1/Labs/2/output.pdf",
@@ -271,13 +276,9 @@
     "ENGR 145 - Chemistry of Materials/HW/3",
     "PHYS 121 - Physics 1/Labs/2/PHYS121LAB2.pdf",
     "PHYS 121 - Physics 1/Labs/2/8i2 IP Fill In The Blank.pdf",
-    "PHYS 121 - Physics 1/Labs/2/Report Cover.png",
     "PHYS 121 - Physics 1/HW/3/3.md",
     "CSDS 302 - Discrete Math/HW/3.md",
     "PHYS 121 - Physics 1/Labs/2",
-    "CSDS 302 - Discrete Math/HW/3.pdf",
-    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
-    "PHYS 121 - Physics 1/HW/3/3.pdf",
     "CSDS 302 - Discrete Math/HW/4.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
