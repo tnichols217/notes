@@ -21,8 +21,7 @@ a --- nota
 nota & c --- anda'c
 
 c --- notc
-nota & b --- anda'b
-anda'b & notc --- anda'bc'
+nota & b & notc --- anda'bc'
 
-or1
+andab' & anda'c & anda'bc' --- or1
 ```
