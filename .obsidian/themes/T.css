@@ -540,7 +540,7 @@ div.markdown-preview-sizer.markdown-preview-section {
   }
 }
 
-div.mermaid > svg > g > g.root > g.nodes > g[id*='-not-'] > * {
+div.mermaid > svg > g > g.root > g.nodes > g[id*='-not-'] > rect {
   display: none;
 }
 div.mermaid > svg > g > g.root > g.nodes > g[id*='-not-']::after {
