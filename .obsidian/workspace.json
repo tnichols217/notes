@@ -81,6 +81,18 @@
             }
           },
           {
+            "id": "2cf2d5950d556098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 281 - Logic Design/HW/3/Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b6c5ebaf85bf906",
             "type": "leaf",
             "state": {
@@ -129,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/3.md"
+                "file": "CSDS 281 - Logic Design/HW/3/Tables.md"
               }
             }
           }
@@ -221,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/3.md",
+                "file": "CSDS 281 - Logic Design/HW/3/Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,12 +289,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ce362f19b05c3217",
+  "active": "2cf2d5950d556098",
   "lastOpenFiles": [
+    "CSDS 302 - Discrete Math/HW/3.md",
     "cwru/Plan.md",
     "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/3/Tables.md",
-    "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CSDS 302 - Discrete Math/HW/9.md",
     "CSDS 302 - Discrete Math/HW/8.md",
