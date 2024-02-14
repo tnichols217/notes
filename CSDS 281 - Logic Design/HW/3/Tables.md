@@ -12,7 +12,7 @@
 ^3
 
 ```mermaid
-Flowchart LR
+flowchart LR
 
 a --> c
 ```
