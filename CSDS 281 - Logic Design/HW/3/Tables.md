@@ -15,5 +15,10 @@
 flowchart LR
 
 b --- not1
-a, not1 --- and1
+a & not1 --- and1
+
+a --- not2
+not2 & c --- and2
+
+
 ```
