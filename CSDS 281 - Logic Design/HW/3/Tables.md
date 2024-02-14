@@ -14,11 +14,13 @@
 ```mermaid
 flowchart LR
 
-b --- not1
-a & not1 --- and1
+b --- notb
+a & notb --- andab
 
-a --- not2
-not2 & c --- and2
+a --- nota
+nota & c --- andac
 
-
+c --- notc
+nota & b --- and3
+and3 & 
 ```
