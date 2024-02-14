@@ -10,3 +10,9 @@
 | T    | T    | T    | F    |
 
 ^3
+
+```mermaid
+Flowchart LR
+
+a --> c
+```
