@@ -14,5 +14,6 @@
 ```mermaid
 flowchart LR
 
-a --->|a| c
+a ---|a| c
+b ---|a| c
 ```
