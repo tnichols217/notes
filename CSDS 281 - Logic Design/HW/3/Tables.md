@@ -16,6 +16,10 @@ d & andQ2 --- andQ7
 
 c & andQ7 --- andQ5
 
+a & andQ5 --- andQ1
+
+b & andQ1 --- andQ3
+
 
 
 
