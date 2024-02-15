@@ -29,7 +29,7 @@ orZ --- Z
 ```
 ^1
 
-$Z=c'\cdot d'+d'\cdot a'$
+$Z=c'\cdot d'+d'\cdot a'+c\cdot a\cdot b+$
 
 | $A$ | $B$ | $C$ | $D$ | $Z$ |
 | --- | --- | --- | --- | --- |
