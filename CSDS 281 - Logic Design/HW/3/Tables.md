@@ -4,6 +4,10 @@ flowchart LR
 
 d --- notQ8
 
+c --- notC
+
+notQ8 & notC --- andQ6
+
 
 
 b --- notb
