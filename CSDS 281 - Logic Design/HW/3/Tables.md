@@ -55,33 +55,15 @@ orZ --- Z
 ```mermaid
 flowchart LR
 
-d --- notQ8
+a & b & c --- and1
 
-c --- notC
+d & and1 --- nor1
 
-notQ8 & notC --- andQ6
-
-a --- notA
-
-notQ8 & notA --- andQ2
-
-d & andQ2 --- andQ7
-
-c & andQ7 --- andQ5
-
-a & andQ5 --- andQ1
-
-b & andQ1 --- andQ3
-
-b --- notB
-
-notQ8 & notB --- andQ4
-
-andQ6 & andQ2 & andQ4 & andQ3 --- orZ
-
-orZ --- Z
+nor1 --- Z
 
 ```
+
+^1b
 
 | $a$ | $b$ | $c$ | $F$ |
 | --- | --- | --- | --- |
