@@ -20,7 +20,7 @@ a & andQ5 --- andQ1
 
 b & andQ1 --- andQ3
 
-
+andQ8 **
 
 
 
