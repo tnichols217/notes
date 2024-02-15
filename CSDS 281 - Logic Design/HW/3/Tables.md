@@ -2,6 +2,8 @@
 ```mermaid
 flowchart LR
 
+
+
 b --- notb
 a & notb --- andab'
 
