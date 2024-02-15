@@ -20,7 +20,9 @@ a & andQ5 --- andQ1
 
 b & andQ1 --- andQ3
 
-notQ8 & andQ3 --- andQ4
+b --- notB
+
+notQ8 & notB --- andQ4
 
 andQ6 & andQ2 & andQ4 & andQ3 --- orZ
 
