@@ -10,7 +10,13 @@ notQ8 & notC --- andQ6
 
 a --- notA
 
-notQ8 & notA --- Q2and
+notQ8 & notA --- andQ2
+
+d & andQ2 --- andQ7
+
+c & andQ7 --- andQ5
+
+
 
 
 
