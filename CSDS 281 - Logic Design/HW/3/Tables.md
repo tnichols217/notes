@@ -22,22 +22,10 @@ b & andQ1 --- andQ3
 
 andQ8 & andQ3 --- andQ4
 
+andQ6 & andQ2 & andQ4 & andQ3 --- orZ
 
+orZ --- Z
 
-
-
-b --- notb
-a & notb --- andab'
-
-a --- nota
-nota & c --- anda'c
-
-c --- notc
-nota & b & notc --- anda'bc'
-
-andab' & anda'c & anda'bc' --- or1
-
-or1 --- F
 ```
 
 | $A$ | $B$ | $C$ | $D$ | $Z$ |
