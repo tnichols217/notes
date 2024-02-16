@@ -64,6 +64,8 @@ Studied in
 - Artificial Intelligence
 - Systems Programming
 - Theoretical Statistics
+- Hardware Logic Design
+- Algorithms
 
 ## Skills
 
