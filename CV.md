@@ -22,6 +22,22 @@ date created: 2023-09-03 21:58
 > >
 > > Detail-oriented professional with experience in modeling, animating, and texturing 3D models. Praised for meticulousness, punctuality, and technical depth. Interested in the intersection between art and computer assisted design. Also interested in software development, and have experience in API endpoint design and implementation, frontend design, and backend integration with Microsoft Azure, GitHub actions, and Nix CI/CD.
 
+## Skills
+
+### Programming
+
+- Node.js - JS/TS (4 years)
+- Python (4 years)
+- Github Actions CI (4 years)
+- Java (3 years)
+- Nix CI/CD (3 years)
+
+### Art
+
+- 3D Animation
+- Adobe Illustrator
+- Blender
+
 ## Experience
 
 ### 3D Modeler
@@ -66,17 +82,3 @@ Studied in
 - Theoretical Statistics
 - Hardware Logic Design
 - Algorithms
-
-## Skills
-
-Art
-- 3D Animation
-- Adobe Illustrator
-- Blender
-
-Programming
-- Node.js - JS/TS (4 years)
-- Python (4 years)
-- Github Actions CI (4 years)
-- Java (3 years)
-- Nix CI/CD (3 years)
