@@ -64,9 +64,14 @@ Expected graduation in Jul 2027 | Case Western Reserve University - Cleveland, O
 
 ## Skills
 
-
+Art
 - 3D Animation
 - Adobe Illustrator
 - Blender
-- Node.js
-- Nix CI/CD
+
+Programming
+- Node.js - JS/TS (4 years)
+- Python (4 years)
+- Github Actions CI (4 years)
+- Java (3 years)
+- Nix CI/CD (3 years)
