@@ -36,7 +36,7 @@ date created: 2023-09-03 21:58
 - Developed **lighting** effects on 3D scenes within Blender cycles render engine
 - Creative and possesses strong problem solving skills
 
-### IT Technician Intern
+### IT Technician / Programmer Intern
 
 **Aug 2022 - Aug 2023 | Dalat International School | Tanjung Bungah, Penang, Malaysia**
 
@@ -60,11 +60,13 @@ date created: 2023-09-03 21:58
 **Bachelor of Science (B.S.) in Computer Science Candidate**
 Expected graduation in Jul 2027 | Case Western Reserve University - Cleveland, OH, US
 
+
+
 ## Skills
+
 
 - 3D Animation
 - Adobe Illustrator
-- Web Applications
 - Blender
 - Node.js
 - Nix CI/CD

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/3.md",
+                "file": "CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/3.md"
+                "file": "CV.md"
               }
             }
           }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/3.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,10 +266,10 @@
   },
   "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
+    "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/3.pdf",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214214643.png",
-    "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/3/code/module_b.sv",
     "CSDS 281 - Logic Design/HW/3/code/module_d.sv",
     "CSDS 281 - Logic Design/HW/3/code/module_s.sv",
@@ -295,7 +295,6 @@
     "CSDS 281 - Logic Design/HW/3",
     "PHYS 121 - Physics 1/Labs/2/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/2/Lab 2.pdf",
-    "PHYS 121 - Physics 1/Labs/2/PDFsam_merge.pdf",
     "PHYS 121 - Physics 1/Labs/2/VelGraph.png",
     "ENGR 145 - Chemistry of Materials/HW/4.md",
     "PHYS 121 - Physics 1/Labs/2/Lab2.md",
