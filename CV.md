@@ -60,7 +60,10 @@ date created: 2023-09-03 21:58
 **Bachelor of Science (B.S.) in Computer Science Candidate**
 Expected graduation in Jul 2027 | Case Western Reserve University - Cleveland, OH, US
 
-
+Studied in
+- Artificial Intelligence
+- Systems Programming
+- Theoretical Statistics
 
 ## Skills
 
