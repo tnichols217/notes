@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "ce362f19b05c3217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b6c5ebaf85bf906",
             "type": "leaf",
             "state": {
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md"
+                "file": "CV.md"
               }
             }
           }
@@ -208,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,11 +252,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
+    "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
     "AIQS 100/Marji - Persepolis/Untitled",
     "CSDS 302 - Discrete Math/HW/3/Tables.md",
-    "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
     "AIQS 100/Marjane Satrapi - Persepolis",
     "CV.md",
     "CSDS 281 - Logic Design/HW/3.md",
@@ -296,7 +284,6 @@
     "CSDS 281 - Logic Design/HW/3/1.png",
     "CSDS 281 - Logic Design/HW/3/image284.png",
     "CSDS 281 - Logic Design/HW/3/image244.png",
-    "CSDS 281 - Logic Design/HW/3",
     "PHYS 121 - Physics 1/Labs/2/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/2/VelGraph.png",
     "ENGR 145 - Chemistry of Materials/HW/4.md",
