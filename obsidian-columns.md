@@ -454,5 +454,7 @@ digraph {
 ```
 
 ```mermaid
+flowchart LR
 
+a["$a$"] --- b
 ```
