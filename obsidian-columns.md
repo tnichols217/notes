@@ -446,3 +446,13 @@ This setting sets the default span value for a column if it is not explicitly sp
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D0DF7HF)
 
 
+```dot
+digraph {
+	a [label="$\beta$"]
+	a -> b
+}
+```
+
+```mermaid
+
+```
