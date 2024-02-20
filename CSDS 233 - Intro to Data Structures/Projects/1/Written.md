@@ -43,4 +43,12 @@ $f(n)=(\log n)^n+n^4$
 
 ## f
 
-$f(n)= \frac{n!+n^n}{3n}=O(n^{n-1})$
+$f(n)= \frac{n!+n^n}{3n}$
+
+> [!answer]
+> $\frac{n!+n^n}{3n}=O(n^{n-1})$
+
+## g
+
+Show you work by using the definition of big-O and finding values for c and N.
+Reminder f(n) is O(g(n)) — if a positive real number c and positive integer N exist such that f(n) ≤ c × g(n) for all n ≥ N
