@@ -115,5 +115,17 @@ public static int sum1() {
 > 
 > $O(n)$
 
+## b
 
+```java
+public static int sum2() {
+	int sum = 0;
+	for(int i = n; i > 1; i = i/3) {
+		sum = sum + 2;
+	}
+	return sum;
+}
+```
 
+> [!answer]
+> ![[Code#^b]]
