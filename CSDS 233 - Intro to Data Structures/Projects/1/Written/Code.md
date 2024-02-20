@@ -33,7 +33,7 @@ public static int sum3() {
 	for(int i = 0; i < n; i++) {              //n*
 		for(int j = 0; j < n; j++) {          //n*
 			if(i < j) {                       //1/2*
-				for(int k = i; k < j; k++) {  //
+				for(int k = i; k < j; k++) {  //n/2*
 					sum++;                    //1
 				}
 			}
