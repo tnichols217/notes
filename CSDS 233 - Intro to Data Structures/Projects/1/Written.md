@@ -151,4 +151,6 @@ public static int sum3() {
 ```
 
 > [!answer]
+> ![[Code#^c]]
 > 
+> $O(n^3)$
