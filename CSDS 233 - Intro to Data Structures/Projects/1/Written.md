@@ -39,4 +39,8 @@ $f(n)=n+ \frac{n}{2}+ \frac{n}{4}+ ...+\frac{n}{2^n}$
 $f(n)=(\log n)^n+n^4$
 
 > [!answer]
-> $(\log n)^n+n^4$
+> $(\log n)^n+n^4=O((\log n)^n)$
+
+## f
+
+$f(n)=$
