@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md"
+                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md"
               }
             }
           }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
+                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,10 +264,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d984d4b701d6bca9",
+  "active": "ede0eb841e8a35ab",
   "lastOpenFiles": [
-    "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
+    "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CV.md",
     "CSDS 233 - Intro to Data Structures/Projects/1",
     "CSDS 233 - Intro to Data Structures/Projects/Untitled.md",
