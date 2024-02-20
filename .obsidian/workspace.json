@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5.md"
+                "file": "CSDS 302 - Discrete Math/HW/2.md"
               }
             }
           }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5.md",
+                "file": "CSDS 302 - Discrete Math/HW/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,10 +276,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d984d4b701d6bca9",
+  "active": "fe867703b6956830",
   "lastOpenFiles": [
-    "ENGR 145 - Chemistry of Materials/HW/2.md",
     "ENGR 145 - Chemistry of Materials/HW/5.md",
+    "ENGR 145 - Chemistry of Materials/HW/2.md",
     "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
     "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md",
     "CSDS 233 - Intro to Data Structures/Projects/1/Written",
