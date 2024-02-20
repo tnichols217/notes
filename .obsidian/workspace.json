@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV.md"
+                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md"
               }
             }
           }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,12 +254,17 @@
   },
   "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
+    "CV.md",
+    "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
+    "CSDS 233 - Intro to Data Structures/Projects/1",
+    "CSDS 233 - Intro to Data Structures/Projects/Untitled.md",
+    "CSDS 233 - Intro to Data Structures/Projects",
+    "CSDS 233 - Intro to Data Structures",
     "obsidian-columns.md",
     "obsid-readme.md",
     "README.md",
     "CSDS 302 - Discrete Math/HW/4.md",
     "CSDS 302 - Discrete Math/HW/4.pdf",
-    "CV.md",
     "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
     "AIQS 100/Marji - Persepolis/Untitled",
     "CSDS 302 - Discrete Math/HW/3/Tables.md",
@@ -271,9 +276,6 @@
     "CSDS 281 - Logic Design/HW/3/code/module_b.sv",
     "CSDS 281 - Logic Design/HW/3/code/module_d.sv",
     "CSDS 281 - Logic Design/HW/3/code/module_s.sv",
-    "CSDS 281 - Logic Design/HW/3/code/testbench.sv",
-    "CSDS 281 - Logic Design/HW/3/code",
-    "CSDS 281 - Logic Design/HW/attachments",
     "CSDS 281 - Logic Design/HW/3/Tables.md",
     "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
@@ -298,8 +300,6 @@
     "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
     "Private/college/Regular Decision.md",
-    "Private/college/QB Short Answer.md",
-    "Private/college/QB Essay 1 Brainstorm.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
