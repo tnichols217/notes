@@ -84,4 +84,6 @@ $\frac{n^4+1}{n^2}=O(n)$
 > [!answer]
 > False, the asymptotic behavior of $n$ is strictly less than $\frac{n^4+1}{n^2}$
 > 
-> $\lim\limits_{n\to\infty}$
+> $\lim\limits_{n\to\infty} \frac{n}{\frac{n^4+1}{n^2}}$
+> $=\lim\limits_{n\to\infty} \frac{n^3}{n^4+1}$
+> $=\lim\limits_{n\to\infty} \frac{6}{n^4+1}$
