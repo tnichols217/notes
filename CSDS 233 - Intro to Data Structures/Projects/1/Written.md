@@ -60,7 +60,8 @@ $2^{n-1}=O(n)$
 > [!answer]
 > False, the asymptotic behavior of $n$ is strictly less than $2^{n-1}$
 > 
-> $\lim\limits_{n\to\infty} \frac{n}{2^{n-1}}=\lim\limits_{n\to\infty} \frac{1}{2^{n-1}}$
+> $\lim\limits_{n\to\infty} \frac{n}{2^{n-1}}=\lim\limits_{n\to\infty} \frac{1}{2^{n-1}\ln 2}=0$
+> Whilst in order for it to be big Oh, it must be greater than 0.
 
 ### h
 
