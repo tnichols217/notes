@@ -29,4 +29,7 @@ $f(n)=n\log n$
 
 ## d
 
-$f(n)=n+ n$
+$f(n)=n+ \frac{n}{2}+ \frac{n}{4}+ ...+\frac{n}{2^n}$
+
+> [!answer]
+> $f(n)=n+ \frac{n}{2}+ \frac{n}{4}+ ...+\frac{n}{2^n}=O(n)$
