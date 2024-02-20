@@ -18,10 +18,10 @@ public static int sum1() {
 ```java
 public static int sum2() {
 	int sum = 0;                              //1
-	for(int i = n; i > 1; i = i/3) {
-		sum = sum + 2;
+	for(int i = n; i > 1; i = i/3) {          //log_3 n*
+		sum = sum + 2;                        //1
 	}
-	return sum;
+	return sum;                               //1
 }
 ```
 
