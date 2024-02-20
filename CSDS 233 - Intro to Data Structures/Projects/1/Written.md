@@ -68,6 +68,6 @@ $2^{n-1}=O(n)$
 $n(\log n)^3=O(n^{4/3})$
 
 > [!answer]
-> False, no matter how big you made $c$, $\lim_\limits{n\to\infty}cn^{4/3}\not\ge n(\log n)^3$
+> False, the asymptotic behavior of 
 
 ###
