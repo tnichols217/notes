@@ -60,3 +60,9 @@ $2^{n-1}=O(n)$
 > [!answer]
 > False, no matter how big you make $c$, $\lim_\limits{n\to\infty}cn\not\ge2^{n-1}$
 
+### h
+
+$n(\log n)^3=O(n^{4/3})$
+
+> [!answer]
+> 
