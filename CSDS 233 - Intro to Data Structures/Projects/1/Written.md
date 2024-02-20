@@ -70,6 +70,6 @@ $n(\log n)^3=O(n^{4/3})$
 > [!answer]
 > False, the asymptotic behavior of 
 > 
-> $\lim\limits_{n\to\infty} \frac{n^{4/3}}{n(\log n)^3}=\lim\limits_{n\to\infty} \frac{\frac{4}{3}n^{1/3}}{n(\log n)^3}=$
+> $\lim\limits_{n\to\infty} \frac{n^{4/3}}{n(\log n)^3}=\lim\limits_{n\to\infty} \frac{\frac{4}{3}n^{1/3}}{\frac{3}{\ln 10}(\log x)^3+}=$
 
 ###
