@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "b6c2c9c1bf43b6d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian-columns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b6c5ebaf85bf906",
             "type": "leaf",
             "state": {
@@ -116,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian-columns.md"
+                "file": "CV.md"
               }
             }
           }
@@ -208,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian-columns.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,8 +252,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b6c2c9c1bf43b6d8",
+  "active": "d984d4b701d6bca9",
   "lastOpenFiles": [
+    "obsidian-columns.md",
     "obsid-readme.md",
     "README.md",
     "CSDS 302 - Discrete Math/HW/4.md",
@@ -311,7 +300,6 @@
     "Private/college/Regular Decision.md",
     "Private/college/QB Short Answer.md",
     "Private/college/QB Essay 1 Brainstorm.md",
-    "Private/college/QB Essay.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
