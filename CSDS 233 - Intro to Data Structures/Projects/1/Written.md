@@ -60,7 +60,7 @@ $2^{n-1}=O(n)$
 > [!answer]
 > False, the asymptotic behavior of $n$ is strictly less than $2^{n-1}$
 > 
-> 
+> $\lim\limits_{n\to\infty} \frac{n}{2^{n-1}}=\lim\limits_{n\to\infty} \frac{1}{2^{n-1}}$
 
 ### h
 
