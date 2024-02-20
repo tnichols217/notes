@@ -112,4 +112,8 @@ public static int sum1() {
 
 > [!answer]
 > ![[Code#^a]]
+> 
+> $O(n)$
+
+
 
