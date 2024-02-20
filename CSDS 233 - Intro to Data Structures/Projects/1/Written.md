@@ -86,4 +86,27 @@ $\frac{n^4+1}{n^2}=O(n)$
 > 
 > $\lim\limits_{n\to\infty} \frac{n}{\frac{n^4+1}{n^2}}$
 > $=\lim\limits_{n\to\infty} \frac{n^3}{n^4+1}$
-> $=\lim\limits_{n\to\infty} \frac{6}{n^4+1}$
+> $=\lim\limits_{n\to\infty} \frac{6}{24n}$
+> $=0$
+> Whilst in order for it to be big Oh, it must be greater than 0.
+
+# 2
+
+Given the following code, analyze and give the tightest big-Θ bound. Show how you came to your answer by indicating what the big-Θ is for each line.
+
+## a
+
+```java
+public static int sum1() {
+	int sum = 0;
+	for(int i = 0; i < n; i++) {
+		if(sum < n) {
+			for(int j = 0; j < n; j++) {
+				sum++;
+			}
+		}
+	}
+	return sum;
+}
+```
+
