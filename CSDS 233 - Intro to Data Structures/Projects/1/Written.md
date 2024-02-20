@@ -43,4 +43,4 @@ $f(n)=(\log n)^n+n^4$
 
 ## f
 
-$f(n)= \frac{n!+n^n}{3n}$
+$f(n)= \frac{n!+n^n}{3n}=O()$
