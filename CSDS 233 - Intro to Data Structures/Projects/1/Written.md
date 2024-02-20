@@ -18,4 +18,15 @@ $f(n)=3n$
 $f(n)= \frac{\log(n)}{n^2}$
 
 > [!answer]
-> 
+> $\frac{\log(n)}{n^2}=O(1)$
+
+## c
+
+$f(n)=n\log n$
+
+> [!answer]
+> $n\log n=O(n\log n)$
+
+## d
+
+$f(n)=n+ n$
