@@ -82,6 +82,7 @@
   --font-text: var(--font-monospace);
   --font-normal: 450;
   font-weight: var(--font-normal);
+  font-size: var(--code-size);
 }
 
 .titlebar-inner {
@@ -375,10 +376,6 @@ strong em,
 
 .cm-indent {
   font-family: var(--font-monospace)
-}
-
-.cm-s-obsidian .HyperMD-codeblock .cm-indent {
-  font-size: var(--font-text-size)
 }
 
 .cm-s-obsidian div.HyperMD-codeblock-begin-bg, .cm-s-obsidian div.HyperMD-codeblock-bg {
