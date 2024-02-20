@@ -26,3 +26,21 @@ public static int sum2() {
 ```
 
 ^b
+
+```java
+public static int sum3() {
+	int sum = 0;                              
+	for(int i = 0; i < n; i++) {
+		for(int j = 0; j < n; j++) {
+			if(i < j) {
+				for(int k = i; k < j; k++) {
+					sum++;
+				}
+			}
+		}
+	}
+	return sum;
+}
+```
+
+^c
