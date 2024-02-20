@@ -32,4 +32,11 @@ $f(n)=n\log n$
 $f(n)=n+ \frac{n}{2}+ \frac{n}{4}+ ...+\frac{n}{2^n}$
 
 > [!answer]
-> $f(n)=n+ \frac{n}{2}+ \frac{n}{4}+ ...+\frac{n}{2^n}=O(n)$
+> $n+ \frac{n}{2}+ \frac{n}{4}+ ...+\frac{n}{2^n}=O(n)$
+
+## e
+
+$f(n)=(\log n)^n+n^4$
+
+> [!answer]
+> $(\log n)^n+n^4$
