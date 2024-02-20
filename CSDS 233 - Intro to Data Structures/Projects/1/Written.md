@@ -58,7 +58,9 @@ Reminder f(n) is O(g(n)) — if a positive real number c and positive integer N 
 $2^{n-1}=O(n)$
 
 > [!answer]
-> False, no matter how big you make $c$, $\lim_\limits{n\to\infty}cn\not\ge2^{n-1}$
+> False, the asymptotic behavior of $n$ is strictly less than $2^{n-1}$
+> 
+> 
 
 ### h
 
