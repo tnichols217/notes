@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written/Untitled.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "995f04daa955c692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written/Untitled.md"
+                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md"
               }
             }
           }
@@ -208,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written/Untitled.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,10 +276,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d984d4b701d6bca9",
+  "active": "995f04daa955c692",
   "lastOpenFiles": [
     "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
-    "CSDS 233 - Intro to Data Structures/Projects/1/Written/Untitled.md",
+    "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md",
     "CSDS 233 - Intro to Data Structures/Projects/1/Written",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CV.md",

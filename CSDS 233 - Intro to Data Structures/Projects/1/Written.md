@@ -110,19 +110,6 @@ public static int sum1() {
 }
 ```
 
-```java
-public static int sum1() {
-1	int sum = 0;
-1x	for(int i = 0; i < n; i++) {
-1		if(sum < n) {
-nx			for(int j = 0; j < n; j++) {
-1				sum++;
-1			}
-1		}
-1	}
-1	return sum;
-}
-```
-
 > [!answer]
-> 
+> ![[Code#^a]]
+
