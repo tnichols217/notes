@@ -128,6 +128,18 @@
             }
           },
           {
+            "id": "0a7df3a4be7e1cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3dd3efca70ab2115",
             "type": "leaf",
             "state": {
@@ -290,6 +302,9 @@
   },
   "active": "fe867703b6956830",
   "lastOpenFiles": [
+    "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md",
+    "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
+    "CSDS 233 - Intro to Data Structures/Projects/1/Written.pdf",
     "ENGR 145 - Chemistry of Materials/HW/5.md",
     "ENGR 145 - Chemistry of Materials/HW/5.pdf",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221002828.png",
@@ -306,8 +321,6 @@
     "ENGR 145 - Chemistry of Materials/HW/5",
     "CSDS 302 - Discrete Math/HW/2.md",
     "ENGR 145 - Chemistry of Materials/HW/2.md",
-    "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
-    "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md",
     "CSDS 233 - Intro to Data Structures/Projects/1/Written",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CV.md",
@@ -325,7 +338,6 @@
     "CSDS 302 - Discrete Math/HW/3/Tables.md",
     "AIQS 100/Marjane Satrapi - Persepolis",
     "CSDS 281 - Logic Design/HW/3.md",
-    "CSDS 281 - Logic Design/HW/3.pdf",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
     "CSDS 281 - Logic Design/HW/3/Tables.md",
     "CSDS 302 - Discrete Math/HW/3.md",

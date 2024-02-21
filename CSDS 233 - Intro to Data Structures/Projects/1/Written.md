@@ -98,15 +98,15 @@ Given the following code, analyze and give the tightest big-Θ bound. Show how y
 
 ```java
 public static int sum1() {
-	int sum = 0;
-	for(int i = 0; i < n; i++) {
-		if(sum < n) {
-			for(int j = 0; j < n; j++) {
-				sum++;
-			}
-		}
-	}
-	return sum;
+    int sum = 0;
+    for(int i = 0; i < n; i++) {
+        if(sum < n) {
+            for(int j = 0; j < n; j++) {
+                sum++;
+            }
+        }
+    }
+    return sum;
 }
 ```
 
@@ -119,11 +119,11 @@ public static int sum1() {
 
 ```java
 public static int sum2() {
-	int sum = 0;
-	for(int i = n; i > 1; i = i/3) {
-		sum = sum + 2;
-	}
-	return sum;
+    int sum = 0;
+    for(int i = n; i > 1; i = i/3) {
+        sum = sum + 2;
+    }
+    return sum;
 }
 ```
 
@@ -136,17 +136,17 @@ public static int sum2() {
 
 ```java
 public static int sum3() {
-	int sum = 0;
-	for(int i = 0; i < n; i++) {
-		for(int j = 0; j < n; j++) {
-			if(i < j) {
-				for(int k = i; k < j; k++) {
-					sum++;
-				}
-			}
-		}
-	}
-	return sum;
+    int sum = 0;
+    for(int i = 0; i < n; i++) {
+        for(int j = 0; j < n; j++) {
+            if(i < j) {
+                for(int k = i; k < j; k++) {
+                    sum++;
+                }
+            }
+        }
+    }
+    return sum;
 }
 ```
 
