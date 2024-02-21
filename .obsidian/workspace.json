@@ -121,9 +121,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5/Tables.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/5.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5/Tables.md"
+                "file": "ENGR 145 - Chemistry of Materials/HW/5.md"
               }
             }
           }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5/Tables.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,8 +278,8 @@
   },
   "active": "fe867703b6956830",
   "lastOpenFiles": [
-    "ENGR 145 - Chemistry of Materials/HW/5.md",
     "ENGR 145 - Chemistry of Materials/HW/5/Tables.md",
+    "ENGR 145 - Chemistry of Materials/HW/5.md",
     "ENGR 145 - Chemistry of Materials/HW/5",
     "CSDS 302 - Discrete Math/HW/2.md",
     "ENGR 145 - Chemistry of Materials/HW/2.md",
