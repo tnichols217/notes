@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5.md"
+                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md"
               }
             }
           }
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,6 +290,7 @@
   },
   "active": "fe867703b6956830",
   "lastOpenFiles": [
+    "ENGR 145 - Chemistry of Materials/HW/5.md",
     "ENGR 145 - Chemistry of Materials/HW/5.pdf",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221002828.png",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221002811.png",
@@ -301,7 +302,6 @@
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221001614.png",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221001559.png",
     "ENGR 145 - Chemistry of Materials/HW/4.md",
-    "ENGR 145 - Chemistry of Materials/HW/5.md",
     "ENGR 145 - Chemistry of Materials/HW/5/Tables.md",
     "ENGR 145 - Chemistry of Materials/HW/5",
     "CSDS 302 - Discrete Math/HW/2.md",
@@ -327,7 +327,6 @@
     "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/3.pdf",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
-    "CSDS 281 - Logic Design/HW/3/code/module_b.sv",
     "CSDS 281 - Logic Design/HW/3/Tables.md",
     "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
