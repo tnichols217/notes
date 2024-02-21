@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md"
+                "file": "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md"
               }
             }
           }
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,11 +300,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fe867703b6956830",
+  "active": "b67808c7c498bc42",
   "lastOpenFiles": [
-    "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md",
-    "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
-    "CSDS 233 - Intro to Data Structures/Projects/1/Written.pdf",
+    "CSDS 233 - Intro to Data Structures/Projects/2/Written.md",
+    "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
+    "CSDS 233 - Intro to Data Structures/Projects/2/Written.pdf",
     "ENGR 145 - Chemistry of Materials/HW/5.md",
     "ENGR 145 - Chemistry of Materials/HW/5.pdf",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221002828.png",
@@ -321,10 +321,10 @@
     "ENGR 145 - Chemistry of Materials/HW/5",
     "CSDS 302 - Discrete Math/HW/2.md",
     "ENGR 145 - Chemistry of Materials/HW/2.md",
-    "CSDS 233 - Intro to Data Structures/Projects/1/Written",
+    "CSDS 233 - Intro to Data Structures/Projects/2/Written",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CV.md",
-    "CSDS 233 - Intro to Data Structures/Projects/1",
+    "CSDS 233 - Intro to Data Structures/Projects/2",
     "CSDS 233 - Intro to Data Structures/Projects/Untitled.md",
     "CSDS 233 - Intro to Data Structures/Projects",
     "CSDS 233 - Intro to Data Structures",
