@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md"
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md"
               }
             }
           }
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
+                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,10 +300,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "7b6c5ebaf85bf906",
   "lastOpenFiles": [
-    "CSDS 233 - Intro to Data Structures/Projects/2/Written.md",
     "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
+    "CSDS 233 - Intro to Data Structures/Projects/2/Written.md",
     "CSDS 233 - Intro to Data Structures/Projects/2/Written.pdf",
     "ENGR 145 - Chemistry of Materials/HW/5.md",
     "ENGR 145 - Chemistry of Materials/HW/5.pdf",
