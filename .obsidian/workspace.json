@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/5/Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5.md"
+                "file": "ENGR 145 - Chemistry of Materials/HW/5/Tables.md"
               }
             }
           }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/5/Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,8 +278,10 @@
   },
   "active": "fe867703b6956830",
   "lastOpenFiles": [
-    "CSDS 302 - Discrete Math/HW/2.md",
     "ENGR 145 - Chemistry of Materials/HW/5.md",
+    "ENGR 145 - Chemistry of Materials/HW/5/Tables.md",
+    "ENGR 145 - Chemistry of Materials/HW/5",
+    "CSDS 302 - Discrete Math/HW/2.md",
     "ENGR 145 - Chemistry of Materials/HW/2.md",
     "CSDS 233 - Intro to Data Structures/Projects/1/Written.md",
     "CSDS 233 - Intro to Data Structures/Projects/1/Written/Code.md",
@@ -304,7 +306,6 @@
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214214643.png",
     "CSDS 281 - Logic Design/HW/3/code/module_b.sv",
-    "CSDS 281 - Logic Design/HW/3/code/module_d.sv",
     "CSDS 281 - Logic Design/HW/3/Tables.md",
     "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
@@ -321,7 +322,6 @@
     "PHYS 121 - Physics 1/Labs/2/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/2/VelGraph.png",
     "ENGR 145 - Chemistry of Materials/HW/4.md",
-    "PHYS 121 - Physics 1/Labs/2/Lab2.md",
     "PHYS 121 - Physics 1/Labs/2/8i2 IP Fill In The Blank.svg",
     "PHYS 121 - Physics 1/Labs/2/8i2 IP Fill In The Blank.svg.2024_02_13_23_34_21.0.svg",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
