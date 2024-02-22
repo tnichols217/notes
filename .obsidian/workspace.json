@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 310 - Algorithms/3 - Growth of Functions.md",
+                "file": "CSDS 281 - Logic Design/HW/4.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md"
+                "file": "CSDS 281 - Logic Design/HW/4.md"
               }
             }
           }
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+                "file": "CSDS 281 - Logic Design/HW/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,8 +300,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7b6c5ebaf85bf906",
+  "active": "ede0eb841e8a35ab",
   "lastOpenFiles": [
+    "CSDS 281 - Logic Design/HW/3.md",
+    "CSDS 281 - Logic Design/HW/4.md",
+    "CSDS 310 - Algorithms/3 - Growth of Functions.md",
+    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
     "CSDS 233 - Intro to Data Structures/Projects/2/Written.md",
     "CSDS 233 - Intro to Data Structures/Projects/2/Written.pdf",
@@ -322,7 +326,6 @@
     "CSDS 302 - Discrete Math/HW/2.md",
     "ENGR 145 - Chemistry of Materials/HW/2.md",
     "CSDS 233 - Intro to Data Structures/Projects/2/Written",
-    "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CV.md",
     "CSDS 233 - Intro to Data Structures/Projects/2",
     "CSDS 233 - Intro to Data Structures/Projects/Untitled.md",
@@ -337,11 +340,9 @@
     "AIQS 100/Marji - Persepolis/Untitled",
     "CSDS 302 - Discrete Math/HW/3/Tables.md",
     "AIQS 100/Marjane Satrapi - Persepolis",
-    "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
     "CSDS 281 - Logic Design/HW/3/Tables.md",
     "CSDS 302 - Discrete Math/HW/3.md",
-    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "cwru/Plan.md",
     "CSDS 302 - Discrete Math/HW/9.md",
     "CSDS 302 - Discrete Math/HW/8.md",
