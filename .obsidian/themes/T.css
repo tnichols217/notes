@@ -561,6 +561,8 @@ div.markdown-preview-sizer.markdown-preview-section {
 }
 
 div.mermaid > svg g.nodes {
+
+  --text-muted: #FDF7CD;
   & > g[id*='-and'] {
     --logic-symbol: var(--logic_and);
   }
