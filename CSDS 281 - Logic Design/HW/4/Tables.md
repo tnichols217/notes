@@ -117,5 +117,6 @@ c
 a & b --o nand2[---]
 b & c --o nand1[---]
 c & a --o nand3[---]
-nand1 & nand2 &
+nand1 & nand2 & nand3 --- nand4[---]
+nand4 --- F
 ```
