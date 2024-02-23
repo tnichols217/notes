@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b0f95a578363eba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "02e9da2b998bf76d",
@@ -319,7 +330,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ede0eb841e8a35ab",
+  "active": "2b0f95a578363eba",
   "lastOpenFiles": [
     "CSDS 281 - Logic Design/HW/4/Tables.md",
     "CSDS 281 - Logic Design/HW/4.md",
