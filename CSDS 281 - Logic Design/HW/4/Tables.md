@@ -112,5 +112,7 @@ nor3 --- F
 %%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
 flowchart LR
 
-a & b --o []
+b & a --o nand1[---]
+a & c --o nand2[---]
+b & c --o nand3[---]
 ```
