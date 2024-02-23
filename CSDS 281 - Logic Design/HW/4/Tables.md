@@ -81,11 +81,11 @@
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
 flowchart LR
-a ---- nor1[---]
-b ---o nor1
-a ---o nor2[---]
-b & c ---- nor2
-nor1 & nor2 ---o nor3[---]
+a --- nor1[---]
+b --o nor1
+a --o nor2[---]
+b & c --- nor2
+nor1 & nor2 --o nor3[---]
 nor3 --- F
 ```
 ^4a
@@ -109,5 +109,8 @@ nor3 --- F
 ^5a
 
 ```mermaid
+%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
 flowchart LR
+
+a & b --o []
 ```
