@@ -200,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "digraph",
+                "query": "mermaid",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,7 +217,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -320,8 +321,9 @@
   },
   "active": "ede0eb841e8a35ab",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/HW/4/Tables.md",
+    "CSDS 281 - Logic Design/HW/3/Tables.md",
     "CSDS 281 - Logic Design/HW/4.md",
+    "CSDS 281 - Logic Design/HW/4/Tables.md",
     "CSDS 281 - Logic Design/HW/4",
     "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
@@ -360,7 +362,6 @@
     "AIQS 100/Marji - Persepolis/Untitled",
     "CSDS 302 - Discrete Math/HW/3/Tables.md",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
-    "CSDS 281 - Logic Design/HW/3/Tables.md",
     "CSDS 302 - Discrete Math/HW/3.md",
     "cwru/Plan.md",
     "CSDS 302 - Discrete Math/HW/9.md",
