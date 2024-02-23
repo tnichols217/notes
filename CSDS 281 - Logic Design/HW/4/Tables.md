@@ -111,8 +111,11 @@ nor3 --- F
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
 flowchart LR
-
-b & a --o nand1[---]
-a & c --o nand2[---]
-b & c --o nand3[---]
+a
+b
+c
+a & b --o nand2[---]
+b & c --o nand1[---]
+c & a --o nand3[---]
+nand1 & nand2 &
 ```
