@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "02e9da2b998bf76d",
@@ -242,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/4.md"
+                "file": "CSDS 281 - Logic Design/HW/4/Tables.md"
               }
             }
           }
@@ -274,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/4.md",
+                "file": "CSDS 281 - Logic Design/HW/4/Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,10 +329,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2b0f95a578363eba",
+  "active": "98bbba1db42ade8a",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/HW/4/Tables.md",
     "CSDS 281 - Logic Design/HW/4.md",
+    "CSDS 281 - Logic Design/HW/4/Tables.md",
     "CSDS 281 - Logic Design/HW/3/Tables.md",
     "CSDS 281 - Logic Design/HW/4",
     "CSDS 281 - Logic Design/HW/3.md",
