@@ -108,4 +108,6 @@ nor3 --- F
 | 1     | 1   | 0   | 0   | 0   |
 ^5a
 
-
+```mermaid
+flowchart LR
+```
