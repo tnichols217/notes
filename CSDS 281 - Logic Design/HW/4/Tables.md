@@ -120,3 +120,4 @@ c & a --o nand3[---]
 nand1 & nand2 & nand3 --- nand4[---]
 nand4 --- F
 ```
+^5b
