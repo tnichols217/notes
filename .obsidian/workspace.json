@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "287de005a9987c09",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ede0eb841e8a35ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 281 - Logic Design/HW/4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "02e9da2b998bf76d",
         "type": "tabs",
         "children": [
@@ -62,30 +44,6 @@
             }
           },
           {
-            "id": "d984d4b701d6bca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "995f04daa955c692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b6c5ebaf85bf906",
             "type": "leaf",
             "state": {
@@ -96,81 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "98bbba1db42ade8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 281 - Logic Design/HW/4/Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35dc78e9ef10e11a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Essay Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84d73e1b2cbf7d03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe867703b6956830",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a7df3a4be7e1cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3dd3efca70ab2115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,8 +103,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28c69e3aca2b1263",
@@ -231,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/4.md"
+                "file": "cwru/Plan.md"
               }
             }
           }
@@ -263,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/4.md",
+                "file": "cwru/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,21 +204,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ede0eb841e8a35ab",
+  "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
+    "ENGR 145 - Chemistry of Materials/HW/5.md",
+    "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
+    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+    "ENGR 145 - Chemistry of Materials/HW/4.md",
+    "CSDS 281 - Logic Design/HW/4.md",
     "CSDS 281 - Logic Design/HW/4.pdf",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240223222948.png",
     "CSDS 281 - Logic Design/HW/4/Tables.md",
-    "CSDS 281 - Logic Design/HW/4.md",
     "CSDS 281 - Logic Design/HW/3/Tables.md",
     "CSDS 281 - Logic Design/HW/4",
     "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
-    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
-    "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
     "CSDS 233 - Intro to Data Structures/Projects/2/Written.md",
     "CSDS 233 - Intro to Data Structures/Projects/2/Written.pdf",
-    "ENGR 145 - Chemistry of Materials/HW/5.md",
     "ENGR 145 - Chemistry of Materials/HW/5.pdf",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221002828.png",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221002811.png",
@@ -344,7 +230,6 @@
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221001628.png",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221001614.png",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221001559.png",
-    "ENGR 145 - Chemistry of Materials/HW/4.md",
     "ENGR 145 - Chemistry of Materials/HW/5/Tables.md",
     "ENGR 145 - Chemistry of Materials/HW/5",
     "CSDS 302 - Discrete Math/HW/2.md",
@@ -361,7 +246,6 @@
     "CSDS 302 - Discrete Math/HW/4.md",
     "CSDS 302 - Discrete Math/HW/4.pdf",
     "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
-    "AIQS 100/Marji - Persepolis/Untitled",
     "CSDS 302 - Discrete Math/HW/3/Tables.md",
     "CSDS 302 - Discrete Math/HW/3.md",
     "cwru/Plan.md",
