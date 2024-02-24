@@ -561,7 +561,7 @@ div.markdown-preview-sizer.markdown-preview-section {
 }
 
 div.mermaid > svg g.edges {
-  --text-muted: #FDF7CD;
+  --text-muted: var(--color-1);
 }
 div.mermaid > svg g.nodes {
 
