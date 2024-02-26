@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "df4b88ff12d4625a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 281 - Logic Design/HW/4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b6c5ebaf85bf906",
             "type": "leaf",
             "state": {
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/4.md"
+                "file": "PHYS 121 - Physics 1/HW/4/4.md"
               }
             }
           }
@@ -160,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/4.md",
+                "file": "PHYS 121 - Physics 1/HW/4/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,8 +204,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "df4b88ff12d4625a",
+  "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
+    "CSDS 281 - Logic Design/HW/4.md",
     "PHYS 121 - Physics 1/HW/4/4.md",
     "cwru/Plan.md",
     "PHYS 121 - Physics 1/HW/4",
@@ -225,7 +214,6 @@
     "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "ENGR 145 - Chemistry of Materials/HW/4.md",
-    "CSDS 281 - Logic Design/HW/4.md",
     "CSDS 281 - Logic Design/HW/4.pdf",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240223222948.png",
     "CSDS 281 - Logic Design/HW/4/Tables.md",
