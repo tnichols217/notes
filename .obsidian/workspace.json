@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/4/4.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/6.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/4/4.md"
+                "file": "ENGR 145 - Chemistry of Materials/HW/6.md"
               }
             }
           }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/4/4.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,9 +206,10 @@
   },
   "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/HW/4/4.md",
+    "ENGR 145 - Chemistry of Materials/HW/6.md",
     "PHYS 121 - Physics 1/HW/4/4.pdf",
     "CSDS 281 - Logic Design/HW/4.md",
-    "PHYS 121 - Physics 1/HW/4/4.md",
     "cwru/Plan.md",
     "PHYS 121 - Physics 1/HW/4",
     "ENGR 145 - Chemistry of Materials/HW/5.md",
@@ -243,7 +244,6 @@
     "CSDS 233 - Intro to Data Structures/Projects/2",
     "CSDS 233 - Intro to Data Structures/Projects/Untitled.md",
     "CSDS 233 - Intro to Data Structures/Projects",
-    "CSDS 233 - Intro to Data Structures",
     "obsidian-columns.md",
     "obsid-readme.md",
     "README.md",
