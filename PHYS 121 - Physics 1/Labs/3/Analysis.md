@@ -160,7 +160,7 @@ $U_{ki}=\frac{1}{2}kx^2=0$
 
 #### $\delta_{U_{ki}}$
 
-$\delta_{U_{}}$
+$\delta_{U_{ki}}=$
 
 #### $U_{kf}$
 
