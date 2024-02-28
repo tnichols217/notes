@@ -262,7 +262,7 @@ $\delta_\epsilon=\sqrt{\delta_{\epsilon U_{kf}}^2+\delta_{\epsilon U_{gf}}^2}=\s
 $=\sqrt{\left( \frac{0.01}{0.511} \right)^2+\left( \frac{0.006(0.43)}{0.511^2} \right)^2}$
 $=0.02$
 
-$\epsilon=-\pm0.02$
+$\epsilon=-0.16\pm0.02$
 
 # Abstract
 
