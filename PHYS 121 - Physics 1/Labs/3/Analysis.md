@@ -105,7 +105,11 @@ $\Delta E=\frac{d\Delta E}{dd}d$
 $=-0.56(0.345)$
 $=-0.1932$
 
-$\delta_{\Delta E}=$
+$\delta_{\Delta E}=\delta_{\frac{d\Delta E}{dd}}d$
+$=0.002(0.345)$
+$=0.00069$
+
+$\Delta E=-0.1932\pm0.0007$
 
 #### Analytical Conclusion
 
