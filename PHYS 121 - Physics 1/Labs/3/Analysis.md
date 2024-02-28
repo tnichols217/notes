@@ -37,6 +37,10 @@ $W=-0.0330597d$
 
 $\delta_W=\delta_{Wm_p}=\delta_{m_p}gd=0.002943d$
 
+#### Analytical Conclusion
+
+We 
+
 ## Checking energy loss
 
 ### Method
@@ -95,6 +99,8 @@ $W=-0.011\pm0.001~ J$
 $\Delta E=E_f-E_i$
 $=-0.00488-0.01121$
 $=-0.01609$
+
+
 
 # Spring Potential Energy
 
