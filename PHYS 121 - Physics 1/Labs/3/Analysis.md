@@ -308,14 +308,14 @@ We conclude that energy is conserved as our estimated values for friction and ac
 Although we do lose more energy compared to what theoretically should be happening, we deduce that the additional energy loss is due to our imperfect system and measurement techniques, leading to marginally more energy lost overall. Since the number is not drastically inequivalent, we conclude that energy is indeed conserved.
 
 $$
-\begin{align*}
+\begin{align}
 
 \text{Expected energy loss in GPE:}&& \frac{\Delta E}{\Delta y}=-0.033\pm0.003~ \frac{J}{m}\\
 \text{Actual enegy loss in GPE:} && \frac{\Delta E}{\Delta y}=-0.056\pm0.002~ \frac{J}{m}\\
 \\
-\text{Expected energy loss in spring:} &&\Delta E=-0.017\pm0.002~ J\\
-\text{Expected energy loss in spring:} &&\Delta E=-0.017\pm0.002~ J\\
-\text{Energy lost in spring:} && \Delta E=-0.081\pm0.01~ J\\
+\text{Expected friction loss in spring:} &&\Delta E=-0.017\pm0.002~ J\\
+\text{Actual friction loss in spring:} &&\Delta E=-0.029\pm0.001~ J\\
+\text{Total energy lost in spring:} && \Delta E=-0.081\pm0.01~ J\\
 
-\end{align*}
+\end{align}
 $$
