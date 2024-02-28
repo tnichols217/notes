@@ -26,9 +26,9 @@
 | Mean  | 987.74    | 3.37      |
 | STD.  | 10.1      | 0.3       |
 
-## Analysis
+### Analysis
 
-### Finding $W$
+#### Finding $W$
 
 $F_f\approx m_pg$
 $W\approx W_f=F_f\cdot d$
@@ -37,15 +37,15 @@ $W=-0.0330597d$
 
 $\delta_W=\delta_{Wm_p}=\delta_{m_p}gd=0.002943d$
 
-# Checking Gravitational Potential Energy
+## Checking energy loss
 
-## Method
+### Method
 
 - Add 50g of weight to a system that is already in balance
 - Record position, velocity, acceleration
 - Calculate energies and energy loss
 
-## Data
+### Data
 
 | Time    | Distance | Velocity | Acceleration | Kinetic Energy | Potential Energy | Total Energy |
 |---------|----------|----------|--------------|----------------|------------------|--------------|
@@ -74,11 +74,11 @@ $\delta_W=\delta_{Wm_p}=\delta_{m_p}gd=0.002943d$
 | 1.06971 | 0.33     | 0.56816  | 0.48226      | 0.16804        | -0.17277         | -0.00474     |
 | 1.09582 | 0.345    | 0.58104  | 0.50449      | 0.17575        | -0.18063         | -0.00488     |
 
-## Analysis
+### Analysis
 
 ![[EnergyGraph.png]]
 
-### Finding $W$
+#### Finding $W$
 
 $W=-0.0330597d$
 $W=-0.0330597(0.345)$
@@ -90,7 +90,7 @@ $\delta_W=0.001~ J$
 
 $W=-0.011\pm0.001~ J$
 
-### Finding energy loss
+#### Finding energy loss
 
 $\Delta E=E_f-E_i$
 $=-0.00488-0.01121$
