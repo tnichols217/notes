@@ -311,11 +311,13 @@ $$
 \begin{align*}
 
 \text{Expected energy loss in GPE:}\qquad& \frac{\Delta E}{\Delta y}=-0.033\pm0.003~ \frac{J}{m}\\
-\text{Actual enegy loss in GPE:} & \frac{\Delta E}{\Delta y}=-0.056\pm0.002~ \frac{J}{m}\\
+\text{Actual enegy loss in GPE:}\qquad & \frac{\Delta E}{\Delta y}=-0.056\pm0.002~ \frac{J}{m}\\
 \\
-\text{Expected friction loss in spring:} &\Delta E=-0.017\pm0.002~ J\\
-\text{Actual friction loss in spring:} &\Delta E=-0.029\pm0.001~ J\\
-\text{Total energy lost in spring:} & \Delta E=-0.081\pm0.01~ J\\
+\text{Expected friction loss in spring movement:}\qquad &\Delta E=-0.017\pm0.002~ J\\
+\text{Actual friction loss in spring movement:}\qquad &\Delta E=-0.029\pm0.001~ J\\
+\text{Total energy lost:}\qquad & \Delta E=-0.081\pm0.01~ J\\
+\text{Total energy lost:}\qquad & \epsilon=-16\pm2\%
+
 
 \end{align*}
 $$
