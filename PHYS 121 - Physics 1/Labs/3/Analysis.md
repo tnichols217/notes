@@ -26,7 +26,7 @@
 | Mean  | 41.8          |                  |
 | STD.  | 0.6           |                  |
 
-$\text{Unstre}$
+$\text{Unstretched Spring}=93.90~\text{cm}$
 
 ## Method
 
