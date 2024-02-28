@@ -35,7 +35,7 @@ $W=-0.0330597d$
 
 ### Finding $\delta_W$
 
-$\delta_W=\delta_{Wm_p}$
+$\delta_W=\delta_{Wm_p}=\delta_{m_p}gd=$
 
 # Spring Potential Energy
 
