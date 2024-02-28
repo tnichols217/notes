@@ -318,6 +318,9 @@ $$
 \text{Total energy lost:}\qquad & \Delta E=-0.081\pm0.01~ J\\
 \text{Total energy lost:}\qquad & \epsilon=-16\pm2\%
 
-
 \end{align*}
 $$
+
+# Acknoledgements
+Lab Partner: Katherine Chen
+Lab ma
