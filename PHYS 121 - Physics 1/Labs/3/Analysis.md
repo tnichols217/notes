@@ -35,6 +35,10 @@ $W=-0.0330597d$
 
 $\delta_W=\delta_{Wm_p}=\delta_{m_p}gd=0.002943d$
 
+# Checking Gravitational Potential Energy
+
+
+
 # Spring Potential Energy
 
 ## Method
