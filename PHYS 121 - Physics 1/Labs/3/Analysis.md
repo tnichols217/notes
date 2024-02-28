@@ -195,13 +195,13 @@ $U_{gf}=-0.511\pm0.006~ J$
 #### $\Delta E$
 
 $\Delta E=U_{gf}+U_{kf}-U_{gi}-U_{ki}$
-$=0.43-0.511=-0.081$
+$=0.43-0.511=-0.081~ J$
 
 $\delta_{\Delta_E}=\sqrt{\delta_{U_{gf}}^2+\delta_{U_{kf}}^2}$
 $=\sqrt{0.01^2+0.006^2}$
-$=0.01$
+$=0.01~ J$
 
-
+$\Delta E=-0.081\pm0.01~ J$
 
 ### Finding $\epsilon$
 
