@@ -92,19 +92,6 @@ $k=3.13\pm0.04~ \frac{N}{m}$
 
 # Kinetic Energy and friction
 
-At 100g of weight:
-
-| Trial | Max Excursion | Resting Position |
-| ----- | ------------- | ---------------- |
-| 1     | 42.80         | 66.55            |
-| 2     | 42.25         | 66.55            |
-| 3     | 40.35         | 66.55            |
-| 4     | 41.10         | 66.55            |
-| Mean  | 41.8          |                  |
-| STD.  | 0.6           |                  |
-
-$\text{Unstretched Spring}=93.90~\text{cm}$
-
 | Time    | Distance | Velocity | Acceleration | Kinetic Energy | Potential Energy | Total Energy |
 |---------|----------|----------|--------------|----------------|------------------|--------------|
 | 0.1517  | 0        |          |              |                |                  |              |
@@ -214,6 +201,22 @@ $=\sqrt{\left( \frac{0.01}{0.511} \right)^2+\left( \frac{0.006(0.43)}{0.511^2} \
 $=0.02$
 
 $\epsilon=1.84\pm0.02$
+
+# 
+
+At 100g of weight:
+
+| Trial | Max Excursion | Resting Position |
+| ----- | ------------- | ---------------- |
+| 1     | 42.80         | 66.55            |
+| 2     | 42.25         | 66.55            |
+| 3     | 40.35         | 66.55            |
+| 4     | 41.10         | 66.55            |
+| Mean  | 41.8          |                  |
+| STD.  | 0.6           |                  |
+
+$\text{Unstretched Spring}=93.90~\text{cm}$
+
 
 # Abstract
 
