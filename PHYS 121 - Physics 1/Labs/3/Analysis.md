@@ -190,7 +190,7 @@ $=0.006$
 
 $U_{gf}=-0.511\pm0.006~ J$
 
-#### $\epsilon$
+### Finding $\epsilon$
 
 $\epsilon=\frac{\Delta U_k+\Delta U_g}{|\Delta U_g|}$
 $=\frac{0.43-0.511}{0.511}$
