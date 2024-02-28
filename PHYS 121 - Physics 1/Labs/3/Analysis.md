@@ -271,10 +271,11 @@ $=\sqrt{\left( \frac{0.01}{0.511} \right)^2+\left( \frac{0.006(0.43)}{0.511^2} \
 $=0.02$
 
 $\epsilon=-0.16\pm0.02$
+$\epsilon=-16\pm2\%$
 
 #### Analytical Conclusion
 
-
+We experimentally determined that in this system, we lose about 
 
 # Abstract
 
