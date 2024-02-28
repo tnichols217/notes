@@ -90,9 +90,9 @@ $\delta_W=0.001~ J$
 
 $W=-0.011\pm0.001~ J$
 
-#### Finding energy loss
+#### Estimating energy loss
 
-$\Delta E=$
+$\Delta E=E_f-E_i$
 $=-0.00488-0.01121$
 $=-0.01609$
 
