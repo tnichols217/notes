@@ -310,7 +310,7 @@ Although we do lose more energy compared to what theoretically should be happeni
 $$
 \begin{align*}
 
-\text{Expected energy loss}\\frac{\Delta E}{\Delta y}=-0.033\pm0.003
+\text{Expected energy loss}&& \frac{\Delta E}{\Delta y}=-0.033\pm0.003
 
 
 \end{align*}
