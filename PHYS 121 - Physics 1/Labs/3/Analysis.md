@@ -101,7 +101,7 @@ $W=-0.011\pm0.001~ J$
 
 #### Estimating energy loss
 
-$\Delta E=E_f-E_i$
+$\Delta E=\frac{d\Delta E}{d}$
 $=-0.00488-0.01121$
 $=-0.01609$
 
@@ -111,7 +111,9 @@ From our prior estimate of energy lost to friction, we estimate that
 $\Delta E=-0.011\pm0.001~ J$
 
 Experimentally, we have instead determined that we lost around
-$$
+$\Delta E=-0.01609~ J$
+
+We deduced that there is likely more friction in the system due to the 
 
 # Spring Potential Energy
 
