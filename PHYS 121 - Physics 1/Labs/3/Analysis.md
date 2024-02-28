@@ -101,9 +101,11 @@ $W=-0.011\pm0.001~ J$
 
 #### Estimating energy loss
 
-$\Delta E=\frac{d\Delta E}{d}$
-$=-0.00488-0.01121$
-$=-0.01609$
+$\Delta E=\frac{d\Delta E}{dd}d$
+$=-0.56(0.345)$
+$=-0.1932$
+
+$\delta_{\Delta E}=$
 
 #### Analytical Conclusion
 
