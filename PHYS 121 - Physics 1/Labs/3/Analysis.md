@@ -39,7 +39,9 @@ $\delta_W=\delta_{Wm_p}=\delta_{m_p}gd=0.002943d$
 
 ## Method
 
-- Add 50g of weight to th
+- Add 50g of weight to a system that is already in balance
+- Record position, velocity, acceleration
+- Calculate energies and energy loss
 
 ## Data
 
@@ -72,6 +74,8 @@ $\delta_W=\delta_{Wm_p}=\delta_{m_p}gd=0.002943d$
 
 ## Analysis
 
+![[EnergyGraph.png]]
+
 ### Finding $W$
 
 $W=-0.0330597d$
@@ -83,6 +87,9 @@ $\delta_W=0.002943(0.345)$
 $\delta_W=0.001~ J$
 
 $W=-0.011\pm0.001~ J$
+
+### Finding energy loss
+
 
 
 # Spring Potential Energy
