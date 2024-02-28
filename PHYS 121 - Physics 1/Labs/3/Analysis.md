@@ -88,7 +88,7 @@ $=0.04~ \frac{N}{m}$
 
 $k=3.13\pm0.04~ \frac{N}{m}$
 
-# 
+# Kinetic Energy
 
 At 100g of weight:
 
