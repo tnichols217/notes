@@ -185,7 +185,11 @@ $U_{gi}=mgh=0$
 
 #### $\delta_{U_{gi}}$
 
-$\delta_{U_{gi}}=\delta_{U_{gi}h}=$
+$\delta_{U_{gi}}=\delta_{U_{gi}h}=\delta_hmg$
+$=0.006(0.1)(9.81)$
+$=0.006$
+
+$U_{gi}=$
 
 #### $U_{gf}$
 
