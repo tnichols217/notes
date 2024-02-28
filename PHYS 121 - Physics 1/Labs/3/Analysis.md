@@ -198,6 +198,9 @@ $=1.8415$
 
 $\delta_\epsilon=\sqrt{\delta_{\epsilon U_{kf}}^2+\delta_{\epsilon U_{gf}}^2}=\sqrt{\left( \frac{\delta_{U_{kf}}}{|U_{gf}|}\right)^2+\left(-\frac{\delta_{U_{gf}}U_{kf}}{U_{gf}^2} \right)^2}$
 $=\sqrt{\left( \frac{0.01}{0.511} \right)^2+\left( \frac{0.006(0.43)}{0.511^2} \right)^2}$
+$=0.02$
+
+$\epsilon=1.84\pm0.02$
 
 # Abstract
 
