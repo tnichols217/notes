@@ -35,11 +35,9 @@
             "id": "e60b5faf8890d3ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/6.md",
-                "mode": "source",
-                "source": false
+                "file": "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf"
               }
             }
           },
@@ -116,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/6.md"
+                "file": "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf"
               }
             }
           }
@@ -148,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/6.md",
+                "file": "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,13 +202,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
-    "PHYS 121 - Physics 1/Labs/3/SpringGraph.png",
     "PHYS 121 - Physics 1/Labs/3/MassCartData.pdf",
-    "PHYS 121 - Physics 1/Labs/3/EnergyGraph.png",
-    "PHYS 121 - Physics 1/Labs/3/wetransfer_graphs-for-lab-3_2024-02-22_0153.zip",
+    "PHYS 121 - Physics 1/Labs/3/SpringGraph.png",
     "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf",
+    "PHYS 121 - Physics 1/Labs/3/EnergyGraph.png",
+    "ENGR 145 - Chemistry of Materials/HW/6.md",
+    "PHYS 121 - Physics 1/Labs/3/wetransfer_graphs-for-lab-3_2024-02-22_0153.zip",
     "PHYS 121 - Physics 1/Labs/3",
     "ENGR 145 - Chemistry of Materials/HW/6.pdf",
     "ENGR 145 - Chemistry of Materials/HW/6/1b-annotated.png",
@@ -221,7 +220,6 @@
     "ENGR 145 - Chemistry of Materials/HW/6/image143.png",
     "ENGR 145 - Chemistry of Materials/HW/6",
     "PHYS 121 - Physics 1/HW/4/4.md",
-    "ENGR 145 - Chemistry of Materials/HW/6.md",
     "PHYS 121 - Physics 1/HW/4/4.pdf",
     "CSDS 281 - Logic Design/HW/4.md",
     "cwru/Plan.md",
@@ -239,7 +237,6 @@
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CSDS 233 - Intro to Data Structures/Projects/2/Written.md",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221002828.png",
-    "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240221002811.png",
     "ENGR 145 - Chemistry of Materials/HW/5/Tables.md",
     "CSDS 302 - Discrete Math/HW/2.md",
     "ENGR 145 - Chemistry of Materials/HW/2.md",
