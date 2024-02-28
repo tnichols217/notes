@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md",
+                "file": "CSDS 281 - Logic Design/HW/5.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md"
+                "file": "CSDS 281 - Logic Design/HW/5.md"
               }
             }
           }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md",
+                "file": "CSDS 281 - Logic Design/HW/5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,6 +206,12 @@
   },
   "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
+    "CSDS 281 - Logic Design/HW/4.md",
+    "CSDS 281 - Logic Design/HW/5.md",
+    "CSDS 281 - Logic Design/HW/3.md",
+    "CSDS 281 - Logic Design/HW/1.md",
+    "CSDS 281 - Logic Design/HW/2.md",
+    "PHYS 121 - Physics 1/Labs/3/Analysis.md",
     "PHYS 121 - Physics 1/Labs/3/3.pdf",
     "PHYS 121 - Physics 1/Labs/3/PDFsam_merge.pdf",
     "PHYS 121 - Physics 1/Labs/3/Plag.pdf",
@@ -215,7 +221,6 @@
     "PHYS 121 - Physics 1/Labs/3/Analysis.pdf",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/3/Report Cover.png",
-    "PHYS 121 - Physics 1/Labs/3/Analysis.md",
     "cwru/Classes.md",
     "PHYS 121 - Physics 1/Labs/3/EnergyGraph.png",
     "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf",
@@ -223,7 +228,6 @@
     "PHYS 121 - Physics 1/Labs/3/SpringGraph.png",
     "ENGR 145 - Chemistry of Materials/HW/6.md",
     "PHYS 121 - Physics 1/Labs/3/wetransfer_graphs-for-lab-3_2024-02-22_0153.zip",
-    "PHYS 121 - Physics 1/Labs/3",
     "ENGR 145 - Chemistry of Materials/HW/6/1b-annotated.png",
     "ENGR 145 - Chemistry of Materials/HW/6/1b.png",
     "ENGR 145 - Chemistry of Materials/HW/6/1a.png",
@@ -231,7 +235,6 @@
     "ENGR 145 - Chemistry of Materials/HW/6/image145.png",
     "ENGR 145 - Chemistry of Materials/HW/6/image143.png",
     "PHYS 121 - Physics 1/HW/4/4.md",
-    "CSDS 281 - Logic Design/HW/4.md",
     "cwru/Plan.md",
     "ENGR 145 - Chemistry of Materials/HW/5.md",
     "CSDS 233 - Intro to Data Structures/Projects/2/Written/Code.md",
@@ -239,7 +242,6 @@
     "ENGR 145 - Chemistry of Materials/HW/4.md",
     "CSDS 281 - Logic Design/HW/4/Tables.md",
     "CSDS 281 - Logic Design/HW/3/Tables.md",
-    "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 310 - Algorithms/3 - Growth of Functions.md",
     "CSDS 233 - Intro to Data Structures/Projects/2/Written.md",
     "ENGR 145 - Chemistry of Materials/HW/5/Tables.md",
@@ -250,8 +252,6 @@
     "obsidian-columns.md",
     "obsid-readme.md",
     "README.md",
-    "CSDS 302 - Discrete Math/HW/4.md",
-    "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
