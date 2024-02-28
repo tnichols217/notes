@@ -50,6 +50,8 @@ The slope represents: $\frac{d\Delta x}{dm}$
 $mg=k\Delta x$
 $g=k\frac{d\Delta x}{dm}$
 $k=\frac{g}{\frac{d\Delta x}{dm}}$
+$k=\frac{9.81}{3.13}$
+$k=3.134~ \frac{N}{}$
 
 # Gravitational Potential Energy
 
