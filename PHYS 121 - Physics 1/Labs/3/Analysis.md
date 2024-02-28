@@ -105,11 +105,14 @@ $W=-0.011\pm0.001~ J$
 
 #### Estimating energy loss
 
-$\Delta E=\frac{d\Delta E}{dd}d$
+From the graph, our slope is
+$\frac{dE}{dy}=-0.056\pm0.002$
+
+$\Delta E=\frac{d\Delta E}{dy}d$
 $=-0.056(0.345)$
 $=-0.01932~ J$
 
-$\delta_{\Delta E}=\delta_{\frac{d\Delta E}{dd}}d$
+$\delta_{\Delta E}=\delta_{\frac{d\Delta E}{dy}}d$
 $=0.002(0.345)$
 $=0.00069~ J$
 
