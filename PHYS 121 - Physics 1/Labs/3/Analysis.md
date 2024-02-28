@@ -1,3 +1,11 @@
+# Gravitational Potential Energy
+
+## Data
+
+| Trial | $m_c~(g)$ |     |
+| ----- | --------- | --- |
+|       |           |     |
+
 # Spring Potential Energy
 
 ## Data
