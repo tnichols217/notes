@@ -5,7 +5,7 @@
 
 - Ensure Plane is level
 - Gradually add weight until the cart has constant velocity
-- Measure th
+- Measure the mass needed to offset the friction
 
 ## Data
 
