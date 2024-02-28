@@ -173,7 +173,7 @@ $=0.4253~ J$
 
 #### $\delta_{U_{kf}}$
 
-The variance in $x$ ($$) is negligible compared to that of $k$
+The variance in $x$ ($0.006$) is negligible compared to that of $k$ ($0.04$)
 
 $\delta_{U_{kf}}=\delta_{U_{kf}k}=\delta_k\frac{1}{2}x^2$
 $=0.04(0.5)(0.9390-0.418)^2$
