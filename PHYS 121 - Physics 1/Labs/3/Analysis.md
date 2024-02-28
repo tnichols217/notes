@@ -45,7 +45,7 @@ $W=d(-0.0330597\pm0.002943)$
 #### Analytical Conclusion
 
 We estimate the energy lost to friction will be equal to
-$\frac{\Delta E}{\Delta y}=-0.0330597\pm0.002943$
+$\frac{\Delta E}{\Delta y}=-0.033\pm0.003$
 
 Where $\Delta y$ is the distance traveled
 
@@ -304,3 +304,4 @@ We conclude that energy is conserved as our estimated values for friction and ac
 
 Although we do lose more energy compared to what theoretically should be happening, we deduce that the additional energy loss is due to our imperfect system and measurement techniques, leading to marginally more energy lost overall. Since the number is not statistically inequivalent, we conclude that energy is indeed conserved.
 
+$\frac{\Delta E}{\Delta y}=-0.033\pm0.003$
