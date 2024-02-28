@@ -54,19 +54,6 @@ $W=-0.0330597d$
 | 95.0         | 68.25           |
 | 100.0        | 66.50           |
 
-At 100g of weight:
-
-| Trial | Max Excursion | Resting Position |
-| ----- | ------------- | ---------------- |
-| 1     | 42.80         | 66.55            |
-| 2     | 42.25         | 66.55            |
-| 3     | 40.35         | 66.55            |
-| 4     | 41.10         | 66.55            |
-| Mean  | 41.8          |                  |
-| STD.  | 0.6           |                  |
-
-$\text{Unstretched Spring}=93.90~\text{cm}$
-
 ## Analysis
 
 ![[SpringGraph.png]]
@@ -101,6 +88,20 @@ $=0.04~ \frac{N}{m}$
 
 $k=3.13\pm0.04~ \frac{N}{m}$
 
+# 
+
+At 100g of weight:
+
+| Trial | Max Excursion | Resting Position |
+| ----- | ------------- | ---------------- |
+| 1     | 42.80         | 66.55            |
+| 2     | 42.25         | 66.55            |
+| 3     | 40.35         | 66.55            |
+| 4     | 41.10         | 66.55            |
+| Mean  | 41.8          |                  |
+| STD.  | 0.6           |                  |
+
+$\text{Unstretched Spring}=93.90~\text{cm}$
 
 # Abstract
 
