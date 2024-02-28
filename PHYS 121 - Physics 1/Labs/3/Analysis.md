@@ -35,7 +35,7 @@ $W=-0.0330597d$
 
 ### Finding $\delta_W$
 
-$\delta_W=\delta_{Wm_p}=\delta_{m_p}gd=2.943d$
+$\delta_W=\delta_{Wm_p}=\delta_{m_p}gd=0.002943d$
 
 # Spring Potential Energy
 
@@ -146,8 +146,11 @@ $W=-0.0114055965$
 
 ### Finding $\delta_W$
 
-$\delta_W=2.943d$
-$\delta_W=2.943(0.345)$
+$\delta_W=0.002943d$
+$\delta_W=0.002943(0.345)$
+$\delta_W=0.001$
+
+$W=-0.011\pm0.001$
 
 # Abstract
 
