@@ -57,7 +57,8 @@ $k=3.134~ \frac{N}{m}$
 
 ### Finding $\delta_{k}$
 
-
+$mg=k\Delta x$
+$k=\frac{mg}{\De}$
 
 # Gravitational Potential Energy
 
