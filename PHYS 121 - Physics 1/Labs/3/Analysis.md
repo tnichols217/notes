@@ -321,6 +321,11 @@ $$
 \end{align*}
 $$
 
-# Acknoledgements
+# Acknowledgements and info
+- Lab #3
+- 
+
+
 Lab Partner: Katherine Chen
-Lab ma
+Lab Manual: Lab 3 CME PHYS 121
+
