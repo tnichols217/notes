@@ -178,9 +178,13 @@ $=0.04~ \frac{N}{m}$
 
 $k=3.13\pm0.04~ \frac{N}{m}$
 
-## Finding Energy loss in a Spring
+#### Analytical Conclusion
 
-## Data
+
+
+## Finding Energy loss in the Spring
+
+### Data
 
 At 100g of weight:
 
@@ -195,13 +199,13 @@ At 100g of weight:
 
 $\text{Unstretched Spring}=93.90~\text{cm}$
 
-## Analysis
+### Analysis
 
-### Finding Energy Values
+#### Finding Energy Values
 
 In all cases, the uncertainty of the hanging mass is negligible at around $0.00001~kg$ as the other uncertainties are multiple orders of magnitude larger
 
-#### $U_{ki}$
+##### $U_{ki}$
 
 $U_{ki}=\frac{1}{2}kx^2=0~ J$
 
@@ -210,7 +214,7 @@ $=0$
 
 $U_{ki}=0\pm0~ J$
 
-#### $U_{kf}$
+##### $U_{kf}$
 
 $U_{kf}=\frac{1}{2}kx^2$
 $=\frac{1}{2}3.134(0.9390-0.418)^2$
@@ -222,7 +226,7 @@ $=0.01~ J$
 
 $U_{kf}=0.43\pm0.01~ J$
 
-#### $U_{gi}$
+##### $U_{gi}$
 
 $U_{gi}=mgh=0~ J$
 
@@ -231,7 +235,7 @@ $=0$
 
 $U_{gi}=0\pm0~ J$
 
-#### $U_{gf}$
+##### $U_{gf}$
 
 $U_{fg}=mgh$
 $=-0.1(9.81)(0.9390-0.418)$
@@ -243,7 +247,7 @@ $=0.006$
 
 $U_{gf}=-0.511\pm0.006~ J$
 
-#### $\Delta E$
+##### $\Delta E$
 
 $\Delta E=U_{gf}+U_{kf}-U_{gi}-U_{ki}$
 $=0.43-0.511=-0.081~ J$
@@ -254,7 +258,7 @@ $=0.01~ J$
 
 $\Delta E=-0.081\pm0.01~ J$
 
-### Finding $\epsilon$
+#### Finding $\epsilon$
 
 $\epsilon=\frac{\Delta U_k+\Delta U_g}{|\Delta U_g|}$
 $=\frac{0.43-0.511}{0.511}$
@@ -265,6 +269,8 @@ $=\sqrt{\left( \frac{0.01}{0.511} \right)^2+\left( \frac{0.006(0.43)}{0.511^2} \
 $=0.02$
 
 $\epsilon=-0.16\pm0.02$
+
+#### Analytical Conclusion
 
 # Abstract
 
