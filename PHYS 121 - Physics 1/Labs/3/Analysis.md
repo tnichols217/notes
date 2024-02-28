@@ -17,7 +17,7 @@
 | 95.0         | 68.25           |
 | 100.0        | 66.50           |
 
-At 100g of weight
+At 100g of weight:
 
 | Trial | Max Excursion | Resting Position |
 | ----- | ------------- | ---------------- |
