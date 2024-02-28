@@ -33,8 +33,6 @@ $W\approx W_f=F_f\cdot d$
 $=-m_pgd$
 $W=-0.0330597d$
 
-### Finding $\delta_W$
-
 $\delta_W=\delta_{Wm_p}=\delta_{m_p}gd=0.002943d$
 
 # Spring Potential Energy
@@ -79,8 +77,6 @@ $g=k\frac{d\Delta x}{dm}$
 $k=\frac{g}{\frac{d\Delta x}{dm}}$
 $k=\frac{9.81}{3.13}$
 $k=3.134~ \frac{N}{m}$
-
-### Finding $\delta_{k}$
 
 $k=\frac{g}{\frac{d\Delta x}{dm}}$
 
@@ -144,8 +140,6 @@ $W=-0.0330597d$
 $W=-0.0330597(0.345)$
 $W=-0.0114055965~ J$
 
-### Finding $\delta_W$
-
 $\delta_W=0.002943d$
 $\delta_W=0.002943(0.345)$
 $\delta_W=0.001~ J$
@@ -157,8 +151,6 @@ $W=-0.011\pm0.001~ J$
 #### $U_{ki}$
 
 $U_{ki}=\frac{1}{2}kx^2=0~ J$
-
-#### $\delta_{U_{ki}}$
 
 $\delta_{U_{ki}}=\delta_{U_{ki}k}=\delta_k \frac{1}{2}x^2$
 $=0$
@@ -197,6 +189,10 @@ $=0.006(0.1)(9.81)$
 $=0.006$
 
 $U_{gf}=0.511\pm0.006~ J$
+
+#### $\epsilon$
+
+
 
 # Abstract
 
