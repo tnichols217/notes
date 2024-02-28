@@ -1,6 +1,11 @@
 
 # Spring Potential Energy
 
+## Method
+
+- Put a meter stick next to the string, parallel, with numbering visible from the side through the string
+- Measure the tip of the hook of the spring at different weights
+
 ## Data
 
 | Weight ($g$) | Position ($cm$) |
@@ -30,10 +35,11 @@ At 100g of weight:
 
 $\text{Unstretched Spring}=93.90~\text{cm}$
 
-## Method
+## Analysis
 
-- Put a meter stick next to the string, parallel, with numbering visible from the side through the string
-- Measure the tip of the hook of the spring at different weights
+![[SpringGraph.png]]
+
+The 
 
 # Gravitational Potential Energy
 
