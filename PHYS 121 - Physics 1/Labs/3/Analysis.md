@@ -289,3 +289,4 @@ We experimentally determined that in this system, we lose about $\epsilon=-16\pm
 
 # Conclusion
 
+We conclude that energy is conserved as our estimated values for friction and actual energy loss in the first section of this lab line up pretty clos
