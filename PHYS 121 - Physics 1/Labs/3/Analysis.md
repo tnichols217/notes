@@ -275,7 +275,9 @@ $\epsilon=-16\pm2\%$
 
 #### Analytical Conclusion
 
-We experimentally determined that in this system, we lose about 
+We experimentally determined that in this system, we lose about
+$\epsilon=-16\pm2\%$
+of the energy when transferred from Gravitational potential to kinetic and finally to spring potential energy.
 
 # Abstract
 
