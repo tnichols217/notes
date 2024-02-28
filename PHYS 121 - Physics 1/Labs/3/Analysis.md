@@ -194,7 +194,8 @@ $U_{gf}=-0.511\pm0.006~ J$
 
 #### $\Delta E$
 
-$\Delta E=U_{gf}+U_{}$
+$\Delta E=U_{gf}+U_{kf}-U_{gi}-U_{ki}$
+$=0.43-0.511=0.081$
 
 ### Finding $\epsilon$
 
