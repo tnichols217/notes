@@ -156,6 +156,13 @@ $W=-0.011\pm0.001~ J$
 
 #### $U_{ki}$
 
+$U_{ki}=\frac{1}{2}kx^2=0$
+
+#### $U_{kf}$
+
+$U_{kf}=\frac{1}{2}kx^2$
+$\frac{1}{2}3.134(93.)$
+
 # Abstract
 
 The purpose for this lab is to establish whether energy is truly conserved and stored within springs, gravity (height), and motion. 
