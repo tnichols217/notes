@@ -263,6 +263,12 @@ $=0.01~ J$
 
 $\Delta E=-0.081\pm0.01~ J$
 
+##### $W_f$
+
+$W_f=d(-0.0330597\pm0.002943)$
+$W_f=((0.9390-0.418))(-0.0330597\pm0.002943)$
+
+
 #### Finding $\epsilon$
 
 $\epsilon=\frac{\Delta U_k+\Delta U_g}{|\Delta U_g|}$
