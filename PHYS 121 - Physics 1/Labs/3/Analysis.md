@@ -92,7 +92,7 @@ $W=-0.011\pm0.001~ J$
 
 #### Finding energy loss
 
-$\Delta E=E_f-E_i$
+$\Delta E=$
 $=-0.00488-0.01121$
 $=-0.01609$
 
