@@ -45,7 +45,7 @@ $W=d(-0.0330597\pm0.002943)$
 #### Analytical Conclusion
 
 We estimate the energy lost to friction will be equal to
-$\frac{\Delta E}{\Delta y}=-0.033\pm0.003$
+$\frac{\Delta E}{\Delta y}=-0.033\pm0.003~ \frac{J}{m}$
 
 Where $\Delta y$ is the distance traveled
 
@@ -310,9 +310,10 @@ Although we do lose more energy compared to what theoretically should be happeni
 $$
 \begin{align*}
 
-\text{Expected energy loss in GPE:}&& \frac{\Delta E}{\Delta y}=-0.033\pm0.003\\
-\text{Actual enegy loss in GPE:} && \frac{\Delta E}{\Delta y}=-0.056\pm0.002\\
+\text{Expected energy loss in GPE:}&& \frac{\Delta E}{\Delta y}=-0.033\pm0.003~ \frac{J}{m}\\
+\text{Actual enegy loss in GPE:} && \frac{\Delta E}{\Delta y}=-0.056\pm0.002~ \frac{J}{m}\\
 \\
+\text{Expected energy loss in spring:} &&\Delta E=-0.017\pm0.002~ J\\
 \text{Expected energy loss in spring:} &&\Delta E=-0.017\pm0.002~ J\\
 \text{Energy lost in spring:} && \Delta E=-0.081\pm0.01~ J\\
 
