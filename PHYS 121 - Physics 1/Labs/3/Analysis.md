@@ -256,13 +256,13 @@ $\Delta E=-0.081\pm0.01~ J$
 
 $\epsilon=\frac{\Delta U_k+\Delta U_g}{|\Delta U_g|}$
 $=\frac{0.43-0.511}{0.511}$
-$=1.8415$
+$=-0.1585$
 
 $\delta_\epsilon=\sqrt{\delta_{\epsilon U_{kf}}^2+\delta_{\epsilon U_{gf}}^2}=\sqrt{\left( \frac{\delta_{U_{kf}}}{|U_{gf}|}\right)^2+\left(-\frac{\delta_{U_{gf}}U_{kf}}{U_{gf}^2} \right)^2}$
 $=\sqrt{\left( \frac{0.01}{0.511} \right)^2+\left( \frac{0.006(0.43)}{0.511^2} \right)^2}$
 $=0.02$
 
-$\epsilon=1.84\pm0.02$
+$\epsilon=-\pm0.02$
 
 # Abstract
 
