@@ -123,12 +123,14 @@ We deduced that there is likely significantly more friction in the system due to
 
 # Spring Potential Energy
 
-## Method
+## Finding the Spring Constant
+
+### Method
 
 - Put a meter stick next to the string, parallel, with numbering visible from the side through the string
 - Measure the tip of the hook of the spring at different weights
 
-## Data
+### Data
 
 | Weight ($g$) | Position ($cm$) |
 | ------------ | --------------- |
@@ -144,12 +146,12 @@ We deduced that there is likely significantly more friction in the system due to
 | 95.0         | 68.25           |
 | 100.0        | 66.50           |
 
-## Analysis
+### Analysis
 
 ![[SpringGraph.png]]
 *Fig 1a: Position of the end of the spring vs. mass hung upon it*
 
-### Finding $k$
+#### Finding $k$
 
 The force on the spring can be calculated by the amount of mass hanging on it.
 
@@ -176,7 +178,7 @@ $=0.04~ \frac{N}{m}$
 
 $k=3.13\pm0.04~ \frac{N}{m}$
 
-# Kinetic Energy and friction
+## Finding Energy loss in a Spring
 
 ## Data
 
