@@ -19,7 +19,7 @@
 ## Method
 
 - Put a meter stick next to the string, parallel, with numbering visible from the side through the string
-- Measure the tip of the hook of th
+- Measure the tip of the hook of the spring at different weights
 
 # Abstract
 
