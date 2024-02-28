@@ -148,6 +148,8 @@ $W=-0.011\pm0.001~ J$
 
 ### Finding Energy Values
 
+In all cases, the uncertainty of the hanging mass is negligible at around $0.$
+
 #### $U_{ki}$
 
 $U_{ki}=\frac{1}{2}kx^2=0~ J$
