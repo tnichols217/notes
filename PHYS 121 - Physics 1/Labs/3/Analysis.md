@@ -4,7 +4,8 @@
 ## Method
 
 - Ensure Plane is level
-- 
+- Gradually add weight until the cart has constant velocity
+- Measure th
 
 ## Data
 
