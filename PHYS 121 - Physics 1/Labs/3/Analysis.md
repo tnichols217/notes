@@ -64,7 +64,8 @@ The variance in $g$ is negligible compared to that of $\frac{d\Delta x}{dm}$
 Let $s=\frac{d\Delta x}{dm}$
 
 $\delta_k=\delta_{ks}=\delta_{s} \frac{g}{s^2}$
-$=$
+$=0.04\left( \frac{9.81}{3.13^2} \right)$
+$=0.04~ \frac{N}{m}$
 
 # Gravitational Potential Energy
 
