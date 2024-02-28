@@ -1,4 +1,5 @@
 ![[PHYS 121 - Physics 1/Labs/3/Report Cover.png]]
+<div style="page-break-after: always;"></div>
 
 # Abstract
 
