@@ -17,6 +17,15 @@
 | 95.0         | 68.25           |
 | 100.0        | 66.50           |
 
+| Trial | Max Excursion | Resting Position |
+| ----- | ------------- | ---------------- |
+| 1     | 42.80              |                  |
+| 2     |               |                  |
+| 3     |               |                  |
+| 4     |               |                  |
+| Mean  |               |                  |
+| STD.  |               |                  |
+
 ## Method
 
 - Put a meter stick next to the string, parallel, with numbering visible from the side through the string
