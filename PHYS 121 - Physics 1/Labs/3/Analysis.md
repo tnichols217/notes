@@ -103,23 +103,23 @@ $W=-0.011\pm0.001~ J$
 
 $\Delta E=\frac{d\Delta E}{dd}d$
 $=-0.56(0.345)$
-$=-0.1932$
+$=-0.1932~ J$
 
 $\delta_{\Delta E}=\delta_{\frac{d\Delta E}{dd}}d$
 $=0.002(0.345)$
-$=0.00069$
+$=0.00069~ J$
 
-$\Delta E=-0.1932\pm0.0007$
+$\Delta E=-0.1932\pm0.0007~ J$
 
 #### Analytical Conclusion
 
 From our prior estimate of energy lost to friction, we estimate that
 $\Delta E=-0.011\pm0.001~ J$
 
-Experimentally, we have instead determined that we lost around
-$\Delta E=-0.01609~ J$
+Experimentally, we have instead determined that we lost
+$\Delta E=-0.1932\pm0.0007~ J$
 
-We deduced that there is likely more friction in the system due to the 
+We deduced that there is likely significantly more friction in the system due to the non-negligible increase of force on the pulley
 
 # Spring Potential Energy
 
