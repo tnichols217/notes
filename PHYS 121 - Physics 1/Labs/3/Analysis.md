@@ -119,7 +119,7 @@ $\Delta E=-0.011\pm0.001~ J$
 Experimentally, we have instead determined that we lost
 $\Delta E=-0.1932\pm0.0007~ J$
 
-We deduced that there is likely significantly more friction in the system due to the non-negligible increase of force on the pulley
+We deduced that there is likely significantly more friction in the system due to the non-negligible increase of force on the pulley, as well as significantly more air-resistance due to the larger weight.
 
 # Spring Potential Energy
 
