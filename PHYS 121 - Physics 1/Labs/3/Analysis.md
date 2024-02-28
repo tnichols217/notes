@@ -1,7 +1,10 @@
 
 # Gravitational Potential Energy
 
-## 
+## Method
+
+- Ensure Plane is level
+- 
 
 ## Data
 
