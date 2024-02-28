@@ -280,4 +280,4 @@ $\epsilon=-16\pm2\%$
 
 We experimentally determined that in this system, we lose about
 $\epsilon=-16\pm2\%$
-of the energy when transferred from Gravitational potential to kinetic and finally to spring potential energy. We also attribute the loss in energy to air resistance and friction in the system as it is such a small amount.
+of the energy when transferred from Gravitational potential to kinetic and finally to spring potential energy. We also attribute the loss in energy to air resistance and friction in the system as our $\Delta E$ was small enough to attribute to friction for the distance travelled.
