@@ -270,7 +270,7 @@ $W_f=(0.9390-0.418)(-0.0330597\pm0.002943)$
 $W_f=-0.0172241037\pm0.001533303$
 $W_f=-0.017\pm0.002~ J$
 
-$\frac{dW_f}{d\Delta E}\approx$
+$\frac{dW_f}{d\Delta E}\approx20.99\%$
 
 ##### $W_f$ Experimental
 
@@ -279,6 +279,7 @@ $W_f=(0.9390-0.418)(-0.056\pm0.002)$
 $W_f=-0.029176\pm0.001042$
 $W_f=-0.029\pm0.001$
 
+$\frac{dW_f}{d\Delta E}\approx35.80\%$
 
 #### Finding $\epsilon$
 
@@ -299,4 +300,4 @@ We experimentally determined that in this system, we lose about $\epsilon=-16\pm
 
 # Conclusion
 
-We conclude that energy is conserved as our estimated values for friction and actual energy loss in the first section of this lab line up pretty closely. Although they are not within the statistical limits to be likely equal, we determined that the additional energy loss in the first lab was due to additional friction due to the substantial increase in weight, and thus normal force upon the pulley. In the second half of the lab, we determined we lose about $16\pm2\%$ of the energy when the energy is transferring from gravitational potential to kinetic and finally to spring potential. Although roughly $21\%$ of the energy lost could be explained by the same frictional constant we determined in the first part of the lab, we deduce that the remaining energy loss is due to dampening in the spring and other additional frictions due to and even more substantially increased weight from the first lab and a higher tension due to the spring as well. If we use the experimental value for friction from the first lab, we 
+We conclude that energy is conserved as our estimated values for friction and actual energy loss in the first section of this lab line up pretty closely. Although they are not within the statistical limits to be likely equal, we determined that the additional energy loss in the first lab was due to additional friction due to the substantial increase in weight, and thus normal force upon the pulley. In the second half of the lab, we determined we lose about $16\pm2\%$ of the energy when the energy is transferring from gravitational potential to kinetic and finally to spring potential. Although roughly $21\%$ of the energy lost could be explained by the same frictional constant we determined in the first part of the lab, we deduce that the remaining energy loss is due to dampening in the spring and other additional frictions due to and even more substantially increased weight from the first lab and a higher tension due to the spring as well. If we use the experimental value for friction from the first lab, we can estimate energy lost to friction to 
