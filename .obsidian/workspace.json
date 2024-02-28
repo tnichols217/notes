@@ -35,9 +35,11 @@
             "id": "e60b5faf8890d3ff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf"
+                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf"
+                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md"
               }
             }
           }
@@ -146,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf",
+                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,10 +206,11 @@
   },
   "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/Labs/3/EnergyGraph.png",
+    "PHYS 121 - Physics 1/Labs/3/Analysis.md",
+    "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf",
     "PHYS 121 - Physics 1/Labs/3/MassCartData.pdf",
     "PHYS 121 - Physics 1/Labs/3/SpringGraph.png",
-    "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf",
-    "PHYS 121 - Physics 1/Labs/3/EnergyGraph.png",
     "ENGR 145 - Chemistry of Materials/HW/6.md",
     "PHYS 121 - Physics 1/Labs/3/wetransfer_graphs-for-lab-3_2024-02-22_0153.zip",
     "PHYS 121 - Physics 1/Labs/3",
@@ -248,7 +251,6 @@
     "CSDS 302 - Discrete Math/HW/4.md",
     "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
     "CSDS 302 - Discrete Math/HW/3/Tables.md",
-    "CSDS 302 - Discrete Math/HW/3.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
