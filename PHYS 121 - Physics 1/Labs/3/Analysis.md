@@ -142,15 +142,17 @@ $\text{Unstretched Spring}=93.90~\text{cm}$
 
 $W=-0.0330597d$
 $W=-0.0330597(0.345)$
-$W=-0.0114055965$
+$W=-0.0114055965~ J$
 
 ### Finding $\delta_W$
 
 $\delta_W=0.002943d$
 $\delta_W=0.002943(0.345)$
-$\delta_W=0.001$
+$\delta_W=0.001~ J$
 
-$W=-0.011\pm0.001$
+$W=-0.011\pm0.001~ J$
+
+
 
 # Abstract
 
