@@ -86,7 +86,7 @@ Where $d$ is the distance traveled
 ### Analysis
 
 ![[EnergyGraph.png]]
-*Fig 1*
+*Fig 1: Kinetic, Gravitational Potential, and Total Energy vs. distance traveled*
 
 #### Finding $W$
 
@@ -273,6 +273,8 @@ $=0.02$
 $\epsilon=-0.16\pm0.02$
 
 #### Analytical Conclusion
+
+
 
 # Abstract
 
