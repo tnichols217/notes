@@ -45,7 +45,7 @@ The force on the spring can be calculated by the amount of mass hanging on it.
 $F_s=F_g=mg$
 $F_s=k\Delta x$
 
-The slope 
+The slope represents: $\frac{d\Delta x}{dm}$
 
 # Gravitational Potential Energy
 
