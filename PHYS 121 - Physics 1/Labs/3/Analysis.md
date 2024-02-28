@@ -173,8 +173,8 @@ $=0.4253~ J$
 
 #### $\delta_{U_{kf}}$
 
-$\delta_{U_{kf}}=\sqrt{\delta_{U_{kf}k}^2+\delta_{U_{kf}x}^2}=\sqrt{(\delta_k\frac{1}{2}x^2)^2+(\delta_x)^2}$
-$=0.04(0.5)(0.9390-0.418)^2$
+$\delta_{U_{kf}}=\sqrt{\delta_{U_{kf}k}^2+\delta_{U_{kf}x}^2}=\sqrt{(\delta_k\frac{1}{2}x^2)^2+(\delta_xkx)^2}$
+$=\sqrt{(0.04(0.5)(0.9390-0.418)^2)^2+(0.006(3.134)())^2}$
 $=0.005~ J$
 
 $U_{kf}=0.043\pm0.005~ J$
