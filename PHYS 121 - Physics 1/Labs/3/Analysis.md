@@ -59,9 +59,12 @@ $k=3.134~ \frac{N}{m}$
 
 $k=\frac{g}{\frac{d\Delta x}{dm}}$
 
-The variance in $g$ is negligible compared to that of $\Delta x$
+The variance in $g$ is negligible compared to that of $\frac{d\Delta x}{dm}$
 
-$\delta_k=\delta_{k\Delta x}=\delta_{\Delta x}$
+Let $s=\frac{d\Delta x}{dm}$
+
+$\delta_k=\delta_{ks}=\delta_{s} \frac{g}{s^2}$
+$=$
 
 # Gravitational Potential Energy
 
