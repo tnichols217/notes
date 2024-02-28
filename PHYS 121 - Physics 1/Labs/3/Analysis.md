@@ -313,8 +313,8 @@ $$
 \text{Expected energy loss in GPE:}&& \frac{\Delta E}{\Delta y}=-0.033\pm0.003\\
 \text{Actual enegy loss in GPE:} && \frac{\Delta E}{\Delta y}=-0.056\pm0.002\\
 \\
-\text{Expec}
-\text{Energy lost in spring:} &&\Delta E=-0.081\pm0.01~ J
+\text{Expected energy loss in spring:} &&\Delta E=-0.017\pm0.002~ J\\
+\text{Energy lost in spring:} && \Delta E=-0.081\pm0.01~ J\\
 
 \end{align*}
 $$
