@@ -67,6 +67,8 @@ $\delta_k=\delta_{ks}=\delta_{s} \frac{g}{s^2}$
 $=0.04\left( \frac{9.81}{3.13^2} \right)$
 $=0.04~ \frac{N}{m}$
 
+$k=3.13\pm0.04~ \frac{N}{m}$
+
 # Gravitational Potential Energy
 
 ## Data
