@@ -268,7 +268,7 @@ $\Delta E=-0.081\pm0.01~ J$
 $W_f=d(-0.0330597\pm0.002943)$
 $W_f=(0.9390-0.418)(-0.0330597\pm0.002943)$
 $W_f=-0.0172241037\pm0.001533303$
-$W_f=-0.017\pm0.002$
+$W_f=-0.017\pm0.002~ J$
 
 #### Finding $\epsilon$
 
@@ -287,4 +287,4 @@ $\epsilon=-16\pm2\%$
 
 We experimentally determined that in this system, we lose about
 $\epsilon=-16\pm2\%$
-of the energy when transferred from Gravitational potential to kinetic and finally to spring potential energy. We also attribute the loss in energy to air resistance and friction in the system as our $\Delta E$ was small enough to attribute to friction for the distance travelled.
+of the energy when transferred from Gravitational potential to kinetic and finally to spring potential energy. We also attribute the loss in energy mainly to the dampening of the spring, as our expected friction due to the system calculated in the first part of the lab only accounts for a loss of $W_f=-0.017\pm0.002~ J$ while our total energy loss is $\Delta E=-0.081\pm0.01~ J$
