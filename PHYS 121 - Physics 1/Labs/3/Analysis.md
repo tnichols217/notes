@@ -105,7 +105,13 @@ $\Delta E=E_f-E_i$
 $=-0.00488-0.01121$
 $=-0.01609$
 
+#### Analytical Conclusion
 
+From our prior estimate of energy lost to friction, we estimate that
+$\Delta E=-0.011\pm0.001~ J$
+
+Experimentally, we have instead determined that we lost around
+$$
 
 # Spring Potential Energy
 
