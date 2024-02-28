@@ -27,10 +27,9 @@
 ## Analysis
 
 $F_f\approx m_pg$
-$W_f=F_f\cdot d$
+$W\approx W_f=F_f\cdot d$
 $=-m_pgd$
-$=-m_pgd$
-
+$W=-0.0330597d$
 
 # Spring Potential Energy
 
