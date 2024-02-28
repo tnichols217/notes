@@ -322,10 +322,11 @@ $$
 $$
 
 # Acknowledgements and info
-- Lab #3
-- 
 
+- Lab #3
+- 21/02/2024
+- Station 14 Rockefeller 404
+- PHYS 121
 
 Lab Partner: Katherine Chen
 Lab Manual: Lab 3 CME PHYS 121
-
