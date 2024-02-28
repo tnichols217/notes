@@ -45,7 +45,7 @@ $W=d(-0.0330597\pm0.002943)$
 #### Analytical Conclusion
 
 We estimate the energy lost to friction will be equal to
-$W=d(-0.0330597\pm0.002943)$
+$\frac{\Delta E}{\Delta y}=-0.0330597\pm0.002943$
 
 Where $d$ is the distance traveled
 
@@ -286,3 +286,6 @@ $\epsilon=-16\pm2\%$
 #### Analytical Conclusion
 
 We experimentally determined that in this system, we lose about $\epsilon=-16\pm2\%$ of the energy when transferred from Gravitational potential to kinetic and finally to spring potential energy. We also attribute the loss in energy mainly to the dampening of the spring, as our expected friction due to the system calculated in the first part of the lab only accounts for a loss of $W_f=-0.017\pm0.002~ J$ while our total energy loss is $\Delta E=-0.081\pm0.01~ J$
+
+# Conclusion
+
