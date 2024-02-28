@@ -38,11 +38,14 @@ $\text{Unstretched Spring}=93.90~\text{cm}$
 ## Analysis
 
 ![[SpringGraph.png]]
+*Fig 1a: Position of the end of the spring vs. mass hung upon it*
 
 The force on the spring can be calculated by the amount of mass hanging on it.
 
 $F_s=F_g=mg$
 $F_s=k\Delta x$
+
+The slope 
 
 # Gravitational Potential Energy
 
