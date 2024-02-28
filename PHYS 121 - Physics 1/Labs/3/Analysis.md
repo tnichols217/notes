@@ -1,3 +1,6 @@
+# Abstract
+
+The purpose for this lab is to establish whether energy is truly conserved and stored within springs, gravity (height), and motion. 
 
 # Gravitational Potential Energy
 
@@ -277,8 +280,4 @@ $\epsilon=-16\pm2\%$
 
 We experimentally determined that in this system, we lose about
 $\epsilon=-16\pm2\%$
-of the energy when transferred from Gravitational potential to kinetic and finally to spring potential energy.
-
-# Abstract
-
-The purpose for this lab is to establish whether energy is truly conserved and stored within springs, gravity (height), and motion. 
+of the energy when transferred from Gravitational potential to kinetic and finally to spring potential energy. We also attribute the loss in energy to air resistance and friction in the system as it is such a small amount.
