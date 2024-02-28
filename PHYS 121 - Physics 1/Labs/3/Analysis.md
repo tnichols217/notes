@@ -26,10 +26,16 @@
 
 ## Analysis
 
+### Finding $W$
+
 $F_f\approx m_pg$
 $W\approx W_f=F_f\cdot d$
 $=-m_pgd$
 $W=-0.0330597d$
+
+### Finding $\delta_W$
+
+$\delta_W=\delta_{Wm_p}$
 
 # Spring Potential Energy
 
