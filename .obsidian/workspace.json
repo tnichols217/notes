@@ -35,9 +35,11 @@
             "id": "e60b5faf8890d3ff",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png"
+                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png"
+                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md"
               }
             }
           }
@@ -146,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png",
+                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,11 +204,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/Labs/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/3/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/3/Analysis.md",
-    "PHYS 121 - Physics 1/Labs/Report Cover.png",
     "cwru/Classes.md",
     "PHYS 121 - Physics 1/Labs/3/EnergyGraph.png",
     "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf",

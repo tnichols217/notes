@@ -1,4 +1,4 @@
-DisplayPort-1-0# Abstract
+# Abstract
 
 The purpose for this lab is to establish whether energy is truly conserved when stored and transferred between springs, gravity (height), and motion. 
 
