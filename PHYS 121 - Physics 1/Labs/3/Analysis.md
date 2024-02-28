@@ -192,6 +192,10 @@ $=0.006$
 
 $U_{gf}=-0.511\pm0.006~ J$
 
+#### $\Delta E$
+
+$\Delta E=U_{gf}+U_{}$
+
 ### Finding $\epsilon$
 
 $\epsilon=\frac{\Delta U_k+\Delta U_g}{|\Delta U_g|}$
