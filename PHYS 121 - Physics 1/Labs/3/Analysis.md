@@ -1,13 +1,15 @@
 
 # Gravitational Potential Energy
 
-## Method
+## Finding Friction
+
+### Method
 
 - Ensure Plane is level
 - Gradually add weight until the cart has constant velocity
 - Measure the mass needed to offset the friction
 
-## Data
+### Data
 
 | Trial | $m_c~(g)$ | $m_p~(g)$ |
 | ----- | --------- | --------- |
@@ -91,7 +93,8 @@ $W=-0.011\pm0.001~ J$
 ### Finding energy loss
 
 $\Delta E=E_f-E_i$
-$=-0.00488-$
+$=-0.00488-0.01121$
+$=-0.01609$
 
 # Spring Potential Energy
 
