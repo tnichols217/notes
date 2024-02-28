@@ -199,7 +199,9 @@ $=0.43-0.511=-0.081$
 
 $\delta_{\Delta_E}=\sqrt{\delta_{U_{gf}}^2+\delta_{U_{kf}}^2}$
 $=\sqrt{0.01^2+0.006^2}$
-$=$
+$=0.01$
+
+
 
 ### Finding $\epsilon$
 
