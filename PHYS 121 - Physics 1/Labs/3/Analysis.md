@@ -40,6 +40,8 @@ $\text{Unstretched Spring}=93.90~\text{cm}$
 ![[SpringGraph.png]]
 *Fig 1a: Position of the end of the spring vs. mass hung upon it*
 
+### Finding $k$
+
 The force on the spring can be calculated by the amount of mass hanging on it.
 
 $F_s=F_g=mg$
@@ -51,7 +53,11 @@ $mg=k\Delta x$
 $g=k\frac{d\Delta x}{dm}$
 $k=\frac{g}{\frac{d\Delta x}{dm}}$
 $k=\frac{9.81}{3.13}$
-$k=3.134~ \frac{N}{}$
+$k=3.134~ \frac{N}{m}$
+
+### Finding $\delta_{k}$
+
+
 
 # Gravitational Potential Energy
 
