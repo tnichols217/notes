@@ -90,7 +90,8 @@ $W=-0.011\pm0.001~ J$
 
 ### Finding energy loss
 
-
+$\Delta E=E_f-E_i$
+$=-0.00488-$
 
 # Spring Potential Energy
 
