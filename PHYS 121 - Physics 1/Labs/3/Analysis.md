@@ -1,3 +1,5 @@
+![[PHYS 121 - Physics 1/Labs/3/Report Cover.png]]
+
 # Abstract
 
 The purpose for this lab is to establish whether energy is truly conserved when stored and transferred between springs, gravity (height), and motion. 
