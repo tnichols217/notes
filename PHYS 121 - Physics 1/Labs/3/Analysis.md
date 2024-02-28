@@ -308,9 +308,12 @@ We conclude that energy is conserved as our estimated values for friction and ac
 Although we do lose more energy compared to what theoretically should be happening, we deduce that the additional energy loss is due to our imperfect system and measurement techniques, leading to marginally more energy lost overall. Since the number is not drastically inequivalent, we conclude that energy is indeed conserved.
 
 $$
-\begin{aligned}
+\begin{align*}
 
-\end{aligned}
+\text{Expected energy loss}\\frac{\Delta E}{\Delta y}=-0.033\pm0.003
+
+
+\end{align*}
 $$
 
 Expected energy loss: $\frac{\Delta E}{\Delta y}=-0.033\pm0.003$
