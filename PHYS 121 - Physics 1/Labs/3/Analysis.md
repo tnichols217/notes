@@ -196,7 +196,7 @@ $\epsilon=\frac{\Delta U_k+\Delta U_g}{|\Delta U_g|}$
 $=\frac{0.43-0.511}{0.511}$
 $=1.8415$
 
-$\delta_\epsilon=\sqrt{\delta_{\epsilon U_{kf}}^2+\delta_{\epsilon U_{gf}}^2}=\sqrt{\left( \frac{\delta_{U_{kf}}}{} \right)^2+()^2}$
+$\delta_\epsilon=\sqrt{\delta_{\epsilon U_{kf}}^2+\delta_{\epsilon U_{gf}}^2}=\sqrt{\left( \frac{\delta_{U_{kf}}}{|U_{gf}|}\right)^2+()^2}$
 
 
 # Abstract
