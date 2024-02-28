@@ -160,7 +160,7 @@ $U_{ki}=\frac{1}{2}kx^2=0$
 
 #### $\delta_{U_{ki}}$
 
-$\delta_{U_{ki}}=\delta_{U_{ki}k}$
+$\delta_{U_{ki}}=\delta_{U_{ki}k}=\delta_k \frac{1}{2}x^2$
 $=0$
 
 $U_{ki}=0\pm0~ J$
@@ -189,7 +189,7 @@ $\delta_{U_{gi}}=\delta_{U_{gi}h}=\delta_hmg$
 $=0.006(0.1)(9.81)$
 $=0.006$
 
-$U_{gi}=$
+$U_{gi}=0\pm0.006~ J$
 
 #### $U_{gf}$
 
