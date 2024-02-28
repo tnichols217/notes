@@ -106,14 +106,14 @@ $W=-0.011\pm0.001~ J$
 #### Estimating energy loss
 
 $\Delta E=\frac{d\Delta E}{dd}d$
-$=-0.56(0.345)$
-$=-0.1932~ J$
+$=-0.056(0.345)$
+$=-0.01932~ J$
 
 $\delta_{\Delta E}=\delta_{\frac{d\Delta E}{dd}}d$
 $=0.002(0.345)$
 $=0.00069~ J$
 
-$\Delta E=-0.1932\pm0.0007~ J$
+$\Delta E=-0.01932\pm0.0007~ J$
 
 #### Analytical Conclusion
 
@@ -121,7 +121,7 @@ From our prior estimate of energy lost to friction, we estimate that
 $\Delta E=-0.011\pm0.001~ J$
 
 Experimentally, we have instead determined that we lost
-$\Delta E=-0.1932\pm0.0007~ J$
+$\Delta E=-0.01932\pm0.0007~ J$
 
 We deduced that there is likely significantly more friction in the system due to the non-negligible increase of force on the pulley, as well as significantly more air-resistance due to the larger weight.
 
@@ -289,4 +289,4 @@ We experimentally determined that in this system, we lose about $\epsilon=-16\pm
 
 # Conclusion
 
-We conclude that energy is conserved as our estimated values for friction and actual energy loss in the first section of this lab line up pretty clos
+We conclude that energy is conserved as our estimated values for friction and actual energy loss in the first section of this lab line up pretty closely. 
