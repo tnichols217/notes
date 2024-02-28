@@ -86,6 +86,7 @@ Where $d$ is the distance traveled
 ### Analysis
 
 ![[EnergyGraph.png]]
+*Fig 1*
 
 #### Finding $W$
 
@@ -149,7 +150,7 @@ We deduced that there is likely significantly more friction in the system due to
 ### Analysis
 
 ![[SpringGraph.png]]
-*Fig 1a: Position of the end of the spring vs. mass hung upon it*
+*Fig 2: Position of the end of the spring vs. mass hung upon it*
 
 #### Finding $k$
 
@@ -180,7 +181,8 @@ $k=3.13\pm0.04~ \frac{N}{m}$
 
 #### Analytical Conclusion
 
-
+Experimentally, we can deduce that the spring constant for our given spring is
+$k=3.13\pm0.04~ \frac{N}{m}$
 
 ## Finding Energy loss in the Spring
 
