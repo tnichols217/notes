@@ -148,7 +148,7 @@ $W=-0.011\pm0.001~ J$
 
 ### Finding Energy Values
 
-In all cases, the uncertainty of the hanging mass is negligible at around $0.$
+In all cases, the uncertainty of the hanging mass is negligible at around $0.00001~kg$ as the other uncertainties are multiple orders of magnitude larger
 
 #### $U_{ki}$
 
