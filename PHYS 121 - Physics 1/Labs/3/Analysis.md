@@ -16,7 +16,7 @@ $$
 \end{align*}
 $$
 
-Our expected values for energy loss and actual values slightly differed
+Our expected values for energy loss and actual values slightly differed, with the system losing more energy than we expected. We ultimately attributed this to additional unmeasured friction and spring dampening, thus not disproving the theory of energy conservation.
 
 # Gravitational Potential Energy
 
