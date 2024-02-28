@@ -47,6 +47,8 @@ $F_s=k\Delta x$
 
 The slope represents: $\frac{d\Delta x}{dm}$
 
+
+
 # Gravitational Potential Energy
 
 ## Data
