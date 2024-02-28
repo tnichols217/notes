@@ -37,9 +37,14 @@ $W=-0.0330597d$
 
 $\delta_W=\delta_{Wm_p}=\delta_{m_p}gd=0.002943d$
 
+$W=d(-0.0330597\pm0.002943)$
+
 #### Analytical Conclusion
 
-We 
+We estimate the energy lost to friction will be equal to
+$W=d(-0.0330597\pm0.002943)$
+
+Where $d$ is the distance traveled
 
 ## Checking energy loss
 
