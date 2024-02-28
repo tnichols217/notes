@@ -58,7 +58,11 @@ $k=3.134~ \frac{N}{m}$
 ### Finding $\delta_{k}$
 
 $mg=k\Delta x$
-$k=\frac{mg}{\De}$
+$k=\frac{mg}{\Delta x}$
+
+The variance in $m$ is negligible compared to that of $\Delta x$
+
+$\delta_k=\delta_{k\Delta x}=$
 
 # Gravitational Potential Energy
 
