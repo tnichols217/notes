@@ -47,7 +47,7 @@ $W=d(-0.0330597\pm0.002943)$
 We estimate the energy lost to friction will be equal to
 $\frac{\Delta E}{\Delta y}=-0.0330597\pm0.002943$
 
-Where $d$ is the distance traveled
+Where $\Delta y$ is the distance traveled
 
 ## Checking energy loss
 
