@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/5.md",
+                "file": "AIQS 100/Nora Krug - Belonging/Reading Response.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/5.md"
+                "file": "AIQS 100/Nora Krug - Belonging/Reading Response.md"
               }
             }
           }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/5.md",
+                "file": "AIQS 100/Nora Krug - Belonging/Reading Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,8 +206,11 @@
   },
   "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/HW/4.md",
+    "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
+    "AIQS 100/Nora Krug - Belonging/Reading Response.md",
     "CSDS 281 - Logic Design/HW/5.md",
+    "AIQS 100/Nora Krug - Belonging",
+    "CSDS 281 - Logic Design/HW/4.md",
     "CSDS 281 - Logic Design/HW/5.pdf",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240228195851.png",
     "CSDS 281 - Logic Design/HW/3.md",
@@ -226,7 +229,6 @@
     "cwru/Classes.md",
     "PHYS 121 - Physics 1/Labs/3/EnergyGraph.png",
     "PHYS 121 - Physics 1/Labs/3/LAB3CME.pdf",
-    "PHYS 121 - Physics 1/Labs/3/MassCartData.pdf",
     "PHYS 121 - Physics 1/Labs/3/SpringGraph.png",
     "ENGR 145 - Chemistry of Materials/HW/6.md",
     "ENGR 145 - Chemistry of Materials/HW/6/1b-annotated.png",
@@ -250,7 +252,6 @@
     "CV.md",
     "CSDS 233 - Intro to Data Structures/Projects/Untitled.md",
     "obsidian-columns.md",
-    "obsid-readme.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
