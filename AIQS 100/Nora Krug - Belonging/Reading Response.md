@@ -3,4 +3,4 @@ Please post your 300-word reading response to Nora Krug's _Belonging_ in which y
 2) identify two examples that support this particular theme
 3) express your critical stance or opinion on this theme.
 
-Nora Krug's *Belonging*, much like its title, explores the meaning and evolution of her own belonging and homeland as an effect of WWII. In the very first chapter, she already mentions **Heimat** for the first time, including a definition on its very own page — emphasizing its importance. The page prior, she immediately brings in an air of confusion around the word "heimat". She 
+Nora Krug's *Belonging*, much like its title, explores the meaning and evolution of her own belonging and homeland as an effect of WWII. In the very first chapter, she already mentions **Heimat** for the first time, including a definition on its very own page — emphasizing its importance. The page prior, she immediately brings in an air of confusion around the word "heimat". Krug claims, "We never learned about what happened in out own hometown. We never learned the lyrics to our national anthem. We never learned old folk songs. We struggled to understand the meaning of HEIMAT."
