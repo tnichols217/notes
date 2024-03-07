@@ -10,4 +10,4 @@ What conflicts, challenges, and tensions inform our memoirists’ sense of ident
 - Identity within these memoirists is highly mendelian — inherited from their parents and society, especially in wartime ideology — but also highly volatile and heavily polarized by society on beliefs that run contrary to normal.
 
 - Satrapi was heavily polarized by her multiple understandings in western and eastern ideologies
-- Bui was conflicted at her own family's understanding of history versus the common west
+- Bui was conflicted at her own family's understanding of history versus the common western conception and history
