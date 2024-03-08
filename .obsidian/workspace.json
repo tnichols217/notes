@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Outlining.md",
+                "file": "CSDS 281 - Logic Design/HW/6.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Outlining.md"
+                "file": "CSDS 281 - Logic Design/HW/6.md"
               }
             }
           }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Outlining.md",
+                "file": "CSDS 281 - Logic Design/HW/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,8 +206,10 @@
   },
   "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
-    "PHYS 121 - Physics 1/HW/5/5.md",
+    "CSDS 281 - Logic Design/HW/5.md",
+    "CSDS 281 - Logic Design/HW/6.md",
     "AIQS 100/Argumentative Paper/Outlining.md",
+    "PHYS 121 - Physics 1/HW/5/5.md",
     "AIQS 100/Argumentative Paper",
     "PHYS 121 - Physics 1/HW/5/5.pdf",
     "PHYS 121 - Physics 1/HW/5/images/5.svg",
@@ -231,7 +233,6 @@
     "PHYS 121 - Physics 1/HW/5/attachments/Pasted image 20240303171443.png",
     "AIQS 100/Nora Krug - Belonging/Reading Response.md",
     "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
-    "CSDS 281 - Logic Design/HW/5.md",
     "CSDS 281 - Logic Design/HW/4.md",
     "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/1.md",
@@ -251,7 +252,6 @@
     "ENGR 145 - Chemistry of Materials/HW/5/Tables.md",
     "CSDS 302 - Discrete Math/HW/2.md",
     "ENGR 145 - Chemistry of Materials/HW/2.md",
-    "CV.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
