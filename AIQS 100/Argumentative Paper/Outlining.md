@@ -16,4 +16,7 @@ What conflicts, challenges, and tensions inform our memoirists’ sense of ident
 ## Sources
 
 Marjane Satrapi’s Persepolis
+
+- "I was"
+
 Thi Bui’s The Best We Could Do
