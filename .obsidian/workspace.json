@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Draft.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Draft.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
       }
     ]
   },
-  "active": "e60b5faf8890d3ff",
+  "active": "240f3ae82765b2b7",
   "lastOpenFiles": [
     "AIQS 100/Argumentative Paper/Outlining.md",
     "AIQS 100/Argumentative Paper/Draft.md",
