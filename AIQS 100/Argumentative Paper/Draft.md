@@ -1,1 +1,1 @@
-In both Marjane Satrapi's *Persepolis* and Thi Bui's *The Best We Could Do*, their change in identity throughout their stories is a key theme that is strongly influenced by multiple factors within their lives 
+In both Marjane Satrapi's *Persepolis* and Thi Bui's *The Best We Could Do*, their change in identity throughout their stories is a key theme that is strongly influenced by multiple factors within their lives. 
