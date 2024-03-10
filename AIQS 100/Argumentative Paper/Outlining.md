@@ -17,6 +17,6 @@ What conflicts, challenges, and tensions inform our memoirists’ sense of ident
 
 Marjane Satrapi’s Persepolis
 
-- "I was"
+- "I was born with religion. At the age of six I was already sure I was the last prophet. This was a few years before the revolution."
 
 Thi Bui’s The Best We Could Do
