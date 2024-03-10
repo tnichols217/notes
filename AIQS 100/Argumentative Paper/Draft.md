@@ -1,1 +1,1 @@
-In **
+In both Marjane Satrapi's *Persepolis* and Thi Bui's *The Best We Could Do*, identity is a key 
