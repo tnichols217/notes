@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Outlining.md"
+                "file": "AIQS 100/Argumentative Paper/Draft.md"
               }
             }
           }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Outlining.md",
+                "file": "AIQS 100/Argumentative Paper/Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,11 +241,11 @@
       }
     ]
   },
-  "active": "7621f976ae6d5d85",
+  "active": "e60b5faf8890d3ff",
   "lastOpenFiles": [
+    "AIQS 100/Argumentative Paper/Outlining.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "AIQS 100/Argumentative Paper/Draft.md",
-    "AIQS 100/Argumentative Paper/Outlining.md",
     "CSDS 281 - Logic Design/HW/6.md",
     "CSDS 281 - Logic Design/HW/6.pdf",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240307193109.png",
