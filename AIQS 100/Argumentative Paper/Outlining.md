@@ -11,3 +11,9 @@ What conflicts, challenges, and tensions inform our memoirists’ sense of ident
 
 - Satrapi was heavily polarized by her multiple understandings in western and eastern ideologies
 - Bui was conflicted at her own family's understanding of history versus the common western conception and history
+
+## Sources
+
+Marjane Satrapi’s Persepolis
+Thi Bui’s The Best We Could Do
+Nora Krug’s Belonging
