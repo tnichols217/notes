@@ -13,11 +13,14 @@ What conflicts, challenges, and tensions inform our memoirists’ sense of ident
 - Satrapi was heavily polarized by her multiple understandings in western and eastern ideologies
 - Bui was conflicted at her own family's understanding of history versus the common western conception and history
 
-## Sources
+## Ideas / Sources
 
 Marjane Satrapi’s Persepolis
 
-- "I was born with religion. At the age of six I was already sure I was the last prophet. This was a few years before the revolution."
-- "I wanted to be justice, love, and the wrath of Goa all in one. ... My faith was not unshakable."
+- Ideas
+	- Fight between western and eastern ideologies
+- Sources
+	- "I was born with religion. At the age of six I was already sure I was the last prophet. This was a few years before the revolution."
+	- "I wanted to be justice, love, and the wrath of Goa all in one. ... My faith was not unshakable."
 
 Thi Bui’s The Best We Could Do
