@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e245ad6e5a44d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Draft.md"
+                "file": "CV.md"
               }
             }
           }
@@ -160,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Draft.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,50 +228,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "c2060e3313d5062e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6d6537e3c59fdf30",
-        "type": "window",
-        "children": [
-          {
-            "id": "b51ead4d4daa204c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e60b5faf8890d3ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AIQS 100/Argumentative Paper/Draft.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 352,
-        "y": 32,
-        "width": 1355,
-        "height": 1030,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e60b5faf8890d3ff",
+  "active": "9e245ad6e5a44d6f",
   "lastOpenFiles": [
+    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
+    "AIQS 100/Argumentative Paper/Draft.md",
     "AIQS 100/Argumentative Paper/Argumentative Draft.pdf",
     "AIQS 100/Argumentative Paper/Draft.pdf",
-    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "AIQS 100/Argumentative Paper/Outlining.md",
-    "AIQS 100/Argumentative Paper/Draft.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CSDS 281 - Logic Design/HW/6.md",
     "CSDS 281 - Logic Design/HW/6.pdf",
@@ -283,7 +258,6 @@
     "cwru/Classes.md",
     "PHYS 121 - Physics 1/HW/5/images/1a.png.kra~",
     "PHYS 121 - Physics 1/HW/5/images/1a.png~",
-    "PHYS 121 - Physics 1/HW/5/images/1a.png.kra",
     "AIQS 100/Nora Krug - Belonging/Reading Response.md",
     "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
     "CSDS 281 - Logic Design/HW/4.md",
