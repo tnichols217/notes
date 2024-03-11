@@ -11,5 +11,5 @@
 > 
 > In the very last chapter of Bui's memoir, she finally realizes that identity isn't plainly inherited, but is formed and chosen. She chooses to compare her previous confusion with her newfound resolution: "How much of ME is my own, and how much is stamped into my blood and bone, predestined? I used to imagine that history had infused my parents' lives with the dust of a cataclysmic explosion. ... That being my father's child, I, too, was a product of war and being my mother's child, could never measure up to her. But maybe being their child simply means that I will always feel the weight of their past. ... At least I no longer feel the need to reclaim a HOMELAND. I understand enough of Vietnam's history now to know that the ground beneath my parents' feet had always been shifting so that by the time I was born, Vietnam was not my country at all." Bui explains that she does not need to come from one definitive place, but can be a mix and match of multiple factors in her development, partially Vietnamese, but never from Vietnam. 
 > 
-> 
+> Satrapi, on the other hand, begins to realize her identity earlier in her memoir. Before leaving Austria to come back to Iran, she 
 
