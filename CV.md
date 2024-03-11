@@ -20,7 +20,7 @@ date created: 2023-09-03 21:58
 > >
 > > ## Career Object
 > >
-> > Detail-oriented professional with experience in software development, API endpoint design and implementation, AI training and frontend design. Deep understanding in backend integration with Microsoft Azure, GitHub actions, and Nix CI/CD. Also interested in modeling, animating, and texturing 3D models. Praised for meticulousness, punctuality, and technical depth. Excels at the intersection between art and computer assisted design.
+> > Detail-oriented professional with experience in software development, API endpoint design and implementation, AI training and frontend design. Deep understanding in backend integration with Microsoft Azure, GitHub actions, and Nix CI/CD. Modeling, Animating, and Texturing 3D models for . Praised for meticulousness, punctuality, and technical depth. Excels at the intersection between art and computer assisted design.
 
 ## Skills
 
