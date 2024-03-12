@@ -67,7 +67,12 @@ date created: 2023-09-03 21:58
 ## Achievements
 
 - Questbridge full-ride scholar
-- 
+- Obsidian plugins for PKM
+	- obsidian-columns
+	- obsidian-function-plot
+	- obsidian-molecule-renderer
+	- obsidian-external-import
+- Nix
 
 ## Experience
 
