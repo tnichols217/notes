@@ -75,7 +75,7 @@ date created: 2023-09-03 21:58
 - Utilized **physics simulations** to animate clothes, smoke, softbodies, and destruction
 - Retopologized complex models for **mesh optimization** and proper edge flow
 - Highly experienced at **generative geometry** and textures using Blender modifiers, geometry nodes, and shader nodes
-- Developed **lighting** effects on 3D scenes within Blender cycles render engine
+- **Developed lighting effects** on 3D scenes within Blender cycles render engine
 - Creative and possesses strong problem solving skills
 
 ### IT Technician / Programmer Intern
@@ -84,15 +84,15 @@ date created: 2023-09-03 21:58
 
 - **Developed backend and frontend software** for identification services including UX design in Aurelia, backend implementation in C#, .NET, Azure functions, and SQL.
 - **Developed inventory management systems** for all equipment within several organization's physical and network environments
-- In depth knowledge with **Unifi** network management software to manage and maintain a private network
+- In depth knowledge of **Unifi** network management software to manage and maintain a private network
 
 ### Audio Visual Technician
 
 **Aug 2020 - Aug 2023 | Penang Bible Church | Georgetown, Penang, Malaysia**
 
 - **Custom designed an AV system** within the restrictions of a space, needs, and budget
-- **Developed preventative measures** to maintain audiovisual systems in order to reduce breakdowns or malfunctions
-- Orchestrated **livestreams** and live audio processing for events
+- **Developed preventative measures** to maintain audiovisual systems to reduce breakdowns or malfunctions
+- **Orchestrated livestreams** and live audio processing for events
 - **Constructed custom cables** for connecting components within an AV system
 
 ## Education
