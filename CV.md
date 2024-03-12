@@ -93,7 +93,7 @@ date created: 2023-09-03 21:58
 - **Custom designed an AV system** within the restrictions of a space, needs, and budget
 - **Developed preventative measures** to maintain audiovisual systems to reduce breakdowns or malfunctions
 - **Orchestrated livestreams** and live audio processing for events
-- **Designed custom cables** for streamlining connections between components within an AV system
+- **Designed custom cables** for streamlining connections within an AV system
 
 ## Education
 
