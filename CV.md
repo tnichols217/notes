@@ -32,6 +32,9 @@ date created: 2023-09-03 21:58
 - Java (3 years)
 - Nix CI/CD (3 years)
 - Documentation - MD/HTML (2 years)
+- C#
+- .NET
+- Azure
 
 ### System Administration
 
@@ -66,7 +69,7 @@ date created: 2023-09-03 21:58
 
 - **Developed backend and frontend software** for identification services including UX design in Aurelia, backend implementation in C#, .NET, Azure functions, and SQL.
 - **Developed inventory management systems** for all equipment within several organization's physical and network environments
-- Well versed with **Unifi** network management software to manage and maintain a private network
+- In depth knowledge with **Unifi** network management software to manage and maintain a private network
 
 ### Audio Visual Technician
 
