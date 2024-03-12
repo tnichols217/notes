@@ -94,7 +94,6 @@ date created: 2023-09-03 21:58
 - Retopologized complex models for **mesh optimization** and proper edge flow
 - Highly experienced at **generative geometry** and textures using Blender modifiers, geometry nodes, and shader nodes
 - **Developed lighting effects** on 3D scenes within Blender cycles render engine
-- Creative and possesses strong problem solving skills
 
 ### IT Technician / Programmer Intern
 
@@ -127,3 +126,11 @@ Studied in
 
 **High School Diploma with Summa Cum Laude**
 Graduated Jun 2023 | Dalat International School - Penang, Malaysia
+
+Studied in
+- AP Computer Science
+- AP 3D Art and Design
+- AP Statistics
+- AP Calc BC
+- AP Language and Literature
+- 
