@@ -20,7 +20,7 @@ date created: 2023-09-03 21:58
 > >
 > > ## Career Object
 > >
-> > Detail-oriented professional with experience in software development, API endpoint design and implementation, AI training and frontend design. Deep understanding in backend integration with Microsoft Azure, GitHub actions, and Nix CI/CD. Extensive experience in modeling, animating, and texturing 3D models for commercial purposes. Praised for meticulousness, punctuality, and technical depth. Excels at the integration of computer programming and art.
+> > Detail-oriented professional with experience in software development, API endpoint design and implementation, AI training and frontend design. Deep understanding in backend integration with Microsoft Azure, GitHub actions, and Nix CI/CD. Extensive experience in modeling, animating, and texturing 3D models for commercial purposes. Praised for creative problem-solving, meticulousness, punctuality, and technical depth. Excels at the integration of computer programming and art.
 
 ## Skills
 
@@ -41,7 +41,8 @@ date created: 2023-09-03 21:58
 - Unifi (1 year)
 - Microsoft Server (1 year)
 - Linux (7 years)
-- Docker / Podman (5 year)
+- Docker / Podman (5 years)
+- 
 
 ### Art
 
@@ -49,7 +50,6 @@ date created: 2023-09-03 21:58
 - Adobe Illustrator / Photoshop
 - GIMP / Inkscape
 - PBR/metalness workflow
-- 
 
 ## Experience
 
