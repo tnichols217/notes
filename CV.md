@@ -68,11 +68,13 @@ date created: 2023-09-03 21:58
 
 - Questbridge full-ride scholar
 - Obsidian plugins for PKM
-	- obsidian-columns
-	- obsidian-function-plot
-	- obsidian-molecule-renderer
-	- obsidian-external-import
-- Nix
+	- tnichols217/obsidian-columns
+	- tnichols217/obsidian-function-plot
+	- tnichols217/obsidian-molecule-renderer
+	- tnichols217/obsidian-external-import
+- NixOS as a workflow
+	- tnichols217/nixos-config
+- 
 
 ## Experience
 
