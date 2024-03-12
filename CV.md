@@ -125,4 +125,5 @@ Studied in
 - Hardware Logic Design
 - Algorithms
 
-Graduated
+**High School Diploma with Summa Cum Laude**
+Graduated Jun 2023 | Dalat International School - Penang, Malaysia
