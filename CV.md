@@ -86,11 +86,10 @@ date created: 2023-09-03 21:58
 
 **Aug 2020 - Aug 2023 | Penang Bible Church | Georgetown, Penang, Malaysia**
 
-- **Constructed custom cables** for connecting components within an AV system
-- Developed and implemented **preventative measuresmaintenance** procedures on audiovisual systems in order to reduce breakdowns or malfunctions
 - **Designed and implemented an AV system** from scratch to suit a space, needs, and budget
+- Developed **preventative measures** to maintain audiovisual systems in order to reduce breakdowns or malfunctions
 - Ran **livestreams** and live audio processing for live events
-- Wrote and ran **routine checks** and repairs to an AV system
+- **Constructed custom cables** for connecting components within an AV system
 
 ## Education
 
