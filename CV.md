@@ -66,7 +66,8 @@ date created: 2023-09-03 21:58
 
 ## Achievements
 
-
+- Questbridge full-ride scholar
+- 
 
 ## Experience
 
