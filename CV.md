@@ -38,6 +38,7 @@ date created: 2023-09-03 21:58
 - HTML / CSS
 - Java
 - Python
+- Data Analysis
 
 ### System Administration
 
@@ -63,7 +64,6 @@ date created: 2023-09-03 21:58
 - Working on a team
 - Microsoft Excel / Powerpoint / Word
 - Problem solving
-- Ability 
 
 ## Achievements
 
