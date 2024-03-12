@@ -63,6 +63,7 @@ date created: 2023-09-03 21:58
 - Working on a team
 - Microsoft Excel / Powerpoint / Word
 - Problem solving
+- Ability 
 
 ## Achievements
 
@@ -72,7 +73,7 @@ date created: 2023-09-03 21:58
 	- tnichols217/obsidian-function-plot
 	- tnichols217/obsidian-molecule-renderer
 	- tnichols217/obsidian-external-import
-- NixOS as a workflow
+- Nix / NixOS as a workflow
 	- tnichols217/nixos-config
 - Minigames
 	- Multiplayer Orthello server
