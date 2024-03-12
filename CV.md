@@ -35,6 +35,9 @@ date created: 2023-09-03 21:58
 - C#
 - .NET
 - Azure
+- HTML / CSS
+- Java
+- Python
 
 ### System Administration
 
@@ -54,7 +57,8 @@ date created: 2023-09-03 21:58
 ### Additional Skills
 
 - Working on a team
-- 
+- Microsoft Excel / Powerpoint / Word
+- Problem solving
 
 ## Experience
 
