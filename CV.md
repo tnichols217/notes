@@ -66,7 +66,7 @@ date created: 2023-09-03 21:58
 
 ## Achievements
 
-- Questbridge full-ride scholar
+- Questbridge full-ride scholar to Computer Science program at Case Western Reserve University School of Engineering
 - Obsidian plugins for PKM
 	- tnichols217/obsidian-columns
 	- tnichols217/obsidian-function-plot
