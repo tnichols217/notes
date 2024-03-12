@@ -46,9 +46,9 @@ date created: 2023-09-03 21:58
 - Microsoft Server (1 year)
 - Linux (7 years)
 - Docker / Podman (5 years)
-- Docker compose
+- Docker compose (5 years)
 - Kubernetes / Docker Swarm
-- Nix
+- Nix (4 years)
 - Systemd
 - QEMU
 
@@ -124,3 +124,5 @@ Studied in
 - Theoretical Statistics
 - Hardware Logic Design
 - Algorithms
+
+Graduated
