@@ -74,7 +74,9 @@ date created: 2023-09-03 21:58
 	- tnichols217/obsidian-external-import
 - NixOS as a workflow
 	- tnichols217/nixos-config
-- 
+- Minigames
+	- Multiplayer Orthello server
+	- Multiplayer multidimensional Chess server
 
 ## Experience
 
