@@ -64,6 +64,10 @@ date created: 2023-09-03 21:58
 - Microsoft Excel / Powerpoint / Word
 - Problem solving
 
+## Achievements
+
+
+
 ## Experience
 
 ### 3D Modeler
