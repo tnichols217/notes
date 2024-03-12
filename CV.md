@@ -59,7 +59,7 @@ date created: 2023-09-03 21:58
 
 **Aug 2022 - Aug 2023 | Dalat International School | Tanjung Bungah, Penang, Malaysia**
 
-- **Developed backend and frontend software** for identification services including UX design, Aurelia, Azure, Azure functions, and SQL.
+- **Developed backend and frontend software** for identification services including UX design in Aurelia, backend implementation in C#, .NET, Azure functions, and SQL.
 - **Maintained inventory records** for all IT equipment within the organization's network environment
 - Installed and configured computer systems, including operating systems, applications, and peripheral device drivers
 - Utilized **Unifi** network management software to find and fix network errors
