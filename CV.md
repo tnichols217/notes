@@ -45,8 +45,11 @@ date created: 2023-09-03 21:58
 - Microsoft Server (1 year)
 - Linux (7 years)
 - Docker / Podman (5 years)
+- Docker compose
+- Kubernetes / Docker Swarm
 - Nix
 - Systemd
+- QEMU
 
 ### Art
 
