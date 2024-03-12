@@ -33,6 +33,11 @@ date created: 2023-09-03 21:58
 - Nix CI/CD (3 years)
 - Documentation - MD/HTML (2 years)
 
+### System Administration
+
+- Unifi (1 year)
+- 
+
 ### Art
 
 - 3D Animation in Blender
