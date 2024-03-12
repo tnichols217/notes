@@ -77,6 +77,9 @@ date created: 2023-09-03 21:58
 - Minigames
 	- Multiplayer Orthello server
 	- Multiplayer multidimensional Chess server
+- AI
+	- Flower categorizer
+	- A\* search engine
 
 ## Experience
 
