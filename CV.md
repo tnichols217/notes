@@ -39,7 +39,9 @@ date created: 2023-09-03 21:58
 ### System Administration
 
 - Unifi (1 year)
-- 
+- Microsoft Server (1 year)
+- Linux (7 years)
+- Docker / Podman (5 year)
 
 ### Art
 
