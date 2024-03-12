@@ -56,7 +56,7 @@ date created: 2023-09-03 21:58
 - 3D Animation in Blender
 - Adobe Illustrator / Photoshop
 - GIMP / Inkscape
-- PBR/metalness workflow
+- PBR / metalness workflow
 
 ### Additional Skills
 
