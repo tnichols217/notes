@@ -51,6 +51,11 @@ date created: 2023-09-03 21:58
 - GIMP / Inkscape
 - PBR/metalness workflow
 
+### Additional Skills
+
+- Working on a team
+- 
+
 ## Experience
 
 ### 3D Modeler
