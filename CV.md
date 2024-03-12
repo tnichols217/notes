@@ -134,4 +134,3 @@ Studied in
 - AP Calc BC
 - AP Language and Literature
 - AP Biology
-- AP 
