@@ -35,9 +35,11 @@ date created: 2023-09-03 21:58
 
 ### Art
 
-- 3D Animation
-- Adobe Illustrator
-- Blender
+- 3D Animation in Blender
+- Adobe Illustrator / Photoshop
+- GIMP / Inkscape
+- PBR/metalness workflow
+- 
 
 ## Experience
 
