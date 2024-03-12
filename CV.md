@@ -91,7 +91,7 @@ date created: 2023-09-03 21:58
 **Aug 2020 - Aug 2023 | Penang Bible Church | Georgetown, Penang, Malaysia**
 
 - **Custom designed an AV system** within the restrictions of a space, needs, and budget
-- Developed **preventative measures** to maintain audiovisual systems in order to reduce breakdowns or malfunctions
+- **Developed preventative measures** to maintain audiovisual systems in order to reduce breakdowns or malfunctions
 - Orchestrated **livestreams** and live audio processing for events
 - **Constructed custom cables** for connecting components within an AV system
 
