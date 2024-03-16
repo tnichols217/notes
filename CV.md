@@ -135,9 +135,10 @@ Aug 2019 - Jun 2023 |  Penang, Malaysia
 GPA: 3.8642
 
 Studied in
-- AP Computer Science
-- AP 3D Art and Design
-- AP Statistics
-- AP Calc BC
+- 5: AP Computer Science A
+- 5: AP Computer Science Principles
+- 5: AP 3D Art and Design
+- 5: AP Statistics
+- 5: AP Calc BC
 - AP Language and Literature
 - AP Biology
