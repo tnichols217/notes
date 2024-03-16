@@ -118,7 +118,8 @@ date created: 2023-09-03 21:58
 **Bachelor of Science (B.S.) in Computer Science Candidate**
 Aug 2023 - May 2027 |  Cleveland, OH, US
 GPA 3.789
-- Questbridge scholar, University 
+- Questbridge scholar
+- University merit-based scholar
 
 Studied in
 - Artificial Intelligence
