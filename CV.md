@@ -24,7 +24,17 @@ date created: 2023-09-03 21:58
 ## Skills
 
 > [!col]
->> [!]
+>> [!col-md]
+>> - Node.js - JS/TS (4 years)
+>
+>> [!col-md]
+>> b
+>
+>> [!col-md]
+>> c
+>
+>> [!col-md]
+>> d
 
 ### Programming
 
