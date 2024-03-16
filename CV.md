@@ -87,6 +87,8 @@ date created: 2023-09-03 21:58
 
 **Nov 2022 - Aug 2023 | Sandm. Creative Agency | Georgetown, Penang, Malaysia**
 
+- Utilized **GIMP, Inkscape, Illustrator, Photoshop**
+	- **Create**
 - Utilized **Blender**
 	- **Modeled** hard surfaces including products, environments, packaging, and buildings
 	- **Sculpted** detailed natural shapes whilst maintaining a low poly count
