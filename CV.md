@@ -95,7 +95,7 @@ date created: 2023-09-03 21:58
 	- Utilized **physics simulations** to animate clothes, smoke, softbodies, and destruction
 	- Retopologized models to be **game and animation ready**
 	- Highly experienced at **generative geometry**, textures, and lighting
-- Led 75% 50-100% of 3D design and modelling for the company
+- Led over 50% of 3D design and modelling projects for the company
 
 ### IT Technician / Programmer Intern
 
@@ -110,7 +110,7 @@ date created: 2023-09-03 21:58
 **Aug 2020 - Aug 2023 | Penang Bible Church | Georgetown, Penang, Malaysia**
 
 - **Custom designed an AV system** within the restrictions of a space, needs, and budget
-- **Developed preventative measures** to maintain audiovisual systems to reduce breakdowns or malfunctions
+- **Developed preventative measures** to maintain audiovisual systems to reduce breakdowns or malfunctions by over 65%
 - **Orchestrated livestreams** and live audio processing for events
 - **Designed custom cables** for streamlining connections within an AV system
 
