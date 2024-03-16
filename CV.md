@@ -23,6 +23,9 @@ date created: 2023-09-03 21:58
 
 ## Skills
 
+> [!col]
+>> [!]
+
 ### Programming
 
 - Node.js - JS/TS (4 years)
@@ -31,13 +34,12 @@ date created: 2023-09-03 21:58
 - Java (3 years)
 - Nix CI/CD (3 years)
 - Documentation - MD/HTML (2 years)
-- C#
-- .NET
-- Azure
-- HTML / CSS
-- Java
-- Python
-- Data Analysis
+- C# (4 years)
+- .NET (1 year)
+- Azure (1 year)
+- HTML / CSS (4 years)
+- Java (3 years)
+- Python (4 years)
 
 ### System Administration
 
