@@ -139,6 +139,9 @@ Studied in
 - 5: AP Computer Science Principles
 - 5: AP 3D Art and Design
 - 5: AP Statistics
-- 5: AP Calc BC
-- AP Language and Literature
-- AP Biology
+- 5: AP Calculus BC
+- 5: AP Biology
+- 5: AP Physics I
+- 4: AP Music Theory
+- 3: AP Language and Composition
+- 3: AP Literature and Composition
