@@ -87,7 +87,8 @@ date created: 2023-09-03 21:58
 
 **Nov 2022 - Aug 2023 | Sandm. Creative Agency | Georgetown, Penang, Malaysia**
 
-- **Modeled** hard surfaces in Blender including products, environments, packaging, and buildings
+- Utilized **Blender**
+	- **Modeled** hard surfaces including products, environments, packaging, and buildings
 - **Sculpted** detailed natural shapes whilst maintaining a low poly count
 - Utilized **physics simulations** to animate clothes, smoke, softbodies, and destruction
 - Retopologized complex models for **mesh optimization** and proper edge flow
