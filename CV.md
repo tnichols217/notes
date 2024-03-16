@@ -14,7 +14,6 @@ date created: 2023-09-03 21:58
 > > <teb99@pm.me>
 > > Cleveland, OH 11447
 > > 01/02/2006
-> > Malaysian
 >
 > > [!col-md-2]
 > >
