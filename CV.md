@@ -95,7 +95,7 @@ date created: 2023-09-03 21:58
 	- Utilized **physics simulations** to animate clothes, smoke, softbodies, and destruction
 	- Retopologized models to be **game and animation ready**
 	- Highly experienced at **generative geometry**, textures, and lighting
-- Led all 3D 
+- Led 75% 50-100% of 3D design and modelling for the company
 
 ### IT Technician / Programmer Intern
 
