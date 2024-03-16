@@ -91,9 +91,8 @@ date created: 2023-09-03 21:58
 	- **Modeled** hard surfaces including products, environments, packaging, and buildings
 	- **Sculpted** detailed natural shapes whilst maintaining a low poly count
 	- Utilized **physics simulations** to animate clothes, smoke, softbodies, and destruction
-	- Created **game and animation ready** models Retopologized complex models for **mesh optimization** and proper edge flow
-- Highly experienced at **generative geometry** and textures using Blender modifiers, geometry nodes, and shader nodes
-- **Developed lighting effects** on 3D scenes within Blender cycles render engine
+	- Retopologized models to be **game and animation ready**
+	- Highly experienced at **generative geometry**, textures, and lighting
 
 ### IT Technician / Programmer Intern
 
