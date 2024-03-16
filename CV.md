@@ -64,6 +64,10 @@ date created: 2023-09-03 21:58
 
 ### Open Source contributor
 
+Contributed to
+- NixOS/nixpkgs
+- obsidian-columns (creator)
+- 
 
 ### 3D Modeler
 
