@@ -66,7 +66,6 @@ date created: 2023-09-03 21:58
 
 ## Achievements
 
-- Questbridge full-ride scholar to Computer Science program at Case Western Reserve University School of Engineering
 - Obsidian plugins for PKM
 	- tnichols217/obsidian-columns
 	- tnichols217/obsidian-function-plot
@@ -89,7 +88,7 @@ date created: 2023-09-03 21:58
 
 - Utilized **GIMP, Inkscape, Illustrator, Photoshop**
 	- **Created textures** for 3D models
-	- Generate
+	- **Generated** bump, metalness, emission maps
 - Utilized **Blender**
 	- **Modeled** hard surfaces including products, environments, packaging, and buildings
 	- **Sculpted** detailed natural shapes whilst maintaining a low poly count
