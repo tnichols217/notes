@@ -113,10 +113,10 @@ date created: 2023-09-03 21:58
 
 ## Education
 
-## 
+### Case Western Reserve University
 
 **Bachelor of Science (B.S.) in Computer Science Candidate**
-Aug 2023 - Jul 2027 | Case Western Reserve University - Cleveland, OH, US
+Aug 2023 - May 2027 |  Cleveland, OH, US
 
 Studied in
 - Artificial Intelligence
@@ -125,8 +125,10 @@ Studied in
 - Hardware Logic Design
 - Algorithms
 
+### Dalat International School
+
 **High School Diploma with Summa Cum Laude**
-Aug 2019 - Jun 2023 | Dalat International School - Penang, Malaysia
+Aug 2019 - Jun 2023 |  Penang, Malaysia
 
 Studied in
 - AP Computer Science
