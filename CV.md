@@ -62,13 +62,6 @@ date created: 2023-09-03 21:58
 
 ## Personal Experience
 
-### Open Source contributor
-
-Contributed to
-- NixOS/nixpkgs
-- obsidian-columns (creator)
-- 
-
 ### 3D Modeler
 
 **Nov 2022 - Aug 2023 | Sandm. Creative Agency | Georgetown, Penang, Malaysia**
@@ -100,6 +93,13 @@ Contributed to
 - **Developed preventative measures** to maintain audiovisual systems to reduce breakdowns or malfunctions by over 65%
 - **Orchestrated livestreams** and live audio processing for events
 - **Designed custom cables** for streamlining connections within an AV system
+
+### Open Source contributor
+
+Contributed to
+- NixOS/nixpkgs
+- tnichols217/obsidian-columns (creator)
+- denolehov/obsidian-git
 
 ## Education
 
