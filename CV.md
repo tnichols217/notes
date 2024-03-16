@@ -132,6 +132,7 @@ Studied in
 
 **High School Diploma with Summa Cum Laude**
 Aug 2019 - Jun 2023 |  Penang, Malaysia
+GPA: 3.8642
 
 Studied in
 - AP Computer Science
