@@ -25,10 +25,19 @@ date created: 2023-09-03 21:58
 
 > [!col]
 >> [!col-md]
->> - Node.js - JS/TS (4 years)
+>> 4 years
+>> - Node.js
+>> - JS/TS
+>> - Github Actions
+>> - Java
+>> - C#
+>> - HTML
+>> - CSS
+>> - Python
 >
 >> [!col-md]
->> b
+>> 5+ years
+>> - 
 >
 >> [!col-md]
 >> c
