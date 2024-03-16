@@ -25,19 +25,25 @@ date created: 2023-09-03 21:58
 
 > [!col]
 >> [!col-md]
+>> 5+ years
+>> - Linux
+>> - Docker
+>> - Podman
+>> - D. Compose
+>> - Systemd
+>> - 
+>
+>> [!col-md]
 >> 4 years
 >> - Node.js
 >> - JS/TS
 >> - Github Actions
 >> - Java
+>> - Nix
 >> - C#
 >> - HTML
 >> - CSS
 >> - Python
->
->> [!col-md]
->> 5+ years
->> - 
 >
 >> [!col-md]
 >> c
@@ -47,18 +53,9 @@ date created: 2023-09-03 21:58
 
 ### Programming
 
-- Node.js - JS/TS (4 years)
-- Python (4 years)
-- Github Actions CI (4 years)
-- Java (3 years)
-- Nix CI/CD (3 years)
 - Documentation - MD/HTML (2 years)
-- C# (4 years)
 - .NET (1 year)
 - Azure (1 year)
-- HTML / CSS (4 years)
-- Java (3 years)
-- Python (4 years)
 
 ### System Administration
 
