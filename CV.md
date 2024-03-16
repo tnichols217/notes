@@ -31,6 +31,9 @@ date created: 2023-09-03 21:58
 >> - Podman
 >> - Docker Compose
 >> - Systemd
+>> - Excel
+>> - Word
+>> - Powerpoint
 >
 >> [!col-md]
 >> 4 years
@@ -57,13 +60,10 @@ date created: 2023-09-03 21:58
 >> - Ubiquiti Unifi
 >> - Docker Swarm
 
-### Additional Skills
-
-- Working on a team
-- Microsoft Excel / Powerpoint / Word
-- Problem solving
-
 ## Personal Experience
+
+### Open Source contributor
+
 
 ### 3D Modeler
 
