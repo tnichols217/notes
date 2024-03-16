@@ -82,7 +82,7 @@ date created: 2023-09-03 21:58
 	- Flower categorizer
 	- A\* search engine
 
-## Experience
+## Personal Experience
 
 ### 3D Modeler
 
