@@ -31,7 +31,6 @@ date created: 2023-09-03 21:58
 >> - Podman
 >> - D. Compose
 >> - Systemd
->> - 
 >
 >> [!col-md]
 >> 4 years
@@ -46,10 +45,14 @@ date created: 2023-09-03 21:58
 >> - Python
 >
 >> [!col-md]
->> c
+>> 2 years
+>> - MD Docs
+>> - QEMU
 >
 >> [!col-md]
->> d
+>> 1 year
+>> - .NET
+>> - Azyy
 
 ### Programming
 
@@ -61,13 +64,7 @@ date created: 2023-09-03 21:58
 
 - Ubiquiti Unifi (1 year)
 - Microsoft Server (1 year)
-- Linux (7 years)
-- Docker / Podman (5 years)
-- Docker compose (5 years)
 - Kubernetes / Docker Swarm (1 year)
-- Nix (4 years)
-- Systemd (5 years)
-- QEMU (2 years)
 
 ### Art
 
