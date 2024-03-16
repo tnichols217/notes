@@ -41,15 +41,15 @@ date created: 2023-09-03 21:58
 
 ### System Administration
 
-- Unifi (1 year)
+- Ubiquiti Unifi (1 year)
 - Microsoft Server (1 year)
 - Linux (7 years)
 - Docker / Podman (5 years)
 - Docker compose (5 years)
-- Kubernetes / Docker Swarm
+- Kubernetes / Docker Swarm (1 year)
 - Nix (4 years)
-- Systemd
-- QEMU
+- Systemd (5 years)
+- QEMU (2 years)
 
 ### Art
 
