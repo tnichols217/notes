@@ -113,6 +113,8 @@ date created: 2023-09-03 21:58
 
 ## Education
 
+## 
+
 **Bachelor of Science (B.S.) in Computer Science Candidate**
 Aug 2023 - Jul 2027 | Case Western Reserve University - Cleveland, OH, US
 
