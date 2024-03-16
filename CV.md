@@ -117,6 +117,8 @@ date created: 2023-09-03 21:58
 
 **Bachelor of Science (B.S.) in Computer Science Candidate**
 Aug 2023 - May 2027 |  Cleveland, OH, US
+GPA 3.789
+
 
 Studied in
 - Artificial Intelligence
