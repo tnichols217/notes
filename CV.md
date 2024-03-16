@@ -29,7 +29,7 @@ date created: 2023-09-03 21:58
 >> - Linux
 >> - Docker
 >> - Podman
->> - D. Compose
+>> - Docker Compose
 >> - Systemd
 >
 >> [!col-md]
@@ -52,26 +52,10 @@ date created: 2023-09-03 21:58
 >> [!col-md]
 >> 1 year
 >> - .NET
->> - Azyy
-
-### Programming
-
-- Documentation - MD/HTML (2 years)
-- .NET (1 year)
-- Azure (1 year)
-
-### System Administration
-
-- Ubiquiti Unifi (1 year)
-- Microsoft Server (1 year)
-- Kubernetes / Docker Swarm (1 year)
-
-### Art
-
-- 3D Animation in Blender
-- Adobe Illustrator / Photoshop
-- GIMP / Inkscape
-- PBR / metalness workflow
+>> - Azure
+>> - Microsoft Server
+>> - Ubiquiti Unifi
+>> - Docker Swarm
 
 ### Additional Skills
 
