@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/5.md",
+                "file": "PHYS 121 - Physics 1/HW/6/6.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/5.md"
+                "file": "PHYS 121 - Physics 1/HW/6/6.md"
               }
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/5.md",
+                "file": "PHYS 121 - Physics 1/HW/6/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,13 +242,15 @@
   },
   "active": "e4254f573248f5fc",
   "lastOpenFiles": [
+    "CSDS 302 - Discrete Math/HW/5.md",
+    "PHYS 121 - Physics 1/HW/6/6.md",
+    "PHYS 121 - Physics 1/HW/6",
     "CSDS 302 - Discrete Math/HW/5.pdf",
     "CSDS 281 - Logic Design/HW/4.md",
     "CV.md",
     "CSDS 281 - Logic Design/HW/4/Tables.md",
     "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/6.md",
-    "CSDS 302 - Discrete Math/HW/5.md",
     "CSDS 302 - Discrete Math/HW/4.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CSDS 302 - Discrete Math/HW/6.md",
@@ -277,8 +279,6 @@
     "PHYS 121 - Physics 1/HW/5/images/2a.kra",
     "PHYS 121 - Physics 1/HW/5/images/1a.png",
     "cwru/Classes.md",
-    "PHYS 121 - Physics 1/HW/5/images/1a.png.kra~",
-    "PHYS 121 - Physics 1/HW/5/images/1a.png~",
     "AIQS 100/Nora Krug - Belonging/Reading Response.md",
     "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
     "CSDS 281 - Logic Design/HW/1.md",
