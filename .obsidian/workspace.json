@@ -104,16 +104,6 @@
             }
           },
           {
-            "id": "dd58b000bad56053",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png"
-              }
-            }
-          },
-          {
             "id": "03d57d3f4c47ee0b",
             "type": "leaf",
             "state": {
@@ -138,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -198,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png"
+                "file": "CSDS 281 - Logic Design/HW/3.md"
               }
             }
           }
@@ -230,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
+                "file": "CSDS 281 - Logic Design/HW/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,8 +276,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dd58b000bad56053",
+  "active": "8926e3bcc631f3d4",
   "lastOpenFiles": [
+    "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
     "CSDS 281 - Logic Design/HW/3.md",
     "PHYS 121 - Physics 1/HW/6/6.md",
     "AIQS 100/Argumentative Paper/Draft.md",
