@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/3.md"
+                "file": "PHYS 121 - Physics 1/HW/6/6.md"
               }
             }
           }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/3.md",
+                "file": "PHYS 121 - Physics 1/HW/6/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,10 +276,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8926e3bcc631f3d4",
+  "active": "e4254f573248f5fc",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
     "CSDS 281 - Logic Design/HW/3.md",
+    "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
     "PHYS 121 - Physics 1/HW/6/6.md",
     "AIQS 100/Argumentative Paper/Draft.md",
     "PHYS 121 - Physics 1/HW/6/images/6.svg",
@@ -312,7 +312,6 @@
     "CSDS 281 - Logic Design/HW/5.md",
     "AIQS 100/Argumentative Paper",
     "PHYS 121 - Physics 1/HW/5/5.pdf",
-    "PHYS 121 - Physics 1/HW/5/images/5.svg",
     "PHYS 121 - Physics 1/HW/5/images/4a.kra",
     "PHYS 121 - Physics 1/HW/5/images/3a.kra",
     "cwru/Classes.md",
