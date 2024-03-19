@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Draft.md"
+                "file": "PHYS 121 - Physics 1/HW/6/6.md"
               }
             }
           }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Draft.md",
+                "file": "PHYS 121 - Physics 1/HW/6/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,8 +264,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "03d57d3f4c47ee0b",
+  "active": "e4254f573248f5fc",
   "lastOpenFiles": [
+    "AIQS 100/Argumentative Paper/Draft.md",
     "PHYS 121 - Physics 1/HW/6/6.md",
     "PHYS 121 - Physics 1/HW/6/images/6.svg",
     "PHYS 121 - Physics 1/HW/6/images/5.svg",
@@ -289,7 +290,6 @@
     "CSDS 302 - Discrete Math/HW/6.md",
     "CV cut.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
-    "AIQS 100/Argumentative Paper/Draft.md",
     "AIQS 100/Argumentative Paper/Argumentative Draft.pdf",
     "AIQS 100/Argumentative Paper/Draft.pdf",
     "AIQS 100/Argumentative Paper/Outlining.md",
