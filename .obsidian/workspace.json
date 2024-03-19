@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "03d57d3f4c47ee0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIQS 100/Argumentative Paper/Draft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5577ed4765f8a7ad",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/6/6.md"
+                "file": "AIQS 100/Argumentative Paper/Draft.md"
               }
             }
           }
@@ -196,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/6/6.md",
+                "file": "AIQS 100/Argumentative Paper/Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,8 +264,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e4254f573248f5fc",
+  "active": "03d57d3f4c47ee0b",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/HW/6/6.md",
     "PHYS 121 - Physics 1/HW/6/images/6.svg",
     "PHYS 121 - Physics 1/HW/6/images/5.svg",
     "PHYS 121 - Physics 1/HW/6/images/4a.svg",
@@ -263,7 +276,6 @@
     "PHYS 121 - Physics 1/HW/6/images/1.svg",
     "PHYS 121 - Physics 1/HW/6/images",
     "PHYS 121 - Physics 1/HW/5/5.md",
-    "PHYS 121 - Physics 1/HW/6/6.md",
     "CSDS 302 - Discrete Math/HW/5.md",
     "PHYS 121 - Physics 1/HW/6",
     "CSDS 302 - Discrete Math/HW/5.pdf",
@@ -288,7 +300,6 @@
     "AIQS 100/Argumentative Paper",
     "PHYS 121 - Physics 1/HW/5/5.pdf",
     "PHYS 121 - Physics 1/HW/5/images/5.svg",
-    "PHYS 121 - Physics 1/HW/5/images/3.svg",
     "PHYS 121 - Physics 1/HW/5/images/4a.kra",
     "PHYS 121 - Physics 1/HW/5/images/3a.kra",
     "cwru/Classes.md",
