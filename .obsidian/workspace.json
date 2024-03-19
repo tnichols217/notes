@@ -83,9 +83,9 @@
             "id": "e4254f573248f5fc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png"
+                "file": "PHYS 121 - Physics 1/Labs/4/COL4.pdf"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png"
+                "file": "PHYS 121 - Physics 1/Labs/4/COL4.pdf"
               }
             }
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png",
+                "file": "PHYS 121 - Physics 1/Labs/4/COL4.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,11 +274,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "e4254f573248f5fc",
   "lastOpenFiles": [
     "PHYS 121 - Physics 1/Labs/4/Report Cover.png",
-    "PHYS 121 - Physics 1/HW/6/6.md",
     "PHYS 121 - Physics 1/Labs/4/COL4.pdf",
+    "PHYS 121 - Physics 1/Labs/Report Cover.png",
+    "PHYS 121 - Physics 1/HW/6/6.md",
     "PHYS 121 - Physics 1/Labs/4",
     "PHYS 121 - Physics 1/HW/6/images/4a_filled.svg",
     "PHYS 121 - Physics 1/HW/6/6.pdf",
@@ -291,7 +292,6 @@
     "PHYS 121 - Physics 1/HW/6/images/4.svg",
     "PHYS 121 - Physics 1/HW/6/images/3.svg",
     "PHYS 121 - Physics 1/HW/6/images/2.svg",
-    "PHYS 121 - Physics 1/HW/6/images/1.svg",
     "PHYS 121 - Physics 1/HW/6/images",
     "PHYS 121 - Physics 1/HW/5/5.md",
     "CSDS 302 - Discrete Math/HW/5.md",
@@ -310,7 +310,6 @@
     "AIQS 100/Argumentative Paper/Draft.pdf",
     "AIQS 100/Argumentative Paper/Outlining.md",
     "CSDS 281 - Logic Design/HW/6.pdf",
-    "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240307193109.png",
     "CSDS 281 - Logic Design/HW/5.md",
     "AIQS 100/Argumentative Paper",
     "cwru/Classes.md",
