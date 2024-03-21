@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/4/4.md"
+                "file": "AIQS 100/Argumentative Paper/Draft.md"
               }
             }
           }
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/4/4.md",
+                "file": "AIQS 100/Argumentative Paper/Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,13 +276,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e4254f573248f5fc",
+  "active": "03d57d3f4c47ee0b",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/Labs/4/4.md",
+    "AIQS 100/Argumentative Paper/Draft.md",
     "PHYS 121 - Physics 1/Labs/4/4merged.pdf",
     "PHYS 121 - Physics 1/Labs/4/PDFsam_merge.pdf",
     "PHYS 121 - Physics 1/Labs/4/4.pdf",
     "PHYS 121 - Physics 1/Labs/4/COL4.pdf",
-    "PHYS 121 - Physics 1/Labs/4/4.md",
     "PHYS 121 - Physics 1/Labs/4/Graph2.jpg",
     "PHYS 121 - Physics 1/Labs/4/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
@@ -292,7 +293,6 @@
     "PHYS 121 - Physics 1/HW/6/6.pdf",
     "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
-    "AIQS 100/Argumentative Paper/Draft.md",
     "PHYS 121 - Physics 1/HW/6/images/6.svg",
     "PHYS 121 - Physics 1/HW/6/images/5.svg",
     "PHYS 121 - Physics 1/HW/6/images/4a.svg",
@@ -313,7 +313,6 @@
     "CV cut.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "AIQS 100/Argumentative Paper/Argumentative Draft.pdf",
-    "AIQS 100/Argumentative Paper/Draft.pdf",
     "AIQS 100/Argumentative Paper/Outlining.md",
     "CSDS 281 - Logic Design/HW/5.md",
     "cwru/Classes.md",
