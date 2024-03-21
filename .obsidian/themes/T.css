@@ -320,7 +320,7 @@ strong em,
 }
 
 .callout[data-callout="para"] blockquote, .admonition-source p, .admonition-para blockquote {
-  & p {
+  & p, & + p {
     text-indent: 0;
   }
   --blockquote-border-thickness: 0;
