@@ -296,7 +296,7 @@ strong em,
   margin-top: 0cm;
 }
 
-.callout[data-callout="para"] h1, .callout[data-callout="para"] h2, .callout[data-callout="para"] h3, .callout[data-callout="para"] h4, .admonition-para h1, .admonition-para h2, .admonition-para h3, .admonition-para h4, .admonition-para h5 {
+.callout[data-callout="para"] h1, .callout[data-callout="para"] h2, .callout[data-callout="para"] h3, .callout[data-callout="para"] h4, .callout[data-callout="para"] h5, .admonition-para h1, .admonition-para h2, .admonition-para h3, .admonition-para h4, .admonition-para h5 {
   color: var(--text-normal);
   font-weight: normal;
   text-align: center;
@@ -319,7 +319,11 @@ strong em,
   margin-top: 0cm;
 }
 
-.callout[data-callout="para"] h5, .admonition-source p, .admonition-para h5 {
+.callout[data-callout="para"] blockquote, .admonition-source p, .admonition-para blockquote {
+  & p {
+    text-indent: 0;
+  }
+  --blockquote-border-thickness: 0;
   color: var(--text-normal) !important;
   font-weight: normal;
   padding-left: 1.27cm;
