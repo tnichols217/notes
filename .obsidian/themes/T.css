@@ -296,7 +296,7 @@ strong em,
   margin-top: 0cm;
 }
 
-.callout[data-callout="para"] h1, .callout[data-callout="para"] h2, .callout[data-callout="para"] h3, .callout[data-callout="para"] h4, .callout[data-callout="para"]  h5, .admonition-para h1, .admonition-para h2, .admonition-para h3, .admonition-para h4, .admonition-para h5 {
+.callout[data-callout="para"] h1, .callout[data-callout="para"] h2, .callout[data-callout="para"] h3, .callout[data-callout="para"] h4, .admonition-para h1, .admonition-para h2, .admonition-para h3, .admonition-para h4, .admonition-para h5 {
   color: var(--text-normal);
   font-weight: normal;
   text-align: center;
