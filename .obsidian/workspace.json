@@ -83,9 +83,11 @@
             "id": "e4254f573248f5fc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/4/COL4.pdf"
+                "file": "PHYS 121 - Physics 1/Labs/4/4.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -186,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/4/COL4.pdf"
+                "file": "PHYS 121 - Physics 1/Labs/4/4.md"
               }
             }
           }
@@ -218,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/4/COL4.pdf",
+                "file": "PHYS 121 - Physics 1/Labs/4/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,8 +278,11 @@
   },
   "active": "e4254f573248f5fc",
   "lastOpenFiles": [
-    "PHYS 121 - Physics 1/Labs/4/Report Cover.png",
+    "PHYS 121 - Physics 1/Labs/4/4.pdf",
     "PHYS 121 - Physics 1/Labs/4/COL4.pdf",
+    "PHYS 121 - Physics 1/Labs/4/4.md",
+    "PHYS 121 - Physics 1/Labs/4/Graph2.jpg",
+    "PHYS 121 - Physics 1/Labs/4/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
     "PHYS 121 - Physics 1/HW/6/6.md",
     "PHYS 121 - Physics 1/Labs/4",
@@ -291,7 +296,6 @@
     "PHYS 121 - Physics 1/HW/6/images/4a.svg",
     "PHYS 121 - Physics 1/HW/6/images/4.svg",
     "PHYS 121 - Physics 1/HW/6/images/3.svg",
-    "PHYS 121 - Physics 1/HW/6/images/2.svg",
     "PHYS 121 - Physics 1/HW/6/images",
     "PHYS 121 - Physics 1/HW/5/5.md",
     "CSDS 302 - Discrete Math/HW/5.md",
@@ -320,7 +324,6 @@
     "PHYS 121 - Physics 1/Labs/3/Analysis.md",
     "ENGR 145 - Chemistry of Materials/HW/6.md",
     "PHYS 121 - Physics 1/HW/4/4.md",
-    "cwru/Plan.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
