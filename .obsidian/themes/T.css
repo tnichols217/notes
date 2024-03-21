@@ -319,6 +319,17 @@ strong em,
   margin-top: 0cm;
 }
 
+.callout[data-callout="para"] h5, .admonition-source p, .admonition-para h5 {
+  color: var(--text-normal) !important;
+  font-weight: normal;
+  padding-left: 1.27cm;
+  font-family: 'Times New Roman', 'Times';
+  font-size: 11pt;
+  line-height: 2;
+  margin-bottom: 0cm;
+  margin-top: 0cm;
+}
+
 .markdown-rendered ul.has-list-bullet {
   list-style-type: disc;
 }
