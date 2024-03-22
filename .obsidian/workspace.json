@@ -117,6 +117,18 @@
             "group": "1d1f00b75c25b346"
           },
           {
+            "id": "ce3c790098630441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGR 145 - Chemistry of Materials/HW/7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5577ed4765f8a7ad",
             "type": "leaf",
             "state": {
@@ -129,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "2f724e9cc8374236",
@@ -195,8 +207,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28c69e3aca2b1263",
@@ -297,10 +308,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "03d57d3f4c47ee0b",
+  "active": "ce3c790098630441",
   "lastOpenFiles": [
-    "MATH 223 - Calc 3/Practice Problems/15.4.md",
+    "ENGR 145 - Chemistry of Materials/HW/7/data.md",
     "ENGR 145 - Chemistry of Materials/HW/7.md",
+    "MATH 223 - Calc 3/Practice Problems/15.4.md",
     "PHYS 121 - Physics 1/HW/1/1.md",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "MATH 223 - Calc 3/Practice Problems/16.1.md",
@@ -344,7 +356,6 @@
     "cwru/Classes.md",
     "AIQS 100/Nora Krug - Belonging/Reading Response.md",
     "AIQS 100/Marjane Satrapi - Persepolis/Reading Response.md",
-    "CSDS 281 - Logic Design/HW/1.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
