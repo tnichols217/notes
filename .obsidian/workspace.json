@@ -113,8 +113,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "5f7f49330434338b"
+            }
           },
           {
             "id": "ce3c790098630441",
@@ -157,8 +156,7 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "5f7f49330434338b"
+            }
           }
         ]
       }
@@ -308,7 +306,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "063676a886f01efa",
+  "active": "03d57d3f4c47ee0b",
   "lastOpenFiles": [
     "ENGR 145 - Chemistry of Materials/HW/7/data.md",
     "ENGR 145 - Chemistry of Materials/HW/7.md",
