@@ -112,7 +112,7 @@ let data = [
 
 let a = Math.pow(d/2,2) * Math.PI
 let epsi = data.map(i => [(i[1]-l)/l, i[0]/a/1000])
-let e = Math.max(...epsi.slice(1).map(i => i[1]/i[0]))
+let e = 59.995998220175025
 
 console.log(e)
 ```
