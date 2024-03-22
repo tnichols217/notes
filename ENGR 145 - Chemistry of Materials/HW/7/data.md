@@ -115,8 +115,8 @@ let epsi = data.map(i => [(i[1]-l)/l, i[0]/a/1000])
 let e = 59.995998220175025
 let x = 0.002
 
-let epsi = data.map(i => [i[0], i[1]])
-
+let mapped = data.map(i => [i[0]-i[1]/e, i[1]])
+let bounds = mapped.reduce()
 
 
 console.log(e)
