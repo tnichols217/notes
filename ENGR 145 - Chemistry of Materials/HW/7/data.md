@@ -118,7 +118,7 @@ let x = 0.002
 let mapped = data.map(i => [i[0]-i[1]/e, i[1]])
 let bounds = mapped.reduce((i, j) => i.length == 0 || j[0] < x ? [j[0]] : i.length < 2 && j[0] >= x ? [...i, j[0]] : i, [] as number[])
 
-
+console.log(mapped.map(a => a[0]))
 console.log(bounds)
 ```
 ^7ca
