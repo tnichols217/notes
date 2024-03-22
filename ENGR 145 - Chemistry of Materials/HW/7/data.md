@@ -177,12 +177,9 @@ let data = [
 	[36400, 59.182]
 ]
 
-let a = Math.pow(d/2,2) * Math.PI
-let epsi = data.map(i => [(i[1]-l)/l, i[0]/a/1000])
-
-let max = Math.max(...epsi.map(i => i[0]))
+let max = Math.max(...data.map(i => i[1]))
 let duct = (max-l)/l
 
-console.log(duct)
+console.log(duct*100)
 ```
 ^7ea
