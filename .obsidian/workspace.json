@@ -109,9 +109,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/7.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             },
             "group": "1d1f00b75c25b346"
@@ -141,7 +141,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/7.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/1.md",
                 "mode": "preview",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mermaid",
+                "query": "function-",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,7 +195,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -208,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/7.md"
+                "file": "ENGR 145 - Chemistry of Materials/HW/1.md"
               }
             }
           }
@@ -240,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/7.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,6 +299,8 @@
   },
   "active": "03d57d3f4c47ee0b",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/HW/1/1.md",
+    "ENGR 145 - Chemistry of Materials/HW/7.md",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240321222531.png",
     "ENGR 145 - Chemistry of Materials/HW/7/4.png",
     "ENGR 145 - Chemistry of Materials/HW/7/3.png",
@@ -305,7 +308,6 @@
     "ENGR 145 - Chemistry of Materials/HW/7/image209.png",
     "ENGR 145 - Chemistry of Materials/HW/7",
     "AIQS 100/Argumentative Paper/Draft.md",
-    "ENGR 145 - Chemistry of Materials/HW/7.md",
     "PHYS 121 - Physics 1/Labs/4/4.md",
     "PHYS 121 - Physics 1/Labs/4/4merged.pdf",
     "PHYS 121 - Physics 1/Labs/4/PDFsam_merge.pdf",
@@ -320,7 +322,6 @@
     "PHYS 121 - Physics 1/HW/6/6.pdf",
     "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
-    "PHYS 121 - Physics 1/HW/6/images/6.svg",
     "PHYS 121 - Physics 1/HW/6/images",
     "PHYS 121 - Physics 1/HW/5/5.md",
     "CSDS 302 - Discrete Math/HW/5.md",
