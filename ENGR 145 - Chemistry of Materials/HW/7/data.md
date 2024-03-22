@@ -149,7 +149,8 @@ let data = [
 let a = Math.pow(d/2,2) * Math.PI
 let epsi = data.map(i => [(i[1]-l)/l, i[0]/a/1000])
 
-let max = Math.max(...epsi.map(i => i[1])
+let max = Math.max(...epsi.map(i => i[1]))
 
+console.log(max)
 ```
 ^7da
