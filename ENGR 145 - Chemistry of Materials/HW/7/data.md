@@ -188,6 +188,6 @@ console.log(duct*100)
 let e = 59.995998220175025
 let y = 0.27742759187638605
 
-console.log(Math.pow(e/1000,2) / (2*y/1000))
+console.log(Math.pow(e,2) / (2*y))
 ```
 ^7ea
