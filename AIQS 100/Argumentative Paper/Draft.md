@@ -31,3 +31,7 @@
 
 
 History, Space, Plants: Cultural Identity in Persepolis by Li Yuan
+
+Yuan, Li. "History, Space, Plants: Cultural Identity in Persepolis." _Art and Performance Letters_ 4.5 (2023): 54-60.
+
+Laemmerhirt, Iris-Aya. "“How Much of Me Is My Own?”: Imagining the Ocean in Thi Bui’s The Best We Could Do." _Contradictions, Heterogeneities, Knowledges, Materialities_ (2023): 285.
