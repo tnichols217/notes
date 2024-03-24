@@ -32,14 +32,11 @@
 > Both Satrapi and Bui undergo their own journey to find their own identities. Both of their uncertainties happen to stem from their multicultural developments, Iran and the west for Satrapi and Vietnam and America for Bui. In the end they both resolve that must not definitively be from a particular place or culture, but can be a mix of their own developments. As Bui puts it, she "no longer feel the need to reclaim a HOMELAND" as her identity is much more than just that (Bui, 326). Although Satrapi does not agree with the ideologies of Iran as a whole, she still would exclaim, "I AM IRANIAN AND PROUD OF IT!" yet know her identity is much more than just that (Satrapi, Ch. 25). Throughout both of these graphic memoirs, Satrapi and Bui show that even though a highly conflicting multicultural upbringing is highly influential, their confusing identities need not be explained away by a simple discrete location or culture, but is instead formed intentionally and personally.
 > 
 > # Works Cited
+> 
+> ###### Bui, Thi. _The best we could do: An illustrated memoir_. Abrams, 2017.
+> 
+> ###### Laemmerhirt, Iris-Aya. "“How Much of Me Is My Own?”: Imagining the Ocean in Thi Bui’s The Best We Could Do." _Contradictions, Heterogeneities, Knowledges, Materialities_ (2023): 285.
+> 
 > ###### Yuan, Li. "History, Space, Plants: Cultural Identity in Persepolis." _Art and Performance Letters_ 4.5 (2023): 54-60.
 > 
-> ###### 
-
-
-
-History, Space, Plants: Cultural Identity in Persepolis by Li Yuan
-
-
-
-
+> ###### Satrapi, Marjane. _The complete persepolis_. Pantheon, 2023.
