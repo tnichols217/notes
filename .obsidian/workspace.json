@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "989b043c40870727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea8a3aa17def0308",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -212,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Draft.md"
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md"
               }
             }
           }
@@ -244,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Draft.md",
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,11 +312,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "03d57d3f4c47ee0b",
+  "active": "989b043c40870727",
   "lastOpenFiles": [
+    "AIQS 100/Argumentative Paper/Draft.md",
     "AIQS 100/Argumentative Paper/Draft.pdf",
     "AIQS 100/Argumentative Paper/Argumentative Draft.pdf",
-    "AIQS 100/Argumentative Paper/Draft.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "ENGR 145 - Chemistry of Materials/HW/7.md",
     "ENGR 145 - Chemistry of Materials/HW/7.pdf",
@@ -333,7 +345,6 @@
     "PHYS 121 - Physics 1/HW/6/6.pdf",
     "CSDS 281 - Logic Design/HW/3.md",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240214220759.png",
-    "PHYS 121 - Physics 1/HW/6/images",
     "PHYS 121 - Physics 1/HW/5/5.md",
     "CSDS 302 - Discrete Math/HW/5.md",
     "CSDS 281 - Logic Design/HW/4.md",
