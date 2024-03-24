@@ -21,5 +21,5 @@ Identify at least three issues you will address in your revision.
 ## Your Revised Paper Grade
 Once you’ve finished incorporating the feedback and revising your paper, calculate your final grade.
 
-> - I believe there are still minor signposting clarity issues with my paper, but I think most line of reasoning and formatting are completely resolved.
-> - 98%
+> - I believe there are still minor signposting issues with my paper, but I believe the argument is easily understood at this point
+> - 93%
