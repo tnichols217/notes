@@ -1,4 +1,14 @@
+
 > [!para]
+>
+> ###### Trevor Nichols
+>
+> ###### Alexandra Magearu and Cadence Dangerfield
+>
+> ###### AIQS 100
+>
+> ###### 11 February 2024
+> 
 > # The Problem of Identity in *Persepolis* and *The Best We Could Do*
 > 
 > In both Marjane Satrapi's *Persepolis* and Thi Bui's *The Best We Could Do*, their change in identity throughout their stories is a key theme that is strongly influenced by multiple factors within their lives. In *Persepolis*, Satrapi has a long internal battle on who she is mainly due her parent's politically outstanding ideas and a multicultural upbringing in both Iran and Austria, leading her to question who she is and seek things to define herself by. Thi Bui on the other hand, struggles to grapple with her past as her own understanding, her parents' understandings, and the history commonly taught in American schools all clash with each other, just like her own multicultural identity, on some level — all of which are highly traumatic to her and her family. Both of these authors undergo a similar alienating experience of trying to understand what they truly are. These misunderstandings of deep rooted, conflicting multicultural backgrounds cause both authors to go on a journey attempting to better understand themselves and come to a resolution on their own identity.

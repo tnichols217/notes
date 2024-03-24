@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "ea8a3aa17def0308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ce3c790098630441",
             "type": "leaf",
             "state": {
@@ -290,6 +302,8 @@
   },
   "active": "03d57d3f4c47ee0b",
   "lastOpenFiles": [
+    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
+    "AIQS 100/Argumentative Paper/Draft.md",
     "ENGR 145 - Chemistry of Materials/HW/7.md",
     "ENGR 145 - Chemistry of Materials/HW/7.pdf",
     "ENGR 145 - Chemistry of Materials/HW/7/data.md",
@@ -303,7 +317,6 @@
     "ENGR 145 - Chemistry of Materials/HW/7/image224.png",
     "ENGR 145 - Chemistry of Materials/HW/7/image209.png",
     "ENGR 145 - Chemistry of Materials/HW/7",
-    "AIQS 100/Argumentative Paper/Draft.md",
     "PHYS 121 - Physics 1/Labs/4/4.md",
     "PHYS 121 - Physics 1/Labs/4/4merged.pdf",
     "PHYS 121 - Physics 1/Labs/4/PDFsam_merge.pdf",
@@ -330,7 +343,6 @@
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CSDS 302 - Discrete Math/HW/6.md",
     "CV cut.md",
-    "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "AIQS 100/Argumentative Paper/Outlining.md",
     "CSDS 281 - Logic Design/HW/5.md",
     "cwru/Classes.md",
