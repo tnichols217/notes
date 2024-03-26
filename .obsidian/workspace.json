@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "6c8b72397226b969",
+            "id": "c3b5a8f69bf46ed9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/8.md",
+                "file": "CSDS 302 - Discrete Math/HW/6.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/8.md"
+                "file": "CSDS 302 - Discrete Math/HW/6.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/8.md",
+                "file": "CSDS 302 - Discrete Math/HW/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,16 +216,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6c8b72397226b969",
+  "active": "c3b5a8f69bf46ed9",
   "lastOpenFiles": [
+    "cwru/Classes.md",
+    "ENGR 145 - Chemistry of Materials/HW/8.md",
+    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "ENGR 145 - Chemistry of Materials/HW/8.pdf",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240326084133.png",
     "CSDS 302 - Discrete Math/HW/6.md",
-    "ENGR 145 - Chemistry of Materials/HW/8.md",
     "CSDS 302 - Discrete Math/HW/7.md",
-    "cwru/Classes.md",
     "cwru/Finished.md",
-    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CV.md",
     "PHYS 121 - Physics 1/Labs/4/4.md",
     "CSDS 281 - Logic Design/HW/3.md",
@@ -254,7 +254,6 @@
     "ENGR 145 - Chemistry of Materials/HW/7",
     "PHYS 121 - Physics 1/Labs/4/4merged.pdf",
     "PHYS 121 - Physics 1/Labs/4/PDFsam_merge.pdf",
-    "PHYS 121 - Physics 1/Labs/4/4.pdf",
     "PHYS 121 - Physics 1/Labs/4/Graph2.jpg",
     "PHYS 121 - Physics 1/Labs/4/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
