@@ -9,5 +9,9 @@ Van chuggin down dirt road
 
 ## Panel 2
 
-Old town, dirt roads, rundown buildings, one coffee shop, van parked o
+Old town, dirt roads, rundown buildings
+- one coffee shop
+- same van parked off to the left
+- Yoo standing somewhat in the middle
+
 
