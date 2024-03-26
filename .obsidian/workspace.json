@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/college/QB Essay.md",
+                "file": "AIQS 100/comic/draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/college/QB Essay.md"
+                "file": "AIQS 100/comic/draft.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/college/QB Essay.md",
+                "file": "AIQS 100/comic/draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,12 +218,15 @@
   },
   "active": "c3b5a8f69bf46ed9",
   "lastOpenFiles": [
-    "college/Amherst Supplemental.md",
-    "college/Extra Questions.md",
-    "college/Midyear Update Emails.md",
-    "college/Interview Prep.md",
-    "college/Stop Googling Lets Talk.md",
     "college/Writing Seminar.md",
+    "college/Stop Googling Lets Talk.md",
+    "college/Interview Prep.md",
+    "college/Midyear Update Emails.md",
+    "college/Extra Questions.md",
+    "college/Amherst Supplemental.md",
+    "Private/college/QB Essay.md",
+    "Private/college/QB Short Answer.md",
+    "Private/college/Additional Questions.md",
     "AIQS 100/comic/draft.md",
     "CSDS 302 - Discrete Math/HW/6.md",
     "AIQS 100/comic",
@@ -250,9 +253,6 @@
     "AIQS 100/Argumentative Paper/Argumentative Draft.pdf",
     "ENGR 145 - Chemistry of Materials/HW/7.md",
     "ENGR 145 - Chemistry of Materials/HW/7.pdf",
-    "MATH 223 - Calc 3/Practice Problems/15.4.md",
-    "PHYS 121 - Physics 1/HW/1/1.md",
-    "ENGR 145 - Chemistry of Materials/HW/1.md",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240321222531.png",
     "ENGR 145 - Chemistry of Materials/HW/7/4.png",
     "ENGR 145 - Chemistry of Materials/HW/7/3.png",
