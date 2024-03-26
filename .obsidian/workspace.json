@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/7.md",
+                "file": "CSDS 302 - Discrete Math/HW/6.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/7.md"
+                "file": "CSDS 302 - Discrete Math/HW/6.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/7.md",
+                "file": "CSDS 302 - Discrete Math/HW/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,6 +218,7 @@
   },
   "active": "6c8b72397226b969",
   "lastOpenFiles": [
+    "CSDS 302 - Discrete Math/HW/7.md",
     "CSDS 302 - Discrete Math/HW/6.md",
     "cwru/Classes.md",
     "cwru/Finished.md",
@@ -263,7 +264,6 @@
     "CSDS 281 - Logic Design/HW/6.md",
     "CSDS 302 - Discrete Math/HW/4.md",
     "CV cut.md",
-    "AIQS 100/Argumentative Paper/Outlining.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
