@@ -162,9 +162,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fc3e959b2f0e3ef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -312,7 +322,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "9fc3e959b2f0e3ef",
   "lastOpenFiles": [
     "AIQS 100/Argumentative Paper/Final.pdf",
     "AIQS 100/Argumentative Paper/PDFsam_merge.pdf",
