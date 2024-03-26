@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/6.md",
+                "file": "AIQS 100/comic/draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/6.md"
+                "file": "AIQS 100/comic/draft.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/6.md",
+                "file": "AIQS 100/comic/draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,6 +219,8 @@
   "active": "c3b5a8f69bf46ed9",
   "lastOpenFiles": [
     "CSDS 302 - Discrete Math/HW/6.md",
+    "AIQS 100/comic/draft.md",
+    "AIQS 100/comic",
     "cwru/Classes.md",
     "ENGR 145 - Chemistry of Materials/HW/8.md",
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
@@ -253,7 +255,6 @@
     "ENGR 145 - Chemistry of Materials/HW/7/image209.png",
     "ENGR 145 - Chemistry of Materials/HW/7",
     "PHYS 121 - Physics 1/Labs/4/4merged.pdf",
-    "PHYS 121 - Physics 1/Labs/4/PDFsam_merge.pdf",
     "PHYS 121 - Physics 1/Labs/4/Graph2.jpg",
     "PHYS 121 - Physics 1/Labs/4/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
