@@ -13,5 +13,6 @@ Old town, dirt roads, rundown buildings
 - one coffee shop
 - same van parked off to the left
 - Yoo standing somewhat in the middle
-
+	- Says something about stopping here... i guess
+	- 
 
