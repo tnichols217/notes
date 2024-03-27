@@ -233,7 +233,7 @@ I5 & Y5 --- and5[---]
 I6 & Y6 --- and6[---]
 I7 & Y7 --- and7[---]
 and0 & and1 & and2 & and3 & and4 & and5 & and6 & and7 --- or1[---]
-or1 --- F
+or1 --- Y
 end
 ```
 ^5
