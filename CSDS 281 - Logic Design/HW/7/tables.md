@@ -156,7 +156,7 @@ B
 C
 Vcc
 end
-subgraph 4x1-mux
+subgraph 4x1-mux-2
 subgraph invis-mux-in
 I0
 Vcc --- I1 & I2 & I3
