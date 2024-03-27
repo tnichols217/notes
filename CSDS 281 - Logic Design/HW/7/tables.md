@@ -55,3 +55,33 @@ nand1 --- F
 ```
 ^1a
 
+```mermaid
+%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
+flowchart LR
+subgraph invis-inputs
+A
+B
+C
+end
+subgraph 74x138
+subgraph invis-inputs2
+A --- Aa["A"]
+B --- Bb["B"]
+C --- Cc["C"]
+end
+subgraph invis-outputs2
+Y0L
+Y1L
+Y2L
+Y3L
+Y4L
+Y5L
+Y6L
+Y7L
+end
+invis-inputs2 ~~~ invis-outputs2
+end
+Y2L & Y3L & Y7L --- nand1[---]
+nand1 --- F
+```
+^1b
