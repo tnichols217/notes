@@ -123,12 +123,15 @@ I7
 I8
 I9
 end
-
+subgraph 10-to-4
 I1 & I3 & I5 & I7 & I9 --- or0[---]
 I2 & I3 & I6 & I7 & I8 & I9 --- or1[---]
 I4 & I5 & I6 & I7 & I8 & I9 --- or2[---]
-I4 & I5 & I6 & I7 & I8 & I9 --- or3[---]
-
-
+I8 & I9 --- or3[---]
+end
+or0 --- F0
+or1 --- F1
+or2 --- F2
+or3 --- F3
 ```
 ^2
