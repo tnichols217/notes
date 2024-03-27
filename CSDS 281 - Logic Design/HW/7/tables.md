@@ -187,3 +187,21 @@ Y --- F
 | 11    | *1* | *1* | **1** | **1** |
 | 10    | 0   | 0   | **1** | **1** |
 ^4b
+
+
+```mermaid
+%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
+flowchart LR
+subgraph 8x1-mux
+subgraph invis-inputs
+I0
+I1
+I2
+I3
+I4
+I5
+I
+end
+Y --- F
+```
+^5
