@@ -121,33 +121,8 @@ I5
 I6
 I7
 I8
+I9
 end
-subgraph 74x138
-subgraph invis-inputs2
-A --- Aa["A"]
-B --- Bb["B"]
-C --- Cc["C"]
-end
-subgraph invis-outputs2
-Y0L
-Y1L
-Y2L
-Y3L
-Y4L
-Y5L
-Y6L
-Y7L
-end
-invis-inputs2 ~~~ invis-outputs2
-end
-subgraph invis-logic
-Y1L & Y4L & Y6L --- nand1[---]
-Y1L & Y3L & Y7L --- nand2[---]
-nand1 --- nand3[---]
-D ---o nand3[---]
-nand2 & D --- nand4[---]
-nand3 & nand4 --- nand5[---]
-end
-nand5 --- F
+
 ```
 ^2
