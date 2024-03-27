@@ -39,8 +39,7 @@ B --- Bb["B"]
 C --- Cc["C"]
 end
 subgraph invis-outputs2
-direction TB
-Y0 ~~~ Y1
+Y0
 Y1
 Y2
 Y3
