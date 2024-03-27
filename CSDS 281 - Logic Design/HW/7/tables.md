@@ -207,9 +207,22 @@ S1
 S2
 end
 subgraph 3x8-decoder
+subgraph invis-dec-inputs
 S0 --- I0d[I0]
 S1 --- I1d[I1]
 S2 --- I2d[I2]
+end
+subgraph invis-dec-outputs
+Y0
+Y1
+Y2
+Y3
+Y4
+Y5
+Y6
+Y7
+end
+invis-dec-inputs ~~~ invis-dec-outputs
 end
 end
 ```
