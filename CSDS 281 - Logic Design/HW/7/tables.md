@@ -224,6 +224,14 @@ Y7
 end
 invis-dec-inputs ~~~ invis-dec-outputs
 end
+I0 & Y0 --- and0[---]
+I1 & Y1 --- and1[---]
+I2 & Y2 --- and2[---]
+I3 & Y3 --- and3[---]
+I4 & Y4 --- and4[---]
+I5 & Y5 --- and5[---]
+I6 & Y6 --- and6[---]
+I7 & Y7 --- and7[---]
 end
 ```
 ^5
