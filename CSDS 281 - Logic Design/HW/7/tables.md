@@ -27,6 +27,11 @@
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
 flowchart LR
+subgraph invis-inputs
+A
+B
+C
+end
 A --- nor1[---]
 B --o nor1
 A --o nor2[---]
