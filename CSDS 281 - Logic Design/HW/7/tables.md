@@ -145,3 +145,27 @@ or2 --- F2
 or3 --- F3
 ```
 ^2
+
+
+```mermaid
+%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
+flowchart LR
+subgraph invis-inputs
+A
+B
+C
+end
+subgraph 4x1-mux
+A --- Am[A]
+B --- Bm[B]
+C 
+I1 & I3 & I5 & I7 & I9 --- or0[---]
+I2 & I3 & I6 & I7 & I8 & I9 --- or1[---]
+I4 & I5 & I6 & I7 & I8 & I9 --- or2[---]
+I8 & I9 --- or3[---]
+end
+or0 --- F0
+or1 --- F1
+or2 --- F2
+or3 --- F3
+```
