@@ -97,6 +97,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91929d9216743ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 281 - Logic Design/HW/4/Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/7.md"
+                "file": "CSDS 281 - Logic Design/HW/7/tables.md"
               }
             }
           }
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/7.md",
+                "file": "CSDS 281 - Logic Design/HW/7/tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,15 +258,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fe22c87284499d1e",
+  "active": "fc8413a1065e6f0f",
   "lastOpenFiles": [
+    "CSDS 281 - Logic Design/HW/4/Tables.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",
     "CSDS 281 - Logic Design/HW/7.md",
-    "CSDS 281 - Logic Design/HW/4/Tables.md",
-    "CSDS 281 - Logic Design/HW/7",
-    "CSDS 281 - Logic Design/HW/6.md",
     "CSDS 281 - Logic Design/HW/4.md",
+    "CSDS 281 - Logic Design/HW/4.pdf",
     "CSDS 281 - Logic Design/HW/5.md",
+    "CSDS 281 - Logic Design/HW/6.md",
+    "CSDS 281 - Logic Design/HW/7",
     "CSDS 302 - Discrete Math/HW/6.md",
     "CSDS 302 - Discrete Math/HW/6.pdf",
     "AIQS 100/comic/draft.md",
@@ -278,13 +291,11 @@
     "CV.md",
     "PHYS 121 - Physics 1/Labs/4/4.md",
     "CSDS 281 - Logic Design/HW/3.md",
-    "AIQS 100/Argumentative Paper/Review.md",
     "AIQS 100/Argumentative Paper/Final.pdf",
     "AIQS 100/Argumentative Paper/PDFsam_merge.pdf",
     "AIQS 100/Argumentative Paper/Review.pdf",
     "AIQS 100/Argumentative Paper/Draft.pdf",
     "AIQS 100/Argumentative Paper/Argumentative Draft.pdf",
-    "ENGR 145 - Chemistry of Materials/HW/7.pdf",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240321222531.png",
     "ENGR 145 - Chemistry of Materials/HW/7/4.png",
     "ENGR 145 - Chemistry of Materials/HW/7/3.png",
