@@ -33,7 +33,9 @@ B
 C
 end
 subgraph 74x138
-A --- 
+A --- Aa["A"]
+B --- Bb["B"]
+C --- Cc["C"]
 end
 A --- nor1[---]
 B --o nor1
@@ -41,7 +43,4 @@ A --o nor2[---]
 B & C --- nor2
 nor1 & nor2 --o nor3[---]
 nor3 --- F
-subgraph invis-74x138
-a --- A
-end
 ```
