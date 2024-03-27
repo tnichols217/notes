@@ -48,7 +48,7 @@ Y5
 Y6
 Y7
 end
-invis-inputs2 --- invis-outputs2
+invis-inputs2 ~~~ invis-outputs2
 end
 Y0 --- as
 ```
