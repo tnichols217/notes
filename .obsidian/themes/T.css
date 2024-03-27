@@ -631,6 +631,11 @@ div.mermaid > svg {
   & path[class*="LS-invis"][class*="LE-invis"] {
     display: none;
   }
+  
+  .theme-dark & g.subgraph rect {
+    filter: invert(100%) hue-rotate(0.5turn);
+
+  }
 }
 
 
