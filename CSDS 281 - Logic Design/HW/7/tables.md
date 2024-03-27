@@ -36,11 +36,14 @@ subgraph 74x138
 A --- Aa["A"]
 B --- Bb["B"]
 C --- Cc["C"]
+Y0
+Y1
+Y2
+Y3
+Y4
+Y5
+Y6
+Y7
 end
-A --- nor1[---]
-B --o nor1
-A --o nor2[---]
-B & C --- nor2
-nor1 & nor2 --o nor3[---]
-nor3 --- F
+Y0-as
 ```
