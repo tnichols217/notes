@@ -33,7 +33,7 @@ A --o nor2[---]
 B & C --- nor2
 nor1 & nor2 --o nor3[---]
 nor3 --- F
-subgraph 74x138
+subgraph invis-74x138
 a --- A
 end
 ```

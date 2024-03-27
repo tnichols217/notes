@@ -624,7 +624,7 @@ div.mermaid > svg {
     }
   }
 
-  & g.subgraph:has(g[id^='invis-']) {
+  & g.subgraph g:has(g[id^='invis-']) {
     display: none;
   }
 }
