@@ -85,9 +85,8 @@ end
 Y1L & Y4L & Y6L --- nand1[---]
 Y1L & Y3L & Y7L --- nand2[---]
 nand1 --- nand3[---]
-D --- o nand3[---]
-nand2 --- nand4[---]
-D ---o nand4[---]
+D ---o nand3[---]
+nand2 & D --- nand4[---]
 nand1 --- F
 ```
 ^1b
