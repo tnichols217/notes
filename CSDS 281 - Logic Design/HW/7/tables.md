@@ -200,8 +200,17 @@ I2
 I3
 I4
 I5
-I
+I6
+I7
+S0
+S1
+S2
 end
-Y --- F
+subgraph 3x8-decoder
+S0 --- I0d[I0]
+S1 --- I1d[I1]
+S2 --- I2d[I2]
+end
+end
 ```
 ^5
