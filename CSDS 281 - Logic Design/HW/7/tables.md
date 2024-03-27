@@ -82,7 +82,7 @@ Y7L
 end
 invis-inputs2 ~~~ invis-outputs2
 end
-invid-logic
+subgraph invis-logic
 direction TB
 Y1L & Y4L & Y6L --- nand1[---]
 Y1L & Y3L & Y7L --- nand2[---]
