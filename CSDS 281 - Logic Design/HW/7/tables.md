@@ -27,10 +27,10 @@
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
 flowchart LR
-a --- nor1[---]
-b --o nor1
-a --o nor2[---]
-b & c --- nor2
+A --- nor1[---]
+B --o nor1
+A --o nor2[---]
+B & C --- nor2
 nor1 & nor2 --o nor3[---]
 nor3 --- F
 ```
