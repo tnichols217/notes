@@ -50,5 +50,5 @@ Y7
 end
 invis-inputs2 ~~~ invis-outputs2
 end
-Y2 & Y3 & Y7 o-- nand1["---"]
+Y2 & Y3 & Y7 o--- nand1[---]
 ```
