@@ -125,15 +125,15 @@ I9i[I9]
 end
 subgraph 10-to-4
 I0i --- I0
-I1i --- [I1]
-I2i[I2]
-I3i[I3]
-I4i[I4]
-I5i[I5]
-I6i[I6]
-I7i[I7]
-I8i[I8]
-I9i[I9]
+I1i --- I1
+I2i --- I2
+I3i --- I3
+I4i --- I4
+I5i --- I5
+I6i --- I6
+I7i --- I7
+I8i --- I8
+I9i --- I9
 I1 & I3 & I5 & I7 & I9 --- or0[---]
 I2 & I3 & I6 & I7 & I8 & I9 --- or1[---]
 I4 & I5 & I6 & I7 & I8 & I9 --- or2[---]
