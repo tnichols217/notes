@@ -83,7 +83,6 @@ end
 invis-inputs2 ~~~ invis-outputs2
 end
 subgraph invis-logic
-direction TB
 Y1L & Y4L & Y6L --- nand1[---]
 Y1L & Y3L & Y7L --- nand2[---]
 nand1 --- nand3[---]
@@ -94,3 +93,4 @@ end
 nand5 --- F
 ```
 ^1b
+

@@ -637,4 +637,7 @@ div.mermaid > svg {
   }
 }
 
-
+.mermaid svg {
+  width: 100%;
+  height: auto;
+}
