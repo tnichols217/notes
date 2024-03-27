@@ -634,7 +634,6 @@ div.mermaid > svg {
   
   .theme-dark & g.subgraph rect {
     filter: invert(100%) hue-rotate(0.5turn);
-
   }
 }
 
