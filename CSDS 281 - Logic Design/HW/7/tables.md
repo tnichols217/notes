@@ -39,16 +39,16 @@ B --- Bb["B"]
 C --- Cc["C"]
 end
 subgraph invis-outputs2
-Y0
-Y1
-Y2
-Y3
-Y4
-Y5
-Y6
-Y7
+Y0L
+Y1L
+Y2L
+Y3L
+Y4L
+Y5L
+Y6L
+Y7L
 end
 invis-inputs2 ~~~ invis-outputs2
 end
-Y2 & Y3 & Y7 --- nand1[---]
+Y2L & Y3L & Y7L --- nand1[---]
 ```
