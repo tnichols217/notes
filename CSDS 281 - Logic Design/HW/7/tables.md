@@ -33,9 +33,12 @@ B
 C
 end
 subgraph 74x138
+subgraph invis-inputs2
 A --- Aa["A"]
 B --- Bb["B"]
 C --- Cc["C"]
+end
+subgraph invis-outputs2
 Y0
 Y1
 Y2
@@ -45,5 +48,6 @@ Y5
 Y6
 Y7
 end
-Y0-as
+end
+Y0 --- as
 ```
