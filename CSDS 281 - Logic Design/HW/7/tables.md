@@ -51,4 +51,7 @@ end
 invis-inputs2 ~~~ invis-outputs2
 end
 Y2L & Y3L & Y7L --- nand1[---]
+nand1 --- F
 ```
+^1a
+
