@@ -628,8 +628,8 @@ div.mermaid > svg {
     display: none;
   }
 
-  & path[fill="none"] {
-    /* display: none; */
+  & path[class^="LS-invis"][class^="LE-invis"] {
+    display: none;
   }
 }
 
