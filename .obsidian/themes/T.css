@@ -627,6 +627,10 @@ div.mermaid > svg {
   & g.subgraph:has(g[id^='flowchart-invis-']) {
     display: none;
   }
+
+  & path[fill="none"] {
+    /* display: none; */
+  }
 }
 
 
