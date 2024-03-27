@@ -32,6 +32,9 @@ A
 B
 C
 end
+subgraph 74x138
+A --- 
+end
 A --- nor1[---]
 B --o nor1
 A --o nor2[---]
