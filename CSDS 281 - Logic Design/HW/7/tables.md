@@ -154,14 +154,11 @@ subgraph invis-inputs
 A
 B
 C
+Vcc
 end
 subgraph 4x1-mux
-A --- Am[A]
-B --- Bm[B]
-C --- Cm[C]
+Vcc --- I
+B --- S1
+C --- S2
 end
-or0 --- F0
-or1 --- F1
-or2 --- F2
-or3 --- F3
 ```
