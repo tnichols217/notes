@@ -164,7 +164,9 @@ B --- S1
 C --- S2
 end
 subgraph invis-mux-out
+Y
+end
+invis-mux-in ~~~ invis-mux-out
+end
 
-end
-end
 ```
