@@ -82,12 +82,15 @@ Y7L
 end
 invis-inputs2 ~~~ invis-outputs2
 end
+invid-logic
+direction TB
 Y1L & Y4L & Y6L --- nand1[---]
 Y1L & Y3L & Y7L --- nand2[---]
 nand1 --- nand3[---]
 D ---o nand3[---]
 nand2 & D --- nand4[---]
 nand3 & nand4 ---o nand5[---]
+end
 nand5 --- F
 ```
 ^1b
