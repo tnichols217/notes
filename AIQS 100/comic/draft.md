@@ -32,4 +32,4 @@ Take a break, go play soccer with them, realize theyre really happy all the time
 
 # Scene 4
 
-
+On the way back, get to stay in a nice place and get phone back, realize that didn't need all this.
