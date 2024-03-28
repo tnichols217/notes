@@ -24,3 +24,8 @@ Group of people sitting in the coffee shop, dim, crooked paintings
 
 # Scene 2
 
+Get to the school, meet the kids, teach them math and how to use the iPads
+
+# Scene 3
+
+
