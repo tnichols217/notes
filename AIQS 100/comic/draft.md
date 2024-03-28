@@ -5,7 +5,7 @@ Arriving in Langkap, Pahlawan, Perak
 
 ## Panel 1
 
-Van chuggin down dirt road
+Van chuggin down dirt road, no road signs
 - music out the windows
 - dirt spewing up behind
 
