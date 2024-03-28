@@ -1,4 +1,10 @@
-Roughly 6-8 panels per scene, 4 scenes, should have a
+Roughly 6-8 panels per scene, 4 scenes, should have around 30 panels total.
+
+# Rhetorical Devices
+
+- warm yellow/orange for happiness
+- 
+
 # Scene 1
 
 Arriving in Langkap, Pahlawan, Perak
