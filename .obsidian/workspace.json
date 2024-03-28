@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/comic/draft.md"
+                "file": "CSDS 281 - Logic Design/HW/7.md"
               }
             }
           }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/comic/draft.md",
+                "file": "CSDS 281 - Logic Design/HW/7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,8 +240,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c3b5a8f69bf46ed9",
+  "active": "fe22c87284499d1e",
   "lastOpenFiles": [
+    "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240328175547.png",
+    "AIQS 100/comic/draft.md",
     "CSDS 281 - Logic Design/HW/7.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",
     "CSDS 281 - Logic Design/HW/4/Tables.md",
@@ -252,7 +254,6 @@
     "CSDS 281 - Logic Design/HW/7",
     "CSDS 302 - Discrete Math/HW/6.md",
     "CSDS 302 - Discrete Math/HW/6.pdf",
-    "AIQS 100/comic/draft.md",
     "college/Writing Seminar.md",
     "college/Stop Googling Lets Talk.md",
     "college/Interview Prep.md",
