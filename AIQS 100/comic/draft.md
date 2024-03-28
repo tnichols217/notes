@@ -19,8 +19,8 @@ Old town, dirt roads, rundown buildings, dense jungle
 
 ## Panel 3
 
-Group of people sitting in the coffee shop, dim, crooked paintings
-- 
+Group of people sitting in the coffee shop, dim, crooked paintings, Yoo standing at the end
+- Yoo describing 
 
 # Scene 2
 
@@ -32,7 +32,11 @@ Dirty old place, basically just four walls, empty, light shining though the wind
 
 ## Panel 2
 
-Start cleaning
+Start cleaning the place, dust everywhere
+
+## Panel 3
+
+
 
 # Scene 3
 
