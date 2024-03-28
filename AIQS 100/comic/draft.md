@@ -28,4 +28,8 @@ Get to the school, meet the kids, teach them math and how to use the iPads
 
 # Scene 3
 
+Take a break, go play soccer with them, realize theyre really happy all the time
+
+# Scene 4
+
 
