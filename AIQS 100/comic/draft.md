@@ -36,7 +36,7 @@ Start cleaning the place, dust everywhere
 
 ## Panel 3
 
-
+Start setting up iPads, 
 
 # Scene 3
 
