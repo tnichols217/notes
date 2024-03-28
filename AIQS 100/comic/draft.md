@@ -1,7 +1,7 @@
 BEGIN
 # Scene 1
 
-Arriving in 
+Arriving in Langkap, Pahlawan, Perak
 
 ## Panel 1
 
@@ -21,3 +21,6 @@ Old town, dirt roads, rundown buildings, dense jungle
 
 Group of people sitting in the coffee shop, dim, crooked paintings
 - 
+
+# Scene 2
+
