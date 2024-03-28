@@ -32,7 +32,7 @@ Dirty old place, basically just four walls, empty, light shining though the wind
 
 ## Panel 2
 
-Start cleaning, 
+Start cleaning
 
 # Scene 3
 
