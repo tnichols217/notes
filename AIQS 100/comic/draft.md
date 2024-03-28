@@ -20,7 +20,7 @@ Old town, dirt roads, rundown buildings, dense jungle
 ## Panel 3
 
 Group of people sitting in the coffee shop, dim, crooked paintings, Yoo standing at the end
-- Yoo describing 
+- Yoo describing what we are going to be doing here
 
 # Scene 2
 
