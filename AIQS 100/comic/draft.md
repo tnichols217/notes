@@ -1,6 +1,8 @@
 BEGIN
 # Scene 1
 
+Arriving in 
+
 ## Panel 1
 
 Van chuggin down dirt road
