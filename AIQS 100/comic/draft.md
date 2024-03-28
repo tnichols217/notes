@@ -26,6 +26,14 @@ Group of people sitting in the coffee shop, dim, crooked paintings
 
 Get to the school, meet the kids, teach them math and how to use the iPads
 
+## Panel 1
+
+Dirty old place, basically just four walls, empty, light shining though the windows
+
+## Panel 2
+
+Start cleaning, 
+
 # Scene 3
 
 Take a break, go play soccer with them, realize theyre really happy all the time
