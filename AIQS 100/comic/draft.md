@@ -1,4 +1,4 @@
-BEGIN
+Roughly 6-8 panels per scene, 4 scenes, should have a
 # Scene 1
 
 Arriving in Langkap, Pahlawan, Perak
