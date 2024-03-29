@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "5860450dbc6792a3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf"
+              }
+            }
+          },
+          {
             "id": "fc8413a1065e6f0f",
             "type": "leaf",
             "state": {
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/7.md"
+                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf"
               }
             }
           }
@@ -184,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/7.md",
+                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,8 +250,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fe22c87284499d1e",
+  "active": "5860450dbc6792a3",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/Labs/4/4merged.pdf",
+    "CSDS 302 - Discrete Math/HW/7.md",
     "CSDS 302 - Discrete Math/HW/6.md",
     "CSDS 302 - Discrete Math/HW/5.md",
     "CSDS 302 - Discrete Math/HW/4.md",
@@ -280,9 +292,7 @@
     "AIQS 100/comic",
     "cwru/Classes.md",
     "ENGR 145 - Chemistry of Materials/HW/8.md",
-    "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240326084133.png",
-    "CSDS 302 - Discrete Math/HW/7.md",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240321222531.png",
     "ENGR 145 - Chemistry of Materials/HW/7/4.png",
     "ENGR 145 - Chemistry of Materials/HW/7/3.png",
