@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/7.md",
+                "file": "CSDS 281 - Logic Design/HW/7.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf"
+                "file": "CSDS 281 - Logic Design/HW/7.md"
               }
             }
           }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf",
+                "file": "CSDS 281 - Logic Design/HW/7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,10 +250,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5860450dbc6792a3",
+  "active": "fe22c87284499d1e",
   "lastOpenFiles": [
-    "PHYS 121 - Physics 1/Labs/4/4merged.pdf",
     "CSDS 302 - Discrete Math/HW/7.md",
+    "PHYS 121 - Physics 1/Labs/3/3.pdf",
+    "PHYS 121 - Physics 1/Labs/4/4merged.pdf",
     "CSDS 302 - Discrete Math/HW/6.md",
     "CSDS 302 - Discrete Math/HW/5.md",
     "CSDS 302 - Discrete Math/HW/4.md",
@@ -279,7 +280,6 @@
     "CSDS 281 - Logic Design/HW/5.md",
     "CSDS 281 - Logic Design/HW/6.md",
     "CSDS 281 - Logic Design/HW/7",
-    "CSDS 302 - Discrete Math/HW/6.pdf",
     "college/Writing Seminar.md",
     "college/Stop Googling Lets Talk.md",
     "college/Interview Prep.md",
@@ -289,7 +289,6 @@
     "Private/college/QB Essay.md",
     "Private/college/QB Short Answer.md",
     "Private/college/Additional Questions.md",
-    "AIQS 100/comic",
     "cwru/Classes.md",
     "ENGR 145 - Chemistry of Materials/HW/8.md",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240326084133.png",
