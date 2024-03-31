@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="66.66333mm"
+   width="71.410721mm"
    height="54.077831mm"
-   viewBox="0 0 66.66333 54.077831"
+   viewBox="0 0 71.410721 54.077831"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.3304714"
-     inkscape:cx="207.46876"
-     inkscape:cy="58.357292"
+     inkscape:zoom="3.2957843"
+     inkscape:cx="136.38635"
+     inkscape:cy="98.610824"
      inkscape:window-width="2560"
      inkscape:window-height="1440"
      inkscape:window-x="2560"
@@ -35,7 +35,7 @@
     <inkscape:page
        x="0"
        y="0"
-       width="66.66333"
+       width="71.410728"
        height="54.077831"
        id="page1"
        margin="5.0000005"
@@ -81,10 +81,11 @@
     <rect
        style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.412465;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect4"
-       width="66.673775"
+       width="71.410721"
        height="54.077824"
-       x="100.66455"
-       y="112.9875" />
+       x="100.675"
+       y="112.9875"
+       transform="translate(-1.1770633e-6)" />
     <path
        d="m 4035.43,6176.2 c 0,-44.44 -36.03,-80.48 -80.48,-80.48 -44.44,0 -80.48,36.04 -80.48,80.48 0,44.45 36.04,80.49 80.48,80.49 44.45,0 80.48,-36.04 80.48,-80.49 z"
        style="fill:none;stroke:#000000;stroke-width:17.0607;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
@@ -188,5 +189,24 @@
          style="fill:#000000;stroke:none;stroke-width:1.04604;stroke-dasharray:none"
          x="117.96966"
          y="156.28445">t+</tspan></text>
+    <g
+       id="g1"
+       transform="translate(0.23239593,-0.36136285)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.04604;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 160.91396,141.80731 5.41634,-7.94138"
+         id="path2-5-5" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.91348px;fill:#000000;stroke:none;stroke-width:1.04604;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         x="163.79539"
+         y="141.71089"
+         id="text4-2-29"><tspan
+           sodipodi:role="line"
+           id="tspan4-3-1"
+           style="fill:#000000;stroke:none;stroke-width:1.04604;stroke-dasharray:none"
+           x="163.79539"
+           y="141.71089">f</tspan></text>
+    </g>
   </g>
 </svg>
