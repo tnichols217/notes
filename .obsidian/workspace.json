@@ -103,6 +103,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "e66fcbe9b3c3372d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00c28054271fbd2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 121 - Physics 1/HW/7/7.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +268,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fe22c87284499d1e",
+  "active": "00c28054271fbd2e",
   "lastOpenFiles": [
     "PHYS 121 - Physics 1/HW/7/images/1b.svg",
     "PHYS 121 - Physics 1/HW/7/images/1a.svg",
