@@ -78,6 +78,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-51.356233,-97.340955)">
+    <rect
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="rect1"
+       width="85.797707"
+       height="54.767246"
+       x="51.356232"
+       y="97.340958" />
     <path
        d="m 2002.11,6327.14 c 164.21,-448.13 590.74,-746.09 1068.01,-746.09 480.74,0 909.57,302.23 1071.23,754.97"
        style="fill:none;stroke:#000000;stroke-width:8.87671;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
