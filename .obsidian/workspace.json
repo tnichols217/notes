@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/7/7.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/9.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/7/7.md"
+                "file": "ENGR 145 - Chemistry of Materials/HW/9.md"
               }
             }
           }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/7/7.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,13 +252,14 @@
   },
   "active": "fe22c87284499d1e",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/HW/7/7.md",
+    "ENGR 145 - Chemistry of Materials/HW/9.md",
     "PHYS 121 - Physics 1/HW/7/7.pdf",
     "PHYS 121 - Physics 1/HW/7/images/3a.svg",
     "PHYS 121 - Physics 1/HW/7/images/2a.svg",
     "CSDS 281 - Logic Design/HW/Extra.md",
     "CSDS 281 - Logic Design/HW/Extra.pdf",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240331234339.png",
-    "PHYS 121 - Physics 1/HW/7/7.md",
     "PHYS 121 - Physics 1/HW/7/images/1b.svg",
     "PHYS 121 - Physics 1/HW/7/images/1a.svg",
     "PHYS 121 - Physics 1/HW/7/images/3.svg",
@@ -282,7 +283,6 @@
     "PHYS 121 - Physics 1/Labs/5/WithMass.png",
     "PHYS 121 - Physics 1/Labs/5/NoMass.png",
     "PHYS 121 - Physics 1/Labs/5/wetransfer_nomass-png_2024-03-28_0057.zip",
-    "PHYS 121 - Physics 1/Labs/5",
     "AIQS 100/comic/draft.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",
     "CSDS 281 - Logic Design/HW/4/Tables.md",
