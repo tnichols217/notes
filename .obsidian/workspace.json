@@ -47,9 +47,11 @@
             "id": "fe22c87284499d1e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf"
+                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf"
+                "file": "PHYS 121 - Physics 1/Labs/5/5.md"
               }
             }
           }
@@ -170,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf",
+                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,6 +230,8 @@
   },
   "active": "fe22c87284499d1e",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/Labs/3/Analysis.md",
+    "PHYS 121 - Physics 1/Labs/3/3.pdf",
     "PHYS 121 - Physics 1/Labs/5/5.md",
     "PHYS 121 - Physics 1/Labs/5/WithMass.png",
     "PHYS 121 - Physics 1/Labs/5/Untitled",
@@ -237,7 +241,6 @@
     "ENGR 145 - Chemistry of Materials/HW/9.md",
     "AIQS 100/comic/draft.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",
-    "PHYS 121 - Physics 1/Labs/3/3.pdf",
     "ENGR 145 - Chemistry of Materials/HW/9/2.png",
     "ENGR 145 - Chemistry of Materials/HW/9/image143.png",
     "ENGR 145 - Chemistry of Materials/HW/9",
