@@ -56,28 +56,6 @@
             }
           },
           {
-            "id": "5860450dbc6792a3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf"
-              }
-            }
-          },
-          {
-            "id": "fc8413a1065e6f0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 281 - Logic Design/HW/7/tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b6c5ebaf85bf906",
             "type": "leaf",
             "state": {
@@ -252,11 +230,14 @@
   },
   "active": "fe22c87284499d1e",
   "lastOpenFiles": [
+    "AIQS 100/comic/draft.md",
+    "ENGR 145 - Chemistry of Materials/HW/9.md",
+    "CSDS 281 - Logic Design/HW/7/tables.md",
+    "PHYS 121 - Physics 1/Labs/3/3.pdf",
     "ENGR 145 - Chemistry of Materials/HW/9/2.png",
     "ENGR 145 - Chemistry of Materials/HW/9/image143.png",
     "ENGR 145 - Chemistry of Materials/HW/9",
     "PHYS 121 - Physics 1/HW/7/7.md",
-    "ENGR 145 - Chemistry of Materials/HW/9.md",
     "PHYS 121 - Physics 1/HW/7/7.pdf",
     "PHYS 121 - Physics 1/HW/7/images/3a.svg",
     "PHYS 121 - Physics 1/HW/7/images/2a.svg",
@@ -272,7 +253,6 @@
     "PHYS 121 - Physics 1/HW/7",
     "CSDS 281 - Logic Design/HW/7.md",
     "CSDS 302 - Discrete Math/HW/7.md",
-    "PHYS 121 - Physics 1/Labs/3/3.pdf",
     "PHYS 121 - Physics 1/Labs/4/4merged.pdf",
     "CSDS 302 - Discrete Math/HW/6.md",
     "CSDS 302 - Discrete Math/HW/5.md",
@@ -283,9 +263,6 @@
     "PHYS 121 - Physics 1/Labs/5/lab5.pdf",
     "PHYS 121 - Physics 1/Labs/5/data2.txt",
     "PHYS 121 - Physics 1/Labs/5/data.txt",
-    "PHYS 121 - Physics 1/Labs/5/WithMass.png",
-    "AIQS 100/comic/draft.md",
-    "CSDS 281 - Logic Design/HW/7/tables.md",
     "CSDS 281 - Logic Design/HW/4/Tables.md",
     "CSDS 281 - Logic Design/HW/4.md",
     "CSDS 281 - Logic Design/HW/5.md",
