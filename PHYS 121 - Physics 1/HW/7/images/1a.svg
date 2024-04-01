@@ -25,13 +25,13 @@
      inkscape:document-units="mm"
      inkscape:zoom="3.2957843"
      inkscape:cx="136.38635"
-     inkscape:cy="98.610824"
+     inkscape:cy="98.610822"
      inkscape:window-width="2560"
      inkscape:window-height="1440"
      inkscape:window-x="2560"
      inkscape:window-y="1440"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g1">
     <inkscape:page
        x="0"
        y="0"
@@ -191,7 +191,7 @@
          y="156.28445">t+</tspan></text>
     <g
        id="g1"
-       transform="translate(0.23239593,-0.36136285)">
+       transform="translate(-4.03304,-2.84391)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1.04604;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          d="m 160.91396,141.80731 5.41634,-7.94138"
@@ -199,14 +199,14 @@
       <text
          xml:space="preserve"
          style="font-size:3.91348px;fill:#000000;stroke:none;stroke-width:1.04604;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         x="163.79539"
-         y="141.71089"
+         x="169.78757"
+         y="136.34958"
          id="text4-2-29"><tspan
            sodipodi:role="line"
            id="tspan4-3-1"
            style="fill:#000000;stroke:none;stroke-width:1.04604;stroke-dasharray:none"
-           x="163.79539"
-           y="141.71089">f</tspan></text>
+           x="169.78757"
+           y="136.34958">f</tspan></text>
     </g>
   </g>
 </svg>
