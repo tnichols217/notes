@@ -47,9 +47,9 @@
             "id": "fe22c87284499d1e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/lab5.pdf"
+                "file": "PHYS 121 - Physics 1/Labs/5/WithMass.png"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/lab5.pdf"
+                "file": "PHYS 121 - Physics 1/Labs/5/WithMass.png"
               }
             }
           }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/lab5.pdf",
+                "file": "PHYS 121 - Physics 1/Labs/5/WithMass.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,6 +228,10 @@
   },
   "active": "fe22c87284499d1e",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/Labs/5/NoMass.png",
+    "PHYS 121 - Physics 1/Labs/5/WithMass.png",
+    "PHYS 121 - Physics 1/Labs/5/MC.png",
+    "PHYS 121 - Physics 1/Labs/5/lab5.pdf",
     "ENGR 145 - Chemistry of Materials/HW/9.md",
     "AIQS 100/comic/draft.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",
@@ -245,8 +249,6 @@
     "PHYS 121 - Physics 1/HW/7/images/1b.svg",
     "PHYS 121 - Physics 1/HW/7/images/1a.svg",
     "PHYS 121 - Physics 1/HW/7/images/3.svg",
-    "PHYS 121 - Physics 1/HW/7/images/2.svg",
-    "PHYS 121 - Physics 1/HW/7/images/1.svg",
     "PHYS 121 - Physics 1/HW/7/images",
     "PHYS 121 - Physics 1/HW/7",
     "CSDS 281 - Logic Design/HW/7.md",
@@ -258,7 +260,6 @@
     "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/HW/2.md",
     "CSDS 302 - Discrete Math/HW/1.md",
-    "PHYS 121 - Physics 1/Labs/5/lab5.pdf",
     "PHYS 121 - Physics 1/Labs/5/data2.txt",
     "PHYS 121 - Physics 1/Labs/5/data.txt",
     "CSDS 281 - Logic Design/HW/4/Tables.md",
