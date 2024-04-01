@@ -47,9 +47,11 @@
             "id": "fe22c87284499d1e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/WithMass.png"
+                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/WithMass.png"
+                "file": "PHYS 121 - Physics 1/Labs/5/5.md"
               }
             }
           }
@@ -170,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/WithMass.png",
+                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,8 +230,10 @@
   },
   "active": "fe22c87284499d1e",
   "lastOpenFiles": [
-    "PHYS 121 - Physics 1/Labs/5/NoMass.png",
     "PHYS 121 - Physics 1/Labs/5/WithMass.png",
+    "PHYS 121 - Physics 1/Labs/5/5.md",
+    "PHYS 121 - Physics 1/Labs/5/Untitled",
+    "PHYS 121 - Physics 1/Labs/5/NoMass.png",
     "PHYS 121 - Physics 1/Labs/5/MC.png",
     "PHYS 121 - Physics 1/Labs/5/lab5.pdf",
     "ENGR 145 - Chemistry of Materials/HW/9.md",
@@ -248,7 +252,6 @@
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240331234339.png",
     "PHYS 121 - Physics 1/HW/7/images/1b.svg",
     "PHYS 121 - Physics 1/HW/7/images/1a.svg",
-    "PHYS 121 - Physics 1/HW/7/images/3.svg",
     "PHYS 121 - Physics 1/HW/7/images",
     "PHYS 121 - Physics 1/HW/7",
     "CSDS 281 - Logic Design/HW/7.md",
@@ -261,7 +264,6 @@
     "CSDS 302 - Discrete Math/HW/2.md",
     "CSDS 302 - Discrete Math/HW/1.md",
     "PHYS 121 - Physics 1/Labs/5/data2.txt",
-    "PHYS 121 - Physics 1/Labs/5/data.txt",
     "CSDS 281 - Logic Design/HW/4/Tables.md",
     "CSDS 281 - Logic Design/HW/4.md",
     "CSDS 281 - Logic Design/HW/5.md",
@@ -273,7 +275,6 @@
     "college/Extra Questions.md",
     "college/Amherst Supplemental.md",
     "Private/college/QB Essay.md",
-    "Private/college/QB Short Answer.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
