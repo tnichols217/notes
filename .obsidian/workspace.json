@@ -47,11 +47,9 @@
             "id": "fe22c87284499d1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
-                "mode": "source",
-                "source": false
+                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf"
               }
             }
           },
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/5.md"
+                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf"
               }
             }
           }
@@ -172,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
+                "file": "PHYS 121 - Physics 1/Labs/3/3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,8 +228,8 @@
   },
   "active": "fe22c87284499d1e",
   "lastOpenFiles": [
-    "PHYS 121 - Physics 1/Labs/5/WithMass.png",
     "PHYS 121 - Physics 1/Labs/5/5.md",
+    "PHYS 121 - Physics 1/Labs/5/WithMass.png",
     "PHYS 121 - Physics 1/Labs/5/Untitled",
     "PHYS 121 - Physics 1/Labs/5/NoMass.png",
     "PHYS 121 - Physics 1/Labs/5/MC.png",
