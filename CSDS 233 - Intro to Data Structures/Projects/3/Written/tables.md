@@ -3,3 +3,13 @@
 | Space (number of ints) | $O(4\log_2N)=O(log N)$  | $O(3)=O(1)$             |
 | Time (by comparisons)  | $O(3\log_2N)=O(\log N)$ | $O(3\log_2N)=O(\log N)$ |
 ^1a
+
+
+> Given arguments `array: SinglyLinkedList`, `left: int` and `right: int`
+> 1. `let a = array[left-1]`
+> 2. `let filo = new Stack()`
+
+
+```ts
+function reverse(array: SinglyLinkedList, left: int, right)
+```
