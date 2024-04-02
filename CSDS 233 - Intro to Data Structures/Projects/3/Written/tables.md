@@ -15,6 +15,7 @@ function reverse(array: SinglyLinkedList, left: int, right: int) {
 		a.next = i
 		a = i
 	}
+	return array
 }
 ```
 ^4a

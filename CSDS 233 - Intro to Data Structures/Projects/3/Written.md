@@ -192,3 +192,4 @@ The resulting list should be: 12 → 15 → 19 → 10 → 24
 > [!answer]
 > *non-atomic in-place method*
 > ![[CSDS 233 - Intro to Data Structures/Projects/3/Written/tables#^4a|tables]]
+> *pseudo-code in the style of javascript/typescript with java-like class annotations*
