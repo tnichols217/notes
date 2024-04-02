@@ -191,4 +191,5 @@ The resulting list should be: 12 → 15 → 19 → 10 → 24
 
 > [!answer]
 > *non-atomic method*
-> Given arguments `left: int` and `right: int`
+> Given arguments `array: SinglyLinkedList`, `left: int` and `right: int`
+> 1. Let `a=array[left-1`
