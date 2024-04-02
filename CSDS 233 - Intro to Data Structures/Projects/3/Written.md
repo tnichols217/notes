@@ -130,7 +130,7 @@ Insertion Sort
 > [!answer]
 > 1. Initialize the sorted index at `0`, all items left of including the index, is sorted
 > 2. Recurse backwards from the sorted index, searching for the first smaller node than the node after the sorted index
-> 4. Move the node after the sorted index to after the smaller node
+> 4. Move the node after the sorted index to after the smaller node, or to the beginning of the array if there are no smaller nodes
 > 5. If there is no next node after the sorted index, finish
 > 6. Increment the sorted index and go to step 2
 > 
@@ -142,22 +142,22 @@ Insertion Sort
 > Iteration: `1`
 > Array: `[2,24,69,8,1,15]`
 > Index: `1`
-> Smaller index: `None`
+> Smaller index: `0`
 > 
 > Iteration: `2`
 > Array: `[2,24,69,8,1,15]`
 > Index: `2`
-> Smaller index: `None`
+> Smaller index: `1`
 > 
 > Iteration: `3`
 > Array: `[2,24,69,8,1,15]`
 > Index: `3`
-> Smaller index: `1`
+> Smaller index: `0`
 > 
 > Iteration: `4`
 > Array: `[2,8,24,69,1,15]`
 > Index: `4`
-> Smaller index: `0`
+> Smaller index: `None`
 > 
 > Iteration: `5`
 > Array: `[1,2,8,24,69,15]`
