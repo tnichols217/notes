@@ -41,7 +41,7 @@ Compare the two algorithms in terms of space and time complexity. Explain your a
 
 > [!answer]
 > Where $N$ is the length of the array:
-> In terms of time, 
+> 
 
 # 2
 
