@@ -190,8 +190,5 @@ Right: 5
 The resulting list should be: 12 → 15 → 19 → 10 → 24
 
 > [!answer]
-> *non-atomic method*
-> Given arguments `array: SinglyLinkedList`, `left: int` and `right: int`
-> 1. `let a = array[left-1]`
-> 2. `let filo = new Stack()`
-> 3. 
+> *non-atomic in-place method*
+> ![[CSDS 233 - Intro to Data Structures/Projects/3/Written/tables#^4a|tables]]

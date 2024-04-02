@@ -4,21 +4,17 @@
 | Time (by comparisons)  | $O(3\log_2N)=O(\log N)$ | $O(3\log_2N)=O(\log N)$ |
 ^1a
 
-
-> Given arguments `array: SinglyLinkedList`, `left: int` and `right: int`
-> 1. `let a = array[left-1]`
-> 2. `let filo = new Stack()`
-
-
 ```ts
 function reverse(array: SinglyLinkedList, left: int, right: int) {
 	let a = array[left-1]
 	let filo = new Stack();
-	for (i = a; i.next != null; i=i.next {
+	for (i = a; i.next != None; i=i.next {
 		filo.add(i)
 	}
 	for (i = filo.pop(); filo.hasNext(); i = filo.pop()) {
-		a.next = 
+		a.next = i
+		a = i
 	}
 }
 ```
+^4a
