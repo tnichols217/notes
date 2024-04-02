@@ -162,7 +162,7 @@ Insertion Sort
 > Iteration: `5`
 > Array: `[1,2,8,24,69,15]`
 > Index: `5`
-> Smaller index: `3`
+> Smaller index: `2`
 > 
 > Iteration: `6`
 > Array: `[1,2,8,15,24,69]`
@@ -174,6 +174,9 @@ Insertion Sort
 ## b
 
 Why is the best case for Insertion Sort O(N)? Give an example of the scenario in which the best case occurs
+
+> [!answer]
+> Insertion sort must always compare every pair of seq
 
 # 4
 
