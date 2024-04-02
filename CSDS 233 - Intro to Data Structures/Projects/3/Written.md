@@ -77,13 +77,17 @@ Given an array of 6 elements: 2, 24, 69, 8, 1, 15. Please explain step-by-step h
 
 ### i
 
-Selection Sort.
+Selection Sort
 
 > [!answer]
+> 1. Initialize your sorted index variable at `0`
+> 2. Scan all values to the rig
 > Array: `[2,24,69,8,1,15]`
 > 
 
 ### ii
+
+Insertion Sort
 
 > [!answer]
 > 
