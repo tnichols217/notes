@@ -54,9 +54,9 @@ Compare the two algorithms in terms of space and time complexity. Explain your a
 Is it possible to create an iterator on a custom object that does not implement the Iterable interface? Briefly explain why
 
 > [!answer]
-> This is an extremely unspecific question, but these are the conditions needed to create an iterator in java:
+> Yes, it is possible
 > 
-> 
+> If the class has
 
 ## b
 
