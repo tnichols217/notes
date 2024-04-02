@@ -176,7 +176,7 @@ Insertion Sort
 Why is the best case for Insertion Sort O(N)? Give an example of the scenario in which the best case occurs
 
 > [!answer]
-> Insertion sort must always compare every pair of seq
+> Insertion sort must always compare every pair of sequential nodes, leading to `N-1` comparisons at minimum when the list is already sorted. When the list is sorted as an input, no swaps are made either.
 
 # 4
 
@@ -188,3 +188,5 @@ List: 12 → 15 → 24 → 10 → 19
 Left: 3
 Right: 5
 The resulting list should be: 12 → 15 → 19 → 10 → 24
+
+
