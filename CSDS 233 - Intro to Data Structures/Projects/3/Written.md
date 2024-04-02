@@ -41,13 +41,12 @@ Compare the two algorithms in terms of space and time complexity. Explain your a
 > Where $N$ is the length of the array:
 > ![[CSDS 233 - Intro to Data Structures/Projects/3/Written/tables#^1a|tables]]
 > 
-> Since $int$s are passed to the next function in the recursive method, java must allocate more memory for each call, as it is passed by value. The iterative approach does not have this drawback.
+> Since `int`s are passed to the next function in the recursive method, java must allocate more memory for each call, as it is passed by value. The iterative approach does not have this drawback.
 > 
 > Both have the same number of comparisons, with 3 for each iteration, and a worst case of $log_2N$ iterations.
 > 
-> The more optimized solution would be the `iterativeBinarySearch` as it 
+> The more optimized solution would be the `iterativeBinarySearch` as it uses less memory in the same time.
  
-
 # 2
 
 ## a
