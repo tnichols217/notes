@@ -143,6 +143,26 @@ Insertion Sort
 > Array: `[2,24,69,8,1,15]`
 > Index: `1`
 > Larger index: `None`
+> 
+> Iteration: `2`
+> Array: `[2,24,69,8,1,15]`
+> Index: `2`
+> Larger index: `None`
+> 
+> Iteration: `3`
+> Array: `[2,24,69,8,1,15]`
+> Index: `3`
+> Larger index: `1`
+> 
+> Iteration: `4`
+> Array: `[2,8,24,69,1,15]`
+> Index: `4`
+> Larger index: `0`
+> 
+> Iteration: `4`
+> Array: `[1,2,8,24,69,1,15]`
+> Index: `4`
+> Larger index: `0`
 
 ## b
 
