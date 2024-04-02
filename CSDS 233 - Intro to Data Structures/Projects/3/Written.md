@@ -159,10 +159,17 @@ Insertion Sort
 > Index: `4`
 > Larger index: `0`
 > 
-> Iteration: `4`
-> Array: `[1,2,8,24,69,1,15]`
-> Index: `4`
-> Larger index: `0`
+> Iteration: `5`
+> Array: `[1,2,8,24,69,15]`
+> Index: `5`
+> Larger index: `3`
+> 
+> Iteration: `6`
+> Array: `[1,2,8,15,24,69]`
+> Index: `6`
+> Done
+> 
+> Array: `[1,2,8,15,24,69]`
 
 ## b
 
