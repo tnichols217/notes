@@ -77,6 +77,14 @@ Given an array of 6 elements: 2, 24, 69, 8, 1, 15. Please explain step-by-step h
 
 ### i
 
+Selection Sort.
+
+> [!answer]
+> Array: `[2,24,69,8,1,15]`
+> 
+
+### ii
+
 > [!answer]
 > 
 

@@ -81,24 +81,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "c2d6d3aefd6d1ba9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fe22c87284499d1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written/tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
