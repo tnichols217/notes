@@ -100,6 +100,26 @@ Selection Sort
 > Array: `[1,2,69,8,24,15]`
 > Index: `2`
 > Smallest Index: `3`
+> 
+> Iteration: `3`
+> Array: `[1,2,8,69,24,15]`
+> Index: `3`
+> Smallest Index: `5`
+> 
+> Iteration: `4`
+> Array: `[1,2,8,15,24,69]`
+> Index: `4`
+> Smallest Index: `4`
+> 
+> Iteration: `5`
+> Array: `[1,2,8,15,24,69]`
+> Index: `5`
+> Smallest Index: `5`
+> 
+> Iteration: `6`
+> Array: `[1,2,8,15,24,69]`
+> Index: `6`
+> Smallest Index: `5`
 
 ### ii
 
