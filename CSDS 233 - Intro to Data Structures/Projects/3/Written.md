@@ -39,7 +39,12 @@ Compare the two algorithms in terms of space and time complexity. Explain your a
 
 > [!answer]
 > Where $N$ is the length of the array:
-> ![[CSDS 233 - Intro to Data Structures/Projects/3/Written/tables|tables]]
+> ![[CSDS 233 - Intro to Data Structures/Projects/3/Written/tables#^1a|tables]]
+> 
+> Since $int$s are passed to the next function in the recursive method, java must allocate more memory for each call, as it is passed by value. The iterative approach does not have this drawback.
+> 
+> Both ha
+ 
 
 # 2
 
