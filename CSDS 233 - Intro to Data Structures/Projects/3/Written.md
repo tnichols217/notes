@@ -128,7 +128,8 @@ Selection Sort
 Insertion Sort
 
 > [!answer]
-> 1. Initialize the s
+> 1. Initialize the sorted index at `0`, all items left of including the index, is sorted
+> 2. 
 
 ## b
 
