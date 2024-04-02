@@ -189,4 +189,6 @@ Left: 3
 Right: 5
 The resulting list should be: 12 → 15 → 19 → 10 → 24
 
-
+> [!answer]
+> 
+> 1. 
