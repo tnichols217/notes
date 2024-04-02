@@ -11,5 +11,11 @@
 
 
 ```ts
-function reverse(array: SinglyLinkedList, left: int, right)
+function reverse(array: SinglyLinkedList, left: int, right: int) {
+	let a = array[left-1]
+	let filo = new Stack();
+	for (i = a; i.hasNext(); i=i.next()) {
+		
+	}
+}
 ```
