@@ -58,11 +58,14 @@ Is it possible to create an iterator on a custom object that does not implement 
 > 
 > If the class has a public way to programatically retrieve all the items within that class's data object in order, then you can write an external class that implements an iterator for the other class through its public methods.
 > 
-> If the class you want to create an iterator for doesn't have public methods to support retrieving all the information in order in any w
+> If the class you want to create an iterator for doesn't have public methods to support retrieving all the information in order in any way, or does not contain multiple items to be iterated over, then you cannot create an iterator for that class.
 
 ## b
 
 Compare and contrast the Iterator and ListIterator interfaces in Java
+
+> [!answer]
+> `Iterator` 
 
 # 3
 
