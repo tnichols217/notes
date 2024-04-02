@@ -134,7 +134,9 @@ Insertion Sort
 > 4. If there is no next node after the sorted index, finish
 > 5. Increment the sorted index and go to step 2
 > 
-> 
+> Iteration: `0`
+> Array: `[2,24,69,8,1,15]`
+> Index: `0`
 
 ## b
 
