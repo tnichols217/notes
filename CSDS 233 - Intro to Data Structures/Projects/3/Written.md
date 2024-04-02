@@ -57,3 +57,15 @@ Given an array of 6 elements: 2, 24, 69, 8, 1, 15. Please explain step-by-step h
 
 ## b
 
+Why is the best case for Insertion Sort O(N)? Give an example of the scenario in which the best case occurs
+
+# 4
+
+Write pseudo-code/code in Java for the following problem:
+Reverse a section of a singly linked list: You have a singly linked list and two integers, left and right, with left ≤ right. Your task is to reverse the nodes of the list from position left to position right and then return the modified list.
+
+For example:
+List: 12 → 15 → 24 → 10 → 19
+Left: 3
+Right: 5
+The resulting list should be: 12 → 15 → 19 → 10 → 24
