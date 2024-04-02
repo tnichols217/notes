@@ -14,8 +14,11 @@
 function reverse(array: SinglyLinkedList, left: int, right: int) {
 	let a = array[left-1]
 	let filo = new Stack();
-	for (i = a; i.hasNext(); i=i.next()) {
-		
+	for (i = a; i.next != null; i=i.next {
+		filo.add(i)
+	}
+	for (i = filo.pop(); filo.hasNext(); i = filo.pop()) {
+		a.next = 
 	}
 }
 ```
