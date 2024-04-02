@@ -86,9 +86,20 @@ Selection Sort
 > 4. If the index is at the end of the array, finish
 > 5. Increment the index and go to step 2
 > 
+> Iteration: `0`
 > Array: `[2,24,69,8,1,15]`
 > Index: `0`
-> Smallest Index: ``
+> Smallest Index: `4`
+> 
+> Iteration: `1`
+> Array: `[1,24,69,8,2,15]`
+> Index: `1`
+> Smallest Index: `4` 
+> 
+> Iteration: `2`
+> Array: `[1,2,69,8,24,15]`
+> Index: `2`
+> Smallest Index: `3`
 
 ### ii
 
