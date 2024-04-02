@@ -10,7 +10,17 @@ public static int recursiveBinarySearch(int[] array, int target, int left, int r
 			return mid;
 		if (array[mid] < target)
 			return recursiveBinarySearch(array, target, mid + 1, right);
-		return recur
+		return recursiveBinarySearch(array, target, left, mid - 1);
 	}
+	return -1;
+}
+```
+
+```java
+public static int iterativeBinarySearch(int[] array, int target) {
+	int left = 0;
+	int right = array.length - 1;
+
+	while (left <=)
 }
 ```
