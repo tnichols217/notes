@@ -129,7 +129,8 @@ Insertion Sort
 
 > [!answer]
 > 1. Initialize the sorted index at `0`, all items left of including the index, is sorted
-> 2. 
+> 2. Scan all values left of the sorted index inclusive for the first node larger than the value of the node after the sorted index
+> 3. Move the node after the sorted index to before the 
 
 ## b
 
