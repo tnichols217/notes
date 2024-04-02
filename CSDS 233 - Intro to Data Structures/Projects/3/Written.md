@@ -75,6 +75,9 @@ Compare and contrast the Iterator and ListIterator interfaces in Java
 
 Given an array of 6 elements: 2, 24, 69, 8, 1, 15. Please explain step-by-step how selection sort and insertion sort will be performed on the array. You can choose either the recursive or the iterative way
 
+> [!answer]
+> 
+
 ## b
 
 Why is the best case for Insertion Sort O(N)? Give an example of the scenario in which the best case occurs
