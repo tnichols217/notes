@@ -130,13 +130,19 @@ Insertion Sort
 > [!answer]
 > 1. Initialize the sorted index at `0`, all items left of including the index, is sorted
 > 2. Scan all values left of the sorted index inclusive for the first node larger than the value of the node after the sorted index
-> 3. Move the node after the sorted index to before the larger node
+> 3. Move the node after the sorted index to before the larger node, or to the right of the sorted index if there are no larger nodes
 > 4. If there is no next node after the sorted index, finish
 > 5. Increment the sorted index and go to step 2
 > 
 > Iteration: `0`
 > Array: `[2,24,69,8,1,15]`
 > Index: `0`
+> Larger index: `None`
+> 
+> Iteration: `1`
+> Array: `[2,24,69,8,1,15]`
+> Index: `1`
+> Larger index: `None`
 
 ## b
 
