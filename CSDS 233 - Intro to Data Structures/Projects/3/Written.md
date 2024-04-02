@@ -81,7 +81,9 @@ Selection Sort
 
 > [!answer]
 > 1. Initialize your sorted index variable at `0`
-> 2. Scan all values to the rig
+> 2. Scan all values to the right of (including) that index for the smallest number
+> 3. Swap the item at the index with the smallest number
+> 4. Increment 
 > Array: `[2,24,69,8,1,15]`
 > 
 
