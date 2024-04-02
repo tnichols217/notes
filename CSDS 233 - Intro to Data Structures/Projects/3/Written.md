@@ -65,7 +65,9 @@ Is it possible to create an iterator on a custom object that does not implement 
 Compare and contrast the Iterator and ListIterator interfaces in Java
 
 > [!answer]
-> `Iterator` traverses only forwards while `ListIterator` can traverse in either direc
+> `Iterator` traverses only forwards while `ListIterator` can traverse in either direction.
+> 
+> `ListIterator` additionally can add, remove, and get the index of items, while `Iterator` cannot.
 
 # 3
 
