@@ -192,4 +192,6 @@ The resulting list should be: 12 → 15 → 19 → 10 → 24
 > [!answer]
 > *non-atomic method*
 > Given arguments `array: SinglyLinkedList`, `left: int` and `right: int`
-> 1. Let `a=array[left-1`
+> 1. `let a = array[left-1]`
+> 2. `let filo = new Stack()`
+> 3. 
