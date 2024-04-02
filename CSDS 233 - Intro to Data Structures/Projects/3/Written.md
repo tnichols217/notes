@@ -119,14 +119,16 @@ Selection Sort
 > Iteration: `6`
 > Array: `[1,2,8,15,24,69]`
 > Index: `6`
-> Smallest Index: `5`
+> Done
+> 
+> Array: `[1,2,8,15,24,69]`
 
 ### ii
 
 Insertion Sort
 
 > [!answer]
-> 
+> 1. Initialize the s
 
 ## b
 
