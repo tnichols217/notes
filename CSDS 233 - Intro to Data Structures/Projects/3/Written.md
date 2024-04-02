@@ -129,41 +129,40 @@ Insertion Sort
 
 > [!answer]
 > 1. Initialize the sorted index at `0`, all items left of including the index, is sorted
-> 2. Recurse backwards from the sorted index, searching for the first smaller node
-> 3. Scan all values left of the sorted index inclusive for the first node larger than the value of the node after the sorted index
-> 4. Move the node after the sorted index to before the larger node, or to the right of the sorted index if there are no larger nodes
+> 2. Recurse backwards from the sorted index, searching for the first smaller node than the node after the sorted index
+> 4. Move the node after the sorted index to after the smaller node
 > 5. If there is no next node after the sorted index, finish
 > 6. Increment the sorted index and go to step 2
 > 
 > Iteration: `0`
 > Array: `[2,24,69,8,1,15]`
 > Index: `0`
-> Larger index: `None`
+> Smaller index: `None`
 > 
 > Iteration: `1`
 > Array: `[2,24,69,8,1,15]`
 > Index: `1`
-> Larger index: `None`
+> Smaller index: `None`
 > 
 > Iteration: `2`
 > Array: `[2,24,69,8,1,15]`
 > Index: `2`
-> Larger index: `None`
+> Smaller index: `None`
 > 
 > Iteration: `3`
 > Array: `[2,24,69,8,1,15]`
 > Index: `3`
-> Larger index: `1`
+> Smaller index: `1`
 > 
 > Iteration: `4`
 > Array: `[2,8,24,69,1,15]`
 > Index: `4`
-> Larger index: `0`
+> Smaller index: `0`
 > 
 > Iteration: `5`
 > Array: `[1,2,8,24,69,15]`
 > Index: `5`
-> Larger index: `3`
+> Smaller index: `3`
 > 
 > Iteration: `6`
 > Array: `[1,2,8,15,24,69]`
