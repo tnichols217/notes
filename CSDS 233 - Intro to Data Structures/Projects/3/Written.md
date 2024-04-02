@@ -33,6 +33,27 @@ public static int iterativeBinarySearch(int[] array, int target) {
 		else
 			right = mid - 1;
 	}
-	return -1
+	return -1;
 }
 ```
+
+Compare the two algorithms in terms of space and time complexity. Explain your answer.
+
+# 2
+
+## a
+
+Is it possible to create an iterator on a custom object that does not implement the Iterable interface? Briefly explain why
+
+## b
+
+Compare and contrast the Iterator and ListIterator interfaces in Java
+
+# 3
+
+## a
+
+Given an array of 6 elements: 2, 24, 69, 8, 1, 15. Please explain step-by-step how selection sort and insertion sort will be performed on the array. You can choose either the recursive or the iterative way
+
+## b
+
