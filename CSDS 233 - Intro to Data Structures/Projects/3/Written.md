@@ -26,10 +26,8 @@ public static int iterativeBinarySearch(int[] array, int target) {
 
 		if (array[mid] == target)
 			return mid;
-			
 		if (array[mid] < target)
 			left = mid + 1;
-		
 		else
 			right = mid - 1;
 	}
