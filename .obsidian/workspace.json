@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/5.md"
+                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,9 +230,11 @@
   },
   "active": "fe22c87284499d1e",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/Labs/5/5.md",
+    "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
+    "CSDS 233 - Intro to Data Structures/Projects/3",
     "PHYS 121 - Physics 1/Labs/3/Analysis.md",
     "PHYS 121 - Physics 1/Labs/3/3.pdf",
-    "PHYS 121 - Physics 1/Labs/5/5.md",
     "PHYS 121 - Physics 1/Labs/5/WithMass.png",
     "PHYS 121 - Physics 1/Labs/5/Untitled",
     "PHYS 121 - Physics 1/Labs/5/NoMass.png",
@@ -264,7 +266,6 @@
     "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/HW/2.md",
     "CSDS 302 - Discrete Math/HW/1.md",
-    "PHYS 121 - Physics 1/Labs/5/data2.txt",
     "CSDS 281 - Logic Design/HW/4/Tables.md",
     "CSDS 281 - Logic Design/HW/4.md",
     "CSDS 281 - Logic Design/HW/5.md",
@@ -275,7 +276,6 @@
     "college/Midyear Update Emails.md",
     "college/Extra Questions.md",
     "college/Amherst Supplemental.md",
-    "Private/college/QB Essay.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
