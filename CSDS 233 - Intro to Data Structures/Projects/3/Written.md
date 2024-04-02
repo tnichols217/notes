@@ -39,7 +39,7 @@ Compare the two algorithms in terms of space and time complexity. Explain your a
 
 > [!answer]
 > Where $N$ is the length of the array:
-> 
+> ![[CSDS 233 - Intro to Data Structures/Projects/3/Written/tables|tables]]
 
 # 2
 

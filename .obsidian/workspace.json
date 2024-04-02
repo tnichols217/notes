@@ -6,7 +6,6 @@
       {
         "id": "02e9da2b998bf76d",
         "type": "tabs",
-        "dimension": 39.5864106351551,
         "children": [
           {
             "id": "9b07e3bfb0f599d2",
@@ -57,6 +56,18 @@
             }
           },
           {
+            "id": "3e96acdea1d65634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b6c5ebaf85bf906",
             "type": "leaf",
             "state": {
@@ -81,26 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "97d586fa4d37588d",
-        "type": "tabs",
-        "dimension": 60.4135893648449,
-        "children": [
-          {
-            "id": "3e96acdea1d65634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written/tables.md"
+                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md"
               }
             }
           }
@@ -192,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written/tables.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,10 +240,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fe22c87284499d1e",
+  "active": "3e96acdea1d65634",
   "lastOpenFiles": [
-    "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written/tables.md",
+    "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
     "AIQS 100/comic/draft.md",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written",
     "PHYS 121 - Physics 1/Labs/5/5.md",
