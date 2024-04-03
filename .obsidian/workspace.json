@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/9.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/7/data.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/9.md"
+                "file": "ENGR 145 - Chemistry of Materials/HW/7/data.md"
               }
             }
           }
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/9.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/7/data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,6 +219,10 @@
   },
   "active": "ffd6d3d064f53e02",
   "lastOpenFiles": [
+    "ENGR 145 - Chemistry of Materials/HW/1.md",
+    "PHYS 121 - Physics 1/HW/1/1.md",
+    "ENGR 145 - Chemistry of Materials/HW/7/data.md",
+    "ENGR 145 - Chemistry of Materials/HW/9.md",
     "AIQS 100/comic/draft.md",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written/tables.md",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
@@ -239,7 +244,6 @@
     "PHYS 121 - Physics 1/Labs/5/NoMass.png",
     "PHYS 121 - Physics 1/Labs/5/MC.png",
     "PHYS 121 - Physics 1/Labs/5/lab5.pdf",
-    "ENGR 145 - Chemistry of Materials/HW/9.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",
     "ENGR 145 - Chemistry of Materials/HW/9/2.png",
     "ENGR 145 - Chemistry of Materials/HW/9/image143.png",
@@ -261,8 +265,6 @@
     "CSDS 281 - Logic Design/HW/5.md",
     "CSDS 281 - Logic Design/HW/6.md",
     "college/Writing Seminar.md",
-    "college/Stop Googling Lets Talk.md",
-    "college/Interview Prep.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
