@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "ba6a8b2ea2124c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3e96acdea1d65634",
             "type": "leaf",
             "state": {
@@ -272,10 +284,10 @@
   },
   "active": "d6051093d0279fe9",
   "lastOpenFiles": [
-    "PHYS 121 - Physics 1/Labs/5/MC.png~",
-    "PHYS 121 - Physics 1/Labs/5/diagram.svg",
     "PHYS 121 - Physics 1/Labs/3/Analysis.md",
     "PHYS 121 - Physics 1/Labs/5/5.md",
+    "PHYS 121 - Physics 1/Labs/5/MC.png~",
+    "PHYS 121 - Physics 1/Labs/5/diagram.svg",
     "PHYS 121 - Physics 1/Labs/3/3.pdf",
     "PHYS 121 - Physics 1/Labs/4/4.md",
     "PHYS 121 - Physics 1/HW/7/7.md",
@@ -302,7 +314,6 @@
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240331234339.png",
     "PHYS 121 - Physics 1/HW/7/images/1b.svg",
     "PHYS 121 - Physics 1/HW/7/images",
-    "PHYS 121 - Physics 1/HW/7",
     "CSDS 281 - Logic Design/HW/7.md",
     "CSDS 302 - Discrete Math/HW/7.md",
     "CSDS 302 - Discrete Math/HW/6.md",
