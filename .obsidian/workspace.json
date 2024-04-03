@@ -47,9 +47,11 @@
             "id": "d6051093d0279fe9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png"
+                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png"
+                "file": "PHYS 121 - Physics 1/Labs/5/5.md"
               }
             }
           }
@@ -206,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/Report Cover.png",
+                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,11 +264,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "d6051093d0279fe9",
   "lastOpenFiles": [
-    "PHYS 121 - Physics 1/Labs/5/Report Cover.png",
-    "PHYS 121 - Physics 1/Labs/5/5.md",
+    "PHYS 121 - Physics 1/Labs/5/5.pdf",
     "PHYS 121 - Physics 1/Labs/3/Analysis.md",
+    "PHYS 121 - Physics 1/Labs/5/5.md",
+    "PHYS 121 - Physics 1/Labs/Report Cover.png",
+    "PHYS 121 - Physics 1/Labs/5/Report Cover.png~",
+    "PHYS 121 - Physics 1/Labs/5/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/5/MC.png~",
     "PHYS 121 - Physics 1/Labs/5/diagram.svg",
     "PHYS 121 - Physics 1/Labs/3/3.pdf",
@@ -292,9 +297,6 @@
     "PHYS 121 - Physics 1/HW/7/images/2a.svg",
     "CSDS 281 - Logic Design/HW/Extra.md",
     "CSDS 281 - Logic Design/HW/Extra.pdf",
-    "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240331234339.png",
-    "PHYS 121 - Physics 1/HW/7/images/1b.svg",
-    "PHYS 121 - Physics 1/HW/7/images",
     "CSDS 281 - Logic Design/HW/7.md",
     "CSDS 302 - Discrete Math/HW/7.md",
     "CSDS 302 - Discrete Math/HW/6.md",
