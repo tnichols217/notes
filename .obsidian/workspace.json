@@ -6,7 +6,6 @@
       {
         "id": "02e9da2b998bf76d",
         "type": "tabs",
-        "dimension": 49.039881831610046,
         "children": [
           {
             "id": "9b07e3bfb0f599d2",
@@ -108,18 +107,17 @@
         "currentTab": 3
       },
       {
-        "id": "416b275477cc126e",
+        "id": "6652deee3f803447",
         "type": "tabs",
-        "dimension": 50.960118168389954,
         "children": [
           {
-            "id": "49a667d2673d07a9",
+            "id": "ed4535e0e4105dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md",
-                "mode": "source",
+                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -272,7 +270,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d6051093d0279fe9",
+  "active": "ed4535e0e4105dc2",
   "lastOpenFiles": [
     "PHYS 121 - Physics 1/Labs/5/diagram.svg",
     "PHYS 121 - Physics 1/Labs/3/Analysis.md",
