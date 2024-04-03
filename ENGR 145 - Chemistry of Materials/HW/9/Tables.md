@@ -33,11 +33,11 @@ xAxis:
   label: Composition (wt% Si)
   domain:
     - 0
-    - 100
+    - 110
 yAxis:
   label: Temperature (°C)
   domain:
-    - 0
+    - 850
     - 1500
 ```
 ^1a
