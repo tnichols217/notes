@@ -30,13 +30,14 @@ data:
     fnType: points
     graphType: polyline
 xAxis:
-  label: Strain
+  label: Composition (wt% Si)
   domain:
     - 0
     - 100
 yAxis:
-  label: Strength (GPa)
+  label: Temperature (°C)
   domain:
     - 0
     - 1500
 ```
+^1a
