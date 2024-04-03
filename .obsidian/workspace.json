@@ -44,60 +44,12 @@
             }
           },
           {
-            "id": "d6051093d0279fe9",
+            "id": "ffd6d3d064f53e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba6a8b2ea2124c54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS 121 - Physics 1/Labs/3/Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e96acdea1d65634",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9991e6cd41040b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written/tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b6c5ebaf85bf906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/9.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/5.md"
+                "file": "ENGR 145 - Chemistry of Materials/HW/9.md"
               }
             }
           }
@@ -208,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,11 +216,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d6051093d0279fe9",
+  "active": "ffd6d3d064f53e02",
   "lastOpenFiles": [
+    "AIQS 100/comic/draft.md",
+    "CSDS 233 - Intro to Data Structures/Projects/3/Written/tables.md",
+    "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
+    "PHYS 121 - Physics 1/Labs/5/5.md",
     "PHYS 121 - Physics 1/Labs/5/5.pdf",
     "PHYS 121 - Physics 1/Labs/3/Analysis.md",
-    "PHYS 121 - Physics 1/Labs/5/5.md",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/5/Report Cover.png~",
     "PHYS 121 - Physics 1/Labs/5/Report Cover.png",
@@ -277,9 +232,6 @@
     "PHYS 121 - Physics 1/Labs/3/3.pdf",
     "PHYS 121 - Physics 1/Labs/4/4.md",
     "PHYS 121 - Physics 1/HW/7/7.md",
-    "AIQS 100/comic/draft.md",
-    "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
-    "CSDS 233 - Intro to Data Structures/Projects/3/Written/tables.md",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written",
     "CSDS 233 - Intro to Data Structures/Projects/3",
     "PHYS 121 - Physics 1/Labs/5/WithMass.png",
@@ -296,7 +248,6 @@
     "PHYS 121 - Physics 1/HW/7/images/3a.svg",
     "PHYS 121 - Physics 1/HW/7/images/2a.svg",
     "CSDS 281 - Logic Design/HW/Extra.md",
-    "CSDS 281 - Logic Design/HW/Extra.pdf",
     "CSDS 281 - Logic Design/HW/7.md",
     "CSDS 302 - Discrete Math/HW/7.md",
     "CSDS 302 - Discrete Math/HW/6.md",
