@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
+                "file": "CSDS 281 - Logic Design/HW/8.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md"
+                "file": "CSDS 281 - Logic Design/HW/8.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
+                "file": "CSDS 281 - Logic Design/HW/8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +230,8 @@
   },
   "active": "698ff6d2f0467b12",
   "lastOpenFiles": [
+    "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
+    "CSDS 281 - Logic Design/HW/8.md",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written.pdf",
     "ENGR 145 - Chemistry of Materials/HW/9.md",
     "ENGR 145 - Chemistry of Materials/HW/9.pdf",
@@ -241,7 +243,6 @@
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "AIQS 100/comic/draft.md",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written/tables.md",
-    "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
     "PHYS 121 - Physics 1/Labs/5/5.md",
     "PHYS 121 - Physics 1/Labs/5/5.pdf",
     "PHYS 121 - Physics 1/Labs/3/Analysis.md",
@@ -259,7 +260,6 @@
     "PHYS 121 - Physics 1/Labs/5/Untitled",
     "PHYS 121 - Physics 1/Labs/5/NoMass.png",
     "PHYS 121 - Physics 1/Labs/5/MC.png",
-    "PHYS 121 - Physics 1/Labs/5/lab5.pdf",
     "CSDS 281 - Logic Design/HW/7/tables.md",
     "ENGR 145 - Chemistry of Materials/HW/9/2.png",
     "ENGR 145 - Chemistry of Materials/HW/9/image143.png",
