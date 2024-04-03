@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "PHYS 121 - Physics 1/Labs/5/5.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -117,24 +117,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "6652deee3f803447",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ed4535e0e4105dc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS 121 - Physics 1/Labs/5/5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
