@@ -61,7 +61,6 @@ Q2 ~~~ Q1 ~~~ Z
 ^2b
 
 ```mermaid
-%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
 flowchart LR
 subgraph invis-inputs
 	X
@@ -84,7 +83,6 @@ subgraph invis-logic
 			Q2[Q]
 			Q2P[Q']
 		end
-		invis-D2-inputs --- invis-D2-outputs
 	end
 	Q1 & Q2 --- and1[---]
 	Q1P & and1 --- or1[---]
