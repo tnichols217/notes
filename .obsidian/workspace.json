@@ -82,7 +82,7 @@
               "state": {
                 "file": "CSDS 281 - Logic Design/HW/8/Tables.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8.md"
+                "file": "CSDS 281 - Logic Design/HW/8/Tables.md"
               }
             }
           }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8.md",
+                "file": "CSDS 281 - Logic Design/HW/8/Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,10 +234,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b8baf220194fc962",
+  "active": "698ff6d2f0467b12",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/HW/8/Tables.md",
     "CSDS 281 - Logic Design/HW/8.md",
+    "CSDS 281 - Logic Design/HW/8/Tables.md",
     "ENGR 145 - Chemistry of Materials/HW/9.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",
     "CSDS 281 - Logic Design/HW/8",
