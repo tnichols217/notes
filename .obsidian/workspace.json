@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8.md"
+                "file": "AIQS 100/comic/draft.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8.md",
+                "file": "AIQS 100/comic/draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,11 +228,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b8baf220194fc962",
+  "active": "c3b5a8f69bf46ed9",
   "lastOpenFiles": [
+    "CSDS 281 - Logic Design/HW/8.md",
     "AIQS 100/comic/draft.md",
     "CSDS 281 - Logic Design/HW/8/Tables.md",
-    "CSDS 281 - Logic Design/HW/8.md",
     "ENGR 145 - Chemistry of Materials/HW/9.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",
     "CSDS 281 - Logic Design/HW/8",
