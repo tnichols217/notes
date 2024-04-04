@@ -40,9 +40,9 @@ beginq2[begin] ---> 0q2[0]
 end
 subgraph Z
 beginz[begin] ---> 1z[1]
-1z --->|Q1=1 && Q2=0| 0z
+1z --->|Q1=1 && Q2=0| 0z[0]
 0z --->|Q1=1 && Q2=0| 0z
-0z ---> 
+0z --->|"Q1=0 || Q2=1"| 1z
 end
 Q1 ~~~ Q2 ~~~ Z
 ```
