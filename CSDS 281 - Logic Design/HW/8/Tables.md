@@ -59,3 +59,9 @@ Q2 ~~~ Q1 ~~~ Z
 | 1   | 1   | 0   | 1   | 0   | 1   |
 | 1   | 1   | 1   | 1   | 0   | 1   |
 ^2b
+
+```mermaid
+%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
+flowchart LR
+subgraph invis-
+```
