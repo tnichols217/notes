@@ -96,10 +96,10 @@ subgraph invis-logic
 	and2 --- D2ii([D2])
 	D2ii --- D2i
 	Q1P & Q2 --- or2[---]
-	or2 --- Z
 end
 subgraph invis-outputs
 	Z
 end
+or2 --- Z
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
