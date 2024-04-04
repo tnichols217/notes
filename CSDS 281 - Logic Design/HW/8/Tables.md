@@ -32,14 +32,12 @@ beginq1[begin] ---> 0q1[0]
 1q1 --->|Q2=1| 1q1 
 1q1 --->|Q2=0| 0q1
 end
-X ~~~ Y
-subgraph Y
-beginy[begin] ---> 01y
-01y[0] --->|A=0| 01y
-01y --->|A=1| 02y[0]
-02y --->|A=0| 01y
-02y --->|A=1| 1y[1]
-1y ---> 1y
+Q1 ~~~ Q2
+subgraph Q2
+beginq2[begin] ---> 0q2[0]
+0q2 --->|X=0| 1q2
+0q2 --->|X=1| 0q2
+
 end
 ```
 ^2
