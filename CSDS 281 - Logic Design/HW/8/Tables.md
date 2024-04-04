@@ -39,8 +39,9 @@ beginq2[begin] ---> 0q2[0]
 1q2 ---> 0q2
 end
 subgraph Z
-
+beginz[begin] ---> 1z[1]
+1z ---> 0z
 end
-Q1 ~~~ Q2
+Q1 ~~~ Q2 ~~~ Z
 ```
 ^2
