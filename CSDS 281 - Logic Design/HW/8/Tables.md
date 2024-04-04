@@ -110,3 +110,13 @@ invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
 ^2c
 
+```mermaid
+%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
+flowchart LR
+subgraph invis-inputs
+	Clock
+end
+subgraph invis-outpus
+	
+end
+```
