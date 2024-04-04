@@ -122,7 +122,8 @@ subgraph Y
 	7 ---> 0
 end
 subgraph Y0
-	
+	begin ---> 01[0]
+	001 ---> 011[1]
 end
 
 ```
