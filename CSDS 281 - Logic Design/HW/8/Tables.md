@@ -125,6 +125,7 @@ subgraph Y
 	7 ---> 0
 end
 subgraph Y0
+	direction
 	begin ---> 00[0]
 	00 ---> 01[1]
 	01 ---> 00
