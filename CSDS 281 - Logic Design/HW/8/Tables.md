@@ -65,12 +65,15 @@ Q2 ~~~ Q1 ~~~ Z
 flowchart LR
 subgraph invis-inputs
 	X
+	Clock
 end
 subgraph invis-logic
 	subgraph D1
 		subgraph invis-D1-inputs
 			D1i[D]
+			D1c[Clock]
 		end
+		Clock --- D1c
 		subgraph invis-D1-outputs
 			Q1[Q]
 			Q1P[Q']
@@ -80,6 +83,7 @@ subgraph invis-logic
 	subgraph D2
 		subgraph invis-D2-inputs
 			D2i[D]
+			D2c[Clock]
 		end
 		subgraph invis-D2-outputs
 			Q2[Q]
