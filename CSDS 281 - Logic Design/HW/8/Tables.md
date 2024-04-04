@@ -61,6 +61,7 @@ Q2 ~~~ Q1 ~~~ Z
 ^2b
 
 ```mermaid
+%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
 flowchart LR
 subgraph invis-inputs
 	X
@@ -92,4 +93,8 @@ subgraph invis-outputs
 	Z
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
+```
+
+```mermaid
+
 ```
