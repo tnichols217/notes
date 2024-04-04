@@ -130,6 +130,7 @@ subgraph Y0
 	01 ---> 00
 end
 subgraph Y1
+	begin ---> 101[0]
 	
 end
 
