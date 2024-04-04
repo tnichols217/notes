@@ -116,7 +116,13 @@ flowchart LR
 subgraph invis-inputs
 	Clock
 end
-subgraph invis-outpus
-	
+subgraph invis-logic
+
 end
+subgraph invis-outpus
+	Y0
+	Y1
+	Y3MSB
+end
+invis-inputs ~~~ invis-logic ~~~ invis-outpus
 ```
