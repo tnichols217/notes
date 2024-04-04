@@ -165,6 +165,7 @@ subgraph Y2'
 end
 Y ~~~ Y0 ~~~ Y1 ~~~ Y2 ~~~ Y1' ~~~ Y2'
 ```
+^3a
 
 | Y2  | Y1  | Y0  | Y2* | Y1* | Y0* |
 | --- | --- | --- | --- | --- | --- |
@@ -174,6 +175,7 @@ Y ~~~ Y0 ~~~ Y1 ~~~ Y2 ~~~ Y1' ~~~ Y2'
 | 1   | 0   | 1   | 1   | 1   | 0   |
 | 1   | 1   | 0   | 1   | 1   | 1   |
 | 1   | 1   | 1   | 0   | 0   | 0   |
+^3b
 
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
