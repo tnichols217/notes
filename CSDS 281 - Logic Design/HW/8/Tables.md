@@ -27,14 +27,8 @@ end
 ```mermaid
 flowchart LR
 subgraph Q1
-beginq1[begin] ---> 01x
-01x[0] --->|A=0| 01x
-01x --->|A=1| 02x[0]
-02x --->|A=0| 02x
-02x --->|A=1| 03x[0]
-03x --->|A=0| 03x
-03x --->|A=1| 1x[1]
-1x ---> 1x
+beginq1[begin] ---> 0q1[0]
+0q1 --->|| 1q1
 end
 X ~~~ Y
 subgraph Y
