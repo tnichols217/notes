@@ -34,7 +34,7 @@ beginq1[begin] ---> 0q1[0]
 end
 subgraph Q2
 beginq2[begin] ---> 0q2[0]
-0q2 --->|X=0| 1q2
+0q2 --->|X=0| 1q2[1]
 0q2 --->|X=1| 0q2
 1q2 ---> 0q2
 end
@@ -44,6 +44,6 @@ beginz[begin] ---> 1z[1]
 0z --->|Q1=1 && Q2=0| 0z
 0z --->|"Q1=0 || Q2=1"| 1z
 end
-Q1 ~~~ Q2 ~~~ Z
+Q2 ~~~ Q1 ~~~ Z
 ```
 ^2
