@@ -75,6 +75,7 @@ subgraph invis-logic
 			Q1[Q]
 			Q1P[Q']
 		end
+		invis-D1-inputs ~~~ invis-D1-outputs
 	end
 	subgraph D2
 		subgraph invis-D2-inputs
@@ -84,6 +85,7 @@ subgraph invis-logic
 			Q2[Q]
 			Q2P[Q']
 		end
+		invis-D2-inputs ~~~ invis-D2-outputs
 	end
 	Q1 & Q2 --- and1[---]
 	Q1P & and1 --- or1[---]
