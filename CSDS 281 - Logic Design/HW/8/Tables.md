@@ -85,6 +85,7 @@ subgraph invis-logic
 			D2i[D]
 			D2c[Clock]
 		end
+		Clock --- D2c
 		subgraph invis-D2-outputs
 			Q2[Q]
 			Q2P[Q']
@@ -107,3 +108,5 @@ end
 or2 --- Z
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
+^2c
+
