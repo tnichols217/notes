@@ -89,8 +89,12 @@ subgraph invis-logic
 	end
 	Q1 & Q2 --- and1[---]
 	Q1P & and1 --- or1[---]
-	or1 --- D1ii[D1]
+	or1 --- D1ii([D1])
 	D1ii --- D1i
+	Q2P --- and2
+	X ---o and2
+	and2 --- D2ii([D2])
+	D2ii --- D2i
 end
 subgraph invis-outputs
 	Z
