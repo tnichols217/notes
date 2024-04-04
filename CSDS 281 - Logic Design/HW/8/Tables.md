@@ -28,7 +28,9 @@ end
 flowchart LR
 subgraph Q1
 beginq1[begin] ---> 0q1[0]
-0q1 --->|| 1q1
+0q1 ---> 1q1[1]
+1q1 --->|Q2=1| 1q1 
+1q1 --->|Q2=0| 0q1
 end
 X ~~~ Y
 subgraph Y
