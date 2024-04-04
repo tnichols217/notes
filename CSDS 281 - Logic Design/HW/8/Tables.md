@@ -64,31 +64,33 @@ Q2 ~~~ Q1 ~~~ Z
 %%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
 flowchart LR
 subgraph invis-inputs
-X
+	X
 end
 subgraph invis-logic
-subgraph D1
-subgraph invis-D1-inputs
-D1[D]
-end
-subgraph invis-D1-outputs
-Q1[Q]
-Q1P[Q']
-end
-invis-D1-inputs ~~~ invis-D1-outputs
-end
-subgraph D2
-subgraph invis-D2-inputs
-D2[D]
-end
-subgraph invis-D2-outputs
-Q2[Q]
-Q2P[Q']
-end
-invis-D2-inputs ~~~ invis-D2-outputs
-end
+	subgraph D1
+		subgraph invis-D1-inputs
+			D1[D]
+		end
+		subgraph invis-D1-outputs
+			Q1[Q]
+			Q1P[Q']
+		end
+		invis-D1-inputs ~~~ invis-D1-outputs
+	end
+	subgraph D2
+		subgraph invis-D2-inputs
+			D2[D]
+		end
+		subgraph invis-D2-outputs
+			Q2[Q]
+			Q2P[Q']
+		end
+		invis-D2-inputs ~~~ invis-D2-outputs
+	end
+	
 end
 subgraph invis-outputs
-Z
+	Z
 end
+invis-
 ```
