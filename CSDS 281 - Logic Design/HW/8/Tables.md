@@ -7,6 +7,7 @@ subgraph X
 02x --->|a=1| 1x[1]
 1x ---> 1x
 end
+X ~~~ Y
 subgraph Y
 01[0] --->|a=0| 01
 01 --->|a=1| 02[0]
