@@ -69,7 +69,7 @@ end
 subgraph invis-logic
 	subgraph D1
 		subgraph invis-D1-inputs
-			D1[D]
+			D1i[D]
 		end
 		subgraph invis-D1-outputs
 			Q1[Q]
@@ -78,7 +78,7 @@ subgraph invis-logic
 	end
 	subgraph D2
 		subgraph invis-D2-inputs
-			D2[D]
+			D2i[D]
 		end
 		subgraph invis-D2-outputs
 			Q2[Q]
@@ -87,23 +87,7 @@ subgraph invis-logic
 	end
 	Q1 & Q2 --- and1[---]
 	Q1P & and1 --- or1[---]
-	or1 --- D1
-end
-subgraph invis-outputs
-	Z
-end
-invis-inputs ~~~ invis-logic ~~~ invis-outputs
-```
-
-```mermaid
-%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
-flowchart LR
-subgraph invis-inputs
-	X
-end
-subgraph invis-logic
-	subgraph D1
-	end
+	or1 --- D1i
 end
 subgraph invis-outputs
 	Z
