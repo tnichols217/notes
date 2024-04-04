@@ -32,12 +32,15 @@ beginq1[begin] ---> 0q1[0]
 1q1 --->|Q2=1| 1q1 
 1q1 --->|Q2=0| 0q1
 end
-Q1 ~~~ Q2
 subgraph Q2
 beginq2[begin] ---> 0q2[0]
 0q2 --->|X=0| 1q2
 0q2 --->|X=1| 0q2
+1q2 ---> 0q2
+end
+subgraph Z
 
 end
+Q1 ~~~ Q2
 ```
 ^2
