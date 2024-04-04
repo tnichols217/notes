@@ -68,10 +68,19 @@ X
 end
 subgraph invis-logic
 subgraph D1
-
+subgraph invis-D1-inputs
+D1
+end
+subgraph invis-D1-outputs
+end
+invis-D1-inputs ~~~ invis-D1-outputs
 end
 subgraph D2
-
+subgraph invis-D2-inputs
+end
+subgraph invis-D2-outputs
+end
+invis-D2-inputs ~~~ invis-D2-outputs
 end
 end
 subgraph invis-outputs
