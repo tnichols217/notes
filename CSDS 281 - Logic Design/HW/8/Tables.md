@@ -1,6 +1,7 @@
 ```mermaid
 flowchart LR
 subgraph X
+begin ---> 01x
 01x[0] --->|a=0| 01x
 01x --->|a=1| 02x[0]
 02x --->|a=0| 02x
