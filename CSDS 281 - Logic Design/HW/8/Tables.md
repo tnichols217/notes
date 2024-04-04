@@ -87,10 +87,11 @@ subgraph invis-logic
 		end
 		invis-D2-inputs ~~~ invis-D2-outputs
 	end
-	
+	Q1 & 
+	Q1P &  --- or1[---]
 end
 subgraph invis-outputs
 	Z
 end
-invis-
+invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
