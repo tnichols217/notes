@@ -155,6 +155,14 @@ subgraph Y1'
 	11 --->|Y0| 10
 	11 --->|else| 11
 end
+subgraph Y2'
+	direction TB
+	begin2'[begin] ---> 20[0]
+	20 --->|"Y1 & Y0"| 21[1]
+	20 --->|else| 10
+	21 --->|"Y1 & Y0"| 10
+	21 --->|else| 11
+end
 Y ~~~ Y0 ~~~ Y1 ~~~ Y2 ~~~ Y1' ~~~ Y2'
 ```
 
