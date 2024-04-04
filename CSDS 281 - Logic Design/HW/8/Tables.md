@@ -150,7 +150,7 @@ end
 subgraph Y1'
 	direction TB
 	begin1'[begin] ---> 10[0]
-	10 --->|| 11[1]
+	10 --->|(Y2=0 ^ Y0=0);| 11[1]
 	11 ---> 10
 end
 Y ~~~ Y0 ~~~ Y1 ~~~ Y2 ~~~ Y1'
