@@ -96,5 +96,17 @@ invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
 
 ```mermaid
-
+%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
+flowchart LR
+subgraph invis-inputs
+	X
+end
+subgraph invis-logic
+	subgraph D1
+	end
+end
+subgraph invis-outputs
+	Z
+end
+invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
