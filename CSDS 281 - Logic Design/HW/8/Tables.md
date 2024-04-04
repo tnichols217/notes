@@ -129,6 +129,9 @@ subgraph Y0
 	00 ---> 01[1]
 	01 ---> 00
 end
+subgraph Y1
+	
+end
 
 ```
 
