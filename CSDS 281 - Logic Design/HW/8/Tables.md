@@ -113,8 +113,18 @@ invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```mermaid
 flowchart LR
 subgraph Y
-	begin ---> 3
+	begin ---> 0
+	0 ---> 3
+	3 ---> 4
+	4 ---> 5
+	5 ---> 6
+	6 ---> 7
+	7 ---> 0
 end
+subgraph Y0
+	
+end
+
 ```
 
 ```mermaid
