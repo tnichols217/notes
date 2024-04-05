@@ -303,7 +303,8 @@ subgraph invis-logic
 	end
 end
 subgraph invis-outputs
-	Q0P --- 
+	Q0P --- D0ii([D0])
+	D0ii --- D0i
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
