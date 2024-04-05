@@ -184,6 +184,18 @@ subgraph invis-inputs
 	Clock
 end
 subgraph invis-logic
+	subgraph D0
+		subgraph invis-D0-inputs
+			D0i[D]
+			D0c[Clock]
+		end
+		Clock --- D0c
+		subgraph invis-D0-outputs
+			Q0[Q]
+			Q0P[Q']
+		end
+		invis-D0-inputs ~~~ invis-D0-outputs
+	end
 	subgraph D1
 		subgraph invis-D1-inputs
 			D1i[D]
@@ -207,18 +219,6 @@ subgraph invis-logic
 			Q2P[Q']
 		end
 		invis-D2-inputs ~~~ invis-D2-outputs
-	end
-	subgraph D3
-		subgraph invis-D3-inputs
-			D3i[D]
-			D3c[Clock]
-		end
-		Clock --- D3c
-		subgraph invis-D3-outputs
-			Q3[Q]
-			Q3P[Q']
-		end
-		invis-D3-inputs ~~~ invis-D3-outputs
 	end
 	Q0P ---> D0ii([D0])
 	D0ii ---> D0i
