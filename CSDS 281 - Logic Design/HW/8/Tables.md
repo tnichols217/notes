@@ -301,10 +301,12 @@ subgraph invis-logic
 		end
 		invis-D3-inputs ~~~ invis-D3-outputs
 	end
+	Q0 & Q1 --- xor1[---]
 end
 subgraph invis-outputs
 	Q0P --- D0ii([D0])
 	D0ii --- D0i
+	
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
