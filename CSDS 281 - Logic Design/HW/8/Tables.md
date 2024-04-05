@@ -339,8 +339,11 @@ subgraph invis-logic
 			D1ENP[ENP]
 			D1ENT[ENT]
 			D1A[A]
+			D1B[B]
+			D1C[C]
+			D1D[D]
 		end
-		Clock --- D0c
+		Clock --- D1c
 		subgraph invis-D0-outputs
 			Q0[Q]
 			Q0P[Q']
