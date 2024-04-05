@@ -390,10 +390,14 @@ subgraph invis-logic
 	5V --- D2D
 end
 subgraph invis-outputs
-	Q0 --- Q0O[Q0]
-	Q1 --- Q1O[Q1]
-	Q2 --- Q2O[Q2]
-	Q3 --- Q3O[Q3]
+	Q1A --- ([Y0])
+	Q1B --- ([Y0])
+	Q1C --- ([Y0])
+	Q1D --- ([Y0])
+	Q2A --- ([Y0])
+	Q2B --- ([Y0])
+	Q2C --- ([Y0])
+	Q1D --- ([Y0])
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
