@@ -377,7 +377,7 @@ subgraph invis-logic
 		end
 		invis-D2-inputs ~~~ invis-D2-outputs
 	end
-	
+	5V --- D1LD & D1ENP & D1ENT & D1CLR
 end
 subgraph invis-outputs
 	Q0 --- Q0O[Q0]
