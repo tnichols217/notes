@@ -183,10 +183,46 @@ flowchart LR
 subgraph invis-inputs
 	Clock
 end
-subgraph invis-outpus
-	Y0
-	Y1
-	Y3MSB
+subgraph invis-logic
+	subgraph D1
+		subgraph invis-D1-inputs
+			D1i[D]
+			D1c[Clock]
+		end
+		Clock --- D1c
+		subgraph invis-D1-outputs
+			Q1[Q]
+			Q1P[Q']
+		end
+		invis-D1-inputs ~~~ invis-D1-outputs
+	end
+	subgraph D2
+		subgraph invis-D2-inputs
+			D2i[D]
+			D2c[Clock]
+		end
+		Clock --- D2c
+		subgraph invis-D2-outputs
+			Q2[Q]
+			Q2P[Q']
+		end
+		invis-D2-inputs ~~~ invis-D2-outputs
+	end
+	subgraph D3
+		subgraph invis-D3-inputs
+			D3i[D]
+			D3c[Clock]
+		end
+		Clock --- D3c
+		subgraph invis-D3-outputs
+			Q3[Q]
+			Q3P[Q']
+		end
+		invis-D3-inputs ~~~ invis-D3-outputs
+	end
 end
-invis-inputs ~~~ invis-logic ~~~ invis-outpus
+subgraph invis-outputs
+	
+end
+invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
