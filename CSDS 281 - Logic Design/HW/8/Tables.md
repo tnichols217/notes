@@ -315,9 +315,9 @@ subgraph invis-outputs
 	xor3 --- D3ii([D3])
 	D3ii --- D3i
 	Q0 --- Q0O[Q0]
-	Q1 --- Q0O[Q0]
-	Q0 --- Q0O[Q0]
-	Q0 --- Q0O[Q0]
+	Q1 --- Q1O[Q1]
+	Q2 --- Q2O[Q2]
+	Q3 --- Q3O[Q3]
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
