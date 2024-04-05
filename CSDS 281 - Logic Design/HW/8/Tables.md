@@ -384,7 +384,8 @@ subgraph invis-logic
 	Q1A & Q1B & Q1C & Q1D & Q2A & Q2B & Q2C & Q2D
 		--- nor1[---]
 	5V & nor1 --- xor2[---]
-	xor2 --- D1LD & D2LD
+	xor2 --- RLD([LOAD])
+	RLD --- D1LD & D2LD
 end
 subgraph invis-outputs
 	Q0 --- Q0O[Q0]
