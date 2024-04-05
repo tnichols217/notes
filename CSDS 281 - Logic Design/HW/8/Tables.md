@@ -330,7 +330,9 @@ flowchart LR
 subgraph invis-inputs
 	Clock
 	5V
+	0V
 	Reset
+	Reset & 5V --- xor1[---]
 end
 subgraph invis-logic
 	subgraph 74x169-1
@@ -346,7 +348,6 @@ subgraph invis-logic
 			D1D[D]
 		end
 		Clock --- D1c
-		Reset & 5V --- xor1[---]
 		xor1 --- D1CLR
 		subgraph invis-D1-outputs
 			Q1A[A]
@@ -369,8 +370,7 @@ subgraph invis-logic
 			D2D[D]
 		end
 		Clock --- D2c
-		Reset & 5V --- xor1[---]
-		xor1 --- D1CLR
+		xor1 --- D2CLR
 		subgraph invis-D2-outputs
 			Q2A[A]
 			Q2B[B]
@@ -379,7 +379,8 @@ subgraph invis-logic
 		end
 		invis-D2-inputs ~~~ invis-D2-outputs
 	end
-	5V --- D1LD & D1ENP & D1ENT & D1CLR
+	5V --- D1LD & D1ENP & D1ENT
+	5V --- D2LD & D2ENP & D2ENT
 end
 subgraph invis-outputs
 	Q0 --- Q0O[Q0]
