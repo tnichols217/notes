@@ -384,20 +384,24 @@ subgraph invis-logic
 	Q1A & Q1B & Q1C & Q1D & Q2A & Q2B & Q2C & Q2D
 		--- nor1[---]
 	5V & nor1 --- xor2[---]
-	xor2 --- RLD([LOAD])
-	RLD x---x D1LD & D2LD
 	0V --- D1A & D1B & D1C & D1D & D2A & D2B & D2C
 	5V --- D2D
 end
 subgraph invis-outputs
-	Q1A --- Y0([Y0])
-	Q1B --- Y1([Y1])
-	Q1C --- Y2([Y2])
-	Q1D --- Y3([Y3])
-	Q2A --- Y4([Y4])
-	Q2B --- Y5([Y5])
-	Q2C --- Y6([Y6])
-	Q2D --- Y7([Y7MSB])
+	subgraph invis-loopback
+		xor2 --- RLD([LOAD])
+		RLD x---x D1LD & D2LD
+	end
+	subgraph invis-out
+		Q1A --- Y0([Y0])
+		Q1B --- Y1([Y1])
+		Q1C --- Y2([Y2])
+		Q1D --- Y3([Y3])
+		Q2A --- Y4([Y4])
+		Q2B --- Y5([Y5])
+		Q2C --- Y6([Y6])
+		Q2D --- Y7([Y7MSB])
+	end
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
