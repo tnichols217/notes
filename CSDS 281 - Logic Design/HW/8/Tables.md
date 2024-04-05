@@ -437,11 +437,12 @@ subgraph invis-logic
 		invis-D1-inputs ~~~ invis-D1-outputs
 	end
 	5V --- D1C & D1UP
+	5V ---o Q1ENT & Q1ENP
 	0V --- D1A & D1B & D1D
 end
 subgraph invis-loopback
-	Q1RCO ---o LOAD()
-	D1LD
+	Q1RCO --- LOAD([LOAD])
+	LOAD ---o D1LD
 	a
 end
 subgraph invis-outputs
