@@ -381,6 +381,8 @@ subgraph invis-logic
 	end
 	5V --- D1LD & D1ENP & D1ENT
 	5V --- D2LD & D2ENP & D2ENT
+	Q1A & Q1B & Q1C & Q1D & Q2A & Q2B & Q2C & Q2D
+		--- nor1[---]
 	
 end
 subgraph invis-outputs
