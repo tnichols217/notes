@@ -1,5 +1,7 @@
 # 74x163
 
+4 Bit counter
+
 | Inputs |      |     |     | Current State |     |     |     | Next State |     |     |     |
 | ------ | ---- | --- | --- | ------------- | --- | --- | --- | ---------- | --- | --- | --- |
 | CLR_L  | LD_L | ENT | ENP | QD(MSB)       | QC  | QB  | QA  | QD*        | QC* | QB* | QA* |
@@ -25,3 +27,6 @@
 | 1      | 1    | 1   | 1   | 1             | 1   | 1   | 1   | 0          | 0   | 0   | 0   |
 
 # 74x169
+Same as the 74x163
+- No CLR_L
+- Has UP/DN that dictates counting up or down
