@@ -81,36 +81,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "f900dbee35643c78",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "698ff6d2f0467b12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 281 - Logic Design/HW/8/Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41b68296ad13c9c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 281 - Logic Design/Data/Data.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8/Tables.md"
+                "file": "CSDS 281 - Logic Design/HW/8.md"
               }
             }
           }
@@ -202,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8/Tables.md",
+                "file": "CSDS 281 - Logic Design/HW/8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,11 +228,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "698ff6d2f0467b12",
+  "active": "b8baf220194fc962",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/Data/Data.md",
+    "CSDS 281 - Logic Design/HW/8.pdf",
     "CSDS 281 - Logic Design/HW/8/Tables.md",
     "CSDS 281 - Logic Design/HW/8.md",
+    "CSDS 281 - Logic Design/Data/Data.md",
     "CSDS 281 - Logic Design/Data",
     "Private/shopping.md",
     "AIQS 100/comic/draft.md",
@@ -305,7 +276,6 @@
     "CSDS 302 - Discrete Math/HW/4.md",
     "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/HW/2.md",
-    "CSDS 302 - Discrete Math/HW/1.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
