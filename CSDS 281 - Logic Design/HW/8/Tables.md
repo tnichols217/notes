@@ -232,9 +232,65 @@ subgraph invis-logic
 	and3 & and5 --- or2[---]
 end
 subgraph invis-outputs
-	D0ii
-	D1ii
-	D2ii
+	Q0P --- D0ii([D0])
+	D0ii --- D0i
+	or1 --- D1ii([D1])
+	D1ii --- D1i
+	or2 --- D2ii([D2MSB])
+	D2ii --- D2i
+	Q0 --- Q0o([Q0])
+	Q1 --- Q1o([Q1])
+	Q2 --- Q2o([Q2])
+end
+invis-inputs ~~~ invis-logic ~~~ invis-outputs
+```
+^3c
+
+```mermaid
+%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
+flowchart LR
+subgraph invis-inputs
+	Clock
+end
+subgraph invis-logic
+	subgraph D0
+		subgraph invis-D0-inputs
+			D0i[D]
+			D0c[Clock]
+		end
+		Clock --- D0c
+		subgraph invis-D0-outputs
+			Q0[Q]
+			Q0P[Q']
+		end
+		invis-D0-inputs ~~~ invis-D0-outputs
+	end
+	subgraph D1
+		subgraph invis-D1-inputs
+			D1i[D]
+			D1c[Clock]
+		end
+		Clock --- D1c
+		subgraph invis-D1-outputs
+			Q1[Q]
+			Q1P[Q']
+		end
+		invis-D1-inputs ~~~ invis-D1-outputs
+	end
+	subgraph D2
+		subgraph invis-D2-inputs
+			D2i[D]
+			D2c[Clock]
+		end
+		Clock --- D2c
+		subgraph invis-D2-outputs
+			Q2[Q]
+			Q2P[Q']
+		end
+		invis-D2-inputs ~~~ invis-D2-outputs
+	end
+end
+subgraph invis-outputs
 	Q0P --- D0ii([D0])
 	D0ii --- D0i
 	or1 --- D1ii([D1])
@@ -247,6 +303,3 @@ subgraph invis-outputs
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
-^3c
-
-
