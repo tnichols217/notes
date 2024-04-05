@@ -350,10 +350,10 @@ subgraph invis-logic
 		Clock --- D1c
 		xor1 --- D1CLR
 		subgraph invis-D1-outputs
-			Q1A[A]
-			Q1B[B]
-			Q1C[C]
-			Q1D[D]
+			Q1A[QA]
+			Q1B[QB]
+			Q1C[QC]
+			Q1D[QD]
 		end
 		invis-D1-inputs ~~~ invis-D1-outputs
 	end
@@ -372,15 +372,16 @@ subgraph invis-logic
 		Clock --- D2c
 		xor1 --- D2CLR
 		subgraph invis-D2-outputs
-			Q2A[A]
-			Q2B[B]
-			Q2C[C]
-			Q2D[D]
+			Q2A[QA]
+			Q2B[QB]
+			Q2C[QC]
+			Q2D[QD]
 		end
 		invis-D2-inputs ~~~ invis-D2-outputs
 	end
 	5V --- D1LD & D1ENP & D1ENT
 	5V --- D2LD & D2ENP & D2ENT
+	
 end
 subgraph invis-outputs
 	Q0 --- Q0O[Q0]
