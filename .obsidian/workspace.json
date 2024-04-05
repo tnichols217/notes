@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8.md",
+                "file": "CSDS 281 - Logic Design/Data/Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8.md"
+                "file": "CSDS 281 - Logic Design/Data/Data.md"
               }
             }
           }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8.md",
+                "file": "CSDS 281 - Logic Design/Data/Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,8 +248,8 @@
   },
   "active": "b8baf220194fc962",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/Data/Data.md",
     "CSDS 281 - Logic Design/HW/8.md",
+    "CSDS 281 - Logic Design/Data/Data.md",
     "CSDS 281 - Logic Design/Data",
     "CSDS 281 - Logic Design/HW/8/Tables.md",
     "Private/shopping.md",
