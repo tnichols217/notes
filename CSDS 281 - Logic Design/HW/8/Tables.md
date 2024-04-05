@@ -442,7 +442,14 @@ end
 subgraph invis-loopback
 	Q1RCO --- LOAD([LOAD])
 	LOAD ---o D1LD
-	Q1A ---o
+	Q1A ---o LOADA([A])
+	Q1B --- LOADB([B])
+	Q1C ---o LOADC([C])
+	Q1D ---o LOADD([D])
+	LOADA --- D1A
+	LOADB --- D1B
+	LOADC --- D1C
+	LOADD --- D1D
 end
 subgraph invis-outputs
 		Q1A --- Y0([Y0])
