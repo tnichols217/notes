@@ -147,7 +147,7 @@ subgraph Y2
 	213 ---> 214[1]
 	214 ---> 201
 end
-subgraph Y1'
+subgraph Y1'[Y1]
 	direction TB
 	begin1'[begin] ---> 10[0]
 	10 --->|"(Y2 ^ Y0)'"| 11[1]
@@ -155,7 +155,7 @@ subgraph Y1'
 	11 --->|Y0| 10
 	11 --->|else| 11
 end
-subgraph Y2'
+subgraph Y2'[Y2]
 	direction TB
 	begin2'[begin] ---> 20[0]
 	20 --->|"Y1 & Y0"| 21[1]
