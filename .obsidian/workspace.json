@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8/Tables.md"
+                "file": "CSDS 281 - Logic Design/HW/8.md"
               }
             }
           }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8/Tables.md",
+                "file": "CSDS 281 - Logic Design/HW/8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,11 +258,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "698ff6d2f0467b12",
+  "active": "b8baf220194fc962",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/Data/Data.md",
     "CSDS 281 - Logic Design/HW/8/Tables.md",
     "CSDS 281 - Logic Design/HW/8.md",
+    "CSDS 281 - Logic Design/Data/Data.md",
     "CSDS 281 - Logic Design/Data",
     "Private/shopping.md",
     "AIQS 100/comic/draft.md",

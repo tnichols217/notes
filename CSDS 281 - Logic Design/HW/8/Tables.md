@@ -397,7 +397,9 @@ subgraph invis-outputs
 	Q2A --- Y4([Y4])
 	Q2B --- Y5([Y5])
 	Q2C --- Y6([Y6])
-	Q2D --- Y7([Y7])
+	Q2D --- Y7([Y7MSB])
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
+^5a
+
