@@ -329,6 +329,8 @@ invis-inputs ~~~ invis-logic ~~~ invis-outputs
 flowchart LR
 subgraph invis-inputs
 	Clock
+	5V
+	Reset
 end
 subgraph invis-logic
 	subgraph 74x169-1
@@ -343,6 +345,7 @@ subgraph invis-logic
 			D1C[C]
 			D1D[D]
 		end
+		Clock --- D1c
 		Clock --- D1c
 		subgraph invis-D1-outputs
 			Q1A[A]
