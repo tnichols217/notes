@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8.md",
+                "file": "CSDS 281 - Logic Design/Data/Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8.md"
+                "file": "CSDS 281 - Logic Design/Data/Data.md"
               }
             }
           }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 281 - Logic Design/HW/8.md",
+                "file": "CSDS 281 - Logic Design/Data/Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,8 +248,10 @@
   },
   "active": "b8baf220194fc962",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/HW/8/Tables.md",
     "CSDS 281 - Logic Design/HW/8.md",
+    "CSDS 281 - Logic Design/Data/Data.md",
+    "CSDS 281 - Logic Design/Data",
+    "CSDS 281 - Logic Design/HW/8/Tables.md",
     "Private/shopping.md",
     "AIQS 100/comic/draft.md",
     "ENGR 145 - Chemistry of Materials/HW/9.md",
@@ -277,7 +279,6 @@
     "PHYS 121 - Physics 1/Labs/4/4.md",
     "PHYS 121 - Physics 1/HW/7/7.md",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written",
-    "CSDS 233 - Intro to Data Structures/Projects/3",
     "PHYS 121 - Physics 1/Labs/5/WithMass.png",
     "PHYS 121 - Physics 1/Labs/5/NoMass.png",
     "PHYS 121 - Physics 1/Labs/5/MC.png",
@@ -293,7 +294,6 @@
     "CSDS 302 - Discrete Math/HW/3.md",
     "CSDS 302 - Discrete Math/HW/2.md",
     "CSDS 302 - Discrete Math/HW/1.md",
-    "CSDS 281 - Logic Design/HW/4/Tables.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
