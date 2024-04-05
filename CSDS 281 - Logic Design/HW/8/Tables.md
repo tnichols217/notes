@@ -289,6 +289,19 @@ subgraph invis-logic
 		end
 		invis-D2-inputs ~~~ invis-D2-outputs
 	end
+	subgraph D3
+		subgraph invis-D3-inputs
+			D3i[D]
+			D3c[Clock]
+		end
+		Clock --- D3c
+		subgraph invis-D3-outputs
+			Q3[Q]
+			Q3P[Q']
+		end
+		invis-D3-inputs ~~~ invis-D3-outputs
+	end
+	
 end
 subgraph invis-outputs
 	Q0P --- D0ii([D0])
