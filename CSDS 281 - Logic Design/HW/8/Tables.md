@@ -332,7 +332,7 @@ subgraph invis-inputs
 end
 subgraph invis-logic
 	subgraph 74x169-1
-		subgraph invis-D0-inputs
+		subgraph invis-D1-inputs
 			D1c[Clock]
 			D1up[Up]
 			D1LD[Load]
@@ -344,23 +344,34 @@ subgraph invis-logic
 			D1D[D]
 		end
 		Clock --- D1c
-		subgraph invis-D0-outputs
-			Q0[Q]
-			Q0P[Q']
-		end
-		invis-D0-inputs ~~~ invis-D0-outputs
-	end
-	subgraph 74x169-1
-		subgraph invis-D1-inputs
-			D1i[D]
-			D1c[Clock]
-		end
-		Clock --- D1c
 		subgraph invis-D1-outputs
-			Q1[Q]
-			Q1P[Q']
+			Q1A[A]
+			Q1B[B]
+			Q1C[C]
+			Q1D[D]
 		end
 		invis-D1-inputs ~~~ invis-D1-outputs
+	end
+	subgraph 74x169-2
+		subgraph invis-D2-inputs
+			D2c[Clock]
+			D2up[Up]
+			D2LD[Load]
+			D2ENP[ENP]
+			D2ENT[ENT]
+			D2A[A]
+			D2B[B]
+			D2C[C]
+			D2D[D]
+		end
+		Clock --- D2c
+		subgraph invis-D2-outputs
+			Q2A[A]
+			Q2B[B]
+			Q2C[C]
+			Q2D[D]
+		end
+		invis-D2-inputs ~~~ invis-D2-outputs
 	end
 	Q0 & Q1 --- xor1[---]
 	Q1 & Q2 --- xor2[---]
