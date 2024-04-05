@@ -220,12 +220,16 @@ subgraph invis-logic
 		end
 		invis-D3-inputs ~~~ invis-D3-outputs
 	end
+	Q0P ---> D0ii([D0])
+	D0ii ---> D0i
 	Q2 & Q0 ---> xor1[---]
 	Q1P ---> and1[---]
 	xor1 ---O and1
 	Q1 & Q0P ---> and2[---]
 	and1 & and2 ---> or1[---]
-	or1 ---> 
+	or1 ---> D1ii([D1])
+	D1ii ---> D1i
+	
 end
 subgraph invis-outputs
 	
