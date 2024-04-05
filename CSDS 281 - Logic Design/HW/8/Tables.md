@@ -222,6 +222,10 @@ subgraph invis-logic
 	end
 	Q2 & Q0 ---> xor1[---]
 	Q1P ---> and1[---]
+	xor1 ---O and1
+	Q1 & Q0P ---> and2[---]
+	and1 & and2 ---> or1[---]
+	or1 ---> 
 end
 subgraph invis-outputs
 	
