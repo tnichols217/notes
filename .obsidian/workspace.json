@@ -110,7 +110,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,9 +261,9 @@
   },
   "active": "b8baf220194fc962",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/HW/8/Tables.md",
-    "CSDS 281 - Logic Design/HW/8.md",
     "CSDS 281 - Logic Design/Data/Data.md",
+    "CSDS 281 - Logic Design/HW/8.md",
+    "CSDS 281 - Logic Design/HW/8/Tables.md",
     "CSDS 281 - Logic Design/Data",
     "Private/shopping.md",
     "AIQS 100/comic/draft.md",
