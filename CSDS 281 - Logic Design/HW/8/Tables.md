@@ -379,11 +379,12 @@ subgraph invis-logic
 		end
 		invis-D2-inputs ~~~ invis-D2-outputs
 	end
-	5V --- D1LD & D1ENP & D1ENT
-	5V --- D2LD & D2ENP & D2ENT
+	5V --- D1ENP & D1ENT
+	5V --- D2ENP & D2ENT
 	Q1A & Q1B & Q1C & Q1D & Q2A & Q2B & Q2C & Q2D
 		--- nor1[---]
-	
+	5V & nor1 --- xor2[---]
+	xor2 --- D1LD & D2LD
 end
 subgraph invis-outputs
 	Q0 --- Q0O[Q0]
