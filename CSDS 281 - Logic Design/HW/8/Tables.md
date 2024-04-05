@@ -383,14 +383,13 @@ subgraph invis-logic
 	5V ---o D2ENP & D2ENT
 	Q1A & Q1B & Q1C & Q1D & Q2A & Q2B & Q2C & Q2D
 		--- nor1[---]
-	5V & nor1 --- xor2[---]
 	0V --- D1A & D1B & D1C & D1D & D2A & D2B & D2C
 	5V --- D2D
 end
 
 subgraph invis-loopback
-	xor2 --- RLD([LOAD])
-	RLD x---x D1LD & D2LD
+	nor1 ---o RLD([LOAD])
+	RLD --- D1LD & D2LD
 end
 subgraph invis-outputs
 		Q1A --- Y0([Y0])
