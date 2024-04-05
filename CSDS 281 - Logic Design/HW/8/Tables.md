@@ -229,6 +229,10 @@ subgraph invis-logic
 	and1 & and2 ---> or1[---]
 	or1 ---> D1ii([D1])
 	D1ii ---> D1i
+	Q2P & Q1 & Q0 ---> and3[---]
+	Q1 & Q0 ---> and4[---]
+	Q2 ---> and5[---]
+	and4 ---o and5
 	
 end
 subgraph invis-outputs
