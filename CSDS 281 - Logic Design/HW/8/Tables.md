@@ -229,7 +229,7 @@ subgraph invis-logic
 	Q1 & Q0 --- and4[---]
 	Q2 --- and5[---]
 	and4 ---o and5
-	and4 & and5 --- or2[---]
+	and3 & and5 --- or2[---]
 end
 subgraph invis-outputs
 	D0ii
@@ -247,3 +247,4 @@ subgraph invis-outputs
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
+^3c
