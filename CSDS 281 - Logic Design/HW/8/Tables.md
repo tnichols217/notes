@@ -220,25 +220,27 @@ subgraph invis-logic
 		end
 		invis-D2-inputs ~~~ invis-D2-outputs
 	end
-	Q0P ---> D0ii([D0])
-	D0ii ---> D0i
-	Q2 & Q0 ---> xor1[---]
-	Q1P ---> and1[---]
+	Q2 & Q0 --- xor1[---]
+	Q1P --- and1[---]
 	xor1 ---o and1
-	Q1 & Q0P ---> and2[---]
-	and1 & and2 ---> or1[---]
-	or1 ---> D1ii([D1])
-	D1ii ---> D1i
-	Q2P & Q1 & Q0 ---> and3[---]
-	Q1 & Q0 ---> and4[---]
-	Q2 ---> and5[---]
+	Q1 & Q0P --- and2[---]
+	and1 & and2 --- or1[---]
+	Q2P & Q1 & Q0 --- and3[---]
+	Q1 & Q0 --- and4[---]
+	Q2 --- and5[---]
 	and4 ---o and5
-	and4 & and5 ---> or2[---]
-	or2 ---> D2ii([D2])
-	D2ii ---> D2i
+	and4 & and5 --- or2[---]
 end
 subgraph invis-outputs
-	p
+	D0ii
+	D1ii
+	D2ii
+	Q0P --- D0ii([D0])
+	D0ii --- D0i
+	or1 --- D1ii([D1])
+	D1ii --- D1i
+	or2 --- D2ii([D2])
+	D2ii --- D2i
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
