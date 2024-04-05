@@ -241,6 +241,9 @@ subgraph invis-outputs
 	D1ii --- D1i
 	or2 --- D2ii([D2])
 	D2ii --- D2i
+	Q0 --- Q0o([Q0])
+	Q1 --- Q1o([Q1])
+	Q2 --- Q2o([Q2])
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
