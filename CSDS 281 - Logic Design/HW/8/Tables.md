@@ -437,6 +437,8 @@ subgraph invis-logic
 		end
 		invis-D1-inputs ~~~ invis-D1-outputs
 	end
+	5V --- D1C
+	0V --- D1A & D1B & D1D
 	Q1RCO ---o D1LD
 end
 subgraph invis-loopback
