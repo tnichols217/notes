@@ -301,18 +301,9 @@ subgraph invis-logic
 		end
 		invis-D3-inputs ~~~ invis-D3-outputs
 	end
-	
 end
 subgraph invis-outputs
-	Q0P --- D0ii([D0])
-	D0ii --- D0i
-	or1 --- D1ii([D1])
-	D1ii --- D1i
-	or2 --- D2ii([D2])
-	D2ii --- D2i
-	Q0 --- Q0o([Q0])
-	Q1 --- Q1o([Q1])
-	Q2 --- Q2o([Q2])
+	Q0P --- 
 end
 invis-inputs ~~~ invis-logic ~~~ invis-outputs
 ```
