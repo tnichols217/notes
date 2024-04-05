@@ -446,10 +446,6 @@ subgraph invis-outputs
 		Q1B --- Y1([Y1])
 		Q1C --- Y2([Y2])
 		Q1D --- Y3([Y3])
-		Q2A --- Y4([Y4])
-		Q2B --- Y5([Y5])
-		Q2C --- Y6([Y6])
-		Q2D --- Y7([Y7MSB])
 end
 invis-inputs ~~~ invis-logic ~~~ invis-loopback ~~~ invis-outputs
 ```
