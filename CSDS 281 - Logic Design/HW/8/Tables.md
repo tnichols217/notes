@@ -385,7 +385,7 @@ subgraph invis-logic
 		--- nor1[---]
 	5V & nor1 --- xor2[---]
 	xor2 --- RLD([LOAD])
-	RLD === D1LD & D2LD
+	RLD --- D1LD & D2LD
 	0V --- D1A & D1B & D1C & D1D & D2A & D2B & D2C
 	5V --- D2D
 end
