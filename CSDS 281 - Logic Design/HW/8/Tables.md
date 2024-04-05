@@ -324,4 +324,78 @@ invis-inputs ~~~ invis-logic ~~~ invis-outputs
 
 ^4a
 
-
+```mermaid
+%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
+flowchart LR
+subgraph invis-inputs
+	Clock
+end
+subgraph invis-logic
+	subgraph 74x169-1
+		subgraph invis-D0-inputs
+			D0i[D]
+			D0c[Clock]
+		end
+		Clock --- D0c
+		subgraph invis-D0-outputs
+			Q0[Q]
+			Q0P[Q']
+		end
+		invis-D0-inputs ~~~ invis-D0-outputs
+	end
+	subgraph D1
+		subgraph invis-D1-inputs
+			D1i[D]
+			D1c[Clock]
+		end
+		Clock --- D1c
+		subgraph invis-D1-outputs
+			Q1[Q]
+			Q1P[Q']
+		end
+		invis-D1-inputs ~~~ invis-D1-outputs
+	end
+	subgraph D2
+		subgraph invis-D2-inputs
+			D2i[D]
+			D2c[Clock]
+		end
+		Clock --- D2c
+		subgraph invis-D2-outputs
+			Q2[Q]
+			Q2P[Q']
+		end
+		invis-D2-inputs ~~~ invis-D2-outputs
+	end
+	subgraph D3
+		subgraph invis-D3-inputs
+			D3i[D]
+			D3c[Clock]
+		end
+		Clock --- D3c
+		subgraph invis-D3-outputs
+			Q3[Q]
+			Q3P[Q']
+		end
+		invis-D3-inputs ~~~ invis-D3-outputs
+	end
+	Q0 & Q1 --- xor1[---]
+	Q1 & Q2 --- xor2[---]
+	Q2 & Q3 --- xor3[---]
+end
+subgraph invis-outputs
+	Q0P --- D0ii([D0])
+	D0ii --- D0i
+	xor1 --- D1ii([D1])
+	D1ii --- D1i
+	xor2 --- D2ii([D2])
+	D2ii --- D2i
+	xor3 --- D3ii([D3])
+	D3ii --- D3i
+	Q0 --- Q0O[Q0]
+	Q1 --- Q1O[Q1]
+	Q2 --- Q2O[Q2]
+	Q3 --- Q3O[Q3]
+end
+invis-inputs ~~~ invis-logic ~~~ invis-outputs
+```
