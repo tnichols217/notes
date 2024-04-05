@@ -433,10 +433,11 @@ subgraph invis-logic
 			Q1B[QB]
 			Q1C[QC]
 			Q1D[QD]
+			Q1RCO[RCO]
 		end
 		invis-D1-inputs ~~~ invis-D1-outputs
 	end
-	
+	Q1RCO ---o D1LD
 end
 subgraph invis-loopback
 	a
