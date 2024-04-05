@@ -335,7 +335,7 @@ subgraph invis-inputs
 	Reset & 5V --- xor1[---]
 end
 subgraph invis-logic
-	subgraph 74x169-1
+	subgraph 74x163-1
 		subgraph invis-D1-inputs
 			D1c[Clock]
 			D1CLR[Clear]
@@ -357,7 +357,7 @@ subgraph invis-logic
 		end
 		invis-D1-inputs ~~~ invis-D1-outputs
 	end
-	subgraph 74x169-2
+	subgraph 74x163-2
 		subgraph invis-D2-inputs
 			D2c[Clock]
 			D2CLR[Clear]
@@ -406,3 +406,61 @@ invis-inputs ~~~ invis-logic ~~~ invis-loopback ~~~ invis-outputs
 ```
 ^5a
 
+```mermaid
+%%{ init: { 'flowchart': { 'curve': 'stepBefore', "defaultRenderer": "elk" } } }%%
+flowchart LR
+subgraph invis-inputs
+	Clock
+	5V
+	0V
+	Reset
+	Reset & 5V --- xor1[---]
+end
+subgraph invis-logic
+	subgraph 74x169-1
+		subgraph invis-D1-inputs
+			D1c[Clock]
+			D1CLR[Clear]
+			D1LD[Load]
+			D1ENP[ENP]
+			D1ENT[ENT]
+			D1A[A]
+			D1B[B]
+			D1C[C]
+			D1D[D]
+		end
+		Clock --- D1c
+		xor1 --- D1CLR
+		subgraph invis-D1-outputs
+			Q1A[QA]
+			Q1B[QB]
+			Q1C[QC]
+			Q1D[QD]
+		end
+		invis-D1-inputs ~~~ invis-D1-outputs
+	end
+	5V --- D1ENP & D1ENT
+	5V --- D2ENP & D2ENT
+	Q1A & Q1B & Q1C & Q1D & Q2A & Q2B & Q2C & Q2D
+		--- nor1[---]
+	5V & nor1 --- xor2[---]
+	0V --- D1A & D1B & D1C & D1D & D2A & D2B & D2C
+	5V --- D2D
+end
+
+subgraph invis-loopback
+	xor2 --- RLD([LOAD])
+	RLD x---x D1LD & D2LD
+end
+subgraph invis-outputs
+		Q1A --- Y0([Y0])
+		Q1B --- Y1([Y1])
+		Q1C --- Y2([Y2])
+		Q1D --- Y3([Y3])
+		Q2A --- Y4([Y4])
+		Q2B --- Y5([Y5])
+		Q2C --- Y6([Y6])
+		Q2D --- Y7([Y7MSB])
+end
+invis-inputs ~~~ invis-logic ~~~ invis-loopback ~~~ invis-outputs
+```
