@@ -401,9 +401,8 @@ subgraph invis-outputs
 		Q2B --- Y5([Y5])
 		Q2C --- Y6([Y6])
 		Q2D --- Y7([Y7MSB])
-	invis-loopback ~~~ invis-out
 end
-invis-inputs ~~~ invis-logic ~~~ invis-outputs
+invis-inputs ~~~ invis-logic ~~~ invis-loopback ~~~ invis-outputs
 ```
 ^5a
 
