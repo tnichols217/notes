@@ -346,7 +346,8 @@ subgraph invis-logic
 			D1D[D]
 		end
 		Clock --- D1c
-		Reset --- D1CLR
+		Reset & 5V --- xor1[---]
+		xor1 --- D1CLR
 		subgraph invis-D1-outputs
 			Q1A[A]
 			Q1B[B]
@@ -368,7 +369,8 @@ subgraph invis-logic
 			D2D[D]
 		end
 		Clock --- D2c
-		Reset --- D2CLR
+		Reset & 5V --- xor1[---]
+		xor1 --- D1CLR
 		subgraph invis-D2-outputs
 			Q2A[A]
 			Q2B[B]
