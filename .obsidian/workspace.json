@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/shopping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8baf220194fc962",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS 121 - Physics 1/HW/8.md",
+                "file": "PHYS 121 - Physics 1/HW/8/8.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/8.md"
+                "file": "PHYS 121 - Physics 1/HW/8/8.md"
               }
             }
           }
@@ -172,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 121 - Physics 1/HW/8.md",
+                "file": "PHYS 121 - Physics 1/HW/8/8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,16 +216,27 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b8baf220194fc962",
+  "active": "76553bdddfa9c7e8",
   "lastOpenFiles": [
-    "CSDS 281 - Logic Design/HW/8.md",
+    "PHYS 121 - Physics 1/HW/8/8.pdf",
+    "PHYS 121 - Physics 1/HW/8/images/1.png",
+    "Private/shopping.md",
+    "PHYS 121 - Physics 1/HW/8/images/image43.png",
+    "PHYS 121 - Physics 1/HW/8/images/3.svg",
+    "PHYS 121 - Physics 1/HW/8/images/2.svg",
+    "PHYS 121 - Physics 1/HW/8/images",
     "PHYS 121 - Physics 1/HW/8.md",
+    "PHYS 121 - Physics 1/HW/8/8.md",
+    "PHYS 121 - Physics 1/HW/8/image43.png",
+    "PHYS 121 - Physics 1/HW/8/3.svg",
+    "PHYS 121 - Physics 1/HW/8/2.svg",
+    "PHYS 121 - Physics 1/HW/8",
+    "CSDS 281 - Logic Design/HW/8.md",
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240405204241.png",
     "CSDS 281 - Logic Design/HW/8.pdf",
     "CSDS 281 - Logic Design/HW/8/Tables.md",
     "CSDS 281 - Logic Design/Data/Data.md",
     "CSDS 281 - Logic Design/Data",
-    "Private/shopping.md",
     "AIQS 100/comic/draft.md",
     "ENGR 145 - Chemistry of Materials/HW/9.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",
@@ -257,25 +256,14 @@
     "PHYS 121 - Physics 1/Labs/3/Analysis.md",
     "PHYS 121 - Physics 1/Labs/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/5/Report Cover.png~",
-    "PHYS 121 - Physics 1/Labs/5/Report Cover.png",
-    "PHYS 121 - Physics 1/Labs/5/MC.png~",
-    "PHYS 121 - Physics 1/Labs/5/diagram.svg",
-    "PHYS 121 - Physics 1/Labs/3/3.pdf",
     "PHYS 121 - Physics 1/Labs/4/4.md",
     "PHYS 121 - Physics 1/HW/7/7.md",
-    "PHYS 121 - Physics 1/Labs/5/WithMass.png",
-    "PHYS 121 - Physics 1/Labs/5/NoMass.png",
-    "PHYS 121 - Physics 1/Labs/5/MC.png",
-    "ENGR 145 - Chemistry of Materials/HW/9/2.png",
-    "ENGR 145 - Chemistry of Materials/HW/9/image143.png",
     "CSDS 281 - Logic Design/HW/Extra.md",
     "CSDS 281 - Logic Design/HW/7.md",
     "CSDS 302 - Discrete Math/HW/7.md",
     "CSDS 302 - Discrete Math/HW/6.md",
     "CSDS 302 - Discrete Math/HW/5.md",
     "CSDS 302 - Discrete Math/HW/4.md",
-    "CSDS 302 - Discrete Math/HW/3.md",
-    "CSDS 302 - Discrete Math/HW/2.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
