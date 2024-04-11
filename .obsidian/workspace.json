@@ -69,6 +69,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "ac5ef2eda4bc820f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39fd71f4191f61e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGR 145 - Chemistry of Materials/HW/10.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +234,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "39fd71f4191f61e1",
   "lastOpenFiles": [
     "ENGR 145 - Chemistry of Materials/HW/10/5b.svg",
     "ENGR 145 - Chemistry of Materials/HW/10/3.png",
