@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="2a.svg"
+   sodipodi:docname="5a.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -156,15 +156,6 @@
        height="62.951946"
        x="42.36042"
        y="110.35833" />
-    <g
-       id="g425"
-       transform="matrix(0.26458333,0,0,0.26458333,-205.44895,-52.018847)">
-      <path
-         id="path426"
-         d="M 90,167.82 H 275.9 V 317.17 H 90 Z"
-         style="fill:#ffffff icc-color(sRGB-IEC61966-2, 0.1, 1);fill-opacity:1;fill-rule:evenodd;stroke:#000000 icc-color(sRGB-IEC61966-2, 0.1, 0);stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         transform="matrix(1.3333333,0,0,-1.3333333,836,1056)" />
-    </g>
     <g
        id="g427"
        transform="matrix(0.26458333,0,0,0.26458333,-205.44895,-52.018847)">
