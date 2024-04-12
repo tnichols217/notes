@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/10.md",
+                "file": "CV.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/10.md"
+                "file": "CV.md"
               }
             }
           }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/10.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,6 +236,7 @@
   },
   "active": "76553bdddfa9c7e8",
   "lastOpenFiles": [
+    "ENGR 145 - Chemistry of Materials/HW/10.md",
     "ENGR 145 - Chemistry of Materials/HW/10.pdf",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240411001445.png",
     "ENGR 145 - Chemistry of Materials/HW/10/5b.svg",
@@ -244,7 +245,6 @@
     "ENGR 145 - Chemistry of Materials/HW/10/1.png",
     "ENGR 145 - Chemistry of Materials/HW/10",
     "PHYS 121 - Physics 1/HW/8/8.md",
-    "ENGR 145 - Chemistry of Materials/HW/10.md",
     "PHYS 121 - Physics 1/HW/8/8.pdf",
     "PHYS 121 - Physics 1/HW/8/images/1.png",
     "Private/shopping.md",
@@ -267,7 +267,6 @@
     "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written.pdf",
     "ENGR 145 - Chemistry of Materials/HW/9.pdf",
-    "ENGR 145 - Chemistry of Materials/HW/9/10.3.svg.part",
     "ENGR 145 - Chemistry of Materials/HW/9/Tables.md",
     "ENGR 145 - Chemistry of Materials/HW/7/data.md",
     "PHYS 121 - Physics 1/HW/1/1.md",

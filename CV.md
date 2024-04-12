@@ -131,5 +131,3 @@ Studied in
 - 5: AP Biology
 - 5: AP Physics I
 - 4: AP Music Theory
-- 3: AP Language and Composition
-- 3: AP Literature and Composition
