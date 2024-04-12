@@ -68,25 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "ac5ef2eda4bc820f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "39fd71f4191f61e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/10.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV.md"
+                "file": "cwru/Classes.md"
               }
             }
           }
@@ -178,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV.md",
+                "file": "cwru/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,8 +216,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "76553bdddfa9c7e8",
+  "active": "182b341de01c7a00",
   "lastOpenFiles": [
+    "CV.md",
     "ENGR 145 - Chemistry of Materials/HW/10.md",
     "ENGR 145 - Chemistry of Materials/HW/10.pdf",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240411001445.png",
