@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "af35f167d1f5f804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 121 - Physics 1/Labs/6/6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9b07e3bfb0f599d2",
             "type": "leaf",
             "state": {
@@ -20,7 +32,7 @@
             }
           },
           {
-            "id": "182b341de01c7a00",
+            "id": "c1ce3c5ce6ffbcba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +44,7 @@
             }
           },
           {
-            "id": "e005ec68f6a3f22f",
+            "id": "f9620597c1661df1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,6 +52,16 @@
                 "file": "cwru/Todo.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e005ec68f6a3f22f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CV.pdf"
               }
             }
           },
@@ -79,8 +101,25 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "ce3e8152f9cae7ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d55c0c118ff19e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 121 - Physics 1/Labs/6/6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwru/Todo.md"
+                "file": "PHYS 121 - Physics 1/Labs/6/6.md"
               }
             }
           }
@@ -172,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwru/Todo.md",
+                "file": "PHYS 121 - Physics 1/Labs/6/6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,54 +267,53 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e005ec68f6a3f22f",
+  "active": "af35f167d1f5f804",
   "lastOpenFiles": [
+    "PHYS 121 - Physics 1/Labs/5/5.md",
+    "PHYS 121 - Physics 1/Labs/6/6.md",
+    "PHYS 121 - Physics 1/Labs/6/6.pdf",
+    "PHYS 121 - Physics 1/Labs/6/Report Cover.png~",
+    "PHYS 121 - Physics 1/Labs/6/Report Cover.png",
+    "PHYS 121 - Physics 1/Labs/6/manualFit.png",
+    "PHYS 121 - Physics 1/Labs/6/lab6phys121.pdf",
+    "PHYS 121 - Physics 1/HW/9/9.md",
+    "PHYS 121 - Physics 1/Labs/6/T_PEND.cmbl",
+    "PHYS 121 - Physics 1/Labs/6/SHMtorsion1.eps",
+    "PHYS 121 - Physics 1/Labs/6/SHMtorsion.png",
+    "PHYS 121 - Physics 1/Labs/6/Pendulum Data.txt",
+    "PHYS 121 - Physics 1/Labs/6/manualFIt.png",
+    "PHYS 121 - Physics 1/Labs/6/Lab 6.opju",
+    "PHYS 121 - Physics 1/Labs/6/AutoFit.png",
+    "PHYS 121 - Physics 1/Labs/6/wetransfer_lab-6_2024-04-11_0107/manualFIt.png",
+    "PHYS 121 - Physics 1/Labs/6/wetransfer_lab-6_2024-04-11_0107/T_PEND.cmbl",
+    "PHYS 121 - Physics 1/Labs/6/wetransfer_lab-6_2024-04-11_0107/SHMtorsion1.eps",
+    "PHYS 121 - Physics 1/Labs/6/wetransfer_lab-6_2024-04-11_0107/SHMtorsion.png",
+    "PHYS 121 - Physics 1/Labs/6/wetransfer_lab-6_2024-04-11_0107/Pendulum Data.txt",
+    "PHYS 121 - Physics 1/Labs/6/wetransfer_lab-6_2024-04-11_0107/AutoFit.png",
     "cwru/Classes.md",
+    "cwru/Todo.md",
     "CV.md",
     "ENGR 145 - Chemistry of Materials/HW/10.md",
-    "ENGR 145 - Chemistry of Materials/HW/10.pdf",
     "ENGR 145 - Chemistry of Materials/HW/attachments/Pasted image 20240411001445.png",
     "ENGR 145 - Chemistry of Materials/HW/10/5b.svg",
-    "ENGR 145 - Chemistry of Materials/HW/10/3.png",
-    "ENGR 145 - Chemistry of Materials/HW/10/5a.svg",
-    "ENGR 145 - Chemistry of Materials/HW/10/1.png",
-    "ENGR 145 - Chemistry of Materials/HW/10",
     "PHYS 121 - Physics 1/HW/8/8.md",
-    "PHYS 121 - Physics 1/HW/8/8.pdf",
-    "PHYS 121 - Physics 1/HW/8/images/1.png",
     "Private/shopping.md",
-    "PHYS 121 - Physics 1/HW/8/images/image43.png",
-    "PHYS 121 - Physics 1/HW/8/images/3.svg",
-    "PHYS 121 - Physics 1/HW/8/images/2.svg",
-    "PHYS 121 - Physics 1/HW/8/images",
     "PHYS 121 - Physics 1/HW/8.md",
-    "PHYS 121 - Physics 1/HW/8/image43.png",
-    "PHYS 121 - Physics 1/HW/8",
     "CSDS 281 - Logic Design/HW/8.md",
-    "CSDS 281 - Logic Design/HW/8.pdf",
     "CSDS 281 - Logic Design/HW/8/Tables.md",
     "CSDS 281 - Logic Design/Data/Data.md",
-    "CSDS 281 - Logic Design/Data",
     "AIQS 100/comic/draft.md",
     "ENGR 145 - Chemistry of Materials/HW/9.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",
-    "CSDS 281 - Logic Design/HW/8",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
-    "CSDS 233 - Intro to Data Structures/Projects/3/Written.pdf",
-    "ENGR 145 - Chemistry of Materials/HW/9.pdf",
     "ENGR 145 - Chemistry of Materials/HW/9/Tables.md",
     "ENGR 145 - Chemistry of Materials/HW/7/data.md",
     "PHYS 121 - Physics 1/HW/1/1.md",
     "ENGR 145 - Chemistry of Materials/HW/1.md",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written/tables.md",
-    "PHYS 121 - Physics 1/Labs/5/5.md",
     "PHYS 121 - Physics 1/Labs/3/Analysis.md",
     "PHYS 121 - Physics 1/Labs/4/4.md",
     "PHYS 121 - Physics 1/HW/7/7.md",
-    "CSDS 281 - Logic Design/HW/Extra.md",
-    "CSDS 281 - Logic Design/HW/7.md",
-    "CSDS 302 - Discrete Math/HW/7.md",
-    "CSDS 302 - Discrete Math/HW/6.md",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",
