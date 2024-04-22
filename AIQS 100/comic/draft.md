@@ -1,9 +1,15 @@
 Roughly 6-8 panels per scene, 4 scenes, should have around 30 panels total.
 
-# Rhetorical Devices
+# Things to make
 
-- warm yellow/orange for happiness
-- 
+- Van
+- road
+- trees
+- dirt clouds
+- school
+- soccer field
+- nice room
+- character design
 
 # Scene 1
 
@@ -18,14 +24,14 @@ Van chuggin down dirt road, no road signs
 ## Panel 2
 
 Old town, dirt roads, rundown buildings, dense jungle
-- one coffee shop
+- hostel
 - same van parked off to the left
 - Yoo standing somewhat in the middle
 	- Says something about stopping here... i guess
 
 ## Panel 3
 
-Group of people sitting in the coffee shop, dim, crooked paintings, Yoo standing at the end
+In the lobby of the hostel, fairly dim, crooked paintings, broken light
 - Yoo describing what we are going to be doing here
 
 ## Panel 4
@@ -39,7 +45,7 @@ Get into the room
 - small, cramped, mainly just the bed and a tv
 - express a little disgust
 
-# Scene 3
+# Scene 2
 
 Get to the school
 
@@ -50,14 +56,6 @@ Dirty old place, basically just four walls, empty, light shining though the wind
 ## Panel 2
 
 Start cleaning the place, dust everywhere
-
-## Panel 3
-
-Start setting up iPads in the back room
-
-## Panel 4
-
-Go back out, back to cleaning stage
 
 ## Panel 5
 
@@ -70,9 +68,9 @@ One kid arrives while we are still cleaning
 More kids arrive
 - somewhat unhappy, gloomy
 
-# Scene 3
+# Scene 3 - Teaching
 
-meet the kids, teach them math and how to use the iPads
+meet the kids, teach them stuff on the whiteboard
 
 ## Panel 1
 
@@ -113,19 +111,6 @@ New group of kids x2
 # Scene 4
 
 Take a break, go play soccer with them, realize theyre really happy all the time
-
-## Panel 1
-
-Person putting food on the plate on my left hand, kid taking food from my right
-- Kid is thankful
-
-## Panel 2
-
-Eating lunch on the floor
-
-## Panel 3
-
-Kids enjoying themselves, thankful for food
 
 ## Panel 4
 
