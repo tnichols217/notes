@@ -1,2 +1,2 @@
 > [!para]
-> Throughout my time in this AIQ Seminar (The Art of the Graphic Memoir), I have noticed that I have substantially improved my own understanding and analysis of texts, particularly in the are
+> Throughout my time in this AIQ Seminar (The Art of the Graphic Memoir), I have noticed that I have substantially improved my own understanding and analysis of texts, particularly in the area of Graphic Memoirs a
