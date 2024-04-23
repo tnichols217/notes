@@ -3,7 +3,7 @@
 - Assess your development toward the course outcomes
 	- Think critically and deliberate ethically about differences in values and assumptions, including describing the way that systems privilege some perspectives and present barriers to others.
 	- Identify and use (analyze, engage with, attribute appropriately) authoritative information sources and scholarly concepts in written, oral, and/or multimodal projects
-	- EffecRvely communicate informaRon and ideas in formats appropriate to the assignment and  
+	- Effectively communicate informRon and ideas in formats appropriate to the assignment and  
 in ways that meet the needs/expectaRons of the audience, context, and purpose.
 
 # Look Back
