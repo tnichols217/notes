@@ -2,7 +2,7 @@
 - Explain how the knowledge and skills that you have learned in your AIQ Seminar will be helpful to you in the future  
 - Assess your development toward the course outcomes
 	- Think critically and deliberate ethically about differences in values and assumptions, including describing the way that systems privilege some perspectives and present barriers to others.
-	- Identify and use (analyze, engage with, abribute appropriately) authoritative information sources and scholarly concepts in wriben, oral, and/or mulRmodal projects  
+	- Identify and use (analyze, engage with, attribute appropriately) authoritative information sources and scholarly concepts in wriben, oral, and/or mulRmodal projects  
 • EffecRvely communicate informaRon and ideas in formats appropriate to the assignment and  
 in ways that meet the needs/expectaRons of the audience, context, and purpose.
 
