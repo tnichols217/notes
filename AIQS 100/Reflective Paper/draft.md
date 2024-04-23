@@ -1,2 +1,2 @@
 > [!para]
-> Throughout my time in this AIQ
+> Throughout my time in this AIQ Seminar
