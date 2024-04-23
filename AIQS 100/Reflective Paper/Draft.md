@@ -17,6 +17,5 @@ Then, look forward to explain how the knowledge and skill that you have learned 
 
 # Consider some or all of the AIQS Learning Outcomes
 
-listed on the course syllabus, and describe your development toward those outcomes. In addition to reflecting on your work over the semester, look forward to the future by explaining how you see yourself developing further as a writer and by describing goals and desires that you hope to  
-achieve through writing, in college and beyond.
+listed on the course syllabus, and describe your development toward those outcomes. In addition to reflecting on your work over the semester, look forward to the future by explaining how you see yourself developing further as a writer and by describing goals and desires that you hope to achieve through writing, in college and beyond.
 
