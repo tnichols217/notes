@@ -13,9 +13,7 @@ As you look back through your final essays, observe changes in your writing over
 
 # Project into the Future
 
-Then, look forward to explain how the knowledge and skill that you have learned in your AIQ Seminar will be helpful to you in the future—on a particular writing assignment you might have, in a future class, in your major coursework, and/or in your future career. You might explain how this course has helped you develop a writing process, particular strategies and skills for writing that will be helpful to you, and/or knowledge about  
-yourself as a writer. How might you apply what you have learned in AIQS to new writing  
-situations in the future? What kind of writer do you envision yourself being in the future?  
+Then, look forward to explain how the knowledge and skill that you have learned in your AIQ Seminar will be helpful to you in the future—on a particular writing assignment you might have, in a future class, in your major coursework, and/or in your future career. You might explain how this course has helped you develop a writing process, particular strategies and skills for writing that will be helpful to you, and/or knowledge about yourself as a writer. How might you apply what you have learned in AIQS to new writing situations in the future? What kind of writer do you envision yourself being in the future?  
 Consider some or all of the AIQS Learning Outcomes listed on the course syllabus,  
 and describe your development toward those outcomes. In addition to reflecting on your  
 work over the semester, look forward to the future by explaining how you see yourself  
