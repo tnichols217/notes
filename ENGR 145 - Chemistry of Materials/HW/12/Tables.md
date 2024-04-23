@@ -1,7 +1,7 @@
 
 | Impurity | Semiconductor | Donor/Acceptor? |
 | -------- | ------------- | --------------- |
-| P        | Ge            |                 |
+| P        | Ge            | Donor           |
 | S        | AlP           |                 |
 | In       | CdTe          |                 |
 | Al       | Si            |                 |
