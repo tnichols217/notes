@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "1be4da5f0a4531b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87cb7cdf74b3bf41",
             "type": "leaf",
             "state": {
@@ -126,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/12.md"
+                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md"
               }
             }
           }
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/12.md",
+                "file": "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,11 +286,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e14a2ff56b7dad78",
+  "active": "1be4da5f0a4531b6",
   "lastOpenFiles": [
+    "ENGR 145 - Chemistry of Materials/HW/12.md",
     "ENGR 145 - Chemistry of Materials/HW/12.pdf",
     "Private/nix things todo.md",
-    "ENGR 145 - Chemistry of Materials/HW/12.md",
     "CSDS 302 - Discrete Math/HW/7.md",
     "ENGR 145 - Chemistry of Materials/HW/12/Tables.md",
     "ENGR 145 - Chemistry of Materials/HW/12",
@@ -310,7 +322,6 @@
     "PHYS 121 - Physics 1/Labs/6/Report Cover.png~",
     "PHYS 121 - Physics 1/Labs/6/Report Cover.png",
     "PHYS 121 - Physics 1/Labs/6/manualFit.png",
-    "PHYS 121 - Physics 1/Labs/6/lab6phys121.pdf",
     "PHYS 121 - Physics 1/HW/9/9.md",
     "PHYS 121 - Physics 1/Labs/6/SHMtorsion.png",
     "PHYS 121 - Physics 1/Labs/6/manualFIt.png",
