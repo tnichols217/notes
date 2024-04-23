@@ -49,6 +49,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ENGR 145 - Chemistry of Materials/HW/12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87cb7cdf74b3bf41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Private/nix things todo.md",
                 "mode": "source",
                 "source": false
@@ -114,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e14a2ff56b7dad78",
+  "active": "87cb7cdf74b3bf41",
   "lastOpenFiles": [
     "ENGR 145 - Chemistry of Materials/HW/12.md",
     "Private/nix things todo.md",
