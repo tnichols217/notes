@@ -3,4 +3,4 @@
 > 
 > 
 > 
-> My newfound skills in analysis and composition are useful for me in simple ways such as being able to understand other people's written i
+> My newfound skills in analysis and composition are useful for me in simple ways such as being able to understand other people's written intentions better to being able to 
