@@ -7,7 +7,7 @@
 > 
 > In the second essay of this class I focused more on comparisons and parallels. In this essay I still utilized more signposting than I am used to — once again to signify changes in my essay and to offer some background information when abruptly switching topics. In this essay, I opted to attempt to tell both author's stories at the same time to draw on strong similarities between the two as well as their stark differences. Although I don't believe I managed to achieve this very well, it was a novel experience for me and I believe that even in its weakness it does manage to offer some unique insight on the comparison of the two authors and their works. This essay has taught me to more clearly outline my thoughts and ideas before putting them into words and paragraphs. Although it does logically make sense — according to my reviewers — I would have preferred if I came to its final organization earlier in the revision cycle to ease my own development of the essay. I have learned to not only outline main ideas and points — like I have before this essay — but to also specifically plan the structure of the final product.
 > 
-> Lastly, in my final comic strip for this course, I created a short story
+> Lastly, in my final comic strip for this course, I created a short story of my trip to an underdevel
 > 
 > My newfound skills in analysis and composition are useful for me
 
