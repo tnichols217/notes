@@ -13,7 +13,6 @@ As you look back through your final essays, observe changes in your writing over
 
 # Project into the Future
 
-Then, look forward to explain how the knowledge and skill that you have learned in  
-your AIQ Seminar will be helpful to you in the future—on a particular writing assignment  
+Then, look forward to explain how the knowledge and skill that you have learned in your AIQ Seminar will be helpful to you in the future—on a particular writing assignment  
 you might have, in a future class, in your major coursework, and/or in your future career.  
 You might explain how this course has helped you develop a writing process, particular
