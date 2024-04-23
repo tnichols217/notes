@@ -7,7 +7,7 @@
 > 
 > In the second essay of this class I focused more on comparisons and parallels. In this essay I still utilized more signposting than I am used to — once again to signify changes in my essay and to offer some background information when abruptly switching topics. In this essay, I opted to attempt to tell both author's stories at the same time to draw on strong similarities between the two as well as their stark differences. Although I don't believe I managed to achieve this very well, it was a novel experience for me and I believe that even in its weakness it does manage to offer some unique insight on the comparison of the two authors and their works.
 > 
-> Lastly, in my fin
+> Lastly, in my final project
 > 
 > My newfound skills in analysis and composition are useful for me
 
