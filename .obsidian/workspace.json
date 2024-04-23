@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d29f1099e26100b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/college/Expenses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e005ec68f6a3f22f",
             "type": "leaf",
             "state": {
@@ -90,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/7.md"
+                "file": "Private/college/Expenses.md"
               }
             }
           }
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 302 - Discrete Math/HW/7.md",
+                "file": "Private/college/Expenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,11 +250,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f9620597c1661df1",
+  "active": "d29f1099e26100b4",
   "lastOpenFiles": [
+    "CSDS 302 - Discrete Math/HW/7.md",
     "CSDS 302 - Discrete Math/HW/7.pdf",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
-    "CSDS 302 - Discrete Math/HW/7.md",
     "CSDS 302 - Discrete Math/HW/6.md",
     "CSDS 302 - Discrete Math/HW/5.md",
     "CSDS 302 - Discrete Math/HW/4.md",
@@ -271,7 +283,6 @@
     "PHYS 121 - Physics 1/Labs/6/lab6phys121.pdf",
     "PHYS 121 - Physics 1/HW/9/9.md",
     "PHYS 121 - Physics 1/Labs/6/T_PEND.cmbl",
-    "PHYS 121 - Physics 1/Labs/6/SHMtorsion1.eps",
     "PHYS 121 - Physics 1/Labs/6/SHMtorsion.png",
     "PHYS 121 - Physics 1/Labs/6/manualFIt.png",
     "PHYS 121 - Physics 1/Labs/6/AutoFit.png",
