@@ -3,7 +3,8 @@
 - Assess your development toward the course outcomes
 
 
-# Look Back  
+# Look Back
+
 Gather all of your final writing projects from the course, taking the time and opportunity  
 to look over your work and consider its strengths and weaknesses, one piece’s  
 relationship to another, and how you might see development or growth in one or more  
