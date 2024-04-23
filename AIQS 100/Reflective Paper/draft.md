@@ -3,4 +3,4 @@
 > 
 > 
 > 
-> My newfound skills in ana
+> My newfound skills in analysis and composition are 
