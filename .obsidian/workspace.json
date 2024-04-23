@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/12.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/12/Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/12.md"
+                "file": "ENGR 145 - Chemistry of Materials/HW/12/Tables.md"
               }
             }
           }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/12.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/12/Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,11 +250,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b67808c7c498bc42",
+  "active": "d29f1099e26100b4",
   "lastOpenFiles": [
-    "ENGR 145 - Chemistry of Materials/HW/Untitled",
-    "Private/college/Expenses.md",
     "ENGR 145 - Chemistry of Materials/HW/12.md",
+    "ENGR 145 - Chemistry of Materials/HW/12/Tables.md",
+    "ENGR 145 - Chemistry of Materials/HW/12",
+    "Private/college/Expenses.md",
     "CSDS 302 - Discrete Math/HW/7.md",
     "CSDS 302 - Discrete Math/HW/7.pdf",
     "CSDS 233 - Intro to Data Structures/Projects/3/Written.md",
@@ -285,7 +286,6 @@
     "PHYS 121 - Physics 1/Labs/6/manualFit.png",
     "PHYS 121 - Physics 1/Labs/6/lab6phys121.pdf",
     "PHYS 121 - Physics 1/HW/9/9.md",
-    "PHYS 121 - Physics 1/Labs/6/T_PEND.cmbl",
     "PHYS 121 - Physics 1/Labs/6/SHMtorsion.png",
     "PHYS 121 - Physics 1/Labs/6/manualFIt.png",
     "PHYS 121 - Physics 1/Labs/6/AutoFit.png",
