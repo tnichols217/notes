@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/nix things todo.md"
+                "file": "ENGR 145 - Chemistry of Materials/HW/12.md"
               }
             }
           }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/nix things todo.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,10 +274,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "87cb7cdf74b3bf41",
+  "active": "e14a2ff56b7dad78",
   "lastOpenFiles": [
-    "ENGR 145 - Chemistry of Materials/HW/12.md",
     "Private/nix things todo.md",
+    "ENGR 145 - Chemistry of Materials/HW/12.md",
     "CSDS 302 - Discrete Math/HW/7.md",
     "ENGR 145 - Chemistry of Materials/HW/12/Tables.md",
     "ENGR 145 - Chemistry of Materials/HW/12",
