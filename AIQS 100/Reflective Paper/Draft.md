@@ -2,3 +2,21 @@
 - Explain how the knowledge and skills that you have learned in your AIQ Seminar will be helpful to you in the future  
 - Assess your development toward the course outcomes
 
+
+# Look Back  
+Gather all of your final writing projects from the course, taking the time and opportunity  
+to look over your work and consider its strengths and weaknesses, one piece’s  
+relationship to another, and how you might see development or growth in one or more  
+writing strategies that we have explored over the semester.  
+Take Stock in the Present  
+As you look back through your final essays, observe changes in your writing over the  
+course of the semester: what are you proud of, what weaknesses have you worked to  
+overcome, what strengths have you developed, and what writing habits and processes  
+have you developed that are most helpful to you? Select examples and evidence from  
+your essays to demonstrate your learning processes and what kind of writer you are  
+now.  
+Project into the Future  
+Then, look forward to explain how the knowledge and skill that you have learned in  
+your AIQ Seminar will be helpful to you in the future—on a particular writing assignment  
+you might have, in a future class, in your major coursework, and/or in your future career.  
+You might explain how this course has helped you develop a writing process, particular
