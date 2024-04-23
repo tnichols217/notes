@@ -3,7 +3,7 @@
 > 
 > In my first close reading essay of this class, and my first close reading essay of all time, although I wish I could have done better, I believe that the process that took me to what I submitted was a substantial journey. I learned how to use a common line of reasoning as well as signposting in order to create a more clearly laid out essay. In the first sentence of my third last paragraph I say "Bui herself still has not come to a complete understanding of the situation at hand", clearly stating at which point in my reasoning I am at and offering a piece of context for the rest of the paragraph as well as a place to integrate back into the main theme of the essay. Before I made this revision I have gotten feedback that it was hard to follow what point I was trying to make throughout the essay.
 > 
-> In the same essay, I also observed that the evolution of my thesis was significantly greater than I expected it to be. Going in to writing the essay I thought I had a solid idea I was trying to covey in my essay, but the more I wrote the essay, the more I realized I needed to clarify and both condense and elaborate in my thesis. In the end I settled on an implied thesis throughout 
+> In the same essay, I also observed that the evolution of my thesis was significantly greater than I expected it to be. Going in to writing the essay I thought I had a solid idea I was trying to covey in my essay, but the more I wrote the essay, the more I realized I needed to clarify and both condense and elaborate in my thesis. In the end I settled on an implied thesis 
 > 
 > My newfound skills in analysis and composition are useful for me
 
