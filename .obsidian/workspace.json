@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "e14a2ff56b7dad78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGR 145 - Chemistry of Materials/HW/12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e005ec68f6a3f22f",
             "type": "leaf",
             "state": {
@@ -102,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/12/Tables.md"
+                "file": "ENGR 145 - Chemistry of Materials/HW/12.md"
               }
             }
           }
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENGR 145 - Chemistry of Materials/HW/12/Tables.md",
+                "file": "ENGR 145 - Chemistry of Materials/HW/12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,10 +262,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d29f1099e26100b4",
+  "active": "e14a2ff56b7dad78",
   "lastOpenFiles": [
-    "ENGR 145 - Chemistry of Materials/HW/12.md",
     "ENGR 145 - Chemistry of Materials/HW/12/Tables.md",
+    "ENGR 145 - Chemistry of Materials/HW/12.md",
     "ENGR 145 - Chemistry of Materials/HW/12",
     "Private/college/Expenses.md",
     "CSDS 302 - Discrete Math/HW/7.md",
