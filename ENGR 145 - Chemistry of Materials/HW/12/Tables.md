@@ -5,6 +5,6 @@
 | S        | AlP           | Donor           |
 | In       | CdTe          | Acceptor        |
 | Al       | Si            | Acceptor        |
-| Cd       | GaAs          | Acceptor        |
+| Cd       | GaAs          | Donor           |
 | Sb       | ZnSe          | Acceptor        |
 ^4a
