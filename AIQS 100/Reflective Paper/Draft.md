@@ -7,8 +7,8 @@
 
 Gather all of your final writing projects from the course, taking the time and opportunity to look over your work and consider its strengths and weaknesses, one piece’s relationship to another, and how you might see development or growth in one or more writing strategies that we have explored over the semester.
 
-#
-Take Stock in the Present  
+# Take Stock in the Present
+
 As you look back through your final essays, observe changes in your writing over the  
 course of the semester: what are you proud of, what weaknesses have you worked to  
 overcome, what strengths have you developed, and what writing habits and processes  
