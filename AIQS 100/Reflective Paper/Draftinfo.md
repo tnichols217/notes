@@ -1,7 +1,7 @@
 - Describe what you have observed about changes in your writing over the course of the semester, using examples and evidence to demonstrate your learning processes and what kind of writer you are  
 - Explain how the knowledge and skills that you have learned in your AIQ Seminar will be helpful to you in the future  
 - Assess your development toward the course outcomes
-	- Think critically and deliberate ethically about differences in values and assumpRons, including  
+	- Think critically and deliberate ethically about differences in values and assumptions, including 
 describing the way that systems privilege some perspecRves and present barriers to others.  
 • IdenRfy and use (analyze, engage with, abribute appropriately) authoritaRve informaRon  
 sources and scholarly concepts in wriben, oral, and/or mulRmodal projects  
