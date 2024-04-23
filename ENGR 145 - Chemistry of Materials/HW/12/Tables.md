@@ -3,7 +3,7 @@
 | -------- | ------------- | --------------- |
 | P        | Ge            | Donor           |
 | S        | AlP           | Donor           |
-| In       | CdTe          |                 |
+| In       | CdTe          | Acceptor        |
 | Al       | Si            |                 |
 | Cd       | GaAs          |                 |
 | Sb       | ZnSe          |                 |
