@@ -9,9 +9,7 @@ Gather all of your final writing projects from the course, taking the time and o
 
 # Take Stock in the Present
 
-As you look back through your final essays, observe changes in your writing over the  
-course of the semester: what are you proud of, what weaknesses have you worked to  
-overcome, what strengths have you developed, and what writing habits and processes  
+As you look back through your final essays, observe changes in your writing over the course of the semester: what are you proud of, what weaknesses have you worked to overcome, what strengths have you developed, and what writing habits and processes  
 have you developed that are most helpful to you? Select examples and evidence from  
 your essays to demonstrate your learning processes and what kind of writer you are  
 now.  
