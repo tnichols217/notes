@@ -3,4 +3,4 @@
 > 
 > 
 > 
-> My newfound skills in analysis and composition are 
+> My newfound skills in analysis and composition are useful 
