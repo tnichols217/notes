@@ -127,24 +127,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "7890af040325a2bf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e14a2ff56b7dad78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIQS 100/Argumentative Paper/Draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Draft.md"
+                "file": "PHYS 121 - Physics 1/HW/10/10.md"
               }
             }
           }
@@ -236,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Argumentative Paper/Draft.md",
+                "file": "PHYS 121 - Physics 1/HW/10/10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,8 +274,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e14a2ff56b7dad78",
+  "active": "3f9fe3a5abdece9a",
   "lastOpenFiles": [
+    "AIQS 100/Argumentative Paper/Draft.md",
     "PHYS 121 - Physics 1/HW/10/10.md",
     "CSDS 281 - Logic Design/HW/9.md",
     "PHYS 121 - Physics 1/HW/10",
@@ -304,7 +287,6 @@
     "CSDS 281 - Logic Design/HW/attachments/Pasted image 20240424124438.png",
     "AIQS 100/Reflective Paper/draft.md",
     "AIQS 100/Reflective Paper/Draftinfo.md",
-    "AIQS 100/Argumentative Paper/Draft.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - The Best We Could Do.md",
     "AIQS 100/Reflective Paper/planning.md",
