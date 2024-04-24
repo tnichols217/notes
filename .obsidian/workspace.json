@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIQS 100/Reflective Paper/draft.md",
-                "mode": "preview",
+                "file": "CSDS 281 - Logic Design/HW/9.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIQS 100/Reflective Paper/draft.md"
+                "file": "CSDS 281 - Logic Design/HW/9.md"
               }
             }
           }
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIQS 100/Reflective Paper/draft.md",
+                "file": "CSDS 281 - Logic Design/HW/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,8 +294,9 @@
   },
   "active": "3f9fe3a5abdece9a",
   "lastOpenFiles": [
-    "AIQS 100/Reflective Paper/Draftinfo.md",
     "AIQS 100/Reflective Paper/draft.md",
+    "CSDS 281 - Logic Design/HW/9.md",
+    "AIQS 100/Reflective Paper/Draftinfo.md",
     "AIQS 100/Argumentative Paper/Draft.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Close Reading Paper Draft.md",
     "AIQS 100/Thi Bui - The Best We Could Do/Thi Bui - The Best We Could Do.md",
@@ -323,7 +324,6 @@
     "CSDS 302 - Discrete Math/Notes/2 - Logic Laws.md",
     "CSDS 302 - Discrete Math/HW/8.md",
     "cwru/Todo.md",
-    "cwru/Classes.md",
     "CSDS 233 - Intro to Data Structures/Projects/4/Written.pdf",
     "CSDS 233 - Intro to Data Structures/Projects/4/Written",
     "CSDS 233 - Intro to Data Structures/Projects/4",
