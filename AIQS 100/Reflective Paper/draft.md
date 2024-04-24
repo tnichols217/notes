@@ -21,5 +21,5 @@
 > 
 >  I believe I have made significant progress towards the goals that this course has set out. In the syllabus, it states that the goals are for students to be able to "think critically and deliberate ethically about difference in values and assumptions". I find that I have progressed in this manner especially with my second essay on the comparisons of different ideas and in my final project in my own personal experience in an environment that is strictly foreign to one that I am familiar to. The syllabus elaborates on that point, expanding it to think about "the way that systems privilege some perspectives and present barriers to others", which I hope was evidently expressed in my final project as well.
 >  
->  The syllabus also includes the incorporation of secondary sources into works, which is something I am fairly used to in my prior 
+>  The syllabus also includes the incorporation of secondary sources into works, which is something I am fairly used to in my prior works. Although I don't beliee
 
