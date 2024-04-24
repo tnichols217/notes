@@ -23,5 +23,5 @@
 >  
 >  The syllabus also includes the incorporation of secondary sources into works, which is something I am fairly used to in my prior works. Although I don't believe I have grown much in this area, it is not the fault of the class, but more on my already matured prior experience in this area. Finding fitting scholarly sources for different types of essays was still good practice to me however.
 >  
->  Finally, I believe the last goal of the syllabus of effective communication is one that I have grown in the most out of the others I have listed here. 
+>  Finally, I believe the last goal of the syllabus of effective communication is one that I have grown in the most out of the others I have listed here. Ironically, majority of the time I 
 
