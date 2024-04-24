@@ -19,5 +19,5 @@
 > 
 > Personally, better time management could never go wrong. Especially in my final project, I learned to set realistic goals and progress markers. Additionally, learning to reassess earlier in the cycle would also be a strong benefit when incorrectly estimating the initial time allocation. I am glad I managed to realize that the project would overshoot by far, but recognizing that earlier is something I will implement in my day-to-day life moving forward.
 > 
->  I believe I have made
+>  I believe I have made significant progress towards the goals that th
 
