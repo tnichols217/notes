@@ -13,5 +13,5 @@
 > 
 > My newfound skills in analysis, composition, and planning would be supremely important later in both my professional career as well as personal life. In the academic context, I have learned how to more effectively communicate the ideas I would like the get across as well as how to keep them thoroughly organized and concise — something I initially struggled with at the beginning of this course, but something I feel like I have improved since then.
 > 
-> In the context of 
+> In the context of academia, 
 
