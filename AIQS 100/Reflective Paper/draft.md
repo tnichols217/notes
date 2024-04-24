@@ -17,5 +17,5 @@
 > 
 > Back in the context of academia, stronger analysis and composition would aide me especially in reports as I am a STEM and not an arts major. Although deeper analysis of texts would not be as essential in my own academic career as would it be for an arts major, deeper understanding of comparisons and analysis of people would still be significantly useful in general. The process I have refined surrounding a detailed outline would still be applicable to other academic subjects as well — as it is mainly an organizational skill that I have neglected to notice the importance of in my other areas of academia due to their relative ease to me.
 > 
-> Personally, better time management could never 
+> Personally, better time management could never go wrong. Espec
 
