@@ -1,0 +1,19 @@
+
+```dot
+graph{
+	MCS101[color=blue]
+	MCS100[color=green]
+	MCS135[color=red]
+	MCS130[color=yellow]
+	MCS120[color=green]
+	MCS110[color=yellow]
+	MCS102[color=blue]
+	MCS101--{MCS100 MCS135 MCS130 MCS120}
+	MCS100--{MCS135 MCS110}
+	MCS135--{MCS130 MCS120 MCS110 MCS102}
+	MCS130--{MCS120 MCS102}
+	MCS120--{MCS110 MCS102}
+	MCS110--MCS102
+}
+```
+^17
