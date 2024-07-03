@@ -66,19 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a030a159a2f33c9a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,7 +216,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a030a159a2f33c9a",
+  "active": "87cb7cdf74b3bf41",
   "lastOpenFiles": [
     "MATH 224 - Differential Equations/Work/1.2.md",
     "MATH 224 - Differential Equations/Notes/1.md",
