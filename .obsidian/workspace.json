@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5274c12a2dd8288c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -209,14 +219,10 @@
       "audio-recorder:Start/stop recording": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "87cb7cdf74b3bf41",
+  "active": "5274c12a2dd8288c",
   "lastOpenFiles": [
     "MATH 224 - Differential Equations/Notes/2.md",
     "MATH 224 - Differential Equations/Notes/3.md",
