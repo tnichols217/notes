@@ -56,29 +56,19 @@
             }
           },
           {
-            "id": "87cb7cdf74b3bf41",
+            "id": "6abb9e60d2e97f9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 224 - Differential Equations/Notes/3.md",
+                "file": "MATH 224 - Differential Equations/Notes/1.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "09012d7eef27f625",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 224 - Differential Equations/Notes/3.md"
+                "file": "MATH 224 - Differential Equations/Notes/1.md"
               }
             }
           }
@@ -170,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 224 - Differential Equations/Notes/3.md",
+                "file": "MATH 224 - Differential Equations/Notes/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,10 +216,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "09012d7eef27f625",
+  "active": "6abb9e60d2e97f9a",
   "lastOpenFiles": [
-    "MATH 224 - Differential Equations/Notes/2.md",
     "MATH 224 - Differential Equations/Notes/3.md",
+    "CV.md",
+    "MATH 224 - Differential Equations/Notes/2.md",
     "MATH 224 - Differential Equations/Notes/1.md",
     "MATH 224 - Differential Equations/Work/1.2.md",
     "MATH 224 - Differential Equations/Work/1.1.md",
@@ -239,7 +230,6 @@
     "MATH 224 - Differential Equations",
     "Private/internship/EY/Info.md",
     "Private/internship/EY/Draft.md",
-    "CV.md",
     "Private/internship/EY",
     "Private/things todo.md",
     "Private/internship",
