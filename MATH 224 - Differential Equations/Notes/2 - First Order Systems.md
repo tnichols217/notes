@@ -36,6 +36,12 @@ $\frac{d^2y}{dt^2}+p \frac{dy}{dt}+qy=0$
 
 $\implies \begin{cases} \frac{dy}{dt}=v\\ \frac{dv}{dt}=-qy-pv\end{cases}$
 
+### Linear second-order differential equations
+
+For all second-order differential equations, we may skip converting to a system as a particular solution will always be of the form $e^{\lambda t}$ where $\lambda$ can easily be solved in this case with the trace-determinant shortcut. The general solution may be easily obtained through the linearity principle:
+
+$\mathbf Y=k_1e^{\lambda_{1}t}+k_{2}e^{\lambda_{2}t}$
+
 ## Decoupled Systems
 
 Fully decoupled systems are systems where the variables do not depend on each other, such as:
