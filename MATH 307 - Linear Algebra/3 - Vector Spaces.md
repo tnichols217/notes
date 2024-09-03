@@ -36,3 +36,17 @@ This is easily satisfied if linear combinations $\overline {\mathbb W}$ are clos
 
 Even if a subset of $\overline {\mathbb V}$ may appear to be a valid subspace, if it does not pass through the origin, but is a valid subspace but shifted by some constant, then it is an affine space.
 
+## Spanning Sets
+
+If any $v\in\overline{\mathbb V}$ may be composed by a linear combination of set $\vec {\mathbb v}$ where $\vec{\mathbb v}\subset\overline{\mathbb V}$, then $\vec{\mathbb v}$ is a spanning set of $\overline{\mathbb V}$
+
+1. The size of $\vec{\mathbb v}$ will need to be at minimum the dimensionality of the space $\overline{\mathbb V}$
+2. A linear combination of $\vec{\mathbb v}$ may be represented as $\vec v=\sum\limits_{j=1}^{n}\alpha_{j}\circ{\vec{\mathbb v}}_{j}$ where $\alpha\subset\mathbb F$ of equal size as $\vec{\mathbb v}$
+3. A spanning set of a vector space is not unique, you may derive an infinite amount of valid spanning sets based off any other spanning set.
+
+### Linear Independence
+
+A set of vectors $\vec{\mathbb v}$ is linearly independent if 
+$\vec 0=\sum\limits_{j=1}^{n}\alpha_{j}\circ{\vec{\mathbb v}}_{j}\iff\alpha=\vec 0$
+
+1. It is impossible to obtain a vector in $\vec{\mathbb v}$ from the other vectors through a linear combination if $\vec{\mathbb v}$ is linearly independent
