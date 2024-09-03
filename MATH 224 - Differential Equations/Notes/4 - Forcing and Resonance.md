@@ -55,3 +55,75 @@ $ae^{it}= |a|e^{i(\theta+t)}$
 
 for $\theta$, which happens to be the phase angle, which can be found from the initial complex $a$ with $\arctan$
 
+## Resonance
+
+Resonance occurs when a sinusoidal nonhomogeneous equation's period lines up (or closely lines up) with the natural frequency of the homogenous equation.
+
+### Beating
+
+Beating occurs if the periods closely line up, creating a graph that looks like a sinusoidal within a low frequency sinusoidal.
+
+```function-plot
+data:
+	- fn: cos(10*x)+cos(11*x)
+	- fn: 2*cos(10.5*x)*cos(0.5*x)
+xAxis:
+	domain:
+		- 0
+		- 10
+yAxis:
+	domain:
+		- -2
+		- 2
+```
+
+The frequency of the beating can be solved for through complexification
+
+$\cos(at)-\cos(bt)$
+$=(e^{iat}-e^{ibt})_{re}$
+
+For the sake of simplicity, we will take the real portion at the end
+
+Let
+$\alpha= \frac{a+b}{2}$
+$\beta= \frac{a-b}{2}$
+
+$=e^{i(\alpha+\beta)t}-e^{i(\alpha-\beta)t}$
+$=e^{i\alpha t}(e^{i\beta t}-e^{-i\beta t})$
+$=e^{i\alpha t}(2\cos(\beta t))$
+$\implies2\cos(\alpha t)\cos(\beta t)$
+
+### Solving the resonant case
+
+When solving resonant cases, we should be using a guess of $k_1t\sin(at)+k_2t\cos(at)$ or $te^{iat}$
+
+This will eventually lead to a solution that shows a linearly increasing sinusoidal.
+
+### Finding amplitude the end behavior of a damped equation
+
+With the form:
+
+$\frac{d^{2}y}{dt^{2}}+p\frac{dy}{dt}+qy= \cos(\omega t)$
+$\implies \frac{d^{2}y}{dt^{2}}+p\frac{dy}{dt}+qy= e^{i\omega t}$
+
+We guess $ae^{i\omega t}$
+
+$=-a\omega^{2}e^{i\omega t}+p(ai\omega e^{i\omega t})+q(ae^{i\omega t})$
+$a(-\omega^{2}+q-pi\omega)=1$
+$a= \frac{1}{-\omega^{2}+q-ip\omega}$
+
+Thus $ae^{i\omega t}$ will have the amplitude of $|a|$
+
+$|a|=\frac{1}{\sqrt{(q-\omega^{2})^2+(p\omega)^{2}}}$
+
+And the phase we tend to choose is 
+
+$\phi=\arctan(\frac{-p\omega}{q-\omega^{2}})$
+
+### Additional parameters
+
+If the phase $\theta$ is a parameter, we simply shift the phase of the particular solution of nonhomogeneous equation.
+
+This can be easily proven with $\tau$-sub
+
+If the amplitude $F$ is a parameter, the solving for $k$ does not change, and will simply be a multiple of a solution of $F=1$

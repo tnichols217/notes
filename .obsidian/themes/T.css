@@ -577,6 +577,14 @@ div.markdown-preview-sizer.markdown-preview-section {
 
 div.mermaid > svg {
 
+  & rect.attributeBoxOdd {
+    fill: var(--background-secondary) !important;
+  }
+
+  & rect.attributeBoxEven {
+    fill: var(--background-secondary-alt) !important;
+  }
+
   & g.edges {
     --text-muted: var(--color-1);
   }

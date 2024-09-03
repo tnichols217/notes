@@ -39,3 +39,14 @@ Reserved Notation:
 - $\mathbb C$ Complex
 $X$: Universal Set
 $A^C=X\setminus A=\{x\in X:x\not\in A\}$
+
+
+
+## Types of Prooves
+
+**Direct**: A process from start to end with necessarily locally true statements
+**Proof by induction**: Proving a statement holds true for all $n$ by proving them consecutively and based on previous $n$
+**Proof by contraposition**: Proving the contrapositive to prove the statement
+**Proof by contradition**: Proving that the negation of a statement contradicts something necessarily true
+
+
