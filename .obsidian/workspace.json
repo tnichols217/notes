@@ -68,37 +68,29 @@
             }
           },
           {
-            "id": "015296bd03e2d375",
+            "id": "380d8fa11004a1ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 122 - Physics 2/Notes/Electric Charge.md",
+                "file": "PHYS 122 - Physics 2/Lab/1/Tables.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "366450abf52deb1a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/1/Notes.pdf"
               }
             }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "28f4def4d06ffa05",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6f7f829dbe6a8cc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH 307 - Linear Algebra/2 - Sets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "digraph",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,52 +240,53 @@
   },
   "active": "6abb9e60d2e97f9a",
   "lastOpenFiles": [
-    "MATH 307 - Linear Algebra/2 - Sets.md",
-    "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
-    "MATH 307 - Linear Algebra/1 - Intro.md",
+    "Private/wolf/Browser Android/Project Layout.canvas",
+    "Shared/Wolf/Browser Android/Puzzle Pieces/Shared Emulator Server Host.md",
+    "Shared/Wolf/Browser Android/Puzzle Pieces/Phone Runner.md",
+    "Shared/Wolf/Browser Android/Puzzle Pieces/Phone Image.md",
+    "Shared/Wolf/Browser Android/Puzzle Pieces/Phone Drive.md",
+    "Shared/Wolf/Browser Android/Puzzle Pieces/Phone Box.md",
+    "Shared/Wolf/Browser Android/Puzzle Pieces/Master Database.md",
+    "Shared/Wolf/Browser Android/Puzzle Pieces/Janus Gateway Servers.md",
+    "Shared/Wolf/Browser Android/Puzzle Pieces/Control API.md",
+    "Shared/Wolf/Browser Android/Puzzle Pieces",
+    "Shared/Wolf/Browser Android/Project Layout.canvas",
+    "Shared/Wolf/Browser Android/General Notes.md",
+    "Shared/Wolf/Browser Android",
+    "Shared/Wolf",
+    "Untitled",
+    "Shared",
+    "Private/wolf/Browser Android/Puzzle Pieces/Control API.md",
+    "Private/wolf/Browser Android/General Notes.md",
+    "PHYS 122 - Physics 2/Lab/1/1 - DCCIR.md",
+    "Private/wolf/Test1.md",
+    "Private/wolf/Browser Android/Puzzle Pieces/Shared Emulator Server Host.md",
+    "Private/wolf/Browser Android/Puzzle Pieces/Phone Runner.md",
+    "Private/wolf/Browser Android/Puzzle Pieces/Phone Image.md",
+    "Private/wolf/Browser Android/Puzzle Pieces/Phone Drive.md",
+    "Private/wolf/Browser Android/Puzzle Pieces/Phone Box.md",
+    "Private/wolf/Browser Android/Puzzle Pieces/Master Database.md",
+    "Private/wolf/Browser Android/Puzzle Pieces/Janus Gateway Servers.md",
+    "Private/wolf/Browser Android/Puzzle Pieces",
+    "Private/wolf/Browser Android",
+    "PHYS 122 - Physics 2/Lab/1/Lab1Merged.pdf",
+    "PHYS 122 - Physics 2/Lab/1/1 - DCCIR.pdf",
+    "PHYS 122 - Physics 2/Lab/1/Tables.md",
     "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
-    "obsidian-columns.md",
-    "CSDS 302 - Discrete Math/HW/8/10.2/Tables.md",
-    "CSDS 281 - Logic Design/HW/8/Tables.md",
-    "CSDS 233 - Intro to Data Structures/Projects/5/Written.md",
-    "PHYS 122 - Physics 2/HW/1/1.md",
-    "PHYS 122 - Physics 2/HW/1",
-    "PHYS 122 - Physics 2/HW/1/Fig2.svg",
+    "PHYS 122 - Physics 2/Lab/1/Notes.pdf",
+    "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
+    "PHYS 122 - Physics 2/Lab/1/RvsI.svg",
+    "PHYS 122 - Physics 2/Lab/1/VvsC.svg",
+    "PHYS 122 - Physics 2/Lab/1/VvsC.png",
+    "PHYS 122 - Physics 2/Lab/1/RvsI.png",
+    "ENGR 130 - Foundation Engineering and Programming/HW/3/SectionD_tln32_HW3.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/2/SectionD_tln32_HW2.md",
-    "PHYS 122 - Physics 2/HW",
-    "ENGR 130 - Foundation Engineering and Programming/HW/2/SectionD_tln32_HW2.pdf",
+    "PHYS 122 - Physics 2/HW/1/Fig2.svg",
     "ENGR 130 - Foundation Engineering and Programming/HW/2/SectionD_tln32_HW2.png",
-    "ENGR 130 - Foundation Engineering and Programming/HW/2/attachments",
-    "ENGR 130 - Foundation Engineering and Programming/HW/2",
-    "ENGR 130 - Foundation Engineering and Programming/HW",
-    "ENGR 130 - Foundation Engineering and Programming",
-    "CSDS 341 - Intro to Databases/Notes/1 - Intro to Databases and SQL.md",
-    "PHYS 122 - Physics 2/Notes/Electric Charge.md",
-    "CSDS 310 - Algorithms/1 - Sorting.md",
-    "PHYS 122 - Physics 2/Notes",
-    "PHYS 122 - Physics 2",
-    "Untitled.md",
-    "CSDS 341 - Intro to Databases/Notes",
-    "CSDS 310 - Algorithms/3 - Growth of Functions.md",
-    "ENGR 399 - Impact of Engineering on Society/Notes/1.md",
-    "MATH 224 - Differential Equations/Notes/5 - Non-linear systems.md",
-    "MATH 224 - Differential Equations/Notes/6 - Laplace Transforms.md",
-    "MATH 224 - Differential Equations/Notes/4 - Forcing and Resonance.md",
-    "MATH 224 - Differential Equations/Notes/3 - Linear Systems.md",
-    "MATH 224 - Differential Equations/Notes/2 - First Order Systems.md",
-    "MATH 224 - Differential Equations/Notes/1 - Intro to Diffeq.md",
-    "ENGR 145 - Chemistry of Materials/HW/9/Tables.md",
-    "ENGR 145 - Chemistry of Materials/HW/7/data.md",
-    "PHYS 121 - Physics 1/HW/1/1.md",
-    "CV.md",
     "AIQS 100/comic/compiled/9.svg",
     "AIQS 100/comic/compiled/8.svg",
     "AIQS 100/comic/compiled/7.svg",
     "AIQS 100/comic/compiled/6.svg",
-    "AIQS 100/comic/compiled/5.svg",
-    "AIQS 100/comic/compiled/4.svg",
-    "AIQS 100/comic/compiled/3.svg",
-    "AIQS 100/comic/compiled/2.svg",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",

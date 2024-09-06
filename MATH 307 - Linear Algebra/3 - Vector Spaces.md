@@ -1,9 +1,9 @@
 # Vector Spaces
 
-$\overline {\mathbb V}$ is a vector space over field $(\mathbb F, \diamond, \circ)$ if
+$\overline {\mathbb V}$ is a vector space over field $(\mathbb F, \diamond_F, \circ_F)$ with operations $(\diamond_{V},\circ_{V})$ if
 
-1. $\overline {\mathbb V}$ is an Abelian Group in $\diamond$
-2. $\forall \alpha \in\mathbb F,v\in\overline {\mathbb V}: \alpha\circ v\in\overline {\mathbb V}$
+1. $\overline {\mathbb V}$ is an Abelian Group in $\diamond_V$
+2. $\forall \alpha \in\mathbb F,v\in\overline {\mathbb V}: \alpha\circ_V v\in\overline {\mathbb V}$
 
 Often:
 1. $\mathbb F=\mathbb R$ and $\overline {\mathbb V}=\mathbb R^{n}, n\in\mathbb N$
