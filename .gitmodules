@@ -2,5 +2,5 @@
 	path = Private
 	url = https://github.com/tnichols217/private-notes.git
 [submodule "Shared/Wolf"]
-	path = Shared/Wolf
+	path = Shared/TrevorWolf
 	url = git@github.com:404Wolf/trevor-wolf-vault.git

@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6abb9e60d2e97f9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
+                "file": "Shared/TrevorWolf/Project Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "table",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "28c69e3aca2b1263",
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 307 - Linear Algebra/3 - Vector Spaces.md"
+                "file": "Shared/TrevorWolf/Project Ideas.md"
               }
             }
           }
@@ -182,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
+                "file": "Shared/TrevorWolf/Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,49 +227,51 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6abb9e60d2e97f9a",
+  "active": "ef37a71a751790e0",
   "lastOpenFiles": [
+    "CV.md",
+    "Shared/TrevorWolf/Project Ideas.md",
+    "CV.pdf",
+    "MATH 223 - Calc 3/Practice Problems/12.1.md",
+    "MATH 223 - Calc 3/Textbook/12.1 - Vector Operations.md",
+    "MATH 223 - Calc 3/Practice Problems/15.4.md",
+    "MATH 223 - Calc 3/Practice Problems/16.1.md",
+    "ENGR 145 - Chemistry of Materials/HW/1.md",
+    "PHYS 121 - Physics 1/HW/1/1.md",
+    "ENGR 145 - Chemistry of Materials/HW/7/data.md",
+    "ENGR 145 - Chemistry of Materials/HW/9/Tables.md",
+    "MATH 224 - Differential Equations/Notes/4 - Forcing and Resonance.md",
+    "CSDS 310 - Algorithms/1 - Sorting.md",
+    "Shared/TrevorWolf/Browser Android/TODO.sqlite.md",
+    "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
+    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Control API.md",
+    "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
+    "Shared/Wolf/Browser Android/Project Layout.canvas",
+    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Shared Emulator Server Host.md",
+    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Phone Runner.md",
+    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Phone Image.md",
+    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Phone Drive.md",
+    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Phone Box.md",
+    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Master Database.md",
+    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Janus Gateway Servers.md",
+    "Shared/TrevorWolf/Browser Android/Puzzle Pieces",
+    "Shared/TrevorWolf/Browser Android/General Notes.md",
+    "Shared/TrevorWolf/Browser Android",
+    "Shared/TrevorWolf",
     "Private/wolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Puzzle Pieces/Shared Emulator Server Host.md",
     "Shared/Wolf/Browser Android/Puzzle Pieces/Phone Runner.md",
     "Shared/Wolf/Browser Android/Puzzle Pieces/Phone Image.md",
-    "Shared/Wolf/Browser Android/Puzzle Pieces/Phone Drive.md",
-    "Shared/Wolf/Browser Android/Puzzle Pieces/Phone Box.md",
-    "Shared/Wolf/Browser Android/Puzzle Pieces/Master Database.md",
-    "Shared/Wolf/Browser Android/Puzzle Pieces/Janus Gateway Servers.md",
-    "Shared/Wolf/Browser Android/Puzzle Pieces/Control API.md",
     "Shared/Wolf/Browser Android/Puzzle Pieces",
-    "Shared/Wolf/Browser Android/Project Layout.canvas",
-    "Shared/Wolf/Browser Android/General Notes.md",
     "Shared/Wolf/Browser Android",
     "Shared/Wolf",
     "Untitled",
     "Shared",
-    "Private/wolf/Browser Android/Puzzle Pieces/Control API.md",
-    "Private/wolf/Browser Android/General Notes.md",
-    "PHYS 122 - Physics 2/Lab/1/1 - DCCIR.md",
-    "Private/wolf/Test1.md",
-    "Private/wolf/Browser Android/Puzzle Pieces/Shared Emulator Server Host.md",
-    "Private/wolf/Browser Android/Puzzle Pieces/Phone Runner.md",
-    "Private/wolf/Browser Android/Puzzle Pieces/Phone Image.md",
-    "Private/wolf/Browser Android/Puzzle Pieces/Phone Drive.md",
-    "Private/wolf/Browser Android/Puzzle Pieces/Phone Box.md",
-    "Private/wolf/Browser Android/Puzzle Pieces/Master Database.md",
-    "Private/wolf/Browser Android/Puzzle Pieces/Janus Gateway Servers.md",
     "Private/wolf/Browser Android/Puzzle Pieces",
-    "Private/wolf/Browser Android",
-    "PHYS 122 - Physics 2/Lab/1/Lab1Merged.pdf",
-    "PHYS 122 - Physics 2/Lab/1/1 - DCCIR.pdf",
-    "PHYS 122 - Physics 2/Lab/1/Tables.md",
-    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
-    "PHYS 122 - Physics 2/Lab/1/Notes.pdf",
-    "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
     "PHYS 122 - Physics 2/Lab/1/RvsI.svg",
     "PHYS 122 - Physics 2/Lab/1/VvsC.svg",
     "PHYS 122 - Physics 2/Lab/1/VvsC.png",
     "PHYS 122 - Physics 2/Lab/1/RvsI.png",
-    "ENGR 130 - Foundation Engineering and Programming/HW/3/SectionD_tln32_HW3.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/2/SectionD_tln32_HW2.md",
     "PHYS 122 - Physics 2/HW/1/Fig2.svg",
     "ENGR 130 - Foundation Engineering and Programming/HW/2/SectionD_tln32_HW2.png",
     "AIQS 100/comic/compiled/9.svg",
