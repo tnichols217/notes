@@ -1,7 +1,7 @@
 ---
 ~
 ---
-# Electric Charges
+ # Electric Charges
 
 There are two types of charges: positive and negative.
 
@@ -30,4 +30,13 @@ The charges from a particle at rest
 Electric fields push charges
 
 $|\vec E|=\frac{1}{4\pi \epsilon_{0}} \frac{q}{r^{2}}$
+
+## Gauss Law: Spheres
+
+With sphere of radius $R$
+At point $r$ distance away from the center of the sphere
+And charge density of $\rho$
+
+$r<R\to E=\frac{\rho r}{3\epsilon_0}$
+$r>R\to E=\frac{\rho }{3\epsilon_{0}} \frac{R^3}{r^2}$
 

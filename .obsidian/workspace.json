@@ -20,65 +20,55 @@
             }
           },
           {
-            "id": "76553bdddfa9c7e8",
+            "id": "d72339a92a82dde0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV.md",
+                "file": "PHYS 122 - Physics 2/Notes/Electric Charge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdb764ebd058bccc",
+            "id": "087d21eae52bc3df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/internship/EY/Info.md",
+                "file": "CSDS 310 - Algorithms/HW/1/1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef37a71a751790e0",
+            "id": "9ead853d58fb61f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shared/TrevorWolf/Project Ideas.md",
-                "mode": "source",
+                "file": "PHYS 122 - Physics 2/HW/2/2.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "380d8fa11004a1ec",
+            "id": "9c1de34f3edee316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 122 - Physics 2/Lab/1/Tables.md",
+                "file": "CSDS 310 - Algorithms/HW/1/1.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "366450abf52deb1a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PHYS 122 - Physics 2/Lab/1/Notes.pdf"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "table",
+                "query": "digraph",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +115,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28c69e3aca2b1263",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shared/TrevorWolf/Project Ideas.md"
+                "file": "CSDS 310 - Algorithms/HW/1/1.md"
               }
             }
           }
@@ -171,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shared/TrevorWolf/Project Ideas.md",
+                "file": "CSDS 310 - Algorithms/HW/1/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,57 +216,56 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ef37a71a751790e0",
+  "active": "087d21eae52bc3df",
   "lastOpenFiles": [
-    "CV.md",
-    "Shared/TrevorWolf/Project Ideas.md",
-    "CV.pdf",
-    "MATH 223 - Calc 3/Practice Problems/12.1.md",
-    "MATH 223 - Calc 3/Textbook/12.1 - Vector Operations.md",
-    "MATH 223 - Calc 3/Practice Problems/15.4.md",
-    "MATH 223 - Calc 3/Practice Problems/16.1.md",
-    "ENGR 145 - Chemistry of Materials/HW/1.md",
-    "PHYS 121 - Physics 1/HW/1/1.md",
-    "ENGR 145 - Chemistry of Materials/HW/7/data.md",
-    "ENGR 145 - Chemistry of Materials/HW/9/Tables.md",
-    "MATH 224 - Differential Equations/Notes/4 - Forcing and Resonance.md",
-    "CSDS 310 - Algorithms/1 - Sorting.md",
-    "Shared/TrevorWolf/Browser Android/TODO.sqlite.md",
-    "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
-    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Control API.md",
+    "PHYS 122 - Physics 2/Notes/Electric Charge.md",
+    "PHYS 122 - Physics 2/HW/2/2.md",
+    "PHYS 122 - Physics 2/HW/2/2.pdf",
+    "PHYS 122 - Physics 2/HW/2/5ciie.svg",
+    "PHYS 122 - Physics 2/HW/2/5cii.svg",
+    "PHYS 122 - Physics 2/HW/2/5cie.svg",
+    "PHYS 122 - Physics 2/HW/2/5ci.svg",
+    "PHYS 122 - Physics 2/HW/2/5biii.svg",
+    "PHYS 122 - Physics 2/HW/2/5bii.svg",
+    "PHYS 122 - Physics 2/HW/2/5ai.svg",
+    "PHYS 122 - Physics 2/HW/2/5aie.svg",
+    "PHYS 122 - Physics 2/HW/2/5aiie.png",
+    "PHYS 122 - Physics 2/HW/2/5aiie.svg",
     "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
+    "MATH 307 - Linear Algebra/4 - Inner Products.md",
+    "PHYS 122 - Physics 2/HW/1/1.pdf",
+    "PHYS 122 - Physics 2/Lab/1/Lab1Merged.pdf",
+    "CSDS 310 - Algorithms/HW/1/1.md",
+    "cwru/Finished.md",
+    "Private/college/Additional Questions.md",
+    "Private/college/Additional Questions.pdf",
+    "Private/college/QB Essay.md",
+    "Private/college/QB Essay.pdf",
+    "PHYS 122 - Physics 2/HW/1/1.md",
+    "PHYS 122 - Physics 2/HW/2",
+    "CSDS 310 - Algorithms/HW/1/tables.md",
+    "CSDS 281 - Logic Design/HW/7/tables.md",
+    "CSDS 310 - Algorithms/HW/1/1.pdf",
+    "CSDS 310 - Algorithms/HW/1/Untitled",
+    "CSDS 310 - Algorithms/HW/1",
+    "CSDS 341 - Intro to Databases/HW/1/1.md",
+    "CSDS 310 - Algorithms/notes/1 - Sorting.md",
+    "CSDS 310 - Algorithms/HW",
+    "Private/At4EDU/1 - Intro.md",
+    "MATH 307 - Linear Algebra/2 - Functions and Sets.md",
+    "MATH 307 - Linear Algebra/1 - Intro.md",
+    "CSDS 341 - Intro to Databases/HW/1/Tables.md",
+    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
+    "PHYS 122 - Physics 2/Lab/1/Tables.md",
+    "CSDS 233 - Intro to Data Structures/Projects/5/Written/tables.md",
+    "CSDS 302 - Discrete Math/HW/1.md",
+    "CSDS 302 - Discrete Math/HW/3/Tables.md",
+    "CSDS 302 - Discrete Math/HW/8/10.2/Tables.md",
+    "CSDS 341 - Intro to Databases/Notes/1 - Intro to Databases and SQL.md",
+    "ENGR 130 - Foundation Engineering and Programming/HW/3/SectionD_tln32_HW3.md",
+    "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Project Layout.canvas",
-    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Shared Emulator Server Host.md",
-    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Phone Runner.md",
-    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Phone Image.md",
-    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Phone Drive.md",
-    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Phone Box.md",
-    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Master Database.md",
-    "Shared/TrevorWolf/Browser Android/Puzzle Pieces/Janus Gateway Servers.md",
-    "Shared/TrevorWolf/Browser Android/Puzzle Pieces",
-    "Shared/TrevorWolf/Browser Android/General Notes.md",
-    "Shared/TrevorWolf/Browser Android",
-    "Shared/TrevorWolf",
     "Private/wolf/Browser Android/Project Layout.canvas",
-    "Shared/Wolf/Browser Android/Puzzle Pieces/Shared Emulator Server Host.md",
-    "Shared/Wolf/Browser Android/Puzzle Pieces/Phone Runner.md",
-    "Shared/Wolf/Browser Android/Puzzle Pieces/Phone Image.md",
-    "Shared/Wolf/Browser Android/Puzzle Pieces",
-    "Shared/Wolf/Browser Android",
-    "Shared/Wolf",
-    "Untitled",
-    "Shared",
-    "Private/wolf/Browser Android/Puzzle Pieces",
-    "PHYS 122 - Physics 2/Lab/1/RvsI.svg",
-    "PHYS 122 - Physics 2/Lab/1/VvsC.svg",
-    "PHYS 122 - Physics 2/Lab/1/VvsC.png",
-    "PHYS 122 - Physics 2/Lab/1/RvsI.png",
-    "PHYS 122 - Physics 2/HW/1/Fig2.svg",
-    "ENGR 130 - Foundation Engineering and Programming/HW/2/SectionD_tln32_HW2.png",
-    "AIQS 100/comic/compiled/9.svg",
-    "AIQS 100/comic/compiled/8.svg",
-    "AIQS 100/comic/compiled/7.svg",
-    "AIQS 100/comic/compiled/6.svg",
     "STAT 345 - Theoretical Statistics/Textbook/Untitled.canvas",
     "CSDS 391 - Intro AI/W/W3.canvas",
     "cwru/Untitled.canvas",

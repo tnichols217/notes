@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="73.574516mm"
+   height="69.266731mm"
+   viewBox="0 0 73.574516 69.266731"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-9-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-8-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-1-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-7-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-9-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-7-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-8-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-9-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-8-8-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-9-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-8-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-8-7-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-9-7-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-8-7-9-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-9-7-2-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-8-7-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-9-7-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-8-7-8-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-9-7-1-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-8-7-8-8-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-9-7-1-0-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-8-7-8-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-9-7-1-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-4-8-8-7-8-0-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path2-4-5-9-7-1-8-5" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-30.167194,-41.189726)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded)"
+       d="m 48.969605,75.823094 c 0,0 9.044795,-0.49843 13.283295,-1.144498 1.090713,-0.166256 2.157753,-1.579088 2.712785,-3.08696 1.161309,-3.154966 0.955718,-8.067104 1.166817,-11.550472 0.594436,-9.80885 0.82195,-13.851438 0.82195,-13.851438"
+       id="path12" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-9)"
+       d="m 84.939299,75.823094 c 0,0 -9.044795,-0.49843 -13.283295,-1.144498 -1.090713,-0.166256 -2.157753,-1.579088 -2.712785,-3.08696 -1.161309,-3.154966 -0.955718,-8.067104 -1.166817,-11.550472 -0.594436,-9.80885 -0.82195,-13.851438 -0.82195,-13.851438"
+       id="path12-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4)"
+       d="m 48.969605,75.823094 c 0,0 9.044795,0.49843 13.283295,1.144498 1.090713,0.166256 2.157753,1.579088 2.712785,3.08696 1.161309,3.154966 0.955718,8.067104 1.166817,11.550472 0.594436,9.808846 0.82195,13.851436 0.82195,13.851436"
+       id="path12-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-9-3)"
+       d="m 84.939299,75.823094 c 0,0 -9.044795,0.49843 -13.283295,1.144498 -1.090713,0.166256 -2.157753,1.579088 -2.712785,3.08696 -1.161309,3.154966 -0.955718,8.067104 -1.166817,11.550472 -0.594436,9.808846 -0.82195,13.851436 -0.82195,13.851436"
+       id="path12-8-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4)"
+       d="m 48.969605,75.823094 c 0,0 6.704424,-1.267241 9.288486,-3.296015 1.730599,-1.358712 2.921103,-3.433037 3.620632,-5.519117 2.237705,-6.67311 1.403165,-21.068236 1.403165,-21.068236"
+       id="path13" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-1)"
+       d="m 84.939299,75.823094 c 0,0 -6.704424,-1.267241 -9.288486,-3.296015 -1.730599,-1.358712 -2.921103,-3.433037 -3.620632,-5.519117 -2.237705,-6.67311 -1.403165,-21.068236 -1.403165,-21.068236"
+       id="path13-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8)"
+       d="m 48.969605,75.823094 c 0,0 6.704424,1.267241 9.288486,3.296015 1.730599,1.358712 2.921103,3.433037 3.620632,5.519117 2.237705,6.67311 1.403165,21.068234 1.403165,21.068234"
+       id="path13-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-1-1)"
+       d="m 84.939299,75.823094 c 0,0 -6.704424,1.267241 -9.288486,3.296015 -1.730599,1.358712 -2.921103,3.433037 -3.620632,5.519117 -2.237705,6.67311 -1.403165,21.068234 -1.403165,21.068234"
+       id="path13-9-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8)"
+       d="m 48.969605,75.823094 c 0,0 3.62403,-3.911703 4.95785,-6.195891 1.728517,-2.960112 3.173122,-6.17826 3.835317,-9.541522 0.910933,-4.626597 0.495319,-14.145954 0.495319,-14.145954"
+       id="path14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-9)"
+       d="m 84.939299,75.823094 c 0,0 -3.62403,-3.911703 -4.95785,-6.195891 -1.728517,-2.960112 -3.173122,-6.17826 -3.835317,-9.541522 -0.910933,-4.626597 -0.495319,-14.145954 -0.495319,-14.145954"
+       id="path14-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8)"
+       d="m 48.969605,75.823094 c 0,0 3.62403,3.911703 4.95785,6.195891 1.728517,2.960112 3.173122,6.17826 3.835317,9.541522 0.910933,4.626597 0.495319,14.145953 0.495319,14.145953"
+       id="path14-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-9-3)"
+       d="m 84.939299,75.823094 c 0,0 -3.62403,3.911703 -4.95785,6.195891 -1.728517,2.960112 -3.173122,6.17826 -3.835317,9.541522 -0.910933,4.626597 -0.495319,14.145953 -0.495319,14.145953"
+       id="path14-3-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8)"
+       d="M 48.969605,75.823094 V 64.295176 53.631122 46.189726"
+       id="path15" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-8)"
+       d="M 84.939299,75.823094 V 64.295176 53.631122 46.189726"
+       id="path15-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-7)"
+       d="m 48.969605,75.823094 v 11.527918 10.664054 7.441394"
+       id="path15-43" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-8-8)"
+       d="m 84.939299,75.823094 v 11.527918 10.664054 7.441394"
+       id="path15-4-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-7)"
+       d="m 48.969605,75.823094 c 0,0 -1.846919,-8.495222 -3.274051,-12.369817 -1.192971,-3.238858 -2.791816,-6.723763 -4.490129,-9.728611 -1.681222,-2.974608 -6.038231,-7.53494 -6.038231,-7.53494"
+       id="path16" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-7-9)"
+       d="m 84.939299,75.823094 c 0,0 1.846919,-8.495222 3.274051,-12.369817 1.192971,-3.238858 2.791816,-6.723763 4.490129,-9.728611 1.681222,-2.974608 6.038231,-7.53494 6.038231,-7.53494"
+       id="path16-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-7-8)"
+       d="m 48.969605,76.323093 c 0,0 -1.846919,8.495222 -3.274051,12.369817 -1.192971,3.238858 -2.791816,6.723763 -4.490129,9.728611 -1.681222,2.974609 -6.038231,7.534939 -6.038231,7.534939"
+       id="path16-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-7-9-5)"
+       d="m 84.939299,76.323093 c 0,0 1.846919,8.495222 3.274051,12.369817 1.192971,3.238858 2.791816,6.723763 4.490129,9.728611 1.681222,2.974609 6.03823,7.534939 6.03823,7.534939"
+       id="path16-4-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-7-8)"
+       d="m 48.969605,75.823094 c 0,0 -4.032897,-5.631856 -6.901206,-7.411966 -2.039637,-1.265826 -6.901205,-2.057976 -6.901205,-2.057976"
+       id="path17" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-7-8-8)"
+       d="m 84.939299,75.823094 c 0,0 4.032897,-5.631856 6.901206,-7.411966 2.039637,-1.265826 6.901209,-2.057976 6.901209,-2.057976"
+       id="path17-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-7-8-0)"
+       d="m 48.969605,75.823094 c 0,0 -4.032897,5.631856 -6.901206,7.411966 -2.039637,1.265826 -6.901205,2.057976 -6.901205,2.057976"
+       id="path17-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-7-8-8-1)"
+       d="m 84.939299,75.823094 c 0,0 4.032897,5.631856 6.901206,7.411966 2.039637,1.265826 6.901209,2.057976 6.901209,2.057976"
+       id="path17-1-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-7-8-0)"
+       d="m 48.969605,75.823094 h -7.998041 -5.80437"
+       id="path18" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-mid:url(#ArrowWideRounded-4-8-8-7-8-0-2)"
+       d="m 84.939299,75.823094 h 7.998043 5.80437"
+       id="path18-6" />
+  </g>
+</svg>

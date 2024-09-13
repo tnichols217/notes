@@ -106,22 +106,34 @@ digraph {
 
 ```mermaid
 erDiagram
-    CUSTOMER ||--o{ ORDER : places
-    CUSTOMER {
-        string name
-        string custNumber
-        string sector
+    RATING {
+        string rating PK
+        string description
+        integer minAge
     }
-    ORDER ||--|{ LINE-ITEM : contains
-    ORDER {
-        int orderNumber
-        string deliveryAddress
+    GENRE {
+        integer id PK
+        string genre
+        string description
     }
-    LINE-ITEM {
-        string productCode
-        int quantity
-        float pricePerUnit
+    MOVIE {
+        integer id PK
+        string title
+        string ageRating FK
+        integer genreId FK "?"
+        integer actors FK "[]"
     }
+    ACTOR {
+	    integer id PK
+	    string firstName
+	    string lastName
+	    string fullName "derived"
+	    boolean isActive
+	    date birthDate
+    }
+	MOVIE ||--|| RATING : "ageRating—rating"
+	MOVIE ||--|| GENRE : "genreId—id"
+	MOVIE }|--|{ ACTOR : "actors—id"
 ```
 
 #### Chen's

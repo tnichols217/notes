@@ -90,3 +90,27 @@ Where $|z|$ is the length, and $\theta$ is the direction
 #### Euler's Formula
 
 $e^{i\theta}=\cos\theta +\sin\theta$
+
+# Functions
+
+## Relations
+
+A relation between sets $A$ and $B$ is defined as 
+$\{(a,b)|a\in A,b\in B\}$
+
+## Functions
+
+A function is defined as an assignment from set $A$ to set $B$
+$f:A\to B$
+
+Each element in the domain $A$ may only map a to one element in the range $B$
+
+A function is **injective** if all elements of $A$ map to unique elements in $B$
+A function is **surjective** if all elements of $B$ have a corresponding element in $A$
+A function is **bijective** if it is injective and surjective
+
+## Operators
+
+A unary operator is a function from $A$ to $B$
+
+A binary operator takes an ordered pair of the sets $(A_1,A_2)$ and maps it to an element of the set $B$
