@@ -20,55 +20,31 @@
             }
           },
           {
-            "id": "d72339a92a82dde0",
+            "id": "86c40709dc31bce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 122 - Physics 2/Notes/Electric Charge.md",
+                "file": "CSDS 341 - Intro to Databases/HW/1/1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "087d21eae52bc3df",
+            "id": "8e6429a5c5803609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 310 - Algorithms/HW/1/1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ead853d58fb61f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS 122 - Physics 2/HW/2/2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c1de34f3edee316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 310 - Algorithms/HW/1/1.md",
+                "file": "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 310 - Algorithms/HW/1/1.md"
+                "file": "CSDS 341 - Intro to Databases/HW/1/1.md"
               }
             }
           }
@@ -160,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 310 - Algorithms/HW/1/1.md",
+                "file": "CSDS 341 - Intro to Databases/HW/1/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,10 +192,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "087d21eae52bc3df",
+  "active": "86c40709dc31bce4",
   "lastOpenFiles": [
+    "CSDS 341 - Intro to Databases/HW/1/Tables.md",
+    "CSDS 341 - Intro to Databases/HW/1/1.md",
+    "CSDS 341 - Intro to Databases/HW/1/Tables.pdf",
+    "CSDS 341 - Intro to Databases/HW/1/1.pdf",
+    "CSDS 341 - Intro to Databases/HW/1/attachments/postgres.png",
+    "CSDS 341 - Intro to Databases/HW/1/attachments",
+    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
+    "cwru/Finished.md",
     "PHYS 122 - Physics 2/Notes/Electric Charge.md",
+    "CSDS 310 - Algorithms/HW/1/1.md",
     "PHYS 122 - Physics 2/HW/2/2.md",
+    "ENGR 130 - Foundation Engineering and Programming/HW/4/SectionD_tln32_HW4.md",
+    "ENGR 130 - Foundation Engineering and Programming/HW/4/SectionD_tln32_HW4.pdf",
+    "ENGR 130 - Foundation Engineering and Programming/HW/3/SectionD_tln32_HW3.md",
+    "ENGR 130 - Foundation Engineering and Programming/HW/4",
+    "ENGR 130 - Foundation Engineering and Programming/HW/2/SectionD_tln32_HW2.md",
     "PHYS 122 - Physics 2/HW/2/2.pdf",
     "PHYS 122 - Physics 2/HW/2/5ciie.svg",
     "PHYS 122 - Physics 2/HW/2/5cii.svg",
@@ -230,39 +220,25 @@
     "PHYS 122 - Physics 2/HW/2/5ai.svg",
     "PHYS 122 - Physics 2/HW/2/5aie.svg",
     "PHYS 122 - Physics 2/HW/2/5aiie.png",
-    "PHYS 122 - Physics 2/HW/2/5aiie.svg",
     "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
     "MATH 307 - Linear Algebra/4 - Inner Products.md",
     "PHYS 122 - Physics 2/HW/1/1.pdf",
     "PHYS 122 - Physics 2/Lab/1/Lab1Merged.pdf",
-    "CSDS 310 - Algorithms/HW/1/1.md",
-    "cwru/Finished.md",
     "Private/college/Additional Questions.md",
     "Private/college/Additional Questions.pdf",
     "Private/college/QB Essay.md",
     "Private/college/QB Essay.pdf",
     "PHYS 122 - Physics 2/HW/1/1.md",
-    "PHYS 122 - Physics 2/HW/2",
     "CSDS 310 - Algorithms/HW/1/tables.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",
-    "CSDS 310 - Algorithms/HW/1/1.pdf",
-    "CSDS 310 - Algorithms/HW/1/Untitled",
-    "CSDS 310 - Algorithms/HW/1",
-    "CSDS 341 - Intro to Databases/HW/1/1.md",
     "CSDS 310 - Algorithms/notes/1 - Sorting.md",
-    "CSDS 310 - Algorithms/HW",
     "Private/At4EDU/1 - Intro.md",
     "MATH 307 - Linear Algebra/2 - Functions and Sets.md",
     "MATH 307 - Linear Algebra/1 - Intro.md",
-    "CSDS 341 - Intro to Databases/HW/1/Tables.md",
-    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
     "PHYS 122 - Physics 2/Lab/1/Tables.md",
     "CSDS 233 - Intro to Data Structures/Projects/5/Written/tables.md",
     "CSDS 302 - Discrete Math/HW/1.md",
     "CSDS 302 - Discrete Math/HW/3/Tables.md",
-    "CSDS 302 - Discrete Math/HW/8/10.2/Tables.md",
-    "CSDS 341 - Intro to Databases/Notes/1 - Intro to Databases and SQL.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/3/SectionD_tln32_HW3.md",
     "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Project Layout.canvas",
     "Private/wolf/Browser Android/Project Layout.canvas",
