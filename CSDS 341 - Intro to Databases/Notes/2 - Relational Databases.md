@@ -41,6 +41,7 @@ Attribute values are the specific value of a tuple instance for a certain attrib
 
 - Typically must be atomic (indivisible)
 - null is part of every domain
+
 ### Tuples
 
 Tuples are the rows in a table, a particular entry or instance of data

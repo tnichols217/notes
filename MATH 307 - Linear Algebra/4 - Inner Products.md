@@ -20,4 +20,20 @@ Dot products have the special property that
 $\cos \phi=\frac{\vec a\cdot \vec b}{\|\vec a\|\|\vec b\|}$
 Where $\phi$ is the angle between $\vec a$ and $\vec b$
 
-## 
+## Inner Products for functions
+
+A valid inner product for the space of $\mathbb G=\mathbb P_k[0,1]$ (polynomial space)
+Where $f,g\in\mathbb G$
+
+Could be:
+$\int\limits_{0}^{1}f(x)\overline{g(x)}~dx$
+
+## Orthogonality
+
+For $a,b\in\mathbb{\vec V}$
+
+$\langle a, b\rangle=0\iff a\perp b$
+
+## Properties of Inner Products
+
+

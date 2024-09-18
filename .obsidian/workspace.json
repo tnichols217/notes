@@ -20,31 +20,31 @@
             }
           },
           {
-            "id": "86c40709dc31bce4",
+            "id": "e74cd310813eccd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/1/1.md",
+                "file": "CSDS 310 - Algorithms/HW/1/1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8e6429a5c5803609",
+            "id": "e0502e6b692fa20a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
+                "file": "MATH 307 - Linear Algebra/4 - Inner Products.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/1/1.md"
+                "file": "MATH 307 - Linear Algebra/4 - Inner Products.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/1/1.md",
+                "file": "MATH 307 - Linear Algebra/4 - Inner Products.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,18 +192,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "86c40709dc31bce4",
+  "active": "e0502e6b692fa20a",
   "lastOpenFiles": [
+    "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
+    "MATH 307 - Linear Algebra/4 - Inner Products.md",
+    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
+    "CSDS 310 - Algorithms/HW/1/1.md",
+    "cwru/Finished.md",
     "CSDS 341 - Intro to Databases/HW/1/Tables.md",
     "CSDS 341 - Intro to Databases/HW/1/1.md",
+    "CSDS 310 - Algorithms/HW/1/1.pdf",
     "CSDS 341 - Intro to Databases/HW/1/Tables.pdf",
     "CSDS 341 - Intro to Databases/HW/1/1.pdf",
     "CSDS 341 - Intro to Databases/HW/1/attachments/postgres.png",
     "CSDS 341 - Intro to Databases/HW/1/attachments",
-    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
-    "cwru/Finished.md",
     "PHYS 122 - Physics 2/Notes/Electric Charge.md",
-    "CSDS 310 - Algorithms/HW/1/1.md",
     "PHYS 122 - Physics 2/HW/2/2.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/4/SectionD_tln32_HW4.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/4/SectionD_tln32_HW4.pdf",
@@ -220,14 +223,11 @@
     "PHYS 122 - Physics 2/HW/2/5ai.svg",
     "PHYS 122 - Physics 2/HW/2/5aie.svg",
     "PHYS 122 - Physics 2/HW/2/5aiie.png",
-    "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
-    "MATH 307 - Linear Algebra/4 - Inner Products.md",
     "PHYS 122 - Physics 2/HW/1/1.pdf",
     "PHYS 122 - Physics 2/Lab/1/Lab1Merged.pdf",
     "Private/college/Additional Questions.md",
     "Private/college/Additional Questions.pdf",
     "Private/college/QB Essay.md",
-    "Private/college/QB Essay.pdf",
     "PHYS 122 - Physics 2/HW/1/1.md",
     "CSDS 310 - Algorithms/HW/1/tables.md",
     "CSDS 281 - Logic Design/HW/7/tables.md",

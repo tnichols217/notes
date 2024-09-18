@@ -34,13 +34,13 @@ erDiagram
         string title
         string ageRating FK
         integer genreId FK "?"
-        integer actors FK "[]"
+        integer actors FK "{}"
     }
     ACTOR {
 	    integer id PK
 	    string firstName
 	    string lastName
-	    string fullName "derived"
+	    string fullName "()"
 	    boolean isActive
 	    date birthDate
     }
@@ -58,8 +58,8 @@ subgraph MOVIE
 movId[_id_]
 movTitle[title]
 movAgeRating[ageRating]
-movGenreId[genreId]
-movActors[actors]
+movGenreId["{genreId}"]
+movActors["{actors}"]
 end
 subgraph RATING
 ratingRating[_rating_]
@@ -172,7 +172,6 @@ MOVIE --"N"--> actors --"M"--> ACTOR
 ```
 ^2e
 
-
 ```mermaid
 erDiagram
     RATING {
@@ -189,14 +188,14 @@ erDiagram
         integer id PK
         string title
         string ageRating FK
-        integer genreId FK "[]"
-        integer actors FK "[]"
+        integer genreId FK "{}"
+        integer actors FK "{}"
     }
     ACTOR {
 	    integer id PK
 	    string firstName
 	    string lastName
-	    string fullName "derived"
+	    string fullName "()"
 	    boolean isActive
 	    date birthDate
     }
@@ -214,8 +213,8 @@ subgraph MOVIE
 movId[_id_]
 movTitle[title]
 movAgeRating[ageRating]
-movGenreId[genreId]
-movActors[actors]
+movGenreId["{genreId}"]
+movActors["{actors}"]
 end
 subgraph RATING
 ratingRating[_rating_]
