@@ -139,5 +139,5 @@ erDiagram
 
 #### Chen's
 
-Is kinda dumb, uses diamonds for relations, squares for tuples, circles for attributes
+Is kinda dumb, uses diamonds for relations, squares for tables, circles for attributes of tables or relational tables.
 

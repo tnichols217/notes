@@ -36,4 +36,34 @@ $\langle a, b\rangle=0\iff a\perp b$
 
 ## Properties of Inner Products
 
+### Decomposing a vector
 
+For any pair of vectors $u,v\ne0$ with a valid inner product may be uniquely decomposed as
+
+$u=\alpha v+w$
+
+With
+
+$w\perp v,\alpha\in \mathbb C$
+$\alpha=\frac{\langle u,v\rangle}{\|v\|^2}$
+
+### Pythagoras' Theorem
+
+$u=v+w,\quad u\perp w$
+$\|u\|^2=\|v\|^2+\|w\|^2$
+
+### Cauchy-Schwarz Inequality
+
+$|\langle u,v\rangle|\le \|u\|\|v\|$
+
+They only equal if $v=0$ or $u=0$
+$u=\alpha v$ for some $\alpha\in\mathbb F$
+
+## Orthonormal Bases
+
+An orthonormal base is a base that is
+
+1. Mutually orthogonal, where $\langle v_j,v_k\rangle=0 \text{ for } j\ne k$
+2. Normalized, where $\|v_{j}\|,1\le j\le n$
+
+Orthogonality also implies linear independence

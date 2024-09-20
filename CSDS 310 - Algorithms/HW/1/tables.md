@@ -42,3 +42,20 @@ procedure LydianWins(n)
 	return (bool) ans
 ```
 ^3
+
+```PseudoCode
+procedure LydianWins(m, n)
+	total <- m + n
+	pisidians <- n
+	for each _ <- total-1..1
+		total <- total - 1
+		// If both selected people are Pisidians
+		if RANDOM() < pisidians / total && RANDOM() < (pisidians - 1) / total
+			pisidians <- pisidians - 2
+		if pisidians = 1 || total = pisidians
+			return false
+		else if pisidians = 0
+			return true
+	return ERROR
+```
+^3a
