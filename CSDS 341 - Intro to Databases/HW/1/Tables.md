@@ -34,7 +34,6 @@ erDiagram
         string title
         string ageRating FK
         integer genreId FK "?"
-        integer actors FK "{}"
     }
     ACTOR {
 	    integer id PK
@@ -46,7 +45,7 @@ erDiagram
     }
 	MOVIE }|--|| RATING : "ageRating—rating"
 	MOVIE }|--o| GENRE : "genreId—id"
-	MOVIE }o--|{ ACTOR : "actors—id"
+	MOVIE }o--|{ ACTOR : "MOVIEACTOR"
 ```
 ^2c
 
@@ -58,8 +57,7 @@ subgraph MOVIE
 movId[_id_]
 movTitle[title]
 movAgeRating[ageRating]
-movGenreId["{genreId}"]
-movActors["{actors}"]
+movGenreId[genreId]
 end
 subgraph RATING
 ratingRating[_rating_]
@@ -78,9 +76,14 @@ actorLastName[lastName]
 actorIsActive[isActive]
 actorBirthDate[birthDate]
 end
+subgraph MOVIEACTOR
+movieactorMovieId[movieId]
+movieactorActorId[actorId]
+end
+movieactorMovieId --> movId
+movieactorActorId --> actorId
 movAgeRating --> ratingRating
 movGenreId --> genreId
-movActors --> actorId
 ```
 ^2b
 
@@ -133,16 +136,18 @@ actors{{"Are assigned multiple"}}
 MOVIE --"M"--> ageRating -.-> RATING
 MOVIE --"M"--> genre --"1"--> GENRE
 MOVIE --"N"--> actors --"M"--> ACTOR
+actors --> movieId1((movieId))
+actors --> actorId1((actorId))
 ```
 ^2d
 
 ```col-md
 
-| MOVIES |       |           |         |         |
-| ------ | ----- | --------- | ------- | ------- |
-| id     | title | ageRating | genreId | actors  |
-| 1      | Lost  | G         | 1       | [1,2,3] |
-| 2      | Found | R         | 2       | [2,4,5] |
+| MOVIES |       |           |         |
+| ------ | ----- | --------- | ------- |
+| id     | title | ageRating | genreId |
+| 1      | Lost  | G         | 1       |
+| 2      | Found | R         | 2       |
 
 
 | RATING |             |        |
@@ -169,6 +174,16 @@ MOVIE --"N"--> actors --"M"--> ACTOR
 | 5     | Joe       | Dohn     | true     | 1952-04-01 |
 | 6     | Joey      | Doey     | true     | 1957-01-01 |
 
+
+| MOVIEACTOR |         |
+| ---------- | ------- |
+| movieId    | actorId |
+| 1          | 1       |
+| 1          | 2       |
+| 1          | 3       |
+| 2          | 2       |
+| 2          | 4       |
+| 2          | 5       |
 ```
 ^2e
 
@@ -188,8 +203,7 @@ erDiagram
         integer id PK
         string title
         string ageRating FK
-        integer genreId FK "{}"
-        integer actors FK "{}"
+        integer genreId FK "?"
     }
     ACTOR {
 	    integer id PK
@@ -200,8 +214,8 @@ erDiagram
 	    date birthDate
     }
 	MOVIE }|--|| RATING : "ageRating—rating"
-	MOVIE }|--|{ GENRE : "genreId—id"
-	MOVIE }|--|{ ACTOR : "actors—id"
+	MOVIE }|--|{ GENRE : "MOVIEGENRE"
+	MOVIE }|--|{ ACTOR : "MOVIEACTOR"
 ```
 ^2f
 
@@ -213,8 +227,6 @@ subgraph MOVIE
 movId[_id_]
 movTitle[title]
 movAgeRating[ageRating]
-movGenreId["{genreId}"]
-movActors["{actors}"]
 end
 subgraph RATING
 ratingRating[_rating_]
@@ -233,9 +245,19 @@ actorLastName[lastName]
 actorIsActive[isActive]
 actorBirthDate[birthDate]
 end
+subgraph MOVIEACTOR
+movieactorMovieId[movieId]
+movieactorActorId[actorId]
+end
+subgraph MOVIEGENRE
+moviegenreMovieId[movieId]
+moviegenreGenreId[GenreId]
+end
+moviegenreMovieId --> movId
+moviegenreGenreId --> genreId
+movieactorMovieId --> movId
+movieactorActorId --> actorId
 movAgeRating --> ratingRating
-movGenreId --> genreId
-movActors --> actorId
 ```
 ^2g
 
@@ -287,17 +309,21 @@ actors{{"Are assigned multiple"}}
 
 MOVIE --"M"--> ageRating --> RATING
 MOVIE --"M"--> genre --"M"--> GENRE
-MOVIE --"M"--> actors --"M"--> ACTOR
+genre --> movieId((movieId))
+genre --> genreId1((genreId))
+MOVIE --"N"--> actors --"M"--> ACTOR
+actors --> movieId1((movieId))
+actors --> actorId1((actorId))
 ```
 ^2h
 
 ```col-md
 
-| MOVIES |       |           |         |         |
-| ------ | ----- | --------- | ------- | ------- |
-| id     | title | ageRating | genreId | actors  |
-| 1      | Lost  | G         | [1,2]   | [1,2,3] |
-| 2      | Found | R         | [2]     | [2,4,5] |
+| MOVIES |       |           |
+| ------ | ----- | --------- |
+| id     | title | ageRating |
+| 1      | Lost  | G         |
+| 2      | Found | R         |
 
 
 | RATING |             |        |
@@ -322,6 +348,25 @@ MOVIE --"M"--> actors --"M"--> ACTOR
 | 3     | Jon       | Do       | true     | 1959-02-01 |
 | 4     | Jhon      | Dhoe     | false    | 1955-08-01 |
 | 5     | Joe       | Dohn     | true     | 1952-04-01 |
+
+
+| MOVIEACTOR |         |
+| ---------- | ------- |
+| movieId    | actorId |
+| 1          | 1       |
+| 1          | 2       |
+| 1          | 3       |
+| 2          | 2       |
+| 2          | 4       |
+| 2          | 5       |
+
+
+| MOVIEGENRE |         |
+| ---------- | ------- |
+| movieId    | actorId |
+| 1          | 1       |
+| 1          | 2       |
+| 2          | 2       |
 
 ```
 ^2i

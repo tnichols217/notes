@@ -141,3 +141,57 @@ erDiagram
 
 Is kinda dumb, uses diamonds for relations, squares for tables, circles for attributes of tables or relational tables.
 
+Lines between tables and relations may be solid or dotted, with dotted meaning optional. These lines must also be marked with a "1" or an "M".
+
+## Relational Algebra
+
+### Select
+
+Often represented as $\sigma$
+
+The select operator filters all tuples from a table by a particular predicate.
+
+The predicate is often the subscript of the operator, such as:
+
+$\sigma_{attribute=a}(table)$
+
+In SQL, this is more commonly known as the $\text{WHERE}$ clause, for example:
+
+```SQL
+SELECT * FROM table WHERE attribute="a";
+```
+
+### Project
+
+Often represented as $\Pi$
+
+The project operator selects attributes of tuples to return, instead of returning them all.
+
+The predicate is also in the subscript of the operator
+
+$\Pi_{attr1,attr2}(table)$
+
+In SQL, this is more commonly known as the $\text{SELECT}$ clause
+
+```SQL
+SELECT attr1, attr2 FROM table;
+```
+
+### Cartesian Product
+
+The Cartesian product, represented as $\times$, takes all combinations of tuples in one table with all tuples in another table.
+
+$table1\times table2$
+
+Would return a number of tuples equal to the product of the number of tuples in the two tables, as every combination between the two tables are tuples in the output.
+
+In SQL, the Cartesian product is implied when selecting from multiple tables or using the $\text{JOIN}$ clause
+
+```SQL
+SELECT table1.*, table2.* FROM table1, table2;
+SELECT table1.attr1, table2.attr2 FROM table1 JOIN table2 ON table1.t2=table2.t1;
+```
+
+### Join
+
+The join operation is a combination of the Cartesian product and a condition through an $\text{ON}$ clause or a $\text{WHERE}$ clause
