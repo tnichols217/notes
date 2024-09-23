@@ -42,6 +42,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62b5c9ba1d58a003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/HW/3/3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "440a5161260037aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 310 - Algorithms/notes/3 - Growth of Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -194,11 +218,12 @@
   },
   "active": "be365507dbdecbd7",
   "lastOpenFiles": [
-    "PHYS 122 - Physics 2/HW/2/2.md",
+    "PHYS 122 - Physics 2/HW/3/3.md",
     "CSDS 310 - Algorithms/HW/2/2.md",
+    "CSDS 310 - Algorithms/notes/3 - Growth of Functions.md",
+    "PHYS 122 - Physics 2/HW/2/2.md",
     "PHYS 122 - Physics 2/Notes/Electric Charge.md",
     "CSDS 310 - Algorithms/HW/1/1.md",
-    "PHYS 122 - Physics 2/HW/3/3.md",
     "CSDS 310 - Algorithms/HW/2",
     "PHYS 122 - Physics 2/HW/3/3.pdf",
     "cwru/Finished.md",
@@ -213,7 +238,6 @@
     "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
     "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
     "CSDS 341 - Intro to Databases/HW/1/Tables.md",
-    "CSDS 310 - Algorithms/notes/3 - Growth of Functions.md",
     "CSDS 310 - Algorithms/notes/1 - Sorting.md",
     "MATH 307 - Linear Algebra/4 - Inner Products.md",
     "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
