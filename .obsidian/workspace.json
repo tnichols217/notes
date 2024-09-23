@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "337477f612144529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Notes/Electric Charge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0097956e468cfe86",
             "type": "leaf",
             "state": {
@@ -194,14 +206,14 @@
   },
   "active": "ebc3696141a50e66",
   "lastOpenFiles": [
-    "PHYS 122 - Physics 2/HW/2/2.md",
+    "PHYS 122 - Physics 2/Notes/Electric Charge.md",
     "PHYS 122 - Physics 2/HW/3/3.md",
+    "cwru/Finished.md",
+    "PHYS 122 - Physics 2/HW/2/2.md",
     "MATH 307 - Linear Algebra/5 - Vector Norms.md",
     "PHYS 122 - Physics 2/HW/3",
     "CSDS 310 - Algorithms/HW/1/1.md",
-    "PHYS 122 - Physics 2/Notes/Electric Charge.md",
     "CSDS 341 - Intro to Databases/HW/1/1.md",
-    "cwru/Finished.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/5/SectionD_tln32_HW5.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/5/SectionD_tln32_HW5.pdf",
     "ENGR 130 - Foundation Engineering and Programming/HW/3/SectionD_tln32_HW3.md",
