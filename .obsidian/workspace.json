@@ -25,38 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 122 - Physics 2/HW/3/3.md",
+                "file": "CSDS 310 - Algorithms/HW/1/1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "337477f612144529",
+            "id": "be365507dbdecbd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 122 - Physics 2/Notes/Electric Charge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0097956e468cfe86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS 122 - Physics 2/HW/2/2.md",
+                "file": "CSDS 310 - Algorithms/HW/2/2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 122 - Physics 2/HW/3/3.md"
+                "file": "CSDS 310 - Algorithms/HW/2/2.md"
               }
             }
           }
@@ -148,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 122 - Physics 2/HW/3/3.md",
+                "file": "CSDS 310 - Algorithms/HW/2/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,16 +192,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ebc3696141a50e66",
+  "active": "be365507dbdecbd7",
   "lastOpenFiles": [
-    "PHYS 122 - Physics 2/HW/3/3.pdf",
-    "PHYS 122 - Physics 2/Notes/Electric Charge.md",
-    "PHYS 122 - Physics 2/HW/3/3.md",
-    "cwru/Finished.md",
     "PHYS 122 - Physics 2/HW/2/2.md",
+    "CSDS 310 - Algorithms/HW/2/2.md",
+    "PHYS 122 - Physics 2/Notes/Electric Charge.md",
+    "CSDS 310 - Algorithms/HW/1/1.md",
+    "PHYS 122 - Physics 2/HW/3/3.md",
+    "CSDS 310 - Algorithms/HW/2",
+    "PHYS 122 - Physics 2/HW/3/3.pdf",
+    "cwru/Finished.md",
     "MATH 307 - Linear Algebra/5 - Vector Norms.md",
     "PHYS 122 - Physics 2/HW/3",
-    "CSDS 310 - Algorithms/HW/1/1.md",
     "CSDS 341 - Intro to Databases/HW/1/1.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/5/SectionD_tln32_HW5.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/5/SectionD_tln32_HW5.pdf",
@@ -234,9 +224,7 @@
     "CSDS 341 - Intro to Databases/HW/1/attachments/postgres.png",
     "CSDS 341 - Intro to Databases/HW/1/attachments",
     "ENGR 130 - Foundation Engineering and Programming/HW/4/SectionD_tln32_HW4.pdf",
-    "ENGR 130 - Foundation Engineering and Programming/HW/4",
     "ENGR 130 - Foundation Engineering and Programming/HW/2/SectionD_tln32_HW2.md",
-    "PHYS 122 - Physics 2/HW/2/2.pdf",
     "PHYS 122 - Physics 2/HW/2/5ciie.svg",
     "PHYS 122 - Physics 2/HW/2/5cii.svg",
     "PHYS 122 - Physics 2/HW/2/5cie.svg",
