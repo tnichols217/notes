@@ -147,7 +147,7 @@ Lines between tables and relations may be solid or dotted, with dotted meaning o
 
 ### Select
 
-Often represented as $\sigma$
+Often represented as $\sigma_a(t)$
 
 The select operator filters all tuples from a table by a particular predicate.
 
@@ -163,7 +163,7 @@ SELECT * FROM table WHERE attribute="a";
 
 ### Project
 
-Often represented as $\Pi$
+Often represented as $\Pi_a(t)$
 
 The project operator selects attributes of tuples to return, instead of returning them all.
 
@@ -174,12 +174,12 @@ $\Pi_{attr1,attr2}(table)$
 In SQL, this is more commonly known as the $\text{SELECT}$ clause
 
 ```SQL
-SELECT attr1, attr2 FROM table;
+SELECT attr1, attr2 FROM tablename;
 ```
 
 ### Cartesian Product
 
-The Cartesian product, represented as $\times$, takes all combinations of tuples in one table with all tuples in another table.
+The Cartesian product, represented as $t\times t$, takes all combinations of tuples in one table with all tuples in another table.
 
 $table1\times table2$
 
@@ -194,4 +194,48 @@ SELECT table1.attr1, table2.attr2 FROM table1 JOIN table2 ON table1.t2=table2.t1
 
 ### Join
 
+The binary join operation is denoted with $t\bowtie_{a}t$, with a relational predicate in the subscript.
+
+$table1\bowtie_{table1.attr1=table2.attr2}table2$
+
 The join operation is a combination of the Cartesian product and a condition through an $\text{ON}$ clause or a $\text{WHERE}$ clause
+
+### Assignment
+
+The assignment operator, represented as $v\leftarrow n$, creates a variable with that name, storing a value.
+
+$variable \leftarrow 1$
+
+In SQL, this would be the equivalent of a variable, temporary table, or table variable
+
+```SQL
+DECLARE @FloatVar AS FLOAT = 12312.1232;
+```
+
+Temporary tables must begin with $\#$, with global temporary tables starting with $\#\#$. Temporary tables support all the same features a normal table would, but would only last for the session the table was created in.
+
+```SQL
+SELECT attribute INTO #temporary_table FROM tablename
+```
+Table variables are variables that are tables (namely). Table variables may be treated like a normal table mostly. They do not support all the SQL functions that a regular table would have, but is useful for small amounts of data.
+
+```SQL
+DECLARE @TABLE_VAR TABLE
+(column_1 DATATYPE, 
+ column_2 DATATYPE, 
+ column_N DATATYPE
+)
+```
+### Rename
+
+Represented as $\rho_{a(b)}(t)$, rename selects the $b$ attributes from table $t$ and renames them as $a$
+
+$\rho_{t2(attr1, attr2)}(table)$
+
+In SQL, this would be the $\text{AS}$ clause, where you can call attributes or tables by a different name.
+
+```SQL
+SELECT attr1, attr2 AS newattr FROM tablename;
+SELECT a.attr1, b.attr2 FROM tablename AS a, tablename AS b;
+```
+
