@@ -32,7 +32,19 @@
             }
           },
           {
-            "id": "be365507dbdecbd7",
+            "id": "ef35ebeb83850595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6065440965b2188b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +80,25 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "40c1587026afd146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be365507dbdecbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 310 - Algorithms/HW/2/tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,18 +246,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "be365507dbdecbd7",
+  "active": "6065440965b2188b",
   "lastOpenFiles": [
-    "PHYS 122 - Physics 2/HW/3/3.md",
+    "CSDS 310 - Algorithms/HW/2/tables.md",
     "CSDS 310 - Algorithms/HW/2/2.md",
+    "CSDS 310 - Algorithms/HW/2/2.pdf",
+    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
+    "CSDS 310 - Algorithms/HW/1/tables.md",
     "CSDS 310 - Algorithms/notes/3 - Growth of Functions.md",
+    "PHYS 122 - Physics 2/HW/3/3.md",
+    "CSDS 341 - Intro to Databases/Notes/2.5 - Relational Algebra.md",
+    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
+    "CSDS 310 - Algorithms/HW/1/1.md",
+    "MATH 307 - Linear Algebra/5 - Vector Norms.md",
     "PHYS 122 - Physics 2/HW/2/2.md",
     "PHYS 122 - Physics 2/Notes/Electric Charge.md",
-    "CSDS 310 - Algorithms/HW/1/1.md",
     "CSDS 310 - Algorithms/HW/2",
     "PHYS 122 - Physics 2/HW/3/3.pdf",
     "cwru/Finished.md",
-    "MATH 307 - Linear Algebra/5 - Vector Norms.md",
     "PHYS 122 - Physics 2/HW/3",
     "CSDS 341 - Intro to Databases/HW/1/1.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/5/SectionD_tln32_HW5.md",
@@ -235,19 +271,15 @@
     "ENGR 130 - Foundation Engineering and Programming/HW/3/SectionD_tln32_HW3.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/4/SectionD_tln32_HW4.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/5",
-    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
-    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
     "CSDS 341 - Intro to Databases/HW/1/Tables.md",
     "CSDS 310 - Algorithms/notes/1 - Sorting.md",
     "MATH 307 - Linear Algebra/4 - Inner Products.md",
     "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
-    "CSDS 310 - Algorithms/HW/1/tables.md",
     "CSDS 310 - Algorithms/HW/1/1.pdf",
     "CSDS 341 - Intro to Databases/HW/1/Tables.pdf",
     "CSDS 341 - Intro to Databases/HW/1/1.pdf",
     "CSDS 341 - Intro to Databases/HW/1/attachments/postgres.png",
     "CSDS 341 - Intro to Databases/HW/1/attachments",
-    "ENGR 130 - Foundation Engineering and Programming/HW/4/SectionD_tln32_HW4.pdf",
     "ENGR 130 - Foundation Engineering and Programming/HW/2/SectionD_tln32_HW2.md",
     "PHYS 122 - Physics 2/HW/2/5ciie.svg",
     "PHYS 122 - Physics 2/HW/2/5cii.svg",
@@ -261,9 +293,6 @@
     "Private/college/Additional Questions.md",
     "Private/college/QB Essay.md",
     "PHYS 122 - Physics 2/HW/1/1.md",
-    "CSDS 281 - Logic Design/HW/7/tables.md",
-    "Private/At4EDU/1 - Intro.md",
-    "MATH 307 - Linear Algebra/2 - Functions and Sets.md",
     "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Project Layout.canvas",
     "Private/wolf/Browser Android/Project Layout.canvas",
