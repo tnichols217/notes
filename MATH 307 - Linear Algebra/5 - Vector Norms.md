@@ -50,4 +50,3 @@ $S=\{v\in\mathbb{\vec V}:\|v\|=1\}$
 The 1-norm looks like a diamond
 The 2-norm looks like a circle
 The infinity-norm looks like a cube
-
