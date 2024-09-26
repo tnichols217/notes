@@ -67,3 +67,26 @@ An orthonormal base is a base that is
 2. Normalized, where $\|v_{j}\|,1\le j\le n$
 
 Orthogonality also implies linear independence
+
+## Projections
+
+In order to project $\vec u$ onto $\vec v$ where $u,v\in\mathbb{\vec V}$
+
+$P_{\vec v}(\vec u)=\frac{\langle \vec u,\vec v\rangle}{\|\vec v\|^{2}}\vec v$
+
+This will give a vector in the direction of $\vec v$ which is the closest point to $\vec v$ from $\vec u$
+
+### Gram-Schmidt Orthogonality Process
+
+The Gram-Schmidt Orthogonality Process converts any spanning set of a vector space into an orthogonal spanning set, or an orthonormal spanning set.
+
+The process is fairly straightforward:
+1. For each vector in the spanning set:
+	1. Subtract the projection of it on all previous vectors from itself
+
+If creating an orthonormal spanning set, simply normalize afterwards.
+
+Given $\vec V=\{\vec v_{1},\vec v_{2},\dots,\vec v_{n}\}$ is a spanning set, the definition of each vector will be:
+
+$\vec V'=\{\vec v_{1}',\vec v_{2}',\dots,\vec v_{n}'\}$
+Where: $\vec v_{k}'=\vec v_k-\sum\limits_{j=1}^{k-1}P_{\vec v_{j}}(\vec v_{k})$

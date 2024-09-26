@@ -4,8 +4,60 @@
     "type": "split",
     "children": [
       {
+        "id": "5cf3afebb1bad251",
+        "type": "tabs",
+        "dimension": 52.58493353028065,
+        "children": [
+          {
+            "id": "9e45df3d32a9aed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/2/2 - EPF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df9a3975fc09f138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 121 - Physics 1/Labs/6/6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2abfafca7d918316",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/2/Cylinder.png"
+              }
+            }
+          },
+          {
+            "id": "0f38d3fc129d41b6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/2/Notes.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "02e9da2b998bf76d",
         "type": "tabs",
+        "dimension": 47.41506646971935,
         "children": [
           {
             "id": "9b07e3bfb0f599d2",
@@ -25,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 310 - Algorithms/HW/1/1.md",
+                "file": "MATH 307 - Linear Algebra/1 - Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,31 +101,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 307 - Linear Algebra/6 - Matrices.md",
+                "file": "MATH 307 - Linear Algebra/4 - Inner Products.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "924cde9dd23aab5e",
+            "id": "56bcc1bce97c0ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 122 - Physics 2/HW/3/3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62b5c9ba1d58a003",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS 122 - Physics 2/HW/3/3.md",
+                "file": "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +125,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 310 - Algorithms/notes/3 - Growth of Functions.md",
+                "file": "CSDS 310 - Algorithms/HW/2/2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f679f574f14e010",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/2/Notes.pdf"
+              }
+            }
+          },
+          {
+            "id": "4aa8816208a2e2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/2/tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "941a07190c9ad656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/2/2 - EPF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efd3880e3df97eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/HW/2/2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -152,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 122 - Physics 2/HW/3/3.md"
+                "file": "PHYS 122 - Physics 2/Lab/2/2 - EPF.md"
               }
             }
           }
@@ -184,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 122 - Physics 2/HW/3/3.md",
+                "file": "PHYS 122 - Physics 2/Lab/2/2 - EPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,54 +326,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "924cde9dd23aab5e",
+  "active": "9e45df3d32a9aed4",
   "lastOpenFiles": [
-    "MATH 307 - Linear Algebra/6 - Matrices.md",
-    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
-    "PHYS 122 - Physics 2/HW/3/3.md",
-    "MATH 307 - Linear Algebra/5 - Vector Norms.md",
+    "PHYS 122 - Physics 2/Lab/2/2Final.pdf",
+    "PHYS 122 - Physics 2/Lab/2/2 - EPF.md",
+    "PHYS 122 - Physics 2/Lab/2/Report Cover.pdf",
+    "PHYS 122 - Physics 2/Lab/2/Plag Report.pdf",
+    "PHYS 122 - Physics 2/Lab/Plag Report.pdf",
+    "PHYS 122 - Physics 2/Lab/2/2 - EPF.pdf",
+    "PHYS 122 - Physics 2/Lab/2/tables.md",
+    "PHYS 122 - Physics 2/Lab/2/PointsE.svg",
+    "PHYS 122 - Physics 2/Lab/2/PointsE.png",
+    "PHYS 122 - Physics 2/Lab/2/Notes.pdf",
     "CSDS 310 - Algorithms/HW/2/2.md",
-    "CSDS 310 - Algorithms/HW/2/tables.md",
-    "CSDS 310 - Algorithms/HW/2/2.pdf",
-    "CSDS 310 - Algorithms/HW/1/tables.md",
-    "CSDS 310 - Algorithms/notes/3 - Growth of Functions.md",
-    "CSDS 341 - Intro to Databases/Notes/2.5 - Relational Algebra.md",
-    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
-    "CSDS 310 - Algorithms/HW/1/1.md",
+    "PHYS 121 - Physics 1/Labs/6/6.md",
     "PHYS 122 - Physics 2/HW/2/2.md",
-    "PHYS 122 - Physics 2/Notes/Electric Charge.md",
-    "CSDS 310 - Algorithms/HW/2",
-    "PHYS 122 - Physics 2/HW/3/3.pdf",
-    "cwru/Finished.md",
-    "PHYS 122 - Physics 2/HW/3",
-    "CSDS 341 - Intro to Databases/HW/1/1.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/5/SectionD_tln32_HW5.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/5/SectionD_tln32_HW5.pdf",
-    "ENGR 130 - Foundation Engineering and Programming/HW/3/SectionD_tln32_HW3.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/4/SectionD_tln32_HW4.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/5",
-    "CSDS 341 - Intro to Databases/HW/1/Tables.md",
-    "CSDS 310 - Algorithms/notes/1 - Sorting.md",
+    "PHYS 122 - Physics 2/HW/3/3.md",
+    "PHYS 122 - Physics 2/Lab/2/Cylinder.png",
+    "PHYS 122 - Physics 2/Lab/2/Points.png",
+    "PHYS 122 - Physics 2/Lab/2/Plates.png",
+    "PHYS 122 - Physics 2/Lab/2/CylinderEquiE.svg",
+    "PHYS 122 - Physics 2/Lab/2/CylinderEquiE.png",
+    "PHYS 122 - Physics 2/Lab/2/CylinderEqui.svg",
+    "PHYS 122 - Physics 2/Lab/2/PlatesEquiE.svg",
+    "PHYS 122 - Physics 2/Lab/2/PlatesEqui.svg",
+    "PHYS 122 - Physics 2/Lab/1/1 - DCCIR.md",
+    "MATH 307 - Linear Algebra/1 - Intro.md",
+    "CSDS 310 - Algorithms/HW/1/1.md",
+    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
     "MATH 307 - Linear Algebra/4 - Inner Products.md",
+    "PHYS 121 - Physics 1/Labs/7/7.md",
+    "CSDS 310 - Algorithms/HW/2/tables.md",
+    "PHYS 122 - Physics 2/Lab/2/Points.eps",
+    "PHYS 122 - Physics 2/Lab/2/Points.csv",
+    "PHYS 122 - Physics 2/Lab/2/Plates.eps",
+    "PHYS 122 - Physics 2/Lab/2/Plates.csv",
+    "CSDS 341 - Intro to Databases/Notes/4 - Relational Algebra.md",
+    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
+    "CSDS 341 - Intro to Databases/Notes/1 - Intro to Databases and SQL.md",
+    "CSDS 310 - Algorithms/notes/4 - Runtime of Recursive Methods.md",
+    "CSDS 310 - Algorithms/notes/3 - Growth of Functions.md",
     "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
-    "CSDS 310 - Algorithms/HW/1/1.pdf",
-    "CSDS 341 - Intro to Databases/HW/1/Tables.pdf",
-    "CSDS 341 - Intro to Databases/HW/1/1.pdf",
-    "CSDS 341 - Intro to Databases/HW/1/attachments/postgres.png",
-    "CSDS 341 - Intro to Databases/HW/1/attachments",
-    "ENGR 130 - Foundation Engineering and Programming/HW/2/SectionD_tln32_HW2.md",
-    "PHYS 122 - Physics 2/HW/2/5ciie.svg",
-    "PHYS 122 - Physics 2/HW/2/5cii.svg",
-    "PHYS 122 - Physics 2/HW/2/5cie.svg",
-    "PHYS 122 - Physics 2/HW/2/5ci.svg",
-    "PHYS 122 - Physics 2/HW/2/5biii.svg",
-    "PHYS 122 - Physics 2/HW/2/5bii.svg",
-    "PHYS 122 - Physics 2/HW/2/5ai.svg",
-    "PHYS 122 - Physics 2/HW/2/5aie.svg",
-    "PHYS 122 - Physics 2/HW/2/5aiie.png",
-    "Private/college/Additional Questions.md",
-    "Private/college/QB Essay.md",
-    "PHYS 122 - Physics 2/HW/1/1.md",
+    "MATH 307 - Linear Algebra/6 - Matrices.md",
+    "MATH 307 - Linear Algebra/5 - Vector Norms.md",
+    "CSDS 310 - Algorithms/HW/1/tables.md",
+    "PHYS 122 - Physics 2/Notes/Electric Charge.md",
+    "cwru/Finished.md",
+    "CSDS 341 - Intro to Databases/HW/1/1.md",
     "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Project Layout.canvas",
     "Private/wolf/Browser Android/Project Layout.canvas",

@@ -38,9 +38,11 @@ The basic table creation query is structured as:
 CREATE TABLE tablename
 	(attr1   type
 	attr2    type NOT NULL
+	attr3    type NOT NULL
 	<constraints>
 	PRIMARY KEY (attr1)
-	FOREIGN KEY (attr2) references tablename2);
+	FOREIGN KEY (attr2) references tablename2;
+	FOREIGN KEY (attr3) references tablename2(attr3));
 ```
 
 ### Table Modification
@@ -54,13 +56,27 @@ DELETE FROM tablename;
 To add attributes to a table:
 
 ```SQL
-ALTER TABLE tablename ADD attr1 attr2;
+ALTER TABLE tablename ADD COLUMN attr1 type;
 ```
 
 To remove attributes from a table:
 
 ```SQL
-ALTER TABLE tablename DROP attr1;
+ALTER TABLE tablename DROP COLUMN attr1;
+```
+
+To change the type of the attribute in a table:
+
+```SQL
+ALTER TABLE tablename ALTER COLUMN attr1 type;
+```
+
+### Table Deletion
+
+To delete an entire table:
+
+```SQL
+DROP TABLE tablename;
 ```
 
 ## SQL
@@ -88,6 +104,13 @@ SELECT attr1 * 1.1 FROM tablename
 ```
 
 All basic arithmetic operations are supported: `+`, `-`, `*`, `/`
+
+`SELECT` also supports specifying `SELECT DISTINCT` or `SELECT ALL`, where only unique tuples or all tuples will be returned
+
+```SQL
+SELECT DISTINCT attr1 FROM tablename;
+SELECT ALL attr1 FROM tablename;
+```
 
 ### WHERE
 
@@ -120,6 +143,68 @@ The `AS` command renames a column to something else for a query
 
 ```SQL
 SELECT attr1, attr1 * 1.1 AS attr1more FROM tablename
+```
+
+### INSERT
+
+In order to add a tuple into a table:
+
+```SQL
+INSERT INTO tablename (
+	attr1, attr2, attr3
+) VALUES (
+	"val1", "val2", "val3"
+);
+```
+
+To insert from another query, you may select:
+
+```SQL
+INSERT INTO tablename (
+	attr1, attr2, attr3
+) SELECT a.attr1, b.attr2, a.attr3
+FROM tablenamea as a, tablenameb as b
+WHERE a.attr1 = b.attr1
+```
+
+### UPDATE
+
+To update values in tuples:
+
+```SQL
+UPDATE tablename
+SET attr1 = attr1 + 5
+WHERE attr1 > (
+	SELECT AVG(attr1) FROM tablename
+)
+```
+
+### DELETE
+
+To delete tuples from a table:
+
+```SQL
+DELETE FROM tablename
+WHERE attr = "value";
+```
+
+### ORDER BY
+
+You may specify columns to order the result by, with the first column taking precedence:
+
+```SQL
+SELECT * FROM tablename
+ORDER BY attr1, attr2;
+```
+
+You may also specify a direction to sort it in
+
+```SQL
+SELECT * FROM tablename
+ORDER BY attr1, attr2 DESC;
+
+SELECT * FROM tablename
+ORDER BY attr1, attr2 ASC;
 ```
 
 ### String Operations
