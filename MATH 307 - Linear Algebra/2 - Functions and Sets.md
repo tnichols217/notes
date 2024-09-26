@@ -103,7 +103,7 @@ $\{(a,b)|a\in A,b\in B\}$
 A function is defined as an assignment from set $A$ to set $B$
 $f:A\to B$
 
-Each element in the domain $A$ may only map a to one element in the range $B$
+Each element in the domain $A$ may only map $a$ to one element in the range $B$
 
 A function is **injective** if all elements of $A$ map to unique elements in $B$
 A function is **surjective** if all elements of $B$ have a corresponding element in $A$

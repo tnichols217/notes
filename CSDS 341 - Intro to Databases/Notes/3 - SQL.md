@@ -79,6 +79,19 @@ To delete an entire table:
 DROP TABLE tablename;
 ```
 
+### Attribute Properties and Constraints
+
+#### IDENTITY
+
+When creating a table, you are able to specify an attribute to be an `IDENTITY`, where its values will be automatically generated upon adding a tuple to the table
+
+It takes two arguments: $(\text{seed},\text{increment})$
+
+```SQL
+CREATE TABLE tablename
+	(attr1   int IDENTITY (500, 1))
+```
+
 ## SQL
 
 ### FROM

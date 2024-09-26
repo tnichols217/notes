@@ -41,5 +41,6 @@
   "obsidian-outliner",
   "obsidian-open-link-with",
   "obsidian-molecule-renderer",
-  "obsidian-graphviz"
+  "obsidian-graphviz",
+  "better-export-pdf"
 ]

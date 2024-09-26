@@ -66,4 +66,3 @@ A set of vectors $\vec {\mathbb v}$ is a basis of the vector space $\vec {\mathb
 
 In a vector space $\vec{\mathbb V}$, if a set of vectors $\vec{\mathbb v}\in\vec{\mathbb V}$ is linearly independent then
 1. The number of vectors in $\vec{\mathbb v}$ must be less than or equal to the number of vectors in the basis of $\vec{\mathbb V}$
-

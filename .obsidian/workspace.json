@@ -4,60 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "5cf3afebb1bad251",
-        "type": "tabs",
-        "dimension": 52.58493353028065,
-        "children": [
-          {
-            "id": "9e45df3d32a9aed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS 122 - Physics 2/Lab/2/2 - EPF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df9a3975fc09f138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS 121 - Physics 1/Labs/6/6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2abfafca7d918316",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "PHYS 122 - Physics 2/Lab/2/Cylinder.png"
-              }
-            }
-          },
-          {
-            "id": "0f38d3fc129d41b6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PHYS 122 - Physics 2/Lab/2/Notes.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "02e9da2b998bf76d",
         "type": "tabs",
-        "dimension": 47.41506646971935,
         "children": [
           {
             "id": "9b07e3bfb0f599d2",
@@ -66,18 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "cwru/Finished.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebc3696141a50e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH 307 - Linear Algebra/1 - Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 307 - Linear Algebra/4 - Inner Products.md",
+                "file": "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "56bcc1bce97c0ab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "440a5161260037aa",
+            "id": "bbad2bcbf5f343ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,22 +56,12 @@
             }
           },
           {
-            "id": "1f679f574f14e010",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PHYS 122 - Physics 2/Lab/2/Notes.pdf"
-              }
-            }
-          },
-          {
-            "id": "4aa8816208a2e2f1",
+            "id": "c2fac4bc2c9b34f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 122 - Physics 2/Lab/2/tables.md",
+                "file": "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,19 +80,19 @@
             }
           },
           {
-            "id": "efd3880e3df97eeb",
+            "id": "f2649d1002d15341",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 122 - Physics 2/HW/2/2.md",
+                "file": "PHYS 122 - Physics 2/Lab/2/tables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -326,23 +240,32 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9e45df3d32a9aed4",
+  "active": "941a07190c9ad656",
   "lastOpenFiles": [
-    "PHYS 122 - Physics 2/Lab/2/2Final.pdf",
+    "PHYS 122 - Physics 2/Lab/2/tables.md",
     "PHYS 122 - Physics 2/Lab/2/2 - EPF.md",
+    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
+    "PHYS 122 - Physics 2/Lab/2/tables.pdf",
+    "CSDS 310 - Algorithms/notes/4 - Runtime of Recursive Methods.md",
+    "CSDS 310 - Algorithms/HW/2/2.md",
+    "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
+    "MATH 307 - Linear Algebra/2 - Functions and Sets.md",
+    "MATH 307 - Linear Algebra/1 - Intro.md",
+    "MATH 307 - Linear Algebra/6 - Matrices.md",
+    "MATH 307 - Linear Algebra/4 - Inner Products.md",
+    "PHYS 122 - Physics 2/HW/2/2.md",
+    "PHYS 122 - Physics 2/Lab/2/Notes.pdf",
+    "cwru/Finished.md",
+    "PHYS 122 - Physics 2/Lab/2/Cylinder.png",
+    "PHYS 121 - Physics 1/Labs/6/6.md",
+    "PHYS 122 - Physics 2/Lab/2/2Final.pdf",
     "PHYS 122 - Physics 2/Lab/2/Report Cover.pdf",
     "PHYS 122 - Physics 2/Lab/2/Plag Report.pdf",
     "PHYS 122 - Physics 2/Lab/Plag Report.pdf",
     "PHYS 122 - Physics 2/Lab/2/2 - EPF.pdf",
-    "PHYS 122 - Physics 2/Lab/2/tables.md",
     "PHYS 122 - Physics 2/Lab/2/PointsE.svg",
     "PHYS 122 - Physics 2/Lab/2/PointsE.png",
-    "PHYS 122 - Physics 2/Lab/2/Notes.pdf",
-    "CSDS 310 - Algorithms/HW/2/2.md",
-    "PHYS 121 - Physics 1/Labs/6/6.md",
-    "PHYS 122 - Physics 2/HW/2/2.md",
     "PHYS 122 - Physics 2/HW/3/3.md",
-    "PHYS 122 - Physics 2/Lab/2/Cylinder.png",
     "PHYS 122 - Physics 2/Lab/2/Points.png",
     "PHYS 122 - Physics 2/Lab/2/Plates.png",
     "PHYS 122 - Physics 2/Lab/2/CylinderEquiE.svg",
@@ -351,28 +274,19 @@
     "PHYS 122 - Physics 2/Lab/2/PlatesEquiE.svg",
     "PHYS 122 - Physics 2/Lab/2/PlatesEqui.svg",
     "PHYS 122 - Physics 2/Lab/1/1 - DCCIR.md",
-    "MATH 307 - Linear Algebra/1 - Intro.md",
     "CSDS 310 - Algorithms/HW/1/1.md",
-    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
-    "MATH 307 - Linear Algebra/4 - Inner Products.md",
     "PHYS 121 - Physics 1/Labs/7/7.md",
     "CSDS 310 - Algorithms/HW/2/tables.md",
     "PHYS 122 - Physics 2/Lab/2/Points.eps",
     "PHYS 122 - Physics 2/Lab/2/Points.csv",
     "PHYS 122 - Physics 2/Lab/2/Plates.eps",
-    "PHYS 122 - Physics 2/Lab/2/Plates.csv",
     "CSDS 341 - Intro to Databases/Notes/4 - Relational Algebra.md",
     "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
     "CSDS 341 - Intro to Databases/Notes/1 - Intro to Databases and SQL.md",
-    "CSDS 310 - Algorithms/notes/4 - Runtime of Recursive Methods.md",
     "CSDS 310 - Algorithms/notes/3 - Growth of Functions.md",
-    "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
-    "MATH 307 - Linear Algebra/6 - Matrices.md",
     "MATH 307 - Linear Algebra/5 - Vector Norms.md",
     "CSDS 310 - Algorithms/HW/1/tables.md",
     "PHYS 122 - Physics 2/Notes/Electric Charge.md",
-    "cwru/Finished.md",
-    "CSDS 341 - Intro to Databases/HW/1/1.md",
     "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Project Layout.canvas",
     "Private/wolf/Browser Android/Project Layout.canvas",

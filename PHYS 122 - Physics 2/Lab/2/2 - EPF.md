@@ -1,8 +1,9 @@
-# PHYS 122-119B Lab 1: DC-CIR
+# PHYS 122-119B Lab 2: Electric Potential and Fields
 
+Trevor Nichols
+Department of Physics, Case Western Reserve University, Cleveland, Ohio, 44106-7079
 Course & Section: PHYS 122-119B
 Station 32
-Department of Physics, Case Western Reserve University, Cleveland, Ohio, 44106-7079
 
 # 1 Abstract
 
@@ -90,6 +91,7 @@ $$
 \begin{align}
 \vec E=-\frac{\Delta V}{\Delta x} && \text{Electrostatic force} \tag{2.2.4}\\
 \delta_{\vec E}=\sqrt{\left(\frac{\delta_{\Delta V}}{\Delta x}\right)^2+\left( \frac{\Delta V\delta_{\Delta x}}{\Delta x^2} \right)^2} && \text{Error Prop Electostatic force} \tag{2.3.3.1}\\
+\delta_{\vec E}=\sqrt{2\left(\frac{\delta_{V}}{\Delta x}\right)^2+2\left( \frac{\Delta V\delta_{x}}{\Delta x^2} \right)^2} && \text{Error Prop Electostatic force} \tag{2.3.3.2}\\
 \end{align}
 $$
 
@@ -134,7 +136,7 @@ $$
 
 ### 3.3 General Data manipulation
 
-1. Once all data has been collected, calculate the $\vec E$ force on all axes using eq. $2.2.4$ and $2.3.3.1$
+1. Once all data has been collected, calculate the $\vec E$ force on all axes using eq. $2.2.4$ and $2.3.3.2$
 2. Compare these data with the expected results obtained from eq. $2.3.1.1,2.3.1.2,2.3.1.3,2.3.2.1,2.3.2.2$
 
 ## 4 Analysis
@@ -143,7 +145,7 @@ $$
 
 #### 4.1.1 x-axis
 
-On the $x$-axis for the two point charges, we should expect the data to follow eq. $2.3.1.2$ and $2.3.1.2$ for the calculated $\vec E$ found using eq. $2.3.3.1$ and $2.3.3.2$
+On the $x$-axis for the two point charges, we should expect the data to follow eq. $2.3.1.2$ and $2.3.1.2$ for the calculated $\vec E$ found using eq. $2.3.3.2$ and $2.3.3.2$
 
 For our data:
 
@@ -154,18 +156,22 @@ We have the following graph with the overlayed expected result:
 ![[Points.svg#inv_L]]
 [Diagram 4.1.1.1]
 
-We found this fit to not fit very well, especially with the $\chi^2$ or $r^2$ metrics, as we are not using point charges and instead cylinders, leading to a significantly different range of possible potentials.
+![[PHYS 122 - Physics 2/Lab/2/tables#^og|tables]]
+
+We found this fit to not fit very well, especially with the $\chi^2$ or $r^2$ metrics, as we are not using point charges and instead cylinders, leading to a significantly different range of possible potentials. We believe the significant $\chi^2$ is due to there being an infinite asymptote where we have a non-infinite value.
 
 We additionally have a graph of our calculated $\vec E$ along with its closest fit to eq. $2.3.1.2$
 
 ![[PointsE.svg#inv_L]]
 [Diagram 4.1.1.2]
 
-Which we find to be very close to the expected result with an $r^2$ of 0.329.
+![[PHYS 122 - Physics 2/Lab/2/tables#^op|tables]]
+
+Which we find to be very close to the expected result with an $r^2$ of $0.329$ and a low $\chi^2$ of $285.4001$.
 
 #### 4.1.2 y-axis
 
-For the $y$-axis, we expect our $\vec E=0$, which should have our electric potential be constant, calculated using eq. $2.3.3.1$ and $2.3.3.2$
+For the $y$-axis, we expect our $\vec E=0$, which should have our electric potential be constant, calculated using eq. $2.3.3.2$ and $2.3.3.2$
 
 For our data:
 
@@ -192,7 +198,7 @@ This lines up with our expected equipotential lines for a dipole point charge sy
 
 #### 4.2.1 y-axis
 
-On the $x$-axis for the two point charges, we should expect the data to follow eq. $2.3.2.1$ for the calculated $\vec E$ found using eq. $2.3.3.1$ and $2.3.3.2$
+On the $x$-axis for the two point charges, we should expect the data to follow eq. $2.3.2.1$ for the calculated $\vec E$ found using eq. $2.3.3.2$ and $2.3.3.2$
 
 For our data:
 
@@ -203,11 +209,13 @@ We have the following graph with the overlayed expected result for the area betw
 ![[Plates.svg#inv_L]]
 [Diagram 4.2.1.1]
 
-The fit has an $r^2$ value of $0.99947$, which is extremely correlated.
+![[PHYS 122 - Physics 2/Lab/2/tables#^lg|tables]]
+
+The fit has an $r^2$ value of $0.99947$, which is extremely correlated, further confirming the theory.
 
 #### 4.2.2 x-axis
 
-For the $y$-axis, we expect our $\vec E=0$, which should have our electric potential be constant, calculated using eq. $2.3.3.1$ and $2.3.3.2$
+For the $y$-axis, we expect our $\vec E=0$, which should have our electric potential be constant, calculated using eq. $2.3.3.2$ and $2.3.3.2$
 
 ![[PHYS 122 - Physics 2/Lab/2/tables#^lx|tables]]
 
@@ -291,3 +299,8 @@ Thus, overall, we fail to reject the current theory on electrostatic forces and 
 
 Lab Partner: Lauren Lee, Alvin Magata
 Lab Manual: Lab 2 EPF PHYS 122
+
+### 6.1 References
+
+> [!para]
+> ###### Driscoll, D., *General Physics 2: Electricity and Magnetism Lab Manual*, "Electric Potential and Fields".
