@@ -1,6 +1,6 @@
 # Relational Algebra
 
-## Select
+## Select $\sigma$
 
 Often represented as $\sigma_a(t)$
 
@@ -16,7 +16,7 @@ In SQL, this is more commonly known as the $\text{WHERE}$ clause, for example:
 SELECT * FROM table WHERE attribute="a";
 ```
 
-## Project
+## Project $\Pi$
 
 Often represented as $\Pi_a(t)$
 
@@ -32,7 +32,7 @@ In SQL, this is more commonly known as the $\text{SELECT}$ clause
 SELECT attr1, attr2 FROM tablename;
 ```
 
-## Cartesian Product
+## Cartesian Product $\times$
 
 The Cartesian product, represented as $t\times t$, takes all combinations of tuples in one table with all tuples in another table.
 
@@ -47,7 +47,7 @@ SELECT table1.*, table2.* FROM table1, table2;
 SELECT table1.attr1, table2.attr2 FROM table1 JOIN table2 ON table1.t2=table2.t1;
 ```
 
-## Join
+## Join $\bowtie$
 
 The binary join operation is denoted with $t\bowtie_{a}t$, with a relational predicate in the subscript.
 
@@ -55,7 +55,11 @@ $table1\bowtie_{table1.attr1=table2.attr2}table2$
 
 The join operation is a combination of the Cartesian product and a condition through an $\text{ON}$ clause or a $\text{WHERE}$ clause
 
-## Assignment
+This operation is equivalent with 
+
+$\sigma_{table1.attr1=table2.attr2}(table1\times table2)$
+
+## Assignment $\leftarrow$
 
 The assignment operator, represented as $v\leftarrow n$, creates a variable with that name, storing a value.
 
@@ -82,7 +86,7 @@ DECLARE @TABLE_VAR TABLE
 )
 ```
 
-## Rename
+## Rename $\rho$
 
 Represented as $\rho_{a(b)}(t)$, rename selects the $b$ attributes from table $t$ and renames them as $a$
 
@@ -94,3 +98,28 @@ In SQL, this would be the $\text{AS}$ clause, where you can call attributes or t
 SELECT attr1, attr2 AS newattr FROM tablename;
 SELECT a.attr1, b.attr2 FROM tablename AS a, tablename AS b;
 ```
+## Operations
+
+All the same arithmetic operations available in SQL are also available
+
+All the same comparison operations are also available, however `<>` is often stylised as `!=` instead
+
+### Boolean Operators
+
+| Symbol  | Meaning |
+| ------- | ------- |
+| $\lnot$ | `NOT`   |
+| $\land$ | `AND`   |
+| $\lor$  | `OR`    |
+
+### Set Operators
+
+Set operators allow you to join multiple selections together.
+
+This is not a recommended way of doing operations as you have no guarantee that the two operations are of compatible values, instead do your logic within your select statement
+
+| Symbol             | Meaning                                                    |
+| ------------------ | ---------------------------------------------------------- |
+| $\cup$             | Joins two selections                                       |
+| $\cap$             | Takes only rows that are in both selections                |
+| $\setminus$ or $-$ | Removes the second argument's rows from the first argument |
