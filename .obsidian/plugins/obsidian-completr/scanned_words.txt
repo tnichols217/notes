@@ -1412,6 +1412,8 @@ PZF
 PyC
 PEJ
 Participate
+Prevents
+PRIMARY
 Models
 Model
 Matrix
@@ -1887,6 +1889,8 @@ Mbg
 Magnetism
 Meaning
 Multiplication
+MySQL
+Marks
 Exponential
 Ensure
 Equations
@@ -2362,6 +2366,8 @@ EWhQ
 Electricity
 Equation
 Equals
+Ensures
+Equipotentials
 The
 Types
 Theorem
@@ -2848,6 +2854,9 @@ TbD
 Tcjk
 TbL
 TRUE
+TYPE
+Torque
+Throughout
 change
 can
 considered
@@ -3602,6 +3611,16 @@ confirming
 connecting
 comparisons
 conditional
+clob
+casted
+commands
+constraint
+circumference
+capacitor
+constitute
+capacitance
+conductor
+cdot
 in
 is
 itself
@@ -4210,6 +4229,9 @@ iSn
 irc
 iGn
 involving
+indexes
+immersed
+internals
 population
 predation
 pull
@@ -4838,6 +4860,9 @@ pgB
 pointy
 pot
 protecting
+parenthesis
+proportion
+proportional
 directly
 differential
 derivative
@@ -5436,6 +5461,11 @@ doj
 dJs
 deviance
 division
+dependant
+distributed
+disc
+depicted
+divided
 related
 represent
 represented
@@ -6004,6 +6034,8 @@ rzi
 rFxl
 rOs
 raG
+referencing
+reduced
 to
 the
 that
@@ -6560,6 +6592,10 @@ tMI
 tending
 theoretically
 tops
+typed
+telling
+torque
+transition
 size
 system
 search
@@ -7310,6 +7346,7 @@ sKKK
 sYh
 surround
 subquery
+surrounded
 of
 order
 or
@@ -7755,6 +7792,8 @@ oNL
 oeS
 overall
 operand
+outerradius
+omitted
 Growth
 General
 Guessing
@@ -8173,6 +8212,8 @@ Gms
 GqW
 GROUP
 Greater
+Gaussian
+Gausian
 Is
 If
 Integrating
@@ -8648,6 +8689,10 @@ IjRp
 IDENTITY
 Innovation
 Inverts
+INCREMENT
+INDEX
+Indexes
+Integral
 first
 for
 formula
@@ -9151,6 +9196,10 @@ fwKkCS
 fPNj
 fjN
 flattening
+far
+focii
+foci
+frac
 by
 be
 but
@@ -9648,6 +9697,7 @@ btW
 bPd
 bottoms
 bool
+blob
 approaches
 an
 aspects
@@ -10198,6 +10248,10 @@ additionally
 appears
 asymptote
 aggregation
+allow
+abides
+annulus
+analyzed
 equations
 explicit
 estimate
@@ -10766,6 +10820,16 @@ eqs
 extremely
 expecting
 expressions
+enums
+edit
+everywhere
+ellipsoids
+ends
+evaluated
+elevation
+enclose
+enclosing
+enclosed
 Analytic
 Approximating
 Autonomous
@@ -11257,6 +11321,7 @@ ARq
 ADJ
 Arithmetic
 Aggregate
+AUTO
 Qualitative
 Quantifiers
 Query
@@ -12063,6 +12128,7 @@ UCcM
 UkV
 UWg
 UKJ
+User
 geometry
 given
 graph
@@ -12580,6 +12646,8 @@ gKE
 gEq
 gHfX
 grouped
+generates
+gap
 key
 know
 kinematic
@@ -13842,6 +13910,11 @@ CVn
 CDH
 Ckm
 Comparison
+Character
+CREATE
+Constraint
+Combines
+CHECK
 may
 marked
 must
@@ -15690,6 +15763,7 @@ Fmq
 FqH
 FeR
 FUE
+FOREIGN
 lines
 line
 like
@@ -16155,6 +16229,7 @@ ltA
 lTG
 lMA
 leY
+lookups
 horizontally
 have
 help
@@ -16665,6 +16740,7 @@ hZL
 hYM
 hand
 hoped
+held
 vertical
 values
 vector
@@ -17070,6 +17146,7 @@ vkXB
 vHx
 vkN
 vSY
+vec
 where
 we
 which
@@ -19703,6 +19780,12 @@ Dnt
 DEd
 Driscoll
 Division
+DOMAIN
+Domains
+DBMSes
+Differs
+Depending
+Disc
 Homogeneous
 Harmonic
 However
@@ -20147,6 +20230,7 @@ HcWP
 HUA
 Hlj
 HAVING
+Helpful
 Order
 Other
 Oscillator
@@ -20541,6 +20625,7 @@ Ofal
 ONC
 ObjStm
 Operator
+Optional
 Recovered
 Repeated
 Resonance
@@ -21002,6 +21087,7 @@ RnS
 RSG
 References
 Returns
+Recall
 zero
 zz
 zoU
@@ -23333,6 +23419,7 @@ KLo
 KWy
 KSN
 KnP
+KEY
 Jos
 Just
 Jacobian

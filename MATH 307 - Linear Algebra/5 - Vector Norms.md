@@ -6,7 +6,7 @@ A norm is a function
 
 $\|\cdot\|:\mathbb{\vec V}\to\mathbb R_+$
 
-If
+If is satisfies:
 1. Non-negative, $\forall v\in\mathbb{\vec V}:\|v\|\ge0,\|v\|=0\iff v=0$
 2. Scaling, $\forall v\in\mathbb{\vec V},\alpha\in\mathbb F:\|\alpha v\|=|\alpha|\|v\|$
 3. Triangle Inequality, $\forall v, w\in\mathbb{\vec V}:\|v+w\|\le\|v\|+\|w\|$
