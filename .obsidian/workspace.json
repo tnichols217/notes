@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "54ac191ee21cd710",
+            "id": "6843b00a74ce0c53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/2/2.md",
+                "file": "CSDS 341 - Intro to Databases/HW/1/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/1/1.md",
+                "file": "CSDS 341 - Intro to Databases/HW/1/Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca5e6fd5b3f75e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/3/tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82e68f80093e633d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/3/3 - DSO-EOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54ac191ee21cd710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 341 - Intro to Databases/HW/2/Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d591c3ad68b5ba44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,6 +122,35 @@
               "type": "markdown",
               "state": {
                 "file": "MATH 307 - Linear Algebra/6 - Matrices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "08a963fa6bcf917c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc3d772a8bfcc6c7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/3/notes.pdf"
+              }
+            }
+          },
+          {
+            "id": "61fb957ed60de20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/HW/4/4.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/2/2.md"
+                "file": "PHYS 122 - Physics 2/HW/4/4.md"
               }
             }
           }
@@ -172,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/2/2.md",
+                "file": "PHYS 122 - Physics 2/HW/4/4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,54 +305,53 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "54ac191ee21cd710",
+  "active": "61fb957ed60de20f",
   "lastOpenFiles": [
-    "CSDS 341 - Intro to Databases/HW/1/1.md",
-    "CSDS 341 - Intro to Databases/HW/2/2.md",
+    "PHYS 122 - Physics 2/Lab/3/3 - DSO-EOM.md",
     "PHYS 122 - Physics 2/HW/4/4.md",
-    "CSDS 341 - Intro to Databases/HW/2",
-    "PHYS 122 - Physics 2/HW/4/4.pdf",
+    "PHYS 122 - Physics 2/Lab/3/notes.pdf",
+    "PHYS 122 - Physics 2/Lab/3/tables.md",
+    "PHYS 122 - Physics 2/Lab/3/current.png",
+    "PHYS 122 - Physics 2/Lab/3/current.eps",
+    "PHYS 122 - Physics 2/Lab/3/voltage.png",
+    "PHYS 122 - Physics 2/Lab/3/voltage.eps",
+    "PHYS 122 - Physics 2/Lab/3/current.svg",
+    "PHYS 122 - Physics 2/Lab/3/voltage.svg",
+    "PHYS 122 - Physics 2/Lab/3/Sheet2.csv",
+    "PHYS 122 - Physics 2/Lab/3/Sheet1.csv",
+    "PHYS 122 - Physics 2/Lab/3/Resistance vs. Current of a Pasco Circuit Board DC.eps",
+    "PHYS 122 - Physics 2/Lab/3/Lab3.opju",
+    "PHYS 122 - Physics 2/Lab/3/Graph2.png",
+    "PHYS 122 - Physics 2/Lab/3/Graph2.eps",
+    "PHYS 122 - Physics 2/Lab/3/Graph1.png",
+    "PHYS 122 - Physics 2/Lab/3/Graph1.eps",
+    "PHYS 122 - Physics 2/Lab/3/wetransfer_graph1-eps_2024-10-04_0018/Resistance vs. Current of a Pasco Circuit Board DC.eps",
+    "PHYS 122 - Physics 2/Lab/3/wetransfer_graph1-eps_2024-10-04_0018/Graph2.png",
+    "PHYS 122 - Physics 2/Lab/3/wetransfer_graph1-eps_2024-10-04_0018/Graph1.png",
+    "PHYS 122 - Physics 2/Lab/2/2 - EPF.md",
+    "PHYS 122 - Physics 2/Lab/Lab Report Template.md",
+    "PHYS 122 - Physics 2/Lab/3/Worksheet.md",
+    "ENGR 130 - Foundation Engineering and Programming/Module/2/Lab 3-4.md",
+    "MATH 307 - Linear Algebra/6 - Matrices.md",
+    "MATH 307 - Linear Algebra/5 - Vector Norms.md",
+    "CSDS 341 - Intro to Databases/HW/2/2.md",
+    "CSDS 341 - Intro to Databases/HW/2/Tables.md",
+    "CSDS 341 - Intro to Databases/HW/2/attachments/Pasted image 20241003012522.png",
+    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
+    "CSDS 341 - Intro to Databases/HW/1/Tables.md",
+    "CSDS 341 - Intro to Databases/Notes/4 - Relational Algebra.md",
+    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
+    "CSDS 341 - Intro to Databases/HW/1/1.md",
+    "cwru/Finished.md",
     "PHYS 122 - Physics 2/Notes/Electric Charge.md",
     "PHYS 122 - Physics 2/HW/2/2.md",
     "PHYS 122 - Physics 2/HW/4/2be.svg",
-    "PHYS 122 - Physics 2/HW/4/2b.svg",
     "PHYS 122 - Physics 2/HW/3/3.md",
-    "PHYS 122 - Physics 2/Lab/2/2 - EPF.md",
-    "MATH 307 - Linear Algebra/6 - Matrices.md",
-    "MATH 307 - Linear Algebra/5 - Vector Norms.md",
     "PHYS 122 - Physics 2/Lab/2/tables.md",
     "CSDS 310 - Algorithms/notes/4 - Runtime of Recursive Methods.md",
-    "cwru/Finished.md",
-    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
     "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
     "CSDS 310 - Algorithms/HW/2/2.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/6/SectionD_tln32_HW6.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/6/SectionD_tln32_HW6.pdf",
-    "ENGR 130 - Foundation Engineering and Programming/HW/5/SectionD_tln32_HW5.md",
-    "PHYS 122 - Physics 2/HW/4",
-    "CSDS 341 - Intro to Databases/Notes/4 - Relational Algebra.md",
-    "MATH 307 - Linear Algebra/2 - Functions and Sets.md",
-    "CSDS 310 - Algorithms/notes/3 - Growth of Functions.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/4/SectionD_tln32_HW4.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/6",
-    "PHYS 122 - Physics 2/Lab/2/tables.pdf",
-    "MATH 307 - Linear Algebra/1 - Intro.md",
-    "MATH 307 - Linear Algebra/4 - Inner Products.md",
-    "PHYS 122 - Physics 2/Lab/2/Notes.pdf",
-    "PHYS 122 - Physics 2/Lab/2/Cylinder.png",
-    "PHYS 121 - Physics 1/Labs/6/6.md",
-    "PHYS 122 - Physics 2/Lab/2/2Final.pdf",
-    "PHYS 122 - Physics 2/Lab/2/Report Cover.pdf",
-    "PHYS 122 - Physics 2/Lab/2/Plag Report.pdf",
-    "PHYS 122 - Physics 2/Lab/2/PointsE.svg",
-    "PHYS 122 - Physics 2/Lab/2/PointsE.png",
-    "PHYS 122 - Physics 2/Lab/2/Points.png",
-    "PHYS 122 - Physics 2/Lab/2/Plates.png",
-    "PHYS 122 - Physics 2/Lab/2/CylinderEquiE.svg",
-    "PHYS 122 - Physics 2/Lab/2/CylinderEquiE.png",
-    "PHYS 122 - Physics 2/Lab/2/CylinderEqui.svg",
-    "PHYS 122 - Physics 2/Lab/1/1 - DCCIR.md",
-    "CSDS 310 - Algorithms/HW/1/1.md",
     "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Project Layout.canvas",
     "Private/wolf/Browser Android/Project Layout.canvas",

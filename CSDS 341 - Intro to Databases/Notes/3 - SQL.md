@@ -163,19 +163,19 @@ DELETE FROM tablename;
 To add attributes to a table:
 
 ```SQL
-ALTER TABLE tablename ADD COLUMN attr1 type;
+ALTER TABLE tablename ADD attr1 type;
 ```
 
 To remove attributes from a table:
 
 ```SQL
-ALTER TABLE tablename DROP COLUMN attr1;
+ALTER TABLE tablename DROP attr1;
 ```
 
 To change the type of the attribute in a table:
 
 ```SQL
-ALTER TABLE tablename ALTER COLUMN attr1 type;
+ALTER TABLE tablename ALTER attr1 type;
 ```
 
 ### Table Deletion

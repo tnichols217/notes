@@ -1,1 +1,8 @@
 raN
+BEG
+begin
+began
+begins
+beginning
+transform
+translate
