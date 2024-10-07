@@ -13,43 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwru/Finished.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6843b00a74ce0c53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/1/1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bce7a664294075e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/1/Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cca5e6fd5b3f75e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS 122 - Physics 2/Lab/3/tables.md",
+                "file": "PHYS 122 - Physics 2/HW/5/5.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,79 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 122 - Physics 2/Lab/3/3 - DSO-EOM.md",
+                "file": "PHYS 122 - Physics 2/Lab/3/3 - EOM.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
-          {
-            "id": "54ac191ee21cd710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/2/Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d591c3ad68b5ba44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c27b6050eb9a41ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHYS 122 - Physics 2/Notes/Electric Charge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad1917cdeeb79c5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH 307 - Linear Algebra/5 - Vector Norms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1dbc54ca23c3f69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH 307 - Linear Algebra/6 - Matrices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "08a963fa6bcf917c",
-        "type": "tabs",
-        "children": [
           {
             "id": "bc3d772a8bfcc6c7",
             "type": "leaf",
@@ -156,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 122 - Physics 2/HW/4/4.md"
+                "file": "PHYS 122 - Physics 2/HW/5/5.md"
               }
             }
           }
@@ -249,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 122 - Physics 2/HW/4/4.md",
+                "file": "PHYS 122 - Physics 2/HW/5/5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,12 +201,22 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "61fb957ed60de20f",
+  "active": "9b07e3bfb0f599d2",
   "lastOpenFiles": [
-    "PHYS 122 - Physics 2/Lab/3/3 - DSO-EOM.md",
     "PHYS 122 - Physics 2/HW/4/4.md",
-    "PHYS 122 - Physics 2/Lab/3/notes.pdf",
+    "PHYS 122 - Physics 2/HW/5/5.md",
+    "cwru/Finished.md",
+    "PHYS 122 - Physics 2/HW/5",
+    "CSDS 341 - Intro to Databases/HW/1/1.md",
+    "CSDS 341 - Intro to Databases/HW/1/Tables.md",
     "PHYS 122 - Physics 2/Lab/3/tables.md",
+    "PHYS 122 - Physics 2/Lab/3/3 - EOM.md",
+    "MATH 307 - Linear Algebra/6 - Matrices.md",
+    "MATH 307 - Linear Algebra/5 - Vector Norms.md",
+    "PHYS 122 - Physics 2/Notes/Electric Charge.md",
+    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
+    "CSDS 341 - Intro to Databases/HW/2/Tables.md",
+    "PHYS 122 - Physics 2/Lab/3/notes.pdf",
     "PHYS 122 - Physics 2/Lab/3/current.png",
     "PHYS 122 - Physics 2/Lab/3/current.eps",
     "PHYS 122 - Physics 2/Lab/3/voltage.png",
@@ -325,25 +231,16 @@
     "PHYS 122 - Physics 2/Lab/3/Graph2.eps",
     "PHYS 122 - Physics 2/Lab/3/Graph1.png",
     "PHYS 122 - Physics 2/Lab/3/Graph1.eps",
-    "PHYS 122 - Physics 2/Lab/3/wetransfer_graph1-eps_2024-10-04_0018/Resistance vs. Current of a Pasco Circuit Board DC.eps",
     "PHYS 122 - Physics 2/Lab/3/wetransfer_graph1-eps_2024-10-04_0018/Graph2.png",
     "PHYS 122 - Physics 2/Lab/3/wetransfer_graph1-eps_2024-10-04_0018/Graph1.png",
     "PHYS 122 - Physics 2/Lab/2/2 - EPF.md",
     "PHYS 122 - Physics 2/Lab/Lab Report Template.md",
     "PHYS 122 - Physics 2/Lab/3/Worksheet.md",
     "ENGR 130 - Foundation Engineering and Programming/Module/2/Lab 3-4.md",
-    "MATH 307 - Linear Algebra/6 - Matrices.md",
-    "MATH 307 - Linear Algebra/5 - Vector Norms.md",
     "CSDS 341 - Intro to Databases/HW/2/2.md",
-    "CSDS 341 - Intro to Databases/HW/2/Tables.md",
     "CSDS 341 - Intro to Databases/HW/2/attachments/Pasted image 20241003012522.png",
-    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
-    "CSDS 341 - Intro to Databases/HW/1/Tables.md",
     "CSDS 341 - Intro to Databases/Notes/4 - Relational Algebra.md",
     "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
-    "CSDS 341 - Intro to Databases/HW/1/1.md",
-    "cwru/Finished.md",
-    "PHYS 122 - Physics 2/Notes/Electric Charge.md",
     "PHYS 122 - Physics 2/HW/2/2.md",
     "PHYS 122 - Physics 2/HW/4/2be.svg",
     "PHYS 122 - Physics 2/HW/3/3.md",

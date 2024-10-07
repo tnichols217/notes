@@ -1,10 +1,10 @@
-# PHYS 122-119B Lab 3a: DSO
+# PHYS 122-119B Lab 3b: EOM
 
 ```
 Trevor Nichols, John Paul Magbitang
 PHYS 122-119B
 Station 32, Rockefeller 403
-Lab 3a: DSO (Digital Storage Oscilloscope)
+Lab 3a: EOM (Charge to Mass Ratio of the Electron)
 2024-10-03T17:15:58-04:00
 
 Department of Physics,
@@ -14,6 +14,8 @@ Cleveland, Ohio,
 ```
 
 # 1 Abstract
+
+The purpose of this lab is to confirm the established value for $\frac{e}{m}$ in electrons through the usage of Heimholz coils and their expected 
 
 # 2 Theory
 
