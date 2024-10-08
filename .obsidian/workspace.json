@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "929722f0ae86fdb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 310 - Algorithms/HW/2/2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "82e68f80093e633d",
             "type": "leaf",
             "state": {
@@ -52,8 +64,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af1a9815fb840e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e25be9a0f7d5548b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 310 - Algorithms/HW/2/2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbb494ba78b10d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 310 - Algorithms/HW/2/tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6b2cb9169ec3aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 310 - Algorithms/notes/4 - Runtime of Recursive Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -113,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 122 - Physics 2/HW/5/5.md"
+                "file": "CSDS 310 - Algorithms/HW/2/2.md"
               }
             }
           }
@@ -145,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 122 - Physics 2/HW/5/5.md",
+                "file": "CSDS 310 - Algorithms/HW/2/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,8 +262,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9b07e3bfb0f599d2",
+  "active": "e25be9a0f7d5548b",
   "lastOpenFiles": [
+    "CSDS 310 - Algorithms/notes/4 - Runtime of Recursive Methods.md",
+    "CSDS 310 - Algorithms/HW/2/2.md",
+    "CSDS 310 - Algorithms/HW/2/tables.md",
+    "CSDS 310 - Algorithms/notes/3 - Growth of Functions.md",
+    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
+    "CSDS 341 - Intro to Databases/Notes/4 - Relational Algebra.md",
     "PHYS 122 - Physics 2/HW/4/4.md",
     "PHYS 122 - Physics 2/HW/5/5.md",
     "cwru/Finished.md",
@@ -214,7 +281,6 @@
     "MATH 307 - Linear Algebra/6 - Matrices.md",
     "MATH 307 - Linear Algebra/5 - Vector Norms.md",
     "PHYS 122 - Physics 2/Notes/Electric Charge.md",
-    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
     "CSDS 341 - Intro to Databases/HW/2/Tables.md",
     "PHYS 122 - Physics 2/Lab/3/notes.pdf",
     "PHYS 122 - Physics 2/Lab/3/current.png",
@@ -239,16 +305,11 @@
     "ENGR 130 - Foundation Engineering and Programming/Module/2/Lab 3-4.md",
     "CSDS 341 - Intro to Databases/HW/2/2.md",
     "CSDS 341 - Intro to Databases/HW/2/attachments/Pasted image 20241003012522.png",
-    "CSDS 341 - Intro to Databases/Notes/4 - Relational Algebra.md",
     "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
     "PHYS 122 - Physics 2/HW/2/2.md",
     "PHYS 122 - Physics 2/HW/4/2be.svg",
     "PHYS 122 - Physics 2/HW/3/3.md",
     "PHYS 122 - Physics 2/Lab/2/tables.md",
-    "CSDS 310 - Algorithms/notes/4 - Runtime of Recursive Methods.md",
-    "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
-    "CSDS 310 - Algorithms/HW/2/2.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/6/SectionD_tln32_HW6.md",
     "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Project Layout.canvas",
     "Private/wolf/Browser Android/Project Layout.canvas",

@@ -37,6 +37,10 @@ Case 1 and 3:
 $c< c_{crit}\implies T(n)\in\theta(n^{c_{crit}})$
 $c_{crit}< c\implies T(n)\in\theta(n^c)$
 
+For case 3, the regularity condition must also hold true:
+
+$\exists k:af\left( \frac{n}{b}\right)\le kf(n)$
+
 ### For $f(n)\in\theta(n^{c_{crit}}\log^{k}n):k\in\mathbb R$
 
 Case 2a, 2b, and 2c:

@@ -138,6 +138,17 @@ CREATE TABLE tablename
 	FOREIGN KEY (attr1) REFERENCES tablename2(attr1));
 ```
 
+###### UNIQUE
+
+The `UNIQUE` table constraint ensures that the following columns are a `CK`
+
+```SQL
+CREATE TABLE tablename
+	(attr1   type
+	attr2   type
+	UNIQUE (attr1, attr2);
+```
+
 ###### CHECK
 
 Ensures that a certain column always abides by the conditions set in this predicate
@@ -407,6 +418,20 @@ The `BETWEEN` operator requires specifying a range as its second argument, which
 SELECT * FROM tablename WHERE id BETWEEN 0 AND 100;
 ```
 
+##### SOME/ALL
+
+The `SOME` operator is used in conjunction with a comparison operator. It filters out rows based on if they satisfy the condition with any of the values on the right side.
+
+```SQL
+SELECT * FROM tablename WHERE id > SOME (SELECT 100);
+```
+
+`ALL` is similar, except the condition must hold true for all rows on the right side.
+
+##### EXISTS
+
+
+
 ### Functions
 
 #### Aggregate Functions
@@ -420,5 +445,25 @@ SELECT * FROM tablename WHERE id BETWEEN 0 AND 100;
 | `AVG`    | Returns the average of a column             |
 
 #### String Operations
+
+| Function       | Type                                 | Definition                                                           |
+| -------------- | ------------------------------------ | -------------------------------------------------------------------- |
+| `UPPER`        | varchar -> varchar                   | Converts all letters to uppercase                                    |
+| `LOWER`        | varchar -> varchar                   | Converts all letters to lowercase                                    |
+| `CONCAT`       | varchar* -> varchar                  | Concatenates all arguments                                           |
+| `LEN`          | varchar -> int                       | Finds the length of a string                                         |
+| `TRIM`         | varchar -> varchar                   | Trims off leading and trailing whitespace                            |
+| `STRING_SPLIT` | varchar, varchar -> varchar*         | Splits a string by its second argument into a table of strings       |
+| `REPLACE`      | varchar, varchar, varchar -> varchar | Replaces second argument with the third argument in the first string |
+
+String operations are also highly dependant on the DBMS, and different ones support different functions.
+
+##### String Patterns
+
+The `LIKE` operator uses string patterns to compare
+
+These are simply just strings, but with `%` matching any substring and `_` matching any single character.
+
+
 
 # TODO
