@@ -167,13 +167,17 @@ When varying radius, we obtained the following transformed data:
 
 Graphing this data, we obtain the following graph:
 
-![[current.svg#inv_L]]
+![[currente.svg#inv_L]]
 
 ![[PHYS 122 - Physics 2/Lab/3/tables#^currentgraph|tables]]
 
 This leaves us with $a=0.029\pm0.003$ to calculate $\frac{e}{m}$ from.
 
 $\frac{e}{m}=(4\pm1)\times 10^{9}~ \frac{C}{kg}$
+
+We find this value to be significantly different from the commonly accepted value.
+
+Our Intercept ($b$) was relatively high as well. Its expected value is meant to be close to $0$ as we expect close to no extraneous magnetic fields to be impacting our results. Our value was unexpectedly high.
 
 ## 4.2 Voltage vs. Radius
 
@@ -191,13 +195,17 @@ When varying radius, we obtained the following transformed data:
 
 Graphing this data, we obtain the following graph:
 
-![[voltage.svg#inv_L]]
+![[voltagee.svg#inv_L]]
 
 ![[PHYS 122 - Physics 2/Lab/3/tables#^voltagegraph|tables]]
 
 This leaves us with $a=0.8\pm0.1$ to calculate $\frac{e}{m}$ from.
 
 $\frac{e}{m}=(1.2\pm0.3)\times10^{11}~ \frac{C}{kg}$
+
+We find this value to be pretty close to the accepted value, with only a difference of about 1.5 STD.
+
+Our intercept ($b$) was also relatively high, but with our uncertainty, this is close enough to $0$ for it to likely be a random error instead of a systematic issue. We find this to be consistent with theory as there may be little extraneous magnetic fields in the lab.
 
 # 5 Conclusion
 
@@ -207,9 +215,9 @@ We have obtained two different values for $\frac{e}{m}$ by varying Voltage and C
 
 ![[PHYS 122 - Physics 2/Lab/3/tables#^results|tables]]
 
-For the value we got for our varying current, we got an incredibly imprecise and inaccurate answer, to within two orders of magnitude from our expected result. Due to extremely low accuracy, we fail to accept nor reject current theoretical understanding.
+For the value we got for our varying current, we got an incredibly imprecise and inaccurate answer, to within two orders of magnitude from our expected result. Our intercept value was also significantly different from what we expected. Due to extremely low accuracy, we fail to accept nor reject current theoretical understanding.
 
-For the value we got for our varying voltage, we got a result that is remarkably close to the expected solution, to within $1.5~SD$ of the expected result. We fail to reject current theoretical knowledge through this result.
+For the value we got for our varying voltage, we got a result that is remarkably close to the expected solution, to within $1.5~SD$ of the expected result. Additionally, our intercept value was within the bounds random error, so we fail to disprove theory with the intercept. We fail to reject current theoretical knowledge through these results.
 
 I believe a large source of error for our current variance would be due to a low number of sample points and possibly interference from the glass bowl on our last data point, that we did not believe was being interfered with until we saw the plot.
 
