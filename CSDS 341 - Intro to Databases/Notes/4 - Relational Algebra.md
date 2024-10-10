@@ -47,17 +47,30 @@ SELECT table1.*, table2.* FROM table1, table2;
 SELECT table1.attr1, table2.attr2 FROM table1 JOIN table2 ON table1.t2=table2.t1;
 ```
 
-## Join $\bowtie$
+## Join $\Join$
 
-The binary join operation is denoted with $t\bowtie_{a}t$, with a relational predicate in the subscript.
+The binary join operation is denoted with $t\Join_{a}t$, with a relational predicate in the subscript.
 
-$table1\bowtie_{table1.attr1=table2.attr2}table2$
+$table1\Join_{table1.attr1=table2.attr2}table2$
 
 The join operation is a combination of the Cartesian product and a condition through an $\text{ON}$ clause or a $\text{WHERE}$ clause
 
 This operation is equivalent with 
 
 $\sigma_{table1.attr1=table2.attr2}(table1\times table2)$
+
+### Types of Joins
+
+| Type  | Symbol  |
+| ----- | ------- |
+| Inner | $\Join$ |
+| Left  | $⟕$     |
+| Right | $⟖$     |
+| Full  | $⟗$     |
+
+![[3 - SQL#^joins]]
+
+Natural joins simply do not have anything in their subscript.
 
 ## Assignment $\leftarrow$
 

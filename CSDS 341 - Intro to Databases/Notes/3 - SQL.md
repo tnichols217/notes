@@ -283,6 +283,23 @@ The `AS` command renames a column to something else for a query
 SELECT attr1, attr1 * 1.1 AS attr1more FROM tablename
 ```
 
+### CASE
+
+The `CASE` statement is a switch statement that branches what is returned based on `WHEN` conditions.
+
+The `ELSE` statement is used when none of the `WHEN` conditions are true.
+
+`CASE` statements must end with an `END` and all values of `WHEN` statements must be defined with the `THEN` statement.
+
+```SQL
+SELECT attr1, attr2, CASE
+		WHEN attr2 > 30 THEN 'Small'
+		WHEN attr2 > 60 THEN 'Medium'
+		ELSE 'Large'
+	END AS attr2label
+FROM tablename;
+```
+
 ### INSERT
 
 In order to add a tuple into a table:
@@ -366,6 +383,86 @@ GROUP BY attr1
 HAVING AVG(attr2) > 100;
 ```
 
+### WITH
+
+The `WITH` clause allows you to define a temporary table with a name.
+
+```SQL
+WITH temptable (attr1) AS (
+		SELECT COUNT(attr1)
+		FROM tablename
+	),
+	temptable2 (attr1) AS (
+		SELECT COUNT(attr1)
+		FROM tablename
+	)
+SELECT attr1 FROM temptable
+```
+
+### JOIN
+
+There are a few types of `JOIN`s
+
+| Inner | Outer |
+| ----- | ----- |
+|       | Left  |
+|       | Right |
+|       | Full  |
+
+`JOIN`s are structured with an `ON` statement or a `USING` statement
+
+The `ON` statement is any arbitrary condition that must hold true for a row in order for that row to be returned after the join.
+The `USING` statement requires that all of its arguments are equivalent across both tables.
+
+```SQL
+SELECT table1.id, table2.attr1
+FROM table1
+	INNER JOIN table2
+ON table1.id = table2.tid
+USING (oid);
+```
+
+Types of `JOIN`s:
+
+| JOIN               | Definition                                                                                                |
+| ------------------ | --------------------------------------------------------------------------------------------------------- |
+| (INNER) JOIN       | Returns only rows that exist in both tables                                                               |
+| LEFT (OUTER) JOIN  | Return all rows that exist in both tables and whatever rows are unmatched from the left table with nulls  |
+| RIGHT (OUTER) JOIN | Return all rows that exist in both tables and whatever rows are unmatched from the right table with nulls |
+| FULL (OUTER) JOIN  | Return all rows that exist in both tables and whatever rows are unmatched, with nulls                     |
+^joins
+
+The keyword `NATURAL` may also precede any join, eliminating the need for any specification in `ON` or `USING`. `NATURAL JOIN`s match up all matching column names with the same data type and ensures they are the same.
+
+### Nested Queries
+
+Nested queries may be used in the `WHERE` clause with `SOME`, `ALL`, or `EXISTS` or an aggregator function.
+
+With aggregation, it may also be used in the `SELECT`
+
+```SQL
+SELECT attr1, (
+		SELECT COUNT(*)
+		FROM tablename
+		WHERE tablename.attr2 = tablename2.attr2
+	)
+	AS attrcount
+	FROM tablename2;
+```
+
+It may also be used in the `FROM` statement where the return of a `SELECT` will act as the next table to be selected from.
+
+```SQL
+SELECT attr1, avg_attr2
+FROM (
+	SELECT attr1, AVG(attr2)
+	FROM tablename
+	GROUP BY attr2
+	)
+	AS newtable (attr1, avg_attr2)  
+	WHERE avg_attr2 > 100;
+```
+
 ### Operations
 
 #### Arithmetic Operations
@@ -430,7 +527,14 @@ SELECT * FROM tablename WHERE id > SOME (SELECT 100);
 
 ##### EXISTS
 
+Checks whether the following statement has any rows in it. If no rows, returns false.
 
+```SQL
+SELECT * FROM tablename WHERE EXISTS (
+	SELECT * FROM tablename2
+	WHERE tablename.attr1 = tablename2.attr1
+)
+```
 
 ### Functions
 
@@ -463,7 +567,3 @@ String operations are also highly dependant on the DBMS, and different ones supp
 The `LIKE` operator uses string patterns to compare
 
 These are simply just strings, but with `%` matching any substring and `_` matching any single character.
-
-
-
-# TODO

@@ -28,6 +28,6 @@ procedure mergeArrays(k, n, a[k][n/k])
 	# theta((n-k) log(k) + n) => theta((n-k) log(k))
 	
 	return output
-	# overall complexity will be theta((n+k) log(k))
+	# overall complexity will be theta(n log(k))
 ```
 ^4

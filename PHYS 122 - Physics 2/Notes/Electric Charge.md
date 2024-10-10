@@ -69,3 +69,44 @@ Since the internals of a perfect conductor always have $\vec E=\vec 0$
 Its surface charge must always be
 
 $\sigma=\epsilon_{0}\vec E$
+
+## Dipole moments
+
+A dipole moment is when two oppositely charged point charges are separated by $\vec d$ (from $-$ to $+$) and both have a charge magnitude of $q$
+
+$\vec p=q\vec d$
+Where $\vec p$ is called the dipole moment
+
+$\vec P=\frac{\sum\limits_A \vec p}{A}$
+Where $\vec P$ is the dipole density and $A$ is the area
+
+$\tau=\vec p\times \vec E$
+This torque is applied when a dipole $\vec p$ is in a uniform field $\vec E$
+
+$U=\vec E\cdot \vec p$
+The dipole itself has a potential ($U$) of the dot product with the uniform field $\vec E$
+
+## Dielectrics
+
+$Q_{bound}=-\oint da ~\hat n\cdot\vec P$
+
+$Q=Q_{free}+Q_{bound}=\epsilon_{0}\oint da ~\hat n\cdot\vec E$
+
+$Q_{free}=\oint da ~\hat n\cdot(\epsilon_{0}\vec E+\vec P)$
+
+When on a surface with free space on one side,
+$\sigma_{bound}=\hat n\cdot \vec P$
+
+If internal and on the side the normal is pointing there is another dielectric,
+$\sigma_{bound}=\hat n\cdot\vec P_{1}-\hat n\cdot\vec P_{2}$
+
+Gauss Law states:
+$\sigma=\epsilon_{0}\hat n\cdot(\vec E_{1}-\vec E_{2})$
+
+Therefore,
+$\sigma_{free}=\hat n\cdot(\epsilon_{0}\vec E_{1}+\vec P_{1})-\hat n\cdot(\epsilon_{0}\vec E_{2}+\vec P_{2})$
+
+### Linear Isotropic Dielectrics
+
+Only Linear Isotropic Dielectrics display the following property:
+$\vec P=\chi \epsilon_{0}\vec E$
