@@ -1,7 +1,7 @@
 ---
 ~
 ---
- # Electric Charges
+# Electric Charges
 
 There are two types of charges: positive and negative.
 
@@ -33,11 +33,18 @@ $|\vec E|=\frac{1}{4\pi \epsilon_{0}} \frac{q}{r^{2}}$
 
 ## Gauss Law
 
-$\Sigma\phi\propto Q_{enc}$
+$\Sigma\Phi\propto Q_{enc}$
 
-$\Sigma\phi=\frac{Q_{enc}}{\epsilon_{0}}$
+$\Sigma\Phi=\frac{Q_{enc}}{\epsilon_{0}}$
 
-The sum of potential across an arbitrary enclosing surface is proportional to the enclosed charge.
+The sum of flux across an arbitrary enclosing surface is proportional to the enclosed charge.
+
+Where flux is defined as:
+
+$\Phi=\hat n\cdot \vec E$
+$\Sigma\Phi=\int\hat n\cdot \vec E~da$
+
+Where $\hat n$ is the normal of the surface and $da$ integrates over the entire area of the surface.
 
 ### Gauss Law: Spheres
 
@@ -110,3 +117,24 @@ $\sigma_{free}=\hat n\cdot(\epsilon_{0}\vec E_{1}+\vec P_{1})-\hat n\cdot(\epsil
 
 Only Linear Isotropic Dielectrics display the following property:
 $\vec P=\chi \epsilon_{0}\vec E$
+## Capacitors
+
+$C=\frac{Q}{V}$
+$U=\frac{1}{2}CV^{2}$
+
+Where $Q$ is the charge of the positive terminal
+$V$ is the potential difference between the terminals
+
+$C=(\kappa\epsilon_{0}) \frac{A}{d}$
+
+Where $d$ is the distance between the two plates
+$A$ is the surface area of a plate
+$\kappa$ is the dielectric constant of the dielectric in the capacitor
+
+### Parallel Capacitors
+
+$C=C_{1}+C_{2}$
+
+### Series Capacitors
+
+$C=\left( \frac{1}{C_{1}}+\frac{1}{C_{2}} \right)$
