@@ -1,0 +1,15 @@
+{
+  "sharedFolders": [
+    {
+      "guid": "2d9918af-c87f-46d1-9944-77d712b4cee0",
+      "path": "Shared/Browser Android",
+      "relay": "736e9919-6436-4b9a-bb13-75a29d0e88cc"
+    }
+  ],
+  "debugging": false,
+  "enableUpdateYDocFromDiskBuffer": false,
+  "enableDownloadOnAddToVault": false,
+  "enableUploadOnShare": false,
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false
+}
