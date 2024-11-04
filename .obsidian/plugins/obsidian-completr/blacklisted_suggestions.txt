@@ -21,3 +21,5 @@ pRo
 string
 String
 strings
+edit
+editor
