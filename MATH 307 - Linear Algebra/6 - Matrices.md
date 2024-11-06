@@ -137,3 +137,10 @@ Simply treat the matrix like a huge vector and find the norm of that.
 
 This is normally the 2-norm. This is also the 2-norm of the 2-norms of the columns or rows.
 
+## SVD Decomposition
+
+The SVD decomposition decomposes any arbitrary matrix $A\in m\times n$ into three matrices $U\Sigma V^{T}$ where $U\in m\times m$, $\Sigma\in m\times n$, $V\in n\times n$.
+
+$\Sigma$ is a diagonal matrix where each successive element is smaller than the previous.
+$U$, $V$ are both unitary matrices, which may be inverted by transposing them.
+

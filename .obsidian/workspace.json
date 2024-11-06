@@ -8,43 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ed57c6b7285b73d",
+            "id": "8604b12815e682d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/thetachi/quiz.md",
+                "file": "CSDS 341 - Intro to Databases/HW/4/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quiz"
-            }
-          },
-          {
-            "id": "bdd163d5c2a8181a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CSDS 310 - Algorithms/HW/3/3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3"
-            }
-          },
-          {
-            "id": "7260151418a715ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 310 - Algorithms/HW/3/tables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tables"
+              "title": "1"
             }
           }
         ]
@@ -113,10 +87,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/thetachi/quiz.md"
+                "file": "CSDS 341 - Intro to Databases/HW/4/1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of quiz"
+              "title": "Outline of 1"
             }
           }
         ]
@@ -212,37 +186,42 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "9ed57c6b7285b73d",
+  "active": "8604b12815e682d1",
   "lastOpenFiles": [
+    "MATH 307 - Linear Algebra/6 - Matrices.md",
+    "CSDS 341 - Intro to Databases/HW/4/1.md",
+    "CSDS 341 - Intro to Databases/HW/4",
+    "PHYS 122 - Physics 2/Lab/5/5.md",
+    "CSDS 310 - Algorithms/HW/3/3.pdf",
     "CSDS 310 - Algorithms/HW/3/3.md",
+    "PHYS 122 - Physics 2/Lab/4/4.md",
+    "PHYS 122 - Physics 2/Lab/5/5final.pdf",
+    "PHYS 122 - Physics 2/Lab/5/Report Cover.pdf",
+    "PHYS 122 - Physics 2/Lab/Report Cover.pdf",
+    "PHYS 122 - Physics 2/Lab/5/5.pdf",
+    "PHYS 122 - Physics 2/Lab/5/tables.md",
+    "PHYS 122 - Physics 2/Lab/5/data/20.png",
+    "PHYS 122 - Physics 2/Lab/5/data/21.png",
+    "PHYS 122 - Physics 2/Lab/5/data/12.png",
+    "PHYS 122 - Physics 2/Lab/5/data/Graph01.png",
+    "PHYS 122 - Physics 2/Lab/5/data/4.png",
+    "PHYS 122 - Physics 2/Lab/5/data/5.png",
+    "PHYS 122 - Physics 2/Lab/5/data/6.png",
+    "PHYS 122 - Physics 2/Lab/5/data/10.png",
+    "PHYS 122 - Physics 2/Lab/5/data/10.jpg",
+    "PHYS 122 - Physics 2/Lab/5/data/11.png",
+    "PHYS 122 - Physics 2/Lab/5/PHYS122Lab5.pdf",
+    "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions.md",
+    "CSDS 310 - Algorithms/HW/3/tables.md",
     "Private/thetachi/quiz.md",
     "Private/thetachi",
-    "CSDS 310 - Algorithms/HW/3/3.pdf",
-    "CSDS 310 - Algorithms/HW/3/tables.md",
     "PHYS 122 - Physics 2/Notes/Electric Charge.md",
     "PHYS 122 - Physics 2/HW/7/7.md",
     "PHYS 122 - Physics 2/Lab/5/data/MAG.opju",
     "PHYS 122 - Physics 2/Lab/5/data/MAG.cmbl",
-    "PHYS 122 - Physics 2/Lab/5/data/Graph03.png",
-    "PHYS 122 - Physics 2/Lab/5/data/Graph03.eps",
-    "PHYS 122 - Physics 2/Lab/5/data/Graph02.png",
-    "PHYS 122 - Physics 2/Lab/5/data/Graph02.eps",
-    "PHYS 122 - Physics 2/Lab/5/data/Graph01.png",
-    "PHYS 122 - Physics 2/Lab/5/data/Graph01.eps",
-    "PHYS 122 - Physics 2/Lab/5/data/6.png",
-    "PHYS 122 - Physics 2/Lab/5/data/6.cmbl",
-    "PHYS 122 - Physics 2/Lab/5/data/5.png",
-    "PHYS 122 - Physics 2/Lab/5/data/5.cmbl",
-    "PHYS 122 - Physics 2/Lab/5/data/4.png",
-    "PHYS 122 - Physics 2/Lab/5/data/4.cmbl",
-    "PHYS 122 - Physics 2/Lab/5/data/3.png",
-    "PHYS 122 - Physics 2/Lab/5/data/21.png",
-    "PHYS 122 - Physics 2/Lab/5/data/20.png",
-    "PHYS 122 - Physics 2/Lab/5/data/2.png",
     "PHYS 122 - Physics 2/HW/7/tables.md",
     "PHYS 121 - Physics 1/HW/1/1.md",
     "PHYS 122 - Physics 2/HW/6/6.md",
-    "MATH 307 - Linear Algebra/6 - Matrices.md",
     "CSDS 341 - Intro to Databases/Project/ER Diagram.md",
     "CSDS 310 - Algorithms/HW/2/2.md",
     "PHYS 122 - Physics 2/HW/5/5.md",
@@ -255,12 +234,7 @@
     "Shared/Browser Android/To dos.md",
     "Shared/Browser Android/Resources.md",
     "Shared/Browser Android/General Overview.md",
-    "Shared/Browser Android/Market Research.md",
     "Shared/Browser Android/Technical/Project Layout.canvas",
-    "Shared/Browser Android/Technical/Puzzle Pieces/Shared Emulator Server Host.md",
-    "Shared/Browser Android/Technical/Puzzle Pieces/Phone Runner.md",
-    "Shared/Browser Android/Technical/Puzzle Pieces/Phone Image.md",
-    "Shared/Browser Android/Technical/Puzzle Pieces/Phone Drive.md",
     "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Project Layout.canvas",
     "Private/wolf/Browser Android/Project Layout.canvas",
