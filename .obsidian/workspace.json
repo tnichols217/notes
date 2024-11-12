@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/2/Tables.md",
+                "file": "CSDS 341 - Intro to Databases/Project/ER Diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tables"
+              "title": "ER Diagram"
             }
           },
           {
@@ -117,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "28c69e3aca2b1263",
@@ -131,10 +130,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/2/Tables.md"
+                "file": "CSDS 341 - Intro to Databases/Project/ER Diagram.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tables"
+              "title": "Outline of ER Diagram"
             }
           }
         ]
@@ -232,6 +231,7 @@
   },
   "active": "08b3c2ee6bf9edfc",
   "lastOpenFiles": [
+    "CSDS 341 - Intro to Databases/HW/2/Tables.md",
     "CSDS 341 - Intro to Databases/Project/ER Diagram.md",
     "CSDS 341 - Intro to Databases/HW/4/tables.md",
     "CSDS 341 - Intro to Databases/HW/4/4.md",

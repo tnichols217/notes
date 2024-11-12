@@ -1,13 +1,17 @@
 ```mermaid
 erDiagram
+	barcode {
+		int manufacturer PK, FK
+		int gsPrefix PK
+		int productCode PK
+		int itemID FK "NOT NULL"
+		int barcode "Derived"
+	}
 	item {
 		int id PK
 		varchar(255) name "NOT NULL"
 		int currentPrice "NOT NULL"
 		int supplier FK "NOT NULL"
-		int manufacturer FK
-		int gsPrefix
-		int productCode
 		varchar(10) unitType "NOT NULL"
 		int discount "NOT NULL"
 	}
@@ -37,9 +41,8 @@ erDiagram
 		int paymentID FK "NOT NULL"
 	}
 	shift {
-		int id PK
-		int employeeID FK "NOT NULL"
-		smalldatetime startTime "NOT NULL"
+		int employeeID PK,FK "NOT NULL"
+		smalldatetime startTime PK "NOT NULL"
 		smalldatetime endTime "NOT NULL"
 		int wage "NOT NULL"
 		int paymentID FK "NOT NULL"
@@ -73,8 +76,9 @@ erDiagram
 		date expiryDate "NOT NULL"
 		int unitCost "NOT NULL"
 	}
+	barcode }o--|| manufacturer : "manufacturer-id"
+	barcode }o--|| item : "itemID-id"
 	item }o--|| supplier : "supplier-id"
-	item }o--|| manufacturer : "manufacturer-id"
 	employee ||--o{ sale : "id-employeeID"
 	employee ||--o{ shift : "id-employeeID"
 	shift ||--o| payment : "paymentID-id"
