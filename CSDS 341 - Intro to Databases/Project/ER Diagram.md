@@ -48,6 +48,7 @@ erDiagram
 		int id PK
 		smalldatetime timestamp "NOT NULL"
 		int chequeNumber "NOT NULL"
+		int amount "NOT NULL"
 	}
 	saleItem {
 		int saleID PK,FK

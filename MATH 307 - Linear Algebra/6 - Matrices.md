@@ -128,6 +128,18 @@ $\|A\|_{(n,m)}=\sup\limits_{x\ne 0}\frac{\|Ax\|_{(m)}}{\|x\|_{(n)}}$
 
 This practically gives you the maximum scaling a matrix can do on a vector: giving the maximum transformed norm over the original norm.
 
+#### 1-norm
+
+The Induced 1-norm of a matrix may be easily calculated by taking the maximum of the column sums.
+
+This makes sense as we may construct an input vector with all zeros except for a 1 corresponding to the maximum column. This vector will be scaled up to the sum of that column.
+
+#### $\infty$-norm
+
+The calculation for the $\infty$ norm is extremely similar, just that we take the maximum of the rows.
+
+This makes sense as it maximises one particular component of the output vector, thus giving the max $\infty$-norm of the matrix.
+
 ### Frobenius Norm
 
 Given a vector norm:
