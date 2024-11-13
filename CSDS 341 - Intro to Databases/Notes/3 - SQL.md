@@ -213,11 +213,103 @@ CREATE UNIQUE INDEX indexname ON tablename(attr1)
 
 `DROP INDEX` may also be used to remove indexes.
 
+### Creating Views
+
+Views are basically virtual tables can can mostly be treated like tables when selecting data. You define them similar to a normal select query.
+
+#### Simple View
+
+A simple view can be inserted, deleted, and selected from.
+
+It is only allowed to view one specific table, and cannot use aggregation functions or grouping.
+
+An example of creating a simple view is
+
+```SQL
+CREATE VIEW green_houses AS
+	SELECT * FROM houses
+	WHERE color='green';
+```
+
+Unintuitively, you are able to `INSERT` into this view a house that is not green. For this reason, inserting into views is not recommended as it probably will not behave as you would expect.
+
+#### Complex View
+
+Complex views are able to select or join from multiple tables, use grouping and aggregation functions, and practically any normal ability a `SELECT` query is able to.
+
+You cannot do anything but select from a complex view.
+
+```SQL
+CREATE VIEW house_with_color AS
+	SELECT h.*, c.hex
+	FROM houses as h
+	JOIN colors as c
+	WHERE h.color=c.name;
+```
+
+### Stored Procedures
+
+Stored procedures allow you to save common sets of queries into a set "function" for you to call back later. They are normally able to take in variables and send back variables too.
+
+The implementation of stored procedures is highly dependent on the DBMS being used.
+
+In MSSQL:
+
+```SQL
+CREATE OR ALTER PROCEURE procedurename
+	@var1 AS TYPE,
+	@var2 AS INT
+AS
+BEGIN
+	INSERT INTO tablename (name, amount) VALUES (
+		@var1, @var2
+	)
+END;
+
+EXEC procedurename @var1='name', @var2=2;
+```
+
+### User Management
+
+#### Roles
+
+Roles are groups of people that have set permissions.
+
+To create a role,
+
+```SQL
+CREATE ROLE rolename;
+DROP ROLE rolename;
+```
+
+To add users to a role,
+
+```SQL
+ALTER ROLE rolename ADD MEMBER username;
+ALTER ROLE rolename DROP MEMBER username;
+```
+
+#### Permissions
+
+To grant permissions on a table or view,
+
+```SQL
+GRANT [SELECT, INSERT, UPDATE, DELETE] ON tablename TO rolename
+```
+
+
+
 ### Authorization
 
 # TODO
 
 ## SQL
+
+All queries done in SQL are considered part of a transaction.
+
+A transaction is group of queries that are expected to all execute togehter.
+
+A transaction must either succeed or fail as a whole. If any part fails, the database should roll back to the previous state.
 
 ### FROM
 

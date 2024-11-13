@@ -29,7 +29,7 @@
               "state": {
                 "file": "CSDS 341 - Intro to Databases/Project/ER Diagram.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "ER Diagram"
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/4/4.md",
+                "file": "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4"
+              "title": "3 - SQL"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,10 +130,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/Project/ER Diagram.md"
+                "file": "CSDS 341 - Intro to Databases/Notes/3 - SQL.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ER Diagram"
+              "title": "Outline of 3 - SQL"
             }
           }
         ]
@@ -229,13 +229,16 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "08b3c2ee6bf9edfc",
+  "active": "c496e8899975fe31",
   "lastOpenFiles": [
-    "CSDS 341 - Intro to Databases/HW/2/Tables.md",
-    "CSDS 341 - Intro to Databases/Project/ER Diagram.md",
-    "CSDS 341 - Intro to Databases/HW/4/tables.md",
+    "CSDS 341 - Intro to Databases/Notes/5 - Entities.md",
+    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
+    "CSDS 341 - Intro to Databases/Notes/4 - Relational Algebra.md",
     "CSDS 341 - Intro to Databases/HW/4/4.md",
     "MATH 307 - Linear Algebra/6 - Matrices.md",
+    "CSDS 341 - Intro to Databases/Project/ER Diagram.md",
+    "CSDS 341 - Intro to Databases/HW/2/Tables.md",
+    "CSDS 341 - Intro to Databases/HW/4/tables.md",
     "CSDS 310 - Algorithms/HW/3/3.md",
     "CSDS 341 - Intro to Databases/HW/4/4.pdf",
     "CSDS 341 - Intro to Databases/HW/4/attachments/Pasted image 20241107193651.png",
@@ -251,7 +254,6 @@
     "PHYS 122 - Physics 2/Notes/DC Circuits.md",
     "PHYS 122 - Physics 2/Notes/Electric Charge.md",
     "PHYS 122 - Physics 2/HW/8",
-    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
     "CSDS 341 - Intro to Databases/HW/1/1.md",
     "CSDS 341 - Intro to Databases/HW/2/2.md",
     "CSDS 341 - Intro to Databases/HW/3/3.md",
@@ -275,8 +277,6 @@
     "STAT 345 - Theoretical Statistics/Textbook/3 - Common Distributions.md",
     "Private/thetachi/quiz.md",
     "PHYS 122 - Physics 2/HW/7/tables.md",
-    "PHYS 122 - Physics 2/HW/6/6.md",
-    "CSDS 310 - Algorithms/HW/2/2.md",
     "Shared/Browser Android/Technical/Project Layout.canvas",
     "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Project Layout.canvas",

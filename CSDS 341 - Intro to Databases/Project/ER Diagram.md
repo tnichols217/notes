@@ -14,10 +14,12 @@ erDiagram
 		int supplier FK "NOT NULL"
 		varchar(10) unitType "NOT NULL"
 		int discount "NOT NULL"
+		int derivedCurrentStock "View-Derived"
+		int cachedCurrentStock "Default 0"
 	}
 	manufacturer {
 		int id PK
-		varchar(255) name "NOT NULL"
+		varchar(255) name
 		int contact
 	}
 	supplier {
@@ -32,6 +34,7 @@ erDiagram
 		int contact "NOT NULL"
 		int SSN "NOT NULL"
 		int currentWage "NOT NULL"
+		int unpaidAmount "View-Derived"
 	}
 	sale {
 		int id PK
@@ -39,6 +42,8 @@ erDiagram
 		smalldatetime timestamp "NOT NULL"
 		int tip "NOT NULL"
 		int paymentID FK "NOT NULL"
+		int total "View-Derived"
+		int tipAmount "View-Derived"
 	}
 	shift {
 		int employeeID PK,FK "NOT NULL"
@@ -46,35 +51,41 @@ erDiagram
 		smalldatetime endTime "NOT NULL"
 		int wage "NOT NULL"
 		int paymentID FK "NOT NULL"
+		int duration "Derived"
+		int totalWage "Derived"
 	}
 	payment {
 		int id PK
 		smalldatetime timestamp "NOT NULL"
 		int chequeNumber "NOT NULL"
-		int amount "NOT NULL"
+		int amount "Derived"
 	}
 	saleItem {
 		int saleID PK,FK
 		int itemID PK,FK
-		numeric quantity "NOT NULL"
+		int quantity "NOT NULL"
 		int unitCost "NOT NULL"
 		int discount "NOT NULL"
+		int totalCost "Derived"
 	}
 	restock {
 		int id PK
 		int supplierID FK "NOT NULL"
 		varchar(10) status "NOT NULL"
 		date orderDate "NOT NULL"
+		date confirmDate
 		date deliveryDate
 		date restockDate
 		int additionalCost "NOT NULL"
+		int totalCost "View-Derived"
 	}
 	restockItem {
 		int restockID PK,FK
 		int itemID PK,FK
-		numeric quantity "NOT NULL"
+		int quantity "NOT NULL"
 		date expiryDate "NOT NULL"
 		int unitCost "NOT NULL"
+		int totalCost "Derived"
 	}
 	barcode }o--|| manufacturer : "manufacturer-id"
 	barcode }o--|| item : "itemID-id"
