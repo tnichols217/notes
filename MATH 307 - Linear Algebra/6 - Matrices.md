@@ -149,10 +149,74 @@ Simply treat the matrix like a huge vector and find the norm of that.
 
 This is normally the 2-norm. This is also the 2-norm of the 2-norms of the columns or rows.
 
+## Four Fundamental Subspaces
+
+The four fundamental subspaces of a matrix $A$ are the
+
+1. Range of $A$
+2. Null Space of $A$
+3. Null Space of $A^{T}$
+4. Range of $A^{T}$
+
+### Orthogonal Spaces
+
+Two spaces $V$ and $W$ are orthogonal iff
+$\forall v\in V,w\in W:v^{T}w=0\iff V\perp W$
+
+### Range of $A$: $\mathbfscr R(A)$
+
+$v\in\mathbfscr R(A)\iff\exists w:Aw=v$
+
+With $a_{i}$ being the $i$th column of $A$
+$\mathbfscr R(A)=\text{span}\{a_1,\dots,a_{m}\}$
+
+Meaning the range is equivalent to the span of the columns of $A$
+
+### Null Space of $A$: $\mathbfscr N(A)$
+
+$v\in\mathbfscr N(A)\iff Av=\vec 0$
+
+### Perpendicularity of subspaces of $A$
+
+Given that
+
+$v\in\mathbfscr R(A)\iff\exists w:Aw=v$
+$u\in\mathbfscr N(A^{T})\iff A^{T}u=\vec 0$
+
+$u^{T}A=\vec 0^{T}$
+$u^{T}Aw=\vec 0^{T}w$
+$u^{T}v=0=\langle u,v\rangle$
+
+$\implies \mathbfscr R(A)\perp \mathbfscr N(A^{T})$
+
+The same is true for $A^{T}$
+
 ## SVD Decomposition
 
 The SVD decomposition decomposes any arbitrary matrix $A\in m\times n$ into three matrices $U\Sigma V^{T}$ where $U\in m\times m$, $\Sigma\in m\times n$, $V\in n\times n$.
 
 $\Sigma$ is a diagonal matrix where each successive element is smaller than the previous.
 $U$, $V$ are both unitary matrices, which may be inverted by transposing them.
+
+The value $r$ commonly represents the number of non-zero values upon $\Sigma$'s diagonal. This represents the dimension of the range of $A$.
+
+The first value in the $\Sigma$ matrix is equivalent to the 2-norm of the matrix $A$
+
+The matrix $A$ is only invertible if the entire diagonal of the $\Sigma$ matrix is positive. The inverse will be equivalent to $V\Sigma^{-1}U^{T}$.
+
+### Lean SVD
+
+$A=\sum\limits_{j=1}^{r}\sigma_{j}u_{j}v_{j}^{T}$
+
+Where $u_{j}$ is the $j$th column of $U$ and $v_{j}$ is the $j$th column of $V$
+
+### Relation to the four fundamental subspaces
+
+The range of $A$ would be equivalent to the span of the first $r$ columns of $U$.
+
+If you take the decomposition $U\Sigma V^{T}$, $U\Sigma$ results in an $m\times n$ matrix with the first $r$ columns being multiples of the first $r$ columns of $U$, and the remaining columns being $0$. Now, any matrix multiplication from this will be a linear combination of the first $r$ columns of $U$.
+
+This makes the remaining columns of $U$ the null space of $A^{T}$
+
+The same is true of $A^{T}$ and the matrix $V$.
 

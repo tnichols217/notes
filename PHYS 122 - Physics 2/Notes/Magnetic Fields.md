@@ -40,6 +40,7 @@ The flux of the magnetic field across any surface is always 0.
 
 ## Ampere's Law
 
+The integration of the circulation of a wire's magnetic field will be proportional to the current in the wire.
 $\oint d\vec l\cdot\vec B=\mu_{0}I$
 
 ## Faraday's Flux Rule
