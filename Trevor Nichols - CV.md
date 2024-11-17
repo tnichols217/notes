@@ -23,7 +23,7 @@ date created: 2023-09-03 21:58
 ## Skills
 > [!col]
 >> [!col-md]
->> 5+ years
+>> 7+ years
 >> - Linux
 >> - Docker
 >> - Podman
@@ -34,7 +34,7 @@ date created: 2023-09-03 21:58
 >> - Powerpoint
 >
 >> [!col-md]
->> 4 years
+>> 6 years
 >> - Node.js
 >> - JS/TS
 >> - Github Actions
@@ -46,12 +46,12 @@ date created: 2023-09-03 21:58
 >> - Python
 >
 >> [!col-md]
->> 2 years
+>> 4 years
 >> - MD Docs
 >> - QEMU
 >
 >> [!col-md]
->> 1 year
+>> 3 years
 >> - .NET
 >> - Azure
 >> - Microsoft Server
@@ -96,18 +96,41 @@ date created: 2023-09-03 21:58
 
 Contributed to
 - NixOS/nixpkgs
-- tnichols217/obsidian-columns (creator)
+- tnichols217/obsidian-columns 200+ stars, 40k+ downloads (creator)
 - denolehov/obsidian-git
+
+### Audio Visual Technician
+
+**Sep 2023 - Ongoing | MediaVision | Cleveland, OH, USA**
+
+- **Maintained classroom technologies** including both audio and visual systems
+- **Facilitated classroom recordings**
+
+### Facility Assistant
+
+**Oct 2023 - Ongoing | Tinkham Veale University Center | Cleveland, OH, USA**
+
+- **Worked on small and large teams** to prepare the venue for small and large events
+
+### Research Contributor
+
+**Sep 2024 - Ongoing | AI4EDU | Cleveland, OH, USA**
+
+- **Built REST backend services** for our AI chatbot using fastAPI
+- **Built and maintained databases** using PostgreSQL
+- **Developed workflows and CI/CD** using GitHub workflows to speed up delivery of our product
 
 ## Education
 
 ### Case Western Reserve University
 
 **Bachelor of Science (B.S.) in Computer Science Candidate**
+Sec. Bachelors in Data Science, Computer Engineering, Electrical Engineering
 Aug 2023 - May 2027 |  Cleveland, OH, US
-GPA 3.789
+Senior Status, GPA 3.805
 - Questbridge scholar
 - University merit-based scholar
+- Dean's High Honors x2
 
 Studied in
 - Artificial Intelligence
@@ -115,6 +138,12 @@ Studied in
 - Theoretical Statistics
 - Hardware Logic Design
 - Algorithms
+- Database Systems
+
+Participated in
+- The Fraternity of Theta Chi - Brother since 2024
+- CWRUnix (Case Linux Club) - Honorary exec member
+- The Board Meeting - Active Member
 
 ### Dalat International School
 

@@ -5,7 +5,7 @@
   "promptDelete": false,
   "foldHeading": true,
   "foldIndent": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "vimMode": false,
   "pdfExportSettings": {
     "includeName": false,

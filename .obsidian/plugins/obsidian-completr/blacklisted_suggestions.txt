@@ -24,3 +24,5 @@ strings
 edit
 editor
 process
+Min
+mine
