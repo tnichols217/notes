@@ -93,4 +93,4 @@ $\Delta_{j-1}<\Delta_{j-1}^{*}$
 
 Thus, the delay after any swap in the swap order $W_{i}$ will lead to a less optimal solution. As such, our original solution $S$ will be more optimal than $S^{*}$ regardless of how you choose $S^*$ to be, assuming $S^{*}\ne S$.
 ```
-^2r
+^3r

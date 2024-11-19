@@ -22,17 +22,85 @@
             }
           },
           {
-            "id": "09464741f79969a8",
+            "id": "8d3e062a920db85d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 133 - Intro to Data Science/HW/4.md",
+                "file": "CSDS 310 - Algorithms/HW/4/4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "4"
+            }
+          },
+          {
+            "id": "2d11ac79793f502e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSDS 310 - Algorithms/HW/4/tables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tables"
+            }
+          },
+          {
+            "id": "70e26f867ef73de2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/6/notes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "notes"
+            }
+          },
+          {
+            "id": "f4c8915cda3e46e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/6/tables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tables"
+            }
+          },
+          {
+            "id": "39776c05f6614147",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/3/3 - EOM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - EOM"
+            }
+          },
+          {
+            "id": "4d5e2492d4f7a231",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 122 - Physics 2/Lab/Lab Report Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lab Report Template"
             }
           }
         ],
@@ -102,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 133 - Intro to Data Science/HW/4.md"
+                "file": "CSDS 310 - Algorithms/HW/4/4.md"
               },
               "icon": "lucide-list",
               "title": "Outline of 4"
@@ -201,11 +269,24 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "09464741f79969a8",
+  "active": "8d3e062a920db85d",
   "lastOpenFiles": [
-    "CSDS 310 - Algorithms/HW/4/4.md",
-    "CSDS 133 - Intro to Data Science/HW/4.md",
     "CSDS 310 - Algorithms/HW/4/tables.md",
+    "CSDS 310 - Algorithms/HW/4/4.md",
+    "PHYS 122 - Physics 2/Lab/6/6.md",
+    "PHYS 122 - Physics 2/Lab/6/tables.md",
+    "PHYS 122 - Physics 2/Lab/6/notes.pdf",
+    "PHYS 122 - Physics 2/Lab/Lab Report Template.md",
+    "PHYS 122 - Physics 2/Lab/3/3 - EOM.md",
+    "PHYS 122 - Physics 2/Lab/3/3 - DSO.md",
+    "PHYS 122 - Physics 2/Lab/4/4.md",
+    "PHYS 122 - Physics 2/Lab/5/5.md",
+    "PHYS 122 - Physics 2/Lab/6/data/Graph01.png",
+    "PHYS 122 - Physics 2/Lab/6/data/4.PNG",
+    "PHYS 122 - Physics 2/Lab/6/data/3.PNG",
+    "PHYS 122 - Physics 2/Lab/6/data/2.PNG",
+    "PHYS 122 - Physics 2/Lab/6/data/1.PNG",
+    "CSDS 133 - Intro to Data Science/HW/4.md",
     "CSDS 310 - Algorithms/HW/4/4.pdf",
     "Trevor Nichols - CV.md",
     "CSDS 310 - Algorithms/HW/4",
@@ -224,26 +305,12 @@
     "PHYS 122 - Physics 2/Practice Problems/3.md",
     "PHYS 122 - Physics 2/Notes/Magnetic Fields.md",
     "PHYS 122 - Physics 2/Lab/6/data/2.cmbl",
-    "PHYS 122 - Physics 2/Lab/6/data/1.PNG",
     "PHYS 122 - Physics 2/Lab/6/data/1.cmbl",
-    "PHYS 122 - Physics 2/Lab/6/data/Lab6.opju",
-    "PHYS 122 - Physics 2/Lab/6/data/Graph01.png",
-    "PHYS 122 - Physics 2/Lab/6/data/4.PNG",
-    "PHYS 122 - Physics 2/Lab/6/data/3.PNG",
-    "PHYS 122 - Physics 2/Lab/6/data/2.PNG",
     "PHYS 122 - Physics 2/HW/8/8.md",
     "PHYS 122 - Physics 2/Notes/Electric Charge.md",
     "MATH 307 - Linear Algebra/1 - Intro.md",
     "MATH 307 - Linear Algebra/2 - Functions and Sets.md",
     "MATH 307 - Linear Algebra/3 - Vector Spaces.md",
-    "MATH 307 - Linear Algebra/4 - Inner Products.md",
-    "MATH 307 - Linear Algebra/5 - Vector Norms.md",
-    "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
-    "CSDS 341 - Intro to Databases/Notes/5 - Entities.md",
-    "CSDS 341 - Intro to Databases/Notes/4 - Relational Algebra.md",
-    "CSDS 341 - Intro to Databases/HW/2/Tables.md",
-    "CSDS 341 - Intro to Databases/HW/4/tables.md",
-    "CSDS 310 - Algorithms/HW/3/3.md",
     "CSDS 341 - Intro to Databases/HW/4/attachments/Pasted image 20241107193651.png",
     "CSDS 341 - Intro to Databases/HW/4/attachments/Pasted image 20241107192904.png",
     "PHYS 122 - Physics 2/Lab/5/data/20.png",
