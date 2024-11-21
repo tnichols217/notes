@@ -16,6 +16,7 @@ erDiagram
 		int discount "NOT NULL"
 		int derivedCurrentStock "View-Derived"
 		int cachedCurrentStock "Default 0"
+		int targetAmount "Default 10"
 	}
 	manufacturer {
 		int id PK
