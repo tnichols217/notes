@@ -1,5 +1,7 @@
 ---
 date created: 2023-09-03 21:58
+cssclasses:
+  - CV
 ---
 
 # Trevor Nichols
@@ -20,7 +22,9 @@ date created: 2023-09-03 21:58
 > > ## Career Object
 > >
 > > Detail-oriented professional with experience in software development, API endpoint design and implementation, AI training and frontend design. Deep understanding in backend integration with Microsoft Azure, GitHub actions, and Nix CI/CD. Extensive experience in modeling, animating, and texturing 3D models for commercial purposes. Praised for creative problem-solving, meticulousness, and technical depth. Excels at the integration of computer programming and art.
+
 ## Skills
+
 > [!col]
 >> [!col-md]
 >> 7+ years
@@ -60,9 +64,20 @@ date created: 2023-09-03 21:58
 
 ## Personal Experience
 
+````col
+```col-md
+flexGrow=2
+===
 ### 3D Modeler
+```
+```col-md
+textAlign=end
+===
+**Nov 2022 - Aug 2023**
+```
+````
 
-**Nov 2022 - Aug 2023 | Sandm. Creative Agency | Georgetown, Penang, Malaysia**
+**Sandm. Creative Agency | Georgetown, Penang, Malaysia**
 
 - Utilized **GIMP, Inkscape, Illustrator, Photoshop**
 	- **Created textures** for 3D models
@@ -75,17 +90,39 @@ date created: 2023-09-03 21:58
 	- Highly experienced at **generative geometry**, textures, and lighting
 - Led over 50% of 3D design and modelling projects for the company
 
+````col
+```col-md
+flexGrow=2
+===
 ### IT Technician / Programmer Intern
+```
+```col-md
+textAlign=end
+===
+**Aug 2022 - Aug 2023**
+```
+````
 
-**Aug 2022 - Aug 2023 | Dalat International School | Tanjung Bungah, Penang, Malaysia**
+**Dalat International School | Tanjung Bungah, Penang, Malaysia**
 
 - **Developed backend and frontend software** for identification services including UX design in Aurelia, backend implementation in C#, .NET, Azure functions, and SQL.
 - **Developed inventory management systems** for all equipment within several organization's physical and network environments
 - In depth knowledge of **Unifi** network management software to manage and maintain a private network
 
+````col
+```col-md
+flexGrow=2
+===
 ### Audio Visual Technician
+```
+```col-md
+textAlign=end
+===
+**Aug 2020 - Aug 2023**
+```
+````
 
-**Aug 2020 - Aug 2023 | Penang Bible Church | Georgetown, Penang, Malaysia**
+**Penang Bible Church | Georgetown, Penang, Malaysia**
 
 - **Custom designed an AV system** within the restrictions of a space, needs, and budget
 - **Developed preventative measures** to maintain audiovisual systems to reduce breakdowns or malfunctions by over 65%
@@ -94,27 +131,60 @@ date created: 2023-09-03 21:58
 
 ### Open Source contributor
 
-Contributed to
+**Contributed to**
 - NixOS/nixpkgs
 - tnichols217/obsidian-columns 200+ stars, 40k+ downloads (creator)
 - denolehov/obsidian-git
 
+````col
+```col-md
+flexGrow=2
+===
 ### Audio Visual Technician
+```
+```col-md
+textAlign=end
+===
+**Sep 2023 - Ongoing**
+```
+````
 
-**Sep 2023 - Ongoing | MediaVision | Cleveland, OH, USA**
+**MediaVision | Cleveland, OH, USA**
 
 - **Maintained classroom technologies** including both audio and visual systems
 - **Facilitated classroom recordings**
 
+````col
+```col-md
+flexGrow=2
+===
 ### Facility Assistant
+```
+```col-md
+textAlign=end
+===
+**Oct 2023 - Ongoing**
+```
+````
 
-**Oct 2023 - Ongoing | Tinkham Veale University Center | Cleveland, OH, USA**
+**Tinkham Veale University Center | Cleveland, OH, USA**
 
 - **Worked on small and large teams** to prepare the venue for small and large events
 
+````col
+```col-md
+flexGrow=2
+===
 ### Research Contributor
+```
+```col-md
+textAlign=end
+===
+**Sep 2024 - Ongoing**
+```
+````
 
-**Sep 2024 - Ongoing | AI4EDU | Cleveland, OH, USA**
+**AI4EDU | Cleveland, OH, USA**
 
 - **Built REST backend services** for our AI chatbot using fastAPI
 - **Built and maintained databases** using PostgreSQL
@@ -122,16 +192,31 @@ Contributed to
 
 ## Education
 
+````col
+```col-md
+flexGrow=2
+===
 ### Case Western Reserve University
+```
+```col-md
+textAlign=end
+===
+**Aug 2023 - May 2027**
+```
+````
 
 **Bachelor of Science (B.S.) in Computer Science Candidate**
 Sec. Bachelors in Data Science, Computer Engineering, Electrical Engineering
-Aug 2023 - May 2027 |  Cleveland, OH, US
+Cleveland, OH, US
+
+````col
+```col-md
 Senior Status, GPA 3.805
 - Questbridge scholar
 - University merit-based scholar
 - Dean's High Honors x2
-
+```
+```col-md
 Studied in
 - Artificial Intelligence
 - Systems Programming
@@ -139,24 +224,43 @@ Studied in
 - Hardware Logic Design
 - Algorithms
 - Database Systems
+```
+````
 
 Participated in
 - The Fraternity of Theta Chi - Brother since 2024
 - CWRUnix (Case Linux Club) - Honorary exec member
 - The Board Meeting - Active Member
 
+````col
+```col-md
+flexGrow=2
+===
 ### Dalat International School
+```
+```col-md
+textAlign=end
+===
+**Aug 2022 - Aug 2023**
+```
+````
 
 **High School Diploma with Summa Cum Laude**
-Aug 2019 - Jun 2023 |  Penang, Malaysia
+Penang, Malaysia
 GPA: 3.8642
 
 Studied in
+````col
+```col-md
 - 5: AP Computer Science A
 - 5: AP Computer Science Principles
 - 5: AP 3D Art and Design
 - 5: AP Statistics
+```
+```col-md
 - 5: AP Calculus BC
 - 5: AP Biology
 - 5: AP Physics I
 - 4: AP Music Theory
+```
+````

@@ -1,71 +1,35 @@
 ```python
 procedure optimal_cache(requests, k)
-	cache <- new Cache(size=k)
+	indices <- {}
+	cache <- new priority queue of size k
 	misses <- 0
-	for i in 1 to length(requests)
-		if requests[i] in cache
-			continue
-		misses++
-		
-		# Find next time the current request is used
-		# index will return -1 if not found
-		next_current <- requests.index(requests[i], i+1)
-		
-		evicts <- []
-		for j in 1 to k
-			# Find the index of each item in cache's
-			# first value after this request
-			next_evict <- requests.index(cache[j], i+1)
-			evicts.append([next_evict, j])
-			if next_evict == -1
-				break
-		
-		# Find maximum of evicts (by first item in each subarray)
-		req_to_evict <- max(evicts, x => x[1])[2]
-		
-		# If any cached item no longer is in the array, replace that
-		min_evict <- min(evicts, x => x[1])
-		if min_evict[1] == -1
-			req_to_evict <- min_evict[2]
-		
-		# If current request is after all cached items, don't store it
-		if next_current >= req_to_evict
-			continue
-		
-		# Replace the request at position req_to_evict
-		# in the cache with the new request
-		cache[req_to_evict] <- requests[i]
-	return misses
-```
-
-```python
-procedure optimal_cache(requests, k)
-	cache <- new cache of size k
-	misses <- 0
+	
 	for each index i in requests
-		if requests[i] is in cache
-			skip
+		if requests[i] not in indices
+			indices[requests[i]] <- [i]
+		else
+			indices[requests[i]].append(i)
+	
+	for each x in indices
+		x.append(infinity)
+	
+	for each index i in requests
+		if requests[i] not in cache
+			misses++
 		
-		misses++
+			if cache is not full
+				cache.add(requests[i], indices[requests[i]].remove(0))
+			
+			if indices[requests[i]] < indices[cache[0]]
+				cache.remove(0)
+				cache.add(requests[i], indices[requests[i]].remove(0))
 		
-		next_request <- next index of requests[i] in requests
-		evicts <- []
-		for each index j in cache
-			next_evict <- next index of cache[j] in requests
-			evicts.append([next_evict, j])
-			if next_evict == -1
-				break
+		else
+			cache.set_priority(
+				requests[i],
+				indices[requests[i]].remove(0)
+			)
 		
-		request_to_evict <- maxmimum of evicts by each items first item
-		unfound_request <- maxmimum of evicts by each items first item
-		
-		if unfound_request[1] == -1
-			request_to_evict <- unfound_request[2]
-		
-		if next_request >= request_to_evict
-			skip
-		
-		cache[request_to_evict] <- requests[i]
 	return misses
 ```
 
@@ -80,8 +44,12 @@ Let our cache be $C=[r_{m},r_{n},\dots]$ while processing the value $r_{l}$ in t
 
 Let the denoted $r_{m}$ be the first instance of $r_{m}$ after $r_{l}$, and likewise with $r_{n}$
 
-Let our algorithm choose $r_{n}$ to replace, but this alternative more optimal algorithm choose $r_{m}$ instead. By the time the algorithm gets to $r_{m}$, it will have performed the same amount of cache misses as our solution, as $r_{m}$ and $r_{n}$ are both not present. At this time $r_{m}$ may still be present in our solution, but will definitely not be present in the alternative solution.
+Let our algorithm choose $r_{n}$ to replace, but this alternative more optimal algorithm choose $r_{m}$ instead. By the time the algorithm gets to $r_{m}$, it will have performed the same amount of cache misses as our solution, as $r_{m}$ and $r_{n}$ are both not present between $r_{l}$ and $r_{m}$. At this time $r_{m}$ may still be present in our solution, but will definitely not be present in the alternative solution.
 
-Thus, $S=S'-1 \text{ or } S'$ between the gaps of $r_{l}$ and $r_{n}$
+Thus, $S=S'-1 \text{ or } S'$ from $r_{l}$ to $r_{m}$
+
+If this alternative algorithm chooses to store $r_{m}$ and there are additional instances of $r_{m}$ before $r_{n}$, then by the time we reach $r_{n}$, $S=S'$.
+
+If not, then $S=S'-1$ must necessarily be true.
 
 Which contradicts the statement that $S'$ is more optimal than $S$, thus $S$ must be the most optimal, as it is equal to, if not better than any other solution.

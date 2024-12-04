@@ -297,12 +297,6 @@ To grant permissions on a table or view,
 GRANT [SELECT, INSERT, UPDATE, DELETE] ON tablename TO rolename
 ```
 
-
-
-### Authorization
-
-# TODO
-
 ## SQL
 
 All queries done in SQL are considered part of a transaction.

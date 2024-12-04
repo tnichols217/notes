@@ -1,3 +1,4 @@
+
 ```mermaid
 erDiagram
 	barcode {
@@ -13,10 +14,10 @@ erDiagram
 		int currentPrice "NOT NULL"
 		int supplier FK "NOT NULL"
 		varchar(10) unitType "NOT NULL"
-		int discount "NOT NULL"
+		int discount "Default 0"
 		int derivedCurrentStock "View-Derived"
 		int cachedCurrentStock "Default 0"
-		int targetAmount "Default 10"
+		int targetAmount "Default 100"
 	}
 	manufacturer {
 		int id PK
@@ -42,22 +43,22 @@ erDiagram
 		int employeeID FK "NOT NULL"
 		smalldatetime timestamp "NOT NULL"
 		int tip "NOT NULL"
-		int paymentID FK "NOT NULL"
+		int paymentID FK
 		int total "View-Derived"
 		int tipAmount "View-Derived"
 	}
 	shift {
 		int employeeID PK,FK "NOT NULL"
-		smalldatetime startTime PK "NOT NULL"
+		smalldatetime startTime PK "Default Now"
 		smalldatetime endTime "NOT NULL"
 		int wage "NOT NULL"
-		int paymentID FK "NOT NULL"
+		int paymentID FK
 		int duration "Derived"
 		int totalWage "Derived"
 	}
 	payment {
 		int id PK
-		smalldatetime timestamp "NOT NULL"
+		smalldatetime timestamp "Default Now"
 		int chequeNumber "NOT NULL"
 		int amount "Derived"
 	}
@@ -73,7 +74,7 @@ erDiagram
 		int id PK
 		int supplierID FK "NOT NULL"
 		varchar(10) status "NOT NULL"
-		date orderDate "NOT NULL"
+		date orderDate "Default Now"
 		date confirmDate
 		date deliveryDate
 		date restockDate

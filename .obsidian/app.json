@@ -20,5 +20,7 @@
     "M7M"
   ],
   "spellcheckLanguages": null,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative"
 }

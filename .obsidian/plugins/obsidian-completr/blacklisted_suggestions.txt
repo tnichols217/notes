@@ -26,3 +26,5 @@ editor
 process
 Min
 mine
+aBCgePq
+ToA

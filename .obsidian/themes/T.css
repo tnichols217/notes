@@ -653,3 +653,21 @@ div.mermaid > svg {
 .theme-dark img[alt$="inv_L"], .theme-light img[alt$="inv_D"] {
   filter: invert(100%) hue-rotate(0.5turn);
 }
+
+
+.CV {
+  --obsidian-columns-padding: 0;
+  --font-text: 'Times New Roman', 'Times';
+  --link-external-color: var(--text-normal);
+  & h1, & h2, & h3, & h4, & h5, & h6, & p, & strong,
+  & .cm-header-1, & .cm-header-2, & .cm-header-3, & .cm-header-4, & .cm-header-5, & .cm-header-6, & .cm-em, & .cm-strong,
+  & div.callout, & ul, & ol {
+    color: var(--text-normal);
+    font-family: 'Times New Roman', 'Times';
+    margin-bottom: 0.5vh;
+    margin-top: 0.5vh;
+  }
+  & ul, & ol {
+    line-height: var(1.3);
+  }
+}
