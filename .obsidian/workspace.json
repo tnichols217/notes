@@ -4,73 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "042a5b464b292c19",
+        "id": "f6c60bb57e58058e",
         "type": "tabs",
         "children": [
           {
-            "id": "faa8e9eb6841f609",
+            "id": "36866766bcac62e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/Grad/Statement of Purpose.md",
+                "file": "MATH 408 - Intro to Cryptology/Notes/Congruence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Statement of Purpose"
+              "title": "Congruence"
             }
           },
           {
-            "id": "08b701a9d24527db",
+            "id": "7cb95de2f48810eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/5/5.md",
+                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-13 - Why this Class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5"
-            }
-          },
-          {
-            "id": "c6aa2669a162c805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENGR 130 - Foundation Engineering and Programming/HW/14/SectionD_tln32_HW14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SectionD_tln32_HW14"
+              "title": "2025-01-13 - Why this Class"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "ec49fc045e4494ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86b6ae525db1a514",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/5/tables.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tables"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -136,10 +102,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSDS 341 - Intro to Databases/HW/5/5.md"
+                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-13 - Why this Class.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 5"
+              "title": "Outline of 2025-01-13 - Why this Class"
             }
           }
         ]
@@ -235,54 +201,54 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "08b701a9d24527db",
+  "active": "7cb95de2f48810eb",
   "lastOpenFiles": [
-    "CSDS 341 - Intro to Databases/HW/5/5.pdf",
-    "CSDS 341 - Intro to Databases/HW/5/tables.md",
-    "CSDS 341 - Intro to Databases/HW/5/5.md",
+    "MATH 408 - Intro to Cryptology/HW/1.md",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-13 - Why this Class.md",
+    "DSCI 330 - Cognition and Computation/Blog",
+    "DSCI 330 - Cognition and Computation",
+    "MATH 408 - Intro to Cryptology/Notes/Congruence.md",
+    "MATH 408 - Intro to Cryptology/Notes",
+    "ECSE 321 - Semiconductor Electronic Devices/notes/1.md",
+    "MATH 408 - Intro to Cryptology/HW/6.md",
+    "MATH 408 - Intro to Cryptology/HW/5.md",
+    "MATH 408 - Intro to Cryptology/HW/3.md",
+    "MATH 408 - Intro to Cryptology/HW/2.md",
+    "MATH 408 - Intro to Cryptology/HW",
+    "MATH 408 - Intro to Cryptology/New Folder",
+    "MATH 408 - Intro to Cryptology",
+    "New Folder",
+    "ENGR 210 - Intro Circuits and Instruments/notes/1.md",
+    "ECSE 321 - Semiconductor Electronic Devices/notes",
+    "ECSE 321 - Semiconductor Electronic Devices",
+    "Biology/Ch8/Cellular Respiration.md",
+    "ENGR 210 - Intro Circuits and Instruments/notes",
+    "Biology/Ch17-20/Viruses and Prions.md",
+    "APBiology/4/Carbon.md",
+    "APBiology/7/Unit 7 BILL.md",
+    "APBiology/8/Unit 8 BILL.md",
+    "Untitled.md",
     "ENGR 130 - Foundation Engineering and Programming/HW/14/SectionD_tln32_HW14.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/14/SectionD_tln32_HW14.pdf",
-    "ENGR 130 - Foundation Engineering and Programming/HW/13/13.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/12/SectionD_tln32_HW12.pdf",
-    "CSDS 341 - Intro to Databases/HW/4/4.md",
-    "CSDS 341 - Intro to Databases/HW/5",
-    "CSDS 341 - Intro to Databases/HW/3/3.md",
+    "PHYS 122 - Physics 2/HW/10/10.md",
+    "ENGR 399 - Impact of Engineering on Society/HW/P3.md",
+    "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213162052.png",
+    "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213162047.png",
+    "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213161915.png",
+    "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213161828.png",
+    "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213161823.png",
+    "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213161646.png",
+    "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213161536.png",
     "CSDS 341 - Intro to Databases/Notes/3 - SQL.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/14",
+    "CSDS 341 - Intro to Databases/Notes/4 - Relational Algebra.md",
     "CSDS 341 - Intro to Databases/Notes/5 - Entities.md",
-    "Trevor Nichols - CV.md",
-    "Private/Grad/Statement of Purpose.md",
-    "PHYS 122 - Physics 2/Lab/3/3 - EOM.md",
-    "PHYS 122 - Physics 2/Lab/6/notes.pdf",
-    "PHYS 122 - Physics 2/Lab/6/data/Graph01.png",
-    "Private/Grad/Statement of Purpose.pdf",
-    "Trevor Nichols - CV.pdf",
-    "Private/Grad/attachments/Pasted image 20241130113337.png",
-    "Private/Grad/attachments",
-    "Private/college/QB Essay.md",
-    "Private/shopping.md",
-    "Private/things todo.md",
-    "obsidian-molecules.md",
-    "Private/Grad",
-    "obsidian-columns.md",
-    "obsid-readme.md",
-    "Spiritual DIsciplines/Book Report 2.md",
-    "Private/thetachi/quiz.md",
-    "CSDS 341 - Intro to Databases/Project/ER Diagram.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/13",
-    "CSDS 310 - Algorithms/Presentation.md",
-    "CSDS 310 - Algorithms/Practice.md",
-    "PHYS 122 - Physics 2/Lab/6/6.md",
-    "PHYS 122 - Physics 2/Lab/6/tables.md",
-    "PHYS 122 - Physics 2/Lab/3/3 - DSO.md",
-    "PHYS 122 - Physics 2/Lab/6/data/2.PNG",
-    "PHYS 122 - Physics 2/Lab/6/data/4.PNG",
-    "PHYS 122 - Physics 2/Lab/6/data/3.PNG",
-    "PHYS 122 - Physics 2/Lab/6/data/1.PNG",
-    "PHYS 122 - Physics 2/HW/9/images/4.png",
-    "PHYS 122 - Physics 2/HW/9/images/3.png",
-    "PHYS 122 - Physics 2/HW/9/images/2.png",
-    "PHYS 122 - Physics 2/HW/9/images/1.png",
+    "CSDS 341 - Intro to Databases/Notes/6 - Normalization.md",
+    "CSDS 341 - Intro to Databases/Notes/1 - Intro to Databases and SQL.md",
+    "CSDS 341 - Intro to Databases/Notes/2 - Relational Databases.md",
+    "PHYS 122 - Physics 2/Notes/Electric Charge.md",
+    "PHYS 122 - Physics 2/Notes/Magnetic Fields.md",
+    "CSDS 310 - Algorithms/HW/5/attachments/Pasted image 20241208183647.png",
+    "PHYS 122 - Physics 2/Lab/7/data/Graph1.png",
+    "PHYS 122 - Physics 2/Lab/7/wetransfer_lab-7_2024-12-06_0116/Graph1.png",
     "Shared/Browser Android/Technical/Project Layout.canvas",
     "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Project Layout.canvas",

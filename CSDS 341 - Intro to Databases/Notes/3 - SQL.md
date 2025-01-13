@@ -110,6 +110,10 @@ The `s` argument is the starting value for the series, and the `i` argument is w
 
 For PostgreSQL, these arguments take the place of the type of the row. Instead of using `INT AUTO_INCREMENT`, use `SERIAL` instead
 
+###### FOREIGN KEY
+
+Like the `FOREIGN KEY` table constraint, `FOREIGN KEY` is normally allowed to be defined right in the attribute definition.
+
 ##### Table Constraints
 
 | Constraint    | Meaning                                               |
@@ -136,6 +140,27 @@ The `FOREIGN KEY` table constraint may also have a `REFERENCES` argument, tellin
 CREATE TABLE tablename
 	(attr1   type
 	FOREIGN KEY (attr1) REFERENCES tablename2(attr1));
+```
+
+Additionally, instructions on when a foreign referenced object changes may be included in the attribute.
+
+Triggers `ON DELETE` and `ON UPDATE` are available for when a child is modified or deleted.
+
+When a `DELETE` or `UPDATE` happens, you are able to update the parent key with one of the following instructions:
+
+1. `CASCADE`
+2. `SET NULL`
+3. `SET DEFAULT`
+
+When `CASCADE` is set, if the child is deleted, the parent will also be deleted. If the child is updated, the parent will also be updated.
+
+The other two options will set the parent value to either `NULL` or `DEFAULT` of that attribute when the child is updated or deleted.
+
+```SQL
+CREATE TABLE tablename
+	(attr1   type
+	FOREIGN KEY (attr1) REFERENCES tablename2(attr1) ON DELETE SET NULL
+	);
 ```
 
 ###### UNIQUE
@@ -296,6 +321,48 @@ To grant permissions on a table or view,
 ```SQL
 GRANT [SELECT, INSERT, UPDATE, DELETE] ON tablename TO rolename
 ```
+
+### Triggers
+
+Trigger syntax varies quite a lot across different DBMS's but the main ideas remain the same.
+
+Triggers are pieces of SQL that run when something triggers the trigger, which can include updating data, creating tables, or logging into the DBMS.
+
+There are three types of triggers in SQL:
+
+1. Logon Trigger
+2. DDL Trigger
+3. DML Trigger
+
+#### DML Triggers
+
+Triggers are executed after one or more of the following occur:
+
+1. `INSERT`
+2. `UPDATE`
+3. `DELETE`
+
+DML Triggers normally can execute `INSTEAD OF` or `AFTER` a DML query.
+Some DBMS's allow other triggers.
+
+Triggers only are executed after the triggering query has been processed and will satisfy all constraints.
+
+Example trigger:
+
+```SQL
+CREATE TRIGGER updateTotal
+ON inventory
+AFTER INSERT
+AS BEGIN
+	-- Regular SQL queries may go in here
+END;
+```
+
+##### INSERTED and DELETED tables
+
+The `INSERTED` and `DELETED` tables contain data that is going to be inserted or deleted from the triggering table. When an update occurs, normally the old data is placed in the `DELETED` table while the new data will be in the `INSERTED` table.
+
+Only effected rows will be in either of these tables.
 
 ## SQL
 
