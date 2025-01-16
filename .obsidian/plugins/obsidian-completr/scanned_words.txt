@@ -2758,6 +2758,7 @@ PwP
 PNN
 PSs
 PYV
+Projects
 Models
 Model
 Matrix
@@ -4683,6 +4684,8 @@ EDDx
 ESSS
 EpC
 EEEEEEYYY
+Encrypt
+Eve
 The
 Types
 Theorem
@@ -5662,6 +5665,7 @@ TSS
 TSRo
 TGJbMI
 TNY
+Thoughts
 change
 can
 considered
@@ -6992,6 +6996,10 @@ cYO
 ccci
 cRRR
 cFYY
+chronological
+cipher
+ciphertext
+ciphertexts
 in
 is
 itself
@@ -9179,6 +9187,9 @@ paBBB
 pAAA
 pQQ
 pbF
+public
+plaintext
+plaintexts
 directly
 differential
 derivative
@@ -10318,6 +10329,7 @@ dYV
 dPP
 dBvf
 diR
+decryption
 related
 represent
 represented
@@ -11365,6 +11377,7 @@ ruu
 rrrrAAA
 rGG
 ryZ
+recent
 to
 the
 that
@@ -12427,6 +12440,7 @@ tWM
 tuuCBB
 thG
 tttlB
+tractably
 size
 system
 search
@@ -18315,6 +18329,8 @@ bin
 bzzz
 bdek
 bvv
+blog
+builds
 approaches
 an
 aspects
@@ -19370,6 +19386,8 @@ aXf
 aNff
 aHS
 attachments
+attack
+arbitrarily
 equations
 explicit
 estimate
@@ -20446,6 +20464,8 @@ eRI
 eKkk
 emmf
 eje
+encryption
+encrypt
 Analytic
 Approximating
 Autonomous
@@ -21387,6 +21407,8 @@ AlllEE
 Apqq
 Aatw
 Attached
+About
+Alice
 Qualitative
 Quantifiers
 Query
@@ -27708,6 +27730,9 @@ mllT
 mCo
 mesX
 mkr
+motivated
+message
+million
 When
 We
 With
@@ -33155,6 +33180,7 @@ vEDD
 vvI
 vly
 vsP
+vulnerable
 where
 we
 which
@@ -36702,6 +36728,7 @@ qjkk
 qMM
 qqqrKii
 qJt
+quote
 Values
 Vectors
 Via
@@ -38499,6 +38526,8 @@ DmT
 DTDe
 DII
 DKK
+Distant
+Decrypt
 Homogeneous
 Harmonic
 However
