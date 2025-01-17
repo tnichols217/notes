@@ -1819,6 +1819,8 @@ SSSMLL
 SSStt
 SOU
 Sources
+Schrodiner
+Schrodinger
 Population
 Predator
 Prey
@@ -2759,6 +2761,7 @@ PNN
 PSs
 PYV
 Projects
+Photoelectric
 Models
 Model
 Matrix
@@ -3741,6 +3744,8 @@ Mnn
 MmD
 MOW
 MMcU
+Mechanics
+Momentum
 Exponential
 Ensure
 Equations
@@ -4686,6 +4691,7 @@ EpC
 EEEEEEYYY
 Encrypt
 Eve
+Effect
 The
 Types
 Theorem
@@ -7000,6 +7006,8 @@ chronological
 cipher
 ciphertext
 ciphertexts
+congruence
+conceptualized
 in
 is
 itself
@@ -8102,6 +8110,7 @@ ill
 iSIIIyy
 ije
 iAGQ
+integrating
 population
 predation
 pull
@@ -9190,6 +9199,7 @@ pbF
 public
 plaintext
 plaintexts
+probabilities
 directly
 differential
 derivative
@@ -13696,6 +13706,8 @@ soK
 sKs
 seIIn
 smX
+sends
+secret
 of
 or
 out
@@ -14579,6 +14591,7 @@ ols
 oui
 ojn
 oMM
+obtaining
 Growth
 General
 Guessing
@@ -15420,6 +15433,7 @@ GEQ
 GgU
 GQG
 GGF
+Gives
 Is
 If
 Integrating
@@ -19388,6 +19402,8 @@ aHS
 attachments
 attack
 arbitrarily
+asks
+accounted
 equations
 explicit
 estimate
@@ -20466,6 +20482,7 @@ emmf
 eje
 encryption
 encrypt
+ejected
 Analytic
 Approximating
 Autonomous
@@ -21409,6 +21426,8 @@ Aatw
 Attached
 About
 Alice
+Approach
+Analogous
 Qualitative
 Quantifiers
 Query
@@ -22293,6 +22312,7 @@ QQQVV
 QQQJJJ
 Qmm
 QSSO
+Quantum
 Using
 Uniqueness
 Undampened
@@ -23159,6 +23179,7 @@ UEWBB
 UrrrNNNdd
 UQQ
 UhS
+Uncertainties
 geometry
 given
 graph
@@ -26766,6 +26787,8 @@ CZmy
 Cqq
 CMA
 CCCmmm
+Comparisons
+Classical
 may
 marked
 must
@@ -27733,6 +27756,8 @@ mkr
 motivated
 message
 million
+mechanics
+mentioned
 When
 We
 With
@@ -28625,6 +28650,7 @@ WuU
 WeP
 WoT
 Wrote
+Wave
 not
 normally
 number
@@ -29494,6 +29520,7 @@ ntTT
 nBH
 ndLM
 nQm
+needing
 For
 First
 Factors
@@ -31387,6 +31414,7 @@ lYnn
 lGOYr
 lvuM
 lTp
+logarithms
 horizontally
 have
 help
@@ -36729,6 +36757,7 @@ qMM
 qqqrKii
 qJt
 quote
+quantum
 Values
 Vectors
 Via
@@ -38528,6 +38557,9 @@ DII
 DKK
 Distant
 Decrypt
+Diffie
+Decomposible
+Deriving
 Homogeneous
 Harmonic
 However
@@ -39419,6 +39451,8 @@ HkK
 Hgg
 HcW
 HSSG
+Hellman
+Heisenburg
 Other
 Oscillator
 Overdamped
