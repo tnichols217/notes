@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-17 - Distant Thoughts About Projects.md",
+                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Generative AI for Students.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-17 - Distant Thoughts About Projects"
+              "title": "2025-01-24 - Generative AI for Students"
             }
           },
           {
@@ -41,36 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trevor Nichols - CV.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trevor Nichols - CV"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "88af5c7f434ff90c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f8c8fab3026824d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-13 - Why this Class.md",
+                "file": "Private/thetachi/scholarship/Check Ins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-13 - Why this Class"
+              "title": "Check Ins"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,10 +116,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-17 - Distant Thoughts About Projects.md"
+                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Generative AI for Students.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-17 - Distant Thoughts About Projects"
+              "title": "Outline of 2025-01-24 - Generative AI for Students"
             }
           }
         ]
@@ -237,21 +217,35 @@
   },
   "active": "2243ec3830630724",
   "lastOpenFiles": [
-    "DSCI 330 - Cognition and Computation/Blog/2025-01-13 - Why this Class.md",
-    "DSCI 330 - Cognition and Computation/Blog/2025-01-17 - Distant Thoughts About Projects.md",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Red Hen Lab.md",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Terminal.md",
+    "DSCI 330 - Cognition and Computation/Blog/attachments/Pasted image 20250122224319.png",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Generative AI for Students.md",
+    "DSCI 330 - Cognition and Computation/Blog/attachments/Pasted image 20250122224255.png",
+    "DSCI 330 - Cognition and Computation/Blog/attachments/Pasted image 20250122222845.png",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-15 - ChatGPT.md",
     "DSCI 330 - Cognition and Computation/Blog/2025-01-16 - RStudio.md",
-    "MATH 408 - Intro to Cryptology/HW/1/1.md",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-17 - Distant Thoughts About Projects.md",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-13 - Why this Class.md",
+    "ENGR 210 - Intro Circuits and Instruments/HW/1.md",
     "ECSE 321 - Semiconductor Electronic Devices/notes/2 - Quantum Mechanics.md",
-    "MATH 408 - Intro to Cryptology/Notes/1 - Intro.md",
+    "Private/thetachi/scholarship/Check Ins.md",
+    "Private/thetachi/scholarship/TODO.md",
     "Trevor Nichols - CV.md",
+    "ENGR 210 - Intro Circuits and Instruments/HW/1.pdf",
+    "MATH 408 - Intro to Cryptology/HW/2/2.md",
+    "ENGR 210 - Intro Circuits and Instruments/HW",
+    "MATH 408 - Intro to Cryptology/HW/1/1.md",
+    "Private/thetachi/scholarship/Chapter 1-19.md",
+    "Private/thetachi/scholarship/Study Nights.md",
+    "Private/thetachi/scholarship",
+    "MATH 408 - Intro to Cryptology/Notes/1 - Intro.md",
     "MATH 408 - Intro to Cryptology/Notes/Congruence.md",
     "MATH 408 - Intro to Cryptology/HW/3/3.md",
     "MATH 408 - Intro to Cryptology/HW/3",
-    "MATH 408 - Intro to Cryptology/HW/2/2.md",
     "MATH 408 - Intro to Cryptology/HW/2/2.pdf",
     "MATH 408 - Intro to Cryptology/HW/2",
     "MATH 408 - Intro to Cryptology/HW/Untitled.md",
-    "DSCI 330 - Cognition and Computation/Blog/2025-01-15 - ChatGPT.md",
     "DSCI 330 - Cognition and Computation/Blog/attachments/20250116174430.png",
     "DSCI 330 - Cognition and Computation/Blog/attachments",
     "MATH 408 - Intro to Cryptology/HW/1/1.pdf",
@@ -259,30 +253,15 @@
     "MATH 408 - Intro to Cryptology/HW/1/tables.md",
     "MATH 408 - Intro to Cryptology/HW/1",
     "DSCI 330 - Cognition and Computation/Blog",
-    "DSCI 330 - Cognition and Computation",
-    "MATH 408 - Intro to Cryptology/Notes",
     "MATH 408 - Intro to Cryptology/HW/6.md",
     "MATH 408 - Intro to Cryptology/HW/5.md",
-    "MATH 408 - Intro to Cryptology/HW",
     "ENGR 210 - Intro Circuits and Instruments/notes/1.md",
-    "Biology/Ch8/Cellular Respiration.md",
-    "Biology/Ch17-20/Viruses and Prions.md",
-    "APBiology/4/Carbon.md",
-    "APBiology/7/Unit 7 BILL.md",
-    "APBiology/8/Unit 8 BILL.md",
-    "Untitled.md",
-    "ENGR 130 - Foundation Engineering and Programming/HW/14/SectionD_tln32_HW14.md",
-    "PHYS 122 - Physics 2/HW/10/10.md",
-    "ENGR 399 - Impact of Engineering on Society/HW/P3.md",
     "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213162052.png",
     "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213162047.png",
     "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213161915.png",
     "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213161828.png",
     "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213161823.png",
     "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213161646.png",
-    "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213161536.png",
-    "CSDS 310 - Algorithms/HW/5/attachments/Pasted image 20241208183647.png",
-    "PHYS 122 - Physics 2/Lab/7/data/Graph1.png",
     "Shared/Browser Android/Technical/Project Layout.canvas",
     "Shared/TrevorWolf/Browser Android/Project Layout.canvas",
     "Shared/Wolf/Browser Android/Project Layout.canvas",
