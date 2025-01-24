@@ -3762,6 +3762,7 @@ Minimalism
 Minimal
 Many
 Movement
+MyApps
 Exponential
 Ensure
 Equations
@@ -5696,6 +5697,8 @@ Thoughts
 Talk
 Talking
 Tinkering
+Tools
+Topics
 change
 can
 considered
@@ -8154,6 +8157,8 @@ inspired
 intentionally
 impractical
 industrial
+informed
+indexed
 population
 predation
 pull
@@ -9253,6 +9258,7 @@ programmer
 puzzle
 pushing
 passionate
+pitfalls
 directly
 differential
 derivative
@@ -10400,6 +10406,8 @@ discord
 dive
 discussing
 dataset
+discoverable
+diminishing
 related
 represent
 represented
@@ -12520,6 +12528,7 @@ tttlB
 tractably
 twing
 thoughts
+touch
 size
 system
 search
@@ -13788,6 +13797,7 @@ subculture
 syntactic
 semantic
 screenshot
+skewed
 of
 or
 out
@@ -14673,6 +14683,8 @@ ojn
 oMM
 obtaining
 overtly
+opinions
+outlining
 Growth
 General
 Guessing
@@ -15516,6 +15528,7 @@ GQG
 GGF
 Gives
 Generative
+GPT
 Is
 If
 Integrating
@@ -18436,6 +18449,7 @@ blog
 builds
 ballroom
 brute
+baseless
 approaches
 an
 aspects
@@ -20590,6 +20604,8 @@ experimenting
 execution
 establishment
 establish
+encompasing
+educating
 Analytic
 Approximating
 Autonomous
@@ -21536,6 +21552,7 @@ Alice
 Approach
 Analogous
 Atheletic
+Attempted
 Qualitative
 Quantifiers
 Query
@@ -27887,6 +27904,7 @@ minimalist
 mindset
 mainstream
 multimodal
+markers
 When
 We
 With
@@ -31545,6 +31563,7 @@ lGOYr
 lvuM
 lTp
 logarithms
+login
 horizontally
 have
 help
@@ -37768,6 +37787,7 @@ VgU
 VRRr
 VVVVVVQQQg
 VMN
+VPN
 Differential
 Decoupled
 Damping

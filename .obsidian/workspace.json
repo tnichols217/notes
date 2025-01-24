@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Generative AI for Students.md",
+                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Tools Topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-24 - Generative AI for Students"
+              "title": "2025-01-24 - Tools Topics"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/thetachi/scholarship/Check Ins.md",
+                "file": "MATH 408 - Intro to Cryptology/Notes/Cryptosystems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Check Ins"
+              "title": "Cryptosystems"
             }
           }
         ],
@@ -116,10 +116,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Generative AI for Students.md"
+                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Tools Topics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-24 - Generative AI for Students"
+              "title": "Outline of 2025-01-24 - Tools Topics"
             }
           }
         ]
@@ -217,10 +217,14 @@
   },
   "active": "2243ec3830630724",
   "lastOpenFiles": [
-    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Red Hen Lab.md",
+    "MATH 408 - Intro to Cryptology/Notes/Cryptosystems.md",
+    "Private/thetachi/scholarship/Check Ins.md",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Tools Topics.md",
+    "ECSE 321 - Semiconductor Electronic Devices/notes/2 - Quantum Mechanics.md",
     "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Terminal.md",
-    "DSCI 330 - Cognition and Computation/Blog/attachments/Pasted image 20250122224319.png",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Red Hen Lab.md",
     "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Generative AI for Students.md",
+    "DSCI 330 - Cognition and Computation/Blog/attachments/Pasted image 20250122224319.png",
     "DSCI 330 - Cognition and Computation/Blog/attachments/Pasted image 20250122224255.png",
     "DSCI 330 - Cognition and Computation/Blog/attachments/Pasted image 20250122222845.png",
     "DSCI 330 - Cognition and Computation/Blog/2025-01-15 - ChatGPT.md",
@@ -228,8 +232,6 @@
     "DSCI 330 - Cognition and Computation/Blog/2025-01-17 - Distant Thoughts About Projects.md",
     "DSCI 330 - Cognition and Computation/Blog/2025-01-13 - Why this Class.md",
     "ENGR 210 - Intro Circuits and Instruments/HW/1.md",
-    "ECSE 321 - Semiconductor Electronic Devices/notes/2 - Quantum Mechanics.md",
-    "Private/thetachi/scholarship/Check Ins.md",
     "Private/thetachi/scholarship/TODO.md",
     "Trevor Nichols - CV.md",
     "ENGR 210 - Intro Circuits and Instruments/HW/1.pdf",
@@ -239,7 +241,6 @@
     "Private/thetachi/scholarship/Chapter 1-19.md",
     "Private/thetachi/scholarship/Study Nights.md",
     "Private/thetachi/scholarship",
-    "MATH 408 - Intro to Cryptology/Notes/1 - Intro.md",
     "MATH 408 - Intro to Cryptology/Notes/Congruence.md",
     "MATH 408 - Intro to Cryptology/HW/3/3.md",
     "MATH 408 - Intro to Cryptology/HW/3",
