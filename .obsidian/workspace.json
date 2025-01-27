@@ -22,17 +22,31 @@
             }
           },
           {
-            "id": "2243ec3830630724",
+            "id": "06c391d0ab39fa5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Tools Topics.md",
+                "file": "Private/thetachi/scholarship/Check Ins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-24 - Tools Topics"
+              "title": "Check Ins"
+            }
+          },
+          {
+            "id": "81e6da0aeab00c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Generative AI for Students.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-24 - Generative AI for Students"
             }
           },
           {
@@ -41,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 408 - Intro to Cryptology/Notes/Cryptosystems.md",
+                "file": "MATH 408 - Intro to Cryptology/Notes/Diffie-Hellman Key Exchange.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cryptosystems"
+              "title": "Diffie-Hellman Key Exchange"
+            }
+          },
+          {
+            "id": "c345daf54dc8d003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 408 - Intro to Cryptology/HW/2/2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -116,10 +144,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Tools Topics.md"
+                "file": "MATH 408 - Intro to Cryptology/HW/2/2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-24 - Tools Topics"
+              "title": "Outline of 2"
             }
           }
         ]
@@ -215,15 +243,32 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "2243ec3830630724",
+  "active": "c345daf54dc8d003",
   "lastOpenFiles": [
-    "MATH 408 - Intro to Cryptology/Notes/Cryptosystems.md",
     "Private/thetachi/scholarship/Check Ins.md",
-    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Tools Topics.md",
-    "ECSE 321 - Semiconductor Electronic Devices/notes/2 - Quantum Mechanics.md",
-    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Terminal.md",
-    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Red Hen Lab.md",
+    "Private/thetachi/scholarship/checkins/Michael Cogliano.md",
+    "Private/thetachi/scholarship/checkins/James.md",
+    "Private/thetachi/scholarship/checkins/Nico Bliss-Carrascosa.md",
+    "Private/thetachi/scholarship/checkins/Benjamin Koeppen.md",
+    "Private/thetachi/scholarship/checkins/Matthew Yee.md",
+    "Private/thetachi/scholarship/checkins/Eric Yarnot.md",
+    "Private/thetachi/scholarship/checkins/Jake Bridge.md",
+    "Private/thetachi/scholarship/checkins/Ethan Bearer.md",
+    "Private/thetachi/scholarship/checkins/Marcus Corby.md",
+    "MATH 408 - Intro to Cryptology/HW/2/2.md",
+    "Private/thetachi/scholarship/checkins",
+    "Private/thetachi/scholarship/TODO.md",
+    "MATH 408 - Intro to Cryptology/HW/3/3.md",
+    "MATH 408 - Intro to Cryptology/HW/3/3.pdf",
+    "MATH 408 - Intro to Cryptology/Notes/Diffie-Hellman Key Exchange.md",
+    "MATH 408 - Intro to Cryptology/Notes/Cryptosystems.md",
     "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Generative AI for Students.md",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Terminal.md",
+    "ECSE 321 - Semiconductor Electronic Devices/notes/2 - Quantum Mechanics.md",
+    "Private/thetachi/scholarship/Study Nights.md",
+    "Private/thetachi/scholarship/Chapter 1-19.md",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Tools Topics.md",
+    "DSCI 330 - Cognition and Computation/Blog/2025-01-24 - Red Hen Lab.md",
     "DSCI 330 - Cognition and Computation/Blog/attachments/Pasted image 20250122224319.png",
     "DSCI 330 - Cognition and Computation/Blog/attachments/Pasted image 20250122224255.png",
     "DSCI 330 - Cognition and Computation/Blog/attachments/Pasted image 20250122222845.png",
@@ -231,32 +276,15 @@
     "DSCI 330 - Cognition and Computation/Blog/2025-01-16 - RStudio.md",
     "DSCI 330 - Cognition and Computation/Blog/2025-01-17 - Distant Thoughts About Projects.md",
     "DSCI 330 - Cognition and Computation/Blog/2025-01-13 - Why this Class.md",
-    "ENGR 210 - Intro Circuits and Instruments/HW/1.md",
-    "Private/thetachi/scholarship/TODO.md",
-    "Trevor Nichols - CV.md",
     "ENGR 210 - Intro Circuits and Instruments/HW/1.pdf",
-    "MATH 408 - Intro to Cryptology/HW/2/2.md",
     "ENGR 210 - Intro Circuits and Instruments/HW",
-    "MATH 408 - Intro to Cryptology/HW/1/1.md",
-    "Private/thetachi/scholarship/Chapter 1-19.md",
-    "Private/thetachi/scholarship/Study Nights.md",
     "Private/thetachi/scholarship",
-    "MATH 408 - Intro to Cryptology/Notes/Congruence.md",
-    "MATH 408 - Intro to Cryptology/HW/3/3.md",
     "MATH 408 - Intro to Cryptology/HW/3",
     "MATH 408 - Intro to Cryptology/HW/2/2.pdf",
     "MATH 408 - Intro to Cryptology/HW/2",
-    "MATH 408 - Intro to Cryptology/HW/Untitled.md",
     "DSCI 330 - Cognition and Computation/Blog/attachments/20250116174430.png",
     "DSCI 330 - Cognition and Computation/Blog/attachments",
     "MATH 408 - Intro to Cryptology/HW/1/1.pdf",
-    "ECSE 321 - Semiconductor Electronic Devices/notes/1 - Simple Lattices.md",
-    "MATH 408 - Intro to Cryptology/HW/1/tables.md",
-    "MATH 408 - Intro to Cryptology/HW/1",
-    "DSCI 330 - Cognition and Computation/Blog",
-    "MATH 408 - Intro to Cryptology/HW/6.md",
-    "MATH 408 - Intro to Cryptology/HW/5.md",
-    "ENGR 210 - Intro Circuits and Instruments/notes/1.md",
     "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213162052.png",
     "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213162047.png",
     "ENGR 399 - Impact of Engineering on Society/HW/attachments/Pasted image 20241213161915.png",
