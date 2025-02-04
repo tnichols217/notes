@@ -1860,6 +1860,7 @@ Singer
 Spend
 Sxl
 Shi
+Scipy
 Population
 Predator
 Prey
@@ -2825,6 +2826,13 @@ Phys
 Planes
 Planck
 PMo
+Ping
+Pong
+Piano
+Physypsych
+Pjj
+PfN
+Pytorch
 Models
 Model
 Matrix
@@ -3830,6 +3838,9 @@ Maejerus
 Meckes
 Miller
 MeTNV
+Monthly
+Matplotlib
+MNIST
 Exponential
 Ensure
 Equations
@@ -4788,6 +4799,9 @@ Edwards
 Epsilon
 Economics
 ESports
+Exec
+EGGk
+EvC
 The
 Types
 Theorem
@@ -5780,6 +5794,7 @@ Textbook
 Tink
 Thomas
 Translating
+Tensorflow
 change
 can
 considered
@@ -7142,6 +7157,14 @@ craftsmanship
 coach
 choir
 csds
+checklist
+capstone
+communications
+cEB
+classmate
+crypological
+calculator
+commenting
 in
 is
 itself
@@ -8258,6 +8281,11 @@ indexed
 internships
 immediately
 iOS
+indep
+iSeff
+iris
+inclined
+involves
 population
 predation
 pull
@@ -9364,6 +9392,12 @@ physically
 procrastinating
 phys
 pSN
+planner
+physypsych
+pairing
+parallelize
+paradigm
+preprocessing
 directly
 differential
 derivative
@@ -10519,6 +10553,11 @@ dance
 distracted
 densities
 dNa
+decrypt
+dbe
+deal
+detection
+draft
 related
 represent
 represented
@@ -11581,6 +11620,8 @@ replicate
 rLG
 rEV
 rOP
+resolution
+repl
 to
 the
 that
@@ -12653,6 +12694,8 @@ togethers
 trapped
 tainty
 transforming
+thorough
+terse
 size
 system
 search
@@ -13933,6 +13976,7 @@ socially
 situations
 supernode
 sLG
+speedily
 of
 or
 out
@@ -14824,6 +14868,10 @@ organized
 ofO
 oZD
 oXVS
+ovI
+oBvv
+omU
+observations
 Growth
 General
 Guessing
@@ -15681,6 +15729,9 @@ GaAs
 GgVf
 GNN
 GhU
+GRE
+Gamal
+Grr
 Is
 If
 Integrating
@@ -17631,6 +17682,8 @@ frames
 frost
 fzT
 fqE
+favorite
+flower
 by
 be
 but
@@ -18619,6 +18672,7 @@ beefy
 biQl
 bQFi
 bcjW
+bQP
 approaches
 an
 aspects
@@ -19697,6 +19751,9 @@ annoying
 attention
 alone
 asin
+aub
+algrbra
+anchors
 equations
 explicit
 estimate
@@ -20796,6 +20853,8 @@ effectively
 everyday
 eut
 eVhk
+encrypts
+ease
 Analytic
 Approximating
 Autonomous
@@ -21757,6 +21816,9 @@ Avalon
 Appendix
 Avogadro
 AVM
+Apps
+Aidan
+Anchors
 Qualitative
 Quantifiers
 Query
@@ -23515,6 +23577,9 @@ Uncertainties
 Understanding
 UIUA
 UCLA
+UpSo
+URR
+UFF
 geometry
 given
 graph
@@ -24445,6 +24510,10 @@ grind
 glee
 grants
 ggLU
+generous
+geospatial
+gerrymandering
+gigabytes
 key
 know
 kinematic
@@ -26078,6 +26147,8 @@ Nick
 Nothing
 NofL
 NFi
+Naf
+Numpy
 Checking
 Constant
 Converting
@@ -27173,6 +27244,8 @@ Carl
 Cole
 Collaborative
 Calc
+Complete
+Cgt
 may
 marked
 must
@@ -28157,6 +28230,8 @@ mVK
 mHW
 mBj
 mZG
+monthly
+mathematical
 When
 We
 With
@@ -29936,6 +30011,9 @@ nice
 nearest
 neighbor
 nvVf
+nonce
+nEIDATx
+nWAAA
 For
 First
 Factors
@@ -31849,6 +31927,9 @@ llI
 lmnZ
 lxw
 lst
+lFF
+lvC
+lvI
 horizontally
 have
 help
@@ -32797,6 +32878,7 @@ hist
 haven
 habits
 hqu
+handwriting
 vertical
 values
 vector
@@ -34539,6 +34621,9 @@ workload
 winds
 wavefunction
 wGw
+wxTe
+woy
+worker
 use
 unforced
 understand
@@ -38113,6 +38198,9 @@ VMN
 VPN
 VqLX
 Vmo
+Vzz
+Vuj
+VUL
 Differential
 Decoupled
 Damping
@@ -39050,6 +39138,7 @@ Directed
 Dance
 DSS
 DND
+Demari
 Homogeneous
 Harmonic
 However
@@ -39958,6 +40047,7 @@ Heisenberg
 Haney
 HjC
 HxV
+HumR
 Other
 Oscillator
 Overdamped
@@ -40794,6 +40884,7 @@ Oral
 Orendain
 Outside
 Ozguner
+OHb
 Recovered
 Repeated
 Resonance
@@ -45783,6 +45874,7 @@ Ywz
 YYRQQ
 YIQ
 Yee
+YJH
 Kinematics
 Kh
 KI
@@ -46716,6 +46808,7 @@ Koyuturk
 Koyaturk
 Kerkemeyer
 Kox
+Kaggle
 Jos
 Just
 Jacobian
@@ -48251,6 +48344,8 @@ xloo
 xkm
 xfk
 xLi
+xLTcyx
+xyhD
 Xq
 XG
 XS

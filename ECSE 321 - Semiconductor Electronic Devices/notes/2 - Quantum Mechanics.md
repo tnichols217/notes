@@ -68,4 +68,3 @@ $PE=\mathbfit{v}$
 
 $-\frac{\hslash}{j}\frac{\partial}{\partial t}=\frac{1}{2m}\left(\frac{\hslash}{j}\frac{\partial}{\partial x}\right)^{2}+PE$
 $-\psi(x)\frac{\hslash}{j}\frac{\partial}{\partial t}\psi(t)=\frac{1}{2m}\left(\frac{\hslash}{j}\frac{\partial}{\partial x}\right)+PE$
-
