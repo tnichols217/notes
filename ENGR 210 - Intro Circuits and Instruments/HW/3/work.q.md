@@ -82,7 +82,7 @@ print(s1[i3]+s2[i3]+s3[i3])
 ```
 
 ```{python}
-from sympy import symbols, solve
+from sympy import symbols, solve, print_latex
 from sympy.matrices import Matrix
 
 i1, i2, i3, i4 = symbols("i1 i2 i3 i4")
@@ -93,16 +93,19 @@ b = Matrix([[6], [-8], [-12]])
 
 s1 = solve([a*I - b], i1, i2, i3)
 
-Tv = 4*s[i3]
+Tv = 4*s1[i3]
 
 a = Matrix([[8, -2, -2, 0], [-2, 8, -2, 0], [-2, -2, 8, -4], [0, 0, -4, 4]])
 I = Matrix([[i1], [i2], [i3], [i4]])
 b = Matrix([[6], [-8], [-12], [0]])
 
-s1 = solve([a*I - b], i1, i2, i3)
+s2 = solve([a*I - b], i1, i2, i3, i4)
 
+Ti = s2[i4]
 
-print(s)
+Tr = Tv/Ti
 
-print()
+print_latex(I)
+
+print(Tv, Tr)
 ```
