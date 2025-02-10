@@ -68,27 +68,94 @@ cssclasses:
 ```col-md
 flexGrow=2
 ===
-### 3D Modeler
+### Research Contributor
 ```
 ```col-md
 textAlign=end
 ===
-**Nov 2022 - Aug 2023**
+**Sep 2024 - Ongoing**
 ```
 ````
 
-**Sandm. Creative Agency | Georgetown, Penang, Malaysia**
+**AI4EDU | Cleveland, OH, USA**
 
-- Utilized **GIMP, Inkscape, Illustrator, Photoshop**
-	- **Created textures** for 3D models
-	- **Generated** bump, metalness, emission maps
-- Utilized **Blender**
-	- **Modeled** hard surfaces including products, environments, packaging, and buildings
-	- **Sculpted** detailed natural shapes whilst maintaining a low poly count
-	- Utilized **physics simulations** to animate clothes, smoke, softbodies, and destruction
-	- Retopologized models to be **game and animation ready**
-	- Highly experienced at **generative geometry**, textures, and lighting
-- Led over 50% of 3D design and modelling projects for the company
+- **Built REST backend services** for our AI chatbot using fastAPI
+- **Led a team** maintaining and updating the backend while following good coding practice
+- **Built and maintained databases** using PostgreSQL
+- **Developed workflows and CI/CD** using GitHub workflows to speed up delivery of our product
+
+````col
+```col-md
+flexGrow=2
+===
+### Facility Assistant
+```
+```col-md
+textAlign=end
+===
+**Oct 2023 - Ongoing**
+```
+````
+
+**Tinkham Veale University Center | Cleveland, OH, USA**
+
+- **Worked on small and large teams** to prepare the venue for small and large events
+
+````col
+```col-md
+flexGrow=2
+===
+### Audio Visual Technician
+```
+```col-md
+textAlign=end
+===
+**Sep 2023 - Ongoing**
+```
+````
+
+**MediaVision | Cleveland, OH, USA**
+
+- **Maintained classroom technologies** including both audio and visual systems
+- **Facilitated classroom recordings**
+
+````col
+```col-md
+flexGrow=2
+===
+### Open Source Contributor
+```
+```col-md
+textAlign=end
+===
+**Aug 2022 - Ongoing**
+```
+````
+
+**Contributed to**
+- NixOS/nixpkgs 19.3k stars
+- tnichols217/obsidian-columns 200+ stars, 40k+ downloads (creator)
+- Vinzent03/obsidian-git 7.3k stars
+
+````col
+```col-md
+flexGrow=2
+===
+### Audio Visual Technician
+```
+```col-md
+textAlign=end
+===
+**Aug 2020 - Aug 2023**
+```
+````
+
+**Penang Bible Church | Georgetown, Penang, Malaysia**
+
+- **Custom designed an AV system** within the restrictions of a space, needs, and budget
+- **Developed preventative measures** to maintain audiovisual systems to reduce breakdowns or malfunctions by over 65%
+- **Orchestrated livestreams** and live audio processing for events
+- **Designed custom cables** for streamlining connections within an AV system
 
 ````col
 ```col-md
@@ -113,82 +180,27 @@ textAlign=end
 ```col-md
 flexGrow=2
 ===
-### Audio Visual Technician
+### 3D Modeler
 ```
 ```col-md
 textAlign=end
 ===
-**Aug 2020 - Aug 2023**
+**Nov 2022 - Aug 2023**
 ```
 ````
 
-**Penang Bible Church | Georgetown, Penang, Malaysia**
+**Sandm. Creative Agency | Georgetown, Penang, Malaysia**
 
-- **Custom designed an AV system** within the restrictions of a space, needs, and budget
-- **Developed preventative measures** to maintain audiovisual systems to reduce breakdowns or malfunctions by over 65%
-- **Orchestrated livestreams** and live audio processing for events
-- **Designed custom cables** for streamlining connections within an AV system
-
-### Open Source contributor
-
-**Contributed to**
-- NixOS/nixpkgs
-- tnichols217/obsidian-columns 200+ stars, 40k+ downloads (creator)
-- denolehov/obsidian-git
-
-````col
-```col-md
-flexGrow=2
-===
-### Audio Visual Technician
-```
-```col-md
-textAlign=end
-===
-**Sep 2023 - Ongoing**
-```
-````
-
-**MediaVision | Cleveland, OH, USA**
-
-- **Maintained classroom technologies** including both audio and visual systems
-- **Facilitated classroom recordings**
-
-````col
-```col-md
-flexGrow=2
-===
-### Facility Assistant
-```
-```col-md
-textAlign=end
-===
-**Oct 2023 - Ongoing**
-```
-````
-
-**Tinkham Veale University Center | Cleveland, OH, USA**
-
-- **Worked on small and large teams** to prepare the venue for small and large events
-
-````col
-```col-md
-flexGrow=2
-===
-### Research Contributor
-```
-```col-md
-textAlign=end
-===
-**Sep 2024 - Ongoing**
-```
-````
-
-**AI4EDU | Cleveland, OH, USA**
-
-- **Built REST backend services** for our AI chatbot using fastAPI
-- **Built and maintained databases** using PostgreSQL
-- **Developed workflows and CI/CD** using GitHub workflows to speed up delivery of our product
+- Utilized **GIMP, Inkscape, Illustrator, Photoshop**
+	- **Created textures** for 3D models
+	- **Generated** bump, metalness, emission maps
+- Utilized **Blender**
+	- **Modeled** hard surfaces including products, environments, packaging, and buildings
+	- **Sculpted** detailed natural shapes whilst maintaining a low poly count
+	- Utilized **physics simulations** to animate clothes, smoke, softbodies, and destruction
+	- Retopologized models to be **game and animation ready**
+	- Highly experienced at **generative geometry**, textures, and lighting
+- Led over 50% of 3D design and modelling projects for the company
 
 ## Education
 
@@ -228,7 +240,7 @@ Studied in
 ````
 
 Participated in
-- The Fraternity of Theta Chi - Brother since 2024
+- The Fraternity of Theta Chi - Scholarship Chair since 2024
 - CWRUnix (Case Linux Club) - Honorary exec member
 - The Board Meeting - Active Member
 
