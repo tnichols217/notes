@@ -59,14 +59,82 @@ x = linspace(0, 200, 100000)
 y = pl(x)
 y2 = ppl(x)
 
-plt.rcParams['text.usetex'] = True
 plt.plot(x, y, label="Power")
 plt.plot(x, y2, label="dPower")
 plt.ylabel("Power (W)")
-plt.xlabel("Resistance (k)")
+plt.xlabel("Resistance (kΩ)")
+plt.legend()
 plt.show()
 display(mp)
 display(mp.evalf())
+#
+#
+#
+from sympy import symbols, solve, lambdify, Derivative
+from sympy.matrices import Matrix
+from numpy import linspace
+import matplotlib.pyplot as plt
+
+i1, i2, rl = symbols("i1 i2 R_L")
+
+R = Matrix([[9]]) * 1000
+I = Matrix([[i1]])
+V = Matrix([[15]])
+
+s = solve([R*I - V], i1)
+
+Vt = s[i1]*4000
+
+display(s[i1])
+display(Vt)
+
+R = Matrix([[9, -6], [-6, 10]]) * 1000
+I = Matrix([[i1], [i2]])
+V = Matrix([[15], [-2000 * (i1 - i2)]])
+
+s = solve([R*I - V], i1, i2)
+
+It = s[i2]
+Mp = Vt*It/4
+
+display(s[i2])
+display(Mp)
+display(Mp.evalf())
+#
+#
+#
+from sympy import symbols, solve, lambdify, Derivative
+from sympy.matrices import Matrix
+from numpy import linspace
+import matplotlib.pyplot as plt
+
+rs, ri, rf, ro, rl, a, vs = symbols("R_s, R_i, R_f, R_o, R_l, A, V_s")
+i1, i2, i3 = symbols("i1, i2, i3")
+vs=1
+R = Matrix([
+    [rs + ri, -rs, 0],
+    [-rs, rs + rf + rl, -rl],
+    [0, -rl, rl + ro]
+])
+I = Matrix([[i1, i2, i3]]).transpose()
+V = Matrix([[-vs, vs, -a * i1 * ri]]).transpose()
+
+s = solve([R*I - V], i1, i2, i3)
+
+G = ((s[i2] - s[i3]) * 1000) / vs
+
+v = {
+    rs: 10,
+    ri: 10e6,
+    rf: 1e3,
+    ro: 50,
+    rl: 1e3,
+    a: 1e6
+}
+
+display(I.subs(s).subs(v))
+
+G.subs(v)
 #
 #
 #

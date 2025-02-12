@@ -43,5 +43,6 @@
   "obsidian-molecule-renderer",
   "obsidian-graphviz",
   "better-export-pdf",
-  "system3-relay"
+  "system3-relay",
+  "qmd-as-md-obsidian"
 ]
