@@ -4,7 +4,7 @@
 
 Review some YouTube videos on how to prompt Deep Research.  See [Introduction to Deep Research](https://www.google.com/url?q=https://youtu.be/YkCDVn3_wiw?si%3DQksFfSOCK12XiWdz&sa=D&source=calendar&ust=1739830180828003&usg=AOvVaw2nOr06ixMgM9oxCYzSJVSz) and [Deep Research FAQ | OpenAI Help Center](https://www.google.com/url?q=https://help.openai.com/en/articles/10500283-deep-research-faq&sa=D&source=calendar&ust=1739830180828003&usg=AOvVaw3LXc18YOb7_vhGaSfrrfj_). Now, write a prompt that could be submitted to Deep Research to generate a first report for your research topic in this class.  Think it through.  Give extra background of the sort that you could use to answer the kinds of questions Deep Research would ask you as it tries to write its report.
 
-## Response
+## Response (not done)
 
 Acting as an expert in Bioinformatics research, investigate and analyze the RNA-seq transcript identification pipeline outlined below, focusing the three core areas of recognizing the key steps of the pipeline, researching modern equivalents or alternatives, and offering advice on where the pipeline may be improved or changed to improve the overall process of the analysis pipeline.
 

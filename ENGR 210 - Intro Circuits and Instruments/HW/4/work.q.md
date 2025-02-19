@@ -1,6 +1,4 @@
-# type: ignore
-# flake8: noqa
-#
+```{python}
 from sympy import symbols, solve
 from sympy.matrices import Matrix
 
@@ -30,9 +28,9 @@ display(IT)
 
 RT = VT/IT
 display(RT)
-#
-#
-#
+```
+
+```{python}
 from sympy import symbols, solve, lambdify, Derivative
 from sympy.matrices import Matrix
 from numpy import linspace
@@ -67,9 +65,9 @@ plt.legend()
 plt.show()
 display(mp)
 display(mp.evalf())
-#
-#
-#
+```
+
+```{python}
 from sympy import symbols, solve, lambdify, Derivative
 from sympy.matrices import Matrix
 from numpy import linspace
@@ -100,9 +98,9 @@ Mp = Vt*It/4
 display(s[i2])
 display(Mp)
 display(Mp.evalf())
-#
-#
-#
+```
+
+```{python}
 from sympy import symbols, solve, lambdify, Derivative
 from sympy.matrices import Matrix
 from numpy import linspace
@@ -135,9 +133,9 @@ v = {
 display(I.subs(s).subs(v))
 
 G.subs(v)
-#
-#
-#
+```
+
+```{python}
 from sympy import symbols, solve, lambdify, Derivative
 from sympy.matrices import Matrix
 from numpy import linspace
@@ -170,9 +168,9 @@ v = {
 display(I.subs(s).subs(v))
 
 G.subs(v)
-#
-#
-#
+```
+
+```{python}
 import matplotlib.pyplot as plt
 from math import sqrt, sin, cos
 import numpy as np
@@ -187,7 +185,7 @@ func = lambda x, y: x**2+y**2
 
 def fp(x, y):
     ff = func(x, y)
-    return (x + h, y + h/2 * (ff + y + h * ff))
+    return (x + h, y + h/2 * (ff + func(x + h, y + h * ff)))
 
 x = 0
 y = 0
@@ -206,6 +204,4 @@ xy1 = xy[:,np.array(range(z+1))* int(s/z)]
 display(xy1.T)
 plt.plot(xy[0], xy[1])
 plt.show()
-#
-#
-#
+```
