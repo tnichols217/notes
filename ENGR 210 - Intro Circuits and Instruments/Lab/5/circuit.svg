@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="33.447262mm"
+   height="23.40299mm"
+   viewBox="0 0 33.447262 23.40299"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="circuit.svg"
+   inkscape:export-filename="circuit.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="10.857511"
+     inkscape:cx="70.734446"
+     inkscape:cy="41.998577"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="33.447262"
+       height="23.40299"
+       id="page6"
+       margin="3.0000002"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-25.879838,-104.37733)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 55.346471,107.50983 H 32.466114 v 8.0843"
+       id="path1"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 34.942959,115.59413 H 29.82505"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 34.057227,116.52863 H 30.85007"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 32.453648,116.52863 v 8.11919 h 22.968556"
+       id="path4"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 47.380204,107.50983 0,3.71438 0.724969,0.72497 -1.465461,0.39267 1.5626,0.4187 -1.528646,0.4096 1.478989,0.39629 -1.60198,0.42925 0.829754,0.82976 v 2.90009 l 0.841788,0.84179 -1.676376,0.44918 1.598289,0.42826 -1.562687,0.41873 1.543547,0.41359 -1.526973,0.40915 0.851791,0.85179 v 3.10979"
+       id="path5"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 55.346471,107.50983 0.0061,3.71438 0.724969,0.72497 -1.465461,0.39267 1.5626,0.4187 -1.528646,0.4096 1.478989,0.39629 -1.60198,0.42925 0.829754,0.82976 v 2.90009 l 0.841788,0.84179 -1.676376,0.44918 1.598289,0.42826 -1.562687,0.41873 1.543547,0.41359 -1.526973,0.40915 0.851791,0.85179 v 3.10979"
+       id="path5-5"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.2214px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.101783;stroke-opacity:1"
+       x="28.745651"
+       y="115.00307"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="fill:#000000;stroke:none;stroke-width:0.101783"
+         x="28.745651"
+         y="115.00307">12 V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.2214px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.101783;stroke-opacity:1"
+       x="42.653584"
+       y="113.52547"
+       id="text5-2"><tspan
+         sodipodi:role="line"
+         id="tspan5-9"
+         style="fill:#000000;stroke:none;stroke-width:0.101783"
+         x="42.653584"
+         y="113.52547">1kΩ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.2214px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.101783;stroke-opacity:1"
+       x="43.257481"
+       y="119.99048"
+       id="text5-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan5-9-92"
+         style="fill:#000000;stroke:none;stroke-width:0.101783"
+         x="43.257481"
+         y="119.99048">R4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.2214px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.101783;stroke-opacity:1"
+       x="44.114281"
+       y="116.7207"
+       id="text5-2-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan5-9-92-8"
+         style="fill:#000000;stroke:none;stroke-width:0.101783"
+         x="44.114281"
+         y="116.7207">VA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.2214px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.101783;stroke-opacity:1"
+       x="52.18063"
+       y="116.7207"
+       id="text5-2-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan5-9-92-1"
+         style="fill:#000000;stroke:none;stroke-width:0.101783"
+         x="52.18063"
+         y="116.7207">VB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.2214px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.101783;stroke-opacity:1"
+       x="51.430218"
+       y="113.52547"
+       id="text5-2-0"><tspan
+         sodipodi:role="line"
+         id="tspan5-9-9"
+         style="fill:#000000;stroke:none;stroke-width:0.101783"
+         x="51.430218"
+         y="113.52547">2kΩ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1.2214px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.101783;stroke-opacity:1"
+       x="51.430218"
+       y="120.03725"
+       id="text5-2-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan5-9-9-2"
+         style="fill:#000000;stroke:none;stroke-width:0.101783"
+         x="51.430218"
+         y="120.03725">3kΩ</tspan></text>
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path6"
+       cx="47.380428"
+       cy="116.27549"
+       r="0.75570989" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path6-7"
+       cx="55.356438"
+       cy="116.27549"
+       r="0.75570989" />
+  </g>
+</svg>
