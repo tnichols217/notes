@@ -1,0 +1,21 @@
+# Small Paper 1
+
+## Prompt
+
+500 word paper posted to your blog and to your Submission Page (see above) . Give it a crisp and memorable title. It must be in one of the three areas—theory, models, tools. State the area at the top of your paper. Your second paper will be in a different one of the three areas, and your final project will be in the third.
+
+## Response
+
+### We Know Less Than We Do
+
+Have you ever met that freshman whether they be in high-school or college that believes they can conquer the world after taking their first biology class? The Dunning-Kruger effect is a type of cognitive bias that attempts to explain why humans are convinced that we are capable and knowledgeable in more than we are. This surprisingly strongly relates to GPTs' deep tendency to hallucinate responses.
+
+In humans, the Dunning-Kruger effect is commonly believed to be attributed to an incompetence of self-assessment, overconfidence, and excessive overgeneralization and extrapolation from limited experience. By comparison, GPTs inherit these inabilities from humans though the training data, which are originally human made. GPTs however also have the added effects of not having a reasoning consciousness as well as an inability to self assess logic on an accurate level, further exaggerating the effects of hallucinations.
+
+At an early stage of learning new topics in humans, we necessarily as less knowledgeable and competent at what we are learning. This incompetence includes the capability to self assess oneself at the topic at hand. This failure to self-assess would further one's own belief of competence and understand of a certain topic. Similarly, in AIs, text models do not possess the ability to self-check for correctness or competence at all, similar to humans at an early stage of training.
+
+On the other hand, people tend to believe things if said confidently, thus inherently training humans to be confident in what they do, regardless of their actual skill level. Although less frequent in self practice as overconfidence is something people tend to be able to notice in themselves and others, AIs contain no such feedback. AI, as trained on confident data, is trained to be confident in its responses, regardless of correctness. This behavior closely emulates a confidently incorrect human in how they speak — without knowledge, but with force. This air of confidence also has the ability to convince people who attempt to comprehend any responses by AI that its response is factually true, when it may not be. This effect also ties into the logical fallacy of confirmation bias, as an inexperienced person talking to an agreeing but misinformed response by AI would be less likely to check the response for correctness.
+
+Lastly, overgeneralization tends to be an issue for people who are learning new things. When learning something new, you may be able to notice simple patterns that appear to hold true, but with limited knowledge come limited exposure to examples where that pattern may not hold true — for example classical and quantum physics. This problem of overgeneralization parallels well with AI's inability to smartly apply or recognize localized patterns. For example, if an AI is trained on data 10 years ago but we now have newer information that invalidates the discoveries of the past, the AI would still weigh the old but incorrect information with the same strength in its pre-trained model. Especially in areas with active research, AI has a tendency to fabricate misinformation about new things by recognizing patterns in old things without being able to provide reasoning or proof.
+
+Just as humans are susceptible to the Dunning-Kruger effect, AI is susceptible to both our failures and an inability to reason on its own. Like a person being educated at an early stage, sometimes AI displays in-effectivities in the way it represents information. Just as we are now more aware of overconfience and other logical fallacies, we should also be aware of the shortcomings of AI in our usage of it, and not blindly trust statements it presents as facts, as it may indeed know less than it does.
