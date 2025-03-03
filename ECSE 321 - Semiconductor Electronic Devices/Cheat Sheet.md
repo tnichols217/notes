@@ -62,3 +62,16 @@ $K=\frac{\sqrt{2mE}}{\hslash}$
 
 $\psi_{H}=\sqrt{\frac{2}{L}} \sin \frac{nm}{L}x$
 $\psi_{K}(X)=U(k_{x},x)e^{jKxX}$
+
+
+
+
+
+
+$\frac{kT}{q}=\frac{D}{\mu}$
+$V_{0}=\frac{kT}{q}\ln\left( \frac{N_{a}N_{d}}{n_{i}^{2}} \right)$
+$W=\sqrt{\frac{2\epsilon(V_{0}-V)}{q}\left(\frac{N_{a}+N_{d}}{N_{a}N_{d}}\right)}$
+$x_{p0}=W \frac{N_{d}}{N_{a}+N_{d}}$
+$x_{n0}=W \frac{N_{a}}{N_{a}+N_{d}}$
+$Q_{+}=qAx_{n0}N_{d}=qAx_{p0}N_{a}$
+$\varepsilon_{0}=-\frac{q}{\varepsilon}x_{n0}N_{d}=-\frac{q}{\varepsilon}x_{p0}N_{a}$
