@@ -31,9 +31,6 @@ $E_{N}=KE+PE=E_{c}+E(k)=-\frac{mq^{4}}{K^{2}n^{2}\hslash^{2}}$
 $\langle Q\rangle=\int\limits_{-\infty}^{\infty}\psi^{*}Q_{op}\psi~d\vec x$
 $Eg(x)=\int\limits_{-\infty}^{\infty}g(x)P(x)dx$
 
-$n:$extra electrons
-$p:$extra holes
-
 $f(E)=\frac{1}{e^{(E-E_{F})/kT}+1}\approx e^{(E_{F}-E)/kT}$
 $n_{0}=N_{c}f(E_{C})$
 $N_{c}=2(\frac{2\pi m^{*}_{n}kT}{h^{2}})^{3/2}$
@@ -42,6 +39,15 @@ $p_{0}=N_{v}f(E_{v})$
 $n_{i}=N_{c}e^{-(E_{C}-E_{i})/kT}=\sqrt{N_{c}N_{v}}e^{-E_{g}/2kT}$
 $p_{i}=N_{v}e^{-(E_{i}-E_{C})/kT}$
 $E=\frac{mq^{4}}{2K^{2}\hslash^{2}}$
+
+$L=\sqrt{D\tau}$
+$\rho=\frac{1}{\sigma}$
+$R=\frac{\rho L}{wt}$
+$J=\frac{I}{A}$
+$J=J_{n}+J_{p}+C \frac{dV}{dt}=\sigma\varepsilon$
+$J_{n}(x)=q\mu_{n}n(x)\varepsilon(x)+qD_{n} \frac{dn(x)}{dx}$
+$J_{p}(x)=q\mu_{p}p(x)\varepsilon(x)-qD_{p} \frac{dp(x)}{dx}$
+$\frac{kT}{q}=\frac{D}{\mu}$
 
 ### Equilibrium
 
@@ -63,15 +69,26 @@ $K=\frac{\sqrt{2mE}}{\hslash}$
 $\psi_{H}=\sqrt{\frac{2}{L}} \sin \frac{nm}{L}x$
 $\psi_{K}(X)=U(k_{x},x)e^{jKxX}$
 
+### p-n
 
-
-
-
-
-$\frac{kT}{q}=\frac{D}{\mu}$
 $V_{0}=\frac{kT}{q}\ln\left( \frac{N_{a}N_{d}}{n_{i}^{2}} \right)$
+$\frac{p_{p}}{p_{n}}=\frac{n_{n}}{n_{p}}=e^{qV_{0}/kT}$
 $W=\sqrt{\frac{2\epsilon(V_{0}-V)}{q}\left(\frac{N_{a}+N_{d}}{N_{a}N_{d}}\right)}$
-$x_{p0}=W \frac{N_{d}}{N_{a}+N_{d}}$
-$x_{n0}=W \frac{N_{a}}{N_{a}+N_{d}}$
+
+$n=n_{0}+\delta_{n}$
+$p=p_{0}+\delta_{p}$
+$\delta_{p}(x_{n})=\Delta p_{n}e^{-x_{n}/L_{p}}$
+$\delta_{n}(x_{p})=\Delta n_{p}e^{-x_{p}/L_{n}}$
+
 $Q_{+}=qAx_{n0}N_{d}=qAx_{p0}N_{a}$
 $\varepsilon_{0}=-\frac{q}{\varepsilon}x_{n0}N_{d}=-\frac{q}{\varepsilon}x_{p0}N_{a}$
+
+$I_{p}=qA \frac{D_{p}}{L_{p}}p_{n}(e^{qV/kT}-1)$
+$I_{n}=qA \frac{D_{n}}{L_{n}}n_{p}(e^{qV/kT}-1)$
+$I_{op}=qAg_{op}(L_{p}+L_{n}+W)$
+$\Delta\sigma=qg_{op}(\tau_{n}\mu_{n}+\tau_{p}\mu_{p})$
+
+#### One sided
+
+$x_{p0}=W \frac{N_{d}}{N_{a}+N_{d}}$
+$x_{n0}=W \frac{N_{a}}{N_{a}+N_{d}}$
