@@ -16,6 +16,7 @@ cssclasses:
 > > <teb99@pm.me>
 > > Cleveland, OH 11447
 > > 01/02/2006
+> > [github.com/tnichols217](https://github.com/tnichols217)
 >
 > > [!col-md-2]
 > >
@@ -61,6 +62,7 @@ cssclasses:
 >> - Microsoft Server
 >> - Ubiquiti Unifi
 >> - Docker Swarm
+>> - Quarto
 
 ## Personal Experience
 
@@ -80,9 +82,17 @@ textAlign=end
 **AI4EDU | Cleveland, OH, USA**
 
 - **Built REST backend services** for our AI chatbot using fastAPI
-- **Led a team** maintaining and updating the backend while following good coding practice
-- **Built and maintained databases** using PostgreSQL
+- **Led the backend team** of 4 people
+	- Enforced good coding practices and styles
+	- Review and provide feedback on 100% of code changes
+	- Led and implemented over 7 major features
+- **Built and maintained databases** using PostgreSQL, DynamoDB, and Pinecone
+	- Designed the database schema
+	- Maintained and created database migrations
+	- Maintain interfaces for various languages across the project
 - **Developed workflows and CI/CD** using GitHub workflows to speed up delivery of our product
+	- Sped up deployment times by over 75%
+	- Created automated PR testing and checks, increasing team efficiency
 
 ````col
 ```col-md
