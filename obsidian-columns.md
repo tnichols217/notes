@@ -194,7 +194,7 @@ dd
 ````col
 ```col-md
 ![](Assets/Attachments/Placeholder-Male.png)
-```<REMOVE>
+```
 
 ```col-md
 flexGrow=3
@@ -205,8 +205,8 @@ Mr.
 🏢 [Company Link]()
 📧 john.doe@email.com
 ☎️ [+1 23 3 23 2 23](tel:+)
-```<REMOVE>
-````<REMOVE>
+```
+````
 
 
 # Obsidian Columns

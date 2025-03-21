@@ -286,52 +286,40 @@ strong em,
   margin: 0;
 }
 
-.callout[data-callout="para"] p, .admonition-para p, .callout[data-callout="para"] strong, .admonition-para strong, .callout[data-callout="para"] em, .admonition-para em, .callout[data-callout="para"] strong em, .admonition-para strong em {
-  color: var(--text-normal);
-  text-indent: 1.27cm;
-  font-family: 'Times New Roman', 'Times';
+.callout[data-callout="para"], .admonition-para, .para {
+  --font-text: 'Times New Roman', 'Times';
   font-size: 11pt;
   line-height: 2;
   margin-bottom: 0cm;
   margin-top: 0cm;
-}
 
-.callout[data-callout="para"] h1, .callout[data-callout="para"] h2, .callout[data-callout="para"] h3, .callout[data-callout="para"] h4, .callout[data-callout="para"] h5, .admonition-para h1, .admonition-para h2, .admonition-para h3, .admonition-para h4, .admonition-para h5 {
-  color: var(--text-normal);
-  font-weight: normal;
-  text-align: center;
-  font-family: 'Times New Roman', 'Times';
-  font-size: 11pt;
-  line-height: 2;
-  margin-bottom: 0cm;
-  margin-top: 0cm;
-}
-
-.callout[data-callout="para"] h6, .admonition-source p, .admonition-para h6 {
-  color: var(--text-normal) !important;
-  font-weight: normal;
-  padding-left: 1.27cm;
-  text-indent: -1.27cm;
-  font-family: 'Times New Roman', 'Times';
-  font-size: 11pt;
-  line-height: 2;
-  margin-bottom: 0cm;
-  margin-top: 0cm;
-}
-
-.callout[data-callout="para"] blockquote, .admonition-source p, .admonition-para blockquote {
-  & p, & + p {
-    text-indent: 0;
+  & p, & strong, & em, & strong em {
+    color: var(--text-normal);
+    text-indent: 1.27cm;
   }
-  --blockquote-border-thickness: 0;
-  color: var(--text-normal) !important;
-  font-weight: normal;
-  padding-left: 1.27cm;
-  font-family: 'Times New Roman', 'Times';
-  font-size: 11pt;
-  line-height: 2;
-  margin-bottom: 0cm;
-  margin-top: 0cm;
+
+  & h1, & h2, & h3, & h4, & h5 {
+    color: var(--text-normal);
+    font-weight: normal;
+    text-align: center;
+  }
+
+  & h6, .admonition-source p {
+    color: var(--text-normal) !important;
+    font-weight: normal;
+    padding-left: 1.27cm;
+    text-indent: -1.27cm;
+  }
+
+  & blockquote, .admonition-source p {
+    --blockquote-border-thickness: 0;
+    color: var(--text-normal) !important;
+    padding-left: 1.27cm;
+
+    & p, & + p {
+      text-indent: 0;
+    }
+  }
 }
 
 .markdown-rendered ul.has-list-bullet {
@@ -415,7 +403,7 @@ strong em,
 /* Set axis text border colour */
 .desmos-graph .dcg-svg-axis-value :nth-child(1) {
   stroke: var(--background-primary);
-}
+}b
 
 /* Set axis text colour */
 .desmos-graph .dcg-svg-axis-value :nth-child(2) {

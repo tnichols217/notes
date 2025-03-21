@@ -70,7 +70,7 @@ cssclasses:
 ```col-md
 flexGrow=2
 ===
-### Research Contributor
+### Research Contributor - Software Engineer
 ```
 ```col-md
 textAlign=end
@@ -82,6 +82,9 @@ textAlign=end
 **AI4EDU | Cleveland, OH, USA**
 
 - **Built REST backend services** for our AI chatbot using fastAPI
+	- Integrating with multiple APIs including OpenAI, Anthropic, and Claude
+	- Serves 2 research teams and 5+ classes on campus for over 100 people
+	- Provides custom RAG and file access for models for individual teams and groups
 - **Led the backend team** of 4 people
 	- Enforced good coding practices and styles
 	- Review and provide feedback on 100% of code changes

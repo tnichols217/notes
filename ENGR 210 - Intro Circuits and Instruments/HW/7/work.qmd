@@ -1,0 +1,64 @@
+```{python}
+from sympy import symbols, solve
+from sympy.matrices import Matrix
+
+v1, i2 = symbols("v1 i2")
+
+R = Matrix([[1, -1], [-1, 2]]) / 10
+I = Matrix([[4, i2 * 1000]]).T / 1000
+V = Matrix([[v1, 0]]).T
+
+s = solve([R*I - V], v1, i2)
+display(i2.subs(s))
+display((i2 / 10).subs(s))
+```
+
+```{python}
+from sympy import symbols, solve, diff, Function
+from sympy.matrices import Matrix
+
+v1, t = symbols("v1, t")
+vl = Function("v_l")(t)
+ci = Function("c_i")(t)
+
+
+R = Matrix([[1, -1], [-1, 2]]) / 10
+I = Matrix([[4, vl.diff(t) / 20]]).T
+V = Matrix([[v1, vl - ci.diff(t) * 5 / 9]]).T
+
+s = solve([R*I - V], v1, vl, ci)
+# v = {
+#     i0: 21,
+#     r1: 2,
+#     r2: 3,
+#     r3: 4,
+#     c: 50
+# }
+
+display((I).subs(s))
+display((V[1]).subs(s))
+```
+
+```{python}
+from sympy import symbols, solve
+from sympy.matrices import Matrix
+
+v1, i2 = symbols("v1 i2")
+
+
+R = Matrix([[5, -5], [-5, 20]])
+I = Matrix([[2, i2]]).T
+V = Matrix([[v1, 0]]).T
+
+s = solve([R*I - V], v1, i2)
+v = {
+    i0: 21,
+    r1: 2,
+    r2: 3,
+    r3: 4,
+    c: 50
+}
+
+display((i2*r2).subs(s).subs(v))
+display((c/(1/r2 + 1/r3)).subs(s).subs(v))powerof
+```
