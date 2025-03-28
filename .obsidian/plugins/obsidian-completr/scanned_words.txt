@@ -7788,6 +7788,7 @@ cuj
 cqCnl
 chart
 captured
+carry
 in
 is
 itself
@@ -11465,6 +11466,7 @@ dddx
 dCY
 dylK
 dlJ
+donot
 related
 represent
 represented
@@ -15204,6 +15206,7 @@ sse
 simd
 sqqqzz
 sgGG
+shottky
 of
 or
 out
@@ -20194,6 +20197,7 @@ bank
 bccQy
 bPp
 bold
+brakdown
 approaches
 an
 aspects
@@ -21368,6 +21372,8 @@ aBqbs
 aRQ
 aZd
 ati
+avalance
+avalanche
 equations
 explicit
 estimate

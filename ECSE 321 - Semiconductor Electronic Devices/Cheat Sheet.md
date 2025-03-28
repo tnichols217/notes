@@ -8,12 +8,14 @@ $=8.62\times 10^{-5}~\text{ev/K}$
 $q=1.60\times10^{-19}~\text{C}$
 $m_{0}=9.11\times10^{-31}~\text{kg}$
 $\epsilon_{0}=8.85\times 10^{-14}~\text{F/cm}$
+Si: $\epsilon_{r}=11.8$
 $h=6.63\times 10^{-34}~\text{Js}$
 $=4.14\times10^{-15}~\text{eVs}$
 $kT=0.0259~\text{eV}$
 $c=2.998\times 10^{10}~\text{cm/s}$
 $\mathring {\mathrm A}=10^{-8}~\text{cm}$
 $1~\text{eV}=1.6\times10^{-19}~\text{J}$
+Si: $E_{g}=1.12~eV$
 
 ## Formulas
 
@@ -89,6 +91,7 @@ $I_{p}=qA \frac{D_{p}}{L_{p}}p_{n}(e^{qV/kT}-1)$
 $I_{n}=qA \frac{D_{n}}{L_{n}}n_{p}(e^{qV/kT}-1)$
 $I_{op}=qAg_{op}(L_{p}+L_{n}+W)$
 $\Delta\sigma=qg_{op}(\tau_{n}\mu_{n}+\tau_{p}\mu_{p})$
+$C_{j}=\frac{\epsilon A}{W}$
 ````
 
 #### One sided
