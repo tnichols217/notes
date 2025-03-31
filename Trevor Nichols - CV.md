@@ -13,6 +13,7 @@ cssclasses:
 > > ## Contact
 > >
 > > +1 (440) 263-5621
+> > +60 (11) 5634-1770
 > > <teb99@pm.me>
 > > Cleveland, OH 11447
 > > 01/02/2006
@@ -230,7 +231,7 @@ textAlign=end
 ```
 ````
 
-**Bachelor of Science (B.S.) in Computer Science Candidate**
+**Masters of Science (M.S.) in Computer Science Candidate**
 Sec. Bachelors in Data Science, Computer Engineering, Electrical Engineering
 Cleveland, OH, US
 

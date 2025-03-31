@@ -12,12 +12,13 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 83
   },
   "showLineNumber": true,
   "spellcheckDictionary": [
     "Sus",
-    "M7M"
+    "M7M",
+    "Koyuturk"
   ],
   "spellcheckLanguages": null,
   "alwaysUpdateLinks": true,
