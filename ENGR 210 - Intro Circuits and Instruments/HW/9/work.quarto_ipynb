@@ -1,0 +1,90 @@
+{
+  "cells": [
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "from cmath import rect\n",
+        "from math import pi\n",
+        "\n",
+        "l1 = complex(0, 2500 * 4 / 1000)\n",
+        "r1 = complex(5, 0)\n",
+        "c1 = complex(0, -1000000 / (2500 * 80))\n",
+        "r2 = complex(10, 0)\n",
+        "v1 = rect(12, 0)\n",
+        "i1 = rect(0.5, -30/180*pi)\n",
+        "\n",
+        "c1p = (2 * l1 * c1 + l1 * l1) / c1 # => 0\n",
+        "# l1p = (2 * l1 * c1 + l1 * l1) / l1 # => 0\n",
+        "\n",
+        "l1pe = 1/ (2/l1p + 1/r2)\n",
+        "\n",
+        "i1e = i1 * l1pe\n",
+        "\n",
+        "print(i1e)"
+      ],
+      "id": "49bb651f",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "from cmath import polar\n",
+        "from sympy import symbols, solve\n",
+        "from sympy.matrices import Matrix\n",
+        "\n",
+        "l1 = complex(0, 6)\n",
+        "r1 = 9\n",
+        "c1 = complex(0, -10)\n",
+        "c2 = complex(0, -4)\n",
+        "\n",
+        "v1r = 20\n",
+        "i1r = 10\n",
+        "v2r = 30\n",
+        "\n",
+        "i1, i2, i3, v1, v2, v3 = symbols(\"i1, i2, i3, v1, v2, v3\")\n",
+        "\n",
+        "\n",
+        "R = [\n",
+        "    Matrix([[l1 + r1, -r1], [-r1, c1 + c2 + r1]]),\n",
+        "    Matrix([[l1 + r1, -r1], [-r1, c1 + c2 + r1]]),\n",
+        "    Matrix([[l1 + r1, -r1, 0], [-r1, c1 + c2 + r1, -c1], [0, -c1, c1]]),\n",
+        "]\n",
+        "\n",
+        "I = [\n",
+        "    Matrix([[i1, i2]]).T,\n",
+        "    Matrix([[i1, i2]]).T,\n",
+        "    Matrix([[i1, i2, -i1r]]).T,\n",
+        "]\n",
+        "\n",
+        "V = [\n",
+        "    Matrix([[v1r, 0]]).T,\n",
+        "    Matrix([[0, -v2r]]).T,\n",
+        "    Matrix([[0, 0, v3]]).T\n",
+        "]\n",
+        "\n",
+        "S = [solve([r*i - v], i1, i2, v3) for r, i, v in zip(R, I, V)]\n",
+        "va = [(s[i2] * c2).evalf() for s in S]\n",
+        "Va = sum(va)\n",
+        "display(va)\n",
+        "display(Va)\n",
+        "polar(Va)"
+      ],
+      "id": "8c314b08",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/nix/store/3c8vci5316k0wfz81r8i2fdm9dyxh0bs-python3-3.12.9-env/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

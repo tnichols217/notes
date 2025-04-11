@@ -231,7 +231,7 @@ textAlign=end
 ```
 ````
 
-**Masters of Science (M.S.) in Computer Science Candidate**
+**Masters and Bachelors of Science (M.S./B.S.) in Computer Science Candidate**
 Sec. Bachelors in Data Science, Computer Engineering, Electrical Engineering
 Cleveland, OH, US
 
@@ -254,7 +254,7 @@ Studied in
 ````
 
 Participated in
-- The Fraternity of Theta Chi - Scholarship Chair since 2024
+- The Fraternity of Theta Chi - Scholarship Chair and Assistant Treasurer since 2024
 - CWRUnix (Case Linux Club) - Honorary exec member
 - The Board Meeting - Active Member
 
