@@ -10303,6 +10303,7 @@ pTv
 peaked
 piecewise
 plaque
+phasor
 directly
 differential
 derivative
@@ -12766,6 +12767,8 @@ regions
 rqLH
 rIU
 replacing
+resonates
+resonsnace
 to
 the
 that
@@ -13931,6 +13934,7 @@ threshold
 tYF
 tMs
 tracking
+transfer
 size
 system
 search
@@ -15351,6 +15355,7 @@ sin
 saturate
 sYGw
 sender
+spectral
 of
 or
 out
@@ -21561,6 +21566,7 @@ adapt
 adh
 adp
 arrived
+approximations
 equations
 explicit
 estimate
@@ -29591,6 +29597,7 @@ Cornet
 Cavusoglu
 Chelle
 CUDA
+Component
 may
 marked
 must
@@ -39421,6 +39428,7 @@ BEID
 Because
 BJH
 Bradshaw
+Bode
 qualitative
 quadratic
 question
@@ -45109,6 +45117,7 @@ Roysdon
 Ronnie
 RJm
 RnK
+RLC
 zero
 zz
 zoU
