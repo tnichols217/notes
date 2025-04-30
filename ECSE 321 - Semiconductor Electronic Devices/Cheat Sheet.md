@@ -11,6 +11,7 @@ $m_{0}=9.11\times10^{-31}~\text{kg}$
 $\epsilon_{0}=8.85\times 10^{-14}~\text{F/cm}$
 Si: $\epsilon_{r}=11.8$
 SiO2: $\epsilon_{r}=3.9$
+Si: $n_{i}=1.5\times 10^{10}~cm^{-3}$
 
 $h=6.63\times 10^{-34}~\text{Js}$
 $=4.14\times10^{-15}~\text{eVs}$
@@ -20,6 +21,7 @@ $\mathring {\mathrm A}=10^{-8}~\text{cm}$
 $1~\text{eV}=1.6\times10^{-19}~\text{J}$
 Si: $E_{g}=1.12~eV$
 Si: $\phi_{m}\approx\chi=4.05~eV$
+Si: $\mu_{n}=1350~cm^{2}/Vs$, $\mu_{p}=480~cm^{2}/Vs$
 ```
 
 ## Formulas
@@ -113,6 +115,20 @@ $C_{j}=\frac{\epsilon A}{W}$
 
 $x_{p0}=W \frac{N_{d}}{N_{a}+N_{d}}$
 $x_{n0}=W \frac{N_{a}}{N_{a}+N_{d}}$
+
+### BJT pnp
+
+$B=\frac{I_{C}}{I_{E_{p}}}=\operatorname{sech}\left(\frac{W_{b}}{L_{p}}\right)$
+$\gamma=\frac{I_{E_{p}}}{I_{E_{n}}+I_{E_{p}}}=\left(1+\frac{L_{p}^{n}n_{n}\mu_{n}^{p}}{L_{n}^{p}p_{p}\mu_{p}^{n}}\operatorname{tanh}\left(\frac{W_{b}}{L_{p}^{n}}\right)\right)^{-1}$
+$\alpha=B\gamma$
+$\beta=\frac{\alpha}{1-\alpha}$
+$I_{E_{p}}=qA\frac{D_{p}}{L_{p}}\left(\Delta p_{E}\operatorname{ctnh}\frac{W_{b}}{L_{p}}-\Delta p_{C}\operatorname{csch}\frac{W_{b}}{L_{p}}\right)$
+$I_{C}=qA\frac{D_{p}}{L_{p}}\left(\Delta p_{E}\operatorname{csch}\frac{W_{b}}{L_{p}}-\Delta p_{C}\operatorname{ctnh}\frac{W_{b}}{L_{p}}\right)$
+$I_{B}=qA\frac{D_{p}}{L_{p}}\left(\left(\Delta p_{E}+\Delta p_{C}\right)\operatorname{tanh}\frac{W_{b}}{2L_{p}}\right)$
+$\Delta p_{E}=p_{n}(e^{qV_{EB}/kT}-1)$
+$\Delta p_{C}=p_{n}(e^{qV_{CB}/kT}-1)$
+$I_{C}/I_{E}=\alpha$
+$I_{C}/I_{B}=\beta$
 ```
 ```col-md
 ### MOS
@@ -122,9 +138,16 @@ $W_{min}=W\bigg|_{V_{0}-V=\phi_{s}}$
 $C_{i}=\frac{\epsilon_{i}}{d}$
 $C_{d}=\frac{\epsilon_{s}}{W}$
 $C=\frac{C_{i}C_{d}}{C_{i}+C_{d}}$
-$V_{FB}=\Phi_{ms}-\frac{Q_{i}}{C_{i}}$
+$V_{FB}=\phi_{ms}-\frac{Q_{i}}{C_{i}}$
 $Q_{d}=-qN_{a}W_{m}=-2(\epsilon_{s}qN_{a}\phi_{F})^{1/2}$
-$V_{T}=V_{FB}-\frac{Q_{d}}{C_{i}}+\Phi_{s}$
+$V_{T}=V_{FB}-\frac{Q_{d}}{C_{i}}+\phi_{s}$
 $\Phi_{s}=\chi+\frac{E_{g}}{2}-\phi_{F}$
+$I_{D}=\frac{\bar{\mu_{n}}ZC_{i}}{L}((V_{G}-V_{T})V_{D}-\frac{1}{2}V_{D}^{2})$
+$I_{Dsat}=\frac{Z}{2L}\bar{\mu_{n}}C_{i}V_{D}^{2}$
 ```
 ````
+
+$B$ Base Transportation Factor
+$\gamma$ Emitter Injection Efficiency
+$\alpha$ Current Transfer Ratio
+$\beta$ Base to Collection Current Amplification Factor

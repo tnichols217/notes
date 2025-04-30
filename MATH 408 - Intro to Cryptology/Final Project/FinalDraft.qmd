@@ -17,7 +17,9 @@ The idea behind ZKPs is to provide a method for proving the truth of a statement
 
 ## Brief
 
+## What is a Zero Knowledge Proof
 
+A Zero Knowledge 
 
 ## Development
 

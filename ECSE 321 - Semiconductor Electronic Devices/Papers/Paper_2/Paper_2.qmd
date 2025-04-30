@@ -1,0 +1,146 @@
+---
+title: A Survey of GAA-FET Technologies in Comparison to Prior Techniques
+format:
+  ieee-pdf:
+    keep-tex: false
+  ieee-html: default
+author:
+  - id: tnichols217
+    name: Trevor Nichols
+    affiliations:
+      - name: Case Western Reserve University
+        department: Electrical Engineering
+        city: Cleveland, Ohio
+        country: USA
+        postal-code: 44106
+    email: tln32@case.edu
+    url: https://github.com/tnichols217
+    attributes:
+      corresponding: true
+abstract: |
+  This article aims to survey the upcoming Gate All Around FET (GAA-FET) technologies in comparison to other MOSFET technologies, for their purposes and applications in modern semiconductor devices.
+keywords: [ GAA-FET FET ]
+pageheader:
+  left: ECSE 321, Apr 2025
+bibliography: bibliography.bib
+date: 2025-04-29
+pdf: https://github.com/dfolio/quarto-ieee/blob/main/template.pdf
+citation: 
+  container-title: GitHUB
+  page: 1-3
+  type: software
+  issued: 2023-06-23
+  url: https://github.com/dfolio/quarto-ieee
+  pdf-url: https://github.com/dfolio/quarto-ieee/template.pdf
+nocite: |
+  @*
+---
+
+# Introduction {#sec-intro}
+
+[T]{.IEEEPARstart}[he]{}
+development of better and smaller semiconductors are a challenge that constantly plagues researchers. Over time, multiple creative changes to the manufacturing of smaller FET devices allow it to be shrunken time and time again. Starting with strained Si, then by utilizing a high K gate, then by utilizing FinFETs. Now, as we shrink past the 5nm scale, novel advancements must be made in order to maintain an effective and operational FET device.
+
+# History of Smaller FETs {#sec-smaller}
+
+From the 1970s, FETs were roughly 10 µm in size, shrinking to 90 nm by 2003, and 7 nm by today en masse @10009504. A shrinking in FET size is essential for the development of computing technology, as smaller FETs allow for denser computing devices, and thus more processing power in the same area. Smaller FETs also benefit from other effects including higher switching speeed, reduced power loss, and a reduction in manufacturing cost in certain cases @10009504. However, the shrinking of FETs does not come without difficulties; The smaller FETs get, the more important it is that the effects of SCEs are dealt with in a manner that allows the FETs to still perform as switching devices.
+
+Short Channel effects are in effect when the channel through the gate itself in the structure of a FET gets so small that the gate is no longer able to close the channel to a level that limits current flow in a necessary manner. Smaller and smaller channel lengths and gate sizes result directly in high leakage current and excess heat output, counteracting its usefulness as a more dense computing device @10009504. In order for FETs to remain operational, it is essential that their power dissipation, leakage current, speed, and reliability are maintained over a pure shrinkage in size @10009504.
+
+In the past, we have attempted to change the composition of the various parts of the FET in order to give the gate more control over the channel, allowing us to shrink further, such as utilizing a high K dielectric gate, non uniform doping, silicon on insulator, and strained silicon. All these techniques attempt to counteract the negetive effects of the lack of control on the gate by either isolating or enhancing the effect of the gate through its chemistry @10009504.
+
+:::{#fig-1}
+![](attachments/Advancement.png)
+
+Development of FET technology over time @10488424
+:::
+
+Since 2011, these techniques have fallen short, leaving researchers to develop new techniques to directly counteract the effect of SCEs in small FETs, leading to the development of 3D shaped silicon @10009504. When shifting from 22nm to 16nm, SCEs were too strong to counteract solely with chemistry, leading Intel to create the FinFET technology, a fundamental shift from pure changes in chemistry to the shape of the gate and channel itself @10488424.
+
+:::{#fig-2}
+![](attachments/FET.png)
+
+A comparison of gate shapes @10582059
+:::
+
+As seen in @fig-2, the shape of the channel and gate are directly modified to increase gate effects upon the channel when comparing the Planar and Fin FETs.
+
+Today, we are attempting to shrink past the size of 3nm, once again signalling a shift in the way we need to design our FETs in order for them to remain operational at such small sizes. FinFETs at this size struggle to perform at an acceptable level, incurring negative effects such as SHEs, NTBI/PTBI (Negative/Positive Bias Temperature Instability), and stress-induces leakage current (NTBI) @10488424.
+
+# A Move to Shaped Channels
+
+As seen in @sec-smaller, research in the area of the shape of the gate and channel are essential in order to continue the shrinkage of electronic devices. Comparing a typical Planar MOSFET with a FinFET, the gate of a planar MOSFET only has one side of influence over the channel, as compared to the 3-sided influence a FinFET's gate has. This directly leads to a stronger control over the channel without needing to change the composition of any of the materials used @10488424. Moving from one sided influence to three has shown significant improvement in the electrostatic gate control, leading to the development of GAA-FETs (Gate All Around Field Effect Transistor), which has all four sides of the channel directly being influenced by the gate, as seen in @fig-3, which further enhances the effect of the gate control and reduces current leakage @10488424.
+
+:::{#fig-3}
+![](attachments/Gate_shapes.png)
+
+A comparison of Fin and post-Fin gate shapes @10009504
+:::
+
+@fig-3 displays multiple gate shapes, with various abilities to increase the gate effect upon the channel. Before the GAA FET, there are many intermediaries including the Pi gate and the Omega gate, with better performance than the Fin.
+
+In addition to utilizing a GAA structure in comparison to a Fin, multi-gate and multi-channel structures also prove to be essential for the usage of GAAs @10009504. As the area of the channel shrinks, so does its capability to carry current, but in order to maintain the same capabilities, a multi-gate structure may be utilized in order to reap the benefits of having a GAA design with similar current capabilities @10582059, also as seen in @fig-2. This combination of structure changes allow for strong gate control while maintaining current capabilities, and a reduction in SCEs,  @10488424.
+
+In select cases, the nanowires making up the composition of the GAA-FET still do not make up the current requirements of its equivalent Fin, which led to the development of Samsung's GAA MBC-FET, elongating the nanowires' widths allowing for an increase in current throughput @10488424.
+
+In addition to the utilization of multi-gate multi-channel technologies, the shape of the channel itself also has an effect on the gate's strength. Square or rectangular channels, the ones most easily made with our current manufacturing technologies suffer from a gathering of electric fields at its corners, reducing the SCE reduction effect of the GAA structure @10009504. Cylindrical channels have been shown to more uniformly spread the gate's electric field, due to its symmetrical shape, allowing for a more precise and accurate control of the channel while reducing SCEs @10009504.
+
+:::{#fig-4}
+![](attachments/Cylindrical_GAA.png)
+
+Cylindrical GAA nanowire @10526280
+:::
+
+@fig-4 displays what a cylindrical channel would look like within a GAA-FET utilizing this topology.
+
+This new structure of FETs allow for stronger gate control, lower current leakage and thus lower power consumption, while allowing for a high saturation current @10488424. Any kind of power or current management system greatly benefits from this increase in effeciency given by the novel channel and gate shape designs, meeting the requirements for high-performance, effecient computing @10488424.
+
+# Manufacturing and Challenges
+
+When moving from a planar FET structure to the FinFET structure, there were many fabrication issues that needed to be solve. Due to thin structures, formations of such small 3D shapes was difficult @10009504. Now, however, as the Fin structure has matured along with its manufacturing techniques, our ability to create small 3D structures has also improved. The same technologies used to create FinFETs may be directly applied to the creation of GAA-FETs, with identical process tools and manufacturing procedures @10488424. This significantly reduces our cost to adopt GAA structures in FETs by not requiring new specialized equipment.
+
+The typical depositation of a GAA-FET channel utilizes multiple iterations of a deposition of silicon and silicon germanium, whatever chemistries utilized for the gate and channel, thus being more complicated than the deposition of a Fin, requiring only one iteration of a deposition of the channel.
+
+However, as the GAA structure matures and shrinks, further advancements in our current manufacturing process will be required to utilize all of the GAA-FETs potential. Our current exploration of EUV lithography instead of regular lithography plays a large role in our ability to shrink FET sizes @10488424. Without smaller etching techniques, we will reach a point were we are unable to create the miniscule structures that a smaller GAA-FET may utilize.
+
+Today, however, Samsung has already released chips utilizing the new GAA-FET technology on their 3 nm node, with TSMC and Intel to follow in 2026 and 2025 respectively @10488424.
+
+# Performance
+
+Das's paper @9078841 comparing a typical FinFET with its equivalent GAA-FET allows us to directly compare the implications of the shape of the gates on channels on measurable metrics relevant to the performance of the FET. Das elected to compare a 5 nm by 43 nm Fin with its equivalent GAA-FET, with channels 5 nm tall and 5 nm wide, and later swapped for channels 5 nm tall and 20 nm wide.
+
+:::{#fig-5}
+![](attachments/GAA_comparison.png)
+
+Equivalent nanosheet GAA compared to a Fin @9078841
+:::
+
+@fig-5 displays the Fin and GAA FET shapes utilized by Dan in his comparison of the two gate technologies.
+
+:::{#fig-6}
+![](attachments/GAA_Current.png)
+
+Comparison of off and on channel currents for a Fin vs GAA @9078841
+:::
+
+As seen in @fig-6, the GAA FET suffers from a 62% reduction in on current, and next to no loss in off current as compared to the Fin @9078841. This comparison however, should be taken with the insight that the active area of the nanowires are 63% smaller than that of the Fin, which led to the further decision to enwiden the nanowires for further experimentation.
+
+@fig-6 also shows the consistence of the GAA-FET even across multiple gate lenghts, allowing for the gate to be shrunk in a real-world application without loss of gate control over the channel, as expected.
+
+# Applications
+
+GAA-FETs as a whole typically exhibit excellent transconductance linearity, gate control, and threshold voltage, making them well suited for low-power applications @10526280. A furtherance in the development of GAA-FETs would also allow the technology to increase the density of computing devices, as seen with Samsung's GAA technology.
+
+A specific type of GAA-FET, the InGaAs JLFET, is also strongly suited for high temperatures as they have less temperature reliance upon their utilization @10526280.
+
+Lastly, GAAs may also be utilized in biosensors and chemical sensors as they are able to be tuned to a level of control well beyond what is capable with our current Fin technology @10009504. Its high density and lower power consumption also allow it to be useful in solar, NV-RAM, SRAM, ring oscillators and many more @10009504.
+
+# Conclusions
+
+GAA-FET technology is the latest advancement in the manufacturing of today's FETs, allowing for even smaller transistors in compute devices as well as more sensitive and accurate gates. This wide range of improvements come at the cost of lower throughput current, which may be remedied by the usage of multi-channel multi-gate structures, or the utilization of nano-sheets instead of nano-wires. With stronger gate control, FETs may be shrunk to a size previously unattainable, even for Fin technology, which has dominated the FET space since 2011.
+
+GAA-FETs have a wide range of applications from biosensors, to solar, to high density compute, or even low-power compute, leading to its heavy research and fast adoption from large companies such as Samsung, Intel, and TSMC.
+
+::: {.content-visible when-format="pdf"}
+# References {-}
+:::
