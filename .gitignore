@@ -3,3 +3,5 @@
 .obsidian/workspace.json
 .vault-stats
 test*
+.quarto
+_freeze
