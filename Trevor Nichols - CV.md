@@ -23,7 +23,7 @@ cssclasses:
 > >
 > > ## Career Object
 > >
-> > Detail-oriented professional with experience in software development, API endpoint design and implementation, AI training and frontend design. Deep understanding in backend integration with Microsoft Azure, GitHub actions, and Nix CI/CD. Extensive experience in modeling, animating, and texturing 3D models for commercial purposes. Praised for creative problem-solving, meticulousness, and technical depth. Excels at the integration of computer programming and art.
+> > Detail-oriented professional with experience in software development, API endpoint design and implementation, AI training, and frontend design. Deep understanding in backend integration with Microsoft Azure, GitHub actions, and Nix CI/CD. Extensive experience in modeling, animating, and texturing 3D models for commercial purposes. Praised for creative problem-solving, meticulousness, and technical depth. Excels at the integration of computer programming and art.
 
 ## Skills
 
@@ -81,6 +81,8 @@ textAlign=end
 ````
 
 **AI4EDU | Cleveland, OH, USA**
+
+[github://os-computational-economics/ai4edu-api-service](https://github.com/os-computational-economics/ai4edu-api-service)
 
 - **Built REST backend services** for our AI chatbot using fastAPI
 	- Integrating with multiple APIs including OpenAI, Anthropic, and Claude
@@ -216,6 +218,8 @@ textAlign=end
 	- Highly experienced at **generative geometry**, textures, and lighting
 - Led over 50% of 3D design and modelling projects for the company
 
+<div style="page-break-after: always;"></div>
+
 ## Education
 
 ````col
@@ -240,11 +244,13 @@ Cleveland, OH, US
 Senior Status, GPA 3.805
 - Questbridge scholar
 - University merit-based scholar
-- Dean's High Honors x2
+- Dean's High Honors x4
 ```
 ```col-md
 Studied in
 - Artificial Intelligence
+- Machine Learning
+- Data Science Systems and Modelling
 - Systems Programming
 - Theoretical Statistics
 - Hardware Logic Design
@@ -255,7 +261,7 @@ Studied in
 
 Participated in
 - The Fraternity of Theta Chi - Scholarship Chair and Assistant Treasurer since 2024
-- CWRUnix (Case Linux Club) - Honorary exec member
+- CWRUnix (Case Linux Club) - Current President
 - The Board Meeting - Active Member
 
 ````col

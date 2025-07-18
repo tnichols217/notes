@@ -84,6 +84,8 @@ $np=n_{i}^{2}e^{(F_{n}-F_{p})/kT}$
 $\psi=A\sin Kx$
 $K=\frac{\sqrt{2mE}}{\hslash}$
 
+$\frac{d^{2}}{dx^{2}}\psi(x)+\frac{2m}{\hslash^{2}}E\psi(x)=0$
+
 $\psi_{H}=\sqrt{\frac{2}{L}} \sin \frac{nm}{L}x$
 $\psi_{K}(X)=U(k_{x},x)e^{jKxX}$
 ```
