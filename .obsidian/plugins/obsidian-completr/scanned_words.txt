@@ -2914,6 +2914,7 @@ Specifications
 Signal
 Senses
 Subjective
+Shift
 Population
 Predator
 Prey
@@ -32804,6 +32805,7 @@ Analog
 ALh
 Analytical
 Analyze
+AUC
 Qualitative
 Quantifiers
 Query
@@ -62916,6 +62918,7 @@ RAb
 RHG
 Realize
 Realization
+Reversal
 zero
 zz
 zoU

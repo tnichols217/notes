@@ -32,7 +32,28 @@ $Ex=\int\limits_{-\infty}^{\infty}|x(t)|^{2}~dt$
 Power (time averaged AUC):
 $Px=\lim\limits_{T\to\infty} \frac{1}{T}\int\limits_{-T/2}^{T/2}|x(t)|^{2}~dt$
 
-```molecule3d
-cyclopentane
-```
+## Signal Operations
+
+Given: $x(t)$
+
+Time Shift:
+$x(t-s)$ where $s$ is the shift
+
+Time Scale:
+$x\left( \frac{t}{s} \right)$ where $s$ is the scale
+
+Reversal happens when the time scale is less than $0$
+
+## Periodic signals
+
+Periodic signals are signals that satisfy the following equation:
+
+$\forall n\in\mathbb Z:x(t)=x(t+nT_{0})$
+
+## Basic Signals
+
+Unit step: 
+
+$u(t)=\begin{cases}1&t\ge0\\0&t<0\end{cases}$
+$u'(t)=\delta(t)$
 
