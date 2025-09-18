@@ -1,0 +1,8 @@
+- 1st class functions
+- enums
+- exhaustive pattern matching
+- strict typing
+- traits/implementations
+- generators
+- functional style list comprehension
+- fstrings
