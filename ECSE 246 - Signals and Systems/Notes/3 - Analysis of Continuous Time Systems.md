@@ -144,3 +144,9 @@ Which allows us to solve for $\vec c$
 Thus finalizing our solution for $h(t)$ as:
 
 $h(t)=b_{0}\delta(t)+\vec c'(\vec t\odot e^{t\vec\lambda_{N}^{*}})u(t)$
+
+### Zero State Response (ZSR)
+
+By taking our impulse state response $h(t)$ and convoluding it with our input function, we are able to obtain the zero state response.
+
+$y_{zsr}(t)=x(t)*h(t)$

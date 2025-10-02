@@ -116,5 +116,26 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "obsidian-advanced-slides:open-advanced-slides-preview": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "qmd-as-md-obsidian:toggle-quarto-preview": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "dashboard-navigator:navigator": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }
