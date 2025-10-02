@@ -47,6 +47,7 @@ $\frac{d}{d\vec c}E_{e}=\vec 0$
 Where error is at the minimum for each possible value of $c$.
 
 Expanding, we see that for any $c_{i}\in\vec c$
+And for the corresponding $x_{i}(t)\in\vec x(t)$ where $\vec x(t)$ are the functions composing the Fourier series
 
 $\frac{d}{dc_{i}}\int\limits_{t_{1}}^{t_{2}}\left(x(t)-\sum\limits_{n=1}^{N}c_{n}x_{n}(t)\right)^{2}~dt=0$
 $\implies\frac{d}{dc_{i}}\int\limits_{t_{1}}^{t_{2}}\left(x(t)-c_{i}x_{i}(t)\right)^{2}~dt=0$
@@ -62,3 +63,8 @@ Proving that the scale parameters for each function does not depend on other val
 For periodic functions of a specific fundamental frequency, we pick our functions to sum upon to be sinusoidals of multiple of the same fundamental frequency.
 
 Doing this ensures that our output maintains the periodicity of the original function.
+
+This means that typically $\vec x(t)=\{x_{n}(t)=\sin(2\pi f_0nt):n\in[1,N]\}$
+As $N\to\infty$
+
+Or with the $\cos$ function, or both for functions that require it.
