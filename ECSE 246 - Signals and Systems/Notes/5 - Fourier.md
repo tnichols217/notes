@@ -68,3 +68,11 @@ This means that typically $\vec x(t)=\{x_{n}(t)=\sin(2\pi f_0nt):n\in[1,N]\}$
 As $N\to\infty$
 
 Or with the $\cos$ function, or both for functions that require it.
+
+## Spectra
+
+Fourier Series Spectra graphs are just graphs of the parameters corresponding to various vectorized parameters of the summation.
+
+For summations of $\sin$ or $\cos$ you typically would be plotting $c$ vs $n$ (discrete).
+
+For more complicated periodic functions, you may be plotting $c_{\sin},c_{\cos}$ vs $n$ or $c,\theta$ vs $n$.
