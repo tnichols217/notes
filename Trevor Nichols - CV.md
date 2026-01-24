@@ -23,29 +23,27 @@ cssclasses:
 > >
 > > ## Career Object
 > >
-> > Detail-oriented professional with experience in software development, API endpoint design and implementation, AI training, and frontend design. Deep understanding in backend integration with Microsoft Azure, GitHub actions, and Nix CI/CD. Extensive experience in modeling, animating, and texturing 3D models for commercial purposes. Praised for creative problem-solving, meticulousness, and technical depth. Excels at the integration of computer programming and art.
+> > Detail-oriented professional with experience in software development, API endpoint design and implementation, AI training, and frontend design. Deep understanding in backend integration with Microsoft Azure, GitHub actions, and Nix CI/CD. Extensive experience in modeling, animating, and texturing 3D models for commercial purposes. Praised for creative problem-solving, meticulousness, and technical depth. Excels at the integration of computer systems.
 
 ## Skills
 
 > [!col]
 >> [!col-md]
->> 7+ years
+>> 6 years
 >> - Linux
 >> - Docker
 >> - Podman
 >> - Docker Compose
 >> - Systemd
->> - Excel
->> - Word
->> - Powerpoint
+>> - Office Suite
 >
 >> [!col-md]
->> 6 years
+>> 5 years
 >> - Node.js
 >> - JS/TS
 >> - Github Actions
 >> - Java
->> - Nix
+>> - Nix/Flakes
 >> - C#
 >> - HTML
 >> - CSS
@@ -65,7 +63,63 @@ cssclasses:
 >> - Docker Swarm
 >> - Quarto
 
+## Notable Projects
+
+### Bayesian Belief Propagation
+https://github.com/tnichols217/Bayesian-Belief-Propagation
+
+- **Researched and Implemented** Bayesian Belief Propagation algorithms in TypeScript
+- **Applies** relational dynamic graph learning based on any observations
+
+### Gerrymandering Simulations
+https://github.com/tnichols217/CSDS133-final
+
+- **Implemented** a spatial simulation in pure PostgreSQL to simulate counties based on population densities
+- **Aggressively Optimized** the code to run in reasonable time in order to perform simulations on multiple states.
+
+### Small AI Image Detection
+https://github.com/tnichols217/DSCI453-final-project
+
+- **Performed a Meta-Analysis** on the training of small neural network models to attempt and learn what models would be able to balance size and accuracy.
+- **Optimized and wrote custom parsers** in order to speed up the execution and training speed by multiple factors.
+
+### HTMS
+https://github.com/tnichols217/htms
+
+- **Created and Designed** a custom HTML server side renderer to enable more composable websites built fully without client side JavaScript
+- **Integrates with GitHub Actions** to enable easier use for users
+- **Built with Nix** for reproducible outputs and compile system
+
+### Beta Nu of Theta Chi Bylaws
+https://github.com/beta-nu-theta-chi/bylaws
+
+- **Designed and Maintain** the CI system for building my fraternity's bylaw website, official documents, and branding
+- **Utilized Nix** to ensure reproducible building of the documentation
+
 ## Personal Experience
+
+````col
+```col-md
+flexGrow=2
+===
+### Research Contributor - Computer Science Consultant
+```
+```col-md
+textAlign=end
+===
+**Feb 2025 - Aug 2025**
+```
+````
+
+**Dr. Jolly Bioinformatics Lab | Cleveland, OH, USA**
+
+- **Built CI pipelines** to build and use specialized bioinformatics software
+	- Utilized both Nix and GitHub Actions
+	- Provided support for software that otherwise would be unsupported on modern platforms
+	- Provided standardized environments for research and reputability by utilizing Nix
+- **Managed System Deployments** for Researcher Workstations
+	- Provided Linux support for researchers
+	- Assisted in creating specialized tools and scripts to assist with research
 
 ````col
 ```col-md
@@ -218,8 +272,6 @@ textAlign=end
 	- Highly experienced at **generative geometry**, textures, and lighting
 - Led over 50% of 3D design and modelling projects for the company
 
-<div style="page-break-after: always;"></div>
-
 ## Education
 
 ````col
@@ -262,7 +314,6 @@ Studied in
 Participated in
 - The Fraternity of Theta Chi - Scholarship Chair and Assistant Treasurer since 2024
 - CWRUnix (Case Linux Club) - Current President
-- The Board Meeting - Active Member
 
 ````col
 ```col-md
