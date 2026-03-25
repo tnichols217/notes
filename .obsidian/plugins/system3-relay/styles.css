@@ -32,13 +32,17 @@
 	padding-inline-end: 0px !important;
 }
 
-.system3-pill:hover > .folder-icons {
+.system3-pill:hover > .system3-folder-icons {
 	background-color: var(--color-base-05);
 	width: auto !important;
 }
 
-.system3-pill:hover > .folder-icons > .icon {
+.system3-pill:hover > .system3-folder-icons > .system3-icon {
 	display: flex;
+}
+
+.nav-file-tag .nav-file-title:not(:first-child) .system3-pill {
+	margin-inline-start: 1em;
 }
 
 .nav-file-title,
@@ -75,7 +79,16 @@
 	color: var(--color-red);
 }
 
+.workspace-split.mod-root
+	.workspace-leaf:nth-child(n)
+	.workspace-leaf-content[data-type="markdown"]:has(
+		.system3-banner-box
+	)::before {
+	top: 4em !important;
+}
+
 .obsidian-live-banner {
+	position: relative;
 	align-items: center;
 	justify-content: space-between;
 	display: flex;
@@ -97,7 +110,7 @@
 	width: 32em;
 }
 
-.banner {
+.system3-banner {
 	border-color: var(--pill-border-color-hover);
 	cursor: pointer;
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -109,7 +122,7 @@
 	background: var(--interactive-accent);
 }
 
-.banner > span {
+.system3-banner > span {
 	font-weight: bold;
 	display: flex;
 	flex-grow: 1;
@@ -117,6 +130,57 @@
 	color: var(--text-on-accent);
 	font: var(--font-interface-theme);
 	text-shadow: var(--input-shadow);
+}
+
+.system3-login-button,
+.system3-merge-button {
+	background: var(--interactive-accent) !important;
+	color: var(--text-on-accent) !important;
+	border: var(--modal-border-width) solid var(--pill-border-color-hover) !important;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: var(--font-ui-medium);
+	font: var(--font-interface-theme);
+	text-shadow: var(--input-shadow);
+}
+
+.system3-syncing:not(.is-active) {
+	animation: system3-glow-sync 1.5s ease-in-out;
+	transition: background-color 2s ease-in-out;
+}
+
+.system3-downloading:not(.is-active) {
+	animation: system3-glow-download 1.5s ease-in-out;
+	transition: background-color 2s ease-in-out;
+}
+@keyframes system3-glow-sync {
+	0% {
+		background-color: transparent;
+	}
+	20% {
+		background-color: hsla(var(--color-accent-hsl), 0.1);
+	}
+	80% {
+		background-color: hsla(var(--color-accent-hsl), 0.1);
+	}
+	100% {
+		background-color: transparent;
+	}
+}
+
+@keyframes system3-glow-download {
+	0% {
+		background-color: transparent;
+	}
+	20% {
+		background-color: hsla(var(--color-accent-hsl), 0.1);
+	}
+	80% {
+		background-color: hsla(var(--color-accent-hsl), 0.1);
+	}
+	100% {
+		background-color: transparent;
+	}
 }
 
 .nav-folder > .nav-folder-children.system3-live {
@@ -242,4 +306,9 @@
 
 .mb-20 {
 	margin-bottom: 5rem; /* 80px */
+}
+
+/* Fix button width on mobile in setting items for our components */
+.is-phone .modal .setting-item-control button.system3-button {
+	width: auto !important;
 }

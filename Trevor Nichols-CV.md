@@ -3,7 +3,6 @@ date created: 2023-09-03 21:58
 cssclasses:
   - CV
 ---
-
 # Trevor Nichols
 
 > [!col]
@@ -59,6 +58,8 @@ cssclasses:
 >> - Azure
 >> - Quarto
 >> - Rust
+>> - C
+>> - Verilog/VHDL
 ## Recent Experience
 
 ````col
@@ -73,9 +74,8 @@ textAlign=end
 **Feb 2025 - Current**
 ```
 ````
-
 **Dr. Jolly Bioinformatics Lab | Cleveland, OH, USA**
-
+%% Built and managed CI pipelines to assist on the software side of bioinformatics. Repackaged and assisted with the usage of software throughout the lab for large data analysis. %%
 - **Built CI pipelines** to build and use specialized bioinformatics software
 	- Utilized both Nix and GitHub Actions for artifact building and dev environments
 	- Rearchitected and revitalized software to be able to use full advantage of current hardware
@@ -98,9 +98,8 @@ textAlign=end
 **Sep 2024 - Aug 2025**
 ```
 ````
-
 **AI4EDU at Case Western Reserve University | Cleveland, OH, USA**
-
+%% Led backend development, designed APIs, and managed on-site deployments of our AI service for researchers, teams, and classes on campus for confidential data. %%
 [github://os-computational-economics/ai4edu-api-service](https://github.com/os-computational-economics/ai4edu-api-service)
 
 - **Built REST backend services** for our in-house AI chatbot using fastAPI
@@ -149,9 +148,8 @@ textAlign=end
 **Aug 2022 - Aug 2023**
 ```
 ````
-
 **Dalat International School | Tanjung Bungah, Penang, Malaysia**
-
+%% Full stack website development for internal portals and manage internal network. Oversaw a major refactoring of internal projects for people management. %%
 - **Fullstack development** utilizing Aurelia, C#, .NET, Azure functions, and SQL.
 - Managed a private network through **Unifi** network management software
 - **Maintained and initiated a major refactoring** on an internal management system serving 100+ educators

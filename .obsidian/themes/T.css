@@ -659,3 +659,7 @@ div.mermaid > svg {
     line-height: var(1.3);
   }
 }
+
+pre.language-ascii {
+  line-height: 1;
+}

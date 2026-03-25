@@ -27,11 +27,12 @@
   "hide_outgoing": false,
   "hide_columns": [],
   "show_dashboard_piechart": true,
+  "remember_last_search": true,
   "image_thumbnail": true,
   "thumbnail_size": 82,
   "primary_tags_results_visible": true,
   "tags_sidebar": true,
   "tags_sidebar_sorted_by_frequency": false,
-  "onclose_search": "compiler",
+  "onclose_search": "309 ",
   "saved_searches": []
 }

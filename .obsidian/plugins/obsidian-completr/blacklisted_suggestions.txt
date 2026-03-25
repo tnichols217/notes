@@ -41,3 +41,9 @@ toc
 tOCe
 cache
 work
+aBC
+abc
+aBcz
+nAn
+naN
+\nabla

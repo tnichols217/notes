@@ -1,15 +1,41 @@
 {
+  "release": {
+    "channel": "stable"
+  },
   "sharedFolders": [
     {
       "guid": "2d9918af-c87f-46d1-9944-77d712b4cee0",
       "path": "Shared/Browser Android",
-      "relay": "736e9919-6436-4b9a-bb13-75a29d0e88cc"
+      "relay": "736e9919-6436-4b9a-bb13-75a29d0e88cc",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
     }
   ],
+  "endpoints": {},
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": true,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": true,
+  "enablePresenceAvatars": true,
+  "enableLiveEmbeds": true,
+  "enablePreviewViewHooks": true,
+  "enableMetadataViewHooks": true,
+  "enableKanbanView": true,
   "debugging": false,
   "enableUpdateYDocFromDiskBuffer": false,
   "enableDownloadOnAddToVault": false,
-  "enableUploadOnShare": false,
-  "enableDocumentStatus": false,
-  "enableNewLinkFormat": false
+  "enableUploadOnShare": false
 }

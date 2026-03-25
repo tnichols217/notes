@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="130.5878mm"
+   height="85.523003mm"
+   viewBox="0 0 130.5878 85.523001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="3.2.2.1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.8545085"
+     inkscape:cx="222.4309"
+     inkscape:cy="111.88948"
+     inkscape:window-width="2560"
+     inkscape:window-height="1419"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="1.1050805e-22"
+       y="0"
+       width="130.5878"
+       height="85.523003"
+       id="page4"
+       margin="5"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-6-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path4-0-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded-6-5-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path4-0-9-6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-76.876344,-148.77956)">
+    <text
+       xml:space="preserve"
+       style="font-size:7.58638px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.632197"
+       x="81.657791"
+       y="159.53603"
+       id="text1-1"><tspan
+         sodipodi:role="line"
+         id="tspan1-8"
+         style="stroke-width:0.632197"
+         x="81.657791"
+         y="159.53603">x(t)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.58638px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.632197"
+       x="189.73251"
+       y="199.4782"
+       id="text1-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan1-5-9"
+         style="stroke-width:0.632197"
+         x="189.73251"
+         y="199.4782">y(t)</tspan></text>
+    <g
+       id="g1"
+       transform="translate(2.5874447,62.775917)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect1-2"
+         width="30.81679"
+         height="15.979076"
+         x="97.871841"
+         y="108.42944" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.3732px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.0311"
+         x="108.27477"
+         y="120.92904"
+         id="text2-0"><tspan
+           sodipodi:role="line"
+           id="tspan2-2"
+           style="fill:#000000;stroke-width:1.0311"
+           x="108.27477"
+           y="120.92904">D</tspan></text>
+    </g>
+    <g
+       id="g1-7"
+       transform="translate(2.5874447,98.586172)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect1-2-8"
+         width="30.81679"
+         height="15.979076"
+         x="97.871841"
+         y="108.42944" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.3732px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.0311"
+         x="108.27477"
+         y="120.92904"
+         id="text2-0-4"><tspan
+           sodipodi:role="line"
+           id="tspan2-2-5"
+           style="fill:#000000;stroke-width:1.0311"
+           x="108.27477"
+           y="120.92904">D</tspan></text>
+    </g>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle7"
+       cx="143.76187"
+       cy="197.10004"
+       r="6.1034303" />
+    <path
+       d="m 144.15256,194.11418 v 2.59054 h 2.59054 v 0.79065 h -2.59054 v 2.59054 h -0.78135 v -2.59054 h -2.59054 v -0.79065 h 2.59054 v -2.59054 z"
+       id="text5"
+       style="font-size:9.525px;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+       aria-label="+" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWideRounded-6-5)"
+       d="m 149.86532,197.10004 h 9.38214"
+       id="path8-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWideRounded-6-5-0)"
+       d="m 178.80653,197.10004 h 9.38214"
+       id="path8-8-5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWideRounded-6-5)"
+       d="m 95.82,157.05291 h 20.04768 v 12.86842"
+       id="path1"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ArrowWideRounded-6-5)"
+       d="m 115.86768,187.18444 v 18.57014"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWideRounded-6-5)"
+       d="m 115.86768,157.05291 h 27.6927 v 31.88879"
+       id="path3"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWideRounded-6-5)"
+       d="m 115.86768,197.10003 h 19.97486"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;marker-end:url(#ArrowWideRounded-6-5)"
+       d="m 115.86768,222.9947 v 6.05787 h 27.70704 v -24.58256"
+       id="path5"
+       sodipodi:nodetypes="cccc" />
+    <g
+       id="g6"
+       transform="translate(-0.21400549)">
+      <text
+         xml:space="preserve"
+         style="font-size:7.24708px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.603923"
+         x="161.51494"
+         y="136.67731"
+         id="text2-0-0"
+         transform="translate(2.5874436,62.775917)"><tspan
+           sodipodi:role="line"
+           id="tspan2-2-6"
+           style="fill:#000000;stroke-width:0.603923"
+           x="161.51494"
+           y="136.67731">1/3</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="rect5"
+         width="17.957163"
+         height="14.822856"
+         x="161.06337"
+         y="189.68861" />
+    </g>
+  </g>
+</svg>

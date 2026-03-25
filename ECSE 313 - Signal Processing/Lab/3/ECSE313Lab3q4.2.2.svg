@@ -1,0 +1,86 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="1000.0" height="519.230817356">
+  <desc>Created by CircuitLab https://www.circuitlab.com/</desc><g transform="matrix(1.4245014245,0,0,1.4245014245,-2794.15954416,-2019.58689439)">
+    <path style="stroke-linecap: round; stroke-miterlimit: 6;" fill="#ffffff" stroke="#000000" d="M74.75,50L18.5,18.75L18.5,81.25002L74.75,50Z" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="translate(2250,1525)"/>
+    <path style="stroke-linecap: round; stroke-miterlimit: 6;" fill="none" stroke="#000000" d="M0,50L18.5,50" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="translate(2250,1525)"/>
+    <path style="stroke-linecap: round; stroke-miterlimit: 6;" fill="none" stroke="#000000" d="M100,50L74.660719,50" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="translate(2250,1525)"/>
+    <text style="font-family: Arial; font-size: 16px; font-weight: bold; text-anchor: start;" x="0" y="0" text-anchor="start" stroke="none" fill="#000000" transform="translate(2272.5,1575)">
+      <tspan dy="7.2">0.24</tspan>
+    </text>
+    <rect x="2112.5" y="1537.5" width="75" height="75" r="0" rx="0" ry="0" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <text fill="#000000" x="2150" y="1551" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;"/>
+    <text fill="#000000" x="2150" y="1575" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;">1/z</text>
+    <text fill="#000000" x="2150" y="1599" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;"/>
+    <path fill="none" stroke="#000000" d="M2200,1575L2187.5,1575" stroke-width="2"/>
+    <text fill="#000000" x="2180" y="1579" text-anchor="end" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <text fill="#000000" x="2195" y="1572" text-anchor="middle" style="font-family: Arial; font-size: 12px;"/>
+    <path fill="none" stroke="#000000" d="M2100,1575L2112.5,1575" stroke-width="2"/>
+    <text fill="#000000" x="2120" y="1579" text-anchor="start" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <text fill="#000000" x="2105" y="1572" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <rect x="2112.5" y="1637.5" width="75" height="75" r="0" rx="0" ry="0" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <text fill="#000000" x="2150" y="1651" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;"/>
+    <text fill="#000000" x="2150" y="1675" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;">1/z</text>
+    <text fill="#000000" x="2150" y="1699" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;"/>
+    <path fill="none" stroke="#000000" d="M2200,1675L2187.5,1675" stroke-width="2"/>
+    <text fill="#000000" x="2180" y="1679" text-anchor="end" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <text fill="#000000" x="2195" y="1672" text-anchor="middle" style="font-family: Arial; font-size: 12px;"/>
+    <path fill="none" stroke="#000000" d="M2100,1675L2112.5,1675" stroke-width="2"/>
+    <text fill="#000000" x="2120" y="1679" text-anchor="start" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <text fill="#000000" x="2105" y="1672" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <path style="stroke-linecap: round;" fill="none" stroke="#000000" d="M 2050 1450 L 2050 1575" stroke-width="2" stroke-linecap="round" class="cl_wire"/>
+    <rect x="1962.5" y="1537.5" width="75" height="75" r="0" rx="0" ry="0" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <text fill="#000000" x="2000" y="1551" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;"/>
+    <text fill="#000000" x="2000" y="1575" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;">x(n)</text>
+    <text fill="#000000" x="2000" y="1599" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;"/>
+    <path fill="none" stroke="#000000" d="M2050,1575L2037.5,1575" stroke-width="2"/>
+    <text fill="#000000" x="2030" y="1579" text-anchor="end" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <text fill="#000000" x="2045" y="1572" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <path style="stroke-linecap: round; stroke-linejoin: round;" fill="#000000" stroke="#000000" d="M2050,1575L2100,1575L2084.338456320235,1569.2996642779055L2084.338456320235,1580.7003357220945L2100,1575" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path style="stroke-linecap: round; stroke-miterlimit: 6;" fill="#ffffff" stroke="#000000" d="M74.75,50L18.5,18.75L18.5,81.25002L74.75,50Z" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="translate(2250,1400)"/>
+    <path style="stroke-linecap: round; stroke-miterlimit: 6;" fill="none" stroke="#000000" d="M0,50L18.5,50" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="translate(2250,1400)"/>
+    <path style="stroke-linecap: round; stroke-miterlimit: 6;" fill="none" stroke="#000000" d="M100,50L74.660719,50" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="translate(2250,1400)"/>
+    <text style="font-family: Arial; font-size: 16px; font-weight: bold; text-anchor: start;" x="0" y="0" text-anchor="start" stroke="none" fill="#000000" transform="translate(2272.5,1450)">
+      <tspan dy="7.2">0.3</tspan>
+    </text>
+    <rect x="2387.5" y="1487.5" width="125" height="175" r="0" rx="0" ry="0" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <text fill="#000000" x="2450" y="1551" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;"/>
+    <text fill="#000000" x="2450" y="1575" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;"/>
+    <text fill="#000000" x="2450" y="1599" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;"/>
+    <path fill="none" stroke="#000000" d="M2375,1525L2387.5,1525" stroke-width="2"/>
+    <text fill="#000000" x="2395" y="1529" text-anchor="start" text-decoration="none" style="font-family: Arial; font-size: 12px;">+</text>
+    <text fill="#000000" x="2380" y="1522" text-anchor="middle" style="font-family: Arial; font-size: 12px;"/>
+    <path fill="none" stroke="#000000" d="M2375,1575L2387.5,1575" stroke-width="2"/>
+    <text fill="#000000" x="2395" y="1579" text-anchor="start" text-decoration="none" style="font-family: Arial; font-size: 12px;">+</text>
+    <text fill="#000000" x="2380" y="1572" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <path fill="none" stroke="#000000" d="M2375,1625L2387.5,1625" stroke-width="2"/>
+    <text fill="#000000" x="2395" y="1629" text-anchor="start" text-decoration="none" style="font-family: Arial; font-size: 12px;">+</text>
+    <text fill="#000000" x="2380" y="1622" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <path fill="none" stroke="#000000" d="M2525,1575L2512.5,1575" stroke-width="2"/>
+    <text fill="#000000" x="2505" y="1579" text-anchor="end" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <text fill="#000000" x="2520" y="1572" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <path style="stroke-linecap: round; stroke-linejoin: round;" fill="#000000" stroke="#000000" d="M2350,1450L2375,1525L2375.6827974839066,1500.0093259875614L2359.4593576054117,1505.4171392803933L2375,1525" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path style="stroke-linecap: round; stroke-miterlimit: 6;" fill="#ffffff" stroke="#000000" d="M74.75,50L18.5,18.75L18.5,81.25002L74.75,50Z" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="matrix(-1,0,0,1,2350,1700)"/>
+    <path style="stroke-linecap: round; stroke-miterlimit: 6;" fill="none" stroke="#000000" d="M0,50L18.5,50" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="matrix(-1,0,0,1,2350,1700)"/>
+    <path style="stroke-linecap: round; stroke-miterlimit: 6;" fill="none" stroke="#000000" d="M100,50L74.660719,50" stroke-width="2" stroke-linecap="round" stroke-miterlimit="6" transform="matrix(-1,0,0,1,2350,1700)"/>
+    <text style="font-family: Arial; font-size: 16px; font-weight: bold; text-anchor: end;" x="0" y="0" text-anchor="end" stroke="none" fill="#000000" transform="translate(2327.5,1750)">
+      <tspan dy="7.2">0.9</tspan>
+    </text>
+    <path style="stroke-linecap: round; stroke-linejoin: round;" fill="#000000" stroke="#000000" d="M2525,1750L2350,1750L2373.4923155196475,1758.5505035831418L2373.4923155196475,1741.4494964168582L2350,1750" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path style="stroke-linecap: round;" fill="none" stroke="#000000" d="M 2000 1750 L 2250 1750" stroke-width="2" stroke-linecap="round" class="cl_wire"/>
+    <path style="stroke-linecap: round;" fill="none" stroke="#000000" d="M 2000 1675 L 2000 1750" stroke-width="2" stroke-linecap="round" class="cl_wire"/>
+    <path style="stroke-linecap: round; stroke-linejoin: round;" fill="#000000" stroke="#000000" d="M2000,1675L2100,1675L2076.5076844803525,1666.4494964168582L2076.5076844803525,1683.5505035831418L2100,1675" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path style="stroke-linecap: round;" fill="none" stroke="#000000" d="M 2200 1675 L 2225 1675" stroke-width="2" stroke-linecap="round" class="cl_wire"/>
+    <rect x="2587.5" y="1537.5" width="75" height="75" r="0" rx="0" ry="0" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <text fill="#000000" x="2625" y="1551" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;"/>
+    <text fill="#000000" x="2625" y="1575" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;">y(n)</text>
+    <text fill="#000000" x="2625" y="1599" text-anchor="middle" text-decoration="none" style="font-family: Arial; font-size: 16px; font-weight: bold;"/>
+    <path fill="none" stroke="#000000" d="M2575,1575L2587.5,1575" stroke-width="2"/>
+    <text fill="#000000" x="2595" y="1579" text-anchor="start" text-decoration="none" style="font-family: Arial; font-size: 12px;"/>
+    <text fill="#000000" x="2580" y="1572" text-anchor="middle" style="font-family: Arial; font-size: 12px;"/>
+    <path style="stroke-linecap: round;" fill="none" stroke="#000000" d="M 2050 1450 L 2250 1450" stroke-width="2" stroke-linecap="round" class="cl_wire"/>
+    <path style="stroke-linecap: round;" fill="none" stroke="#000000" d="M 2525 1575 L 2525 1750" stroke-width="2" stroke-linecap="round" class="cl_wire"/>
+    <path style="stroke-linecap: round; stroke-linejoin: round;" fill="#000000" stroke="#000000" d="M2200,1575L2250,1575L2234.338456320235,1569.2996642779055L2234.338456320235,1580.7003357220945L2250,1575" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path style="stroke-linecap: round; stroke-linejoin: round;" fill="#000000" stroke="#000000" d="M2325,1575L2375,1575L2359.338456320235,1569.2996642779055L2359.338456320235,1580.7003357220945L2375,1575" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path style="stroke-linecap: round; stroke-linejoin: round;" fill="#000000" stroke="#000000" d="M2225,1675L2375,1625L2350.0093259875616,1624.3172025160932L2355.4171392803933,1640.5406423945885L2375,1625" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path style="stroke-linecap: round; stroke-linejoin: round;" fill="#000000" stroke="#000000" d="M2525,1575L2575,1575L2559.338456320235,1569.2996642779055L2559.338456320235,1580.7003357220945L2575,1575" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
