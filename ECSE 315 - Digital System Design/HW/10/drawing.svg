@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="67.817879mm"
+   height="28.103203mm"
+   viewBox="0 0 67.817879 28.103203"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.0269047"
+     inkscape:cx="100.82185"
+     inkscape:cy="41.471058"
+     inkscape:window-width="2560"
+     inkscape:window-height="1600"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-26.001834,-85.872312)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       x="36.701355"
+       y="93.511566"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.264583"
+         x="36.701355"
+         y="93.511566">A 000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       x="61.695957"
+       y="93.365234"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.264583"
+         x="61.695957"
+         y="93.365234">B 011</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       x="35.742916"
+       y="113.93056"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.264583"
+         x="35.742916"
+         y="113.93056">C 101</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       x="62.221588"
+       y="112.81359"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.264583"
+         x="62.221588"
+         y="112.81359">D 110</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       x="84.955139"
+       y="92.051163"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="stroke-width:0.264583"
+         x="84.955139"
+         y="92.051163">E 010</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       x="25.690226"
+       y="103.15514"
+       id="text6"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="25.690226"
+         y="103.15514"
+         id="tspan7">F 001</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       x="55.992203"
+       y="101.95203"
+       id="text6-3"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="55.992203"
+         y="101.95203"
+         id="tspan7-5">010</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       x="47.499092"
+       y="106.27023"
+       id="text6-3-2"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="47.499092"
+         y="106.27023"
+         id="tspan7-5-7">100</tspan></text>
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       d="M 42.970349,95.664873 42.773237,108.80565"
+       id="path8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 62.418703,92.576792 46.058431,92.773901"
+       id="path14" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 45.992727,112.61648 15.111896,-0.59134"
+       id="path15" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 66.623752,110.05403 83.838173,92.905309"
+       id="path17" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 81.669945,91.656936 68.463461,92.116864"
+       id="path18" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 84.035285,88.503148 65.243968,86.006402 44.218722,90.342859"
+       id="path19" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 33.706099,103.81216 6.833205,6.57039"
+       id="path20" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="M 33.968914,100.52696 41.13064,94.74502"
+       id="path21" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 35.217287,101.44682 27.26712,-6.898912"
+       id="path22" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 45.072874,95.402057 8.804322,4.402162"
+       id="path23" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 65.112561,94.810722 -2.365338,3.3509"
+       id="path24" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 60.776103,104.20638 3.482308,5.25631"
+       id="path25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 43.495981,109.98832 5.716238,-3.21949"
+       id="path26" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 53.61438,105.98038 7.358835,4.40217"
+       id="path27" />
+  </g>
+</svg>

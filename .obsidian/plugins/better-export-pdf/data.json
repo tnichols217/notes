@@ -4,7 +4,7 @@
   "displayHeader": true,
   "displayFooter": true,
   "headerTemplate": "<div></div>\n",
-  "footerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:left;margin-left:1in;\">Trevor Nichols and Cooper West</div>\n<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div>\n<div style=\"width: 100vw;font-size:10px;text-align:right;margin-right:1in;\"><span class=\"title\"></span></div>",
+  "footerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:left;margin-left:1in;\">Trevor Nichols</div>\n<div style=\"width: 100vw;font-size:10px;text-align:center;\"><span class=\"pageNumber\"></span> / <span class=\"totalPages\"></span></div>\n<div style=\"width: 100vw;font-size:10px;text-align:right;margin-right:1in;\"><span class=\"title\"></span></div>",
   "printBackground": false,
   "generateTaggedPDF": true,
   "displayMetadata": true,
@@ -13,11 +13,11 @@
   "enabledCss": false,
   "concurrency": "5",
   "prevConfig": {
-    "pageSize": "Custom",
+    "pageSize": "A4",
     "marginType": "2",
     "showTitle": false,
     "open": false,
-    "scale": 100,
+    "scale": 67,
     "landscape": false,
     "marginTop": "24",
     "marginBottom": "24",
@@ -27,6 +27,6 @@
     "displayFooter": true,
     "cssSnippet": "0",
     "pageWidth": "210",
-    "pageHeight": "5400"
+    "pageHeight": "4150"
   }
 }

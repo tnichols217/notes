@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gigasoft SVG Chart Library v7.2 -->
+
+<svg
+   width="1816"
+   height="608"
+   viewBox="0 0 1816 608"
+   version="1.1"
+   id="svg167"
+   sodipodi:docname="q1plot.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs167" />
+  <sodipodi:namedview
+     id="namedview167"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.99421048"
+     inkscape:cx="773.98098"
+     inkscape:cy="167.46957"
+     inkscape:window-width="2560"
+     inkscape:window-height="1419"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1592" />
+  <style
+     type="text/css"
+     id="style4"><![CDATA[.style1 { fill:none; stroke-width:1;}]]></style>
+  <g
+     id="g1590">
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="1779"
+       y1="544"
+       x2="102"
+       y2="544"
+       id="line4" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="544"
+       x2="102"
+       y2="544"
+       id="line5" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="528"
+       x2="112"
+       y2="528"
+       id="line6" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="512"
+       x2="112"
+       y2="512"
+       id="line7" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="497"
+       x2="112"
+       y2="497"
+       id="line8" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="481"
+       x2="112"
+       y2="481"
+       id="line9" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="1779"
+       y1="466"
+       x2="102"
+       y2="466"
+       id="line10" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="466"
+       x2="102"
+       y2="466"
+       id="line11" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="450"
+       x2="112"
+       y2="450"
+       id="line12" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="434"
+       x2="112"
+       y2="434"
+       id="line13" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="419"
+       x2="112"
+       y2="419"
+       id="line14" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="403"
+       x2="112"
+       y2="403"
+       id="line15" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="1779"
+       y1="388"
+       x2="102"
+       y2="388"
+       id="line16" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="388"
+       x2="102"
+       y2="388"
+       id="line17" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="372"
+       x2="112"
+       y2="372"
+       id="line18" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="356"
+       x2="112"
+       y2="356"
+       id="line19" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="341"
+       x2="112"
+       y2="341"
+       id="line20" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="325"
+       x2="112"
+       y2="325"
+       id="line21" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="1779"
+       y1="310"
+       x2="102"
+       y2="310"
+       id="line22" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="310"
+       x2="102"
+       y2="310"
+       id="line23" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="294"
+       x2="112"
+       y2="294"
+       id="line24" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="279"
+       x2="112"
+       y2="279"
+       id="line25" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="263"
+       x2="112"
+       y2="263"
+       id="line26" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="247"
+       x2="112"
+       y2="247"
+       id="line27" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="1779"
+       y1="232"
+       x2="102"
+       y2="232"
+       id="line28" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="232"
+       x2="102"
+       y2="232"
+       id="line29" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="216"
+       x2="112"
+       y2="216"
+       id="line30" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="201"
+       x2="112"
+       y2="201"
+       id="line31" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="185"
+       x2="112"
+       y2="185"
+       id="line32" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="169"
+       x2="112"
+       y2="169"
+       id="line33" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="1779"
+       y1="154"
+       x2="102"
+       y2="154"
+       id="line34" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="154"
+       x2="102"
+       y2="154"
+       id="line35" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="138"
+       x2="112"
+       y2="138"
+       id="line36" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="123"
+       x2="112"
+       y2="123"
+       id="line37" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="107"
+       x2="112"
+       y2="107"
+       id="line38" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="91"
+       x2="112"
+       y2="91"
+       id="line39" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="1779"
+       y1="76"
+       x2="102"
+       y2="76"
+       id="line40" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="76"
+       x2="102"
+       y2="76"
+       id="line41" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="102"
+       y1="70"
+       x2="102"
+       y2="547"
+       id="line42" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="102"
+       y1="547"
+       x2="102"
+       y2="547"
+       id="line43" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="157"
+       y1="547"
+       x2="157"
+       y2="535"
+       id="line44" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="213"
+       y1="547"
+       x2="213"
+       y2="535"
+       id="line45" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="269"
+       y1="547"
+       x2="269"
+       y2="535"
+       id="line46" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="325"
+       y1="547"
+       x2="325"
+       y2="535"
+       id="line47" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="381"
+       y1="70"
+       x2="381"
+       y2="547"
+       id="line48" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="381"
+       y1="547"
+       x2="381"
+       y2="547"
+       id="line49" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="437"
+       y1="547"
+       x2="437"
+       y2="535"
+       id="line50" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="493"
+       y1="547"
+       x2="493"
+       y2="535"
+       id="line51" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="549"
+       y1="547"
+       x2="549"
+       y2="535"
+       id="line52" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="605"
+       y1="547"
+       x2="605"
+       y2="535"
+       id="line53" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="661"
+       y1="70"
+       x2="661"
+       y2="547"
+       id="line54" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="661"
+       y1="547"
+       x2="661"
+       y2="547"
+       id="line55" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="716"
+       y1="547"
+       x2="716"
+       y2="535"
+       id="line56" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="772"
+       y1="547"
+       x2="772"
+       y2="535"
+       id="line57" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="828"
+       y1="547"
+       x2="828"
+       y2="535"
+       id="line58" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="884"
+       y1="547"
+       x2="884"
+       y2="535"
+       id="line59" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="940"
+       y1="70"
+       x2="940"
+       y2="547"
+       id="line60" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="940"
+       y1="547"
+       x2="940"
+       y2="547"
+       id="line61" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="996"
+       y1="547"
+       x2="996"
+       y2="535"
+       id="line62" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1052"
+       y1="547"
+       x2="1052"
+       y2="535"
+       id="line63" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1108"
+       y1="547"
+       x2="1108"
+       y2="535"
+       id="line64" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1164"
+       y1="547"
+       x2="1164"
+       y2="535"
+       id="line65" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="1220"
+       y1="70"
+       x2="1220"
+       y2="547"
+       id="line66" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1220"
+       y1="547"
+       x2="1220"
+       y2="547"
+       id="line67" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1275"
+       y1="547"
+       x2="1275"
+       y2="535"
+       id="line68" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1331"
+       y1="547"
+       x2="1331"
+       y2="535"
+       id="line69" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1387"
+       y1="547"
+       x2="1387"
+       y2="535"
+       id="line70" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1443"
+       y1="547"
+       x2="1443"
+       y2="535"
+       id="line71" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="1499"
+       y1="70"
+       x2="1499"
+       y2="547"
+       id="line72" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1499"
+       y1="547"
+       x2="1499"
+       y2="547"
+       id="line73" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1555"
+       y1="547"
+       x2="1555"
+       y2="535"
+       id="line74" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1611"
+       y1="547"
+       x2="1611"
+       y2="535"
+       id="line75" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1667"
+       y1="547"
+       x2="1667"
+       y2="535"
+       id="line76" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1723"
+       y1="547"
+       x2="1723"
+       y2="535"
+       id="line77" />
+    <line
+       stroke="#292929"
+       class="style1"
+       x1="1779"
+       y1="70"
+       x2="1779"
+       y2="547"
+       id="line78" />
+    <line
+       stroke="#808080"
+       class="style1"
+       x1="1779"
+       y1="547"
+       x2="1779"
+       y2="547"
+       id="line79" />
+  </g>
+  <clipPath
+     id="clipRect5">
+    <rect
+       x="102"
+       y="70"
+       width="1677"
+       height="479"
+       id="rect79" />
+  </clipPath>
+  <g
+     id="g1591">
+    <path
+       id="line80"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 102,465 h 55" />
+    <path
+       id="line81"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 157,465 h 56" />
+    <path
+       id="line82"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 213,465 56,-1" />
+    <path
+       id="line83"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 269,464 h 56" />
+    <path
+       id="line84"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="M 325,464 381,309" />
+    <path
+       id="line85"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 381,309 h 56" />
+    <path
+       id="line86"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 437,309 h 56" />
+    <path
+       id="line87"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 493,309 h 56" />
+    <path
+       id="line88"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 549,309 h 56" />
+    <path
+       id="line89"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 605,309 h 56" />
+    <path
+       id="line90"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 661,309 h 55" />
+    <path
+       id="line91"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 716,309 h 56" />
+    <path
+       id="line92"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 772,309 h 56" />
+    <path
+       id="line93"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 828,309 h 56" />
+    <path
+       id="line94"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 884,309 h 56" />
+    <path
+       id="line95"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 940,309 h 56" />
+    <path
+       id="line96"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 996,309 h 56" />
+    <path
+       id="line97"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1052,309 h 56" />
+    <path
+       id="line98"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1108,309 h 56" />
+    <path
+       id="line99"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1164,309 h 56" />
+    <path
+       id="line100"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1220,309 h 55" />
+    <path
+       id="line101"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1275,309 h 56" />
+    <path
+       id="line102"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1331,309 h 56" />
+    <path
+       id="line103"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1387,309 h 56" />
+    <path
+       id="line104"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1443,309 h 56" />
+    <path
+       id="line105"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1499,309 h 56" />
+    <path
+       id="line106"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1555,309 h 56" />
+    <path
+       id="line107"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1611,309 h 56" />
+    <path
+       id="line108"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1667,309 h 56" />
+    <path
+       id="line109"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       style="fill:none;stroke:#ff2323;stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round"
+       d="m 1723,309 h 56" />
+  </g>
+  <g
+     id="g1592">
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="102"
+       y1="152"
+       x2="157"
+       y2="152"
+       id="line110"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="157"
+       y1="152"
+       x2="213"
+       y2="152"
+       id="line111"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="213"
+       y1="152"
+       x2="269"
+       y2="152"
+       id="line112"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="269"
+       y1="152"
+       x2="325"
+       y2="152"
+       id="line113"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="325"
+       y1="152"
+       x2="381"
+       y2="152"
+       id="line114"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="381"
+       y1="152"
+       x2="437"
+       y2="152"
+       id="line115"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="437"
+       y1="152"
+       x2="493"
+       y2="152"
+       id="line116"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="493"
+       y1="152"
+       x2="549"
+       y2="152"
+       id="line117"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="549"
+       y1="152"
+       x2="605"
+       y2="152"
+       id="line118"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="605"
+       y1="152"
+       x2="661"
+       y2="152"
+       id="line119"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="661"
+       y1="152"
+       x2="716"
+       y2="152"
+       id="line120"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="716"
+       y1="152"
+       x2="772"
+       y2="152"
+       id="line121"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="772"
+       y1="152"
+       x2="828"
+       y2="152"
+       id="line122"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="828"
+       y1="152"
+       x2="884"
+       y2="152"
+       id="line123"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="884"
+       y1="152"
+       x2="940"
+       y2="152"
+       id="line124"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="940"
+       y1="152"
+       x2="996"
+       y2="152"
+       id="line125"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="996"
+       y1="152"
+       x2="1052"
+       y2="152"
+       id="line126"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="1052"
+       y1="152"
+       x2="1108"
+       y2="152"
+       id="line127"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="1108"
+       y1="152"
+       x2="1164"
+       y2="152"
+       id="line128"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+    <line
+       stroke="#00ff65"
+       clip-path="url(#clipRect5)"
+       class="style1"
+       x1="1164"
+       y1="152"
+       x2="1220"
+       y2="151"
+       id="line129"
+       style="stroke-width:5;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round" />
+  </g>
+  <clipPath
+     id="clipRect6">
+    <rect
+       x="0"
+       y="0"
+       width="1816"
+       height="608"
+       id="rect129" />
+  </clipPath>
+  <polygon
+     fill="none"
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     stroke-linejoin="round"
+     points=" 102,70 1779,70 1779,547 102,547 "
+     id="polygon133" />
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="544"
+     x2="92"
+     y2="544"
+     id="line133" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="544"
+     x2="92"
+     y2="544"
+     id="line134" />
+  <text
+     fill="#ffffff"
+     transform="translate(90, 551) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="end"
+     id="text134"
+     style="fill:#000000"> 5.00n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="466"
+     x2="92"
+     y2="466"
+     id="line135" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="466"
+     x2="92"
+     y2="466"
+     id="line136" />
+  <text
+     fill="#ffffff"
+     transform="translate(90, 473) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="end"
+     id="text136"
+     style="fill:#000000"> 10.00n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="388"
+     x2="92"
+     y2="388"
+     id="line137" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="388"
+     x2="92"
+     y2="388"
+     id="line138" />
+  <text
+     fill="#ffffff"
+     transform="translate(90, 395) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="end"
+     id="text138"
+     style="fill:#000000"> 15.00n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="310"
+     x2="92"
+     y2="310"
+     id="line139" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="310"
+     x2="92"
+     y2="310"
+     id="line140" />
+  <text
+     fill="#ffffff"
+     transform="translate(90, 317) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="end"
+     id="text140"
+     style="fill:#000000"> 20.00n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="232"
+     x2="92"
+     y2="232"
+     id="line141" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="232"
+     x2="92"
+     y2="232"
+     id="line142" />
+  <text
+     fill="#ffffff"
+     transform="translate(90, 239) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="end"
+     id="text142"
+     style="fill:#000000"> 25.00n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="154"
+     x2="92"
+     y2="154"
+     id="line143" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="154"
+     x2="92"
+     y2="154"
+     id="line144" />
+  <text
+     fill="#ffffff"
+     transform="translate(90, 161) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="end"
+     id="text144"
+     style="fill:#000000"> 30.00n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="76"
+     x2="92"
+     y2="76"
+     id="line145" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="76"
+     x2="92"
+     y2="76"
+     id="line146" />
+  <text
+     fill="#ffffff"
+     transform="translate(90, 83) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="end"
+     id="text146"
+     style="fill:#000000"> 35.00n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="547"
+     x2="102"
+     y2="561"
+     id="line147" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="102"
+     y1="547"
+     x2="102"
+     y2="561"
+     id="line148" />
+  <text
+     fill="#ffffff"
+     transform="translate(102, 579) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="middle"
+     id="text148"
+     style="fill:#000000"> -10.30n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="381"
+     y1="547"
+     x2="381"
+     y2="561"
+     id="line149" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="381"
+     y1="547"
+     x2="381"
+     y2="561"
+     id="line150" />
+  <text
+     fill="#ffffff"
+     transform="translate(381, 579) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="middle"
+     id="text150"
+     style="fill:#000000"> -10.25n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="661"
+     y1="547"
+     x2="661"
+     y2="561"
+     id="line151" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="661"
+     y1="547"
+     x2="661"
+     y2="561"
+     id="line152" />
+  <text
+     fill="#ffffff"
+     transform="translate(661, 579) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="middle"
+     id="text152"
+     style="fill:#000000"> -10.20n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="940"
+     y1="547"
+     x2="940"
+     y2="561"
+     id="line153" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="940"
+     y1="547"
+     x2="940"
+     y2="561"
+     id="line154" />
+  <text
+     fill="#ffffff"
+     transform="translate(940, 579) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="middle"
+     id="text154"
+     style="fill:#000000"> -10.15n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="1220"
+     y1="547"
+     x2="1220"
+     y2="561"
+     id="line155" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="1220"
+     y1="547"
+     x2="1220"
+     y2="561"
+     id="line156" />
+  <text
+     fill="#ffffff"
+     transform="translate(1220, 579) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="middle"
+     id="text156"
+     style="fill:#000000"> -10.10n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="1499"
+     y1="547"
+     x2="1499"
+     y2="561"
+     id="line157" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="1499"
+     y1="547"
+     x2="1499"
+     y2="561"
+     id="line158" />
+  <text
+     fill="#ffffff"
+     transform="translate(1499, 579) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="middle"
+     id="text158"
+     style="fill:#000000"> -10.05n</text>
+  <line
+     stroke="#292929"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="1779"
+     y1="547"
+     x2="1779"
+     y2="561"
+     id="line159" />
+  <line
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     class="style1"
+     x1="1779"
+     y1="547"
+     x2="1779"
+     y2="561"
+     id="line160" />
+  <text
+     fill="#ffffff"
+     transform="translate(1779, 579) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="middle"
+     id="text160"
+     style="fill:#000000"> -10.00n</text>
+  <text
+     fill="#ffffff"
+     transform="translate(0, 30) rotate(0)"
+     font-family="Arial"
+     font-size="30"
+     text-anchor="start"
+     id="text161"
+     style="fill:#000000"> Tanner T-Spice 2022.2</text>
+  <text
+     fill="#ffffff"
+     transform="translate(16, 308) rotate(-90)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="start"
+     id="text164" />
+  <text
+     fill="#ffffff"
+     transform="translate(940, 603) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="middle"
+     id="text165"
+     style="fill:#000000"> d_delay</text>
+  <polygon
+     fill="none"
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     stroke-linejoin="round"
+     points=" 102,70 1779,70 1779,547 102,547 "
+     id="polygon165" />
+  <rect
+     fill="#ff2323"
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     x="102"
+     y="49"
+     width="64"
+     height="6"
+     id="rect165" />
+  <text
+     fill="#ffffff"
+     transform="translate(176, 59) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="start"
+     id="text166"
+     style="fill:#000000"> Qdown</text>
+  <rect
+     fill="#00ff65"
+     stroke="#808080"
+     clip-path="url(#clipRect6)"
+     x="262"
+     y="49"
+     width="64"
+     height="6"
+     id="rect166" />
+  <text
+     fill="#ffffff"
+     transform="translate(336, 59) rotate(0)"
+     font-family="Arial"
+     font-size="19"
+     text-anchor="start"
+     id="text167"
+     style="fill:#000000"> Qup</text>
+</svg>
